@@ -1,0 +1,99 @@
+{
+ "eli": "DU/1919/299",
+ "title": "Rozporządzenie o legalnych jednostkach miar.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/299/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE o legalnych jednostkach miar."
+  },
+  {
+   "type": "text",
+   "text": "W wykonaniu art. 1 dekretu o miarach (Dz. Pr. Ne 15 poz. 211) postanawiam co następuje: t"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Legalnemi wtórnemi jednostkami długości są: mirjametr— równy dziesięciu tysiącom metrów, kilometr—równy tysiącowi metrów, decymetr — równy jednej dziesiątej metra, centymetr — równy jednej setnej metra, milimetr — równy jednej tysiącznej metra i mikron — równy jednej tysiącznej milimetra. |.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Legalnemi wtornemi jednostkami powierzchni sa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "powierzchnie zawarte w kwadratach, których boki równe są którejkolwiek z legalnych wtórnych jednostek długości. Każda z tych jednostek powierzchni nosi nazwę jednostki długości, od której pochodzi, z dodatkiem wyrazu „kwadratowy ”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "hektar równy stu arom i centar równy jednej setnej ara.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Legalnemi wtórnemi jednostkami objętości sa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "objętości zawarte w sześcianach, których krawędzie równe są jednej z legalnych wtórnych jednostek długości. Każda z tych jednostek objętości nosi nezwę jednostki długości, od której pochodzi, z dodatkiem wyrazu „sześcienny”. lub „kubiczny”:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "kilolitr—równy tysiącowi litrów. hektolitr—równy stu litrom. dekalitr — równy dziesięciu litrom, jedna czwarta litra (kwaterka), decylitr — równy jednej dziesiątej litra, mililitr — równy jednej tysiącznej litra.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Legalnemi wtórnemi jednostkami kątów są: kąt pełny czyli obrót—równy czterem kątom prostym, kat półpełny— równy dwu kątom prostym, kąt jednego stopnia, czyli stopień kątowy — równy jednej dziewięćdziesiątej kąta prostego, minuta kątowa— równa jednej sześćdziesiątej stopnia kątowego i sekunda kątowa — równa jednej sześćdziesiątej minuty kątowej. Części stopnia mogą być wyrażane również w postaci ułamków dziesiętnych stopnia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 55 Legalnemi wtórnemi jednostkami masy są: tonna—równa tysiącowi kilogramów, kwintal — równy stu kilogramom, mirjagram — równy dziesięciu kilogramom, dekagram—równy jednej setnej kilograma, gram— równy jednej tysiącznej kilograma i miligram — równy jednej miljonowej kilograma."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "W handlu kamieniami drogocennemi i perłami dozwała się używać jako legalną jednostkę wtórną masy karata równego jednej pięciotysiącznej kilograma.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Postanowienia rozporządzenia niniejszego uzyskują moc obowiązującą z dniem ogłoszenia. Warszawa, dnia 7 kwietnia 1919 r. Minister Przemysłu i Handlu: Hacia",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,70 @@
+{
+ "eli": "DU/1919/450",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych w sprawie obliczania przewoźnego za przesyłki, zatrzymane na stacjach pośrednich Małopolski i Śląska w razie zawieszenia cywilnego ruchu towarowego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/450/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "Ministra Kolei Żelaznych w sprawie obliczania przewoźnego za przesyłki, zatrzymane na stacjach pośrednich Małopolski i Śląska w razie zawieszenia cywilnego ruchu towarowego."
+  },
+  {
+   "type": "text",
+   "text": "Na czas trwania nadzwyczajnych stosunków aż do odwołania zarządzam co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Polskie Koleje Państwowe. Okręgi Dyrekcji Krakowskiej, Lwowskiej i Stanisławowskiej."
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Za przesyłki, zatrzymane wskutek zawieszenia cywilnego ruchu towarowego na stacjach pośrednich, które po podjęciu ruchu odsyła się na podstawie pierwotnego listu przewozowego do stacji przeznaczenia, liczy się przewożne nie do stacji pośredniej i od niej, lecz tak, jakgdyby przesyłka szła bez przerwy ze stacji nadawczej do stacji przeznaczenia.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Za przesyłki, odebrane na stacji pośredniej, a przed upływem dwóch miesięcy po nadejściu możliwości dalszego wyekspedjowania nadane za nowym listem przewozowym do pierwotnej stacji przeznaczenia, liczy się należytość do stacji pośredniej i od niej; w drodze reklamacji oblicza się jednak przewoźne jak pod 1",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Za przesyłki, zatrzymane na stacji pośredniej, które przed upływem dwóch miesięcy po nadejściu możliwości odesłania ich z powrotem zwraca się do stacji nadawczej, liczy się przewoźne w następujący sposób:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_3/lit_a",
+     "text": "za drogę ze stacji nadawczej do stacji pośredniej według obowiązujących taryf,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_3/lit_b",
+     "text": "za drogę powrotną ze stacji pośredniej do pierwotnej stacji nadawczej, jeżeli przesyłkę tę nadano do zwyczajnego przewozu, według specjalnej taryfy 3, o ile należność przewozu za daną przesyłkę nie oblicza się według tańszej taryfy. Takie przesyłki powrotne mają być nadane pod adresem pierwotnego nadawcy zatrzymanej przesyłki za listem przewozowym, w którym wysyłający ma pisemnie zażądać zastosowania przyznanej ulgi taryfowej. Przy nadaniu należy równocześnie okazać list przewozowy, za którym przesyłka była wysłaną z pierwotnej stacji nadawczej. Częściowe odsyłanie przesyłki z powrotem jest niedopuszczalne. Jeżeli nadawca nie przepisał w liście przewozowym zastosowania ulgi taryfowej, przyznanej w ust. 2 i 3, może zażądać zastosowania jej i wyrównania różnicy w drodze reklamacji. Żądanie takie o zwrot nadwyżki przewoźnego ma wystosować nadawca pierwotnej przesyłki w ciągu roku po zapłaceniu przewoźnego, przedkładając równocześnie list przewozowy, albo dowód zapłacenia należytości (frankatura) do tej Dyrekcji, w której okręgu leży stacja pośrednia, gdzie przesyłkę zatrzymano. Taryfowej należytości za wykonanie dodatkowego zlecenia nie li-",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Kierownik Ministerstwa: J. Eberharat"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

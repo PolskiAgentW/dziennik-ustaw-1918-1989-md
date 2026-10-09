@@ -1,0 +1,41 @@
+{
+ "eli": "DU/1919/143",
+ "title": "Dekret w sprawie zmiany dekretu z dnia 30 grudnia 1918 r. o utworzeniu Państwowego Urzędu do spraw powrotu jeńców, uchodźców i robotników.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/143/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET w sprawie zmiany dekretu z dn. 30 grudnia 1918 r. o utworzeniu Państwowego Urzędu do spraw powrotu jeńców, uchodźców i robotników."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Postanowienie art. 2 p. c) dekretu z dnia 30 grudnia 1918 r. zmienia sięw ten sposób, że nadzór nad wykonaniem opieki sanitarnej podczas przeprowadzania jeńców, uchodźców i robotników przez ziemie polskie należy do Ministerstwa Zdrowia Publicznego.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Minister Zdrowia Publicznego mianuje w odpowiedniej liczbie wedle swego uznania organy wykonawcze sanitarne, które wchodzą w skład personelu Urzędu. Organy te otrzymują polecenia od Ministerstwa Zdrowia Publicznego."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu poleca się Ministerstwu Zdrowia w porozumieniu z Państwowym Urzędem do spraw powrotu jeńców uchodźców i robotników. i Dan w Warszawie, dnia 5 lutego 1919 r. Naczelnik Państwa: J. Piłsudski, Prezydent Ministrów: I. J. Paderewski Minister Zdrowia Publicznego: Janiszewski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

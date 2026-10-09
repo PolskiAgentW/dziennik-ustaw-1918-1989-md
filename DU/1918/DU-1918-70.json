@@ -1,0 +1,60 @@
+{
+ "eli": "DU/1918/70",
+ "title": "Dekret tymczasowy w sprawie utworzenia straży granicznej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1918/70/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET TYMCZASOWY"
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia straży granicznej."
+  },
+  {
+   "type": "text",
+   "text": "Z odkomenderowanych oddziałów wojskowych organizuje się przydziełoną do pełnienia specjalnych obowiązków przy Ministerstwie Aprowizacji straż graniczną. Straż graniczna tworzy się w celu:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "zabezpieczenia granic Państwa od nielegalnego wywozu artykułów spożywczych i pierwszej potrzeby;",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "kontrolowania wewnętrznego obrotu kolejowego artykułów pierwszej potrzeby; czuwania nad wykonaniem rozporządzeń aprowizacyjnych;",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "ochraniania magazynów i składów z artykułami spożywczemi i pierwszej potrzeby. Organizację straży granicznej i budżet oraz określenie stosunku do straży skarbowej i celnej określi regu amin, wydany: rozporządzeniem Ministra Spraw Wojskowych w porozumieniu z Ministrem Aprowizacji i Skarbu. Wykonanie powyższego polecam Ministrowi Spraw Wojskowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "\"Dan w Warszawie, dnia 18 grudnia 1918 r. Naczelnik Państwa: J. Piłsudski"
+    },
+    {
+     "type": "text",
+     "text": "Prezydent Ministrów: Moraczewski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Aprewizacji: Anton Minkiewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

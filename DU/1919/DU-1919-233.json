@@ -1,0 +1,63 @@
+{
+ "eli": "DU/1919/233",
+ "title": "Zarządzenie Ministra Sprawiedliwości w sprawie utworzenia trzeciego sądu pokoju w Częstochowie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/233/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ZARZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI w sprawie utworzenia trzeciego sądu pokoju w Częstochowie. Na mocy artykułu 3-go dekretu z dnia 7 lutego r. 1919 w przedmiocie zac sądów (Dziennik Praw Ne 14 poz. 170) oraz zgodnie z budżetem Ministerstwa Sprawiedliwości zarządzam co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "W Częstochowie utworzony zostaje z dniem 15 marca roku 1919-go trzeci sąd pokoju.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Terytorjum obecnych dwóch sądów pokoju podzielone zostaje pomiędzy trzy sądy w sposób następujący:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "właściwość sądu pokoju okręgu 1-go m. Częstochowy rozciąga się na terytorjum, położone na północ od linji: szosa Wieluńska, Rynek Wieluński, Aleja Sienkiewicza, ul. Najświętszej Panny Marii, Nowy Rynek, ulica Prosta, droga na Zawodzie-i droga do Mirowa;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "do właściwości sądu pokoju okręgu ll-go m. Częstochowy należy terytorjum, położone na południe od linji: ulica Najświętszej Panny Marji począwszy od skrzyżowania z ulicą Kościuszki, Nowy Rynek, ulica Prosta, droga na Żawodzie i droga do Mirowa i na wschód od linji: ulica Kościuszki, ulica Stradomska i droga do Stradomia aż do przecięcia z torem drogi żelaznej Herby — Kielce;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "do właściwości sądu pokoju okręgu Ill-go m. Częstochowy należy pozostała (południowo-zachodnia) część miasta oiaz gmina Grabówka i ta sama, co dotychczas, część gminy Rędziny. Warszawa, dnia 1 marca 1919 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Sprawiedliwości: Supiński"
+      },
+      {
+       "type": "text",
+       "text": "Tłoczono w Drukarni Państwowej 4371 z polecenia Ministra Sprawiedliwości"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

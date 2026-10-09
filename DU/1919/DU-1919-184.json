@@ -1,0 +1,403 @@
+{
+ "eli": "DU/1919/184",
+ "title": "Dekret w przedmiocie zwalczania chorób zakaźnych oraz innych chorób, występujących nagminnie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/184/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie zwalczania chorób zakaźnych oraz innych chorób, występujących nagminnie."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "O każdym przypadku zachorowania lub śmierci na:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "ostrą chorobę zakaźną, mianowicie: dżumę (pestis), ospę (variola, variolois), cholerę (cholera asiatica), dur brzuszny i dur rzekom {typhus abdominalis et paratyphus), cholerynę (cholera nostras), dur plamisty (typhus exanthematicus), dur powrotny (typhus recurrens), czerwonkę (dyzenterję) (dysenteria), płonicę (scarlatina), błonicę (diphteria), zimnicę (malaria), grypę, odrę (morbili), nagminne zapalenie opon mózgowych (meningitis cerebro spinalis), zapalenie rogów przednich rdzenia (polyomyelitis anterior), krztusiec (pertussis); zakażenie połogowe (sepsis puerperalis), różę (erysipelas), śluzoropotok noworodków (blenorrhoea neonatorum);",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "przewlekłą chorobę zakaźną, mianowicie: trad (lepra), jaglice (trachoma), gruźlicę (tuberculosis) (w przypadkach niebezpiecznych dla otoczenia w myśl oddzielnej ustawy), promienicę (actinomycosis), twardziel (rhinoscleroma);",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "choroby odzwierzęce, jak: wąglik (anthrax), nosaciznę (malleus), włośnicę (trichinosis), wodowstręt (rabies) i ukąszenia przez zwierzęta chore na wodowstręt, odtręd (aphtae epizooticae) — chorobę racic i pyska; tudzież",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_1/lit_d",
+     "text": "zatrucia jadem kiełbasianym, mięsnym i rybim (botulismus) oraz",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_1/lit_e",
+     "text": "parchy (favus) i inne zakaźne choroby skórne, — jak również o każdym przypadku, wzbudzającym podejrzenie co do której— kolwiekbądź z wymienionych chorób, należy w ciągu 24 godzin zawiadornić miejscowe władze sanitarne; w razie, jeżeli na miejscu niema władz sanitarnych, należy zawiadomić zarząd gminny względnie sołtysa. Jeżeli chory zmienia mieszkanie lub miejsce pobytu, należy o tem w takim samym terminie zawiadomić miejscowe władze sanitarne w miejscu dotychczasowego i nowego pobytu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Minister Zdrowia Publicznego władny jest rozciągnąć osowiązek zgłaszania na pewien oznaczony przeciąg czasu i na przypadki innych, oprócz powyżej wymienionych, chorób zakaźnych. Prawo to służy również lekarzom powiatowym w porozumieniu z właściwą władzą administracyjną na terenie powiatu lub jego części i na czas, nieprzekraczający miesiąca, po którym takie zarządzenie traci moc obowiązującą, o ile nie zostanie potwierdzone przez rozporządzenie Ministra Zdrowia Publicznego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Obowiązek zgłoszenia obciąża:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "lekarza, wezwanego do porady;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "kierowników zakładów leczniczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_3/pkt_3",
+     "text": "dezynfektorów i dozorców sanitarnych; ;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_3/pkt_4",
+     "text": "każdą osobę, zajmującą się dozorem lub pielęgnowaniem chorego (akuszerkę, felczera, pielęgniarzy);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_3/pkt_5",
+     "text": "głowę rodziny lub osobę, na której pieczy znajduje się chory;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_3/pkt_6",
+     "text": "gospodarza mieszkania, właściciela, administratora lub rządcę majątku lub domu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_3/pkt_7",
+     "text": "przełożonych wszelkich zakładów naukowych i wychowawczych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_3/pkt_8",
+     "text": "kierowników wszelkich zakładów przemysłowych i handlowych, fabryk, warsztatów, statków parowych, tratew it. p, jak również hoteli, pokojów umeblowanych, zajazdów i gospód, kierowników robót gromadnych (rolnych, leśnych, ziemnych i t. d.);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_3/pkt_9",
+     "text": "straż bezpieczeństwa; :",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_3/pkt_10",
+     "text": "ospby kompetentne z urzędu, dokonywujące sekcji lub oględzin zwłok;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_3/pkt_11",
+     "text": "osoby stanu duchownego, o ile z tytułu swego powołania mają styczność z chorym; i2) zwierzchników wsi (sołtysów);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_3/pkt_13",
+     "text": "lekarzy weterynarji, o ile podczas wykonywania swego zawodu powezmą wiadomość o zarażeniu się ludzi wąglikiem lub nosacizną, albo o przypadku wodowstrętu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Obowiązek zgłoszenia obciąża osoby, wyszczególńione w wyliczeniu powyższem, w kolejnym porządku wyliczenia, a więc osoby, wymienione w pp. 4—13 jedynie w braku osób, wymienionych wcześniej."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Lekarze urzędowi i sanitarjusze, w razie powzięcia uzasadnionego podejrzenia co do zatajenia wypadku choroby zakaźnej, mają prawo dokonywania oględzin podejrzanych mieszkań."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Zgłoszenia można uskuteczniać ustnie lub piśmiennie. Zgłoszenia w drodze pocztowej i telegraficznej w przepisanej formie wolne są od opłat.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Władze sanitarne miejscowe lub komunalne winny bezzwłocznie po otrzymaniu zgłoszenia podać je do wiadomości właściwego lekarza powiatowego, władze sanitarne miejscowe winny niezwłocznie wdrożyć dochodzenie celem ustalenia rozpoznania choroby i jej pochodzenia. Gdzie lekarza niema, dochodzenia dokona lekarz powiatowy lub jego zastępca, wyznaczony w tym cełu bądź doraźnie, bądź w charakterze lekarza epidemicznego. Na czas prowadzenia dochodzenia lekarz, do tego powołany, nabywa charakteru Urzędnika państwowego i ma wówczas prawo i obowiązek przedsięwziąć wszelkie badania, potrzebne do ustalenia rozpoznania choroby i źródeł jej pochodzenia. Lekarz ordynujący może być obecnym przy badaniu osoby, którą leczył, jak również i przy sekcji zwłok. Ogólny nadzór nad dochodzeniem wykonywa lekarz powiatowy. O ile niema lekarza powiatowego lub jego zastępcy, wyznaczonego bądź doraźnie, bądź w charakterze lekarza epidemicznego, wówczas każdy lekarz, na podstawie dodatniego wyniku dochodzenia względnie uzasadnionego podejrzenia co do istnienia choroby zakaźnej, wyda na miejscu najkonieczniejsze zarządzenia, zapobiegające szerzeniu się choroby, a o ich treści powiadomi niezwłocznie na piśmie lekarza powiatowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Po ustaleniu rozpoznania choroby zakaźnej, względnie na zasadzie uzasadnionego podejrzenia o jej istnieniu, władze komunalne winny bezzwłocznie zarządzić środki zapobiegawcze, wskazane przez lekarza prowadzącego dochodzenie i pod jego kontrolą. W razie niespełnienia w oznaczonym przez lekarza terminie powyższych wskazówek, lekarz powiatowy lub jego zastępca, zgodnie z art. 5, ma prawo wykonać niezbędne zarządzenia na koszt gminy, powiadamiając o tem odpowiednie władze administracyjne.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "W razie ustalenia w obrębie miasta lub gminy przypadku jednej z chorób, wyszczególnionych w art. 1, odpowiednie władze administracyjne na żądanie władz sanitarnych mają prawo:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_7/pkt_1",
+     "text": "wzbronić wstępu do wszelkich pomieszczeń, uznanych za zakażone, do czasu ich odkażenia, oraz w sposób widoczny odpowiednio je oznaczyć;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_7/pkt_2",
+     "text": "obostrzyć przepisy o meldowaniu mieszkańców oraz zarządzić odosobnienie chorego lub osób, które były z nim w styczności, oraz nosicieli zarazków na miejscu ich pobytu lub w zakładach, do tego przeznaczonych, a także zarządzić czasowe usunięcie mieszkańców z ich mieszkań;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_7/pkt_3",
+     "text": "zastosować czasowy nadzór, z częściowem lub całkowitem wykluczeniem od zajęć publicznych lub prywatnych nad nosicielami zarazków oraz nad osobami, które były w styczności z chorymi lub przybyły z miejscowości, dotkniętych in oraz w razie niezbędnej potrzeby zarządzić przymusowe leczenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_7/pkt_4",
+     "text": "zarządzić przymusowe oczyszczanie osób, odkażanie ubikacji, przedmiotów zakażonych lub podejrzanych o zakażenie, oraz zniszczenie przedmiotów, które nie mogą być odkażane bez ich z nisz-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "czenia, jak również takich, których wartość jest mniejsza od kosztów ich wyjałowienia, wreszcie wytępienie zwierząt, roznoszących zarazki. Tępienie zwierząt, roznoszących zarazki, dopuszczalne jest również w celach zapobiegawczych;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_7/pkt_5",
+     "text": "zarządzić czasowe ograniczenia komunikacji, czasowe wzbronienie handlu obnośnego i zarobków wędrownych, oraz zamknięcie zakładów przemysłowych w miejscowościach zarażonych -lub znajduiących się w warunkach, sprzyjających zarażeniu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_7/pkt_6",
+     "text": "zarządzić czasowe ograniczenia obrotu i używalności przedmiotów, mogących być rozsadnikami zarazków, a w tej liczbie i artykułów spożywczych oraz w szczególności wody, pochodzącej z określonego miejsca; ł",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_7/pkt_7",
+     "text": "zabronić czasowo odbywania targów, jarmarków, odpustów, pielgrzymek i innych zgromadzeń publicznych oraz wzbronić uczęszczania do szkół;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_7/pkt_8",
+     "text": "czasowo zawiesić wykonywanie niektórych obrządków i zwyczajów, związanych z grzebaniem ciał zmarłych, oraz zarządzić obowiązkowe dokonywanie sekcji i badania bakterjologicznego wszystkich zwłok.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Minister Zdrowia Publicznego ma prawo zarządzania obowiąż= kowych szczepień ochronnych. Przepisy o szczepieniu ochronnem przeciwko ospie objęte są oddzielnym dekretem.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 9. Sposoby i warunki stosowania poszczególnych zarządzeń zapobiegawczych w przypadkach różnych chorób zakaźnych oraz wszelkie inne zarządzenia co do wprowadzenia w życie i stosowania niniejszej ustawy określi rozporządzenie wykonawcze Ministra Zdrowia Publicznego."
+    },
+    {
+     "type": "text",
+     "text": "Frt. 10. Władze państwowe i komunalne obowiązane są udziełać pomocy przy wykonywaniu zarządzeń, wydanych na zasadzie ustawy niniejszej."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Osoby, którym zarządzenia, wydane w myśl ustawy niniejszej, przeszkodziły w zarobkowaniu, riają prawo, o ile przez czas odosobnienia nie korzystały ze świadczeń ze strony gminy, do otrzymania od Państwa odszkodowania. Wysokość odszkodowania odpowiada 60*/, przeciętnego zarobku dziennego robotnika niekwalifikowanego w każdej poszczególnej miejscowości. Osoby, odosobnione przymusowo, otrzymują na koszt gminy całkowite utrzymanie i w razie potrzeby opiekę na cały czas odosobnienia. Żądanie odszkodowania przedawnia się z upływem terminu miesięcznego od daty, w której przeszkoda w zarobkowaniu ustała.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Osoby prywatne mają prawo żądania od gminy zwrotu szkód i strat, poniesionych wskutek odkażenia lub zniszczenia należących do nich przedmiotów. Żądanie odszkodowania przedawnia się z upływem terminu miesięcznego od daty zwrotu przedmiotów odkażonych lub zawiadomienia o ich zniszczeniu. Wysokość odszkodowania określają rzeczoznawcy, obierani corocznie przez Rady miejskie i Rady gminne. Niezadawalający się przyznanem odszkodowaniem ma prawo w przeciągu trzech miesięcy wystąpić z powództwem na drodze sądowej. Osoby, działające wbrew prze- SE” ial dekretu, tracą tem samem prawo do odszkodowań (art. i M kJ",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Lekarze i inne osoby zatrudnione przy zwalczaniu chorób zakaźnych w myśl przepisów dekretu niniejszego, w razie utraty zdolności do",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "zarobkowania wskutek zarażenia się, oraz ich rodziny, w razie ich śmierci z tej samej przyczyny, mają prawo do odszkodowania względnie stałego zaopatrzenia, którego rodzaj i wysokość określą oddzielne przepisy."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Odosobnienie lub czasowe wykluczenie od zajęć nie może służyć za powód do wydalenia ze służby rządowej, komunalnej, społecznej lub prywatnej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Zarządy komunalne pokrywają koszty: 1-o zakładania i utrzymywania wszelkich koniecznych do walki z chorobami zakaźnemi urządzeń i zakładów sanitarnych i leczniczych; 2-o leczenia, nadzoru, odosobnienia i utrzymywania osób chorych oraz nadzoru, odosobnienia i utrzymywania osób podejrzanych o zarażenie lub nosicieli zarazków; 3-0 odkażania; 4-o tępienia zwierząt roznoszących zarazki; 5-0 tępienia zwierząt w celach zapobiegawczych; 6-0 odszkodowań za przedmioty zniszczone lub uszkodzone przy odkażaniu. Gminy mają prawo pobierania opłat za niektóre czynności, wyszczególnione w artykule niniejszym, według taksy, zatwierdzonej przez Ministra Zdrowia Publicznego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Wszystkie inne koszty, wynikające z wykonania postanowień dekretu niniejszego ponosi Skarb Państwa. Na pokrycie kosztów, przypadających na gminy, mogą być w razie potrzeby przyznawane pożyczki i zapomogi z funduszów państwowych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "O ile zarząd komunalny nie spełni obowiązków, wynikających z dekretu niniejszego, a Państwo będzie zmuszone podjąć odpowiednie zarządzenia, gmina winna zwrócić Skarbowi Państwa poniesione koszty.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Zarządzenie co do zwalczania chorób zakaźnych w instytucjach i zakładach, podległych zarządowi wojskowemu, zarządowi komunikacji oraz innym zarządom centralnym i kontrola nad wykonaniem tych zarządzeń należą w porozumieniu z temi zarządami do Ministerstwa Zdrowia Publicznego. Sprawa zwalczania chorób zakaźnych w miejscowościach pogranicznych będzie uregulowana w związku z odpowiedniemi umowami międzynarodowemi.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Minister Zdrowia Publicznego ma prawo w porozumieniu z Mińistrem Spraw Wewnętrznych wydawać, w miarę okoliczności szczególne dalej idące zarządzenia czasowe w razie niezwykle groźnego lub nagminnego wybuchu choroby zakaźnej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Winni uchybienia przepisom dekretu niniejszego oraz przepisom właściwych rozporządzeń wykonawczych, wydanych w myśl dekretu niniejszego, ulegną karze, przewidzianej w Kodeksie Karnym. W przypadkach wykroczeń mniejszej wagi prezydenci, burmistrze i wójci gmin, na wniosek lekarza powiatowego lub miejscowych władz sanitarnych, mają prawo nakładania na winnych kar pieniężnych do wysokości 100 mk.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Z wejściem w życie niniejszego dekretu i odnośnych rozporządzeń tracą moc obowiązującą wszystkie dotychczasowe przepisy, dotyczące spraw unormowanych niniejszym dekretem.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Wykonanie dekretu niniejszego polecam Ministrowi Zdrowia Publicznego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Dan w Warszawie, dnia 7 lutego 1919 roku."
+    },
+    {
+     "type": "text",
+     "text": "Naczelnik Państwa: J. Piłsudski Prezydent Ministrów: I. J. Paderewski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Zdrowia Publicznego: Janiszewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

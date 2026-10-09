@@ -1,0 +1,60 @@
+{
+ "eli": "DU/1918/5",
+ "title": "Dekret Rady Regencyjnej Królestwa Polskiego w przedmiocie zmiany dyzlokacji sądów",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1918/5/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET Rady Regencyjnej Królestwa Polskiego w przedmiocie zmiany dyzlokacji sądów. My, RADA REGENCYJNA KRÓLESTWA POLSKIEGO, postanowiliśmy i stanowimy, jak następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Sąd Pokoju w Cisowie, w okręgu Sądu Okręgowego w Kaliszu, mający siedzibę w Turku, skasować przez włączenie jego terytorjum właściwości Sądu Pokoju w Turku.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Sąd Pokoju okręgu wiejskiego w Sieradzu, w okręgu Sądu Ckręgowego w Kaliszu, połączyć z Sądem Pokoju okręgu miejskiego w tem mieście w jeden Sąd Pokoju w Sieradzu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Sąd Pokoju w Nużewie (w Ostatnim Groszu), w okręgu Sądu Okręgowego w Mławie, skasować przez włączenie jago terytorjum do właściwości Sądu Pokoju w Ciechanowie.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Oznaczenie dat wprowadzenia powyższych zmian w rozmieszczeniu sąd>w pozostawić Ministrowi Sprawiedliwości.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Dan w Warszawie, dnia 8 lutego 1918 roku. + Aleksander Kakowski, Arcybiskup Zdzisław Lubomirski Józef Ostrowski Prezydent Ministrów: wz. J. M. Pomorski."
+    },
+    {
+     "type": "text",
+     "text": "Tłoczone w Drukarni Państwowej Królestwa Polskiego z 3936 z polecenia Ministra Sprawiedliwości."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

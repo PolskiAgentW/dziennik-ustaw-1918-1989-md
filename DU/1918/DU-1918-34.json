@@ -1,0 +1,56 @@
+{
+ "eli": "DU/1918/34",
+ "title": "Dekret w przedmiocie tworzenia armji narodowej",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1918/34/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET."
+  },
+  {
+   "type": "text",
+   "text": "Aby wzmocnić corychlej armję narodową w chwili tak poważnej i dla Ojczyzny nadzwyczaj doniosłej, postanowiliśmy i stanowimy:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Powołać wszystkich zdatnych do broni oficerów-polaków tak z obcych wojsk, jak i w kraju się już znajdujących. Rrt. 2. Rozkazać przyjmowanie ochotników na całym obszarze polskim bez ograniczeń, a więc tak z grona starszych już wysłużonych żołnierzy, jak i z młodszych roczników.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Wypełniać formacje linjowe polskie przejęte z wojsk austrjackich żołnierzem własnym i tworzyć z nich wyższe jednostki bojowe.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Rozpocząć natychmiast tworzenie w odnośnych okręgach wojskowych tak pułków, jak i szwadronów ochotniczych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Dan w Warszawie, dnia 4 listopada 1918 roku."
+    },
+    {
+     "type": "text",
+     "text": "r Aleksander Kakowski Zdz. Lubomirski Józef Ostrowski"
+    },
+    {
+     "type": "text",
+     "text": "Prezydent Ministrów: , Józef Świeżyński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,57 @@
+{
+ "eli": "DU/1918/61",
+ "title": "Dekret w przedmiocie przyznania magistratowi m. Łodzi kredytu w wysokości 7.000.000 mk.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1918/61/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie przyznania magistratowi m. Łodzi kredytu w wysokości 7.000.000 mk. /"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Polska Krajowa Kasa Pożyczkowa przyznaje magistratowi m. Łodzi kredyt w wysokości 7.000.000 (siedem miljonów) marek, zabezpieczony obligacjami m. Łodzi.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do czasu dostarczenia przez magistrat m. Łodzi powyższych obligacji, co ma nastąpić w ciągu najwyżej 10 dni od chwili wydania pożyczki, Ministerstwo Skarbu zabezpiecza otwarty mu przez Polską Krajową asę Pożyczkową kredyt krótkoterminowemi. zobowiązaniami skarbowemi.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Wykonanie tego dekretu powierza się Ministrowi Skarbu. Dan w Warszawie, dnia 16 grudnia 1918 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Naczelnik Państwa: J. Piłsudski Prezydent Ministrów: Moraczewski"
+    },
+    {
+     "type": "text",
+     "text": "Kierownik Ministerstwa Skarbu: Byrka"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

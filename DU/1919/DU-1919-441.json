@@ -1,0 +1,300 @@
+{
+ "eli": "DU/1919/441",
+ "title": "Rozporządzenie Ministra Poczt i Telegrafów w przedmiocie odpowiedzialności Zarządu pocztowego za krajowe przesyłki pocztowe i telegramy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/441/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Poczt i Telegrafów w przedmiocie odpowiedzialności Zarządu pocztowego za krajowe przesyłki pocztowe i telegramy."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 26 ustawy z dnia 27 maja 1919 r. o państwowej wyłączności poczty, telegrafu i telefonu (Dz. Pr. P. Ne 44 z r. 1919), rozporządzam w porozumieniu z Ministrem Skarbu, przejściowo aż do czasu wydenia Ordynacji pocztowej, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "|. Zarząd pocztowy odpowiada:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Przy poleconych przesyłkach listowych tylko w razie zaginięcia i wypłaca odszkodowanie 40 mk. lub 50 kor. w każdym poszczególnym wypadku zaginięcia połeconej przesyłki listowej bez względu na rzeczywistą wartość zaginionej przesyłki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Przy listach wartościowych i paczkach, za zaginięcie, ubytek lub uszkodzenie zawartości wypłaca odszkodowanie według zwyczajnej war-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "tości, jaką zaginione, brakujące lub uszkodzone przedmioty posiadały w chwili i miejscu nadania przesyłki, z tem jednak ograniczeniem, że suma odszkodowania"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_2/lit_a",
+       "text": "przy listach wartościowych i paczkach z podaną wartością nie może przekraczać wartości podanej przez wysyłejącego, przy paczkach zaś bez podanej wartości o wadze do 3 kg. nie może przekraczać sumy 30 mk. lub 45 kor, o wadze ponad 3 kg. do 5 kg. sumy 50 mk. lub 75 kor., a o wadze ponad 5 kg. jak za paczkę bez podanej wartości do 5 kg., więcej 6 mk. lub 9 kor. za każdy kg. wagi ponad 5 kg., przyczem część kg. liczy się za < cały kilogram;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_2/lit_b",
+       "text": "jeżeli w wypadkach tych chodzi o papiery wartościowe, notowane na giełdzie, a opiewające na okaziciela, to zwraca się tyłka ich wartość według kursu giełdowego. pod warunkiem, że właściciel tych papierów odstąpi równocześnie Zarządowi pocztowemu aktem ze skutkiem prawnym wszelkie prawa, wynikające z posiadania tych papierów i umożliwi Zarządowi pocztowemu, przez oznajmienie znamion papierów wartościowych i wręczenie papierów pomocniczych, dowodów i t. p., wdrożenie postępowania w celu uznania ich nieważności. Przy innych papierach wartościowych, jakoteż innego rodzaju dokumentach (oszczędnościowe książeczki wkładkowe, weksle, skrypty dłużne i t. p.) zwraca Zarząd pocztowy jedynie koszta, wyłożone celem uzyskania takiego samego, prawnie ważnego nowego papieru lub dokumentu, albo zwraca koszta, wyłożone celem ściągnięcia wierzytelności, wynikającej z zaginionego papieru lub dokumentu. Dopiero wówczas, gdyby to bez winy uprawnionego nie dało się uskutecznić, zwraca Zarząd pocztowy poszkodowanemu rzeczywiście poniesioną szkodę. :",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Przy przekazach za wpłaconą sumę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "Przy przesyłkach pocztowych za pobraniem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_4/lit_a",
+       "text": "za samą przesyłkę w tych samych wypadkach i w tej samej rozciągłości, jak za przesyłki tego samego rodzaju bez pobrania;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_4/lit_b",
+       "text": "jeżeli przesyłkę wydano odbiorcy bez ściągnięcia sumy pobrania. za rzeczywistą szkodę, najwyżej jednak tylko do wysokości podanego pobrania;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/ust_4/lit_c",
+       "text": "za wpłacone pobranie, jak przy przekazie pocztowym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_1/ust_5",
+     "text": "Przy listach ze zleceniem pocztowem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_5/lit_a",
+       "text": "za zaginięcie listu ze zleceniem pocztowem; za tego rodzaju list uważa się także list, w którym urząd pocztowy dosyła za adresatem lub zwraca dokument wierzytelnościowy. Odszkodowanie wynosi 40 mk. lub 50 kor. za jedną przesyłkę bez względu na jej wartość;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_5/lit_b",
+       "text": "jeżeli dokument wierzytelnościowy wydano odbiorcy bez uiszczenia sumy wierzytelności, albo, jeżeli dokument zaginął w pocztowym urzędzie oddawczym, odpowiada Zarząd pocztowy za rzeczywistą szkodę, jednak tylko do wysokości tej sumy, którą należało ściągnąć od odbiorcy i z tem zastrzeżeniem, że wysyłający odstąpi Zarządowi pocztowemu swoje roszczenie przeciw odbiorcy;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/ust_5/lit_c",
+       "text": "za sumę już uiszczoną jak przy przekazie pocztowym;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/ust_5/lit_d",
+       "text": "przy kartach ze zleceniem pocztowem za uiszczoną sumę jak przy przekazie pocztowym. Il. W innych wypadkach, jak tych, które wymieniono pod |. 1. do 5. nie przyjmuje Zarząd pocztowy na siebie żadnej odpowiedzialności mater-",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "jalnej, a w szczególności nie-odpowiada za pieniądze, włożone do przesyłek pocztowych, a niedeklarowane, nie odpowiada również ani za asa zysk, ani za szkody, wynikłe z opóźnienia wysyłki, transportu, wydania lu doręczenia przesyłek pocztowych. III. Za inne przedmioty aniżeli te, które powyżej oznaczono, w szczególności za przesyłki pocztowe nierejestrowane, wyjąwszy w wypadkach pod ), (5d), Zarząd pocztowy materjalnie nie odpowiada. IV. Wreszcie nie bierze Zarząd pocztowy na siebie żadnej odpowiedzialności materjalnej za przesyłki pocztowe, przyjęte do transportu tylko wvjątkowo na własną odpowiedzialność wysyłającego. Państwowy Zarząd Poczt i Telegrafów dokłada wszelkich starań o należyte utrzymanie ruchu telegraficznego, nie przejmuje jednak żadnej odpowiedzialności materjalnej za ewentualne szkody, powstałe wskutek zaginięcia, przekręcenia lub opóźnienia telegramów i zwraca jedynie w pewnych, w ordynacji telegraficznej określonych wypadkach, należytości, zapłacone za telegramy. Frt. 2. 1. Materjalna odpowiedzialność Zarządu pocztowego za przesyłki pocztowe jest wykluczona, jeżeli zaginięcie, ubytek lub uszkodzenie spowodował sam wysyłający lub odbiorca wskutek własnej winy lub niedbalstwa, wskutek niezastosowania się do przepisów pocztowych, określających warunki nadania, transportu i odbioru, albo, jeżeli zaginięcie, ubytek lub uszkodzenie powstały wskutek naturalnej właściwości przedmiotu, a w szczególności z powodu zepsucia wewnętrznego, ulatniania się lub wycieku. W szczególności nie odpowiada Zarząd pocztowy materjalnie za przesyłki, zawierające płyny i przedmioty kruche, łomliwe, ulegające łatwo rozbiciu lub zepsuciu, albo zgniliźnie i za przesyłki z żywemi zwierzętami. W razie wątpliwości, czy szkoda powstała wskutek naturalnej właściwości przedmiotu, lub niedostatecznego opakowania lub zamknięcia, jest domniemanie, że szkoda powstała z tych właśnie przyczyn."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Obowiązek Zarządu pocztowego do odszkodowania za przesyłki pocztowe odpada, jeżeli zaginięcie, ubytek lub uszkodzenie nastąpiły wskutek wydarzeń wojennych lub w ogóle wskutek siły wyższej. Za przedmioty wykluczone od transportu pocztą, nieodpowiada Zarząd pocztowy w żadnym wypadku materjalnie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Wszelkie roszczenia o odszkodowanie przeciw Zarządowi pocztowemu traci:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "kto na liście wartościowym, albo na paczce podał przy nadaniu w zamiarze oszukańczym wartość za wysoką; kto na liście wartościowym lub na paczce podał przy nadaniu inną zawartość, a za inną żąda następnie odszkodowania. Wysyłający, który podał na liście wartościowym lub na paczce świadomie, w celu oszukańczym, wartość za wysoką lub podał inną zawartość aniżeli tę, którą faktycznie wysłał, będzie niezależnie od utraty prawa do odszkodowania, karany za oszustwo przez sąd karny;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "kto przedmioty, dopuszczone wyjątkowo lub warunkowo, nadaje do transportu z pominięciem przepisów pocztowych lub z przemilczeniem zawartości, lub z podaniem zawartości nieprawdziwej, lub w ogóle w inny sposób wprowadza w błąd pocztę. Frt 4. Odpowiedzialność materjalna Zarządu pocztowego za ubytek lub uszkodzenie zawartości listów wartościowych i paczek ustaje:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "z chwilą przyjęcia tychże bez zarzutu przez odbiorcę;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "z chwilą wydania przesyłek pocztowych, w wypadkach ustawą okr - ślonych, władzom karnym (sądowym lub skarbowym) lub administracyjn.- sanitarnym;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "z upływem czasu, przepisanego do wnoszenia roszczeń o odszkodowanie za zaginięcie przesyłek pocztowych, ubytek lub uszkodzenie zawartości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Za ubytek lub uszkodzenie zawartości listów wartościowych i paczek, przyjętych przez odbiorcę z zastrzeżeniem odszkodowaniz., może żądać odszkodowania tylko odbiorca. We wszystkich innych wypadkach uprawniony jest do podniesienia roszczenia o odszkodowanie tylko wysyłający lub jego pełnomocnik. W tym celu musi rekiamujący wykazać się oryginalnym recepisem nadawczym lub książką nadawczą. Jeżeli tego uczynić nie może, w takim razie dochodzenie roszczenia zależne jest od tego, czy przesyłka wpisana jest do księgi pocztowej i jeżeli reklamujący udowodni, że jest wysyłającym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Roszczenie o odszkodowanie musi być zgłoszone przez odbiorcę w pocztowym urzędzie oddawczym przed odbiorem przesyłki i uwidocznione zarazem w potwierdzeniu odbioru (na recepisie oddawczym, liście przesyłkowym). Roszczenie o odszkodowanie ze strony wysyłającego lub jego retnomocnika, musi być na podstawie oryginalnego recepisu nadawczego lub książki nadawczej wniesione lub spisane w pocztowym urzędzie nadawczym albo bezpośrednio, albo za pośrednictwem urzędu pocztowego miejsca pobytu wysyłającego (pełnomocnika) najpóźniej do 6-ciu miesięcy od dnia nadania przesyiki. Czasokres sześciomiesięczny zaczyna się z pierwszym dniem miesiąca, następującego po nadaniu. Wniesienie reklamacji uważa się za równoznaczne ze zgłoszeniem roszczenia o odszkodowanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Dla orzecznictwa w sprawie odszkodowania, jakoteż dla wypłaty sum odszkodowania za przesyłki pocztowe, właściwą jest co do roszczeń wysyłającego okręgowa Dyrskcja pocztowa, przełożona urzędowi nadawezemu; co do reszczeń zaś odbiorcy, okręgowa Dyrekcja pocztowa, przełożona urzędowi oddawczemu:.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Sumę odszkodowania asygnuje się uprawnionemu po stwierdzeniu obowiązku Zarządu pocztowego do odszkodowania i wysokości odszkodowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Orzeczenia w sprawie odszkodowań muszą zawierać, o ile nie uwzględniono w nich żądanego roszczenia w całej pełni, dokładne przedstawienie faktycznego stanu rzeczy, następnie powody częściowego lub zupełnego oddalenia, wreszcie pouczenie o przysługujących poszkodowanej stronie środkach prawnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Od orzeczeń okręgowych Dyrekcji poczt i telegrafów w sprawie odszkodowań i można się odwołać do Ministerstwa Poczt i Telegrafów, które w sprawach tych rozstrzyga jako instancja druga na drodze administracyjnej ostatecznie. dwołanie ma być wniesione za pośrednictwem tej okręgowej Dyrekcji poczt i telegrafów, która wydała orzeczenie, w przeciągu czterech tygodni, licząc od dnia następnego po dniu doręczenia zaczepionego orzeczenia. Dzień, w którym nadano odwołanie w urzędzie pocztowym albo telegraficznym uchodzi za dzień wniesienia odwołania w Dyrekcji Poczt i Telegrafów. O tem, czy odwołanie wniesiono na czas, rozstrzyga Ministerstwc. Poczt i Telegrafów.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Droga prawa przeciw Skarbowi Państwa jest dozwolona dopiero wtedy, gdy został wyczerpany administracyjny tok instancji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Rozporządzenie niniejsze wchodzi w życie po upływie dni 14 po dniu jego ogłoszenia, .a wszystkie dotychczasowe postanowienia, sprzeczne z niniejszem rozporządzeniem, tracą moc obowiązującą. Warszawa, dnia 29 sierpnia 1919 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Poczt i Telegrafów: H. L. Linde"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

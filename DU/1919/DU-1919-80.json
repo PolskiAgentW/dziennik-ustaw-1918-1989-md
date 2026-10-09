@@ -1,0 +1,44 @@
+{
+ "eli": "DU/1919/80",
+ "title": "Dekret o używaniu wojska w wypadkach wyjątkowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/80/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRE I o używaniu wojska w wypadkach wyjątkowych."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Minister Spraw Wewnętrznych czuwa nad utrzymaniem ładu i porządku w Państwie. W wypadkach szczególnych, gdy porządek publiczny okaże się niedostatecznie zabezpieczony przez podległe Ministrowi Spraw Wewnętrznych organy, może być użyte wojsko.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 22 We wskazanych w art. 1 wypadkach występuje wojsko na żądanie Ministra Spraw Wewnętrznych, który uprawnienia swe w tym względzie przelać może na podwładne sobie organy za wiedzą Rady Ministrów."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Minister Spraw Wewnętrznych i Minister Spraw Wojskowych wypracują szczegółowe przepisy, określające sposób użycia wojska dla zabezpieczenia porządku publicznego i przedłożą je do zatwierdzenia Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Dekret niniejszy wchodzi w życie z dniem dzisiejszym. Dan w Warszawie, dnia 2 stycznia 1919 roku. Naczelnik Państwa: J. Piłsudski Prezydent Ministrów: Moraczewski Minister Spraw Wewnętrznych: Thugutt",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,37 @@
+{
+ "eli": "DU/1919/174",
+ "title": "Dekret w przedmiocie jednostki monetarnej waluty polskiej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/174/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET w przedmiocie jednostki monetarnej waluty polskiej, Na wniosek Rady Ministrów postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Jednostka monetarna waluty polskiej otrzyma nazwę „Lech”, a setna jej część nazwę .grosz”.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie tego dekretu porucza się Ministrowi Skarbu. Dan w Warszawie, dnia 5 lutego 1919 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Naczelnik Państwa: J. Piłsudski Prezydent Ministrów: I. J. Paderewski Minister Skarbu: Dr. Englich"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

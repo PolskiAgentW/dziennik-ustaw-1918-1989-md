@@ -1,0 +1,67 @@
+{
+ "eli": "DU/1919/278",
+ "title": "Rozporządzenie Ministra Sprawiedliwości w porozumieniu z Ministrami Przemysłu i Handlu oraz Skarbu w przedmiocie określenia osób, zajmujących się handlem drobnym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/278/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "Ministra Sprawiedliwości w porozumieniu z Ministrami Przemysłu i Handlu oraz Skarbu w przedmiocie określenia osób, zajmujących się handlem drobnym."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 1 dekretu o rejestrze handlowym z d. 7 lutego 1919 r., Dz. Pr. Ne 14 poz. 164, zarządza się jak następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W okręgu sądu apelacyjnego w Warszawie z pośród osób, wymienionych w rozporządzeniu byłego Gienerał-Gubernatorstwa Warszawskiego z dnia 5 lipca 1916 r. (Dz. Rozp. dla G. G. W. Ne 38) o poborze podatku od handlu i przemysłu, uważane są za zajmujące się handlem drobnym osoby, które prowadzą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "l",
+     "path": "art_1/lit_l",
+     "text": "przedsiębiorstwo handlowe kategorji IV, z wyjątkiem przedsiębiorstw obowiązanych do publicznego składania rachunków, dalej kategorji V-a i V-b, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "przedsiębiorstwo przemysłowe kategorji VII. z wyjątkiem przedsiębiorstw, obowiązanych do publicznego składania rachunków, oraz kategorji VIII.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "W okręgu sądu apelacyjnego w Lublinie uważane są za zajmujące się handlem drobnym osoby, należące do powyższych kategorii handlu lub przemysłu na zasadzie przepisów, zawartych w dodatku do art. 368 ustawy o podatkach bezpośrednich (t V zbioru praw rosyjskich).",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Jeśli pewne przedsiębiorstwo, z powodu zwolnienia od tego padatku, nie jest zaliczone do żadnej kategorji, uważa się je, celem stosowania niniejszego rozporządzenia, za należące do tej kategorji, do której byłoby zaliczone, gdyby podlegało temu podatkowi. Warszawa, dnia 22 kwietnia 1919 r. Minister Sprawiedliwości: Supiński",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

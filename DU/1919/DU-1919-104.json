@@ -1,0 +1,46 @@
+{
+ "eli": "DU/1919/104",
+ "title": "Dekret w przedmiocie przepisów skarbowych dla obszarów Polski, które podlegały władzy b. cesarsko-niemieckiego naczelnego dowódcy na wschodzie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/104/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie przepisów skarbowych dla obszarów Polski, które podlegały władzy b. cesarsko-niemieckiego naczelnego dowódcy na wschodzie."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Przepisy skarbowe, obecnie obowiązujące na obszarze b. cesarsko-niemieckiego Gienerał-Gubernatorstwa Warszawskiego, rozciąga sininiejszem na obszary Polski, które podlegały władzy b. cesarsko-niemieć kiego naczelnego dowódcy na wschodzie.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie tego dekretu i wydanie przepisów przechodnich porucza się Ministrowi Skarbu. Dan w Warszawie, d. 7 stycznia 1919 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "A Naczelnik Państwa: J. Piłsudski Prezydent Ministrów: Moraczewski Kierownik Ministerstwa Skarbu: Byrka"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

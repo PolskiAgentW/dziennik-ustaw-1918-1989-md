@@ -1,0 +1,83 @@
+{
+ "eli": "DU/1919/123",
+ "title": "Dekret o nabywaniu i posiadaniu broni i amunicji.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/123/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "o nabywaniu i posiadaniu broni i amunicji."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Prawo nabywania, przechowywania i używania wszelkiego rodzaju broni palnej, karabinów maszynowych, armat, zarówno ich części składowych i przyborów, wszelkiego rodzaju amunicji, nabojów, pocisków, do tego rodzaju broni używanych, bomb i granatów ręcznych i materjałów wybuchowych do ich wyrobu przeznaczonych—przysługuje władzom wojskowym, milicji ludowej, policji komunalnej oraz tym organizacjom i osobom cywilnym, które posiadają pozwolenie odpowiedniej władzy państwowej. Frt. 2. Minister Spraw Wewnętrznych lub organy przez niego upoważnione w porozumieniu z dowódcą właściwego okręgu generalnego wojskowego może osobom cywilnym zezwalać w wypadkach, zasługujących na szczególne uwzględnienie, dla celów technicznych i handlowych na nabywanie, przechowywanie, użytkowanie i sprzedaż broni oraz materjałów wybuchowych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Pozwolenia na posiadanie broni myśliwskiej lub palnej krótkiej dla obrony osobistej wydawane są przez Ministra Spraw Wewnętrznych lub organy przez niego upoważnione.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Wszelkie pozwolenia na prawo posiadania przedmiotów i materjałów, wyszczególnionych w art. 1, udzielone w trybie niezgodnym z powyższemi przepisami, niniejszym dekretem zostają unieważnione.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 55 Winni przekroczenia przepisów, zawartych w niniejszym dekrecie, ulegną następującym karom:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_4/lit_a",
+     "text": "za posiadanie broni wojskowej lub materjałów i przedmiotów służących do użytku wejskowego—zamknięcia w więzieniu do 1 roku lub grzywny do 5.000 marek,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_4/lit_b",
+     "text": "za posiadanie broni myśliwskiej lub krótkiej palnej — aresztu da 3 miesięcy lub grzywny do 3.000 marek. * Broń i materjały wojskowe ulegają konfiskacie. Dochodzenie i orzekanie należy do władz administracyjnych. „Art. 6. Odpowiedzialność za przekroczenie niniejszych przepisów w miejscowościach, ogłoszonych za będące w stanie wyjątkowym, określę osobny dekret.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Dekret niniejszy zyskuje moc obowiązującą z chwilą ogłosze: nią go w Dzienniku Praw Państwa i podlega wykonaniu Ministra Spraw Wewnętrznych. © Dan w Warszawie, d. 25 stycznia 1919 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Naczelnik Państwa: J. Piłsudski Prezydent Ministrów: l. J. Paderewski Minister Spraw Wewnętrznych: S. Wojciechowski"
+    },
+    {
+     "type": "text",
+     "text": "z. z i OÓĆŚ Tłoczono w Drukarni Państwowej 2 polecenia Ministra Sprawiedliwości. M 04"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

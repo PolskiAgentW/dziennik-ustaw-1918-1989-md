@@ -1,0 +1,53 @@
+{
+ "eli": "DU/1918/11",
+ "title": "Reskrypt Rady Regencyjnej Królestwa Polskiego w przedmiocie utworzenia Król. Polskiego Sądu Okręgowego w Zamościu",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1918/11/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "RESKRYPT Rady Regencyjnej Królestwa Polskiego w przedmiocie utworzenia Król. Polskiego Sądu Okręgowego w Zamościu. MY, RADA REGENCYJNA KRÓLESTWA POLSKIEGO, postanowiliśmy i stanowimy, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Utworzyć Królewsko-Polski Sąd Okręgowy w Zamościu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do właściwości terytorjalnej Król. Polskiego Sądu Okręgowe:",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "go w Zamościu zaliczyć powiaty: Zamojski, Biłgorajski, Hrubieszowski i Tomaszowski."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Termin utworzenia Sądu określi i przepisy wykonawcze wyda Rada Ministrów. + Aleksander Kakowski Józef Ostrowski Zdz. Lubomirski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Ministrów: Steczkowski."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

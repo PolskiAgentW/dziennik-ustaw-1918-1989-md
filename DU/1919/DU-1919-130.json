@@ -1,0 +1,57 @@
+{
+ "eli": "DU/1919/130",
+ "title": "Dekret w sprawie uregulowania produkcji spirytusu.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/130/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "w sprawie uregulowania produkcji spirytusu. Na wniosek Rady Ministrów stanowię co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Wszelkie zezwolenia, wydane dotychczas na pędzenie okowity lub spirytusu, tracą swą moc obowiązującą. Zezwolenia na uruchomienie gorzelni wydaje Ministerstwo Skarbu za zgodą Ministerstwa Fprowizacji.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Właściciele gorzelni wzgl. urządzeń gorzelnianych lub ich dzierżawcy, w których był potajemnie pędzony spirytus, podlegają karze ciężkiego więzienia od roku do lat 5 łącznie z karą pieniężną od 5.000 mk. do 100.000 mk. Całe urządzenie gorzelniane oraz zapasy spirytusu i surowców ulegaja konfiskacie na rzecz Skarbu.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "_ Art. 3. Dekret niniejszy wchodzi w życie z dniem ogłoszenia: wykonanie go polecam Ministrowi Skarbu. Dan w Warszawie, dnia 30 stycznia 1919 r. Naczelnik Państwa: J. Piłsudski Prezydent Ministrów:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "J. Paderewski Minister Skarbu: Dr. Englich",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tłoczono w Drukarni Państwowaj s polecenia Ministra Sprawiedliwości. IN 5992"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

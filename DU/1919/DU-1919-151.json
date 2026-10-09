@@ -1,0 +1,325 @@
+{
+ "eli": "DU/1919/151",
+ "title": "Dekret w przedmiocie skarbowości powiatowych związków komunalnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/151/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET: w przedmiocie skarbowości powiatowych związków komunalnych."
+  },
+  {
+   "type": "text",
+   "text": "Do czasu wydania przez Sejm ogólnej ustawy skarbowości związków komunalnych zarządza się co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Dla wypełnienia zadań, włożonych na samorząd powiatowy przez Tymczasową Ordynację Powiatową, powiatowe związki komunalne na obszarach b. zaboru rosyjskiego korzystają z następujących źródeł dochodowych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "majątek własny;",
+     "children": [
+      {
+       "type": "text",
+       "text": ">) przedsiębiorstwa komunalne;"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "zapomogi ze strony państwa, oznaczone w specjalnych ustawach i rozporządzeniach;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_1/lit_d",
+     "text": "opłaty zwyczajne i szczególne;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_1/lit_e",
+     "text": "podatki komunalne powiatowe: dotacyjne, dodatkowe do państwowych lub gminnych i samodzielne; 3 pożyczki, darowizny, zapisy, wpływy jednorazowe ze sprzedaży",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_1/lit_f",
+     "text": "monopole handlowe; lub zamiany części majątku. Źródła dochodowe, powyżej wymienione, winny być stosowane w kolei ich wyliczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Majątek powiatowych związków komunalnych ma być w ten sposób administrowany, aby przynosił jak największy dochód.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Przedsiębiorstwa komunalne o charakterze zarobkowym są prowadzone na zasadach prywatno - gospodarczych i podlegają wszelkim przepisom administracyjnym i skarbowym, obowiązującym takież przedsiębiorstwa, należące do osób i instytucji prywatnych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Zapomogi na cele specjalne udzielane będą ze skarbu Państwa oraz z funduszu wyrównawczego. Oddzielne ustawy i rozporządzenia",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "oznaczą, w jakiej mierze skarb Państwa przykładać się będzie do pokrywania wydatków związków samorządnych. Zapomogi z funduszu wyrównawczego udzielane będą przez Ministra Spraw Wewnętrznych tylko finansowo słabym powiatowym związkom komunalnym."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Powiatowe związki komunalne mogą na zasadzie specjalnych uchwalonych przez Sejmiki Powiatowe a zatwierdzonych przez władzę nadzorczą statutów pobierać opłaty od osób, korzystających z usług biur komunalnych (opłaty administracyjne), jak również z urządzeń i zakładów komunalnych, utrzymywanych w interesie dobra publicznego. Oprócz opłat ogólnych powiatowe związki komunalne mają prawo ustanawiania i pobierania opłat specjalnych na założenie i utrzymywanie urządzeń i zakładów dobra powszechnego od tych właścicieli nieruchomości, tudzież przemysłowców i handlujących, którzy z zaprowadzonych urządzeń i zakładów ciągną specjalne korzyści.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 6, Powiatowym związkom komunalnym przekazuje się następujące podatki państwowe: |) podatek od psów,"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_5/pkt_2",
+     "text": "podatek drogowy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_5/pkt_3",
+     "text": "podatek transportowy,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Pozatem powiatowe związki komunalne otrzymują prawo wprowadzenia poniższych dodatków do podatków państwowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_7/pkt_1",
+     "text": "Dodatek do zasadniczego podatku gruntowego państwowego w wysokości 1500%/,.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pobieranie tego dodatku jest obowiązkowe, przyczem 500/, dodatku powiatowe związki komunalne przekazują na rzecz funduszu wyrównawczego, znajdującego się w dyspozycji Ministra Spraw Wewnętrznych. Fundusz wyrównawczy przeznaczony będzie na zapomogi dla finansowo słabych powiatowych związków komunalnych."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_7/pkt_2",
+     "text": "Dodatek do zasadniczego podatku państwowego podymnego do wysokości 100°/,;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_7/pkt_3",
+     "text": "Dodatek do państwowego podatku od nieruchomości miejskich do wysokości .50°/,; UWAGA. W tych powiatach b. zaboru rosyjskiego, w których pobór państwo- - wego podalku od nieruchomości miejskich został od r. 1917 zawieszony, przyjmuje się aż do przywrócenia poboru tego podatku za podstawę do obliczenia dodatku komunalnego stawki państwowego podatku od nieruchomości miejskich, ustalone przez u sławę z dn. 6 czerwca 1910 r. (Zbiór Pr. Rosyj. t. V).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_7/pkt_4",
+     "text": "Dodatek do podatku od przedsiębiorstw handlowych i przemysłowych: \"",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_7/pkt_4/lit_a",
+       "text": "dla klasy I i Il przedsiębiorstw handlowych do wysokości 75°/, podatku patentowego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_7/pkt_4/lit_b",
+       "text": "dla pozostałych klas przedsiębiorstw handlowych do wysokości 150°/, podatku patentowego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_7/pkt_4/lit_c",
+       "text": "dla pierwszych czterech klas przedsiębiorstw przemysłowych do wysokości 50%, podatku patentowego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_7/pkt_4/lit_d",
+       "text": "dla trzech ostatnich klas oraz dla wymienionych poniżej przedsiębiorstw przemysłowych do wysokości 100°/, podatku patentowego;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Przedsiębiorstwami, które mogą być wyżej opodatkowane, są:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_7/pkt_1",
+     "text": "tartaki, 2) fabryki paszy, 3) fabryki octu, 4) fabryki cykorji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_7/pkt_5",
+     "text": "fabryki marmelad, 6) fabryki słodkich wódek, 7) dystylarnie i rektyfikacje, 8) gorzelnie, 9) drożdżownie, 10) młyny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_7/pkt_11",
+     "text": "cukrownie.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_7/pkt_5",
+     "text": "Dodatek do państwowego podatku akcyzowego od przedsiębiorstw, zajmujących się produkcją napoi, do wysokości .1000/6;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_7/pkt_6",
+     "text": "Dodatek do państwowego podatku patentowego od Qwyszynku alkoholu do wysokości 500°/,; -",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_7/pkt_7",
+     "text": "Dodatek do państwowego podatku stemplowego od obrotu majątkami nieruchomemi z tem zastrzeżeniem, że całe obciążenie komunalne nie może przewyższać 1°/, a przy sprzedaży potomkom '/2°/, wartości, służącej za podstawę do obliczania stempla. Przy obrocie majątkami nieruchomemi ziemskiemi powiatowy związek komunalny pobiera powyższy podatek stemplowy w całości na rzecz swoją. Przy obrocie majątkami nieruchomemi, położonemi w miastach niewydzielonych z powiatów, przysługuje gminom miejskim prawo do połowy podatku. Drugą połowę pobiera na rzecz swoją powiatowy związek komunalny. Dopóki gminy miejskie włączone do powiatu nie będą korzystały z prawa do połowy dodatku, może powiatowy związek komunalny pobierać podatek w całości;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_7/pkt_8",
+     "text": "Dodatek do państwowego podatku mieszkaniowego do wysokości 250%.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Powiatowe związki komunalne otrzymują prawo wprowadzania na mocy specjalnych statutów powiatowych, zatwierdzonych przez władzę nadzorczą, samodzielnych podatków od koni i bydła, od przedmiotów zbytkowych i innych podatków bezpośrednich i pośrednich.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Każda uchwała powiatowego związku komunalnego, dotycząca wprowadzenia lub zmiany opłat i podatków komunalnych wymienionych w art. 5, 7 i 8 wymaga zatwierdzenia Ministra Spraw Wewnętrznych po porozumieniu z Ministrem Skarbu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 10. Powiatowe*związki komunalne otrzymują prawo pobierania dodatków do cen przedmiotów, stanowiących monopol państwowy. Dodatki te ustali się w wysokości jednolitej dla obszarów b. zaboru rosyjskiego na mocy rozporządzenia Ministra Skarbu, wydanego w porozumieniu z Ministrami Spraw Wewnętrznych i Aprowizacji."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Powiatowe związki komunalne mogą monopolizować sprzedaż niektórych przedmiotów handlu z wyjątkiem przedmiotów, należących do monopolu paristwowego lub obłożonych państwowym podatkiem pośrednim. Uchwały organów samorządnych, orzekające zmonopolizowanie sprzedanego przedmiotu, oraz odnośne statuty ulegają zatwierdzeniu Ministra Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu i Ministrem Handlu i Przemysłu, względnie—o ile monopol dotyczy artykułów pierwszej potrzeby—w porozumieniu z Ministrem Fprowizacji. Ustanowienie cen sprzedażnych przedmiotów zmonopolizowanych wymaga również zatwierdzenia ministrów, wyżej wymienionych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Powiatowe związki komunalne mogą zaciągać pożyczki:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_12/pkt_1",
+     "text": "długoterminowe na cele produkcyjne lub na pokrycie nadzwyczajnych potrzeb, wywołanych wojną albo wypadkami żywiołowemi, 2) krótkoterminowe na pokrycie czasowego braku gotowizny w kasie oraz na utworzenie",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "kapitału obrotowego dla prowadzenia operacji żywnościowych i monopoli handlowych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Szczegółowy projekt pożyczki, określający jej wysokość, cel i formę, środki zabezpieczenia, termin i cały plan amortyzacji, winier być zatwierdzony przez władze nadzorcze.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Wykonanie dekretu poleca się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu. Dan w Warszawie, dn. 7 lutego 1919 r. Naczelnik Państwa: J. Piłsudski Prezydent Ministrów: I. J. Paderewski Minister Spraw Wewnętrznych: S. Wojciechowski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,148 @@
+{
+ "eli": "DU/1919/204",
+ "title": "Dekret w przedmiocie taksy tymczasowej dla pisarzy hipotecznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/204/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET w przedmiocie taksy tymczasowej dla pisarzów hipotecznych. Załączoną do niniejszego taksę tymczasową dla pisarzów hipotecznych uchwaloną przez Radę Ministrów, zatwierdzam. Dan w Warszawie, dn. 8 lutego 1919 r. Naczelnik Państwa: J. Piłsudski . Prezydent Ministrów:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "|. Paderewski Minster Sprawiedliwości: Supiński",
+   "children": [
+    {
+     "type": "text",
+     "text": "TAKSA TYMCZASOWA dla pisarzów hipotecznych. Pisarz hipoteczny pobiera:"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Od wniosku o przepisanie tytułu własności, wciągnięcie do ksiąg hipotecznych tytułów dłużnych i Mpołeń prawnych oraz o regulację spadku",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_1/lit_a",
+     "text": "do 1.000 mk. . 10 mk.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_1/lit_b",
+     "text": "wyżej 1.000 mk. ponadto 1/190/5 od pozostałej s sumy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Od wniosku o odłączenie ksiąg hipotecznych; lub o połączenie ksiąa oddzielnych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "w księdze głównej . . . 50 mk. BŚ 5 ż nowozałożonej. 10 mk,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Od protokułu pierwiastkowego zaprowadzenia hipoteki:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_3/lit_a",
+     "text": "w kancelarjach ae asia ia przy Sądach Pokoju ... 30 mk’",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_3/lit_b",
+     "text": "w kancelarjach ee przy Sadach Okręgowych . 50 mk",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Od wszelkich innych wniosków. jako to: o wezwanie do pierwiastkowego zaprowadzenia hipoteki, o ogłoszenie postępowania spadkowego, o podniesienie decyzji zwierzchności hipotecznej, o wpisanie do wykazu hipotecznego kaucji, hipotek sądowych, wszelkich ostrzeżeń, wykreśleń, wreszcie od wniosków łącznych (dodatkowych) . . . . 10 mk.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Za podanie interesantowi do przejrzenia księgi hipotecznej 50 fen.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "Od protokułów faktycznego wydania listów zastawnych Towarzystw Ress owych Złemskiego i Miejskich ‘/2 część procentu od sumy nominalnej",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "Za wciągnięcie do wykazu hipotecznego treści . . . 1 mk.'",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "ust_7/pkt_8",
+     "text": "Qd odpisów z wykazów hipotecznych, wypisów i odpisów aktów notarjalnych, aktów stanu cywilnego, zaświadczeń z repertorjów i ksiąg opłat, poświadczenia terminów zamknięcia postępowania spadkowego:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "za każdą stronicę całą lub zaczętą . . 1 mk. 50 fen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "Za świadectwa z wykazu hipotecznego specjalne (rozumowane) 10 mk. -",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "Od każdej pozycji świadectwa zamieszkań osób, mających ujawniona prawa w wykazie hipotecznym 60 fen. i Minister Sprawiedliwości: Supiński",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

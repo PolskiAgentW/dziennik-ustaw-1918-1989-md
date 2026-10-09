@@ -1,0 +1,256 @@
+{
+ "eli": "DU/1919/190",
+ "title": "Dekret w przedmiocie przepisów tymczasowych dla ubezpieczeń wzajemnych budowli od ognia w b. Królestwie Polskiem.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/190/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie przepisów tymczasowych dla ubezpieczeń wzajemnych budowli od ognia w b. Królestwie Polskiem. Na wniosek Rady Ministrów postanawiam co następuje: Frt. 1. Do czasu uchwalenia przez Sejm nowej ustawy, Ubezpieczenia wzajemne od ognia w b. Królestwie Polskiem obowiązane są stosować ustawę z dn. 10 czerwca 1900 r. ze zmianami w następnych artykułach wskazanemi."
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Oszacowanie wszystkich budowli o taryfowanych na podstawie taryfy, obowiązującej Ubezpieczenia wzajemne budowli od ognia w b. Królestwie Polskiem dla budowli zwykłych według kategorii B tablic A, Bi C, oraz kategorji A tychże tablic w tych miejscowościach, w których budowle skupione taryfowane są według kategorji B, zostaje podniesione o 100°/o",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dotychczasowe oszacowania wszelkich innych budowli mogą być podniesione do 100%, według uznania zarządu ubezpieczeń wzajemnych, na wniosek ubezpieczonych.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Ulegająca przymusowi ubezpieczeniowemu suma oszacowania rubli 5.000 dla nieruchomości, wymienionych w art. art. 2 i 3 niniejszego dekretu, zostaje podniesiona do sumy rubli 10.000.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Dla nadzoru nad działalnością instytucji oraz dla rozstrzygania spraw, przekraczających podług ustawy kompetencje zarządu i nie zastrzeżonych do decyzji Ministra Spraw Wewnętrznych—tworzy się rada nadzorcza ubezpieczeń wzajemnych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Rada nadzorcza składa się z 10 członków, a mianowicie: z 2 delegatów związku kółek rolniczych, 2 delegatów centralnego towarzystwa rolniczego, 2 delegatów związku miast, 1 delegata towarzystwa przemysłowców, 1 delegata rady zjazdów górniczych, prezesa zarządu wzajemnych ubezpieczeń lub jego zastępcy i jednego członka, kooptowanego przez radę nadzorczą.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 7. Członkami rady nadzorczej nie mogą być osoby, które pełnią jakiekolwiek funkcje w prywatnych towarzystwach ubezpieczeniowych lub też są w tych towarzystwach finansowo zainteresowane. Delegaci z ramienia związku miast winni być przedstawicielami miast prowincjonalnycn. Prezes zarządu ubezpieczeń wzajemnych nie uczestniczy w posiedzeniach rady, gdy są rozpatrywane sprawy, przewidziane w punktach b, c i g art. 9 1iniejszego dekretu."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Rada nadzorcza wybiera z pośród siebie prezesa i wiceprezesa.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Do kompetencji rady nadzorczej należy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_9/lit_a",
+     "text": "projektowanie budżetu do zatwierdzenia przez Ministra Spraw Wewnętrznych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_9/lit_b",
+     "text": "kontrola bezpośrednia nad biegiem czynności i stanem funduszów instytucji oraz sprawdzanie rachunków, sprawozdań i bilansów miesięcznych i rocznych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_9/lit_c",
+     "text": "składanie Ministrowi Spraw Wewnętrznych wniosków o ujawnionych przy rewizji uchybieniach i odchyleniach od zatwierdzonego budżetu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_9/lit_d",
+     "text": "zatwierdzanie wszelkich instrukcji i regulaminów w granicach ustawy;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_9/lit_e",
+     "text": "składanie Ministrowi Spraw Wewnętrznych wniosków w sprawie zmiany ustawy, taryfy lub sposobu pobierania składki i przechowywania funduszów;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_9/lit_f",
+     "text": "zatwierdzanie zwrotu opłat uiszczonych, o ile zwrot przenosi su me 1.000 mk.; h rozpatrywanie zażaleń i skarg na zarząd; zatwierdzanie wydatków na środki przeciwpożarne, budownictwo ogniotrwałe i zasiłki dla straży ogniowych, o ile nie przekraczają one sumy mrk. 30.000—w każdym poszczególnym wypadku, oraz przedstawianie wniosków w tych sprawach do decyzji Ministra Spraw Wewnętrznych, gdy chodzi o sumy powyżej 30.000 mrk.; |) rozpoznawanie i zatwierdzanie wniosków Zarządu w sprawie zawierania umów reasekuracyjnych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "art_9/lit_j",
+     "text": "decydowanie w sprawach, dotyczących wątpliwych odszkodowań pogorzelowych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "k",
+     "path": "art_9/lit_k",
+     "text": "opinjowanie o przeznaczeniu pozostałych z roku operacyjnego nadwyżek i składanie wniosków w tych sprawach Ministrowi Spraw Wewnętrznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Zażalenia i skargi na decyzje Zarządu winne być składane do Rady Nadzorczej w ciągu dwóch miesięcy od daty zawiadomienia o ze-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "padłej decyzji; decyzje Rady Nadzorczej mogą być w ciągu trzech miesięcy od daty zawiadomienia zaskarżone do Ministra Spraw Wewnętrznych."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Posiedzenia Rady Nadzorczej odbywają się w miarę potrzeby, nie rzadziej jednak, jak raz na miesiąc; w posiedzeniach bierze udział delegat Ministerstwa Spraw Wewnętrznych z prawem stawiania wniosków. Dla prawomocności zebrania wvmaqana jest obecność 5 członków Rady. Uchwały zapadają zwykłą większością ałosów. W razie równego podziału, decyduje gios przewodniczącego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Prezes Rady Nadzorczej, Wiceprezes lub członek delegowany mają prawo uczestniczyć w posiedzeniach Zarządu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Członkowie Rady Nadzorczej za pełnienie czynności poza Warszawą mają prawo do djet i zwrotu kosztów podróży na zasadach. ustalonych w etacie dla Prezesa Zarządu. Za udział w posiedzeniach w Warszawie członkowie Rady otrzymują żetony, określone w etacie Zarządu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Nagany i napomnienia funkcjonarjuszom instytucji udziela Rada Nadzorcza, za pośrednictwem Prezesa Zarządu. Ministerstwo Spraw Wewnętrznych udziela nagany i napomnienia za pośrednictwem Rady Nadzorczej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Prezesa Zarządu Wzajemnych Ubezpieczeń oraz jego zastępcę mianuje Najwyższa Władza Państwowa na przedstawienie Ministra Spraw Wewnętrznych; Ministrowi Spraw Wewnętrznych kandydatów na stanowiska Prezesa Zarządu i jego zastępcy przedstawia Rada Nadzorcza. Naczelników Wydziałów, Inspektorów oraz taksatorów mianuje Minister Spraw Wewnętrznych na przedstawienie Prezesa Zarządu; do przedstawienia winna być dołączona opinja Rady Nadzorczej; obsadzanie wszystkich innych urzędów w Ubezpieczeniach Wzajemnych należy do Prezesa Zarządu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "W związku z przepisami powyższemi ulegają a mianie następujące artykuły ustawy z dnia 10 czerwca 1900 r.:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_16/lit_a",
+     "text": "w art. art. 2, 5, 28, 40 i w uwadze do art. 46 suma wartości ubezpieczanych budowli podniesiona zostaje z 5.000 rb. do 10.000 rb.;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_16/lit_b",
+     "text": "w artykule 3 punkt 2 zamiast słowa .rosyjskich* należy zamieścić słowo ,polskich*, ustęp zaś: „stosownie do wskazówek Ministra Spraw Wewnętrznych\" zostaje uchylony;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_16/lit_c",
+     "text": "artykuł 14 otrzymuje brzmienie następujące: „Z funduszów ubezpieczeniowych wypłaca się według uznania Rady Nadzorczej Ubezpieczeń wzajemnych wynagrodzenie: a) za dostarczenie sikawek na miejsce pożaru, zależnie od tego, jak prędko i z jakiej odległości przybyła sikawka, tudzież w jakim stopniu przyczyniła się do ugaszeńia pożaru, b) za uszkodzenie sikawek, spowodowane gaszeniem ognia podług oszacowania tego uszkodzenia, c) za szczególne odznaczenie się przy gaszeniu pożaru, d) za specjalne współdziałanie przy schwytaniu lub wykryciu podpalaczów, jeżeli wina tych ostatnich stwierdzona będzie wyrokiem prawomocnym. Wzmiankowane wynagrodzenie (ustęp d) może być wydane osobom prywatnym, jak również policji powiatowej i wiejskiej, która prowadziła dochodzenie pierwotne o pożarze po porozumieniu się z zwierzchnością organów policji\";",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_16/lit_d",
+     "text": "artykuł 16 otrzymuje brzmienie następujące: „Kierownictwo sprawami Ubezpieczeri Wzajemnych należy pod kontrolą Ministra Spraw Wewnętrznych do Rady Nadzorczej i Zarządu!;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_16/lit_e",
+     "text": "w art. 21 uwaga l-a,ustęp ostatni: „pod warunkiem przesyłanie rachunków powyższych po ich uregulowaniu do sprawdzenia właściwej izbie kontroli*—uchyla się; 3 art. 23 uchyla się; art. 24 w ustępie £-im zostają uchylone ustępy: „w porozumieniu z miejscowym gubernatorem* oraz „aby ogólna kwota wydanych zapomóg nie przenosiła 75.000 rb. rocznie\"; art. 26 uchyla się; do art. 58 zostaje dodana uwaga treści następującej: „Pirtykuł powyższy nie rozciąga się na nieruchomości zniszczone lub uszkodzone podczas wypadków wojennych, skutkiem czego właściciele takich nieruchomości mogą za pośrednictwem właściwych taksatorów wyjednywać u Zarządu umorzenie należnych od nich składek w całości lub częściowo, a to stosownie do instrukcji, jaką w tej mierze wyda Rada Nadzorcza”; i) artykuł 71 otrzymuje brzmienie następujące: „Ubezpieczony, o ile nie zgadza się na zatwierdzony przez taksatora ubezpieczeń obrachunek wynagrodzenia, może zaskarżyć ten ostatni do Zarządu w ciągu dwóch tygodni od chwili zakomunikowania mu o nim; ubezpieczonemu w razie niezadowolenia z decyzji Zarządu służy prawo skargi w ciągu dwóch miesięcy od dnia zawiadomienia o decyzji do Rady Nadzorczej; decyzje Rady Nadzorczej mogą być zaskarżane w ciągu trzech miesięcy od zawiadomienia do Ministra Spraw Wewnętrznych, lub też po zapadnięciu decyzji Rady Nadzorczej może być wytoczona Zarządowi sprawa sądowa”; k) w artykule 83 uchyla się ustęp od słów „Ministerstwo Spraw Wewnętrznych” do końca artykułu; 1) uchyla się uwaga do artykułu 84; m) artykuł 88 otrzymuje następujące brzmienie: „Na wniosek taksatora ubezpieczeń, jako też na skutek reklamacji ubezpieczonych, Rada Nadzorcza umarza zaległości lub niedobory, które uzna za niemożliwe do ściągnięcia, tudzież należności nieprawidłowo wyznaczone do pobrania i zwraca niewłaściwie pobrane sumy do wysokości 1.000 mk.; w każdym poszczególnym wypadku umorzenie zaległości lub zwrot opłat powyżej 1.000 mk. następuje na mocy decyzji Ministra Spraw Wewnętrznych”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Wykonanie niniejszego dekretu polecam Ministrowi Spraw Wewnętrznych, którego upoważniam jednocześnie do wydawania opartych na ustawie i dekrecie instrukcji i przepisów wykonawczych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Dekret niniejszy uzyskuje moc obowiązującą odnośnie art. art. 1, 2, 3i 4 od dnia 1-go stycznia 1919 r., odnośnie innych artykułów, od dnia ogłoszenia w Dzienniku Praw Państwa Polskiego. Dan w Warszawie, dnia_7 lutego 1919 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Naczelnik Państwa: J: Piłsudski Prezydent Ministrów: /. |. Paderewski Minister Spraw Wewnętrznych: S. Wojeiechowsk"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

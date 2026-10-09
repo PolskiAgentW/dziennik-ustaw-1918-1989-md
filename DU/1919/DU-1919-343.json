@@ -1,0 +1,82 @@
+{
+ "eli": "DU/1919/343",
+ "title": "Rozporządzenie Kierownika Ministerstwa Kolei Żelaznych w sprawie stosowanych na kolejach polskich w b. okupacji niemieckiej taryfach na przewóz towarów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1919/343/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Kierownika Ministerstwa Kolei Żelaznych"
+  },
+  {
+   "type": "text",
+   "text": "w sprawie stosowanych na kolejach polskich w b. okupacji niemieckiej taryfach na przewóz towarów."
+  },
+  {
+   "type": "text",
+   "text": "W uzupełnieniu rozporządzenia z dnia 31 marca r. b. o obowiązujących na kolejach polskich w dawnym zaborze rosyjskim przepisach i taryfach na przewóz osób, bagażu i towarów (Dziennik Praw Ne 30 poz. 254) postanawiam co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w wymienionej w art. 2 p. b) powyższego rozporządzenia taryfie na przewóz towarów na kolejach w b. okupacji niemieckiej należy uważać za zniesione z chwilą objęcia kolei przez. władze polskie niezależnie od ulg na wywóz do Niemiec różnych towarów jeszcze następujące opłaty taryfowe:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "na przewóz towarów według klas dodatkowych w ładunkach półwagonowych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "na przewóz towarów w ładunkach wagonowych z szybkością pośpieszną i",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "na przewóz węgla podług wyjątkowej taryfy Ne 1;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "wskazane w artykule 3-im tegoż rozporządzenia opłaty dodatkowe należy uważać na podwyższone o 100°%o w stosunxu do takichże opłat z dnia 1 stycznia 1918 r. Nadto należy stosować zmienione opłaty taryfowe:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "na przewóz zwierząt w pełnych ładunkach i",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "na przewóz mleka. Powyższe uzupełnienia (p. p. 1 i 2) przeprowadzone zostały w wydaniu polskiem wspomnianej wyżej taryfy na przewóz towarów na kolejach polskich w b. okupacji niemieckiej p. n. „Taryfa tymczasowa na przewóz towarów i zwierząt na linjach państwowych okręgu warszawskiego *. Warszawa. dnia 5 lipca 1919 r. Kierownik Ministerstwa:",
+     "children": [
+      {
+       "type": "text",
+       "text": "J. Eberharat"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
