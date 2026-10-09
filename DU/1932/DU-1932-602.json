@@ -1,0 +1,382 @@
+{
+ "eli": "DU/1932/602",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 30 czerwca 1932 r. o wyrobie, kontroli i sprzedaży surowic i szczepionek leczniczych, zapobiegawczych i diagnostycznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1932/602/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 czerwca 1932 r."
+  },
+  {
+   "type": "text",
+   "text": "© wyrobie, kontroli i sprzedaży surowic i szczepionek leczniczych, zapobiegawczych i diagnostycznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 p. 13 i art. 10 zasadniczej ustawy sanitarnej z dnia 19 lipca 1919 r. (Dz. P. P. Nr. 63, poz. 371) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wyrób surowic i szczepionek, używanych w praktyce lekarskiej, dozwala się wyłącznie osobom, które otrzymają odpowiednie zezwolenie od Ministra Spraw Wewnętrznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Warunki, jakim powinny odpowiadać zakłady wyrobu surowic i szczepionek, określi Ministerstwo Spraw Wewnętrznych przy wydawaniu zezwolenia. W razie niezastosowania się do tych warunków udzielone zezwolenie może być w każdym czasie cofnięte.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wyrób surowic i szczepionek może być dopuszczony wyłącznie pod fachowem kierownictwem osób, przez Ministerstwo Spraw Wewnętrznych na tem stanowisku zatwierdzonych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Wszystkie zakłady wyrobu surowie i szczepionek obowiązane są prowadzić szczegółowe wykazy ilości wyprodukowanych surowic i szczepionek, ich rodzajów, oraz notować komu, w jakim czasie i w jakich ilościach zostały odstąpione. Zakłady te obowiązane są składać Ministerstwu Spraw Wewnętrznych kwartalne wykazy ilości wyprodukowanych i pozostałych w zakładzie wyrobów,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Wszystkie surowice i szczepionki przed ich wypuszczeniem w obieg podlegają badaniu na jałowość i nieszkodliwość lub też określeniu miana.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Badanie surowic i szczepionek leczniczych, zapobiegawczych i diagnostycznych powierza się Oddziałowi badania surowiec Państwowego Zakładu Higjeny w Warszawie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Określeniu miana podlegają następujące preparaty:",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_7/lit_a",
+     "text": "surowica przeciwbłonicza,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_7/lit_b",
+     "text": "‘9 przeciwczerwonkowa,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_7/lit_c",
+     "text": "\" przeciw jadowi kiełbasianemu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_7/lit_d",
+     "text": "M przeciwmeningokokowa,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_7/lit_e",
+     "text": "4 przeciwpneumokokowa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "M przeciwpłonicza,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_7/pkt_8",
+     "text": "\" przeciwtężcowa,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_7/pkt_8/lit_h",
+       "text": "przeciw zgorzeli gazowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_7/pkt_8/lit_i",
+       "text": "anatoksyna błonicza,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_7/pkt_8/lit_i",
+       "text": "produkty dla odczynów skórnych (Schick, Dick, Brokmann),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_7/pkt_8/lit_k",
+       "text": "antygeny dla odczynów serodiagnostycznych przy kile,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "produkty diagnostyczne,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "m",
+       "path": "par_7/pkt_1/lit_m",
+       "text": "szczepionka przeciwospowa.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Miano surowic i szczepionek, podanych w § 7, winno być określone przez zakład wytwórczy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Badaniu podleśa kazdorazowa cała serja produkcji surowiec i szczepionek. Całkowita serja produkcji winna być złożona w specjalnem pomieszczeniu w lokalu zakładu wytwórczego i opieczętowana pieczęcią urzędową po pobraniu prób do badania przez organ państwowej władzy administracji sanitarnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Pozwolenia na wypuszczanie w o bieś surowic i szczepionek, używanych w praktyce lekarskiej, udziela wojewódzka władza administracji ogólnej (Komisarjat Rządu m. st. Warszawy) po otrzymaniu pomyślnego wyniku badania z Oddziału badania surowic Państwowego Zakładu Higjeny w Warszawie, wydanego dla każdej poszczesólnej serji preparatu z zaznaczeniem, czy preparat ten odpowiada niezbędnym wymogom pod względem jałowości i nieszkodliwości, tudzież czy badanie preparatu okazało odpowiednią wysokość miana (minimalną ilość jednostek).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Wszystkie surowice, podlegające obowiązkowemu określeniu miana (§ 7), mogą znajdować się w obiegu w ciągu trzech lat od daty zbadania przez Oddział badania surowic Państwowego Instytutu Higjeny, jednakże surowice takie powinny zawierać w 1 centymetrze” o 10% więcej jednostek niż to jest podane przez zakład wytwórczy (§ 8). Produkty do odczynów skórnych mogą znajdować się w obiegu przez 6 miesięcy od daty, określonej w ust. 1. Anatoksyny mogą znajdować się w obiegu przez 3 lata od daty, określonej w ust. 1. Szczepionki bakteryjne płynne zwykłe i uczulone mogą znajdować się w obiegu przez 18 miesięcy od daty, określonej w ust. 1. Antivirus i szczepionki suche mogą znajdować się w obiegu przez czas nieograniczony. Szczepionka przeciw wściekliźnie, zawierająca zarazek zabity, może znajdować się w obiegu przez 6 miesięcy, zaś zawierająca zarazek żywy — przez 21 dni od daty, określonej w ust. 1. Szczepionka przeciwospowa, trzymana na składzie w temperaturze 4° — 8°, może znajdować się w obiegu przez 2 miesiące od daty, określonej w ust. 1. '",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr. 64."
+    },
+    {
+     "type": "text",
+     "text": "Surowice niepodlegaiace obowiązkowi określenia miana mośsą znajdować się w obiegu przez trzy lata od daty, określonej w ust. 1."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Opakowanie surowic i szczepionek, tudzież naczynia, zawierające surowice i szczepionki. po dokonanem badaniu otrzymują nalepkę z godłem Państwa i numerem kontroli, a mianowicie preparaty, podlegające określeniu miana, nalepki koloru czerwonego, zaś preparaty badane jedynie na jałowość i nieszkodliwość, nalepkę koloru zielonego (wzór dołącza się). Oprócz tego opakowanie względnie syśnatura winny zawierać a) firmę producenta, b) nazwę surowicy lub szczepionki, c) cenę detaliczną, d) miano i termin, do któreśo preparat może pozostawać w obiegu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Oddział badania surowic Państwowesa Zakładu Higjeny pobiera za badanie surowic i szczepionek tytułem zwrotu kosztów badania następujące opłaty:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_13/lit_a",
+     "text": "za badanie surowicy przeciwbłoniczej . ; j j j j . 50 zł.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_13/lit_b",
+     "text": "za badanie surowicy KREOWANIE wonkowej . « BO g",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_13/lit_c",
+     "text": "za badanie sarowioy: srzeciw jadowi kiełbasianemu . : 3 » 50 y",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_13/lit_d",
+     "text": "za badanie surowicy przeciwmeningokokowej |. ; » R + 50 y",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_13/lit_e",
+     "text": "za badanie surowicy przeciwpneumokokowej Ą Ą i . 50 w",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_13/lit_f",
+     "text": "za badanie paraWwiny sizeliwpłóńiczej c „ . ; ~ 50 w $) za badanie surowicy przeciwtężcowey, > . , 50 „",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "par_13/lit_h",
+     "text": "za badanie surówicy przeciw zgorzeli śazowej . ; : + 50,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "par_13/lit_i",
+     "text": "za badanie snatolsyć » . 50 i \" produktów do odczynów skórnych (Schick, Dick, Brokmann) 50 ,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "k",
+     "path": "par_13/lit_k",
+     "text": "za badanie antygenów do odczynów serodiagnostycznych przy kile > 50 w",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "l",
+     "path": "par_13/lit_l",
+     "text": "za badanie produktów Alagiwstycz nych = . . . 30 \"",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "m",
+     "path": "par_13/lit_m",
+     "text": "za badanie szczepionki przeciwospowej . , 50 w",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "n",
+     "path": "par_13/lit_n",
+     "text": "za badanie szczepionek zawiesdją: cych zarazki zabite . ‘ ś . 25",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "0",
+     "path": "par_13/pkt_0",
+     "text": "za badanie szczepionek zawierających zarazki żywe . j ; . 50 „ Opłaty. podane powyżej, obejmują zarówno oznaczenie miana, jak też badanie na jałowość i nieszkodliwość. Podane opłaty dotyczą jednorazowego badania surowic stosownie do miana, podanego przez zakład wytwórczy. Jeżeli surowica nie posiada miana, podanego przez zakład wytwórczy, to za ustalenie miana przysługuje Oddziałowi badania surowic Państwoweśo Zakładu Hiśjeny „prawo pobrania dodatkowej opłaty w wysokości 50% opłat, określonych w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Przywóz surowic i szczepionek, używanych w praktyce lekarskiej, z zagranicy i z ob- -szarow, na których niniejsze rozporządzenie nie obowiązuje, może być dopuszczony wyłącznie za",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "każdorazowem zezwoleniem Ministerstwa Spraw Wewnętrznych i na warunkach w zezwoleniu tem określonych. bieg surowiec i szczepionek, wymienionych w ust. 1, podleśa przepisom $§ 5 — 13 niniejszego rozporządzenia."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "W celu ujednostajnienia badań Oddział badania surowic Państwowego Zakładu Higjeny dostarcza zakładom wytwórczym na ich żądanie surowie i jadów wzorcowych bezpłatnie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "określi sposoby"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Oddzielna instrukcja badań surowic i szczepionek.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Handel detaliczny surowicami i szczepionkami mośą prowadzić tylko apteki; handel hurtowy — tylko osoby uprawnione do handlu hurtowego środkami leczniczemi. Surowice i szczepionki, znajdujące się w handlu, powinny odpowiadać wymogom w § 12 niniejszeso rozporządzenia określonym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Rozporządzenie niniejsze wchodzi w ży: cie z dniem ogłoszenia. Równocześnie traci moc obowiązującą rozporządzenie Ministra Zdrowia Publicznego z dnia 21 maja 1920 r. (Dz. U. R. P. Nr. 51, poz. 317) w przedmiocie wyrobu i sprzedaży surowic i szczepionek leczniczych, zapobiegawczych i diaśnostycznych, używanych w praktyce lekarskiej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Bronisław Pieracki"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do § 12 rozp. Min. Spraw Wewn, z dn, 30 czerwca 1932 r. (poz. 602),"
+    },
+    {
+     "type": "text",
+     "text": "(Kolor zielony). (Kolor czerwony)."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

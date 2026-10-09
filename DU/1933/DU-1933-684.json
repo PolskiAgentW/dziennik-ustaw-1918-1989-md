@@ -1,0 +1,594 @@
+{
+ "eli": "DU/1933/684",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 30 października 1933 r. wydane w porozumieniu z Ministrami: Spraw Wewnętrznych i Rolnictwa i Reform Rolnych w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o państwowym podatku od uboju.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/684/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 października 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrami: Spraw Wewnętrznych i Rolnictwa i Reform Rolnych w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o państwowym podatku od uboju."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ustęp 2), art. 5 ustęp 2), art, 9 oraz art. 12 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o państwowym podatku od uboju (Dz. U. R. P. Nr. 84, poz. 614) zarządza się co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Do art. 1."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Do cieląt, w celu ustalenia stawki państwowego podatku od uboju, zalicza się sztuki bydła w wieku do 6 miesięcy. Sztuki przekraczające tę śranicę wieku zalicza się do bydła rogatego. Za cielęta 6-miesięczne należy uważać takie, które posiadają oprócz pierwszych trzech mlecznych zębów trzonowych (praemolares) czwarty stały ząb trzonowy (pierwszy molaris).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do art. 3."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Za „własne gospodarstwo domowe\" nie uważa się gospodarstwa:",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Dziennik Ustaw. Foz. 684."
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "koszar, szpitali, więzień, zakładów wychowawczych, schronisk i przytułków, hoteli, pensjonatów, domów zajezdnych (oberży), jadłodajni i innych zakładów otwartych do użytku publiczności;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "własnych gospodarstw rzeźników, masarzy, osób handlujących mięsem oraz osób zarządzających zakładami i przedsiębiorstwami, wymienionemi wyżej pod a}.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "Państwowemu podatkowi od uboju nie podlega:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "ubój zwierząt wymienionych w art. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. (Dz. U. R. P. Nr. 84, poz. 614) przeznaczonych na eksport zagranicę, pod warunkiem udowodnienia tego eksportu’ ;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "ubój prosiąt, nieprzekraczających 30 kg żywej wagi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "Jeżeli posiadacz poddawanego ubojowi prosięcia twierdzi, że ubój wolny jest od podatku na podstawie ust. 1 lit. b) niniejszego paragrafu, przeznaczone na ubój prosię winno być zważone w obecności przedstawiciela władzy pobierającej podatek. Związane z tem ewentualnie koszty ponosi posiadacz zwierzęcia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do art 5 — 9,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "Państwowy podatek od uboju winien być wpłacony przed ubojem zwierzęcia.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "Po uboju zwierzęcia podatek może być uiszczony wówczas, gdy zachodzi:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_2/lit_a",
+       "text": "konieczność natychmiastowego zabicia zwierzęcia wskutek nieszczęśliwego wypadku,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_2/lit_b",
+       "text": "obawa, że zwierzę przed przybyciem lekarza weterynaryjnego lub oglądacza mogłoby paść albo, że mięso zwierzęcia wskutek pogorszenia się jego stanu zdrowia mogłoby znacznie stracić na wartości. W przypadkach tych podatek winien być uiszczony w tym samym dniu, w którym odbywa się badanie mięsa po uboju, równocześnie z opłatą za badanie.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Państwowy podatek od uboju uiszcza się:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_5/lit_a",
+     "text": "w gminach utrzymujących rzeźnie, w tych rzeźniach,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_5/lit_b",
+     "text": "w gminach nieutrzymujących rzeźni, do rąk lekarzy weterynaryjnych lub oglądaczy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "Pobór państwowego podatku od uboju odbywa się przy pomocy specjalnych znaczków wartościowych, według wzoru ustalonego przez Ministra Skarbu.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "Znaczki te, o wartości odpowiadającej sumie należnego podatku, naklejają orśana pobierające podatek na wydawanych płatnikom dokumentach, stwierdzających uiszczenie opłat za użytkowanie rzeźni, lub za badanie zwierząt rzeźnych i mięsa, o ile dokumenty te wydawane są z księgi grzbietowej z pozostawieniem talonu (odcinka).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "W powyższych przypadkach znaczki wartościowe nakleja się na linji, oddzielającej talon od dokumentu, przeznaczonego do wycięcia. Znaczki wartościowe należy naklejać pionowo w ten sposób, aby jego część górna była zwrócona ku górnemu brzegowi księgi, po wycięciu dokumentu lewa po-",
+     "children": [
+      {
+       "type": "text",
+       "text": "INr, 88."
+      },
+      {
+       "type": "text",
+       "text": "łowa znaczka pozostaje na talonie, a prawa na wydanym dokumencie."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "O ile wymienione wyżej dokumenty wydaje się z księgi grzbietowej z pozostawieniem kopii, wówczas znaczki wartościowe nakleja się na kopji pozostającej w księdze i kasuje się je datą skasowania oraz nazwiskiem kasującego, na wydanym zaś dokumencie stwierdza się uiszczenie podatku (zapomocą pisma lub pieczęci) wymieniając jego kwotę (np. słowami: „Państwowy podatek od uboju uiszczono w kwocie ,...... zł”). .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_6/pkt_5",
+     "text": "Talony oraz kopje należy przechowywać do celów kontroli przez lat pięć, licząc od upływu roku, w którym uiszczono podatek. , 6) Niezależnie od postanowień ustępów poprzedzających, organa pobierające podatek odnotowują na wydawanych platnikom świadectwach wwozu mięsa, że należny podatek został pobrany. Adnotacja ta, w formie pieczęci wyciskanej na świadectwie, powinna zawierać sumę uiszczonego podatku, datę poboru i pieczęć organu pobierającego podatek.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "W przypadkach, gdy ubój wolny jest od podatku na podstawie art. 3 ust. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. (Dz. U. R.P. Nr. 84, poz. 614) władze pobieraiace podatek odnotowują tę okoliczność na pozostawianych u siebie odcinkach dokumentów określonych w § 6.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "W przypadkach, gdy ubój wolny jest od podatku na podstawie § 3 niniejsześo rozporządzenia, władze te wydają posiadaczowi przeznaczonego na ubój zwierzęcia odpowiednie poświadczenie, stwierdzające zwolnienie od podatku oraz powód zwolnienia, tudzież odnotowują te dane na wydawanem posiadaczowi ewentualnie świadectwie wwozu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "Wymiar podatku z reguły nie ma miejsca, Wymiar podatku następuje wówczas, gdy zostanie stwierdzone, że podatnik uchylił się od obowiązku uiszczenia należnego podatku, w całości lub w części. Brak na świadectwie wwozu adnotacji o uiszczeniu podatku (§ 6 ust. 6) stanowi domniemanie, że należny podatek nie został uiszczony i uprawnia właściwą według postanowień ustępu 3) władzę do poboru tego podatku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "Wymiar uskutecznia się w sposób doraźny, lub w zwykłym trybie postępowania. W sposób doraźny uskutecznia się wymiar dla tych osób, które nie uiściły należnego podatku i zostały przychwycone na usiłowaniu wprowadzenia do obrotu handlowego mięsa, pochodzącego z uboju nieopodatkowanego. W pozostałych przypadkach uskutecznia się wymiar w zwykłym trybie postępowania.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "Wymiar doraźny uskutecznia ta władza uprawniona do poboru podatku, na której obszarze działania przytrzymaną zostanie osoba uchylająca się od zapłacenia podatku. Natomiast wymiar w zwykłym trybie postępowania uskutecznia ta władza uprawniona do poboru podatku, na której obszarze działania płatnik ma miejsce zamieszkania.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "Wymiar w sposób doraźny następuje przez wypełnienie nakazu płatnicześo według wzoru stanowiąceśo załącznik do niniejszego rozporządzenia i natychmiastowe doręczenie tego nakazu płatnikowi za potwierdzeniem odbioru, Jeżeli płatnik odmó-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wi przyjęcia nakazu płatniczego, okoliczność tę organ doręczający odnotowuje na potwierdzeniu odbioru, przyczem nakaz płatniczy uważa się za do-"
+      },
+      {
+       "type": "text",
+       "text": "ręczony. . , 5) Wymierzony w sposób doraźny podatek staje się płatny z chwilą doręczenia nakazu płatniczego, W razie bezzwłocznego uiszczenia podatku, naskleja się znaczki (§ 6) o wartości, odpowiadającej sumie należnego podatku, na nakazie płatniczym, przy zastosowaniu formalności, określonych w § 6. razie odmowy natychmiastowego zapłacenia po- „datku stosuje się przepisy § 10."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_8/pkt_6",
+     "text": "Wymiar w zwykłym trybie postępowania uskutecznia się w formie przypisu podatku w księdze bierczej. Władza wymiarowa zarządza następnie doręczenie płatnikowi nakazu płatniczego za potwierdzeniem odbioru. Podatek staje się płatny w ciągu 3 dni, licząc od dnia, w którym nastąpiło do- «ręczenie nakazu. Wzór nakazu taki sam, jaki obo- *wiązuje przy wymiarze doraźnym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_8/pkt_7",
+     "text": "Nakazy płatnicze winny być ujęte w księgę grzbietową, po 100 sztuk, i kolejno ponumerowane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "Na niewłaściwy pobór, tudzież na wymiar podatku, płatnik może wnieść zażalenie do właściwego terytorjalnie urzędu skarbowego w terminie 14 dni od dnia następnego po dniu, w którym powstał obowiązek zapłaty podatku w myśl § 4, w przypadkach zaś określonych w § 8, od dnia następ- - nego po doręczeniu nakazu płatniczego. Zażalenie rozstrzyga urząd skarbowy, o ile decyzja urzędu „wypada zgodnie z żądaniem podatnika. W razie przeciwnym przedstawia urząd skarbowy zażalenie izbie skarbowej, która w administracyjnym toku instancji rozstrzyga ostatecznie.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "Wniesienie odwołania nie wstrzymuje postępowania egzekucyjnego; zaległe kwoty podatku ściągają skarbowe organa egzekucyjne na podstawie obowiązujących przepisów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "W razie nieuiszczenia państwowego podatku od uboju w całości lub w części, mięso ubitego zwierzęcia służy jako zabezpieczenie należnego podatku i w tym celu ulega zajęciu przez organ, który stwierdzi nieuiszczenie podatku. O ile podatnik w ciągu dni trzech od dnia zajęcia nie uiści należnego podatku, mięso ulega sprzedaży; uzyskana ze sprzedaży suma winna być użyta na pokrycie zalegtego podatku, reszta zaś winna być wypłacona podatnikowi. Sprzedaż. może nastąpić także przed upływem trzech dni, o ile grozi zepsucie mięsa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_11/pkt_1",
+     "text": "Organa pobierające podatek zaopatrują się w znaczki wartościowe na państwowy podatek od uboju w kasie właściwego terytorjalnie urzędu skarbowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_11/pkt_2",
+     "text": "Pierwszą partję znaczków wartościowych otrzymują te organa w formie zaliczki, której wysokość ustali kierownik urzędu skarboweśo w porozumieniu z temi organami, w granicach zapasów potrzebnych przypuszczalnie na okres pierwszych 10 dni.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_11/pkt_3",
+     "text": "W ostatnim dniu każdego tyśodnia, t. j, w sobotę, organa te wpłacać będą do kasy urzędu skarbowego całkowitą sumę pobranego w tym tygodniu podatku od uboju, pó potrąceniu 3% prowizji i ewentualnych zwrotów (§ 13), w zamian za cc otrzymują w kasie urzędu skarbowego znaczki wartościowe na taką samą sumę, na jaką w tym tygodniu z tytułu pobranego podatku zostały zużyte. Równocześnie z wpłatą podatku organa te składają w kasie urzędu skarbowego odpowiednią deklarację, w której wyszczególniają ilość i rodzaj znaczków, ich ogólną wartość nominalną, oraz wpłaconą sumę po potrąceniu 3% prowizji i ewentualnych zwrotów (§ 13).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_11/pkt_4",
+     "text": "Organa pobierające podatek, znajdujące się poza siedzibą kas urzędów skarbowych, mogą zamawiać znaczki za pośrednictwem poczty, po uprzedniem wpłaceniu należności na konto czekowe w P. K. O. kasy urzędu skarbowego i przesłaniu tej kasie wymienionej wyżej deklaracji.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_11/pkt_5",
+     "text": "Znaczki wartościowe nieużywane, które wskutek uszkodzeń stały się niezdatne do użytku, podlegają wymianie w kasie urzędu skarbowego na znaczki tej samej wartości i tego samego rodzaju.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "O ile spodziewany miesięczny wpływ z poboru państwowego podatku od uboju przez poszczególne organa pobierające ten podatek nie przekroczy sumy 1.000 złotych, prezes właściwej terytorjalnie izby skarbowej może na prośbę odnośnego organu, popartą wnioskiem właściwego urzędu skarbowego, zezwolić na zakup znaczków w terminach dłuższych, jednakowoż nie mniej niż raz w mię-",
+   "children": [
+    {
+     "type": "text",
+     "text": "siącu."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Zwrot podatku na podstawie art. 6 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. (Dz. U. R.P. Nr.84, poz. 614) tudzież na podstawie przychylnych decyzyj urzędów lub izb skarbowych. wydawanych w toku postępowania odwoławczego, uskuteczniają organa pobierające podatek z bieżących wpływów podatkowych, przyczem zwrot, dokonywany na podstawie art. 6 wspomnianeśo rozporządzenia winien być umotywowany urzędowym dokumentem, stwierdzającym, że ubój nie doszedł do skutku lub, że mięso zwierzęcia zostało uznane za zupełnie lub częściowo niezdatne do użytku. Z odbioru zwróconej sumy podatnik kwituje na wymienionym dokumencie, Dokumenty 'te należy dołączać do określonej w § 11 deklaracji, jako usprawiedliwienie dokonanego zwrotu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Władze skarbowe mają prawo i obowiązek kontrolowania prawidłowości poboru podatku przez władze samorządowe. Kontroli dokonywają właściwe terytorjalnie urzędy skarbowe przez porównywanie sumy pobranego podatku z danemi co do ilości uboju lub ilości zwierząt badanych, wynikajacemi z ksiąg, akt i zapisków tych władz.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do art 11."
+    },
+    {
+     "type": "text",
+     "text": "§ 15, Organa pobierające państwowy podatek od uboju, w razie wykrycia wykroczenia przeciwko przepisom rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. (Dz. U. R. r. 84, poz. 614), obowiązane są donieść o tem bezzwłocznie właściwemu terytorjalnie według miejsca zamieszkania podatnika urzędowi skarbowemu. W doniesieniu należy podać imię i nazwisko i zawód podatnika, jego miejsce zamieszkania, ilość ubitych sztuk, datę uboju i sumę uszczuplonego podatku. § 16. Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: Wł. Zawadzki"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Nr."
+  },
+  {
+   "type": "text",
+   "text": "(grzbiet) (1)"
+  },
+  {
+   "type": "text",
+   "text": "Wymiar doraźny. Wymiar w zwykłym trybie postępowania (niepotrzebne skreślić)"
+  },
+  {
+   "type": "text",
+   "text": "Władza wymiarowa"
+  },
+  {
+   "type": "text",
+   "text": "Imię i nazwisko po-"
+  },
+  {
+   "type": "text",
+   "text": "Miejsce zamieszkania"
+  },
+  {
+   "type": "text",
+   "text": "Ilość ubitych zwierząt"
+  },
+  {
+   "type": "text",
+   "text": "Suma podatku"
+  },
+  {
+   "type": "text",
+   "text": "Rodzaj ubitych zwierząt"
+  },
+  {
+   "type": "text",
+   "text": "bydła rogatego, cieląt, nierogacizny = bydła ro- A gatego, z cieląt, nierogacizny"
+  },
+  {
+   "type": "text",
+   "text": "awwicdskoikakówówiwcci NODA zc PODST,"
+  },
+  {
+   "type": "text",
+   "text": "(odciąć)"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do rozp. Min. Skarbu z dnia 30 października 1933 r. (poz. 684)."
+  },
+  {
+   "type": "text",
+   "text": "(odcinek)"
+  },
+  {
+   "type": "text",
+   "text": "Wiadza wymiarowa"
+  },
+  {
+   "type": "text",
+   "text": "(1) Wymiar doraźny. Wymiar w zwykłym trybie postępowania (niepotrzebne skreślić)"
+  },
+  {
+   "type": "text",
+   "text": "NAKAZ"
+  },
+  {
+   "type": "text",
+   "text": "płatniczy na państwowy podatek od uboju."
+  },
+  {
+   "type": "text",
+   "text": "Imię: i nazwisko podałnika GL z Miejsce: zZAGIESRGME aaa A sity"
+  },
+  {
+   "type": "text",
+   "text": "Podstawa prawna"
+  },
+  {
+   "type": "text",
+   "text": "od"
+  },
+  {
+   "type": "text",
+   "text": "podatku z dn. 27 października 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "rozp. Pręż. Rzp, o państwo-"
+  },
+  {
+   "type": "text",
+   "text": "(Dz. U. R.P. Nr. 84, poz. 614) rozp. Min. Skarbu z dn. 30 października 1933 r. (Dz. U. R. P. Nr. 88, poz. 684) wym ubitych uboju ć ; zwierząt| zwierząt"
+  },
+  {
+   "type": "text",
+   "text": "sesesessersvnee AMA 11-0101---- 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "(pieczęć władzy wymiarowej)"
+  },
+  {
+   "type": "text",
+   "text": "Potwierdzenie odbioru,"
+  },
+  {
+   "type": "text",
+   "text": "(odciąć)"
+  },
+  {
+   "type": "text",
+   "text": "Nakaz płatniczy na państwowy podatek od uboju otrzymałem"
+  },
+  {
+   "type": "text",
+   "text": "(1)"
+  },
+  {
+   "type": "text",
+   "text": "(podpis płatnika)"
+  },
+  {
+   "type": "text",
+   "text": "1/18"
+  },
+  {
+   "type": "text",
+   "text": "Pouczenie dla podatnika."
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "W razie doraźnego wymiaru podatek płatny jest z chwilą doręczenia nakazu, W razie wymiaru w zwyczajnym trybie postępowania, podatek płatny jest w 3 dni od dnia, w którym nakaz doręczono.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "W razie nieuiszczenia podatku w terminie płatności, od zaległych kwot pobrane będą kary za zwłokę.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "Przeciwko wymiarowi podatku można wnieść zażalenie do właściweśo urzędu skarbowego w ciągu 14 dni od dnia następnego po doręczeniu nakazu.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "Odwołanie nie wstrzymuje obowiązku uiszczenia podatku ani przymusowego ściągnięcia. Podatek należy uiścić władzy, która nakaz wydała, władza wymiarowa",
+   "children": [
+    {
+     "type": "text",
+     "text": "(podpis organu doręczającego)"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,851 @@
+{
+ "eli": "DU/1937/268",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 22 kwietnia 1937 r. w porozumieniu z Ministrami: Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych o zniżkach celnych i zwolnieniach od cła.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/268/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU z dnia 22 kwietnia 1937 r. w porozumieniu z Ministrami: Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych o zniżkach celnych i zwolnieniach od cła."
+  },
+  {
+   "type": "text",
+   "text": "_ Na podstawie art. 23 ust, 1 lit. a) rozporządzenia Prezydenta Rzeczypospolitej . z dnia 27 października 1933 r. o prawie celnym (Dz. U. R. P, Nr 84, poz, 610) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "(1) Przy przywozie towarów wyszcześólnionych w załączonych do rozporządzenia niniejszego wykazach Nr 1, Nr 2 i Nr 3, jeżeli towary te nie są oznaczone jako wolne od cła, pobiera się cło zniżone, wyrażone w tych wykazach w procentach cła normalnego (autonomicz-. nego). .(2) Cło zniżone oblicza się od stawek zawartych w kolumnie I lub II taryfy celnej przywozowej w brzmieniu każdocześnie obowiązującym, w zależności od tego, z której kolumny stawki celne mają do danego towaru zastosowanie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Urzędy celne stosują cło zniżone bądź zwalniają od cła:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "przy przywozie towarów wyszczególnionych w wykazie Nr 1 — za pozwoleniem Ministra Skarbu i na warunkach w tym pozwoleniu przewidzianych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "przy przywozie towarów wyszczególnionych w wykazie Nr 2 — na podstawie zaświadczenia izby przemysłowo-handlowej, właściwej terytorialnie dla danego zakładu przemysłowego, a jeśli chodzi o przywóz tych towarów na obszar W, M, Gdańska dla użycia ich na tym obszarze — na podstawie zaświadczenia Izby Handlu Zagranicznego w Gdańsku,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_2/lit_c",
+     "text": "przy przywozie towarów wyszczególnionych w wykazie Nr 3 — bez osobnych na to pozwoleń lub zaświadczeń,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zaświadczenia wymienione w punkcie",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "§ 2 rozporządzenia niniejszego powinny zawierać:",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "nazwę izby, która zaświadczenie wystawiła,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "miejsce i datę wystawienia zaświadczenia, _, ©) powołanie rozporządzenia niniejszego, jako podstawy prawnej do wydania zaświadczenia,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_3/lit_d",
+     "text": "nazwę i siedzibę firmy, której zaświadgzenie zostało wydane oraz oznaczenie miejsca zakładu przemysłowego, dla którego towar jest przeznaczony,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_3/lit_e",
+     "text": "nazwę towaru w brzmieniu podanym w wykazie Nr 2 oraz ilość tego towaru,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_3/lit_f",
+     "text": "stwierdzenie, że podana ilość towaru odpowiada zapotrzebowaniu przedsiębiorstwa lub jego zdolności przetwórczej oraz wskazanie w jakim okresie czasu towar ma być przerobiony, $) stwierdzenie, że towar objęty zaświadczeniem jest przeznaczony do celów określonych w wykazie Nr 2,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "par_3/lit_h",
+     "text": "nazwę urzędu celnego, w którym ma być dokonana odprawa celna,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "par_3/lit_i",
+     "text": "wymienienie urzędu celnego, znajdującego się najbliżej zakładu przemysłowego, dla którego towar jest przeznaczony,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "par_3/lit_j",
+     "text": "podpis i pieczęć izby wystawiającej zaświadczenie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "(1) Zaświadczenia wystawiane przez izby (pkt b, § 2) są ważne na okres obowiązywania rozporządzenia niniejszego; mogą być one wykorzystywane częściowo, lecz co najwyżej przy pięciu zgłoszeniach celnych. i",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Zaświadczenia powołane w ust. 1 niewykorzystane całkowicie przy pięciu zgłoszeniach celnych nie mogą być wykorzystane przy zgłoszeniach celnych następnych, chociażby termin ich ważności (ust. 1 § 4) jeszcze nie upłynął."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "(1) Urząd celny położony najbliżej zakładu przemysłowego obowiązany jest przeprowadzić kontrolę, czy towar odprawiony za cłem zniżonym lub bez cła został użyty przez zakład przemysłowy wymieniony w zaświadczeniu, do celu określonego dla danego towaru w wykazie Nr 2. Jeżeli przeprowadzenie kontroli nie należy do urzędu celnego odprawiającego, to urząd ten, w celu dokonania kontroli, przesyła dane dotyczące odprawionego towaru urzędowi celnemu położonemu najbliżej zakładu przemysłoweśo.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Zakład przemysłowy obowiązany jest prowadzić rejestr wykazujący dokładnie przychód i rozchód towarów, do których zastosowano zwolnienie od cła lub cło zniżone, przewidziane w wykazie Nr 2."
+    },
+    {
+     "type": "text",
+     "text": "(3) Postanowienia ust. 1 pkt b) i c) § 18 przepisów wykonawczych do prawa celnego mają tu zastosowanie, ."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "(1) Gdy przed wydaniem do wolnego obrotu towaru, wyszczególnionego w wykazie Nr 1, strona nie złożyła podania o udzielenie jej pozwolenia na zastosowanie cła zniżonego lub zwolnienia od cła teśo towaru, Minister Skarbu może dodatkowo wydać pozwolenie i zarządzić zwrot różnicy pomiędzy należnościami celnymi pobranymi a przypadającymi na zasadzie rozporządzenia niniejszego, jeżeli:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_6/lit_a",
+     "text": "przed wydaniem towaru do wolnego obrotu została ustalona na wniosek strony tożsamość towaru w sposób określony przepisami wykonawczymi do prawa celnego;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_6/lit_b",
+     "text": "strona złożyła, w ciągu 30 dni od daty uiszczenia, z akredytowania lub odroczenia należności celnych, podanie o zastosowanie do odprawionego towaru cła zniżonego lub zwolnienia od cła.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) W przypadkach, gdy przed podjęciem do wolnego obrotu towaru, wymienionego w wykazie Nr 1, strona złożyła podanie o udzielenie jej pozwolenia na zastosowanie cła zniżonego lub zwolnienia od cła, lecz podjęła towar do wolnego obrotu przed otrzymaniem takiego pozwolenia, Minister Skarbu może zarządzić zwrot różnicy pomiędzy należnościami celnymi pobranymi a przypadającymi na zasadzie rozporządzenia niniejszego, jeżeli, przy zachowaniu przepisu pkt a) ust. 1 paragrafu niniejszego, strona złożyła podanie o zwrot wspomnianej różnicy w ciągu 30 dni od daty pisma, którym Ministerstwo Skarbu zawiadomiło ją o wydaniu pozwolenia."
+      },
+      {
+       "type": "text",
+       "text": "(3) Jeżeli strona wniosła zażalenie w sprawie zastosowania taryfy celnej lub przepisów celnych, bieg 30-dniowych terminów, określonych w ustępie 1 i 2 paragrafu niniejszego, rozpoczyna się od daty doręczenia stronie orzeczenia ostatecznego w administracyjnym toku inetancy}j."
+      },
+      {
+       "type": "text",
+       "text": "Str. 662"
+      },
+      {
+       "type": "text",
+       "text": "(4) Podania określone w ustępie 1 i2 paragrafu niniejszego strona powinna złożyć, dołączając kwit celny, w urzędzie celnym, który dokonał odprawy. Urząd celny prześle otrzymane podanie do Ministerstwa Skarbu wraz ze sprawozdaniem i dowodami stwierdzającymi tożsamość towaru."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "(1) Rozporządzenie niniejsze wchodzi w życie z dniem 1 maja 1937 r. i obowiązuje do dnia 31 października 1937 r. włącznie,",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Pozwolenia Ministra Skarbu na zastosowanie cła zniżonego bądź zwolnienie od cła, wydane na podstawie rozporządzenia Ministra Skarbu z dnia 27 października 1936 r., w porozumieniu z Ministrami: Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych o zniżkach celnych i zwolnieniach od cła (Dz. U. R, P. Nr 83, poz."
+    },
+    {
+     "type": "pkt",
+     "num": "576",
+     "path": "par_7/pkt_576",
+     "text": "w brzmieniu rozporządzeń: z dnia 17 grudnia 1936 r. (Dz. U. R. P. Nr 94, poz. 665), z dnia 10 lutego 1937 r. (Dz. U. R. P. Nr 12, poz. 85) z dnia 8 kwietnia 1937 r, (Dz. U. R, P. Nr 30, poz. 227) i z dnia 19 kwietnia 1937 r, (Dz. U. R. P. Nr 31, poz. 247), zachowują swą ważność do dnia 31 października 1937 r. włącznie, jeżeli dotyczą towarów wyszczególnionych w wykazie Nr 1 rozporządzenia niniejszego; w tych przypadkach cło zniżone lub zwolnienie od cła stosuje się według norm ustalonych w rozporządzeniu niniejszym, Nie dotyczy to jednak pozwoleń Ministra Skarbu na zastosowanie cła zniżonego przy przywozie części zamiennych do samochodów, motocykli i ciągówek (z grup: 65, 66, 67, 69, 70 i 71 t. c. przywozowej); pozwolenia te, wydane na podstawie rozporządzenia z dnia 27 października 1936 r, (Dz. U. R. P. Nr 83, poz.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "576",
+     "path": "par_7/pkt_576",
+     "text": "tracą swą ważność z dniem wejścia w życie rozporządzenia niniejszego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: E. Kwiatkowski"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Str. 663 Dziennik Ustaw Nr 34 ———————————--- Paz. 268"
+  },
+  {
+   "type": "text",
+   "text": "Załączniki do § 1 rozp. Min. Sk. z dn. 22 kwietnia 1937r. (poz. 268),"
+  },
+  {
+   "type": "text",
+   "text": "WYKAZ Nr 1."
+  },
+  {
+   "type": "text",
+   "text": "Pozycje i punkty"
+  },
+  {
+   "type": "text",
+   "text": "Cło zniżone w %% cła normalnego t. c. przywozowej Nazwa towaru"
+  },
+  {
+   "type": "text",
+   "text": "z 12 Łubin — do siewu ."
+  },
+  {
+   "type": "text",
+   "text": "(autonomicznego)"
+  },
+  {
+   "type": "text",
+   "text": "» bez cla z 23p.1 Pestki chleba świętojańskiego — — do celów przemysłowych 24 p. 2 Nasiona lnu, konopi — do siewu . bez cła 82 z p. 5 Pieprz turecki w suchych PAPKA z wyjątkiem mielonego, aib sprowadzany do przerobu —. 83 p. 2 Sadzonki ukorzenione winorośli z lit, a"
+  },
+  {
+   "type": "text",
+   "text": "; . . . -. «» «. bez cła"
+  },
+  {
+   "type": "text",
+   "text": "z 89 p.1 Używane w lecznictwie rośliny i ich części, nierozdrobnione . 20 117 z p. 1 Śledzie solone — o ile 10 kg tych śledzi zawiera nie więcej i z uwagi 1 niż 60 sztuk : i oraz z p. 2 ad 5 m Ś m = 33 1/3"
+  },
+  {
+   "type": "text",
+   "text": "134 p. 2 Szczecina oczyszczona do celów przemysłowych . ż 35 134 z p. 3 Szczecina sortowana, czarna — do az przemysłowych ; 20 z 159 p. 2 Skaleń mielony . . . bez cła z 190 Oleje z węgla kamiennego, o ciężarze kaca ne 0,960 oraz mieszaniny tych ołejów ze soba lub z kwasami - karbolowymi — tak zwane oleje impregnacyjne |. 5 z 216 z p. 2 Tran mętny przy 159°C i wyżej — do rafinowania dla celów leczniczych ‘ ; * ; F 30 254 z p. 3 Stynki suszone (osmerus eperlanus L) i a p i A 5 z 255 Śledzie wędzone tzw. „strómlingi . 40 z 255 Śledzie węczone tzw, „strómlingi\" — do przerobu fabrycznego a . 20 z 311 Chlorek cynowy — dó Eslaw re en 5 320 z p. 4 Proszek składający się z tlenków żelaza z dodatkiem tlenków manganu, krzemu, glinu oraz tlenków innych metali — do wyrobu elektrod . 50 z 331 Mrówczan niklu — do użycia jako katalizator przy utwardzaniu tłuszczów i olejów ‘ z 339 „| Kwas benzoesowy |. 4 374 z p. 1 Bromek metylu"
+  },
+  {
+   "type": "text",
+   "text": "P j z 3 5 ‘ 25 e |. |. * 50 : s ry z 15 z 345 Oleje fuzlowe — do celów przemysłowych ż 40 z 392 p. la Proszek lukrecjowy, chociażby z domieszka dwuwęglanu s0- du — do gaśnic przeciwpożarowych . ji i Ę ; 40 397 z p. 1 Orto - paratoluidyna oraz ich wiesannny : i ż j 10 397 z p. 6 Tolidyna |. . 15 397 z p. 8 Betanaftyloamina, w okresie do dia 30 czerwca 1937 r. A 5 397 z p. 8 Fenyloalianaftyloamina, w okresie do dnia 30 czerwca 1937 r. 30 397 z p. 8 Toliłonattyloamina . 15 397 z p. 9 Kwasy nattyloaminosulionowe 16i1.7 (kwasy cleve), w okrę- , się do dnia 30 czerwca 1937 r. . 30 397 z p. 12 Przyśpieszacz wulkanizacyjny (vulcacit F), sprowadzany przez fabryki — do wyrobu opon, dętek i ochraniaczy — samochodowych, motocyklowych i samolotowych . ; 1 397 z p. 12 Dwufenyloguanidyna i dwutoliloguanidyna, sprowadzane jako środki do przyśpieszania wulkanizacji gumy 7 Ą 50 399 z p. 6 Fenetydyna — do celów przemysłowych . A ź ‘i a bez cla z 403 Indygo — do kacie barwników z 408 Sadze i"
+  },
+  {
+   "type": "text",
+   "text": "|. . ; a . ‘ 10 5 55 z 408 Sadze gazowe — do wyrobu opon, \"dętek i ochraniaczy — samochodowych, motocyklowych i samolotowych , , 2"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "_ Poz. 268 - Str. 664 Dziennik Ustaw Nr '34"
+  },
+  {
+   "type": "text",
+   "text": "Pozycje i punkty"
+  },
+  {
+   "type": "text",
+   "text": "Cło zniżone w %% cła normalnego Nazwa towaru t. c. przywozowej (autonomicznego)"
+  },
+  {
+   "type": "text",
+   "text": "423 z p. 3 Lakiery asfaltowe z zawartością benzyny — do izolowania cewek transformatorów"
+  },
+  {
+   "type": "text",
+   "text": "50 Siarczan potasu, oprócz osobno wymienionego, że da ccléw z 479 przemysłowych ."
+  },
+  {
+   "type": "text",
+   "text": "bez cla . 487 p. 2 Celuloid w blokach, płytach, arkuszach, prętach, rurach, taśmach i rolach oraz tkaniny i wojłoki penenyeoee celuloidem i 25 Niewyrabiane w kraju materiały plastyczne sziucżne na pod- 488 p. 1 stawie kazeiny, żelatyny, krochmalu, fenoli, mocznika, z lit ai p. 2 z lit. a formaliny itp. — w PES lub w ziarnkach — do celów przemysłowych 40 490 z p. 2 Masa, zawierająca ziemię akrzemikową, iłasżcz, i skie july sole niklu — do użycia jako katalizator przy utwardzaniu tłuszczów i olejów 10 490 z p. 2 Produkt, zawierający saponinę i dwuwęglan sodu — do gaśnic przeciwpożarowych Fosłoran trójkrezylu a 490 z p. 2"
+  },
+  {
+   "type": "text",
+   "text": "10 :' a : “ ‘ : z"
+  },
+  {
+   "type": "text",
+   "text": "10 490 z p. 2 Tak zwane ,,gardinole” w postaci płynnej lub mazistej (prać ."
+  },
+  {
+   "type": "text",
+   "text": "dukty otrzymane przez działanie kwasu siarkowego na wyższe aikohole) — do gaśnic przeciwpożarowych 40 - 400 z p. 2 Przyśpieszacz wulkanizacyjny (Vulcacit Thiuram), sprowadzany przez tabryki — do wyrobu opon, dętek i ochraniaczy — samochodowych, motocyklowych i oi a Skóry baranie surowe, odwłosione z 493 50 z 497 z p. 4 Skóry twarde, wyprawione na pasy w kruponach, wyprawy roślinnej i mineralnej — do wyrobu pasów pędnych 30 z 503 p. 1 b Skóry kozie i koźle wyprawy roślinnej, koloru naturalnego, bez wyciśniętego deseniu, w całości, połówkach, wagi w całej skórze 2 kg i mniej — do wyrobu skór galanteryjnych 40 Odpadki skórzane, sdwłokicne . — dy wyrobu. kleju z 515 Włókna sztuczne cięte (vistra) 571 p. 1"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "niebarwione . . F",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "barwione ‘ .",
+   "children": [
+    {
+     "type": "text",
+     "text": "10"
+    },
+    {
+     "type": "text",
+     "text": ". Ę A . . ż ; ą ji ; 7 ; 20 606 p. 1 Przy przywozie odpadków bawełnianych drogą lądową z państw, sprowadzających bawełnę sur ową przez porty polskiego obszaru celnego, pobiera się cło zniżone w wysokości zł 1 od 100 kg netto 611 zp. 2 Przędza bawełniana surowa nitkowana z dwóch lub więcej nici pojedynczych — do wyrobu sieci rybackich : bez cła z613zp.1a Tkanina bawełniana surowa o wadze 1 m? powyżej 160 g i o gęstości osnowy i wątku w 1 cm? do 40 nitek — do wyrobu opon samochodowych, motocyklowych i samolotowych z 630 p. 3 Przędza rami do Nr 35 (wyłącznie) w motkach, o wadze motka powyżej 100 g oraz Nr 35 i wyżej w motkach, o wadze motka powyżej 50 g, surowa, nitkowana — do przerobu fabrycznego"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": ". _ Przędza rami w kłębkach, na ruchach, lub na szpulkach, biez 631 łona, nienitkowana — do przerobu fabrycznego ‘ Sieci do rybołówstwa, wszelkie 648 z p. 1",
+   "children": [
+    {
+     "type": "text",
+     "text": "15 10 z 662 p. 1 Sznurki, nici — gumowe, oprzędzone bawełną . ; ‘ ‘ 3 25 z 720 p. 2 Kauczuk surowy, myty: w płytach, płytkach, a adil sprowadzany przez porty polskiego obszaru celnego przez i uwaga 2 fabryki — do wyrobu opon, dętek i ochraniaczy — samochodowych, motocyklowych i samolotowych . 15 Wyroby z gumy miękkiej tzw. ,,Laticel” i ,,Dunlopillo” : z 745"
+    },
+    {
+     "type": "text",
+     "text": "20 Wyroby z gumy miękkiej, chociażby z dodatkiem innych maz 745 teriałów — do wyrobu samochodów . ; 6"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "‘Str. 665"
+    },
+    {
+     "type": "text",
+     "text": "* Pozycje i punkty"
+    },
+    {
+     "type": "text",
+     "text": "Cło zniżone w %% Nazwa towaru „t. e..przywozowej cła normalnego (autonomicznego)"
+    },
+    {
+     "type": "text",
+     "text": "Ćwieki, kołki, szpilki do obuwia, nie we wstęgach ; a z 769"
+    },
+    {
+     "type": "text",
+     "text": "66 2/3 Klatki drewniane z dodatkiem metali — do uśmiercania maz 178 łych zwierząt z ż 10 ; ; ć i j A z 782 z p. 1 Płyty z rozdrobnionej i zespojonej kory drzewa korkowego, o grubości powyżej 50 mm — do przerobu fabrycznego 20 810 z uwagi Stare gazety i czasopisma w języku niemieckim, niepodziurawione i niepokrajane w myśl uwagi do poz. 792 — dla celów kulturalnych ludności obszaru W. M. Gdańska bez cła 836 z p. 1 Książki obrażkowe dla dzieci nawet z przeważającą ilością rysunków, z tekstem lub napisami w języku niemieckim, tównież w oprawach introligatorskich — dla użytku ludności obszaru W, M. Gdańska i 5 F z 5 bez cła Kalendarze z tekstem niemieckim, również książkowe z dziaz 838 łem literackim — dla celów kulturalnych ludności obszaru W. M. Gdańska . . bez cla . i . : \"EE Nuty kompozytorów niemieckich nawet bez tekstu oraz z 839 wszelkie z tekstem niemieckim lub napisami niemieckimi, również w oprawach introligatorskich — dla użytku ludności obszaru W. M. Gdańska . ź : ‘ : bez cła z 842 pp. 1i2 Reprodukcje dzieł artystów malarzy niemieckich, również w oprawach introligatorskich — dla użytku ludności obszaru W. M. Gdańska bez cła . . 2 z ‘ s 842 z p. 3 Wielobarwne: obrazy, tablice, atlasy przyrodnicze i techniczne, okładki do takichże atlasów, tablice i obrazki rozkładańe na papierze, kartonie, tekturze, również podklejone oraz inne tym podobne — wszystko o charakterze pomocy szkolnych i naukowych z tekstem lub napisami w języku niemieckim, chociażby w oprawach introligatorskich — dla użytku ludności obszaru W. M. Gdańska . a bez cła Mapy, plany, również w atlasach,. chociażby podklejone, z 843 _ oprawione, w połączeniu z listwami, oprócz osobno wymienionych, z tekstem lub napisami w języku niemieckim— dla celów kulturalnych ludności obszaru W. M, Gdańska bez cła z 900 p. 1 Szyby samochodowe prasowane lub lane — do wyrobu samochodów ; ć ; ; ; ' . , 3 ; 900 z p. 3 Rurki ze szkła białego — do wyrobu ampułek itp. opakowań 30 904 z p. 1 Rurki ze szkła zabarwione w masie — do wyrobu ampułek itp. opakowań . 5 ax 50 : . » ; ‘ . 927 zp. 1 Łom żeliwny i odpadki żeliwne, sprowadzane przez huty żelazne j 5 : ś z 929 p. 1 Żelazo taśmowe w rolach, na zimno walcowane o grubości powyżej 0,10 mm do 0,20 mm, o szerskości poniżej 700 mm, z lit di — do wyrobu taśmy obołowionej . . . .. , uwaga 2 40 z 929 p. 1 Stal zwykła płaska na zimno walcowana, o szerokości poniżej 700 mm i o grubości 1,2 mm i mniej — do wyrobu łańlit. c, di cuchów do rowerów . . uwaga 2 10 , . 5 . ; P Żelazo i zwykła stal, — kształtowe, o długości od 5 do 17 929 z p. 3 metrów — do budowy zapór wodnych oraz morskich bulił. a dowli wodnych . ; ; ; z s ‘ : i 930 p. 1 z lit. Żelazo taśmowe o szerokości poniżej 700 mm oraz blacha że- N fi uwaga 1-a lazna — wszystko na zimno walcowane, o grubości 0.15 oraz z 929 p. 1 mm do 0.17 mm — do wyrobu kółek do obuwia . i 20 z lit di uwaga 2 947 p. 1 Drut żelazny, stalowy — w kręgach — o największym wymiarze przekroju powyżej 3 do 6 mm — do wyrobu łańcuchów rowerowych ś , 10 ; p ‘ A z ‘"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Dziennik Ustaw Nr 34 Str. 666"
+    },
+    {
+     "type": "text",
+     "text": "Pozycje i punkty Nazwa t. c. przywozowej"
+    },
+    {
+     "type": "text",
+     "text": "Cło zniżone w a cła n (oiomialienaj) towaru"
+    },
+    {
+     "type": "text",
+     "text": "z 952 pp.1 i2] Liny, także z ośrodkiem konopnym lub iutowvm. z drutu żelaznego, stalowego o sepdnicy > dów pojedynczych i drutów powyżej 1 mm 5 z 960 Korytarzyki ubojowe dla świń oraz ih części . . i 20 z 964 _ Korytarzyki ubojowe dla świń oraz ich części 20 z 964 p. 1b Niewyrabiane w kraju żerdzie stalowe, pompowe dla kopał ip. 2 nałty . 20 968 z p. 3 Blacha cynkowa ‘niklowana o grubości od 0.10 do 0.17 mm — z lit. c do wyrobu guzików"
+    },
+    {
+     "type": "text",
+     "text": "50"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "984p",
+   "path": "ust_984p",
+   "text": "1 oraz| Druty ze stopów miedzi — do wyróbu tkanin drucianych bez uwagi: 2, 3, końca . Ą ż Ź 4b, 5 i 6",
+   "children": [
+    {
+     "type": "text",
+     "text": ", i R é ę ‘ 20"
+    },
+    {
+     "type": "text",
+     "text": "z 994p,2bić,| Niewyrabiane w kraju części aparatów do badania twardości 1085 p. metali — do produkcji tych aparatów 3 = ; F 20 - 10 a III, 1160 p. 3a 997 p. 3 Metal płatkowy aluminiowy w rolach, niczym niepokryty — z lit. a do przerobu fabrycznego 50 z 1006 Niewyrabiane w kraju narzędzia i przybory wiertnicze udarowe i obrotowe — do wierceń ziemnych —. 20 z 1006 p. 4 Niewyrabiane w kraju łączniki tzw. „Tool Joints” \"do płuczkowych przewodów wiertniczych . 15 z wz pp: 1 Niewyrabiane w kraju dna wygięte kotłowe, żelazne i zialowe 15 1 z 1058, 1059, Niewyrabiane w kraju maszyny — do przeróbki Inu i konopi 10 1060, 1061 i 1064 z 1083 Aparaty bołcowe — do pozbawiania przytomności Kw: rzeźnych 10 z 1084 p. 3 Niewyrabiane w kraju pędnie do urządzeń wiertniczych systemu „Rotary”, nawet w stanie podzielonym . * ‘ 20 1088 p. 1 cll} Ręczne opryskiwacze plecakowe ; ; a s 17 1088 p. ŻfII Sprzężajowe siewniki do nawozów sztucznych w 65 1088 p. Z2mIl| Sprzężajowe obsypniki jedno i wielorzędowe, pielniki, obsypniki - pielniki — o wadze sztuki 100 kg i mniej . . 60 1090 p. 1 Młocarnie do zbóż o wadze sztuki: a powyżej 3.000 kg . b powyżej 1000 do 3000 kg c 1000 kg i mniej a a 8 a a a a 40 s A A 2 a u a 60 a a ¥ 75 Uwaga: Przy odprawie edladi powyższych niltesić ża cłem zniżonym nie mają zastosowania postanowienia uwagi do pkt 1 poz. 1090 t. c. przywozowej. 1090 p. 6 Bukowniki do wa o jednym bębnie, o wadze powyżej z lit. a 1500 kg ‘ 5 65 aj p. 1 Sieczkarnie bębnówe : o szerokości gardła powyżej 310 mm 5 80 z lit. a 1096 z p. 7 Wylegarnie o pojemności 1000 jaj i więcej 2 5 z grup: 63, 64, Niewyrabiane w kraju półfabrykaty i gotowe części = — do 65, 67 i 69 wyrobu siłników do wagonów motorowych 20 z grup: 67 i 69| Niewyrabiane w kraju siłniki elektryczne i spalinowe _ oraz niewyrabiane w kraju maszyny i aparaty elektryczne, sprowadzane przez fabryki maszyn, jako urządzenie azęówe w cełu wmontowania ich do maszyn . 35 z grup: 63, 66, Niewyrabiane w kraju półfabrykaty, gotowe części 4 maszyny 67, 69, 71 i 73 — do budowy (wmontowania) wagonów i drezyn motorowych 35 z grup: 63, 65, Niewyrabiane w kraju części przekładni mechanicznych i i hy- , 67 draulicznych, służące do zamiany zużytych części tychże przekładni w wagonach o napędzie spalinowym a a 30"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Pozycje i punkty Nazwa —"
+    },
+    {
+     "type": "text",
+     "text": "ti c. przywozowej"
+    },
+    {
+     "type": "text",
+     "text": "Cło zniżone w %% towaru seb (autonomicznego)"
+    },
+    {
+     "type": "text",
+     "text": "z grup: 67, 69 Niewyrabiane w kraju maszyny i aparaty, oprócz osobno wyi 73 mienionych w rozporządzeniu niniejszym ; 35 z grupy 68 Niewyrabiane w kraju maszyny, aparaty, ich części, qadkcz a osobno wymienionych w rozporządzeniu niniejszym 10 z 1099 Przetwornice — do zasilania aparatów elektrodowych, stu- i żących do pozbawiania przytomności zwierząt rzeźnych . 10 z 1101 Transformatory — do zasilania aparatów elektrodowych, służących do pozbawiania przytomności zwierząt rzeźnych , 10 z 1107 z p- 2 Wyłączniki elektryczne — do aparatów elektrycznych, służą, cych do uśmiercania małych zwierząt 10 z 1121 Aparaty elektrodowe — do pozbawiania przytomności zwierząt rzeźnych; aparaty en ee — do uśmiercania małych zwierzat 10 z 1124 p. 1 Niewyrabiane w kraju elektrody z masy węglowej oraz ich części — do celów przemysłowych . 10 z 1124 p. 2 Niewyrabiane w kraju elektrody z masy gralitowej oraz ich części — do celów przemysłowych 5 z 1131 z p. 1 Niewyrabianie w kraju izołatory z częściami metalowymi typu kondensatorowego, o wadze sztuki: powyżej 2 kg do 300 kg . A powyżej 300 kg."
+    },
+    {
+     "type": "text",
+     "text": "Ą ; 40 20 1133 p. 1d Lokomotywy normalnotorowe ' elektryczne, silnikowo-elektryczne"
+    },
+    {
+     "type": "text",
+     "text": "35 1137 Ciągówki (traktory) — do celów przemysłowych é 35 z 1137 p. 1 Ciągówki (traktory) z silnikiem 6 cylindrów i mniej, oprócz śąsienicowych —- i 16 z 1140 Części nadwozi samochodowych — do wyrobu samochodów . 1 1145 z p. 9 Niewyrabiane w kraju koła samochodowe, sprowadzane DEERE R fabryki opon samochodowych - ; 5 1145 z p. 9 Niewyrabiane w kraju koła tarczowe samochodowe, sprowadzane przez wytwórnie przyczep samochodowych bez cla z 1145 z p. 14 Części metalowe — do wyrobu samochedéw . 2 z grup: 65, 66, Części zamienne do samochodów, motocykli i ciągówek: kłam. 67, 69, 70 ki; korki do chłodnic; korbki (poz. 994 z pp, 2 i 3); taśmy i 71 hamulcowe (z poz. 1035): koła zębate (poz. 1084 z p. 8); części silników (poz. 1085 p. 8 i z p. 10); pierścienie tłokowe (poz. 1085 z p. 9); tłoki (1085 z p. 10 b III); prądnice, magneto, sygnały akustyczne — i ich części; rozruszniki— startery (z poz. 1099); świece do silników (z poz. 1131); części metalowe samochodów i motocykli (poz. 1145 pp. 1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 12, 13, 14), — sprowadzane do zamiany zużytych, części na nowe w gotowych samochodach, motocyklach i ciągówkach 30 1154i uwaga2| Statki morskie i rzeczne, łodzie bez cła z grup: 67, 69 Niewyrabiane w kraju maszyny i aparaty, sprowadzane se i z 73—poz. \"fabryki części samochodowych i motecyklowych 10 1160 pp. 516 z grup: 67, 69 Niewyrabiane w kraju maszyny i aparaty, sprowadzane przez iz 13—poz. przemysł wyrobu muesiodów, podwozi ii a 1160 pp.5i6 i motocykli 10 z grup: 63, 64, Półfabrykaty i nieobr done części samechodów i i motocykl, 65, 67 i 71 sprowadzane przez fabryki części samochodowych i motocyklowych — do obróbki na gotowe części ; 5 z grup: 63, 64, Półłabrykaty, sprowadzane przez przemysł wyrobu samo- 5 chodów, podwozi samochodowych, ciągówek i motocykli— do wyrobu samochodów, podwozi samochodowych, ciągówek i motocykli s a w & = ho s 5"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Pozycje i punkty t, c. przywozowej"
+    },
+    {
+     "type": "text",
+     "text": "z grup: 63-poz. 962 p. 2, 66, 67, 69, 70, 71, 73174"
+    },
+    {
+     "type": "text",
+     "text": "z 1164 z p. 2 lit. b 1168 p. 7 - z lit, e z 1168 p. 7el z działu VII, VIII, X, XII, XIII, XIV, XV i XVI"
+    },
+    {
+     "type": "text",
+     "text": "z 1184 z 1188 z p. 2 z 1188 z p. 5"
+    },
+    {
+     "type": "text",
+     "text": "z 1211 p. 1"
+    },
+    {
+     "type": "text",
+     "text": "Pozycje i punkty zu Dziennik Ustaw Nr 34 Str. 668"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa towaru"
+    },
+    {
+     "type": "text",
+     "text": "Gotowe części, sprowadzane przez przemysł wynobu samochodów, podwozi samochodowych, ciągówek i motocykli— do wyrobu samochodów, podwozi samochodowych, ciągówek i motocykli . : a Uwaga: Cło zniżone nie ma zastosowania do podwozi samochodowych — z poz. 1138 t. c. przywoz. oraz do gotowych wykończonych nadwozi samochodowych z poz. 1140 t. c. przywozowej. Cylindry szklane z podziałkami, o wadze sztuki 250 g i mniej — do wyrobu lub naprawy strzykawek lekarskich 4 u Naświetlone pozytywy kroniki filmowej x * y a Wstęgi kinematograficzne, naświetlone, aawikens, w kolorach naturalnych, — poz Przedmioty, z wyjątkiem urządzeń kajdtowychi i kuchennych, stanowiące normalny niezbędny do prawidłowego i bezpiecznego pływania osprzęt statków morskich, należące do statków przeznaczonych do rozbiórki, odpowiadające, pod względem jakości i ilości, przeznaczeniu i wielkości tych statków . a Przedmioty inwentarza statków morskich, konieczne do speł niania przeznaczenia statków, — o ile nie mogą być zwolnione od cła na podstawie t. c. przywozowej Materiały do budowy i naprawy statków morskich oraz Srzad: mioty ich wyposażenia, o ile nie mogą być zwalniane'od cła na podstawie art. 22 ust. 21 prawa celnego — . Materiały do budowy i naprawy łodzi motorowych śiorsksch oraz przedmioty ich wyposażenia, — o ile łodzie te mają być przeznaczone do celów rybackich lub echaniej obsługi portów morskich F Niewyrabiane w kraju części instrumentów muzycznych - — do wyrobu instrumentów muzycznych . Spłonki — do aparatów bolcowych, służących do pozbawikcia przytomności zwierząt rzeźnych . a Łuski, chociażby ze spłonką i materiałem wybuchowym — do aparatów bolcowych, służących do pozbawiania przytomności zwierząt rzeźnych . = Niewyrabiane w kraju wyroby, wykonane ze sztucznych materiałów plastycznych, choćby z dodatkiem metali nieszlachetnych — do celów produkcyjnych a a s 1"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ Nr 2."
+    },
+    {
+     "type": "text",
+     "text": "{ Nazwa towaru"
+    },
+    {
+     "type": "text",
+     "text": "Cło zniżone w %% cła normalnego (autonomicznego)"
+    },
+    {
+     "type": "text",
+     "text": "50 bez cla:"
+    },
+    {
+     "type": "text",
+     "text": "40"
+    },
+    {
+     "type": "text",
+     "text": "bez cła"
+    },
+    {
+     "type": "text",
+     "text": "bez cła"
+    },
+    {
+     "type": "text",
+     "text": "bez cła"
+    },
+    {
+     "type": "text",
+     "text": "bez cła 25 10"
+    },
+    {
+     "type": "text",
+     "text": "10"
+    },
+    {
+     "type": "text",
+     "text": "35"
+    },
+    {
+     "type": "text",
+     "text": "Cło zniżone w %% cła normalnego t c. przywozowej (autonomicznego) z 101 Olej talowy — do wyrobu środków dla ochrony roślin . . 10 z 152 p, 4 Gips mielony — do fabrykacji porcelany i fajansu oraz kwasoodpornych naczyń kamionkowych . j , ; . 55 z 157 p. 2 Szpat ciężki mielony — do wyrobu litoponu ; ; , 20 z 170 p. 2 Elektro-korundy i węglokrzemy w ziarnkach, rozdrobnione lub zmielone — do wyrobu tarcz szlifierskich , a , 50"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Str. 669"
+    },
+    {
+     "type": "text",
+     "text": "Pozycje i punkty"
+    },
+    {
+     "type": "text",
+     "text": "Cło zniżone w %% Nazwa towaru t c. przywozowej cła normalnego (autonomicznego)"
+    },
+    {
+     "type": "text",
+     "text": "Olej smarowy, zmieszany z olejami i tłuszczami zwierzęcymi i roślinnymi — przeznaczony do użycia przy wea z-porcelany artykułów elektrotechnicznych — . bez cła [Wosk bitumiczny o punkcie topliwości 75° C i wyżej — do celów przemysłowych: bielony ¥ a a 20 x D wi a L] a 35 inny \" . . LJ a . . . . . . Substrat bituminowo-olejowy — do wyrobu farb rdzochron- 2 mych . . * . 10 . . . . LJ . .Fosforan dwusodowy — do wyasipaemie tkanin z jedwabiu naturalnego z 50 Krzemowapń (calcium silicium), również z domieszką mangamit, magnezu, żelaza itp. — do celów przemysłowych . 18 Siarczan baru strącony — do wyrobu papieru . ‘ . 50 Tlenek glinu — do wyrobu korundu żółtego . 15 Pięciochlorek antymonu — do produkcji barwników kadziowych 25 Nadmanganian potasowy — — do celów nizenyełówydh j ; 33 a i"
+    },
+    {
+     "type": "text",
+     "text": "Bezwodnik octowy — do celów przemysłowych . ; 20 Dwuchloroetan — do produkcji barwni ików ka mak pci z 30 Siarczan metylu (nie w ampułkach) ków kadziowych . 5 Kwas chlorooctowy — do proc barwników kadziowych 15 Estry kwasu malonowego płynne oraz estry pochodnych kwasu malonowego płynne — do produkcji preparatów farmaceutycznych . 30 Lecytyna roślinna — do arenę cuekolady . . . s Py 10 Kaktus (cactus grandiflorus) w spirytusie — do dalszego przerobu na środki lecznicze 25 P a"
+    },
+    {
+     "type": "text",
+     "text": "Struny jelitowe — do wyrobu ralkiet akócw jęk + ' 10 Chlorek kwasu paratoluołosulfonowego — do celów oe słowych . 12 Kwas ftalowy i jego Doowadiiśle — do celów przemysłowych . 7 Chlorek benzoilu — do wyrobu barwników . 15 Benzaldehyd — do wyrobu barwników synietycznych oraz kwasu fenylocynchoninowego |. 15 Betametyloantrachinon, kwas AwęrokhtwowowakGwowy i ‘eis sól sodowa — do celów: przemysłowych . : 8 \"Kwas antrachinonodwusulfonowy i jego sól sodowa, clone: antrachinon, dwuchloro- antrachinon — do es PRAG ‘mikow . > 20 Metatoluidyna, seta. i paraksyidyna — dka celów przemy. słowych 3 . a Ortoanizydyna, krezydyna, dvrumetyloanilina, dwnetytodyśi: ,"
+    },
+    {
+     "type": "text",
+     "text": "na, etylobenzyloanilina i jej sulfokwas, kwas antranilowy — do celów przemysłowych . ; 30 Tioanilina — do celów przemysłowych . „ 45 Acetoparafenylenodwuamina — do celów przemysłowych 10 Dwuchlorotolidyna, dwuanizydyna — do celów ai ae wych 20 Etyloalfanaftyloamina a do celów szzemysłowych. ."
+    },
+    {
+     "type": "text",
+     "text": "30 Kwas naftyloaminosulfonowy 1.5, kwas naliyloaminodwiadi fonowy 2. 4. 8 (kwas C), kwas betanaftyloaminosulfonowy"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "2 (kwas Tobiasa) — do celów przemysłowych . 4 Sas 397 p. 10 Aminoantrachinon — do celów przemysłowych ., ‘ z . 397 z p. 12 Kumidyna — do celów przemysłowych . z 397 z p. 12 Chloro-5- aminoantrachinon i leuko-1. 4- dwuaminoantrachinon — do wyrobu barwników . A M p a Ą 50",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "———————————-—- Dziennik Ustaw Nr 34 Str. 670"
+    },
+    {
+     "type": "text",
+     "text": "Pozycje i punkty"
+    },
+    {
+     "type": "text",
+     "text": "Cło snizone w %% - t. e. przywozowej Nazwa towaru cła normalnego (autonomicznego)"
+    },
+    {
+     "type": "text",
+     "text": "397 z p. 12 Kwas fenylonaftyloaminosulfonowy 1.8 i kwas tolilonaftylo- , aminosulfonowy 1.8 — do celów przemysłowych — . ; 22 397 z p. 12 Izatyna — do wyrobu kwasu fenylocynchoninowego |. d bez cła 397 z p. 12 Kwas chlorotoluidynosulfonowy i kwas ec meal sulfonowy — do celów przemysłowych 20 397 z p. 12 4 nitrometylo 1.2 benzimidazol — do celów przemysłowych . 27 397 z p. 12 Dwuaminoantrahydrochinon, chloroaminoantrachinon — do wyrobu barwników kadziowych j ; z 3 H 40 398 z p. la Rezorcyna — do celów przemysłowych . 398 z p. 7 Kwas naftolomonosulfonowy 2.7, kwas naftolomonosulfonowy 1.5 oraz ich sole — do celów. przemysłowych . «1 a 30 398 z p. 9 Para- chlorofenol — do wyrobu barwników . “ink x 10 399 z p. 1 Aminofenol — do celów przemysłowych . ; z . 20 399 z p. 5 Kwas aminonaftolodwusulfonowy 2.8.3.6 (kwas 2 R). kwas aminonaftolosulfonowy 1.8.4 (kwas S), kwas aminonaftolosulfonowy 2.5.7 (kwas I), kwas aminonaftolodwusulfonowy 1.8.2.4 (kwas 2 S) — do celów przemysłowych . 35 399 z p. 6 Nitrobenzylidenometaamidofenol, parachinsoortoandudlenolos sulfokwas, kwas amidoazolowy (paraaminofenylo 1.2 naftiminoazolo-5-oksy 7-sulfokwas), pochodna mocznikowa kwasu aminonaftolosulfonowego 2.5.7 — do celéw przemysłowych . a . \"a w a a 35 400 z p. 1 Fenylometylopyrazolon, fenylosuilfometylopyrazolon — do ce- . léw przemysłowych . . ‘ « 5 z 401 Keton Michlera — do celów SAKE ; ‘ s ‘ 20 z 402 Fenylohydrazyna — do celów przemysłowych 30 410 z p. 2 Łupek bitumiczny w kawałkach, palony (skoksowanyj, czarny — do wyrobu farb . ; 25 410 z p. 2 Braunsztyn w proszku — do waddkój cyk clekirolityczneśo, baterii elektrycznych oraz soli manganowych a bez cła 429 z p. 2 Olejek goździkowy — do wyrobu waniliny |. . . 10 486 p. 2 Acetoceluloza w płytach, arkuszach i rolach — do wyrobu z lit a Ii II niepalnych błon rentgenologicznych |. , . 10 z 488 p. 1 z Bakelit w prętach i rurach, a —do ealeur: przelit. b I mysłowych . . AM"
+    },
+    {
+     "type": "text",
+     "text": "\" « . 50 Nieorganiczne przetwory chemiczne, osobno Stowckatcśiośra, zp AR ‘ies katalizator — do syntezy amoniaku . ; bez cła 490 z p. 1 Masy kontaktowe, sporządzone z pumeksu, względnie z ziemi okrzemkowej, przesyconych solami wanadu, również z zawartością do 0,1% platyny — do celów przemysłowych . 10 490 z p. 2 Alkohole: oleinowy, cetylowy i ca mysłowych |."
+    },
+    {
+     "type": "text",
+     "text": "suie — do celów prze- . . 30 490 z p. 2 Pyren — do wyrobu kaawcńkowe kadźiowych . SE: . 20 490 z p. 2 Oxybutyraldehyd — do wyrobu barwników kadziowych . : 20 490 z p. 2 Organiczne przetwory chemiczne, osobno niewymienione, używane jako odoryncils chemiczne przy picepee rud cynkowych . *"
+    },
+    {
+     "type": "text",
+     "text": "5 490 z p. 2 Mocznik — do wyrobu seonanateui Z 2 30 z 674 p. 1 Kręgi z szarpanych nici bawełnianych, luźno związane — do wyrobu wałów kalandrowych 10 Krążki, płyty, tarcze z materiałów włóknistych, impregnowaw EA A pa ża — do wyrobu kół zębatych — . ‘ 40 787 z p. 3 (Walce z rozdrobnionej i zespo,onej kory drzewa korkowego, o średnicy powyżej 15 mm, o seniors powyżej 500 mm — do przerobu fabrycznego . a 5 m ‘ 20"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Str. 671"
+    },
+    {
+     "type": "text",
+     "text": "Pozycje i punkty Nazwa t. c. przywozowej"
+    },
+    {
+     "type": "text",
+     "text": "Cło zniżone w %% cła normalnego towaru (autonomicznego)"
+    },
+    {
+     "type": "text",
+     "text": "Papier czerwono-czarny i zielono-czarny tzw. „duplex\" niedrukowany (bez zawartości miazgi drzewnej lub z zawartością jej 30% i mniej), sprowadzany przez wytwórnie błon fotograficznych — do opakowania błon fotograficznych 40. Dekalkomania — do wyrobu porcelany i fajansu - . . 842 p. 4"
+    },
+    {
+     "type": "text",
+     "text": "50 845zp.1a Papier czerwono-czarny i zielono-czarny tzw. „duplex” drukowany jednobarwnie, sprowadzany przez wytwórnie błon fotograficznych — do owania błon fotograficznych a 10 Ampułki szklane — do śWiódić etylu + oo. a 8 a 900 p. 4 z lit. b"
+    },
+    {
+     "type": "text",
+     "text": "62"
+    },
+    {
+     "type": "text",
+     "text": "Opiłki żeliwne, sprowadzane przez fabryki chemiczne . x 927 z p. 1 bez cła 930.z p. 4c Blacha stalowa zwykła (taśmowa) niklowana, dziurkowana o śrubości 1 mm i mniej — do produkcji akumulatorów żelazo-niklowych 40 W 8 0 w śś A z 945 pp. 1a Walce nraszynowe żeliwne, chociażby utwardzane, z nieoszlifowanymi powierzchniami roboczymi, o wadze sztuki po- 12a wyżej 600 kg, średnicy walca 250 mm i więcej, długości walca mierzonej bez isnt 2000 mm @ -wiece] — do wyrobu wygładzarek ‘ 20 ses, OK R A A .z 947 ewentual- Drut stalowy hartowany — do wyrobu szczotek a a a nie uwaga 2"
+    },
+    {
+     "type": "text",
+     "text": "15"
+    },
+    {
+     "type": "text",
+     "text": "Drut żelazny i stalowy korytkowy, chociażby nacięty, pokry- „z 947 pp. 1 ty mai nace ku metalami — do wyrobu mechanizmów 2 ewent. parasolowych 4 uwagi 1, 2,4 60 4 8 9 A A Aa A Formy stalowe bedava o wadze sztuki powyżej 100 kg — z 964 p. la do wyrobu rur żeliwnych, lanych systemem odśrodkowym 20 „4azl Blacha aluminiowa, prostokątna, surowa, w rolach o szere- 978 iz III kości powyżej 500 mm i a grubości powyżej 0,5 mm oraz o szerokości powyżej 300 mm i o grubości 0,1 mm i mniej — do wyrobu folii aluminiowej . . é 5 Zamknięcia niklowane do ampułek szklanych do chlorku _z 989 p. 3 etylu «. s x » z 994 p. 1"
+    },
+    {
+     "type": "text",
+     "text": "65 a a a a a u a Szyny miedziane lane, surowe, o wadze sztuki powyżej z lit. a I 500 ¢ — do wyrobu cynku elektrolityczneśo a a a z 994 p. 1"
+    },
+    {
+     "type": "text",
+     "text": "10 Bloki lane cylindryczne z otworem, aluminiowe, o zawartości z lit, b. I aluminium 99,7%, o wadze sztuki PMYA] 150 Ś — do wynobu rur aluminiowych bez cła ; ‘ ‘ s z 1036 p. 3c Wentyle do dętek samochodowych, motocyklowych i samolotawych, o wadze szłyki 1 kg i mniej — dla fabryk wyuwaga 2 ew. rabiających opony i „dętki samoch lowe, motocyklowe i samolotowe i Z z p 4 s a ‘ z 1085 z p. 10 Walce miedziane obrobione lecz niegrawerowane — do drulit. b II kowania tkanin . P ie A EDS e 5 10 z 1160 zp.3a Sprawdziany (kalibry gwintowane) o wadze sztuki powyżej 500 g — do wyrobu rur"
+    },
+    {
+     "type": "text",
+     "text": "— . : . 8 . 6 10 1168 p. 7 d Wstęgi kinematograficzne nienaświetlone, sprowadzane — do wyrobu wstęg kinematograficznych, naświetlonych 15 1267 z p. 1 Drut srebrny specjalny tzw. topikowy o średnicy lub grubości powyżej 0,75 mm — do wyrobu bezpieczników . : 1267 z p. 2 Drut srebrny specjalny, tzw. topikowy o średnicy lub grubości 0,75 mm i mniej — do wyrobu bezpieczników Ę i ą 40"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "° Dziennik Ustaw Nr 34 Str. 672"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ Nr 3."
+    },
+    {
+     "type": "text",
+     "text": "Pozycje i punkty"
+    },
+    {
+     "type": "text",
+     "text": "Cło zniżone w %% t. c. przywozowej Nazwa towaru cła normalnego (autonomicznego) A c)"
+    },
+    {
+     "type": "text",
+     "text": "23zp.1 Pestki morelowe , F , 5 3 40 68 z p. 2 Miąższ morelowy w mebousen KoBRSTOSKIWA z ‘ * 25 89 p. 1 Kora „panamska' nierozdrobniona, Baa na podstawie złożonych prób, przez Urząd Celny w Gdyni oraz w okręgu Dyrekcji Ceł w Gdańsku przez Urz ędy Celne: Leegetor, Packhof, Hafenkanal i Weichselbahnhof . x a F 5 89 p. 1 Cebula\" morska nierozdrobniona a a 3 bez cla 177 p. lazll| Rudy żelazne o zawartości żelaza 45% i wyżej a a z bez cła 177 p. 1b Żużle żelazne o zawartości żelaza powyżej 50% a a 3 5 210 Olej drzewny . ‘ ‘ p ‘ ż a a 2 - 50 295 p. 8 Fosfor 6 W 4 6 Ko GK w W 4 a bez cła 297 Gaz świetlny, sprowadzany ——— rurowymi, a a bez cła 305 p. 2 Dwutlenek baru. ‘ 350 p. 2 Chlorek metylu (nie w śdipcitkach)"
+    },
+    {
+     "type": "text",
+     "text": "‘ ‘ x a a 20 a ‘ a i js 30 405 z p. 2 Ekstrakt katechu . F o oa- a . a R 17 422 z p. 2 Węgle do rysowania. . A a a a a O \" 25 461 Wosk do szczepienia drzew »"
+    },
+    {
+     "type": "text",
+     "text": "Aa R A a 32 468 z p. 1 Acetoceluloza w ziarnkach i proszku » a a a s 30 aj p. 3 Acetoceluloza w prętach barwionych «1 s a » 1 15 z lit. a , 490 z p. 1 Wodorotlenek kadmu, również z domieszką tlenków żelaza ; 30 721 p. 1 Regenerat gumowy ."
+    },
+    {
+     "type": "text",
+     "text": "a a F : a 12 146 z p. 2c Półfabrykaty z sumy SEA o NAGA sztuki 100 g i suas) z odciśniętymi lecz nierozciętymi zębami . P 20 806 p. 1 Płyty — pustaki o grubości 3 do 4,5 cm, prostokątne, AG nane z tektury z. miazgi drzewnej, odprawiane, na podstawie złożonych prób, przez.Urzędy Celne w Gdyni i Warszawie oraz w okręgu Dyrekcji Ceł w Gdańsku przez Urzędy Celne: kąsa Packhof, Hatenkanal i Weichsel- . bahnhoł R"
+    },
+    {
+     "type": "text",
+     "text": "35 838 Kalendarze książkowe z isłońć ee w er to. wackim ‘ a bez cła 843 Plany (rysunki, eae eee ee ee ee W ne sposobem fotograficznym lub graficznym, o ile dotyczą maszyn, aparatów, — ich części i urządzeń surrey 25 - 866 Sączki z gliny . ; A z > ‘ 70 944 z pp. 1| Walce hutnicze żeliwne ckodisżkĘ dkióaskidneż eurowe lub i 2aib z powierzchnią z śruba obdartą, również z obtoczonymi czopanii, frezowanymi rozetami; o średnicy 850 mm i wyżej, lub o średnicy 700 mm do 849 mm jeżeli długość walca mierzona bez czopów wynosi 2900 mm i wyżej. ; ” 20 1000 p. 4 Motyki, sapy, dziabki, grabie, grace, pazurki ogrodnicze, kantowniki i szutelki ogrodowe — surowe, bejcowane, lakie- , rowane, ue! z trzonami ‘ ‘ é W. 52. 1000 p. 6a Kosy ; , A h a a x a x 5 1018 p. 10b Nożyce do AGE owiec a a 8 a A a a 65 1018 p. 10c Nożyce ogrodnicze . 8 R A R A a 8 32 1018 P. 10d Sekatory a a D) a a a a a s a a 26"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Pozyeje i punkty"
+    },
+    {
+     "type": "text",
+     "text": "Cło zniżone w %% Nazwa towaru t. c. przywozowej cła normalnego (autonomicznego)"
+    },
+    {
+     "type": "text",
+     "text": "1041 z p. 1 Walczaki do kotłów wodnorurkowych, tj. zbiorniki pary i wody, wykute z jednego bloku, również spawane z jednym szwem podłużnym — o średnicy powyżej 1199 mm i o długości 6200 mm i wyżej. . , . > . , 15 1088 p. 1 Ręczne walce, używane w ogrodnictwie j i ź ż 5 57 z lit. a Siewniki ogrodowe ręczne i 1088 p. 1 b"
+    },
+    {
+     "type": "text",
+     "text": "F s A s 55 1088 p. cl Ręczne opryskiwacze: taczkowe, wózkowe , ; ; > 43 Sprzezajowe szufle . ; ; 1088 p. 2 z lit. b Sprzężajowe brony Sarołowe: 1088 p. 2 z lit. c kolczatki . ż talerzowe"
+    },
+    {
+     "type": "text",
+     "text": "2 Ć ; E ; p 70"
+    },
+    {
+     "type": "text",
+     "text": "i 3 3 ś z h 10 75 Sprzężajowe siewniki do zbóż, nasion, — rzutowe, rzędowe 60 1088 p."
+    },
+    {
+     "type": "text",
+     "text": "Wh bh N N fzI 1088 p"
+    },
+    {
+     "type": "text",
+     "text": "Sprzężajowe siewniki kombinowane do joe wy” f III siewu nasion i nawozów ."
+    },
+    {
+     "type": "text",
+     "text": "A A A 63 Sprzężajowe opryskiwacze ogrodowe, polowe . 54 1088 p. Qa \"ra Sprzezajowe rozlewacze gnojówki rzutowe, rzędowe 60 1088 p Silnikowe maszyny do SPCSWF roli za pomocą części obro- 1088 p. towych i 83 1088 p. 4 Wszelkie maszyny i ABKEGEJ do uprawy reli, ere re do bezpośredniego łączenia z ciągówkami, jako to: pługi, spulchniacze, wita: „ony, walce itp. maszyny rolnicze ; Kosiarki ręczne . . . . 1089 p."
+    },
+    {
+     "type": "text",
+     "text": "Woh WKD MD tO m M"
+    },
+    {
+     "type": "text",
+     "text": "; 5 ; ‘ 50"
+    },
+    {
+     "type": "text",
+     "text": "» ; e a 3 13 arp ow Żniwiarki zwykłe, oprócz objętych p. ibe s i 5 Kosiarki sprzężajowe 1089 p. 1089 p. Żniwiarki-wiązałki “a 1089 p."
+    },
+    {
+     "type": "text",
+     "text": "6 śe , ; 5"
+    },
+    {
+     "type": "text",
+     "text": "5 ; ; j 5 Przyrzady zniwne editadatace ‘do kodliegk . R s i 5 1039 p. 1089 p. Aparaty specjalne do ostrzenia noży maszyn ZAMEDCK 18 Przetrząsacze do siana |. , ao 1089 p. : a 5 40 1089 p. Przetrzasacze kombinowane z raha na ; ‘ 40 Wyorywacze do buraków, ziemniaków 80 1089 p. opodawacze do młocarń, wydmichiwacze młocarniane 1090 p. do plew, zgonin, słomy . 5 e i ź 40 Podnośniki-stertniki de słomy, siana, enone. ee 84 1090 p."
+    },
+    {
+     "type": "text",
+     "text": "onan, Bukowniki do koniczyn o „dwóch bębnach : ś s 15 ‘Wiązacze do słomy, siana 1090 p. o* 1090 p. Młocarnie do Inu. ' 1090 p. Prasy do słomy, siana: 1090 p."
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_1/lit_a",
+     "text": "ręczne .",
+     "children": [
+      {
+       "type": "text",
+       "text": ": z 7 2 32"
+      },
+      {
+       "type": "text",
+       "text": "‘ 2 ‘ i ; 40"
+      },
+      {
+       "type": "text",
+       "text": "a 3 „ 70 :"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_1/lit_b",
+     "text": "sprzężajowe, do napędu mechanicznego , . Ć 60 1091 p. 4 Triery, cylindry do nich oraz inne kk do PARZE zbóż, nasion . EE ; . F 5 1092 p. 1b! Sieczkarnie toporowe, réwniez z wędnochicwoznńć o szerokości gardła powyżej 340 mm 15 1092 p. 1 b Sieczkarnie toporowe również z wydmuchiwaczami, o szerokości gardła powyżej 310 mm do 340 mm włącznie . 11 z II 1092 z p. 3 Rozdrabniacze do makuchów z magnesami . ć Ć i 15 1092 p. 4 Młynki -do kości ‘ ; . ‘ ; + 8 8 3 10 Śrutowniki: 1092 p. 8",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_1/lit_a",
+     "text": "proste o tarczach lub walcach metalowych . » . 75 k",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_1/lit_b",
+     "text": "kombinowane z gniotownikami ; sg ; 49 Podkurzacze . : i ; 1095 p. 2 Maski ochronne c 1095 p. 3 Pułapki do wyłapywania trutni . 1095 p. 4",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 F ; . a s 37 ; ź ; 2 3 i 26 \" . b i 2 U 22"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "————— Dziennik Ustaw Nr 34"
+      },
+      {
+       "type": "text",
+       "text": "Pozycje i punkty Nazwa t. c. przywozowej"
+      },
+      {
+       "type": "text",
+       "text": "1095 p. 6 Rojnice o. . ; j"
+      },
+      {
+       "type": "text",
+       "text": "Str. 674"
+      },
+      {
+       "type": "text",
+       "text": "żyj BRE Cło zniżone w %°% cła normalnego towaru Ę (autonomicznego)"
+      },
+      {
+       "type": "text",
+       "text": "5.8, & ś ; ME 1095 p. 7 Wszelkie inne przytządy pszczelnicze osobno niewymienione 1096 p. 1 Młynki do nawozów sztucznych ; ‘ ; a * . 1096 p. 5 Maszyny ręczne do przerobu słomy lnianej i konopnej , 1096 z p. 7 Kwoki i wylęgarnie o pojemności poniżej 1000 jaj . 1097 Maszyny i aparaty rolnicze osobno niewymienione . 1098 p. 6 Ostrza do pielników . ; z . ‘ ; z a 1098 p. 7 Inne części maszyn i narzędzi rolniczych, oprócz osobno wymienionych , ; i ? . . , . . ¥ 1159 p. 1 Wagi do mleka, zaopatrzone w zbiornik, — o wadze sztuki: z lit. c"
+      },
+      {
+       "type": "text",
+       "text": "II powyżej 50 do 250 kg. . p ‘ é ; . 1168 p. 7 Wstęgi kinematograficzne, dźwiękowe, naświetlone — nez lit. e I gatywy ; k j ; z 1169 z p. 3 Części maszyn do rachowania . i s . , . z z 1260 p. 2 Rubiny, szafiry i szmaragdy, — naturalne i syntetyczne — lit. b obrobione ; a # a 8 a a a a a"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

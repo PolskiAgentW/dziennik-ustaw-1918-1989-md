@@ -1,0 +1,50 @@
+{
+ "eli": "DU/1935/448",
+ "title": "Dekret Prezydenta Rzeczypospolitej z dnia 30 września 1935 r. w sprawie zmiany ustawy z dnia 29 marca 1933 r. o ulgach w zakresie oprocentowania i terminów spłaty wierzytelności hipotecznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1935/448/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET PREZYDENTA RZECZYPOSPOLITEJ z dnia 30 września 1935 r, w sprawie zmiany ustawy z dnia 29 marca 1933 r. o ulgach w zakresie oprocentowania i terminów spłaty wierzytelności hipotecznych. Na podstawie art. 55 ust. (2) ustawy konstytucyjnej postanawiam co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Art. 11 W ustawie z dnia 29 marca 1933 r. o ulgach w zakresie oprocentowania i terminów spłaty wierzytelności hipotecznych (Dz. U. R. P. Nr. 25, poz. 213) zmienionej rozporządzeniem Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. (Dz. U. R. P. Nr. 94, poz. 845) wprowadza się zmiany następujące:"
+  },
+  {
+   "type": "text",
+   "text": "1923 r. o tymczasowem uregulowaniu linansów OG Rw OM W 1236"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w art. 2 wyrazy: „przed dniem 1 października 1935 r.' zastępuje się wyrazami: „przed dniem 1 stycznia 1938 r. ';",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w art. 3 wyrazy:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„do dnia 1 października 1935 r,” zastępuje się wyrazami: „do dnia 1 stycznia 1938 r.”",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 2, Wykonanie dekretu niniejszego porucza się Ministrom Sprawiedliwości i Skarbu. Art, 3. Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej: I, Mościcki Prezes Rady Ministrów: W. Sławek Minister Skarbu: Wł. Zawadzki Minister Sprawiedliwości: Czesław Michałowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

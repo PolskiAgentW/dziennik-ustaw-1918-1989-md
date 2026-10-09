@@ -1,0 +1,56 @@
+{
+ "eli": "DU/1938/460",
+ "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 26 lipca 1938 r. o czasowym obniżeniu składek, uiszczanych przez pracodawców rolnych za ubezpieczenie od wypadków w zatrudnieniu i chorób zawodowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/460/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OPIEKI SPOŁECZNEJ z dnia 26 lipca 1938 r, o czasowym obniżeniu składek, uiszczanych przez pracodawców rolnych za ubezpieczenie od wypadków w zatrudnieniu i chorób zawodowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 i 3 ustawy z dnia 29 marca 1938 r. o przedłużeniu czasowego obniżenia składek za ubezpieczenia społeczne (Dz. U. R. P. Nr 21, poz. 171) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Składki uiszczane przez pracodawców rolnych za ubezpieczenie od wypadków w zatrudnieniu i chorób zawodowych obniża się na okres od dnia 1 stycznia 1938 r. do dnia 31 grudnia 1938 r. w sposób następujący:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w przypadkach gdy składka obliczana jest w ryczałcie od powierzchni użytków rolnych, od powierzchni obszarów leśnych, lub od marki podatku gruntowego — składkę półroczną wyrażoną w groszach obniża się o 6*/30/o, zaokrąglając ją do najbliższej liczby całkowitej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w przypadkach gdy składka obliczana jest w procencie zarobku — jednostkę taryfową przewidzianą w taryfie składek, zatwierdzonej zarządzeniem Ministra Opieki Społecznej z dnia 21 marca 1938 r. (Monitor Polski Nr 79, poz. 112), zmniejsza się z 0,06 na 0,055, a składkę procentową, stanowiaca iloczyn z pomnożenia liczby odpowiadającej klasie niebezpieczeństwa danego zakładu pracy przez obniżoną jednostkę taryfową, zaokrągla się wzwyż do drugiego znaku dziesiętnego,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Opieki poe: arian Zyndram-KoSscialkowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

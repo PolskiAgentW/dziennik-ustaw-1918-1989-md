@@ -1,0 +1,518 @@
+{
+ "eli": "DU/1933/415",
+ "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 30 maja 1933 r. wydane w porozumieniu z Ministrem Skarbu w sprawie opłat i należności za wykonanie scalenia gruntów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/415/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ROLNICTWA I REFORM ROLNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 maja 1933 r,"
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrem Skarbu w sprawie opłat i należności za wykonanie scalenia gruntów."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie cz. 2 art. 25 ustawy z dnia 9 marca 1932 r. o Funduszu Obrotowym Reformy Rolnej (Dz. U. R. P. Nr. 26, poz. 236) i art. 11 ustawy z dnia 31 lipca 1923 r. o scalaniu gruntów (Dz. U. R. P. z 1927 r. Nr. 92, poz. 833) zarządza się co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "I. Wysokość opłat i należności."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Stawki opłat za techniczne wykonanie scalenia wynoszą od 1 ha gruntów:",
+   "children": [
+    {
+     "type": "text",
+     "text": "A. z pomiarem starego stanu posiadania:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "na obszarze województw: białostockiego, kieleckiego, lubelskiego, łódzkiego, nowośródzkieśo, poleskiego, warszawskiego, wileńskieśo i wołyńskiego — 20 złotych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "na obszarze województw: krakowskiego, „lwowskiego, stanisławowskiego i tarnopolskiego — 35 złotych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "na obszarze województw: pomorskiego i poznańskiego — 40 złotych; B. bez pomiaru starego stanu posiadania:",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "na obszarze województw wymienionych w p. a) ust. A — 14 złotych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "na obszarze województw wymienionych w p. b) ust. A — 22 złote;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "na obszarze województw wymienionych w p. c) ust. A — 28 złotych,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "Stawki wymienione w § 1 mogą być podwyższone, jeżeli władza wymierzająca opłaty uzna scalenie za trudne, ze względu na niezbędne czynności prawne lub warunki technicznego wykomania; w szczególności za trudne mogą być uznane scalenia, w których toku przeprowadza się podział wspólnot, zamianę gruntów (p. a) i g) cz. 2 art. 22 i art. 24 ustawy o scalaniu gruntów) lub ekspertyzy i projekty meljoracyjne, których koszty nie zostaną pokryte w opłatach za prace meljoracyjne.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Podwyższenie stawek nie może przekraczać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "na obszarze województw: krakowskiego, lwowskiego, pomorskiego, poznańskiego, stanisławowskieśo i tarnopolskiego—150% stawek określonych w § 1; na obszarze pozostałych województw — b) \" 100% stawek określonych w § 1, i 2 mogą być obniżone: A. nie więcej niż o 75% dla gruntów:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "które już poprzednio były objęte postępowaniem scaleniowem na innym obszarze scalenia (jako grunty t. zw. różniczan) i zostały z tego tytułu obciążone opłatami;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "rolniczo nieużytecznych lub prawie zupełnie niezdatnych do uprawy polowej, B. nie więcej niż o 90% dla gruntów, które w związku ze scaleniem będą objęte pomiarami, lecz same nie będą scalane.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "Stawki określone w § 1 nie obejmują należności, które uczestnicy scalenia obowiązani są uiścić tytułem zwrotu wydatków specjalnych, a w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_1/lit_a",
+       "text": "kosztów regulacji dróg (p. 1) art. 7 ustawy o scalaniu gruntów);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_1/lit_b",
+       "text": "kosztów zastępczego wykonania świadczeń w naturze (art. 13 ustawy o scalaniu gruntów);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_4/pkt_1/lit_c",
+       "text": "kosztów zamknięcia regulacji hipotecznej, pokrytych przez urzędy ziemskie (cz. 4 art. 46 ustawy o scalaniu gruntów);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_4/pkt_1/lit_d",
+       "text": "kosztów dostarczenia dokumentów (§ 26 rozporządzenia z dnia 27 sierpnia 1928 r. w sprawie wykonywania ustawy o scalaniu śruntów Dz. U. R. P, Nr. 87, poz. 763).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "Należności określone w cz. 1 ustalane będą w wysokości faktycznie poniesionych wydatków,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Il. Zasady wymiaru opłat i należności."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "Opłaty i należności ponoszą posiadacze gruntów, objętych obszarem scalenia, a jeżeli śrunty te stanowią własność Skarbu Państwa, instytucji prawa publicznego lub innej osoby prawnej — władza lub instytucja, pod której zarządem dany grunt się znajduje,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "Opłaty i należności wymierzane będą w stosunku do obszaru gruntów, posiadanych przed scaleniem; przepis ten nie dotyczy należności wymienionych w p. c) i d) cz. 1 § 4, które wymierzane będą bądź równomiernie wszystkim uczestnikom scalenia bądź w wysokości faktycznie przypadającej na poszcześólnych uczestników scalenia; należności wymienione w p. b) cz. 1 § 4 wymierzane będą z zachowaniem przepisów § 25 rozporządzenia z dnia 27 sierpnia 1928 r. w sprawie wykonywania ustawy o scalaniu gruntów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Opłaty za techniczne wykonanie scalenia (§ 1 — 3) wymierzane będą po ustaleniu stanu posiadania gruntów przed scaleniem (art, 31 ustawy o scalaniu gruntów).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Należności z tytułu zwrotu wydatków specjalnych (§ 4) będą wymierzane po dokonaniu damych wydatków. Wymiar może nastąpić w każdym czasie w toku postępowania scaleniowego lub po jego zakończeniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "W toku postępowania scalenioweśo, a przed dokonaniem wymiaru opłat, mogą być wymierzane wpłaty tymczasowe, Ogólna suma wpłat",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "tymczasowych wymierzonych uczestnikowi scalenia nie może przekraczać 80% sumy opłat, jakie według przybliżonych obliczeń przypadną na danego uczestnika scalenia przy ostatecznym wymiarze opłat; przed ustaleniem stanu posiadania gruntów przybliżone obliczenia dokonywane będą na podstawie prowizorycznej listy uczestników scalenia (art. 16 ustawy o scalaniu gruntów) lub na podstawie danych, zebranych przez mierniczego w myśl p. h) cz. 1 art. 28 ustawy o scalaniu gruntów. Wpłaty tymczasowe pobrane będą co najmniej w dwóch ratach, wyznaczonych w odstępach czasu co najmniej 4-miesięcznych, przyczem jedna rata nie może przekraczać 40% przybliżonej sumy opłat, należnych od danego uczestnika scalenia,"
+    },
+    {
+     "type": "text",
+     "text": "IL"
+    },
+    {
+     "type": "text",
+     "text": "Zaliczki na poczet opłat."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "Na poczet opłat za techniczne wykonanie scalenia mogą być w toku postępowania scaleniowego wpłacane dobrowolne zaliczki; urząd ziemski może jednak odmówić przyjęcia zaliczki ze względu na zbyt niską kwotę zaliczki w stosunku do przewidywanej wysokości opłat. Zaliczki mogą być wpłacane przez uczestników scalenia indywidualnie lub grupami; zaliczki mogą być również wpłacane na rachunek uczestników scalenia przez związki komunalne, instytucje kredytowe i t. p. Przy wpłacaniu zaliczki winno być określone, w jaki sposób wpłacane sumy mają być zaliczone na rachunek jes ar: uczestników scalenia; w braku taiego określenia wpłacone sumy będą zaliczone na rachunek wszystkich uczestników scalenia w stosunku do obszaru gruntów, objętych obszarem scalenia.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "Jeżeli przy ostatecznym wymiarze opłat okaże się, że wpłacona zaliczka przekracza należną sumę, nadpłacone kwoty będą zaliczone na poczet nieuiszczonych należności przewidzianych w § 4, a w braku takich należności — zostaną zwrócone poszczególnym uczestnikom scalenia,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Przyjęte przez urząd ziemski dobrowolne zaliczki będą przy ostatecznym wymiarze opłat zarachowywane w stosunku 105% wpłaconych kwot.",
+   "children": [
+    {
+     "type": "text",
+     "text": "IV. Terminy płatności, odraczanie i ściąganie opłat i należności."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "O ile nie zostanie zastosowany przepis",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 12, opłaty i należności winny być uiszczone jednorazowo w najbliższym terminie 1 listopada lub 1 marca, przypadającym jednak nie wcześniej niż w 2 miesiące po uprawomocnieniu się decyzji powiatowego utzędu ziemskiego, ustalającej wymiar opłat lub po ogłoszeniu decyzji okręgowego urzędu ziemskiego w tym przedmiocie (§ 19)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Opłaty i należności mogą być, zależnie od zdolności płatniczej uczestnika scalenia, rozłożone najwyżej na trzy równe raty roczne, wynoszące co najmniej 25 złotych, przyczem termin płatności pierwszej raty ustalony będzie zgodnie z § 11.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Od opłat i należności z akredytowanych (§ 12) pobierane będą za czas z akredytowania odsetki w wysokości 4% w stosunku rocznym. Od-",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr. 55."
+    },
+    {
+     "type": "text",
+     "text": "setki pobierane będą łącznie z zakredytowanemi sumami opłat lub należności."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "W razie trudności płatniczych, wynikłych wskutek nieurodzaju, klęsk żywiołowych, śmierci albo ciężkiej choroby dłużnika lub członka jego rodziny, termin płatności opłat i należności lub poszczególnych ich rat (§ 12) może być odroczony lub też należne w tych terminach sumy mogą być rozłożone do spłaty w terminach późniejszych. W razie z akredytowania opłat i należności (§ 12) odroczenie lub rozłożenie na spłaty nie może obejmować więcej niż jedną ratę roczną. Okres odroczenia lub rozłożenia na raty nie może przekraczać lat dwóch.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "Za czas odroczenia lub rozłożenia na spłaty nie pobiera się odsetek.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_14/pkt_3",
+     "text": "Odroczenie lub rozłożenie na spłaty nastepuje na prośbę uczestnika scalenia lub osoby interesowanej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Nieuiszczone w terminie opłaty i należności będą ściągane w trybie postępowania przymusowego w administracji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "V. Zwalnianie od opłat i należności."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "Uczestnicy scalenia mogą być zwolnieni w całości lub w części od opłat i należności za wykonanie scalenia, o ile koszty związane z wykonaniem scalenia znajdą pokrycie we wpływach, oznaczonych w p. c) i e) art. 6 ustawy o Funduszu Obrotowym Reformy Rolnej.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "Zwolnienie od opłat i należności następuje w przypadkach, uzasadnionych względami określonemi w cz. 3 i 4 art. 11 ustawy o scalaniu gruntów; zwolnienie na podstawie cz. 3 art. 11 mastepuje na wniosek płatnika, zgłoszony przed upływem 14 dni od dnia doręczenia decyzji powiatowego urzędu ziemskiego, ustalającej wymiar opłat; zwolnienie na podstawie cz. 4 art. 11 ustawy o scalaniu gruntów nastąpić może z urzędu w każdym czasie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI. Pokrycie kosztów w razie zaniechania scalenia."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "W razie zaniechania rozpoczętego scalenia wskutek uchwały powziętej przez uczestników scalenia (art. 39 ustawy o scalaniu gruntów) sumy wpłacone z tytułu wymierzonych opłat i należności lub ma poczet tych opłat i należności (§ 8 ¢ 9) przez tych uczestników scalenia, którzy powzięli uchwałę, będą zaliczone na poczet należnych od nich kosztów, pozostałym zaś uczestnikom scalenia wpłacone sumy będą w całości zwrócone.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Do opłat i należności obciążających uczestników scalenia, którzy powzięli uchwałę © zaniechaniu postępowania scaleniowego, nie stosują się przepisy o rozkładaniu na raty (§ 12) oraz o zwalnianiu od opłat i należności (§ 16).",
+   "children": [
+    {
+     "type": "text",
+     "text": "VII. Właściwość władz."
+    },
+    {
+     "type": "text",
+     "text": "§ 19, 1) Decyzje co do wymiaru i ustalenia terminów płatności opłat i należności jak również wpłat tymczasowych (§ 8) wydaje powiatowy urząd ziemski, -"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": ". 2) Administrowanie sumami należnemi z tytułu opłat i należności, przyjmowanie zaliczek dobrowolnych na poczet opłat (§ 9) oraz odraczanie terminów płatności (§ 14) — należy do okręgowego urzędu ziemskiego."
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_18/pkt_3",
+     "text": "Decyzje w sprawie zwolnienia od opłat ($'16) wydaje Minister Rolnictwa i Reform Rolnych na wniosek okręgowego urzędu ziemskiego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VII. Postanowienia przejściowe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "W sprawach, w których przed wejściem w życie rozporządzenia niniejszego nie zostały wysłane nakazy płatnicze przewidziane w § 19 rozporządzenia z dnia 27 sierpnia 1928 r. w sprawie wykonywania ustawy o scalaniu gruntów (Dz. U. R. P. Nr. 87, poz. 763), opłaty i należności za wykonanie scalenia wymierzone będą w trybie i na zasadach rozporządzenia niniejszego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "W sprawach, w których zapadły decyzje przedstanowcze, lub w których zostały powzięte uchwały ostateczne, a pomiary zostały dokonane przed 21 września 1923 r. — wysokość opłat i należności ustałona będzie w trybie rozporządzenia niniejszego z tem, że: A. wysokość opłat za techniczne wykonanie \"scalenia ze sporządzeniem operatu pomiarowego wynosić będzie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_21/lit_a",
+     "text": "z pomiarem stanu posiadania przed scaleniem po 10 złotych od 1 ha gruntów mierzonych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_21/lit_b",
+     "text": "bez pomiaru stanu posiadania przed scaleniem po 7 zł od 1 ha śruntów mierzonych; gdy zaś w powyższych sprawach pomiary zostały dokonane po 21 września 1923 r. opłaty będą pobierane według stawek określonych w § 1; B. sumy wpłacone przed dniem 1 stycznia 1923 r. na poczet opłat za powyższe prace scaleniowe, będą zaliczone jako odpowiednia procentowa „część należności według norm, obowiązujących w czasie ich uiszczenia; do pozostałej procentowej części należności będą stosowane normy podane w ust. A; C. sumy, wydane w związku ze scaleniem w podań taga sprawach (ust. A i B) na ekspertyzy meljoracyjne, najem robotników, kupno materjałów i t. p., a niepobrane dotychczas przez urzędy ziemskie od r jęirankoc uczestników scalenia, będą przerachowane na zasadach wyszczególnionych w § 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 maja 1924 r. o przerachowaniu zobowiązań prywatno-prawnych (Dz. U. R. P. z 1925 r. Nr. 30, poz. 213).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "W sprawach zakariczanych na podstawie p. a) cz. 2 art. 50 ustawy o scalaniu gruntów opłaty i należności będą wymierzane w stosunku do cheer gruntéw, otrzymanych w wyniku scalenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "W przypadkach przejęcia przez urzędy ziemskie prac powierzonych mierniczym przez rady uczestników scalenia (cz, 2 art. 53 ustawy o scalaniu gruntów), wartość wykonanych prac, określona przez urzędy ziemskie, zostanie zaliczona na poczet opłat za techniczne wykonanie scalenia, wymierzonych na zasadzie rozporządzenia niniejszego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_24/pkt_1",
+     "text": "Minister Rolnictwa i Reform Rolnych może wydawać zarządzenia w sprawie przejmowania przez okręgowy urząd ziemski administracji należności za wykonanie scalenia, wymierzonych przed wejściem w życie rozporządzenia niniejszego, a znajdujących się w administracji Państwowego Banku Rolnego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_24/pkt_2",
+     "text": "O zmianie sposobu uiszczenia należności przejętych przez urzędy ziemskie w myśl cz. 1 powiadomi płatników Państwowy Bank Rolny,",
+     "children": [
+      {
+       "type": "text",
+       "text": "IX. Postanowienia końcowe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Równocześnie tracą moc obowiązującą przepisy sprzeczne z rozporządzeniem niniejszem, a w szczególności postanowienia § 14—23, zdanie końcowe § 26, zdanie drugie i trzecie cz. 3",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 60, § 83 i § 84 rozporządzenia Ministrów Reform Rolnych i Sprawiedliwości z dnia 27 sierpnia 1928 r. w sprawie wykonania ustawy o scalaniu gruntów (Dz. U. R. P. Nr. 87, poz. 763) w brzmieniu zmienionem rozporządzeniami z dnia 5 maja 1930 r. (Dz. U. R. P. Nr. 38,.poz. 334) i z dnia 30 maja 1931 r. (Dz. U. R. P. Nr. 60, poz. 485)."
+    },
+    {
+     "type": "text",
+     "text": "Minister Rolnictwa i Reform Rolnych: Nakoniecznikow - Klukowski"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: Wł. Zawadzki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

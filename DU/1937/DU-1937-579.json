@@ -1,0 +1,83 @@
+{
+ "eli": "DU/1937/579",
+ "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 10 listopada 1937 r. o wykonywaniu nadzoru oraz bezpośredniego dozoru nad kotłami parowymi.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/579/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA PRZEMYSŁU I HANDLU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 listopada 1937 r."
+  },
+  {
+   "type": "text",
+   "text": "o wykonywaniu nadzoru oraz bezpośredniego dozoru nad kotłami parowymi."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. '2 i 3 ustawy z dnia 31 maja 1921 r, o nadzorze nad kotłami parowymi (Dz. U. R. P. Nr 50, poz. 303), w brzmieniu ustawy z dnia 6 grudnia 1921 r, (Dz. U. R. P. Nr 108, poz. 786), w związku z art. 1 ustawy z dnia 12 czerwca 1937 r. o zmianie granic województw: poznańskiego, pomorskiego, warszawskiego i łódzkiego (Dz. U. R. P. Nr 46, poz. 350) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Nadzór nad wszystkimi kotłami tak rządowymi, jak i prywatnymi, z wyjątkiem kotłów podlegających nadzorowi Ministra Komunikacji i Ministra Spraw Wojskowych oraz kotłów wymienionych w § 1 rozporządzenia Ministra Przemysłu i Handlu z dnia 13 lutego 1924 r. w przedmiocie wykonywania dozoru kotłów parowych na statkach oraz w urządzeniach portowych (Dz. U. R. P, Nr 16, poz. 173), sprawują właściwe władze przemysłowe wojewódzkie (II instancji).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Bezpośredni dozór nad wszystkimi kotłami, poddanymi w myśl § 1 nadzorowi władz przemysłowych wojewódzkich, zleca się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "Stowarzyszeniu Dozoru Kotłów w Warszawie na obszarze:",
+     "children": [
+      {
+       "type": "text",
+       "text": "m. st. Warszawy oraz województw białostockiego, kieleckiego, krakowskiego, lubelskiego, lwowskiego, łódzkiego, nowogrédzkiego, poleskiego, stanisławowskiego, tarnopolskiego, wołyńskiego, wileńskiego i warszawskiego z wyłączeniem powiatu działdowskiego; powiatów lipnowskiego, nieszawskiego, rypińskiego i włocławskiego województwa pomorskiego; powiatów kaliskiego, kolskiego, koniriskiego i tureckiego województwa poznańskiego; powiatów bielskiego i cieszyńskiego, województwa śląskiego."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Stowarzyszeniu Dozoru Kotłów w Poznaniu na obszarze: województwa poznańskiego z wyłączeniem powiatów kaliskiego, kolskiego, konińskiego i tureckiego; województwa pomorskiego z wyłączeniem powiatów lipnowskiego, nieszawskiego, rypińskiego i włocławskiego; powiatu działdowskiego województwa warszawskiego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "Stowarzyszeniu Dozoru Kotłów Parowych w Katowicach na obszarze: województwa śląskiego z wyłączeniem powiatów bielskiego i cieszyńskiego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 kwietnia 1938 r. i obowiązuje do dnia 1 stycznia 1939 r. Jednocześnie traci moc obowiązującą rozporządzenie Ministra Przemysłu i Handlu z dnia 9 maja 1934 r, w sprawie wykonywania dozoru nad kotłami parowymi (Dz. U. R. P. Nr 41, poz. 369).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Przemysłu i Handlu: Antoni Roman"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

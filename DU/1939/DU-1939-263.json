@@ -1,0 +1,65 @@
+{
+ "eli": "DU/1939/263",
+ "title": "Dekret Prezydenta Rzeczypospolitej z dnia 29 kwietnia 1939 r. w sprawie zmiany dekretu Prezydenta Rzeczypospolitej z dnia 12 marca 1937 r. o służbie wojskowej oficerów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/263/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET PREZYDENTA RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 kwietnia 1939 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany dekretu Prezydenta Rzeczypospolitej z dnia 12 marca 1937 r. o służbie wojskowej oficeréw."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 63 ust. (1) ustawy konstytucyjnej i dekretu Prezydenta Rzeczypospolitej z dnia 9 maja 1936 r. o sprawowaniu zwierzchnictwa nad Siłami Zbrojnymi i organizacji naczelnych władz wojskowych w czasie pokoju (Dz. U. R. P. Nr 38, poz. 286) postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W art. 35 dekretu Prezydenta Rzeczypospolitej z dnia 12 marca 1937 r. o służbie wojskowej ołicerów (Dz. U. R. P. Nr 20, poz. 128) § 3 otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„S 3. Rodzaj i czas trwania ćwiczeń ustali Minister Spraw Wojskowych, przy czym jednak czas trwania ćwiczeń nie może przekraczać w ciągu dwóch następujących po sobie lat dziesięciu tygodni.\"",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie dekretu niniejszego porucza się Ministrowi Spraw Wojskowych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia,",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej: I. Mościcki"
+  },
+  {
+   "type": "text",
+   "text": "Minister Spraw Wojskowych: Kasprzycki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

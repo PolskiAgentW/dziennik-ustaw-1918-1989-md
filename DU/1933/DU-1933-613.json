@@ -1,0 +1,53 @@
+{
+ "eli": "DU/1933/613",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. w sprawie zmiany ustawy z dnia 20 marca 1931 r. o samoistnym podatku wyrównawczym dla gmin wiejskich.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/613/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 października 1933 r. w sprawie zmiany ustawy z dnia 20 marca 1931 r. o samoistnym podatku wyrównawczym dla gmin ; wiejskich. Na podstawie art. 44 ust. 6 Konstytucji i ustawy z dnia 25 marca 1933 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 29, poz. 249) postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Ustęp 1 art. 8 ustawy z dnia 20 marca 1931 r. o samoistnym podatku wyrównawczym dla gmin wiejskich (Dz. U. R. P. Nr. 27, poz. 172) ulega zmianom następującym:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w zdaniu pierwszem skreśla się wyrazy: „do dnia 31 marca 1934 r.';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w zdaniu drugiem wyrazy: „W tym okresie” zastępuje się wyrazami: „W okresie od dnia 1 kwietnia 1931 r. do dnia 31 marca 1934 r.”.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 22 Wykonanie rozporządzenia niniejszego porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu i Ministrem Wyznań Religijnych i Oświecenia Publicznego."
+      },
+      {
+       "type": "text",
+       "text": "Art. 3, Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej: J. Mościcki Prezes Rady Ministrów i Minister Wyznań Religijnych i Oświecenia Publicznego: J. Jędrzejewicz Minister Spraw Wewnętrznych: Bronisław Pieracki Minister Spraw Zaśranicznych: Beck Minister Spraw Wojskowych: J. Piłsudski Minister Skarbu: Wł. Zawadzki Minister Sprawiedliwości: Czesław Michałowski Minister Rolnictwa i Reform Rolnych: Nakoniecznikow - Klukowski Minister Przemysłu i Handlu: Zarzycki Minister Komunikacji: M. Butkiewicz Minister Opieki Społecznej: Hubicki Minister Poczt i Telegrafów: Kaliński"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,824 @@
+{
+ "eli": "DU/1933/599",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. - Przepisy wprowadzające kodeks zobowiązań.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/599/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dmia 27 października 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "Przepisy wprowadzające kodeks zobowiązań."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 44 ust. 6 Konstytucji i ustawy z dnia 25 marca 1933 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 29, poz. 249) postanawiam co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział L",
+   "text": "Przepisy ogólne,"
+  },
+  {
+   "type": "text",
+   "text": "Art. L Z dniem wejścia w życie kodeksu zobowiązań tracą moc przepisy dotychczas obowiązujących kodeksów cywilnych, ustaw wprowadzających je i ustaw szczególnych, dotyczące przedmiotów, unormowanych w kodeksie zobowiązań, o ile przepisy poniższe nie stanowią inaczej. Pozostają w mocy przepisy ustaw Art. IL szczególnych:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "dotyczące przedmiotów, co do których kodeks zobowiązań odwołuje się do przepisów ustawy;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "dotyczące zdolności zobowiązywania się;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "dotyczące formy czynności prawnych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "uznające za nieważne czynności prawne; _ 5) dotyczące pełnomocnictw szczególnego ro- Ju;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "nakładające odpowiedzialność za cudze czyny;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "dotyczące obowiązku naprawienia szkody;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "przewidujące odpowiedzialność w charakterze spółdłużnika lub poręczyciela;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "wyłączające dopuszczalność ugód;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "10",
+   "path": "pkt_10",
+   "text": "zabraniające przelewu wierzytelności lub ograniczające skutki przelewu;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "11",
+   "path": "pkt_11",
+   "text": "wyłączające wierzytelności od potrącenia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "12",
+   "path": "pkt_12",
+   "text": "nakładające na wierzyciela obowiązek przyjmowania spłaty częściowej lub spłaty przed terminem płatności albo nadające wierzycielowi prawo żądania zapłaty przed terminem;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "13",
+   "path": "pkt_13",
+   "text": "upoważniające do złożenia lub nakazujące złożenie przedmiotu świadczenia do depozytu sądowego; ;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "14",
+   "path": "pkt_14",
+   "text": "wprowadzające szczególne terminy przedawnienia i sposoby przerwania lub zawieszenia przedawnienia oraz szcześólne terminy zawite;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "15",
+   "path": "pkt_15",
+   "text": "dotyczące prawa odkupu i pierwokupu;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "16",
+   "path": "pkt_16",
+   "text": "dotyczące wypowiadania i rozwiązywania umów o pracę.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. IIL Pozostają nadto w mocy ustawy:"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "o sprzedaży na raty;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "o licytacji dobrowolnej;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "o ochronie lokatorów zapewnieniu czasowych mieszkań i pomieszczeń dla zwolnionych robotników rolnych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "o wywłaszczeniu;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "o wykupie gruntów zajętych przez dzierżawców pod budynki;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "o przerachowaniu zobowiązań, o innych udogodnieniach w stosunkach kredytowych, o zniżeniu oprocentowania i zmianie okresów umorzenia pożyczek długoterminowych, o ulgach w spłacie pożyczek krótkoterminowych, o pożyczkach na odbudowę budynków zniszczonych wskutek działań wojennych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "o upadłości, zapobieganiu upadłości oraz o zapobieganiu skutkom trudności płatniczych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "o umorzeniu (amortyzacji) dokumentów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "o dopuszczalnej wysokości odsetek umownych i o lichwie pieniężnej oraz o wysokości odsetek ustawowych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "10",
+   "path": "pkt_10",
+   "text": "o umowie o pracę szczególnych kategoryj pracowników, o pośrednictwie pracy i o ochronie pracy;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "11",
+   "path": "pkt_11",
+   "text": "o załatwianiu zatargów zbiorowych między pewnemi kategorjami pracodawców i pracowników; . 12) o urzędach rozjemczych do spraw majątkowych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "13",
+   "path": "pkt_13",
+   "text": "o prawie górniczem i o prawie dotyczącem zad, innych minerałów żywicznych i gazów ziemnych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "14",
+   "path": "pkt_14",
+   "text": "o ubezpieczeniach;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "15",
+   "path": "pkt_15",
+   "text": "o prawie autorskiem, o ochronie wynalazków, wzorów i znaków towarowych i o zwalczaniu nieuczciwej konkurencji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. IV. Pozostają w mocy ustawy dotyczące ustroju rolnego, w szczególności ustawy o scalaniu gruntów, o zniesieniu służebności, o ochronie drobnych dzierżawców rolnych, o wykupie gruntów podlegających ustawie o ochronie drobnych dzierżawców rolnych, o likwidacji stosunków żelarskich"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "na Spiszu, o wykonaniu reformy rolnej, o przymusowym wykupie na cele reformy rolnej nieruchomości ziemskich osób nieobecnych, o powództwie cywilnem o odszkodowanie z tytułu wynagrodzenia za nieruchomość przymusowo wykupioną lub przejętą na rzecz Państwa, o likwidacji umów dzierżawnych, dotyczących gruntów parcelowanych, o ureśulowaniu stanu hipotecznego nieruchomości, oddanych w toku parcelacji w posiadanie nabywców, o ułatwieniu spłaty uciążliwych zobowiązań, obciążających gospodarstwa rolne, o rybołówstwie, o łowiectwie, o zagospodarowaniu lasów państwowych oraz ustawa wodna."
+    },
+    {
+     "type": "text",
+     "text": "Art. V. Pozostają w mocy przepisy z dziedziny prawa handlowego, wekslowego i czekowego."
+    },
+    {
+     "type": "text",
+     "text": "Art. VL Przepisy kodeksu zobowiązań nie naruszają postanowień umów międzynarodowych."
+    },
+    {
+     "type": "text",
+     "text": "Art. VIL Pozostają w mocy dotychczasowe przepisy, dotyczące:"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "sposobu i chwili przejścia prawa własności i innych praw rzeczowych na podstawie zobowiązań;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "sposobu ujawniania w księgach hipotecznych (gruntowych) prawa odkupu, pierwokupu, najmu i dzierżawy, praw wynikających z umowy spóiki i z umowy o dożywocie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. VIIL Aż do wydania ustawy szczególnej o umowie o pracę nauczycieli stosuje się do umów o pracę nauczycieli przepisy kodeksu zobowiązań z nastepującemi zmianami:"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Gdy czas trwania stosunku pracy nie jest w umowie oznaczony, pracodawca może wypowiedzieć umowę o pracę nauczycielowi domowemu najpóźniej na trzy miesiące naprzód na koniec kwartału kalendarzowego. Powyższy termin wypowiedzenia stosuje się do nauczyciela zatrudnionego w zakładzie naukowym o tyle tylko, o ile zwyczaj nie ustala korzystniejszego dla nauczyciela terminu wypowiedzenia. W obu przypadkach stosuje się przepis art. 469",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 5 kodeksu zobowiązań."
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "W razie niemożności pełnienia pracy z ważnej przyczyny nauczycie! zatrudniony w zakładzie naukowym zachowuje prawo do wynagrodzenia. Jeżeli umowa nie zawiera korzystniejszych dla nauczyciela postanowień służy mu prawo do wynagrodzenia przez okres, ustalony zwyczajem, a w braku zwyczaju przez okres trzech miesięcy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. IX. W przypadku, wymienionym w przepisie art. 445 § 3 kodeksu zobowiązań, termin wypowiedzenia układu zbiorowego, zawartego między pracodawcami a pracownikami rolnymi, wynosi trzy miesiące,"
+    },
+    {
+     "type": "text",
+     "text": "Art, X. § 1. Przepisów art. 458, 459 kodeksu zobowiązań nie stosuje się do:"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "pracowników, objętych rozporządzeniem Prezydenta Rzeczypospolitej z dnia 16 marca 1928r. o umowie o pracę robotników (Dz. U. R. P. Nr, 35, poz. 324);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "pracowników umysłowych, objętych rozporządzeniem Prezydenta Rzeczypospolitej z dnia 16 marca 1928 r. © umowie o pracę pracowników umysłowych (Dz. U. R. P, Nr. 35, poz. 323);",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr. 82."
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "pracowników zatrudnionych na statkach oe APE morskich oraz robotników portowych w Gdyni.",
+   "children": []
+  },
+  {
+   "type": "text",
+   "text": "do wynagrodzenia skutkiem choroby i wypadku nie stosuje się ponadto do tych pracowników, którzy. podlegają obowiązkowi ubezpieczenia, określonego ustawą z dnia 28 marca 1933 r. o ubezpieczeniu społecznem (Dz. U. R. P. Nr. 51, poz. 396) oraz do pracowników, objętych układami zbiorowemi."
+  },
+  {
+   "type": "text",
+   "text": "Art. KL § 1. Pozostają w mocy art. 721 i 722 kodeksu postępowania cywilnego. § 2. Uchyla się art. XXVI przepisów wprowaar dzających prawo o sądowem postępowaniu egzekucyjnem. § 3. Moc obowiązującą art. XIX przepisów wprowadzających kodeks postępowania cywilnego rozciąga się na obszar całego Państwa."
+  },
+  {
+   "type": "text",
+   "text": "Art. XII Art. 20 rozporządzenia Prezydenta Rzeczypospolitej z dnia 6 marca 1928 r. o opiece nad zabytkami (Dz. U. R. P. Nr. 29, poz. 265) otrzymuje brzmienie następujące: „Skarbowi Państwa służy prawo pierwokupu co do sprzedawanego przez właściciela zabytku ruchomego, bądź nieruchomego”,"
+  },
+  {
+   "type": "text",
+   "text": "_ Art. XI. Ustawa w rozumieniu kodeksu zobowiązań i niniejszych przepisów wprowadzających jest każdy przepis obowiązujący."
+  },
+  {
+   "type": "text",
+   "text": "Art. XIV. Jeżeli dotychczasowe przepisy, utrzymane w mocy, powołują się na uchylone przepisy kodeksów cywilnych lub ustaw szczególnych, bądź też ogólnie odsyłają do przepisów prawa cywilnego, dotyczących przedmiotów, unormowanych w kodeksie zobowiązań, stosuje się odpowiedni przepis tego kodeksu."
+  },
+  {
+   "type": "text",
+   "text": "Art. XV. Przedstawicielem ustawowym osoby, ograniczonej w zdolności do działań prawnych, jest w rozumieniu kodeksu zobowiązań również kurator i doradca,"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IL",
+   "text": "Przepisy szczególne dla obszaru mocy obowiązującej kodeksu Napoleona."
+  },
+  {
+   "type": "text",
+   "text": "Art. XVL § 1. Uchyla się w tytule II księgi trzeciej kodeksu Napoleona art. 894, oraz dział IV o darowiznach między żyjącymi, czyli art. 931 — 966, z wyjątkiem art. 935, 937, 938, 942, 943, które nadal pozostają w mocy. § 2. Uchyla się tytuły III, IV oraz VI — XVI es 1 me księgi trzeciej kodeksu Napoleona, czyli art. 1101 — 1386, 1582 — 2070, z wyjątkiem art. 1123, 1124, 1125 ustęp 1, 1138, 1141, 1166, 1251 p. 4, 1304 — 1312, 1314, 1340, 1583, 1595, 1686 — 1688, 1696 — 1698, które nadal pozostają w mocy."
+  },
+  {
+   "type": "text",
+   "text": "Art. XVIL Art. 900 kodeksu Napoleona otrzymuje brzmienie następujące: „W każdem rozporządzeniu testamentowem warunki niemożliwe, przeciwne prawu lub moralności poczytuje się za nienapisane ,"
+  },
+  {
+   "type": "text",
+   "text": "Art, XVIII. Przepisy tytułu XX księgi trzeciej kodeksu Napoleona o przedawnieniu oraz art. 1304"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Dziennik Ustaw. Foz. 599. INr. 32."
+  },
+  {
+   "type": "text",
+   "text": "tegoż kodeksu traca moc w zastosowaniu do zobowiązań. ."
+  },
+  {
+   "type": "text",
+   "text": "Art. XIX. § 1. Powództwo o nieważność lub © zerwanie umów, zdziałanych przez małoletnich i ubezwłasnowolnionych, przedawnia się z upływem lat dziesięciu, § 2. Bieg przedawnienia rozpoczyna się wzślędem umów, zdziałanych przez małoletnich, od dnia pełnoletności, a względem umów, zdziałanych przez ubezwłasnowoinionych, od dnia zniesienia ubezwłasnowolnienia."
+  },
+  {
+   "type": "text",
+   "text": "Art. KX. Prawo zastawu, przewidziane w art, 386, 412 i 544 kodeksu zobowiązań, wstępuje na miejsce przywileju z art. 7 punkty 2 i 6 prawa o przywilejach i hipotekach z r. 1825 i poczytuje się za przywilej. Tak samo poczytuje się za przywilej na szcześólnej ruchomości (art. 7 prawa o przywilejach i hipotekach z r. 1825) prawo zastawu, przewidziane w art. 141 kodeksu zobowiązań; podlega ono co do pierwszeństwa przepisom art. 8 prawa o przywilejach i hipotekach."
+  },
+  {
+   "type": "text",
+   "text": "Art. XXL Art 602 kodeksu zobowiązań nie stosuje się aż do czasu wydania jednolileśo prawa hipotecznego."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IIL",
+   "text": "Przepisy szczególne dla obszaru mocy obowiązującej kodeksu cywilnego austrjackiego,"
+  },
+  {
+   "type": "text",
+   "text": "Art. XXIL § 1. Uchyla się z oddziału pierwszego części drugiej kodeksu cywilnego austrjackiego §§ 343 i 471."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchyia się oddział drugi części drugiej oraz rozdziały I — III części trzeciej kodeksu cywilnego austrjackiego, czyli S§ 859 — 1450, z wyjątkiem S§ 951, 952, 956, 1024, 1217 — 1266, 1278 — 1283, 1288 — 1292, 1368 — 1374, 1382, 1443 i 1466, które nadal pozostają w mocy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchyla się $§ 131, 151 i 187 noweli III do kodeksu cywilnego austrjackiego (rozporządzenie cesarskie z dnia 19 marca 1916, Dz. u. p. austr. Nr. 69), jako też wszystkie przepisy tej noweli, odnoszące się do uchylonych obecnie przepisów kodeksu cywilnego austrjackiego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. XXIIL Przepisy rozdziału IV części trze- \"ciej kodeksu cywilnego ausirjackiego o przędawnieniu i zasiedzeniu tracą moc w zastosowaniu do zobowiązań."
+    },
+    {
+     "type": "text",
+     "text": "Art. XXIV. § 1. Uchyla ię -:porządzenie cesarskie z dnia 12 października 1914 o lichwie (Dz. u. p. austr. Nr. 275). §2. Uchyła się ordynację o zaskarżaniu czynności prawnych (zaczepna), wydaną rozporządzeniem cesarskiem z dnia 10 grudnia 1914 (Dz. u. p. austr. Nr. 337) z wyjątkiem § 20."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Z ordynacji konkursowej, wydanej tem samem rozporządzeniem cesarskiem, uchyla się $§ 9, 28, 29, 32, 34, 35, 36, 38, 39 ust. 2 i 3, § 40 i 42, oraz z ordynacji układowej, wydanej tem samem rozporządzeniem cesarskiem, uchyla się § 9; zamiast uchylonych przepisów stosuje się przepisy kodeksu zobowiązań.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. XXV. Uchyla się:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "art. XI p. 1 ustawy zapro \"adzającej austr. procedurę cywilną z dnia 1 sierpm. 1895 (Dz. u. p. austr. Nr. 112) oraz $§ 560, 568 i 569 austr. procedury cywilnej z 1 sierpnia 1895 (Dz. u. p. austr. Nr. 113), utrzymane w mocy przez art. XXV przepisów wprowadzających kodeks postępowania cywilnego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "rozporządzenie .austrjackiego ministerstwa sprawiedliwości z dnia 21 lipca 1858 o przedawnieniu pretensyj, ustalonych wyrokiem, ugodą lub umową, będącą tytułem egzekucyjnym (Dz. u. p. austr. Nr. 105);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "dekret kancelarji nadwornej z dnia 10 kwietnia 1839 o przedawnieniu roszczeń czeladzi o wynagrodzenie (Zb. u. sąd. Nr. 355);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "§ 13 ustawy z dnia 1 kwietnia 1875 o organizacji giełd (Dz. u. p. austr. Nr. 67), utrzymany w mocy przez § 38 rozporządzenia Prezydenta Rzeczypospolitej z dnia 28 grudnia 1924 r. o organizacji giełd (Dz. U. R.P. z 1930 r. Nr. 23, poz. 209);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "dekrety nadworne z dnia 10 kwietnia 1837 (Zb. u. sąd. Nr. 189) i z dnia 5 listopada 1819 (Zb. u. sąd. Nr. 1621).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. XXVI Aż do wydania rozporządzenia Ministra Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Sprawiedliwości, przewidzianego w art. 332 i 333 kodeksu zobowiązań, pozostają w mocy przepisy rozporządzenia austrjackiego Ministra Sprawiedliwości w porozumieniu z Ministrem Rolnictwa z dnia 10 listopada 1916 w sprawie okresów domniemania przy wadach zwierząt (Dz. u. p. austr. Nr. 384)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "Przepisy szczególne dla obszaru mocy obowiązującej kodeksu cywilnego niemieckiego."
+  },
+  {
+   "type": "text",
+   "text": "Art. XXVIL S§ 1. Uchyla się z księgi pierwszej kodeksu cywilnego niemieckiego § 105 ustęp 2, 116— 118, 125 — 134, 138 — 141, 145 — 155, 157 — 175, 177 — 180, 182 — 193, 227 — 23i. Na miejsce przepisów, zawartych w tych paragrafach, wchodzą odpowiednie przepisy kodeksu zobowiązań."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przepisy $§ 119 — 124, 142 — 144, 181, 194 — 225 kodeksu cywilnego niemieckiego tracą moc w zastosowaniu do zobowiązań.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uchyla się księgę drugą kodeksu cywilnego niemieckiego, czyli §§ 241 — 853, z wyjątkiem S§ 313, 411, 456 — 458, 741 — 758, 794 ustęp 1, 797 zdanie drugie, 799, 800, 809 — 811, 828, 839 i 841, które nadal pozostają w mocy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Uchyla się z księgi trzeciej kodeksu cywilnego niemieckiego § 908.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. XXVIII. § 312 ustęp 2 kodeksu cywilnego niemieckiego otrzymuje brzmienie następujące: „Umowa, jaką zawierają między sobą przyszli spadkobiercy ustawowi o ustawową część spadku lub o zachowek jednego z nich, powinna być pod nieważnością zawarta w formie aktu notarjalnego\"."
+    },
+    {
+     "type": "text",
+     "text": "Art XXIX. Pozostają w mocy dotychczasowe przepisy, określające odpowiedzialność Skarbu Pań-"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "1496 +"
+    },
+    {
+     "type": "text",
+     "text": "stwa za urzędnika w przypadkach, przewidzianych w § 839 kodeksu cywilnego niemieckiego."
+    },
+    {
+     "type": "text",
+     "text": "Art. XXX. Z pruskiej ustawy wykonawczej do niemieckiego kodeksu cywilnego z dnia 20 września 1899 (Zbiór ustaw prusk. str. 177) uchyla się art. 10, 14, 15 $§ 2 — 10 oraz art, 88."
+    },
+    {
+     "type": "text",
+     "text": "Art. XXXI. Uchyla się ustawę o zaskarżaniu działań prawnych dłużnika poza postępowaniem upadłościowem z dnia 21 lipca 1879 (Dz. u. Rzeszy, 1879 r., str. 277) wraz ze zmianami, zawartemi w ustawie wprowadzającej ustawę w przedmiocie zmiany postępowania upadłościowego z dnia 17 maja 1898 (Dz. u. Rzeszy, 1898 r., str. 248), w redakcji obwieszczenia Kanclerza Rzeszy z dnia 20 maja 1898 (Dz. u. Rzeszy, 1898 r., str. 709), z wyjątkiem § 13, który utrzymuje się w mocy."
+    },
+    {
+     "type": "text",
+     "text": "Art. XXXIL W art. LIII przepisów wprowadzających prawo o sądowem postępowaniu egzekucyjnem skreśla się przytoczone w tymże artykule $§ 274 ust. 2, 322 ust. 3, 771 i 772 kodeksu cywilnego."
+    },
+    {
+     "type": "text",
+     "text": "_ Art. XXXIIL Aż do wydania rozporządzenia Ministra Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Sprawiedliwości, przewidzianego w art, 332 i 333 kodeksu zobowiązań, pozostają w mocy przepisy rozporządzenia cesarskiego z dnia 27 marca 1899 o wadach głównych i okresach rękojmi w handlu bydłem (Dz. u. Rzeszy, 1899 r., str. 219)."
+    },
+    {
+     "type": "text",
+     "text": "Art. XXXIV, Aż do czasu wejścia w życie na obszarze górnośląskiej części województwa śląskiego ustawy z dnia 16 maja 1922 r. o urlopach dla pracowników, zatrudnionych w przemyśle i handlu (Dz. U. R. P. Nr. 40, poz. 334) w brzmieniu ustawy z dnia 22 marca 1933 r. (Dz. U. R. P. Nr. 27, poz. 228) zawiesza się moc obowiązującą art, 465 kodeksu zobowiązań na tym obszarze."
+    },
+    {
+     "type": "text",
+     "text": "ia ow"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział V",
+   "text": "Przepisy szczególne dla obszaru mocy obowiązującej tomu X cz. 1 Zwodu Praw."
+  },
+  {
+   "type": "text",
+   "text": "Art. XXXV. § 1. W tomie X cz. 1 Zwodu Praw uchyla się w szczególności:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "z księgi drugiej art. 568 — 572, 574, 644 — 681, 684 — 689, 700 — 703, 710, 909, 917, 919;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "z księgi trzeciej art. 973 — 977, uw. 2 do 1259, 1379, 1380, 1384, 1385, 1389, 1425—1428, 1464— 1467, 1511, 1513 — 1521.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchyla się księgę czwartą tomu X cz. 1 Zwodu Praw, czyli art. 1528 — 2334, z wyjątkiem art. 1554, 1587, 1627 — 1653, 1663 — 1678, 1705' z załącznikiem, 1711, 1712, 2199.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. XXXVI. Pozostaje w mocy rozpdrządzenie Komisarza Naczelnego Ziem Wołynia i Frontu Podolskiego z dnia 19 maja 1920 r. w przedmiocie uchylenia ograniczeń w rozporządzaniu dobrami nieruchomemi z tytułu ich charakteru rodowego (Dz. Urz. Z, W.iF. P. Nr. 10, poz. 136)."
+    },
+    {
+     "type": "text",
+     "text": "Art. XXXVII, Do czasu wejścia w życie rozporządzeń Rady Ministrów, przewidzianych art. 1"
+    },
+    {
+     "type": "text",
+     "text": "4"
+    },
+    {
+     "type": "text",
+     "text": "Nr. 82."
+    },
+    {
+     "type": "text",
+     "text": "ust. 1 ustawy z dnia 15 lutego 1933 r. o dostawach i robotach na rzecz Skarbu Państwa, samorządu oraz instytucyj prawa publicznego (Dz. U. R. P. Nr. 19, poz. 127), pozostają w mocy z tomu X cz. 1 Zwodu Praw: art. 1563, 1576 i 1588, oraz ustawa o przedsiębiorstwach i dostawach dla Skarbu, wyd. r. 1900 i kontyn. r. 1912 i 1913, Art. XXXVIIL Przepisy o przedawnieniu, za: warte w tomie X cz. 1 Zwodu Praw, tracą moc w zastosowaniu do zobowiązań. A"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VL",
+   "text": "Przepisy przejściowe,"
+  },
+  {
+   "type": "text",
+   "text": "Art. XXXIX. Do zobowiązań, które powstały przed wejściem w życie kodeksu zobowiązań, stosuje się nadal prawo dotychczasowe, jeżeli przepisy poniższe nie stanowią inaczej."
+  },
+  {
+   "type": "text",
+   "text": "Art. XL. § 1. Do zobowiązań, które powstały przed wejściem w życie kodeksu zobowiązań, stosuje się przepisy tego kodeksu, jeżeli chodzi o ocenę skutków prawnych zdarzeń, zaszłych po wejściu w życie kodeksu, a nie związanych z istotą stosunku prawnego."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W szczególności do tych zobowiązań stosuje się przepisy kodeksu zobowiązań o przejściu praw i obowiązków, o odnowieniu, o potrąceniu, o skutkach niemożliwości świadczenia, o wygaśnięciu lub zmianie zobowiązań ze względu na nadzwy-. czajne wypadki, jeżeli zdarzenie, powodujące tego rodzaju skutki, nastąpiło po wejściu w życie kodeksu zobowiązań.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przepisy nowego kodeksu o skutkach niewykonania zobowiązań i o zwłoce wierzyciela stosuje się do zobowiązań, powstałych przed wejściem w życie kodeksu, jeżeli niewykonanie zobowiązania lub zwłoka wierzyciela nastąpiły po wejściu w ży” cie tego kodeksu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. XLL Na obszarach mocy obowiązującej kodeksu cywilnego austrjackiego i kodeksu cywilnego niemieckiego do zobowiązań, które powstały przed wejściem w życie kodeksu zobowiązań, nie stosuje się przepisów, zawartych w artykułach 111 i 223 tego kodeksu,"
+    },
+    {
+     "type": "text",
+     "text": "Art. XLII. Przepisy kodeksu zobowiązań stosuje się do istniejących już zobowiązań:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "z umów najmu, dzierżawy i o pracę po upływie roku od wejścia w życie kodeksu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "z umów spółki, jeżeli spółkę po wejściu w życie kodeksu wyraźnie lub milcząco przedłużono, albo jeżeli spólnicy jednomyślną uchwałą oświadczą, że pragną, aby ich stosunek podlegał odtąd kodeksowi zobowiązań, — począwszy od dnia przedłużenia spółki lub powzięcia uchwały.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. XLII. Do zobowiązań, powstałych przed wejściem w życie kodeksu zobowiązań, a w dniu tym według dotychczasowych przepisów jeszcze nie przedawnionych, stosuje się przepisy tego kodeksu o przedawnieniu, jednak z następującemi ograniczę-"
+      },
+      {
+       "type": "text",
+       "text": "niami:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "początek, zawieszenie i przerwanie przedawnienia ocenia się według dotychczasowego prą-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wa, 0 ile chodzi o czas przed wejściem w życie kodeksu zobowiązań;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "jeżeli termin przedawnienia według kodeksu zobowiązań jest krótszy, niż według dotychczasoweśo prawa, bieg przedawnienia rozpoczyna się z chwilą wejścia w życie kodeksu; jeżeli jednak przedawnienie, rozpoczęte przed wejściem w życie kodeksu, nastąpiłoby przy uwzględnieniu terminu przedawnienia, określonego w prawie dotychczasowem, wcześniej, przedawnienie następuje z tym wcześniejszym terminem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. XLIV. Przepisy artykułu poprzedzającego stosuje się odpowiednio do terminów ustawowych, nie będących terminami przedawnienia."
+      },
+      {
+       "type": "text",
+       "text": "Art. XLV. Prawo odkupu, zastrzeżone zgodnie z dotychczas obowiązującem ustawodawstwem na czas dłuższy, niż to jest dopuszczalne według kodeksu zobowiązań, pozostaje w mocy aż do upływu umówionego czasu trwania."
+      },
+      {
+       "type": "text",
+       "text": "Art. XLVL W razie wątpliwości, czy ma być stosowane prawo dotychczasowe, czy też kodeks zobowiązań, stosuje się kodeks zobowiązań,"
+      },
+      {
+       "type": "text",
+       "text": "Rozdział VII,"
+      },
+      {
+       "type": "text",
+       "text": "Zmiany w przepisach o opłatach stemplowych."
+      },
+      {
+       "type": "text",
+       "text": "Art XLVII. W ustawie z dnia 1 lipca 1926 r. o opłatach stemplowych (Dz. U. R.P. z 1932 r. Nr. 41, poz. 413), wprowadza się następujące zmiany:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "W art. 90 po słowach „z wyjątkiem dokumentów przewozowych (art. 92 i 93)' umieszcza się słowa „oraz pism, stwierdzających umowę o przechowanie (art. 95) lub depozyt nieprawidłowy (art. 118)\".",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "W art. 91 po p. 5 dodaje się ustęp: „Przez umowę w p. 1) wymienioną rozumie się umowę, na mocy której pracownik podlega w czasie wykonywania umowy stałemu nadzorowi i kierownictwu sluzbodawcy’,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "Nagłówek rozdziału siedemnastego otrzymuje brzmienie: „Pisma, stwierdzające umowę o przechowanie. ',",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "W art. 95 słowa: „przyjęcie na skład” zastępuje się słowem: „przechowanie'”.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "W art, 105 ustęp pierwszy uzupełnia się zdaniem drugiem: „Za kapitał zakładowy w rozumieniu artykułu ni- \"niejszego uważa się wkłady spólników z wyjątkiem polegających na wykonywaniu pracy, a co do spółek z ograniczoną odpowiedzialnością również dopłaty. '",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "W art. 115 w ustępach 1 i 2 wyrazy: „udzielenie pożyczki” zastępuje się wyrazem: „pożyczkę '.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "W art. 116 zdanie pierwsze otrzymuje brzmienie następujące: ...„Opłacie stemplowej w wysokości 0,3% od sumy zobowiązania podlegają obligi, stwierdzające pożyczkę, jeżeli daje ją gminna kasa pożyczkowo - oszczędnościowa lub instytucja drobnego kredytu.', . 55% W £",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_3/pkt_8",
+     "text": "W art. 120 p. 3 otrzymuje brzmienie następujące: „3) obligi, stwierdzające pożyczkę w listach zastawnych lub obligacjach fundowanych, jeżeli pożyczkę daje instytucja emitująca te listy lub obligacje; .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_3/pkt_9",
+     "text": "W art. 120 p. 6 otrzymuje brzmienie następujące: „6) Obligi, zawierające zobowiązanie do zwrotu stypendjum zwrotnego lub pożyczki bezprocentowej w myśl ustawy z dnia 18 marca 1933 r. o państwowych stypendjach oraz innych formach pomocy dla młodzieży szkół wyższych (Dz. U. R. P. Nr. 25, poz. 207);\".",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_3/pkt_10",
+     "text": "W art. 120 ustęp ostatni otrzymuje brzmienie następujące:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Minister Skarbu może zwolnić od opłat obligi, stwierdzające pożyczkę pod zastaw przedmiotów już używanych, jeżeli pożyczkę daje zakład zastaw” niczy, na zysk nieobliczony, jak również stwierdzające pożyczkę nieoprocentowaną, jeżeli ją daje zrzemers którego działalność nie jest obliczona na zysk.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. XLVIIL W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 13 kwietnia 1927 r. o komunalnych kasach oszczędności (Dz. U. R. P. Nr. 38, poz. 339) ustęp ostatni art. 28 otrzymuje brzmienie następujące: „Obligi, stwierdzające pożyczkę, którą daje komunalna kasa oszczędności, podlegają opłacie stemplowej w wysokości 0,3% od sumy zobowiązania.\", ."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VIIL",
+   "text": "Przepisy końcowe."
+  },
+  {
+   "type": "text",
+   "text": "Art. XLIX, Wykonanie rozporządzenia niniejszego porucza się Ministrowi Sprawiedliwości,"
+  },
+  {
+   "type": "text",
+   "text": "Art. L. Rozporządzenie niniejsze wchodzi w życie z dniem 1 lipca 1934 r."
+  },
+  {
+   "type": "text",
+   "text": "Prezydent Rzeczypospolitej: I. Mościcki Prezes Rady Ministrów i Minister Wyznań Religijnych i Oświecenia Publicznego: J. Jędrzejewicz Minister Spraw Wewnętrznych: Bronisław Pieracki Minister Spraw Zagranicznych: Beck Minister Spraw Wojskowych: J. Piłsudski Minister Skarbu: Wł. Zawadzki Minister Sprawiedliwości: Czesław Michałowski Minister Rolnictwa i Reterm Rolnych: Nakoniecznikow-Klukowski Minister Przemysłu i Handlu: Zarzycki Minister Komunikacji: M. Butkiewicz Minister Opieki Społecznej: Hubicki Minister Poczt i Telegraféw: Kaliński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

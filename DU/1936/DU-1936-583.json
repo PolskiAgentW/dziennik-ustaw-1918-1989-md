@@ -1,0 +1,104 @@
+{
+ "eli": "DU/1936/583",
+ "title": "Dekret Prezydenta Rzeczypospolitej z dnia 3 listopada 1936 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o państwowym podatku od uboju.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1936/583/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET PREZYDENTA RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 listopada 1936 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany rozporządzenia Prezydenta Rze-. czypospolitej z dnia 27 października 1933 r. o państwowym podatku od uboju."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 55 ust, (1) ustawy konstytucyjnej i art. 1 pkt a) ustawy z dnia 2 lipca 1936 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania dekretów (Dz. U. R. P. Nr 51, poz. 363) postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o państwowym podatku od uboju (Dz. U. R. P. Nr 84, poz. 614) wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "art. 4 otrzymuje brzmienie: „1) Państwowy podatek od uboju wynosi:",
+     "children": [
+      {
+       "type": "text",
+       "text": "a) od 1 sztuki bydła rogatego 3 zł,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) od 1 cielęcia 50 śr,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) od 1 sztuki nierogacizny 1 zł 50 śr.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Wyjątek stanowią województwa: nowogródzkie, poleskie, wileńskie i wołyńskie oraz powiaty: białostocki, bielski, grodzieński, sokólski i wołkowyski województwa białostockiego, na których obszarze państwowy podatek od uboju wynosi:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) od 1 sztuki bydła rogatego 1 zł 50 gr, e od 1 cielęcia 25 gr,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) od 1 sztuki nierogacizny 75 gr.';",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 11 skreśla się ustępy 2), 3), 4) i 5) iw ich miejsce zamieszcza się nowy ustęp 2) o brzmieniu następującym: ,,2): Do wymiaru grzywien i do postępowania karnego stosuje się przepisy ordynacji podatkowej, a w szcześólności przepisy części IV tejże ordynacji. llekroć w tych przepisach jest mowa o władzy skarbowej I instancji, rozumie się przez to urząd skarbowy, a ilekroć jest mowa o władzy skarbowej II instancji — izbę skarbową bądź Wydział Skarbowy Urzędu Wojewódzkiego Śląskiego. ”'.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 2, Wykonanie dekretu niniejszego porucza się Ministrowi Skarbu w porozumieniu z Ministrami: Spraw Wewnętrznych oraz Rolnictwa i Reform Rolnych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "(1) Dekret niniejszy wchodzi w życie po upływie czternasiu dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Do spraw karnych, wszczętych przed dniem wejścia w życie dekretu niniejszego, a nie zakończonych prawomocnym orzeczeniem karnym, stosuje się nadal dotychczasowy przepis art. 11 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. (Dz. U. R. P. Nr 84, poz. 614)."
+    },
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: J. Mościcki Prezes Rady Ministrów: Sławoj Składkowski Minister Skarbu: E. Kwiatkowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

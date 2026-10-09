@@ -1,0 +1,368 @@
+{
+ "eli": "DU/1932/541",
+ "title": "Rozporządzenie Ministra Pracy i Opieki Społecznej z dnia 28 czerwca 1932 r. w porozumieniu z Ministrami Spraw Zagranicznych i Spraw Wewnętrznych o właściwości władz w zakresie spraw emigracyjnych w kraju.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1932/541/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA PRACY I OPIEKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 czerwca 1932 r."
+  },
+  {
+   "type": "text",
+   "text": "w porozumieniu z Ministrami Spraw Zagranicznych i Spraw Wewnętrznych o właściwości władz w zakresie spraw emigracyjnych w kraju."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ust. 3 rozporządzenia Prezydenta Rzeczypospolitej z dnia 21 czerwca 1932 r. o przekazaniu zakresu działania w sprawach emigracyjnych Ministrowi Spraw Zagranicznych i o zniesieniu Urzędu Emigracyjnego (Dz. U. R. P. Nr. 52, poz. 492) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Następujące sprawy stanowić będą zakres działania Ministra Pracy i Opieki Społecznej:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "regulowanie ruchu emigracyjnego i reemigracyjnego;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "sprawy kontyngentów dla emigracji i osadnictwa i ich repartycji terytorjalnej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "przyśotowywanie i opinjowanie konwencyj i układów międzynarodowych, jako też udział w konferencjach i kongresach międzynarodowych w zakresie spraw emigracyj-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nych, wymienionych w art. 1 ust. 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 21 czerwca 1932 r. w porozumieniu z Ministrem Spraw Zagranicznych;"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_1/lit_d",
+     "text": "wydawanie zezwoleń na najmowanie robotników i angażowanie osadników na wyjazd zagranicę oraz sprawy nadzoru nad tem najmowaniem i angażowaniem;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_1/lit_e",
+     "text": "sprawy organizacji lądowych i morskich transportów emigracyjnych i reemigracyjnych oraz wyznaczanie kierunku przejazdu emigrantów i reemigrantów;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_1/lit_f",
+     "text": "wydawanie koncesyj przedsiębiorstwom na przewóz emigrantów, jako też wydawanie zezwoleń na przewóz emigrantów przez przedsiębiorstwa niekoncesjonowane; $) normowanie i organizowanie opieki nad emigrantami i reemigrantami i ich rodzinami w kraju i w czasie transportu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "par_1/lit_h",
+     "text": "normowanie warunków działalności przedsiębiorstw, trudniących się werbunkiem, selekcją, kontraktowaniem i wysyłką emigrantów do krajów zamorskich i kontynentalnych oraz sprawy nadzoru nad tą działalnością,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "par_1/lit_i",
+     "text": "organizacja służby informacyjnej dla migrantów i nadzór nad działalnością informacyjną w zakresie spraw emigracyjnych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "par_1/lit_j",
+     "text": "wydawanie zezwoleń na trudnienie się udzielaniem wiadomości o stosunkach w państwach obcych pod względem konjunktury emigracyjnej i osadniczej, udzielaniem porad w sprawach przesiedlania się zagranicę w celach emigracyjnych i osadniczych js ułatwianiem wyjazdów w tychże ceach;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "k",
+     "path": "par_1/lit_k",
+     "text": "normowanie i organizacja przeciwdziałania niedozwolonej agitacji wychodźczej i niedozwolonemu werbunkowi emigrantów, wykrywanie i ściganie przestępstw emigracyjnych w tychże sprawach, jako też popieranie przed sądami oskarżeń o przestępstwa z art. 58 — 65 rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 października 1927 r, o emigracji (Dz. U. R. P. Nr. 89, poz. 799); |) normowanie i organizacja zastępstwa emigrantów w sprawach o roszczenia majątkowe emigrantów do towarzystw przewozowych z mocy umów przewozowych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "m",
+     "path": "par_1/lit_m",
+     "text": "sprawy nadzoru nad krajowemi instytucjami zajmujacemi się sprawami emigracyjnemi; o ile sprawy te dotyczą działalności tych instytucyj na terenie zagranicy, Minister Pracy i Opieki Społecznej załatwia je w porozumieniu z Ministrem Spraw Zagranicznych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "n",
+     "path": "par_1/lit_n",
+     "text": "prowadzenie, w porozumieniu z Głównym Urzędem Statystycznym, statystyki ruchu emigracyjnego, reemigracyjnego i imigracyj-",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "nego;"
+    },
+    {
+     "type": "lit",
+     "num": "o",
+     "path": "par_1/lit_o",
+     "text": "sprawy tranzytu emigrantów państw innych przez terytorjum Polski;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "p",
+     "path": "par_1/lit_p",
+     "text": "ostateczne rozstrzyganie odwołań od orzeczeń i zarządzeń, wydawanych w pierwszej instancji przez wojewodów (Komisarza Rządu m. st. Warszawy) w zakresie § 2 niniejszego rozporządzenia;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "r",
+     "path": "par_1/lit_r",
+     "text": "likwidacja Urzędu Emigracyjnego. W sprawach, objętych niniejszym paragrafem, o ile one się wiążą z ogólną polityką emigracyjną, Minister Pracy i Opieki Społecznej działa w porozumieniu z Ministrem Spraw Zagranicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Następujące sprawy stanowić będą zakres działania wojewodów, względnie Komisarza Rządu: m. st. Warszawy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "nadzór nad najmowaniem robotników i angażowaniem osadników na wyjazd zagranicę;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "załatwianie spraw, związanych z uzyskaniem paszportów emigracyjnych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_2/lit_c",
+     "text": "ostateczne rozstrzyganie odwołań od orzeczeń Państwowych Urzędów Pośrednictwa Pracy i Opieki nad Wychodźcami (Komunalnych Urzędów Pośrednictwa Pracy w woj. śląskiem), wydanych w zakresie § 3-go;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_2/lit_d",
+     "text": "kontrola przedsiębiorstw, trudniących się przewozem emigrantów oraz rozstrzyganie spraw wynikających z umów przewozowych, zawartych przez emigrantów z przedsiębiorstwami przewozowemi;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_2/lit_e",
+     "text": "wydawanie zaświadczeń, upoważniających - reemigrantów do przejazdu polskiemi kolejami państwowemi na rachunek Ministerstwa Pracy i Opieki Społecznej w myśl istniejących w tym zakresie przepisów taryfowych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_2/lit_f",
+     "text": "nadzór nad sposobem informowania migrantów przez Państwowe. Urzędy Pośrednictwa Pracy i Opieki nad Wychodźcami, instytucje zastępcze i organizacje społeczne, jako też przedkładanie Ministerstwu Pracy i Opieki Społecznej wniosków w sprawie udzielania zezwoleń, przewidzianych art. 8 rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 października 1927 r. o emigracji;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "par_2/lit_g",
+     "text": "ściganie przestępstw, przewidzianych w art. 58, 59, 60, 61, 62, 63, 64 i 65 rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 października 1927 r. o emigracji, przyjmowanie doniesień i skarg w sprawach nielegalnego werbunku, agitacji i pośrednictwa emigracyjnego, przeprowadzanie dochodzeń w myśl art. 68 tegoż rozporządzenia, kierowanie spraw do władz sądowych lub powiatowych władz administracji ogólnej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "par_2/lit_h",
+     "text": "likwidacja czynności Ekspozytur Urzędu Emigracyjnego;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "par_2/lit_i",
+     "text": "sprawy emigracyjne, zlecone osobnemi zarządzeniami Ministra Pracy i Opieki Społecznej. Dla załatwiania spraw, wymienionych w ust. 1 Minister Pracy i Opieki Społecznej może mianować przy niektórych urzędach wojewódzkich, szczególnie ważnych pod względem emigracyjnym (Komisarjacie Rządu m. st. Warszawy) fachowych Inspektorów Emigracyjnych, których okrąg działania obejmować",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "może obszar kilku województw. Inspektorzy ci będą podlegać pod względem osobowym temu wojewodzie, w którego województwie mają swoją siedzibę urzędową, pod względem służbowym; zarówno temu wojewodzie, jak i wojewodom wszystkich innych województw, na których obszarze pełnić będą swe czynności urzędowe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Następujące sprawy stanowić będą zakres działania Państwowych Urzędów Pośrednictwa Pracy i Opieki nad Wychodźcami (Komunalnych Urzędów Pośrednictwa Pracy w województwie śląskiem):",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "przeprowadzanie rekrutacji i kontraktowanie robotników i angażowanie osadników na wyjazd zagranicę;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "udzielanie informacyj o krajowych i zagranicznych stosunkach zarobkowych i dostarczanie emigrantom wiadomości potrzebnych dla uniknięcia strat materjalnych i moralnych oraz wyzysku podczas podróży i na miejscu pobytu zagranicą;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_3/lit_c",
+     "text": "pośredniczenie w udzielaniu emigrantom zaliczek na podróż i pomoc przy wymianie pieniędzy; ;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_3/lit_d",
+     "text": "nadzór nad organizacją transportów z emigrantami do punktów zbornych i wydawanie emigrantom i reemigrantom zaświadczeń, do korżystania z ulg taryfowych na polskich kolejach państwowych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_3/lit_e",
+     "text": "załatwianie spraw, związanych z uzyskaniem paszportów emigracyjnych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_3/lit_f",
+     "text": "wykonywanie poleceń wojewodów (Komisarza Rządu m. st. Warszawy) w zakresie dochodzeń i ścigania przestępstw, przewidzianych w art. 58, 59, 60, 61, 62, 63, 64 i 65 rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 października 1927 r.o emigracji; $) sprawowanie opieki nad emigrantami i reemigrantami;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "par_3/lit_h",
+     "text": "zbieranie i zestawianie danych statystycznych, dotyczących emigracji, reemigracji i imigracji;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "par_3/lit_i",
+     "text": "sprawy emigracyjne, zlecone osobnemi zarządzeniami Ministra Pracy i Opieki Społecznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Następujące sprawy stanowié będą zakres działania Radcy do spraw emigracyjnych przy Komisarzu Generalnym R. P. w Gdańsku:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_4/lit_a",
+     "text": "nadzór nad ruchem emigracyjnym z Polski i reemigracyjnym do Polski poprzez terytorjum W. M. Gdańska, w szczególności zaś nadzór nad uwzględnieniem potrzeb tego ruchu 'w urządzeniach portowych w Gdańsku;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_4/lit_b",
+     "text": "sprawowanie opieki nad emigrantami i reemigrantami polskimi na terytorium W. M. Gdańska;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_4/lit_c",
+     "text": "nadzór nad ruchem migracyjnym z terytorjum Polski na terytorjum W. M. Gdańska i z powrotem;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_4/lit_d",
+     "text": "załatwianie spraw, wymienionych w § 2 punkty b), d) i e) oraz w § 3 punkt d) niniejszego rozporządzenia;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr, 55."
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_4/lit_e",
+     "text": "sprawy emigracyjne, zlecone osobnemi zarządzeniami Ministra Pracy i Opieki Społecznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 lipca 1932 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Pracy i Opieki Społecznej: Hubicki"
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Zagranicznych: August Zaleski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Bronisław Pieracki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

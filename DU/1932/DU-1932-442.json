@@ -1,0 +1,76 @@
+{
+ "eli": "DU/1932/442",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 23 maja 1932 r. o zmianie wysokości uposażenia i zaopatrzenia emerytalnego pracowników Państwowego Monopolu Spirytusowego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1932/442/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 maja 1932 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie wysokości uposażenia i zaopatrzenia emerytalnego pracowników Państwowego Monopolu Spirytusowego."
+  },
+  {
+   "type": "text",
+   "text": "Na zasadzie ust. 5 art. 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 26 marca 1927 r. o monopolu spirytusowym (Dz. U. R. P. Nr. 32, poz. 289) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Określone w § 103 rozporządzenia Ministra Skarbu z dnia 17 maja 1930 r. o stosunku służbowym pracowników Państwowego Monopolu Spirytusowego (Dz. U. R. P. Nr. 42, poz. 363) uposażenie, oraz określone powyższem rozporządzeniem zaopatrzenie emerytalne, pensje wdowie i sieroce obniża się o 10%:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "dla pracowników, zajmujących stanowiska służbowe poza m. st. Warszawą — od dnia 1 czerwca 1932 r.;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "dla emerytów, wdów i sierot zamieszkałych poza m. st. Warszawą — od dnia 1 lipca 1932 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Obniżka powyższa dotyczy także emerytów, wdów i sierot, którzy po dniu wejścia w życie niniejszego rozporządzenia przesiedlą się do m. st. Warszawy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zawiesza się moc obowiązującą postanowienia § 108 ustęp pierwszy wymienionego w § 1 rozporządzenia, dotyczącego automatycznego przechodzenia do wyższych szczebli uposażenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Jan Piłsudski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

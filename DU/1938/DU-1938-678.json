@@ -1,0 +1,396 @@
+{
+ "eli": "DU/1938/678",
+ "title": "Obwieszczenie Ministra Rolnictwa i Reform Rolnych z dnia 13 grudnia 1938 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. w sprawie uregulowania obrotu zwierzętami gospodarskimi i drobiem oraz obrotu hurtowego mięsem.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/678/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ROLNICTWA I REFORM ROLNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 grudnia 1938 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. w sprawie uregulowania obrotu zwierzętami gospodarskimi i drobiem oraz obrotu hurtowego mięsem."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ustawy z dnia 5 sierpnia 1938 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej w sprawie uregulowania obrotu zwierzętami gospodarskimi i drobiem oraz obrotu hurtowego mięsem (Dz. U. R. P. Nr 59, poz. 458) — ogłaszam w załączniku do obwieszczenia niniejszego jednolity tekst rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. w sprawie uregulowania obrotu zwierzętami gospodarskimi i drobiem oraz obrotu hurtowego mięsem (Dz. U. R. P Nr 85, poz. 639) w brzmieniu, zmienionym ustawą z dnia 5 sierpnia 1938 r. (Dz. U. R. P. Nr 59, poz. 458)."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Reform Rolnych: J. Poniatowski"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do obw. Min. Roln. i Ref. Roln. z dnia 13 grudnia 1938 r. (poz. 678)."
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 października 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie uregulowania obrotu zwierzętami gospodarskimi i drobiem oraz obrotu hurtowego mięsem."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 44 ust. 6 Konstytucji i ustawy z dnia 25 marca 1933 r. o upoważnię- . niu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. , Nr 29, poz. 249) postanawiam co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "L Postanowienia ogólne."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "(1) Postanowieniom rozporżądzenia niniejszego podlega obrót handlowy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "bydłem rogatym, trzodą chlewną, końmi i owcami oraz obrót hurtowy mięsem z tych zwierząt;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "kurami, kaczkami, gęsiami, indykami i perliczkami w stanie żywym i bitym.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Przepisom rozporządzenia niniejszego nie podlegają:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "transakcje sprzedaży zwierząt i drobiu (ust. (1) p. a) i b)), dokonywane poza targowiskiem bezpośrednio między producentami rolnymi i hodowcami dla celów hodowlanych i użytkowych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "transakcje sprzedaży tychże zwierząt i drobiu dokonywane poza targowiskiem dla celów bezpośredniej konsumcji;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "przymusowe licytacje publiczne.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 2."
+      },
+      {
+       "type": "text",
+       "text": "W rozumieniu niniejszego rozporządzenia:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "za producentów rolnych i hodowców i nie uważa się osób, które zajmują się zawodowo skupem zwierząt i drobiu (art. 1 ust. (1) p. a) i b)), ich opasem {tuczeniem) oraz odprzedażą;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "przez „targowisko” rozumie się lokal lub miejsce, w których zgodnie z. postanowieniami art. 60—68 rozporządzenia Prezydenta Rzeczypospolitej z dnia 7 czerwca 1927 r. o prawie przemysłowym (Dz. U. R. P. Nr 53, poz. 468) mogą odbywać się targi;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "przez nazwę „mięso” rozumie się wszystkie, przeznaczone do spożycia przez ludzi, części zwierząt wymienionych w art. 1 ust. (1) p. a), nie poddane żadnym zabiegom z wyjątkiem chłodzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IL Normowanie obrotu handlowego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "(1) Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Przemysłu i Handlu po zasięgnięciu opinii samorządów gospodarczych może w drodze rozporządzeń:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_3/lit_a",
+     "text": "zarządzić, że na obszarze poszczególnych województw lub powiatów bądź śmin wiejskich i miejskich dokonywa-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nie transakcji sprzedaży wszystkich lub niektórych zwierząt, wymienionych w art. 1 ust. (1) lit. a), może odbywać się w zasadzie tylko na targowiskach lub spędach, ustalić rodzaje transakcyj sprzedaży b) zwolnionych od ograniczeń, wymienionych w lit. a)."
+      },
+      {
+       "type": "text",
+       "text": "(2) W miejscowościach, w których odbywają się targi, dokonywanie transakcyj sprzedaży zwierząt, wymienionych w art, 1 ust. (1) lit. a), poza targowiskiem jest zabronione w dniu targu oraz w dniu poprzednim i następ-"
+      },
+      {
+       "type": "text",
+       "text": "nym."
+      },
+      {
+       "type": "text",
+       "text": "(3) Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Przemysłu i Handlu po wysłuchaniu opinii właściwych izb rolniczych ustali w drodze rozporządzenia warunki, jakim winny odpowiadać spędy."
+      },
+      {
+       "type": "text",
+       "text": "Art. 4,"
+      },
+      {
+       "type": "text",
+       "text": "(1) Minister. Rolnictwa i Reform Rolnych w porozumieniu z Ministrami Przemysłu i Han- -dlu oraz Spraw Wewnętrznych powoła specjalne organa dla współdziałania z władzami państwowymi w wykonywaniu bezpośredniego nadzoru nad przebiegiem i organizacją obrotu artykułami objętymi rozporządzeniem niniejszym oraz nad organizacją targowisk, jak również określi szczegółowy zakres działania tych organów i sposób ich współdziałania z władzami państwowymi,"
+      },
+      {
+       "type": "text",
+       "text": "(2) Koszty tego nadzoru będą pokrywane z funduszów przewidzianych w art. 9."
+      },
+      {
+       "type": "text",
+       "text": "IIL Organizacja obrotu targowego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "(1) Sprzedaż na targowiskach bydła rogatego, trzody chlewnej i owiec, przeznaczonych do uboju, może być dokonywana jedynie na podstawie wagi żywej lub bitej, stwierdzonej w sposób określony w rozporządzeniu Ministra Rolnictwa i Reform Rolnych, wydanym w porozumieniu z Ministrem Przemysłu i Handlu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Przemysłu i Handlu może w drodze rozporządzenia zezwolić na wyjątki od postanowień, przewidzianych w ust. (1)."
+    },
+    {
+     "type": "text",
+     "text": "(3) Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Przemysłu i Handlu może wydawać zarządzenia, ograniczające odprzedaż w tym samym dniu i na tym samym targowisku artykułów wymienionych w art. 1"
+    },
+    {
+     "type": "text",
+     "text": "Str. 1542"
+    },
+    {
+     "type": "text",
+     "text": "ust. (1) p. a) między osobami handlującymi zawodowo."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "(1) Sprzedaż komisową zwierząt, wymienionych w art. 1 ust. (1), mogą dokonywać wyłącznie komisanci koncesjonowani oraz spółdzielnie \\i organizacje rolnicze, uprawnione w myśl ust. (3) niniejszego artykułu. Te tylko osoby i organizacje mogą oddawać zwierzęta do uboju w celu sprzedaży mięsa na rachunek zleceniodawcy. Komisantom koncesjonowanym nie wolno dokonywać transakcyj na własny rachunek.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Sposób powoływania komisantów, warunki, jakim powinni odpowiadać, oraz ich prawa i obowiązki określi rozporządzenie Ministra Przemysłu i Handlu, wydane w porozumieniu z Ministrem Rolnictwa.i Reform Rolnych naj- „później w ciągu sześciu miesięcy od dnia wejścia w życie ustawy niniejszej."
+    },
+    {
+     "type": "text",
+     "text": "(3) Rozporządzenie Ministra Rolnictwa i Reform Rolnych, wydane w porozumieniu z Ministrem Przemysłu i Handlu, określi warunki, jakim powinny odpowiadać spółdzielnie i organizacje rolnicze, uprawnione do sprzedaży na rachunek własny i komisowy zwierząt, wymienionych w art. 1 ust. (1)."
+    },
+    {
+     "type": "text",
+     "text": "(4) Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Przemysłu i Handlu po zasięgnięciu opinii samorządów gospodarczych może zarządzić w odniesieniu do poszczególnych targowisk, że sprzedaż na tych targowiskach wszystkich lub niektórych gatunków zwierząt rzeźnych może być dokonywana wyłącznie przez producentów rolników oraz przez osoby, posiadające uprawnienia do prowadzenia komisowej sprzedaży."
+    },
+    {
+     "type": "text",
+     "text": "(5) Rozporządzenie to postanowi, iż oddawać do uboju wszystkie lub niektóre gatunki zwierząt w celu sprzedaży mięsa na rachunek zleceniodawcy mośą tylko osoby i organizacje, posiadające uprawnienia do prowadzenia komisowej sprzedaży."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrami Przemysłu i Handlu oraz Spraw Wewnętrznych, po zasięgnięciu opinii izb przemysłowo - handlowych i rolniczych, może wydawać przepisy regulaminowe, dotyczące opłat targowych i obrotu targowego artykułami objętymi rozporządzeniem niniejszym. Przepisy te będą stanowić składową część regulaminów targowych, przewidzianych w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 7 czerwca 1927 r. o prawie przemysłowym.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "_ Dziennik Ustaw Nr 102 Str. 1543"
+    },
+    {
+     "type": "text",
+     "text": "IV. Urządżenia targowe."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "(1) Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrami Przemysłu i Handlu, Spraw Wewnętrznych oraz Opieki Społecznej może w stosunku do gmin posiadających uprawnienia targowe ustalać w drodze rozporządzenia obowiązki, dotyczące utrzymania i administrowania targowisk oraz zakładania i utrzymania utzadzen targowych, służących do usprawnienia obrotu artykułami wymienionymi w art. 1 oraz wydawać prżepisy, jakim te urządzenia winny odpowiadać.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) W przypadkach, w których gmina nie może zadośćuczynić obowiązkom i przepisom, wymienionym w ust. (1), zadania te może Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrami Przemysłu i Handlu oraz praw Wewnętrznych czasowo przekazać instytucji społecznej lub prywatnej bądź też przedsiębiorstwu prywatnemu, ha warunkach przez siebie ustalonych."
+    },
+    {
+     "type": "text",
+     "text": "(3) Na targowiskach, które w ciągu dwóch lat od dnia wejścia w życie rozporządzeń przewidzianych w ust. (1) nie zostaną urządzone zgodnie z obowiązującymi przepisami, obrót artykułami objętymi rozporządzeniem niniejszym może być zabroniony na zasadzie zarządzenia właściwego wojewody."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "(1) Na pokrycie wydatków, związanych z zakładaniem, utrzymaniem, administracją i nadzorem targowisk i innych urządzeń targowych (art. 4 i 8) oraz z działalnością komisyj notowań (art. 10), gmina ma prawo pobierać opłaty targowe, przewidziane w regulaminie targowym (art. 7). Uchwały organów gminnych o pobieraniu tych opłat podlegają zatwierdzeniu właściwej władzy nadzorczej gminy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Dochody i rozchody targowisk oraz wszelkich urządzeń targowych, administrowanych przez gminy, winny być wydzielons z ogólnych budżetów administracyjnych związków samorządowych, a nadwyżki dochodów nad rozchodami mogą być obracane do czasu należytego urządzenia targowisk wyłącznie na cele związane ż tymi urządzeniami."
+    },
+    {
+     "type": "text",
+     "text": "V. Notowania cen."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "(1) Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrami Przemysłu i Handlu oraz Spraw Wewnętrznych, po zasięgnięciu opinii właściwej izby przemysłowo-handlowej, . rolniczej tudzież rzemieślniczej, oraz właściwej władży gminnej, może zarządzić rejestrowanie na poszczególnych targowiskach zawartych na nich umów sprzedaży w zakresie obrotu bydłem rogatym, trzodą chlewną, owcami i mięsem oraz powołać komisję notowań dla ogtaśżania sprawożdań i kursów targowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Działalność komisji notowań może być rozciągnięta poza jej siedzibę na targowiska i spędy okoliczne,"
+    },
+    {
+     "type": "text",
+     "text": "(3) Szczegółowy zakres działania komisyj notowań ustali rozporządzenie Ministra Rolnictwa i Reform Rolnych wydane w porozumieniu z Ministrami Przemysłu i Handlu oraz Spraw Wewnętrznych."
+    },
+    {
+     "type": "text",
+     "text": "*\"(4) Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Przemysłu i Handlu może po wysłuchaniu opinij izb przemysłowo - hańdlowych, rolniczych i rzemieślniczych ustalić w drodze rozporządzenia jednolitą no imenklaturę towaru i typowe warunki sprzedaży, które mają stanowić podstawę notowań."
+    },
+    {
+     "type": "text",
+     "text": "(5) W skład komisji notowań winni wejść przedstawiciele samorządu terytorialnego, rolnictwa i przemysłu (art. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 7 czerwca 1927 r. o prawie przemysłowym)."
+    },
+    {
+     "type": "text",
+     "text": "(6) Szczegółowe przepisy o składzie i sposobie powoływania komisyj notowań oraz- zakres ich działania ustali rozporządzenie Ministra Rolnictwa i Reform Rolnych, wydane w porozumieniu z Ministrami Przemysłu i Handlu oraz Spraw Wewnętrznych."
+    },
+    {
+     "type": "text",
+     "text": "(7) Zadania komisji notowań może Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrami Przemysłu i Handlu oraz Spraw Wewnętrznych powierzyć w całości lub częściowo giełdom mięsnym i kasom targowym."
+    },
+    {
+     "type": "text",
+     "text": "(8) Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Przemysłu i Handlu może w tych miejscowościach, w których w myśl ust. (1) została wprowadzona rejestracja umów sprzedaży, nałożyć na rzeźnie publiczne obowiązek przyjmowania do uboju wyłącznie zwierząt rzeźnych, które stanowią własność producentów rolników lub są doprowadzone do uboju przez osoby, posiadające uprawnienia do prowadzenia komisowej sprzedaży, albo żostały nabyte na targowiskach z zachowaniem przepisów o rejestracji umów sprze- „ dąży."
+    },
+    {
+     "type": "text",
+     "text": "VI. Rejestrowanie osób handlujących,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "(1) Minister Przemvsłu i Handlu w poroziimieniu z Ministrem Rolriictwa i Reform Rol-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Str. 1544 Dziennik Ustaw Nr 102"
+    },
+    {
+     "type": "text",
+     "text": "nych może w drodze rozporządzeń wprowadzić na wszystkich lub niektórych targowiskach obowiązek rejestracji osób, handlujących zawodowo artykułami, wymienionymi w art. 1 ust. (1) oraz ustalić warunki, jakim powinny odpowiadać te osoby i tryb rejestrowania."
+    },
+    {
+     "type": "text",
+     "text": "(2) Osoby niezarejestrowane nie mogą na wspomnianych targowiskach zajmować się zawodowo handlem artykułami, wymienionymi w art, 1 ust. (1)."
+    },
+    {
+     "type": "text",
+     "text": "VIL Postanowienia karne."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "(1) Kto wykracza przeciwko postanowieniom rozporządzenia niniejszego oraz przepisom wydanym na jego podstawie, ulega w try-. bie administracyjnym karze aresztu do 3 miesięcy i grzywny do 3.000 zł oraz odebraniu uprawnień, przysługujących w myśl rozporządzenia niniejszego na stałe lub na czas ograniczony, bądź jednej z tych kar, o ile za czyn ten nie grozi kara surowsza w myśl innych przepisów prawnych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Za naruszenie przepisów art. 5 ust. (1) odpowiada. zarówno sprzedawca, jak i nabywca. LA"
+    },
+    {
+     "type": "text",
+     "text": "sł VIII. Postanowienia końcowe."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Wykonanie rozporządzenia niniejszego po-. rucza się Ministrowi Rolnictwa i Reform Rolnych w porozumieniu z właściwymi ministrami.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "(1) Rozporządzenie niniejsze wchodzi w życie na całym obszarze Państwa po upływie sześciu miesięcy od dnia ogłoszenia, z wyjątkiem art. 5 ust. (1), którego terminy wejścia w życie na poszczególnych obszarach Państwa ustalać będą rozporządzenia Ministra Rolnictwa i Reform Rolnych wydane w porozumieniu .z Ministrami Przemysłu i Handlu oraz Spraw Wewnętrznych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Równocześnie z wejściem w życie rozporządzenia niniejszego tracą moc obowiązującą wszelkie przepisy dotyczące spraw, uregulowanych rozporządzeniem niniejszym."
+    },
+    {
+     "type": "text",
+     "text": "Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Państwowej w Warszawie. 103580 Cena 75 gr ; Prenumerata Dz. U. R P. wynosi w kraju 8 zł kwartafnie (32 zł rocznie). Władze, urzędy i instytucje państwowe oraz władze samorządu lerytorialnego opłacają 6 zł kwartalnie (24 zł rocznie) Do prenumeraty zagranicznej dolicza. się 4 zł kwartalnie (16 zł rocznie) tytułem porta pocztowego. Prenumeratę wpłacać należy z góry : przed początkiem. każdego kwartału, półrocza lub roku Zamówienia na prenumeratę jak również na wadi pojedyncze wykonywa się jedynie po wpłaceniu należności. Reklamacje z powodu. nieotrzymania poszczególnyc numerów wnosić należy do es tj urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru Reklamacji. spóźnionych ub wniesionych niewłaściwie nie uwzględnia się. Wszelkie wpłaty na. Dz. U.R.P. wnosić należy za pośrednictwem P. K. O. na konto czekowe. Dz. Ustaw 30-130."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

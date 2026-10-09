@@ -1,0 +1,71 @@
+{
+ "eli": "DU/1933/813",
+ "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 28 grudnia 1933 r. o ustaleniu wykazu chorób o dłuższym okresie wylęgania.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/813/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OPIEKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 grudnia 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "o ustaleniu wykazu chorób o dłuższym okresie wylęgania."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 117 ust. 3 ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społęcznem (Dz. U. R. P. Nr. 51, poz. 3%) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustalam następujący wykaz chorób o dłuższym okresie wylęgania: 1. błoniica, 2. cholera, 3, czerwonka, 4. dur brzuszny, 5. dury rzekome,",
+   "children": [
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_1/ust_6",
+     "text": "dur plamisty, 7. dur powrotny, 8. dżuma, 9. kiła,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_1/ust_10",
+     "text": "krztusiec, 11. nosacizna, 12. odra, 13. ospa,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "par_1/ust_14",
+     "text": "płonica, 15. rzeżączka, 16. tężec, 17. wąglik, 18, włośnica, 19. wodowstręt (wścieklizna), 20. zapalenie opon mózgowych, 21. zapalenie ślinianek przyusznych (świnka), 22. zimnica.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 stycznia 1934 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Opieki Społecznej: Hubicki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

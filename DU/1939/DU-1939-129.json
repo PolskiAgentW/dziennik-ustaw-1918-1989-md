@@ -1,0 +1,224 @@
+{
+ "eli": "DU/1939/129",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 28 lutego 1939 r. o poborze podatku obrotowego w formie ryczałtu na rok podatkowy 1939 od przedsiębiorstw eksploatacji taksówek.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/129/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 lutego 1939 r."
+  },
+  {
+   "type": "text",
+   "text": "o poborzę podatku obrotowego w formie ryczałtu na rok podatkowy 1939 od przedsiębiorstw eksploatacji taksówek."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. (2) ustawy z dnia 4 maja 1938 r. o podatku obrotowym (Dz. U. R. P. Nr 34, poz. 292) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "(1) Przedsiębiorstwa. eksploatujące najwyżej pięć taksówek (dorożek samochodowych) dla zarobkowego przewozu osób i towarów mogą od wykonywanych świadczeń uiścić podatek obrotowy na rok podatkowy 1939 w formie ryczałtu pod warunkiem, że:",
+   "children": [
+    {
+     "type": "text",
+     "text": "; a) posiadają właściwe świadęctwa przemysłowe na rok 1939 oraz"
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "zapłacą zryczałtowany podatek w kwotach i terminach określonych w $§ 3 i 4.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Podatek w formie ryczałtu może być uiszczony zarówno przez istniejące w dniu wejścia w życie rozporządzenia niniejszego jak i przez powstałe dopiero po tym dniu przedsiębiorstwa wymienione. w ust. (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Nie podlegają zryczaltgwanemu podatkowi świadezenia następujących spośród wymienionych w § 1 przedsiębiorstw:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "należących do kupców rejestrowych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "prowadzących od początku 1939 roku bądź od chwili rozpoczęcia eksploatacji taksówek w ciągu tego roku księgi handlowe w rozumieniu art, 81 ordynacji podatkowej (Dz. U. R. P. z 1936 r. Nr 14, poz. 134).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "(1) Zryczałtowany podatek obrotowy wynosi od każdej zarejestrowanej dla celów eksploatacji taksówki:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "w m. st. Warszawie — zł 50,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "w Bydgoszczy, Chorzowie, Katowicach, Krakowie, Lublinie, Lwowie, Łodzi, Poznaniu i Sosnowcu — zł 30,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "w pozostałych miejscowościach — zł 20.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Wymienione w ust. (1) kwoty zryczałtowanego podatku uwzględniają już część należności za nabyte dla przedsiębiorstwa świadectwo przemysłowe na rok 1939, potrącalną z pobieranego na zasadach ogólnych podatku obrotowego w myśl art. 15 ust. (2) ustawy. Przy wpłacaniu zryczałtowanego podatku nie będą zatem dokonywane żadne potrącenia."
+      },
+      {
+       "type": "text",
+       "text": "(3) Dla przedsiębiorstw, których działalność lub dodatkowa eksploatacja taksówek w granicach nie przekraczających ogólnej ilości pięciu taksówek rozpocznie się dopiero od dnia 1 lipca 1939 r. lub po tym terminie, wymienione w ust. (1) kwoty zryczałtowanego podatku obniża się do połowy."
+      },
+      {
+       "type": "text",
+       "text": "_ 84. (1) Zryczałtowany podatek płatny jest we właściwym urzędzie skarbowym:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_3/lit_a",
+       "text": "dla przedsiębiorstw istniejących w dniu wejścia w życie rozporządzenia niniejszego — w terminie do dnia 15 kwietnia 1939 r.,",
+       "children": [
+        {
+         "type": "text",
+         "text": "„ b) dla przedsiębiorstw powstałych po dniu wejścia w życie rozporządzenia niniejszego — przed rozpoczęciem eksploatacji taksówek,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) w przypadku zarejestrowania w ciągu roku 1939 przez przedsiębiorstwo objęte ryczałtem nowonabytych taksówek w granicach nie przekraczających ogólnej ilości pięciu zarejestrowanych taksówek — przed rozpoczęciem eksploatacji każdej nowozarejestrowanej taksówki,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "(2) Przy wpłacie zryczałtowanego podatku płatnik obowiązany jest okazać nabyte dla przedsiębiorstwa świadectwo przemysłowe na rok 1939 oraz złożyć w urzędzie skarbowym Bonne oświadczenie, zawierające następujące ane:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) nazwisko i imię płatnika oraz miejsce jeśo zamieszkania,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) adres przedsiębiorstwa — w razie u trzy* mywania oddzielnego zakładu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) kategorię nabytego na rok 1939 świadectwa przemysłowego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) ogólną ilość zarejestrowanych przez płatnika taksówek oraz",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) datę rejestracji i urzędowe numery rejestracyjne taksówek.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "(3) W razie dodatkowego zarejestrowania nowonabytych taksówek (ust. (1) lit. c)), płatnik obowiązany jest przed rozpoczęciem eksploatacji tych taksówek złożyć w urzędzie skarbowym — pod rygorem grzywny, przewidzianej w art. 185 ordynacji podatkowej (Dz. U. R. P. z 1936 r. Nr 14, poz. 134) — pisemne oświadczenie, podając w nim ilość i numery rejestracyjne nowonabytych taksówek oraz datę ich rejestracji.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "(4) Właściwym do poboru zryczałtowanego. podatku jest urząd skarbowy, w którym nabyto świadectwo przemysłowe na rok 1939,",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "§ 5. Jeżeli przedsiębiorstwo objęte ryczałtem ulegnie likwidacji w ciągu 1939 roku lub jeżeli taksówki, od których opłacono zryczałtowany podatek, zostaną w tym roku wycofane z eksploatacji — kwoty uiszczonego podatku nie podlegają zwrotowi.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 6. (1) W stosunku do świadczeń, będących przedmiotem zryczałtowanego podatku, nie może być dokonany wymiar podatku na zasadach ośólnych ani też nie mogą być pobrane zaliczki w myśl art. 8 ustawy. ©",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "(2) Podatek na zasadach ogólnych będzie jednak pobrany od świadczeń tych przedsiębiorstw objętych ryczałtem, które w roku 1939 zarejestrują dla celów eksploatacji więcej niż pięć taksówek. W tym przypadku wpłacone",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Dziennik Ustaw Nr 19",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "kwoty ryczałtu zostaną zarachowane na poczet zaliczek, pobieranych w myśl art. 8 ustawy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "(3) Fakt zarejestrowania taksówki, powodujący wyłączenie z ryczałtu, obowiązany jest płatnik podać do wiadomości urzędu skarbowego w ciągu miesiąca od daty zarejestrowania pod rygorem grzywny, przewidzianej w art. 185 ordynacji podatkowej.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 7. Urzędom skarbowym służy prawo darowania na prośby płatników skutków zaniedbania terminów ustalonych w § 4.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 8. Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia i obowiązuje na całym obszarze Państwa z wyjątkiem ziem odzyskanych w roku 1938.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: E. Kwiatkowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

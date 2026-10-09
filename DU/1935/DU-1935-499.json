@@ -1,0 +1,72 @@
+{
+ "eli": "DU/1935/499",
+ "title": "Obwieszczenie Ministra Skarbu z dnia 12 października 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji władz i urzędów skarbowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1935/499/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SKARBU z dnia 12 października 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy o organizacji władz i urzędów skarbowych. Na podstawie art. 122 ust. 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 28 grudnia 1934 s. o unormowaniu właściwości władz i trybu postępowania w niektórych działach administracji państwowej (Dz. U. R. P. Nr. 110, poz. 976) ogłaszam w brzmieniu obowiązującem od dnia 31 stycznia 1935 r. jednolity tekst ustawy z dnia 31 lipca 1919 r. o organizacji władz i urzędów skarbowych (Dz.P.P. P. Nr. 61, poz. 391) z uwzględnieniem zmian, wprowadzonych art. 31 powołanego rozporządzenia Prezydenta Rzeczypospolitej z dnia 28 grudnia 1934 r."
+  },
+  {
+   "type": "text",
+   "text": "o unormowaniu właściwości władz i trybu postępowania w niektórych działach administracji państwowej (Dz. U. R. P. Nr. 110, poz. 976)."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: Wł. Zawadzki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Skarbu z dnia 12 października 1935 r. (poz. 499).",
+   "body": [
+    {
+     "type": "text",
+     "text": "USTAWA z dnia 31 lipca 1919 r. o organizacji władz i urzędów skarbowych,"
+    },
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "Naczelne kierownictwo i nadzór nad administracją skarbową należy do Ministra Skarbu.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "Organami Ministra Skarbu w zakresie admintstracji skarbowej są:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/lit_a",
+       "text": "izby skarbowe i dyrekcje ceł jako władze Il instancji, b) urzędy skarbowe, urzędy skarbowe akcyz i monopolów państwowych, urzędy opłat stemplowych oraz urzędy celne — jako władze I in. stancji. Izby skarbowe podlegają bezpośrednio Ministrowi Skarbu i są władzami przełożonemi nad urzędami (ust. 1 lit. b) z wyjątkiem urzędów celnych. Organizację i zakres działania władz i urzędów celnych normują przepisy szczególne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "Rada Ministrów na wniosek Ministra Skarbu tworzy i znosi izby skarbowe, ustala i zmienia granice ich okręgów oraz oznacza ich siedziby. Organizację i zakres działania izb skarbowych ustala Minister Skarbu. Minister Skarbu tworzy i znosi urzędy (art. 2 ust. 1) lit. b), ustala i zmienia granice ich okręgów, oznacza ich siedziby oraz ustala ich organizację i zakres działania.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "Wykonanie niniejszej ustawy poleca się Mini. strowi Skarbu.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

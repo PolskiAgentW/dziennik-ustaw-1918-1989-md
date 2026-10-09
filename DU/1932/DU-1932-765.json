@@ -1,0 +1,1799 @@
+{
+ "eli": "DU/1932/765",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 21 października 1932 r. - Kodeks karny wojskowy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1932/765/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 października 1932 r."
+  },
+  {
+   "type": "text",
+   "text": "Kodeks karny wojskowy,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 44 ust. 6 Konstytucji i art. 1 lit. a) ustawy z dnia 17 marca 1922 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą usiawy (Dz. U. R. P. Nr. 22, poz. 165) postanawiam co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "CZĘŚĆ OGÓLNA."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Przestępstwa wojskowe."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Przestępstwem wojskowem jest czyn zabroniony pod groźbą kary w części szczególnej kodeksu karnego wojskowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Przestępstwa wojskowe, zagrożone karą śmierci lub więzienia powyżej lat pięciu, są zbrodniami wojskowemi, zagrożone zaś innemi karanii zasadniczemi, są występkami wojskowemi.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IL",
+   "text": "Zakres mocy obowiązującej kodęksu karnego wojskowego,"
+  },
+  {
+   "type": "text",
+   "text": "Art 3. § 1. Kodeks karny wojskowy ma zastosowanie do żołnierzy w czynnej służbie wojskowej. § 2. Do innych osób mają zastosowanie przepisy kodeksu karnego wojskowego w przypadkach prawem określonych."
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Do przestępstw, skierowanych przeciw osobie lub dobru żołnierzy państwa sprzymierzonego, w czasie pełnienia wspólnej służby, stosuje się, w razie poręczonej wzajemności, również przepisy kodeksu karnego wojskowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 55 Kodeks karny wojskowy ma zastosowanie do przestępstw wojskowych, popełnionych zaśranicą, niezależnie od przepisów obowiązujących w miejscu popełnienia przestępstwa."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IIL",
+   "text": "Zakres mocy obowiązującej kodeksu karnego powszeciinego."
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_6/par_1",
+     "text": "Przepisy części ośólnej kodeksu karnego z 1932 r. mają zastosowanie do przestępstw wojskowych, oraz do ściganych przed sądami wojskowemi przestępstw pospolitych, ze zmianami zawartemi w kodeksie karnym wojskowym.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_6/par_2",
+     "text": "Do przestępstw pospolitych, popełnionych przez żołnierzy w czynnej służbie wojskowej, ma za-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 91."
+      },
+      {
+       "type": "text",
+       "text": "stosowanie kodeks karny z 1932 r. oraz inne przepisy karne, obowiązujące w stolicy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Odpowiedziainości karnej za prze\" stepstwa urzędnicze ulega żołnierz, wykonywujacy zlecone czynności w zakresie zarządu wojska lub marynarki wojennej,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Ściganie żołnierza za przestępstwo, Iziane w art. 204 i 205 kodeksu karnego rzewic z 1932 r., popełnione względem żołnierza w czynnej służbie wojskowej, następuje z urzędu, bez wniosku pokrzywdzonego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Zasady odocwiedzialnosci."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_9/par_1",
+     "text": "Nie podlega karze żołnierz, który dopuszcza się czynu, będąceśo wykonaniem rozkazu w sprawach służbcewych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_9/par_2",
+     "text": "Przepis § 1 nie ma zastosowania, jeżeli:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_9/par_2/lit_a",
+       "text": "przestępstwo wynikio wskutek przekroczenia rozkazu, albo",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_9/par_2/lit_b",
+       "text": "sprawca wiedział o tern, że rozkaz dotyczył czynu, stanowiącego zbrodnię lub występek. W powyższych przypadkach sąd może zastosowaé nadzwyczajne złagodzenie kary.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art, 10. § 1. Nie podlega karze żołnierz, który działa w przypadku ostaiecznej:potrzeby, w celu wymuszenia niezbędnego posłuchu dla swego rozkazu, do którego wydania był uprawniony, a w szcześólności, który w braku innych środków do utrzymania niezbędnego posłuchu, zmuszony był użyć broni przeciw podwładnemu, stawiającemu mu czynny opór."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_9/par_2",
+     "text": "W razie przekroczenia tych granic, sąd może zastosować nadzwyczajne złagodzenie kary.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Podżeganie i pomocnictwo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_11/par_1",
+     "text": "Jeżeli przełożony nakłania podwładnego do popełnienia przestępstwa lub podwładanemu do popełnienia przestępstwa udziela pomocy, to choćby przestępstwa nie usiłowano dokonać, sąd nie może przełożonefo uwalnić od ? kary.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_11/par_2",
+     "text": "Podzesacza lub pomocnika do przestępstwa wojskowego, choćby przestępstwa nie usiłowano dokonać, sąd nie może uwolnić od kary.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kary zasadnicze."
+      },
+      {
+       "type": "text",
+       "text": "Art 12. § 1. Zasadniczemi karami za przestępstwa wojskowe są:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_11/par_2/lit_a",
+       "text": "kara śmierci,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_11/par_2/lit_b",
+       "text": "więzienie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_11/par_2/lit_c",
+       "text": "twierdza,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_11/par_2/lit_d",
+       "text": "areszt wojskowy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_11/par_2",
+     "text": "Jeżeli przestępstwo wojskowe popełniono z chęci zysku, sąd obok kary pozbawienia wolności wymierza grzywnę, chyba że skazanie na grzywnę nie byłoby celowe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 13. § 1. Kara twierdzy trwa najmniej 2 tygodnie, najwyżej 12 miesięcy."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_11/par_2",
+     "text": "Karę twierdzy wymierza się w tygodniach i miesiącach.",
+     "children": [
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_11/par_2/ust_3",
+       "text": "Miesiące liczą się wedłuś czasu kalendarzowego, tydzień przyjmuje się za 7 dni.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Orzeka się następujące rodzaje aresztu wojskowego:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_14/lit_a",
+     "text": "areszt wojskowy zwykły,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_14/lit_b",
+     "text": "areszt wojskowy obosirzony,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 15. § 1 Kara aresztu wojskowego trwa najmniej jeden dzień, najwyżej sześć tygodni."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_14/par_2",
+     "text": "Karę aresztu wojskowego wymierza się w dniach i tygodniach. Tydzień przyjmuje się za 7 dni, dzień za 24 godziny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Kary aresztu wojskoweśo obestrzonego nie stosuje się do oficerów w stopniu majora, równorzędnym lub wyższym,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "W razie nieściągalności grzywny lub w razie, gdyby jej ściąsnięcie narażało skazaneso na ruinę majątkową, sad nie zamienia érzywny na wykonywanie pracy, lecz zamienia grzywnę na areszt lub więzienie, wedle postanowień zawartych w kodeksie karnym z 1932 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Kary dodatkowe."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Prócz kar dodatkowych, przewidzianych w kodeksie karnym z 1932 r., sądy wojskowe stosują do żołnierzy następujące kary dodatkowe:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_18/lit_a",
+     "text": "wydalenie z wojska lub z marynarki wojennej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_18/lit_b",
+     "text": "degradację,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_18/lit_c",
+     "text": "wydalenie z korpusu oficerskiego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 19. Wydalenie z wojska lub z marynarki wojennej obejmuje utratę stopnia wojskowego, rozwiązanie wojskowego stosunku służbowego, utratę orderów, odznaczeń i oznak zaszczytnych, oraz trwałą niezdolność do powtórnego wstąpienia do wojska i marynarki wojennej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Degradacja obejmuje utratę posiadanego stopnia wojskowego i powrćt do stopnia szere-",
+   "children": [
+    {
+     "type": "text",
+     "text": "gowca,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Wydalenie z korpusu oficerskiego obejmuje utratę stopnia wojskowego i rozwiązanie wojskowego stosunku służbowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_22/par_1",
+     "text": "Wydalenie z wojska lub z marynarki wojennej sąd orzeka przy karze śmierci i więzienia dożywotniego, oraz przy karze więzienia powyżej 5 lat.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_22/par_2",
+     "text": "Wydalenie z wojska lub z marynarki wojennej sąd może orzec przy karze więzienia powyżej 3 lat.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 23, § 1. Degradację starszych szeregowców i podoficeréw sąd orzeka:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_22/par_2/lit_a",
+       "text": "przy orzeczeniu utraty praw publicznych lub obywatelskich praw honorowych, albo zarządzeniu środka zabezpieczające śo, z wyjątkiem przypadków, przewidzianych w art. 79, 80 i 65 kodeksu karnego z 1932 r.,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_22/par_2/lit_b",
+       "text": "przy karze pozbawienia wolności powyżej 1 roku,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_22/par_2/lit_c",
+       "text": "przy karze więzienia za występek popełniony z chęci zysku,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_22/par_2",
+     "text": "W innych przypadkach skazania starszych szeregowców i podalicerów za zbrodnię, albo skazania ża wyslępek wojs niony z chęci zystu lub innych niskich pobudek, sąd może orzec de",
+     "children": [
+      {
+       "type": "text",
+       "text": "5 dy kara pozbawienia wolności a resy, przewidziane w tych przepisach, z powodu wymierzenia kary zastępczej."
+      },
+      {
+       "type": "text",
+       "text": ";dalenie z korpusu oficerskie + „| 1."
+      },
+      {
+       "type": "text",
+       "text": "go sąd crzeka w przyp:"
+      },
+      {
+       "type": "text",
+       "text": "leach, w których co do star- 4 +"
+      },
+      {
+       "type": "text",
+       "text": "szych szeregowców i pode licerów degradacja jest nakazana."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_22/par_2",
+     "text": "Wydalenie z korpusu oficerskiego sąd mo-- że orzec w przypadkach, w których co do starszych i Bd szeregowców i podoi.cerów degradacja jest dopuszczalna,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "8 1. Skazanie przez sąd powszechny żołnierza na kare, wymienioną w art. 22 § 1, pociąga za soba z reocy sameśo prawa wydalenie z wojska lub z marynarki wojennej. § 2. Skazanie przez sąd powszechny żołnierza, posiadająceśo stopień starszego szeregowca lub podoficera, na karę, wymienioną w art, 23 § 1 lit. a), c) lub na karę więzienia powyżej 1 roku, pociąga za sobą z mocy same¢o prawa degradację.",
+   "children": [
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_25/par_3",
+     "text": "Skazanie przez sąd powszechny żołnierza, posiadającego stovień oficerski, na karę, wymienioną w art. 23 § 1 lit. a), c) lub na karę więzienia powyżej £ roku, pociąga za sobą z mocy samego prawa wydalenie z korpusu olicerskiego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymiar kary."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Prócz przypadków, przewidzianych w kodeksie karnym z 1932 r., sąd może wymierzyć karę wyższą o połowę od najwyższego ustawowego wymiaru kary, przepisanego za dane przestępstwo, nie przekraczając jednak ustawowej granicy danego rodzaju kary:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_27/lit_a",
+     "text": "przełożonemu, który wspólnie z podwładnym popzinil przestępstwo, albo był podżegaczem lub pomocnikiem w przestępstwie dokonanem lub usiłowanem przez podwładnego, albo",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_27/lit_b",
+     "text": "jeżeli popełniono przestępstwo z nadużyciem broni służbowej, uprawnień służbowych lub podczas pełnienia służby, albo",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_27/lit_c",
+     "text": "jeżeli przestępstwo popełniono w obecności zbiegowiska publicznego, albo",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_27/lit_d",
+     "text": "jeżeli przestepstwe przeciwko mieniu popełniono na szkodę przełożonego, towarzysza broni, albo kwaterodawcy lub jego domowników, albo też jeżeli przestępstwo dotyczyło mienia, dostępnego lub powierzonego sprawcy z powodu służby lub stosunku służbowego.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_28/par_1",
+     "text": "Jeżeli kodeks karny wojskowy daje sądowi możność wyboru między karą więzienia a karą twierdzy, albo między karą więzienia, karą twierdzy a karą aresztu wojskowego, nie można wymierzyć kary twierdzy ani aresztu wojskowego, gdy przestępstwo wynikło z niskich pobudek.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_28/par_2",
+     "text": "Jeżeli ustawa daje sądowi możność wyboru między karą pozbawienia wolności a grzywną, nie można wymierzyć kary grzywny. gdy przestępstwem naruszono wojskowy obowiązek służbowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "Przy stosowaniu nadzwyczajnego złagodzenia kary za przestępstwo wojskowe sąd:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_29/lit_a",
+     "text": "nie może zamiast więzienia wymierzyć kary aresztu, wymierza natomiast karę twierdzy lub aresztu wojskowego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_29/lit_b",
+     "text": "zamiast kary twierdzy wymierza areszt wojskowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_30/par_1",
+     "text": "Przy wymierzaniu kary łącznej w razie skazania na karę więzienia i twierdzy, wymierza się łączną karę więzienia, przyczem 2 dni więzienia odpowiadają 3 dniom twierdzy, rok przyjmuje się za 12 miesięcy, miesiąc za 30 dni.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_30/par_2",
+     "text": "W razie skazania na karę aresztu i twierdzy, wymierza się łączną karę aresztu, przyczem 1 dzień twierdzy odpowiada 1 dniowi aresztu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_30/par_3",
+     "text": "W razie skazania na karę więzienia i aresztu wojskowego, wymierza się łączną karę więzienia, przyczem 3 dni aresztu wojskowego zwykłego odpowiada 2 dniom więzienia, 3 dni aresztu wojskoweśo obostrzoneso odpowiada 4 dniom więzienia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "art_30/par_4",
+     "text": "W razie skazania na karę twierdzy i aresztu wojskowego, wymierza się łączną karę twierdzy, przyczem 1 dzień aresztu wojskowego zwykłego odpowiada 1 dniowi twierdzy, 1 dzień aresztu wojskoweśo obostrzonego — 2 dniom twierdzy. 8 5, W razie skazania na karę aresztu i aresztu wojskowego, wymierza się łączną karę aresztu, przyczem 1 dzień aresztu wojskoweśo zwykłego odpowiada 1 dniowi aresztu, 1 dzień aresztu wojskowego obostrzoneśo — 2 dniem aresztu,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "art_30/par_6",
+     "text": "W razie skazania na kary aresztu wojskoweśo różnego rodzaju, wymierza się łączną kare aresztu wojskowego obostrzonego, przyczem 1 dzień aresztu wojskowego obostrzonego odpowiada 2 dniom aresztu wojskowego zwylłego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 31, Warunkowego zawieszenia wykonania kary nie stosuje się przy karze za przestępstwo wojskowe, oraz przy karze za przestępstwo pospolite, którem naruszono wojskowy obowiązek służbowy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "Karanie dyscyplinarne."
+  },
+  {
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "Zamiast kary zagrożonej, może być wymierzona, z pominięciem postępowania sadowego, kara dyscyplinarna, przewidziana w wojskowych przepisach dyscyplinarnych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_32/lit_a",
+     "text": "w przypadkach mniejszej wagi — za występki wojskowe zagrożone, jako najniższą kara, aresztem wojskowym i za występki po-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 91."
+      },
+      {
+       "type": "text",
+       "text": "spolite zagrożone, jako najniższą karą — zależnie od wyboru sądu — aresztem do lat 2 lub grzywną, albo zagrożone karą aresztu nie wyższą niż 6 miesięcy, albo też grzywną,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_32/lit_b",
+     "text": "za wykroczenia, które prócz kary zasadniczej nie są zagrożone karą dodatkową.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział V",
+   "text": "Wyjaśnienie wyrażeń ustawowych,"
+  },
+  {
+   "type": "text",
+   "text": "Ari. 33. § 1. Osoby obowiązane do służby pomocniczej, wojskowej służby kolejowej, służby wojskowej w pocztach, radjotelegrałach, telegrafach i telefonach wojskowych, wojskowej służby drogowej lub wojskowej służby żeglugi śródlądowej, uważa się za obowiązanych do służby wojskowej, a osoby spełniające powyższy obowiązek — za żołnierzy w czynnej służbie wojskowej, § 2. Za żołnierzy w czynnej służbie wojskowej uważa się również żołnierzy w stanie nieczynnym. § 3. Olicerów kontraktowych i oficerów czasu wojny uważa się za żołnierzy w czynnej służbie wojskowej. § 4. Za żołnierzy uważa się, prócz żołnierzy w czynnej służbie wojskowej, osoby stanu urlopowanych, oraz wojskowych w stanie spoczynku. § 5. Przestępstwo jest wówczas popełnione wobec zebranych żołnierzy, gdy prócz przełożonego i sprawcy, obecnych było przynajmniej trzech żołnierzy w czynnej służbie wojskowej."
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Przestępstwo jest wówczas popełnione pod bronią, gdy sprawca jest uzbrojony w celu pełnienia służby.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Za popełniony w czasie wojny uważa się czyn, popełniony:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_7/lit_a",
+     "text": "w czasie pozostawania wojska lub marynarki wojennej w stanie mobilizacji ogólnej lub częściowej, — przyczem, w razie mobilizacji częściowej, za popełniony w czasie wojny uważa się czyn żołnierza, pełniącego służbę w jednostce objętej mobilizacją lub powołanego do służby w takiej jednostce, albo",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_7/lit_b",
+     "text": "na obszarze, na którym wprowadzony został stan wojenny, przez czas trwania tego sta-, nu, albo",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_7/lit_c",
+     "text": "w czasie należenia do stanu faktycznego jednostki wojskowej, której podczas działania przestępnego, określonego w art. 64 lub podczas przedsięwzięcia wojennego dowodzący oficer służbowo ogłosił, że będą do niej stosowane przepisy o przestępstwach, popełnionych w czasie wojny, albo",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_7/lit_d",
+     "text": "przez jeńców wojennych, którym przełożo-, ny nad nimi w miejscu ich pobytu oficer służbowo ogłosił, że będą do nich stosowane przepisy o przestępstwach, popełnionych w czasie wojny. § 8. W obliczu nieprzyjaciela znajduje się jednostka wojskowa lub statek powietrzny od chwili spotkania się lub gotowości do spotkania się z nieprzyjacielem. 8 9. Za wartę wojskową uważa się każdego żołnierza, przeznaczonego do służby wartowniczej lub",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wojskowej służby bezpieczeństwa, w czasie, gdy tę służbę pełni."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Okręt jest to każdy statek należący do marynarki wojennej, na którym znajduje się dowódca wojskowy i załoga.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Marynarka wojenna i flota odpowiada pojęciu wojska, okręt — jednostce wojskowej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "CZĘŚĆ SZCZEGÓLNA."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VI",
+   "text": "Przestępstwa przeciwko obowiązkowi wierności żołnierskiej."
+  },
+  {
+   "type": "art",
+   "num": "34",
+   "path": "art_34",
+   "text": "Żołnierz, który przechodzi do nieprzyjaciela, podlega karze śmierci.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 35. Dowódca miejsca umocnionego, który oddaje je nieprzyjacielowi, nie wyczerpawszy przedtem wszystkich środków obrony, podlega karze śmierci."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "36",
+   "path": "art_36",
+   "text": "Dowódca, który oddaje nieprzyjacielowi okręt, statek powietrzny lub ich załogę, nie uczyniwszy przedtem wszystkiego, czego w celu uniknięcia oddania obowiązek od niego wymaga, podlega karze śmierci.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "37",
+   "path": "art_37",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_37/par_1",
+     "text": "Dowódca, który nie wyczerpawszy stojących do jego rozporządzenia środków obrony, powierzone mu stanowisko opuszcza lub oddaje nieprzyjacielowi, albo który poddaje się i spowoduje tem złożenie broni przez podwładne mu wojska, nie uczyniwszy przedtem wszystkiego, czego obowiązek od nieśo wymaga, podlega karze śmierci.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_37/par_2",
+     "text": "W przypadkach mniejszej wagi sąd może zastosować nadzwyczajne złagodzenie kary.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 38, Żołnierz, który w czasie wojny narusza obowiązek służbowy i tem spowoduje, że przedsięwzięcia nieprzyjacielskie doznały poparcia, albo że dla przedsięwzięć siły zbrojnej polskiej lub sprzymierzonej powstało niebezpieczeństwo lub szkoda, podlega karze więzienia do lat 10."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "39",
+   "path": "art_39",
+   "text": "Żołnierz, który z tchórzostwa ucieka z pola walki oraz pobudza do ucieczki towarzyszy broni, podlega karze śmierci.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "40",
+   "path": "art_40",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_40/par_1",
+     "text": "Żołnierz, który z tchórzostwa— w walce, w czasie wymarszu do walki lub w odwrocie skrycie pozostaje poza swą jednostką, ucieka, porzuca broń służbową lub inny przedmiot potrzebny do walki, albo czyni je niezdatnemi do użycia, podlega karze więzienia na czas nie krótszy od lat 5, lub dożywotnio, albo karze śmierci.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_40/par_2",
+     "text": "W przypadkach mniejszej wasi sąd może zastosować nadzwyczajne złagodzenie kary.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "41",
+   "path": "art_41",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_41/par_1",
+     "text": "Żołnierz, który z tchórzostwa w obliczu nieprzyjaciela udaje rannego lub cierpiącego, albo wprawia się w stan, czyniący go niezdolnym do pełnienia służby i przez to uchyla się od walki lub od innej czynności służbowej, połączonej z niebezpieczeństwem, podlega karze więzienia na czas nie krótszy od lat 5 lub dożywotnio, albo karze śmierci,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_41/par_2",
+     "text": "W przypadkach mniejszej wasi sąd może zastosować nadzwyczajne złagodzenie kary.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "42",
+   "path": "art_42",
+   "text": "Jeżeli sprawca po spełnieniu przestępstwa, określonego w art. 40 lub 41, złoży wybitne dowody odwagi, sąd może zastosować nadzwyczajne złagodzenie kary, a nawet od kary uwolnię.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VIL",
+   "text": "Przestępstwa przeciwko obowiązkowi wojskowemu."
+  },
+  {
+   "type": "art",
+   "num": "43",
+   "path": "art_43",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_43/par_1",
+     "text": "Żołnierz, który wbrew swemu obowiązkowi wojskowemu opuszcza swą jednostkę lub swe stanowisko służbowe, albo poza niemi pozostaje, i podlega karze wiezienia do lat 2 lub twierdzy, albo karze aresztu wojskowego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_43/par_2",
+     "text": "Jeżeli tego przestępstwa dopuszczono się w czasie wojny, sprawca podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "44",
+   "path": "art_44",
+   "text": "§ i. Żołnierz, który nie zamelduje się natychmiast po powrocie z niewoli w jednej z jednostek, podleśa karze więzienia do lat 2 lub twierdzy, albo karze aresztu wojskowego.",
+   "children": [
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_44/par_2",
+     "text": "Tej samej karze podleśa żołnierz, pełniący służbę w marynarce wojennej, który rozłączywszy się poza obrębem wód ojczystych z okrętem, nie stawi się natychmiast na ten lub inny polski okręt, albo w najbliższym konsulacie polskim.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_44/par_3",
+     "text": "Jeżeli przestępstwa, określoneśo w § 1 lub 2 dopuszczono się w czasie wojny, sprawca podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "45",
+   "path": "art_45",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_45/par_1",
+     "text": "Kto, będąc obowiązany do służby wojskowej, nie czyni zadość powołaniu lub puklicznemu wezwaniu do tej służby w terminie ozna-",
+     "children": [
+      {
+       "type": "text",
+       "text": "czonym, podlega karze wiezienia do lat 2 lub twierdzy, albo karze aresztu wojskoweśo."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_45/par_2",
+     "text": "Jeżeli tego przestępstwa dopuszczono się w czasie wojny, sprawca podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_45/par_3",
+     "text": "Jeżeli sprawca dziaia nieumyślnie, podlega karze twierdzy do 6 miesięcy lub aresztu wojskowego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ari. 46. § 1. Kto dopuszcza się przestępstwa określonego w art. 43 § 1, 44 § 1, 2 lub 45 § 1 w celu trwałeśo uchylenia się od obowiązku wojskowego, albo jeżeli nieobecność w jednostce trwała dłużej niż 6 miesięcy, podlega karze więzienia do lat 10."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dziennil: Ustaw. Poz. 765."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_45/par_2",
+     "text": "Jeżeli tego przestępstwa dopuszczono się w czasie wojny, sprawca podlega karze więzienia na czas nie krótszy od 1 roku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "47",
+   "path": "art_47",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_47/par_1",
+     "text": "Jeżeli dwie lub więcej osób zmawia się i wspólnie dopuszcza się przestępstwa, określonego w art. 46 § 1, każda z nich podlega karze więzienia na czas nie krótszy od 1 roku.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_47/par_2",
+     "text": "Jeżeli tego przestępstwa dopuszczono się w czasie wojny, każdy ze sprawców podlega karze więzienia na czas nie krótszy od lat 3 lub dożywotnio, albo karze śmierci.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "48",
+   "path": "art_48",
+   "text": "Żołnierz, który dopuszcza się przestępstwa, określonego w art. 46 lub 47, w obliczu nieprzyjaciela, podlega karze śmierci.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "49",
+   "path": "art_49",
+   "text": "Jeżeli sprawca przestępstwa, określonego w art. 46, 47 lub 48, dobrowolnie powrócił, a nieobecność jego trwała nie dłużej niż 6 tygodni, w czasie wojny nie dłużej niż 7 dni, sąd może zastosować nadzwyczajne złagodzenie kary.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 50. Żołnierz, który mając wiarogodną wiadomość o zamiarze popełnienia przestępstwa, określonego w art. 46, 47 lub 48, w czasie, kiedy udaremnienie jego było jeszcze możliwe, zaniecha o tem donieść władzy wojskowej, a przestępstwo zostało popełnione, podlega karze więzienia do 1 roku lub twierdzy, albo karze aresztu wojskowego."
+    },
+    {
+     "type": "text",
+     "text": "Art. 51, § 1. Żołnierz, który powoduje lub dopuszcza, by kto inny spowodował u niego uszkodzenie ciała lub rozstrój zdrowia, czyniący go zupełnie lub częściowo niezdolnym do spełniania obowiązku wojskowego, podlega karze więzienia do lat 10. § 2. Jeżeli tego przestępstwa dopuszczono się w czasie wojny, sprawca podlega karze więzienia na czas nie krótszy od lat 3 lub dożywotnio, albo karze śmierci."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "52",
+   "path": "art_52",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_52/par_1",
+     "text": "Żołnierz, który w celu zupełnego lub częściowego uchylenia się od obowiązku wojskowego użyje środka, obliczonego na wprowadzenie w błąd, podlega karze więzienia do lat 5.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_52/par_2",
+     "text": "Jeżeli tego przestępstwa dopuszczono się: w czasie wojny, sprawca podlega karze więzienia do lat 10.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VIL",
+   "text": "Przestępstwa przeciwko karności,"
+  },
+  {
+   "type": "text",
+   "text": "Art. 53, § 1. Żołnierz, który podczas lub z powodu pełnienia obowiązków służbowych przez przełożonego, narusza należną mu cześć przez głośne uskarżanie się lub w inny sposób, podlega karze twierdzy do 6 miesięcy lub aresztu wojskowego."
+  },
+  {
+   "type": "text",
+   "text": "Nr. 91."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Jeżeli tego przestępstwa dopuszczono się pod bronią lub wobec zebranych żołnierzy, albo zapomocą pogróżek, sprawca podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "54",
+   "path": "art_54",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_54/par_1",
+     "text": "Żołnierz, który znieważa przełożonego lub starszego w stopniu służbowym podczas lub z powodu pełnienia przez nich obowiązków służbowych, podleśa karze więzienia do lat 5 lub twierdzy.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_54/par_2",
+     "text": "W innych przypadkach obrazy lub zniesławienia przełożonego lub starszego w stopniu służbo-",
+     "children": [
+      {
+       "type": "text",
+       "text": "wym, sprawca podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_54/par_3",
+     "text": "Zniesławienie w przypadku § 2 jest niekaralne, jeżeli zarzut był prawdziwy, a podniesiony został w obronie uzasadnionego interesu publicznego lub prywatnego, własnego lub cudzego. Dowód prawdy jest jednak niedopuszczalny, jeżeli zarzut uczyniony został publicznie, a dotyczył życia prywatnego lub rodzinnego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "art_54/par_4",
+     "text": "Za obrazę uważa się poniżenie godności osobistej przełożonego lub starszego w stopniu służbowym w jego obecności albo w obecności innej osoby, albo też w taki sposób, że obraza może do niego dotrzeć,",
+     "children": [
+      {
+       "type": "text",
+       "text": "="
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "55",
+   "path": "art_55",
+   "text": "§ 1 Żołnierz, który czynnie targnie się na przełożonego, podlega karze więzienia do lat 10.",
+   "children": [
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_55/par_2",
+     "text": "Jeżeli tego przestępstwa dopuszczo: ię w służbie, wobec zebranych żołnierzy lub pod bi 4 albo z bronią lub innem niebezpiecznem narzędziem, albo też jeżeli z tego przestępstwa wynikło uszkodzenie ciała lub rozstrój zdrowia przełożonego, sprawca podlega karze więzienia na czas nie krótszy od lat 2.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_55/par_3",
+     "text": "Jeżeli przestępstwa, określonego w § 1, dopuszczono się w obliczu nieprzyjaciela w okolicznościach, w § 2 podanych, albo jeżeli z czynnego targnięcia na przełożonego wynikła jego śmierć, sprawca podlega karze więzienia na czas nie krótszy od lat 5 lub dożywotnio, albo karze śmierci.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 56, § 1. Żołnierz, który dopuszcza się czynnej napaści ra starszego w stopniu służbowym, podlega karze więzienia do lat 3 lub twierdzy."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_55/par_2",
+     "text": "Jeżeli tego przestępstwa dopuszczono się podczas lub z powodu pełnienia obowiązków służbowych przez starszego w stopniu służbowym, sprawca podiega karze więzienia do lat 5.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 57, § 1. Żołnierz, który z powodów służbowych wyzywa na pojedynek przełożonego lub starsześo w stopniu służbowym, podleśa karze więzienia do lat 10. 5 2. Tej samei karze podlega przełożony, lub słarszy w stopniu służbowym, który na takie wezwanie stanie do pojedynku."
+      },
+      {
+       "type": "text",
+       "text": "Art 58, § 1. Żołnierz, który nie wykona rozkazu w sprawach służbowych, zmieni go lub przekro-"
+      },
+      {
+       "type": "text",
+       "text": "czy, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_55/par_2",
+     "text": "Jeżeli z przestępstwa tego wynikła znaczna szkoda lub niebezpieczeństwo takiej szkody,",
+     "children": [
+      {
+       "type": "text",
+       "text": "sprawca podlega karze więzienia."
+      },
+      {
+       "type": "text",
+       "text": "Art. 59, § 1. Żołnierz, który odmawia wyraźnie wykonania rozkazu w sprawach służbowych lub swoje nieposłuszeństwo wyraża przez inne działania, albo wzywa przełożonego do wytłumaczenia się co do wydanego rozkazu służbowego, albo też mimo powtórzenia rozkazu w sprawach służbowych trwa w nieposłuszeństwie, podlega karze więzienia do lat 5 lub twierdzy."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_55/par_2",
+     "text": "Jeżeli tego przestępstwa dopuszczono się pod bronią, albo wbrew rozkazowi stawania pod broń, albo wobec zebranych żołnierzy, albo w czasie wojny, sprawca podlega karze więzienia do lat 10.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_55/par_3",
+     "text": "Jeżeli przestępstwa, określonego w § 1, dopuszczono się w obliczu nieprzyjaciela w okolicznościach, w § 2 podanych, sprawca podlega karze więzienia na czas nie krótszy od lat 5 lub dożywotnio, albo karze śmierci. W przypadkach mniejszej wagi sąd może zaslosować nadzwyczajne złagodzenie kary.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "60",
+   "path": "art_60",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_60/par_1",
+     "text": "Żołnierz, który używa przemocy lub groźby w celu przeszkodzenia przełożonemu w wykonaniu rozkazu w sprawach służbowych, albo w celu zmuszenia go do przedsięwzięcia lub zaniechania czynności! służbowej, podlega karze więzienia do lat 5.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_60/par_2",
+     "text": "Tej samej karze podłega żołnierz, który dopuszcza się tego czynu wzgiedem żołnierzy, wysłanych na rozkaz lub wezwanych do pomocy przełożo-",
+     "children": [
+      {
+       "type": "text",
+       "text": "nemu."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_60/par_3",
+     "text": "Jeżeli przestępstwa, określonego w § 1 lub 2, dopuszczono się w czasie wojny, sprawca podlega karze więzienia do lat 10.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 61, Jeżeli przestępstwo, określone w art. 54 § 1, 55, 56, 59, 60, zostało popełnione w rozdrażnieniu, a było bezpośrednio wywołane zachowaniem się przełożonego niezgodnem z przepisami lub przekroczeniem przez niego władzy służbowej, sąd może zastosować nadzwyczajne złagodzenie kary."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "62",
+   "path": "art_62",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_62/par_1",
+     "text": "Jeżeli dwu lub więcej żołnierzy zmawia się do wspólnego popełnienia przestępstwa, określonego w art. 55, 59, 60, każdy z nich podlega karze wedle przepisu, odnoszącego się do czynu, którego spełnienia zimowa dotyczy.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_62/par_2",
+     "text": "Nie podlega karze, kto wziąwszy udział w tem przestępstwie, doniesie o niem władzy wojskowej, śdy ta nie ma jeszcze o przestępstwie wiadomości i gdy zamierzonemu czynowi można jeszcze zapobiec. Z bezkarności nie korzysta, kto doprowadził do przestępstwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 63, Żołnierz, który otrzyma wiarogcdna wiadomość o przestępstwie, określonem w art. 62, w czasie, śdy można jeszcze zapobiec zamierzonemu czynowi i zaniecha donieść o nim w porę władzy wojskowej, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego."
+      },
+      {
+       "type": "text",
+       "text": "Art. 64, § 1. Jeżeli dwu lub więcej żołnierzy skupia się i wspólnemi siłami dopuszcza się przestępstwa, określonego w art. 55, 59, 60, każdy z nich \" podlega karze więzienia na czas nie krótszy od at 3."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_62/par_2",
+     "text": "Jeżeli tego przestępstwa dopuszczono się w czasie wojny, przywódcy oraz podżegacze, tudzież każdy ze sprawców, który dopuścił się czynnej napaści na przełożonego, podlega karze więzienia na czas nie krótszy od lat 5 lub dożywotnio, albo karze śmierci.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_62/par_3",
+     "text": "Jeżeli tego przestępstwa dopuszczono się w obliczu nieprzyjaciela, każdy ze sprawców podlega karze więzienia na czas nie krótszy od lat 10 lub dożywotnio, albo karze śmierci.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "65",
+   "path": "art_65",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_65/par_1",
+     "text": "Żołnierz, który biorąc udział w przestępstwie, ckreslonem w art. 64, powraca do posiuszeństwa, a nie doszło do czynnej napaści na przełożonego, jeżeli nie jest podżegaczem lub przywódcą, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_65/par_2",
+     "text": "Jeżeli wszyscy biorący udział w przestępstwie, określonem w art. 64, powrócą do posłuszeństwa, a nie doszło do czynnej napaści na przełożonego, sąd może do podżegacza lub przywódcy zastosować nadzwyczajne złagodzenie kary,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 66, Narówni z przywódcą podlega karze biorący udziaż w przestępstwie, okreslonem w art. 64, który:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_65/par_2/pkt_1",
+       "text": "osobiście wezwany przez przełożonego do posłuszeństwa, odmówi go wyraźnie słowem lub czynem, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_65/par_2/pkt_2",
+       "text": "popiera przestępstwo zapomocą nadużycia haseł lub sygnałów wojskowych, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_65/par_2/pkt_3",
+       "text": "posiada najwyższy stopień służbowy wśród biorących udział w tem przestępstwie.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 67, § 1. Żołnierz, który wywołuje wśród innych żołnierzy niezadowolenie ze służby, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_65/par_2",
+     "text": "Jeżeli tego przestępstwa dopuszczono się w czasie wojny, sprawca podlega karze więzienia do lat 5 lub twierdzy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "68",
+   "path": "art_68",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_68/par_1",
+     "text": "Żołnierz, który urządza zebrania żołnierzy dla narady nad sprawami lub instytucjami wojskowemi, albo który zbiera podpisy w celu wspólnego przedstawienia lub zażalenia odnośnie do tychże spraw lub instytucyj, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego. :",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_68/par_2",
+     "text": "Żołnierz, który bierze udział w takiem zebraniu, przedstawieniu lub zażaleniu, podlega karze twierdzy lub aresztu wojskowego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 69. Żołnierz, który na pytanie przełożoneśo w sprawach służbowych odpowie nieprawdę, podlega karze aresztu wojskowego,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "70",
+   "path": "art_70",
+   "text": "Żołnierz, który dopuszcza się przestępstwa, określonego w art. 54 § 1, 55, 59 lub 60, względem warty wojskowej, : podlega karze takiej, jak za czyn, spełniony przeciw przełożonemu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "71",
+   "path": "art_71",
+   "text": "Karom, przewidzianym w rozdziale niniejszym, podlegają również żołnierze, nie wymienieni w art. 3 § 1, jeżeli dopuszczą się przestępstwa, określonego w tym rozdziale, w stosunku służbowym z przełożonym lub w mundurze wojskowym.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IX",
+   "text": "Przekroczenia władzy,"
+  },
+  {
+   "type": "text",
+   "text": "Art. 72, Żołnierz, który używa władzy służbowej w stosunku do podwładnego do rozkazów lub żądań, niepozostających w żadnym związku ze służbą lub dla celów prywatnych, albo który żąda od podwładnego podarunków, pożycza od niego bez uprzedniej wiedzy wspólnego przełożonego pieniądze lub przyjmuje podarunki, albo też skłania podwładnego zapomocą swego stanowiska służbowego do zobowiązań dlań niekorzystnych lub mogących wywierać wpływ szkodliwy na wzajemny stosunek służbowy, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego."
+  },
+  {
+   "type": "art",
+   "num": "73",
+   "path": "art_73",
+   "text": "Żołnierz, który powstrzymuje podwładnego od! wniesienia lub popierania zażalenia, albo udaremnia przepisowo wniesione zażalenie, które ma on obowiązek dalej przedstawić lub zbadać, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 74, Żołnierz, który przekracza swój zakres prawa karania, albo wymierza niezasłużone lub niedozwolone kary, podlega karze więzienia do lat 3 lub twierdzy."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "75",
+   "path": "art_75",
+   "text": "Żołnierz, który bez upoważnienia podejmuje czynność, którą można podjąć tylko z mocy prawa rozkazywania lub karania, podlega karze twierdzy lub aresztu wojskowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "76",
+   "path": "art_76",
+   "text": "Żołnierz, który obraża godność osobistą podwładnego lub młodszego w stopniu służbowym, albo obchodzi się z nim niezgodnie z przepisami, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "77",
+   "path": "art_77",
+   "text": "S§ 1. Żołnierz, który zniesławia podwładnego lub młodszego w stopniu służbowym, jeżeli zarzut był nieprawdziwy lub dotyczył okoliczności życia prywatnego lub rodzinneśo, podlega karze więzienia do lat 3 lub twierdzy. albo karze aresztu wojskowego.",
+   "children": [
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_77/par_2",
+     "text": "Niema przestępstwa, jeżeli czyn polega na ujawnieniu okoliczności życia prywatnego lub rodzinnego w interesie służby wojskowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 78, § 1. Żołnierz, który uderza podwładnego lub młodszego w stopniu służbowym, albo w inny sposób narusza jego nietykalność cielesną, podlega karze więzienia do lat 3 lub twierdzy."
+      },
+      {
+       "type": "text",
+       "text": "Nr. 91,"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_77/par_2",
+     "text": "Jeżeli przestępstwo polega na znęcaniu się nad podwładnym, sprawca podlega karze więzienia do lat 5 lub twierdzy.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_77/par_3",
+     "text": "Jeżeli z przestępstwa, określonego w § 1, wynikło uszkodzenie ciała, rozstrój zdrowia lub śmierć podwładnego, sprawca podlega karze twierdzy na czas nie krótszy od miesięcy 3 lub więzienia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 79, Jeżeli warta wojskowa dopuszcza się przestępstwa, określonego w art. 72, 73, 75 — 78, podleśa karze takiej, jakiejby ules! przełożony za spełnienie tego czynu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "80",
+   "path": "art_80",
+   "text": "Karom, przewidzianym w art. 73, 75—",
+   "children": [
+    {
+     "type": "ust",
+     "num": "78",
+     "path": "art_80/ust_78",
+     "text": "podlegają również żołnierze, nie wymienieni w art. 3 § 1, jeżeli dopuszczą się przestępstwa, określonego w tych artykułach, w mundurze wojskowym, w przypadkach, w których przysługują im prawa przełożonego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział X",
+   "text": "Przestępstwa przeciw szczególnym obowiązkom służbowym."
+  },
+  {
+   "type": "art",
+   "num": "81",
+   "path": "art_81",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_81/par_1",
+     "text": "Żołnierz, który jako 'dowódca warty wojskowej lub jednostki przeznaczonej do wy* konywania pewnego zlecenia, albo jako rozprowadzający lub wartownik wprawia. się w stan, czyniący go niezdolnym do pełnienia służby, albo stanowisko lub posterunek opuści, albo w ogóle postępuje wbrew danym mu przepisom o tej służbie, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego. § 2. Jeżeli z tego przestępstwa wynikła znaczna szkoda lub niebezpieczeństwo takiej szkody, sprawca podlega karze więzienia do lat 10.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_81/par_3",
+     "text": "Jeżeli przestępstwa, określonego w § 1, dopuszczono się w obliczu nieprzyjaciela, a z przestępstwa wynikła znaczna szkoda lub niebezpieczeństwo takiej szkody, sprawca podlega karze więzienia na czas nie krótszy od lat 5, dożywotnio lub karze śmierci.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 82. § 1. Żołnierz, który jako dowódca warty wojskowej lub jednostki, przeznaczonej do wykonywania pewnego zlecenia, albo jako wartownik dopuszcza do spełnienia przestępstwa, któremu mógł i był służbowo obowiązany przeszkodzić, podlesa takiej karze, jak gdyby sam spełnił to przestępstwo."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_81/par_2",
+     "text": "Jeżeli za takie przesiępstwo sąd miałby wymierzyć karę aresztu, albo karę grzywny, wówczas stosuje zamiast aresztu powyżej 1 roku więzienie w takim samym wymiarze, zamiast innej kary aresztu lub $rzywny — karę twietdzy lub aresztu wojskowego. Niezależnie od tej kary, w warunkach art. 12 § 2, wymierza sąd również grzywnę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "83",
+   "path": "art_83",
+   "text": "Żołnierz, który za czyn stanowiący naruszenie chowiązku służbowego albo w związku z pełnieniem obowiązku służbowego przyjmuje dla siebie lub innej osoby korzyść majątkową lub osobi-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "stą lub ich obietnicę, albo też takiej korzyści żąda, podlega karze więzienia do lat 10."
+    },
+    {
+     "type": "text",
+     "text": "Art. 84, § 1. Żołnierz, który dopuszcza do ucieczki aresztowanego, powierzonego jego dozorowi, konwojowi lub straży lub uwolnienie aresztowanego uskutecznia, podlega karze więzienia do lat 5 lub twierdzy."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_83/par_2",
+     "text": "Jeżeli sprawca działa nieumyślnie, podlega karze twierdzy lub aresztu wojskowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "85",
+   "path": "art_85",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_85/par_1",
+     "text": "Żołnierz, który wbrew swemu obowiązkowi nie dokona aresztowania, podlega karze więzienia do lat 5 lub twierdzy.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_85/par_2",
+     "text": "Jeżeli sprawca działa nieumyślnie, podlega karze twierdzy lub aresztu wojskowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "86",
+   "path": "art_86",
+   "text": "Żołnierz, który wystawia nieprawdziwe poświadczenie służbowe, albo zdaje niezgodne z prawdą raporty, meldunki lub sprawozdania służbowe, albo je dalej przedkłada, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 87, Żołnierz, który narusza obowiązek służbowy z obawy przed: osobistem niebezpieczeństwem, podlega karze więzienia do lat 2 lub twierdzy, albo karze aresztu wojskowego."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "88",
+   "path": "art_88",
+   "text": "Żołnierz, który narusza obowiązek dozoru nad podwładnymi, podlega karze twierdzy lub aresztu wojskowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 89. Żołnierz, który zaniecha obowiązkowego doniesienia lub ścigania przestępstw swoich podwładnych, podlega karze twierdzy lub aresztu wojskowego,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "90",
+   "path": "art_90",
+   "text": "Żołnierz, który lekkomyślnie lub przez „niedbalstwo w pełnieniu służby powoduje znaczne uszkodzenie okrętu, statku powietrznego, albo innego przedmiotu służbowego lub ich przynależności, podlega karze więzienia do lat 2 lub twierdzy, albo karze aresztu wojskowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 91, Żołnierz, który porzuca przedmiot służbowy powierzony mu do użytku służbowego, podlega karze twierdzy do 6 miesięcy lub aresztu wojskowego."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział XI",
+   "text": "Przestępstwa przeciwko porządkowi wojskowemu."
+  },
+  {
+   "type": "art",
+   "num": "92",
+   "path": "art_92",
+   "text": "Żołnierz, który opuszcza warte lub swe miejsce przy jednostce, przeznaczonej do wykonania pewneśo zlecenia, podlega karze twierdzy lub aresztu wojskowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 93, § 1. Żołnierz, który przez nieostrożme obchodzenie się ze służbową bronią lub amunicją uszkadza człowieka na ciele, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego,"
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_92/par_2",
+     "text": "Jeżeli z tego przestępstwa wynikła śmierć człowieka, sprawca podlega karze więzienia do lat 5.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 94, Żołnierz, który używa broni służbowej wbrew przepisom zezwalającym na użycie broni służbowęej, podlega karze więzienia do lat 2 lub twierdzy, alko karze aresztu wojskowego."
+      },
+      {
+       "type": "text",
+       "text": "Art 95, Żołnierz, który zawiera małżeństwo bez wymaganego zezwolenia władzy wojskowej, podlega karze twierdzy do 6 miesięcy lub aresztu wojskowego."
+      },
+      {
+       "type": "text",
+       "text": "Art 96. Żoinierz, który w służbie lub po wyznaczeniu do służby wprawia się w stan, czyniący go niezdolnym do pełnienia obowiązków służbowych, podlega karze więzienia do lat 2 lub twierdzy, albo karze aresztu wojskowego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "97",
+   "path": "art_97",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_97/par_1",
+     "text": "Żołnierz, który wnosi zażalenie, oparte na nieprawdziwych twierdzeniaon, podlega karze więzienia do lat 2 lub twierdzy, albo karze aresztu wojskowego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_97/par_2",
+     "text": "Jeżeli sprawca działa nieumyślnie, podlega karze aresztu wojsł:owego,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "98",
+   "path": "art_98",
+   "text": "Żołnierz aresztowany, który się sam uwalnia, podlega karze więzienia do lat 2 lub twierdzy, albo karze aresztu wojskowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 99, Oficer, odbywający kare ereszti wojskowego zwykłego lub karę dyscyplinarną aresztu domoweóśo, który nie stosuje się do przepisanego sposobu odbywania tego aresztu, podlega karze więzienia do lat 2 lub twierdzy."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział XII",
+   "text": "Przestępstwa w polu przeciwko ludności i mieniu."
+  },
+  {
+   "type": "art",
+   "num": "190",
+   "path": "art_190",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_190/par_1",
+     "text": "Żołnierz, który w polu, bez pozwolenia zabiera jako zdabycz rzeczy, ulegające prawu zdobyczy, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego. § 2. Tej samej karze podlega żołnierz, który przywłaszcza sobie zdobycz prawnie zabraną.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 101, § 1. Żołnierz, który w polu, korzystając z popłochu wojenneśo lub nadużywając swej przewagi wojskowej, z chęci zysku:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_190/par_1/lit_a",
+       "text": "zabiera lub wymusza rzeczy należące do ludności, albo",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_190/par_1/lit_b",
+       "text": "nakłada kontrybucię wojenną lub przymusowe świadczenia, albo",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_190/par_1/lit_c",
+       "text": "przekracza miarę poruczonych mu rekwizycyj, podlega karze więzienia do lat 10.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_190/par_2",
+     "text": "Jeżeli przestępstwa tego dopuszczono się przez użycie przemocy lub groźby natychmiastowego śwałtu, sprawca podlega karze więzienia na czas nie krótszy od 1 roku.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_190/par_3",
+     "text": "Niema przestępstwa, jeżeli przywłaszczenie obejmuje tylko środki żywnościowe i lecznicze, przedmioty, służące do ubrania, środki opałowe, furażowe lub przewozowe i jeżeli odpowiada ono istniejącej potrzebie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 102, Żołnierz, który w polu złośliwie lub swawolnie pustoszy lub niszczy cudze mienie, podlega karze więzienia do lat 3 lub twierdzy, albo karze aresztu wojskowego."
+      },
+      {
+       "type": "text",
+       "text": "Art. 103, Żołnierz, który na placu boju ofrabia zwłoki poległych żołnierzy polskich lub sprzymierzonych, albo który w polu — odóiera lub wymusza jakikolwiek przedmiot od chorego lub rannego żołn.erza, albo od jeńca wojennego powierząazjżo jego straży, podlega karze więzienia. Art 104, § 1. Żołnierz, który w po!u, odiączywszy się od swej jednostki uciska ludnodć, podlega karze więzienia do lat 5"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_190/par_2",
+     "text": "Jeżeli tego przestępstwa dopuściło się dwu lub więcej żołnierzy, którzy zmówili się w celu ciągłego uciskania ludności, każdy z nich podlega karze więzienia na czas nie królszy od 1 roku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział XIIL",
+   "text": "Przestępstwa wartowników cywilnych."
+  },
+  {
+   "type": "art",
+   "num": "195",
+   "path": "art_195",
+   "text": "Karom, przewidzianym w art. 81, 82, 92, podlega również ten, kio pełniąc na zasadzie stosunku służbowego lub umownego czynaodci wartownicze w poszezesdlnych działach ad.ainistracji wojskowej lub w wojskowych przedsię» orstwach skomercjalizowanych, ćcpuszcza się, w czasie trwania takiego stosunku, działania, oxreślonzgo w powyższych artykułach.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział XIV",
+   "text": "Przestępstwa jeńców wojennych,"
+  },
+  {
+   "type": "art",
+   "num": "106",
+   "path": "art_106",
+   "text": "Jeniec wojenny, który ucieka, łamiąc słowo honoru, albo pozostawiony na wolności na słowo honoru pod oznaczonemi warunkami, nie dotrzymuje ich, podlega karze więzienia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "107",
+   "path": "art_107",
+   "text": "Jeniec wojenny, zwolniony na słowo honoru i znowu wzięty przez wojs:a polskie lub sprzymierzone do niewoli na polu walki, podlega karze śmierci.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 108, Karom, przewidzianym w rozdziale VIII, podlegają jeńcy wojemni, jeżeli dopuszczą się działania, określonego w tym rozdziale, w czasie pozostawania pod nadzorem wojskowym."
+    },
+    {
+     "type": "text",
+     "text": "Art. 109, § 1. Do jeńców wojennych nie stosuje się kar dodatkowych wymienionych w art. 18."
+    },
+    {
+     "type": "text",
+     "text": "Nr. 91,"
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_107/par_2",
+     "text": "Rodzaje kary aresztu wojskowego stosuje się do jeńców wojeunych, uwzględniając ich slopnie wojskowe,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział XV",
+   "text": "Przepisy końcowe."
+  },
+  {
+   "type": "art",
+   "num": "110",
+   "path": "art_110",
+   "text": "Wykonanie kodeksu karnego wojskowego porucza się Ministrowi Spraw Wojskowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 111, Rozporządzenie niniejsze wchodzi w życe z dniem i sty: znia 1033 r. równocześnie z przepisami wprowadzającemi kodeks karny wojskowy. Prezydent Rzeczypospolitej: /, Mościcki Prezes Rady Ministrów: A. Prystor Minister Spraw Wewnętrznych: Bronisław Pieracki Minister S praw Zagranicznych: August Zaleski Minister Spraw Wojskowych: J. £"
+    },
+    {
+     "type": "text",
+     "text": "*Usudski Minister Skarbu: Wł, Zawadzki Minister Sprawiedliwości: Czesłow Michałowski Minister Wy: znań Religijnych i Oświeseata Publicznego: J. Jędrzejewicz ictwa i Reform Roluych:"
+    },
+    {
+     "type": "text",
+     "text": "Minister Rola Sew, Ludkiewicz Zarzychi"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: M, Butkiewicz"
+  },
+  {
+   "type": "text",
+   "text": "Kisrownik Ministerstwa Komunikacji: Minister Opieki Społecznej: Huvicki Minister Poczt i Telegrarów: Łoerner"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

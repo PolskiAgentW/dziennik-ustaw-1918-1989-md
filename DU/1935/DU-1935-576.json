@@ -1,0 +1,84 @@
+{
+ "eli": "DU/1935/576",
+ "title": "Dekret Prezydenta Rzeczypospolitej z dnia 10 grudnia 1935 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 maja 1927 r. o przymusie ubezpieczenia od ognia i o Powszechnym Zakładzie Ubezpieczeń Wzajemnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1935/576/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET PREZYDENTA RZECZYPOSPOLITEJ z dnia 10 grudnia 1935 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 maja 1927 r. o przymusie ubezpieczenia od ognia i o Powszechnym Zakładzie Ubezpieczeń Wzajemnych. Na podstawie art. 55 ust. (1) ustawy konstytucyjnej i ustawy z dnia 6 listopada 1935 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania dekretów (Dz. U. R. P. Nr. 81, poz. 501) postanawiam co następuje:"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 27 maja 1927 r. o przymusie ubezpieczenia od ognia i o Powszechnym Zakładzie Ubezpieczeń Wzajemnych (Dz. U. R. P. z 1933 r. Nr. 3, poz. 23), zmienionem rozporządzeniem Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. (Dz. U. R. P. Nr. 85, poz. 648), wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 10 w ust. 1 po punkcie ,,j)\"\" dodaje się nowe punkty ,,k)\" i „I)” o następującem brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "wk) udzielania ogólnych ulg w obowiązującej taryfie składek za przymusowe ubezpieczenie budowli od ognia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zasad stosowania przepisów zawartych w art. 41 ust. 2,”, ; dotychczasowy zaś punkt „k)” oznacza się literą „ł)”;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 41 treść dotychczasową oznacza się jako ustęp 1 i dodaje się nowy ustęp 2 o brzmieniu następującem: ; „2. Jeżeli właściciel budowli zalegać będzie z zapłatą dwóch lub więcej półrocznych rat składki, których termin płatności przypadnie po 1 stycznia 1936 r., to w przypadku pożaru Powszechny Zakład Ubezpieczeń Wzajemnych będzie uprawniony zmniejszyć przypadające mu odszkodowanie, nie więcej jednak niż o 25%.\";",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 54 w ust. 1 wyrazy „w art. 10 ust. 1 pkt. a) — j)\" zastępuje się wyrazami „w art. 10 ust. 1 pkt. a) — I)",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie dekretu niniejszego porucza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej: I. Mościcki"
+  },
+  {
+   "type": "text",
+   "text": "Ministrów: Paz Rady Mun U Modcń Zyndram-Kościałkowski Minister Skarbu: E. Kwiatkowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

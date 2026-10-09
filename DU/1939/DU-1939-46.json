@@ -1,0 +1,933 @@
+{
+ "eli": "DU/1939/46",
+ "title": "Rozporządzenie Rady Ministrów z dnia 24 stycznia 1939 r. o zakazie używania francuskich nazw regionalnych dla produktów winnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/46/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 stycznia 1939 r."
+  },
+  {
+   "type": "text",
+   "text": "o zakazie używania francuskich nazw regicnalnych dla produktów winnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 ust. (3) ustawy z dnia 2 sierpnia 1926 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. R. P. z 1930 r. Nr 56, poz."
+  },
+  {
+   "type": "pkt",
+   "num": "467",
+   "path": "pkt_467",
+   "text": "i w myśl art, 19 traktatu handlowego i nawigacyjnego pomiędzy Rzecząpospolitą Polską a Republiką Francuską z dnia 22 maja 1937 r. (Dz. U. R. P. Nr 54, poz. 423) zarządza się co następuje:",
+   "children": [
+    {
+     "type": "text",
+     "text": ". ,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "(i) Nie wolno oznaczać produktów winnych, nie pochodzących z Francji, a wytwarzanych lub znajdujących się w handlu na obszarze Rzeczypospolitej Polskiej, wymienionymi w § 2 regionalnymi nazwami pochodzenia, chronionymi prawnie we Francji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Zakaz używania tych francuskich nazw regionalnych obowiązuje nawet wówczas, gdyby zaznaczone było prawdziwe pochodzenie produktów winnych lub gdyby nazwom towarzyszyły pewne określenia, że te produkty winne nie są pochodzenia francuskiego lub że są produktami winnymi tego „typu”, ,,rodzaju”, bądź na ten ,,spos6b” wyrabianymi."
+    },
+    {
+     "type": "text",
+     "text": "(3) Ochronie podlegają francuskie nazwy regionalne zarówno w oryginalnej pisowni francuskiej lub w innej, jak też w tłumaczeniu."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do francuskich nazw regionalnych, podpadających pod przepis § 1, należą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "w zakresie win:",
+     "children": [
+      {
+       "type": "text",
+       "text": "x: Alzacji:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "„Vin d'Alsace\" (bądź pod tą nazwą : ) ' bądź z dodaniem nazwy gminy),",
+     "children": [
+      {
+       "type": "text",
+       "text": "2) „Kaeferkopf”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Sonnenglanz\" \" Z y",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "z Burgundii: . 4) , Aloxe-Corton”,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "„Auxey-Duresses”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": ", Beaujolais”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "„Beaune”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "„Blaśny”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "„Bonnes-Mares\",",
+     "children": [
+      {
+       "type": "text",
+       "text": "10) „Bourgogne”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) »Bourgogne Aligoté”,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "Bourgogne Ordinaire™,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_2/pkt_13",
+     "text": "„Bourgogne Grand Ordinaire”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_2/pkt_14",
+     "text": "„Bourgośne Passe-tout-Grains\",",
+     "children": [
+      {
+       "type": "text",
+       "text": "15) „Brouilly”, ~ 16) „Chablis”, 17 „Chablis Grand Cru“,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18) „Chambertin”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "19) „Chambertin Clos de Béze\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "20) „Chapelle - Chambertin”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "21) „Charmes - Chambertin\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22) uGevrey - Chambertin\", — .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "23) „Griottes - Chambertin\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "24) „Latricieres - Chambertin\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "25) „Mazis - Chambertin\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "26) „Mazoyeres - Chambertin'*,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "27) „Ruchottes - Chambertin\"',",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "28) „Cheilly-les-Maranges\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "29) „Chenas*,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "30) ,,Chiroubles”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "31) „Chorey-les-Beaune\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "32) „Clos de la Roche”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "33) „Clos Saint-Denis\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "34) ,,Corton”, 35] „Corton Charlemagne”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "36) „Charlemagne”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "37) „Cotes de Beaune”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "38) „Dezize-les-Maranges\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "39) ,,Echezeaux”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "40) „Grands Echezeaux\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "41) ,,Fixin\", :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "42) „Flagey-Echezeaux”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "43) „Fleurie*',",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "44) , Juliénas\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "45) „Ladoix”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "46) ,,.Macon\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "47) „Mercurey”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "48) ,,Meursault”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49) „Montagny”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ri \"Montheliz\"\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "51) „Montrachet”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "52) „Batard Montrachet\", si thew - renter",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "55) Pula Montanie u ny - Montr \"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "56) „Morey-Śaiut.Denis\", achet\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "37) „Morgon”, \"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "58) ,,Moulin-a-Vent\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "59) „Musigny”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "60) „Chambolle Musigny*,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "61) „Nuits* lub „Nuits-St-Georges\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "62) „Pernand-Vergelesses\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "63) „Pinot Chardonnay Macon\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "64) „Pommard”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "65) „Pouilly-Fuissć\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "66) „Pouilly-sur Loire\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "67) „Romanće”, ł",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "68) „Romanće Conti\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "69) „Romanće St-Vivant\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "70) „La Tache”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "71) „Richebourg”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) „Vosne-Romanće\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "73) „St-Aubin”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "74) „Sampigny-les-Maranges\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "75) ,Santenay”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "76) „Savigny”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "717) ,,Vougeot”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "78) uClos-de-Vougeot”,",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 124 — . Dziennik Ustaw Nr 9",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "79) „Vins Fins de la Cóte de Nuits\", 138) „Cornas*, ,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "80) „Volnay”, 139) „Cótes du Rhóne\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "z Okręgu Bordeaux:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "81) „Barsac”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "82) ,,Blaye” lub „Blayais”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "83) „Cótes de Blaye*,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "84) „Premieres Cótes de Blaye\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "85) ,,Bordeaux”, 86 „Cótes de Bośdeatz St-Macaire\", 87 wPremiéres Cótes de Bordeaux”, a ate Bordeaux”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "90) ' „Cótes de Bourg”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "91) Bourgeais”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "92) „Córons” '",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "93) „Entre-deux-Mers\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "94) „Fronsac”, - 95)\" „Cótes de Fronsac”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "96) „Graves”, M",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "97) „Graves de Vayres”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "98) na Médoc”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "99) „Listrac”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "100) „Loupiac A",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "101) „Margaux”, .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "102) „Módoc”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "105) be 7 ae dom a ) „Pomerol*, p",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "107) „Lalande de Pomerol '",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "108) „Sainte-Croix-du Mont\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "109) ,,St-Emilion”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "110) „Lussac St-Emilion\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "111) „Montagne-St-Emilion\", _ 112) „Parsac-St-Emilion'\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "113) „Puisseguin-St-Emilion\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "114) Sables St-Emilion\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "115) „St-Georges-St-Emilion\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "116) „St-Estephe”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "117) „St-Julien\", . .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "118) „Sauternes”, .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "z Okręgu Centralnego:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "119) , Anjou\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "120) „Anjou-Saumur\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "121) ,,Bourgueil”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "122) - „St Nicolas de Bourgueil\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "123) „Chinon”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "124) „Cóteaux du Layon”, ad oe a)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "129) “Muscadet-des Coteaux de lŁolc”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "128) „Muscadet de Sévre-et-Maine”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "129) „Quinoy*,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "130) „Reuilly*',",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "131) ,,Sancerre”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "132) , Saumur”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "133) ,,Touraine”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "134) ,, Vouvray”.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "z Okręgu Cótes-du-Rhóne:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "135) „Chateaux Grillet*, .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "136) ,,Chateauneuf-du-Pape”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "137) „Clairette de Die”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "140) „Cótes Rótie”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "141) „Crozes Hermitage”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "142) ,,Hermitage\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "143) ,,St-Peray”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "144) ,,Tavel”, z miejscowości o różnych nazwach: » = ne eae",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "147) W Barzarach",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "148) „Blanquette de Limoux\", 0 “aati a ) „Champagne”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "151) apuaiean Chalon\", -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "152) „Cótes d'Agly\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "153) „Cótes de Duras”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "155) “Cotes da Jura, om",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "156) „Frontignan”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "157) „Gaillac”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "158) »Gaillac Premiéres Cétes”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "159) „Grand Roussillon”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "160) ,,Jurancon\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "161) ,,L'Etoile”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "162) „Maury*, i",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "164) ,,.Montravel\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "165) „Cotes de Montravel”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "166) „Haut Montravel*, 9",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "167) Rivesaltes\" \"4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "168) „Corbićres”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "169) „Minervóis”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "170) \"Se ssel”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "171) \"Villaudric”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4172) \"Vin de C ts \" ad oe : R",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) w zakresie pozostałych produktów winnych: c *",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "173) „Armagnac”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "174) „Bas Armagnac”, ne sane Armagnac\", »lenaréze”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "177) ,,Cognac\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "178) „Grande Champagne\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "179) „Petite Champagne\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "180) „Fine Champagne\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "181) „Borderies”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "182) „Fins Bois\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "183) „Bons Bois”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3. Wykonanie rozporządzenia niniejszego porn żle SRO Sprawiedliwości oraz a awk: ad",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 4. (1) Rozporządzenie niniejsze wchodzi w życie po upływie dni 30 od dnia ogłoszenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "(2) Z dniem wejścia w życie rozporządzenia niniejszego traci moc obowiązującą rozporządzenie Rady Ministrów z dnia 20 lutego 1929 r. o zakazie używania francuskich nazw - regionalnych (Dz. U. R. P. Nr 16, poz. 136).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Prezes Rady Ministrów: Sławoj Składkowski Minister Sprawiedliwości: W. Grabowski. Minister Przemysłu i Handlu: Antoni Roman",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

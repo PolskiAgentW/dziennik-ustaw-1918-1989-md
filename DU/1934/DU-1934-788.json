@@ -1,0 +1,71 @@
+{
+ "eli": "DU/1934/788",
+ "title": "Rozporządzenie Rady Ministrów z dnia 27 września 1934 r. o przedłużeniu poboru 10% dodatku do państwowego podatku gruntowego i przemysłowego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/788/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 września 1934 r."
+  },
+  {
+   "type": "text",
+   "text": "o przedłużeniu poboru 10% dodatku do państwowego podatku gruntowego i przemysłowego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1) rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o poborze 10% dodatku do państwowego podatku gruntowego i przemysłowego (Dz. U. R. P. Nr. 84, poz. 612) zarządza się co następuje: ;"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "10% dodatek, wprowadzony rozporządzeniem Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. (Dz. U. R. P. Nr. 84, poz. 612), pobierany będzie do następujących dalszych należności z tytułu państwowego podatku gruntowego i przemysłowego:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "do należności z tytułu II raty państwowego podatku gruntowego za rok 1934 i I raty tego podatku za rok 1935;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "do należności z tytułu państwowego podatku przemysłowego od obrotu, przypadającego od obrotów, osiągniętych w okresie od 1 października 1934 r. do 30 września 1935 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wykonanie rozporządzenia niniejszego porucza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 października 1934 r. i obowiązuje na całym obszarze Rzeczypospolitej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: L. Kozłowski Minister Skarbu: Wł. Zawadzki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

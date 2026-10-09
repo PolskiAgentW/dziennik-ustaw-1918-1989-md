@@ -1,0 +1,250 @@
+{
+ "eli": "DU/1933/504",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 14 sierpnia 1933 r. w sprawie zmiany granic miasta Krzemieńca i gmin wiejskich w powiecie krzemienieckim, województwie wołyńskiem.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/504/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 sierpnia 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granic miasta Krzemieńca i śmin wiejskich w powiecie krzemienieckim, województwie wołyńskiem,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 1 ustawy z dnia 20 lutego 1920 r. w przedmiocie zaliczania osad wiejskich w poczet miast oraz zmiany granic miast na obszarze b. zaboru rosyjskiego (Dz. U. R. P. Nr. 19, poz. 92), w brzmieniu ustalonem rozporządzeniem Prezydenta Rzeczypospolitej z dnia 3 grudnia 1932 r. w sprawie zmiany właściwości niektórych władz w zakresie podziału administracyjnego Państwa (Dz. U. R. P. Nr. 109, poz. 895) i art. 1 i 4 ustawy z dnia 22 września 1922 r. w przedmiocie zmiany granic oraz rozwiązywania i tworzenia gmin wiejskich na obszarze b. zaborów rosyjskiego i austrjackiego (Dz. U. R. P. Nr. 86, poz. 770), zarządzam co nastę-"
+  },
+  {
+   "type": "text",
+   "text": "puje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Znosi się śminy wiejskie Białokrynica, Borki, Borsuki, Wierzbowiec i Zarudzie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Tworzy się gminę wiejską Katerburg z siedzibą w Katerburgu i włącza się do niej:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "ze zniesionej śminy Borki wsie: Cecyniówka, Folwarki Małe, Folwarki Duże, Kudłajówka, Katerburg, Nowosiółki, Podhajce, Rybcza, Stasziców, Tetylkowce, Temnohajce, Wilja, tudzież osadę miejską Katerburg;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "z śminy Wiśniowiec: wsie Horynkę, Kuszlin i Wolę Rycerską;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_2/lit_c",
+     "text": "ze zniesionej śminy Borsuki wsie: Matwiejowce, Piszczatyńce, Okniny Duże, Jankowce, Okniny Małe, Witosowo i futor Sniegorowszczyzna.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Tworzy się śminę wiejską Kołodno z siedzibą w Kołodnem-Lisowszczyźnie i włącza się do niej:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "ze zniesionej gminy Zarudzie wsie: Zarudzie, Oleszkowce, Witkowce, Bolizuby, Kołodno - Siedlisko, Kołodno - Lisowszczyzna, Szymkowce, Rzeszniówka, Rakowiec Wielki, Rakowiec Mały i Reymontów;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "ze zniesionej gminy Wierzbowiec wsie: Gnidawa, Czajczyńce, Kochanówka i Musurow-",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "ce;"
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_3/lit_c",
+     "text": "z gminy Wiśniowiec wieś Wola Wilsona,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Tworzy się śminę wiejską Uhorsk z siedzibą w Uhorsku i włącza się do niej:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_4/lit_a",
+     "text": "ze zniesionej śminy Białokrynica wsie: Antonówce, Andruha Mała, Baszkówce, Bonówka, Chmieliszcze, Ilowica Mała, Itowica Wielka, Lisznia, Oderadówka, Stożek, Soczyszcze, Tylawka, Uhorsk, Wesołówka, Zabara, Zależce i Zołobki;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_4/lit_b",
+     "text": "ze zniesionej gminy wiejskiej Borki wsie: Sosnówka i Ludwiszcze;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_4/lit_c",
+     "text": "z gminy wiejskiej Szumsk wieś Mosty;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_4/lit_d",
+     "text": "z śminy miejskiej Krzemieniec przedmieścia: Czuhale, Zebłozy Duże, Zebłozy Małe, Bielecka Dolina i Bonówka.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Włącza się do śminy wiejskiej Bereżce wsie: Kołosowo, Szpikołosy i Sapanów ze zniesionej gminy wiejskiej Białokrynica, tudzież osadę Podwysokie, która dotychczas należała terytorjalnie częściowo do gminy miejskiej Krzemieniec, a częściowo do zniesionej gminy wiejskiej Białokrynica.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Włącza się do gminy wiejskiej Białozórka wieś Ośniki z gminy wiejskiej Łanowce i wsie Obryszkowce, Buhłów, Lulińce i Kutyski z gminy wiejskiej Wyszogródek.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Włącza się do gminy wiejskiej Dederkały wsie Borki, Nowystaw i Szumbar ze zniesionej gminy wiejskiej Borki, wsie Zahorce i Michałówka z gminy wiejskiej Łanowce i wsie Tatarzyńce, Jakimowce i Hryńkowce ze zniesionej gminy wiejskiej Borsuki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Włącza się do gminy wiejskiej Łanowce wsie: Borsuki, Borszczówka, Peredmirka, Kuskowce Wielkie, Napadówka, Siniowce i Kurhany ze zniesionej śminy wiejskiej Borsuki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Włącza się do gminy wiejskiej Poczajów wsie; Waligóry, Komarówka i futory Dunajewszczyzna ze wsi Dunajów, z śminy wiejskiej Bereżce.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Włącza się do gminy wiejskiej Stary Oleksiniec wieś Wolica z śminy wiejskiej Poczajów i wsie Rakowiec Czosnowski, Gniezdyczno ze zniesionej śminy wiejskiej Zarudzie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Włącza się do śminy wiejskiej Wiśniowiec, wieś Oryszkowce ze zniesionej gminy Wierzbowiec i wieś Śniegorówka ze zniesionej gminy wiejskiej Borsuki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Włącza się do gminy wiejskiej Wyszogródek wsie Wierzbowiec, Łopuszno, Kornaczówka, Szyły i Pachinia ze zniesionej gminy wiejskiej Wierzbowiec.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Włącza się do gminy miejskiej Krzemieniec:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_13/lit_a",
+     "text": "wsie Syczówka, Grabówka, Andruha Duża i Białokrynica, ze zniesionej śminy wiejskiej Białokrynica za wyjątkiem lasów, stanowiących własność Liceum Krzemienieckiego;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_13/lit_b",
+     "text": "terytorjum o obszarze 138 — 450 m. kw,, na którem położona jest częściowo stacja kolejowa Krzemieniec, stanowiące własność Skarbu Państwa, a należące dotychczas administracyjnie częściowo do wsi Podleśce, a częściowo do wsi Młynowce, gminy wiejskiej Bereżce;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_13/lit_c",
+     "text": "grunta dawnych koszar wojskowych o obszarze 350837 m. kw., stanowiące własność Skarbu Państwa, a należące obecnie administracyjnie do wsi Podleśce, gminy wiejskiej Bereżce.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Po włączeniu tych objektów i po wyłączeniu przedmieść, wymienionych w § 4 punkt d rozporządzenia niniejsześo, śranice miasta Krzemieńca przedstawiać się będą następująco:"
+      },
+      {
+       "type": "text",
+       "text": "Punktem początkowym granicy gminy miasta Krzemieńca jest tor kolejowy Krzemieniec-Dubno, a mianowicie w punkcie pomiędzy znakami torowemi 253/254 przy słupie telegraficznym Nr. 196 granica bieśnie w kierunku SO wzdłuż bagna do mostu żelbetonowego przy szosie na Dubno (dł. 1 klm. 300 mtr.). Od mostu żelbetonowego po szosie w kierunku na Dubno do rogu z lasem, należącym do 12 pułku (słup telegraficzny Nr. 84) odlegt. 300 mtr. Dalej drogą obok granicy lasu, należącego do 12 pułku Ułanów Podolskich, w kierunku SO do strzelnicy tegoż pułku (odl. 1 klm.). Od strzelnicy 12 pułku do słupów murowanych, służących jako brama wyjazdowa do koszar (kier. SO odl. 500 mtr.). Dalej granica biegnie droga do skrzyżowania dróg Syczówka-Białokrynica z jednej strony, a drogą chutoru Chwoszcze i chutoru Kuczery z drugiej strony (kier. SW. odl. 1 kim. 500 mtr.), od skrzyżowania tych dróg po drodze na Syczówkę (kier. SO. odl. 800 mtr.) do śranicy z lasem licealnym. Dalej wąwozem lasu licealnego do drogi z chutoru Chwoszcze (przebiegając poza szkołę murarska) do góry Kamiennej (kier. SW. odl. 800 mtr.), Od tego punktu wąwozem na wschód do drogi ze wsi Zebłazy i drogą tą do szosy Krzemieniec-Szumsk (kier. SO. i SW. odl. około 3 klm.). Dalej szosą Szumsk-Krzemieniec w kierunku Szumska do skrzyżowania z drogą bitą na Poczajów (kier. SO. odl. 600 mtr.). Od skrzyżowania tych dróg droga brukowaną na Poczajów do domu Stróża Zarządu Drogowego (kier. SW. odl. około 4 klm.), Od tego domku do rogu lasku (odl. 1.75 klm.) i wzdłuż lasu w górę do ul. St. Detiuka (kier. NW. odl. 1 klm.). Dalej drogą do skrzyżowania z droga na Zołoby, dalej do granicy działki leśnej lasu licealnego i od tego punktu prostą linją przez las licealny, opierając się o były tor dojazdowej kolejki do kopalni węgla (kier. N. odl. około 4,5 klm.). Dalej starym torem do drogi Krzemieniec-Królewski Most (kier. NW. odl. 800 mtr.). Od tej drogi do toru kolejowego Krzemieniec-Dubno w kierunku na Dubno (znak kolejowy Nr. 31 (kier. NW. odl. 800 mtr.]. Dalej torem kolejowym Krzemieniec-Dubno w kierunku na Dubno do znaków kolejowych 253/254 i stupa telegraficznego Nr. 196 za wsią Duża Andruha."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 października 1933 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Bronisław Pieracki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

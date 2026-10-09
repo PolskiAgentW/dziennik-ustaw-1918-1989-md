@@ -1,0 +1,56 @@
+{
+ "eli": "DU/1937/599",
+ "title": "Obwieszczenie Ministra Spraw Zagranicznych z dnia 15 października 1937 r. o sprostowaniu błędu w tytule i tekście oświadczenia rządowego w sprawie złożenia przez Kolumbię dokumentu ratyfikacyjnego międzynarodowej konwencji z dnia 4 maja 1919 r., dotyczącej zwalczania handlu żywym towarem.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/599/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SPRAW ZAGRANICZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 października 1937 r."
+  },
+  {
+   "type": "text",
+   "text": "© sprostowaniu błędu w tytule i tekście oświadczenia rządowego w Sprawie złożenia przez Kolumbię dokumentu ratyfikacyjnego międzynarodowej konwencji z dnia 4 maja 1910 r., dotyczącej zwalczania handlu żywym towarem."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 pkt 4 dekretu Prezydenta Rzeczypospolitej z dnia 6 września 1935 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej (Dz. U. R. P. Nr 68, poz. 423) i zgodnie z komunikatem Rządu Francuskiego, prostuje się następujące błędy w tytule i tekście oświadczenia rządowego z dnia 30 kwietnia 1937 r. w sprawie złożenia przez Kolumbie dokumentu ratyfikacyjnego międzynarodowej konwencji z dnia 4 maja 1910 r., dotyczącej zwalczania handlu żywym towarem (Dz. U. R. P. Nr 39, poz. 312), a mianowicie:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "w tytule zamiast „złożenia przez Kolumbię dokumentu ratyfikacyjnego” po- , winno być „przystąpienia Kolumbii do”,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "w tekście, 3 wiersz od góry, zamiast „9 powinno być „8',",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "w tekście, 2 wiersz od końca, zamiast „dokument ratyfikacyjny” powinno być „akt przystąpienia do”. -",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Zagranicznych: Beck"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

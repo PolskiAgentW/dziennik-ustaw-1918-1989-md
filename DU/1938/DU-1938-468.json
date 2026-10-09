@@ -1,0 +1,252 @@
+{
+ "eli": "DU/1938/468",
+ "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 18 sierpnia 1938 r. wydane w porozumieniu z Ministrem Przemysłu i Handlu o ujawnianiu cen przedmiotów powszedniego użytku, o sporządzaniu, posiadaniu w obrocie hurtowym i półhurtowym faktur oraz o przedstawianiu faktur na żądanie władz.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/468/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ROLNICTWA I REFORM ROLNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 sierpnia 1938 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrem Przemysłu i Handlu o ujawnianiu cen przedmiotów powszedniego użytku, o sporządzaniu, posiadaniu w obrocie hurtowym i półhurtowym faktur oraz o przedstawianiu iaktur na żądanie władz."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 1 ust. (1) pkt 1, lit. b) i c) ustawy z dnia 5 sierpnia 1938 r. o zabezpieczeniu podaży przedmiotów powszedniego użytku (Dz. U. R. P. Nr 60, poz. 462) zarządzam co nastepuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Posiadacze wszelkiego rodzaju przedsiębiorstw sprzedaży obowiązani są posiadać w lokalach tych przedsiębiorstw cenniki na wymienione w załączniku do rozporządzenia niniejszego przedmioty powszedniego użytku, przeznaczone na sprzedaż, a nadto ujawniać ceny bezpośrednio na tych przedmiotach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Cenniki winny zawierać: 1) nazwę towarów, 2) cenę, 3) firmę lub nazwisko posiadacza przedsiębiorstwa, 4) adres firmy lub posiadacza przedsiębiorstwa, 5) datę sporządzenia cennika.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Cenniki te należy umieszczać na miejscu widocznym, dostępnym dla kupującego."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Ceny podane w cennikach, jak również ceny ujawnione bezpośrednio na przed- 'miotach powszedniego użytku, muszą być obliczane w stosunku do obowiązujących jednostek miar i wag, lub gdy to jest niemożliwe na sztuki. Ceny te winny się zgadzać z cenami istotnie pobieranymi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "_ §4. Cenniki, jak również ceny ujawnione bezpośrednio na przedmiotach powszedniego użytku, należy podać czytelnie, jasno, oraz w sposób nie budzący żadnych wątpliwości co do ich treści."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Przedsiębiorstwa sprzedaży przedmiotów powszedniego użytku obowiązane są na żądanie kupującego wydawać rachunki na sprzedane przedmioty. ' Rachunki winny zawierać: nazwę firmy lub nazwisko właściciela, jego adres, datę sprzedaży, jakość i ilość towaru oraz cenę za którą towar sprzedano.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Przedsiębiorstwa zajmujące się hurtową lub półhurtową sprzedażą przedmiotów powszedniego użytku są obowiązane sporządzać i posiadać faktury (rachunki) na wszelkie sprzedawane przedmioty powszedniego użytku. Faktury wymienione powyżej należy przedstawiać na żądanie władz administracji ogólnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Posiadacz przedsiębiorstwa, który:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "nie posiada w miejscu sprzedaży cennika lub nie ujawnia bezpośrednio cen,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "posiada cennik nie odpowiadający wymogom $§ 2, 3 i 4,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "ujawnia ceny w sposób nie odpowiadający wymogom S§ 2, 3 i 4,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "odmawia wydania kupującemu rachunku lub wydaje go w formie nie odpowiadającej wymogom § 5,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_7/pkt_5",
+     "text": "w obrocie hurtowym lub półhurtowym nie sporządza lub nie posiada faktur lub też wzbrania się przedstawić je władzy — ulegnie w drodze administracyjnej ną podstawie art. 5 ustawy o zabeznieczeniu podaży przedmiotów powszedniego użytku — karze aresztu do 3 miesięcy lub grzywny do 3.000 złotych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Reform Rolnych: J. Poniatowski"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do rozp. Min. Roln. i Ref. Roln. z dnia 18 sierpnia 1938 r. (poz. 468)."
+  },
+  {
+   "type": "text",
+   "text": "WYKAZ"
+  },
+  {
+   "type": "text",
+   "text": "przedmiotów powszedniego użytku, których ceny winny być ujawniane w przedsiębiorstwach sprzedaży."
+  },
+  {
+   "type": "text",
+   "text": "A. ARTYKUŁY ŻYWNOŚCI."
+  },
+  {
+   "type": "text",
+   "text": "I. Pochodzenia roślinnego."
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przetwory zbożowe, jak: mąki, kasze, płatki, pieczywa, suchary, makarony, opłatki, krochmal, słód.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Warzywa okopowe, strączkowe, owoce, jagody, grzyby jak: zieriniaki, kapusta, marchew, cebula, buraki, kalafiory, groch, fasola, owoce ogrodnicze i leśne, krochmal ziemniaczany, syrop, płatki, mąki, kompoty, powidła, marmelady, soki, oliwy, oleje jadalne, wszelkiego rodzaju konserwy.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Artykuły kolonialne i używki jak: cukier, herbata, kawa, kakao, ryż, cykoria, pieprz,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "tytoń oraz ich przetwory, jak: cukierki, czekolada i wyroby z niej, ocet, drożdże, mączka do pieczenia, musztardy, sosy i wyroby przemysłu fermentacyjnego jak: piwo, wino i miód."
+    },
+    {
+     "type": "text",
+     "text": "II. Pochodzenia zwierzęcego."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Mięso, przetwory i produkty uboju jak: mięso wołowe, cielęce, wieprzowe, baranie, końskie, drób, dziczyzna, wędliny, słonina, smalec, łój, wszelkiego rodzaju konserwy, buliony, ekstrakty.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Ryby słodkowodne i morskie oraz ich przetwory, jak: ryby solone, wędzone, marynowane, konserwy.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Nabiał jak: mleko, jaja, oraz ich przetwory jak: śmietana, sery, masło, wszelkiego rodzaju konserwy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "II. Pochodzenia mineralnego."
+    },
+    {
+     "type": "text",
+     "text": "Sól do celów jadalnych."
+    },
+    {
+     "type": "text",
+     "text": "Str. 994"
+    },
+    {
+     "type": "text",
+     "text": "B. ARTYKUŁY ODZIEŻOWE."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Materiały tekstylne i odzież jak: materiały wełniane, lniane, konopne, jedwabne, bawełniane, pilśniowe oraz z włókien zastępczych, a ponadto gotowe wyroby ubraniowe, bieliźniane — osobiste i pościelowe — trykotowe, kołdry.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Wyroby skórzane jak: obuwie, uprząż, galanteria skórzana, futra, kożuchy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "C. OPAŁOWE I OŚWIETLENIOWE."
+    },
+    {
+     "type": "text",
+     "text": "Materiały i energia do celów opałowych i oświetleniowych gospodarstwa domowego jak: drewno, torf, węgiel, nafta, koks, brykiety, świece, zapałki."
+    },
+    {
+     "type": "text",
+     "text": "D. HIGIENY CODZIENNEJ."
+    },
+    {
+     "type": "text",
+     "text": "Najniezbędniejsze artykuły higieny codziennej, jak: mydło, wapno i inne środki do utrzymania czystości. ; w"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

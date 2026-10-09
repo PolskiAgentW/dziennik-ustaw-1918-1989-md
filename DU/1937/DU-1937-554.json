@@ -1,0 +1,37 @@
+{
+ "eli": "DU/1937/554",
+ "title": "Oświadczenie rządowe z dnia 5 października 1937 r. w sprawie zmiany Światowej Konwencji Pocztowej z dnia 20 marca 1934 r.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/554/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OŚWIADCZENIE RZĄDOWE z dnia 5 października 1937 r. : w sprawie zmiany Światowej Konwencji Pocztowej z dnia 20 marca 1934 r. Podaje się niniejszym do wiadomości, zgodnie z komunikatem Rządu Szwajcarskiego, że w wykonaniu postanowień art. 22 Światowej Konwencji Pocztowej, podpisanej w Kairze dnia 20 marca 1934 r. (Dz. U. R. P. z 1935 r. Nr 93, poz. 588), został zmieniony na wniosek Rządu Duńskiego art. 10 lit. c) powyższej konwencji i otrzymuje z dniem 16 października 1937 r, brzmienie następujące: Przekład."
+  },
+  {
+   "type": "lit",
+   "num": "wc",
+   "path": "lit_wc",
+   "text": "wyspy Feroe, jako należące do Danii, i Grenlandia, jako zależna od zarządu pocztowego Danii, w charakterze kolonii duńskiej.\"",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "vc",
+   "path": "lit_vc",
+   "text": "les iles Féroé, comme faisant partie du Danemark et le Groenland, comme relevant de I Administration des postes du Danemark, en qualité de colonie danoise.\"",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Zagramicznych: Beck"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

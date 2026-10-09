@@ -1,0 +1,80 @@
+{
+ "eli": "DU/1939/295",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 17 maja 1939 r. wydane w porozumieniu z Ministrami: Spraw Zagranicznych, Spraw Wojskowych, Skarbu oraz Opieki Społecznej w sprawie zmiany rozporządzenia Ministra Spraw Wewnętrznych z dnia 13 kwietnia 1939 r., wydanego w porozumieniu z Ministrami: Spraw Zagranicznych, Spraw Wojskowych, Skarbu oraz Opieki Społecznej w sprawie określenia norm oraz terminów wypłaty zasiłków dla rodzin osób odbywających czynną służbę wojskową.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/295/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 maja 1939 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrami: Spraw Zagranicznych, Spraw Wojskowych, Skarbu oraz Opieki Społecznej w sprawie zmiany rozporządzenia Ministra Spraw Wewnętrznych z dnia 13 kwietnia 1939 r., wydanego w porozumieniu z Ministrami: Spraw Zagranicznych, Spraw Wojskowych, Skarbu oraz Opieki Społecznej w sprawie określenia norm oraz terminów wypłaty zasiłków dla rodzin osób odbywających czynną służbę wojskową."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 15 ust. (2) ustawy z dnia 30 marca 1939 r. o zasiłkach dla rodzin osób odbywających czynną służbę wojskową (Dz. U. R. P. Nr 29, poz. 196) zarządzam co następuje: i A”"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "(1) W § 1 rozporządzenia Ministra Spraw Wewnętrznych z dnia 13 kwietnia 1939 r. (Dz. U. R.P. Nr 35, poz. 226) nagłówek rubryki czwartej tabeli otrzymuje brzmienie: „W miejscowościach od 25.000 do 50.000 mieszkańców (kat. III)”.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Dla miejscowości powyżej 50.000 mieszkańców zostaje ustanowiona IV kategoria, w której dzienna norma zasiłkowa wynosi:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "jeżeli do zasiłku uprawniona jest tyłko jedna osoba — 110 gr",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "jeżeli do zasiłku uprawnione są dwie osoby — 130 gr",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "jeżeli do zasiłku uprawnione są trzy lub więcej osób — 150 gr.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(3) W ostatnim ustępie § 1 wyrazy: „oraz w m. Gdyni' zostają skreślone,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 21 maja 1939 r,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: . Sławoj Składkowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

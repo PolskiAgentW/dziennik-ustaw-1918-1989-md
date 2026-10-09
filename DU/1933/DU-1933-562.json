@@ -1,0 +1,247 @@
+{
+ "eli": "DU/1933/562",
+ "title": "Rozporządzenie Ministrów Opieki Społecznej i Spraw Wewnętrznych z dnia 27 sierpnia 1933 r. o wodzie do picia i potrzeb gospodarczych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/562/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRÓW OPIEKI SPO- ŁĘCZNEJ I SPRAW WEWNĘTRZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 sierpnia 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "o wodzie do picia i potrzeb gospodarczych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 punkt 8 zasadniczej ustawy sanitarnej z dnia 19 lipca 1919 r. (Dz. P. P. P. Nr. 63, poz. 371), art. 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 marca 1928 r. o zaopatrywaniu ludności w wodę (Dz. U, R. P. Nr. 32, poz. 310) i art. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 21 czerwca 1932 r. o przekazaniu zakresu działania Ministra Spraw Wewnętrznych w sprawach zdrowia publicznego Ministrowi Pracy i Opieki Społecznej (Dz. U. R, P. Nr. 52, poz. 493) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Woda do picia, do celów gospodarstwa domowego, do wyrobu i w związku z wyrobem artykułów żywności w wytwórniach tych artykułów, do wyrobu lodu oraz woda w zakładach kąpielowych publicznych, powinna w miejscach jej czerpania odpowiadać przepisom niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "(1) Woda, używana do celów, wymienionych w § 1, nie może:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "być źródłem zakażenia lub zatrucia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "zawierać składników lub domieszek:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "szkodliwych dła zdrowia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "wskazujących na zanieczyszczenie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_2/lit_c",
+       "text": "wywierających ujemny wpływ na smak i wyśląd wody.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) W szczególności woda:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "powinna być przezroczysła, bezbarwna, bez zapachu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "nie może zawierać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "związków arsenu oraz związków metali cięż-",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "ich,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "bakteryj chorobotwórczych. Wskaźnikiem dobroci wody pod wzślędem bakterjologicznym jest nieobecność w niej bakterji okrężnicy lub co najwyżej obecność tej bakterji: w 10 centymetrach sześciennych wody — dla studzien płytkich, w 50 centymetrach sześciennych wody — dla studzien głębokich i wodociągów. Ogólna liczba bakteryj na żelatynie przy temperaturze 20° po 48 godzinach, w wodzie ze studzien głębokich i wodociągów nie może przekraczać 100 w jednym centymetrze sześciennym. -",
+       "children": [
+        {
+         "type": "text",
+         "text": "(3) Ponadto w zasadzie woda:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "nie powinna zawierać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "związków żelaza w ilości powyżej 0,3 miliśrama na 1 litr wody oblicz. jako Fe (żelazo metaliczne),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "związków manganu w ilości powyżej 0,1 miligrama na 1 litr wody oblicz. jako Mn (mangan metaliczny),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_1/lit_c",
+       "text": "chlorków pochodzenia geologicznego w ilości powyżej 250 mgr. na 1 litr wody oblicz. jako CI (chlor),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_1/lit_d",
+       "text": "siarczanów w ilości powyżej 100 mlgr. na 1 a wody oblicz. jako SOs (kwas siarkowy),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_1/lit_e",
+       "text": "azotanów w ilości powyżej 30 mlśr. na 1 litr wody oblicz. jako NO: (kwas azotowy),",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "powinna dawać suchą pozostałość przy temperaturze 110°C nie większą niż 500 miligramów na 1 litr wody,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "powinna wykazywać twardość ogólną nie większą niż 36° francuskich (20° niemieckich).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "(1) Do badania wody dla celów administracji sanitarnej są uprawnione:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "Państwowy Zakład Higjeny;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "Państwowe Zakłady badania żywności i przedmiotów użytku;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_3/lit_c",
+     "text": "komunalne pracownie badania żywności i przedmiotów użytku, uprawnione w myśl ust. 2 art. 15 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. (Dz. U. R. P, Nr. 36, poz. 343).",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Ocena sanilarna wody powinna być wydawana na podstawie zestawienia wyników jej badania pod względem fizycznym, chemicznym i bakterjolośicznym po uprzedniem zbadaniu urządzenia wodnego oraz terenu, z którego woda pochodzi, a w razie potrzeby, przekroju geologicznego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "O ile wyniki badania wykażą, że woda nie odpowiada warunkom, wyszczególnionym w § 2, powiatowa władza administracji ogólnej wyda, w każ-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "dym poszczególnym przypadku lub dla poszczególnych miejscowości, na podstawie wyników badania Zakładów, wyszcześólnionych w ust. 1 § 3, decyzję co do warunków dopuszczenia tej wody do celów, wymienionych w § 1 lub, o ile wzgląd na niezbędne zaopatrzenie ludności w wodę na to pozwoli, niedopuszczenia do tych celów wody uznanej za niezdatną do picia,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Opieki Społecznej: Hubicki"
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Bronisław Pieracki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,127 @@
+{
+ "eli": "DU/1938/178",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 8 marca 1938 r. w sprawie oznaczenia papierów wartościowych i ich kursów przy spłacie długów rolniczych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/178/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 marca 1938 r. ‘"
+  },
+  {
+   "type": "text",
+   "text": "w sprawie oznaczenia papierów wartościowych i ich kursów przy spłacie długów rolniczych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 16 i 20 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o konwersji i uporządkowaniu długów rolniczych (Dz. U. R. P. z 1936 r. Nr 5, poz. 59) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Długi rolnicze wobec instytucyj, wymienionych w art. 6 ust. (1) pkt 2, 6— 10 rozporządzeńia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o konwersji i uporządkowaniu długów rolniczych, powstałe przed dniem 1 lipca 1932 r. wraz z odsetkami i kosztami, obciążające:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "posiadaczy gospodarstw wiejskich grupy „A” (art. 3 wymienionego wyżej rozporządzenia Prezydenta Rzeczypospolitej) oraz",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "posiadaczy gospodarstw wiejskich grupy „B” (art. 3 tegoż rozporządzenia Prezydenta Rzeczypospolitej), — co do których Komitet Konwersyjny, działający przy Banku Akceptacyjnym, Sp. Akc., lub wojewódzki urząd rozjemczy wydał orzeczenie, że instytucja wierzycielska ponosi winę w -niedojściu do skutku układu konwersyjnego za pośrednictwem Banku Akceptacyjnego, Sp. Akc. — mogą być w okresie od dnia 1 kwietnia 1938 r. do dnia 31 grudnia 1940 r. spłacane następującymi papierami wartościowymi:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "obligacjami pożyczek państwowych: 40/0 Pożyczki Konsolidacyjnej, - 4!/s0/0 Wewnętrznej Pożyczki Państwowej z 1937 r.,",
+     "children": [
+      {
+       "type": "text",
+       "text": "50/0 Pożyczki Konwersyjnej z 1924 r.,"
+      },
+      {
+       "type": "text",
+       "text": "50/0 Konwersyjnej Pożyczki Kolejowej z 1926 r.;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "4!/2%o listami zastawnymi Państwowego Banku Rolnego w złotych w złocie Serii I;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "41/20/09 listami zastawnymi: Towarzystwa Kredytowego Ziemskiego w ‘Warszawie, -",
+     "children": [
+      {
+       "type": "text",
+       "text": "Towarzystwa Kredytowego Ziemskiego we Lwowie, j Poznańskiego Ziemstwa Kredytowego w Poznaniu,"
+      },
+      {
+       "type": "text",
+       "text": "Wileńskiego Banku Ziemskiego,"
+      },
+      {
+       "type": "text",
+       "text": "Spółki Akcyjnej, Akcyjnego Banku Hipotecznego we Lwowie — po kursie 90/0 wartości nominalnej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Papiery wartościowe, wymienione w § 1 rozporządzenia niniejszego, powinny być zaopatrzone w należne kupony z bieżącym włącznie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przy spłacaniu długów nie przewyższających zł 5.000 dłużnik ma prawo wpłacić instytucji wierzycielskiej gotówką, kwotę potrzebną na zakup papierów wartościowych wskazanych przez siebie, a wyszczególnionych w § 1 niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie niniejsze nie dotyczy wierzytelności rolniczych objętych układami konwersyjnymi, zawartymi za pośrednictwem Banku Akceptacyjnego, Sp. Akc. na zasadzie ustawy z dnia 24 marca 1933 r. o ułatwieniach dla instytucyj kredytowych, przyznających dłużnikom ulgi w zakresie wierzytelności rolniczych (Dz. U. R.P. z 1934 r. Nr 109, poz. 973) wraz z późniejszymi zmianami.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Rozporządzenie niniejsze wchodzi w Życie z dniem 1 kwietnia 1938 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: E. Kwiatkowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,442 @@
+{
+ "eli": "DU/1938/111",
+ "title": "Rozporządzenie Ministra Komunikacji z dnia 16 lutego 1938 r. wydane w porozumieniu z Ministrami Spraw Wojskowych i Spraw Wewnętrznych w sprawie przepisów o zapobieganiu zderzeniu statków powietrznych w trudnych warunkach atmosferycznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/111/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA KOMUNIKACJI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 lutego 1938 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumiieniu z Ministrami Spraw Wojskowych i Spraw Wewnętrznych w sprawie przepisów o zapobieganiu zderzeniu statków powietrznych w trudnych warunkach atmosierycznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 8 ust. (2) lit. a), art. 36 ust. (2) oraz art. 82 ust. (1) rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 marca 1928 r. o prawie lotniczym (Dz. U. R. P. z 1935 r. Nr 69, poz. 437) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wprowadza się dołączone do niniejszego rozporządzenia „Przepisy o zapobieganiu zderzeniu statków powietrznych w trudnych warunkach atmosferycznych”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Komunikacji: Ulrych"
+    },
+    {
+     "type": "text",
+     "text": "i Załącznik do rozp. Ministra Komunikacji z dnia i6 lutego 1938 r. (poz. 111)."
+    },
+    {
+     "type": "text",
+     "text": "PRZEPISY O ZAPOBIEGANIU ZDERZENIU STATKÓW POWIETRZNYCH W TRUDNYCH WARUNKACH ATMOSFERYCZNYCH."
+    },
+    {
+     "type": "text",
+     "text": "I. Przepisy ogólne."
+    },
+    {
+     "type": "text",
+     "text": ". § 1. (1) Przepisy niniejsze stosuje się do dziennego ruchu lotniczego w czasie trudnych warunków atmosferycznych, mogących żagrażać niebezpieczeństwem zderzenia statków powietrznych."
+    },
+    {
+     "type": "text",
+     "text": "(2) Za dzienny ruch lotniczy uważa się starty, lądowania i loty wykonywane w czasie od jednej godziny przed wschodem słońca do jedńej godziny po zachodzie słońca."
+    },
+    {
+     "type": "text",
+     "text": "(3) Za lot w trudnych warunkach atimosferycznych, mogących zagrażać niebezpieczeństwem zderzenia statku powietrznego, uważa"
+    },
+    {
+     "type": "text",
+     "text": "się:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "lot w czasie opadów i przy stanie mślistym powietrza, gdy widzialność pozioma jest mniejsza od 3.000 m;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "lot we mgle;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_2/lit_c",
+     "text": "lot w chmurach lub bezpośrednio pod podstawą chmur.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Sarmiolotom i szybowcom bez utządzeń do ślepego pilotażu zabrania się lotów w chmurach i mgle.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "(1) Na najmniejszy wymagany zespół . przyrządów do ślepego pilotażu składają się:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "skrętomierz żyroskopowy z chyłomie-",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "rzem poprzecznym;"
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "chyłomierz podłużny;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_3/lit_c",
+     "text": "szybkościomierz;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_3/lit_d",
+     "text": "wysokościomierz;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_3/lit_e",
+     "text": "busola (kompas);",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_3/lit_f",
+     "text": "obrotomierz.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Zespół powyższy umożliwia krótkotrwały ślepy lot, w żadnym zaś wypadku nie daje możności ślepego lądowania (§ 11)."
+      },
+      {
+       "type": "text",
+       "text": "II. Loty 'w chmurach i mgle poza lotniskami."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "(1) Loty w chmurach wolno wykonywać tylko w razie istotnej potrzeby. Jeżeli względy szczególne do tego nie zmuszają, należy również unikać przelatywania pojedynczych chmur, a zwłaszcza znajdujących się nad górną albo pod dolną powierzchnią zwattej masy chmur; omijać je należy w odległości co najmniej 100 m.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Na szybowcach dozwolony jest lot w chmurach pojedynczych (kłębiastych), a w zwartej masie chmur tylko w rejonach wyznaczonych przez Ministerstwo Komunikacji w porozumieniu z Ministerstwem Spraw Wojskowych i ogłaszanych w Dzienniku Urzędowym Ministerstwa Komunikacji."
+    },
+    {
+     "type": "text",
+     "text": "(3) Przebijanie się przez warstwę chmur lub mgły należy wykonywać najkrótszą drogą."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "(1) Samoloty posiadające zespół przyrządów do ślepego piłotażu, lecz nie posiadające natomiast radiostacyj, umożliwiających porozumiewanie się z goniometrami lotniskowymi, mogą urządzać loty ćwiczebne w chmurach tylko w rejonach i na szlakach, wyznaczonych przeż Ministerstwo Spraw Wojskowych w poroztimieniu z Ministerstwem Komunikacji i ogłaszanych w Dzienniku Urzędowym Ministerstwa Komunikacji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Przy wyznaczaniu wspomnianych rejonów i szlaków należy brać pod uwagę, aby grariice ich nie były równoległe do szlaków komunikacyjnych lotniczych i aby były od tych szlaków dostatecznie oddalone."
+    },
+    {
+     "type": "text",
+     "text": "(3) Ministerstwo Komunikacji w porozumieniu ż Ministerstwem Spraw Wojskowych ustanawia w jakich przypadkach i na podstawie upoważnienia jakich władz piloci cywilni mogą wykonywać loty w chmurach nad rejonami i szlakami, o których mowa w ust. (1)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "(1) Dla ochrony bezpieczeństwa na liniach regularnej komunikacji lotniczej w warunkach, przewa zanych w § 1 ust. (1) wyznacza się szlaki przelotowe w postaci pasów sze-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Str. 181"
+    },
+    {
+     "type": "text",
+     "text": "rokości 30 km, liczonych 15 km w prawo i 15 km w lewo od loksodromy, łączącej różne punkty przelotowe danej linii komunikacyjnej. -Szlaki te ogłasza się w Dzienniku Urzędowym Ministerstwa Komunikacji."
+    },
+    {
+     "type": "text",
+     "text": "(2) Loty w chmurach na szlakach, o których mowa w ust. (1) są dozwolone wyłącznie samolotom posiadającym radiostację, umożliwia: jącą porozumiewanie się z goniometrami lotniskowymi."
+    },
+    {
+     "type": "text",
+     "text": "IM. Loty w pobliżu lotnisk w czasie trudnych warunków atmosierycznych,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Za lot w pobliżu lotniska w czasie trudnych warunków atmosferycznych, grożących możliwością zderzeń uważa się każdy lot:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_7/lit_a",
+     "text": "wykonany w promieniu 30 km od środka lotniska, posiadającego stacje goniometryczne lub radiolatarnie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_7/lit_b",
+     "text": "wykonany w promieniu 20 km od środka lotniska, jeżeli lotnisko to nie posiada stacji goniometrycznej ani radiolatarni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Przeloty nad lotniskami szkolnymi, nie połączone z zamierzonym ladowaniem, powinny być wykonywane na wysokości nie mniejszej niż 1500 m, z wyjątkiem przypadków, gdy warunki atmosferyczne mośą spowodować oblodzenie. Spisy lotnisk szkolnych będą ogłaszane w Dzienniku Urzędowym Ministerstwa Komunikacji. §9. Wykonywanie lotów w chmurach i we mgle w pobliżu lotnisk wymienionych w § 7 pkt a) dozwolone jest, w razie konieczności, wyłącznie samolotom posiadającym radiostacje, umożliwiające porozumiewanie się z goniometrami lotniskowymi. W pobliżu lotnisk wymienionych w § 7 pkt b) wykonywanie lotów bez uzasadnionej potrzeby w chmurach i we mgle * jest w ogóle zabronione.",
+   "children": [
+    {
+     "type": "text",
+     "text": "IV. Loty w pobliżu lotaisk w warunltach ,,QBI“."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "(1) Za warunki atmosferyczne, oznaczone międzynarodowym skrótem radiotelegraficznym „QBI' uważa się takie warunki, przy których:",
+   "children": [
+    {
+     "type": "text",
+     "text": "a) podstawa chmur sięga najwyżej 150 m, a widzialność pozioma jest mniejsza niż 2000 m, albo",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) podstawa chmur sięga najwyżej 100 m, a widzialność pozioma jest mniejsza niż 3000 m.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "* (2) Stwierdzenie warunków ,,QBI\" na danym lotnisku należy do organów służby meteorologicznej, które powinny zawiadomić o tym natychmiast:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) na lotniskach wojskowych — komendanta portu lub lotniska wojskowego;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) na lotniskach wspólnych (wojskowo- cywilnych), jeżeli warunki ,,QBI” stwierdzi:",
+     "quoted": true
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_10/lit_a",
+     "text": "wojskowa służba meteorologiczna — komendanta portu lub lotniska wojskowego, który niezwłocznie powinien powiadomić o tym zawiadowcę portu lotniczego cywilnego;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_10/lit_b",
+     "text": "cywilna służba meteorołogiczna — zawiadowcę portu lotniczego cywilnego, który niezwłocznie powinien powiadomić o tym komendanta portu lub lotniska wojskowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_10/pkt_3",
+     "text": "na lotniskach cywilnych — zawiadowcę portu lotniczego lub w braku tegoż, osobę zarządzającą lotniskiem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(3) Podanie do ogólnej wiadomości warunków „QBI” na danym lotnisku zarządza:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_10/pkt_3/lit_a",
+       "text": "na lotnisku wojskowym — komendant portu lub lotniska;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_10/pkt_3/lit_b",
+       "text": "na lotnisku wspólnym (wojskowym i cywilnym) — komendant lotniska w porozumieniu z zawiadowcą portu lotniczego cywilnego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_10/pkt_3/lit_c",
+       "text": "na wszystkich innych lotniskach — za- ‘wiadowca portu lub w braku tegoż osoba zarządzająca lotniskiem.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(4) Podanie warunków „QBI” do ogólnej wiadomości polega:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_10/pkt_3/lit_a",
+       "text": "na umieszczeniu na lotnisku odpowiedniego sygnału, przewidzianego regula- , minem ruchu lotniczego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_10/pkt_3/lit_b",
+       "text": "na natychmiastowym zawiadomieniu najkrótszą drogą wszystkich jednostek korzystających z danego lotniska oraz wszystkich zainteresowanych i wyposażonych w radio samolotów, portów lot- A niczych i lotnisk; wykaz tych portów i lotnisk ogłasza się w Dzienniku Urzędowym Ministerstwa Komunikacji;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_10/pkt_3/lit_c",
+       "text": "na podaniu tego zawiadomienia w najbliższym międzynarodowym komunikacie meteorologicznym ,,CQ”. »",
+       "children": [
+        {
+         "type": "text",
+         "text": "(5) Zawiadowcy lotnisk celnych powinni nadto zawiadamiać o warunkach „QBI'” wszystkie sąsiednie oraz dalsze zainteresowane porty lotnicze zagraniczne."
+        },
+        {
+         "type": "text",
+         "text": "(6) Odwoływanie warunków ,,QBI\" odbywa się ściśle w ten sam sposób, jak podawanie ich do ogólnej wiadomości."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "(1) Po ogłoszeniu o istnieniu warunków ,,QBI\" na danym lotnisku, loty z zamiarem lądowania na tym lotnisku mogą przedsiębrać tylko samoloty posiadające radiostacje, umożliwiające porozumienie się z goniometrami lotniskowymi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Wszystkim innym samolotom przylot jest zakazany. Zakaz nie dotyczy samolotów będących w drodze, które rozpoczęły lot przed ogłoszeniem warunków „QBI” lub nie zostały © tych warunkach uprzedzone."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "O kolejności startów i lądowań przy warunkach „QBI” na lotniskach, posiadających",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "—————-——_—_—_ Dziennik Ustaw Nr 16"
+    },
+    {
+     "type": "text",
+     "text": "stacje goniometryczne, decyduje urzędujący stale na lotnisku przedstawiciel władzy, dysponującej goniometrem, w porozumieniu z obecnym na stacji goniometrycznej kierownikiem ruchu lotniczego na danym lotnisku."
+    },
+    {
+     "type": "text",
+     "text": ".. § 13. (1) Lądowanie przy użyciu goniometrów (system „ZZ”) jest dozwolone, jeżeli podstawa chmur nie jest niższa niż 30 m, a widzialność pozioma nie mniejsza niż 500 m."
+    },
+    {
+     "type": "text",
+     "text": "(2) Od norm wymienionych w ust. (1) dopuszczalne są odchylenia ze względu na warunki terenowe danego lotniska. Decyzja w tej sprawie należy do komisji, wyznaczonej przez władze danego lotniska; komisja ta powinna uwzględniać opinie pilotów, korzystających z goniometru danego lotniska, których przedstawiciel wchodzi w skład komisji. Normy wyjątkowe ustanowione przez komisję ogłasza się w Dzienniku Urzędowym Ministerstwa Komunikacji."
+    },
+    {
+     "type": "text",
+     "text": "Str. 182"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Lądowanie z użyciem radiolatarni jest dozwolone, jeżeli podstawa chmur nie jest niższa niż 20 m, a widzialność pozioma nie mniejsza niż 100 m.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Przepisy $§ 13 i 14. nie wykluczają stosowania systemu ,,ZZ” ani użycia radiolatarni przy gorszych jeszcze warunkach atmosferycznych, gdy chodzi o samoloty, którym ograniczony zapas paliwa, defekt, zbliżajaca się noc itp. nie pozwalają na przelecenie do innego lotniska.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Przepisy niniejsze stosuje się i do statków powietrznych wojskowych, z wyjątkami ustanowionymi ze względu na odrębne cele i zadania lotnictwa wojskowego przez Ministerstwo Spraw Wojskowych, w porozumieniu z Ministerstwem Komunikacji w tych wszystkich przypadkach, gdy wspomniane wyjątki mają obowiązywać statki powietrzne cywilne albo też lotnictwo cywilne,",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

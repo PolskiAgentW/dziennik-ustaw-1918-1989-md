@@ -1,0 +1,78 @@
+{
+ "eli": "DU/1938/483",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 22 sierpnia 1938 r. o utworzeniu urzędów celnych w Gromadziszkach i w Zawiasach oraz Posterunku Celnego w Oranach.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/483/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU z dnia 22 sierpnia 1938 r. © utworzeniu urzędów celnych w Gromadziszkach i w Zawiasach oraz Posterunku Celnego w O ranach. Na podstawie art. 8 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o prawie celnym (Dz. U. R. P. Nr 84, poz. 610) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W okręgu administracyjnym Dyrekcji Ceł w Warszawie ustanawia się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "drogowe graniczne urzędy celne",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "w Gromadziszkach przy drodze kołowej Suwałki — Szypliszki — Kalwaria — Mariampole,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "w Zawiasach przy drodze kołowej Landwarów — Zawiasy — Vievis -— Kaunas,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "Posterunek Celny w O ranach przy drodze kołowej Ejszyszki — Orany — Varena — Alytus.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Urzędom celnym w Gromadziszkach i Zawiasach nadaje się uprawnienia urzędów celnych II klasy,",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 3, Do zakresu działania Posterunku Celnego w O ranach należy odprawa celna osób i ich środków lokomocji, dokonywana w czasie obowiązującym graniczne urzędy celne, ustanowione przy drogach kołowych."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia z mocą obowiązującą. od dnia 1 sierpnia 1938 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: E. Kwiatkowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

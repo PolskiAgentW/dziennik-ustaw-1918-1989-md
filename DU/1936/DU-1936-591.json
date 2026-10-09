@@ -1,0 +1,70 @@
+{
+ "eli": "DU/1936/591",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 30 października 1936 r. o opłatach sądowych, notarialnych i pisarzy hipotecznych za czynności związane z konwersją i uporządkowaniem długów rolniczych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1936/591/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 30 października 1936 r. o opłatach sądowych, notarialnych i pisarzy hipotecznych za czynności związane z konwersją i uporządkowaniem długów rolniczych. Na podstawie art. 110 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o konwersji i uporządkowaniu dłuśów rolniczych (Dz. U. R. P. z 1936 r. Nr 5, poz. 59) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wypisy, odpisy, zaświadczenia, wyciągi i inne dokumenty, wydawane przez sądy dla dokonania konwersji lub uporządkowania dłuśów rolniczych w myśl przepisów rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. (Dz. U. R. P. z 1935 r. Nr 5, poz. 59), jak również wszelkie wnioski i wpisy hipoteczne, pozostające w związku",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr 84."
+    },
+    {
+     "type": "text",
+     "text": "z przeprowadzeniem takiej konwersji lub uporządkowaniem długów rolniczych—wolne są od opłat sądowych i hipotecznych (należności intabulacyjnych)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do połowy obniża się:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "opłaty pisarzy hipotecznych, przypadające za czynności wymienione w paragrafie poprzedzającym;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "wynagrodzenie notariuszów za sporządzenie aktów, pozostających w związku z czynnościami, wymienionymi w paragrafie poprzedzającym, o ile wynagrodzenie to w rozporządzeniu o wynagrodzeniu notariuszów ustalone jest w stawkach wynagrodzenia stosunkowego lub w stawkach określonych w § 14 tegoż rozporządzenia, a",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wypisy, odpisy, zaświadczenia, wyciągi i inne dokumenty, korzystające z ulg wymienionych w paragrafach poprzedzających, mogą być używane jedynie do celów, dla których zostały wydane. Cel ten winien być zaznaczony na wydanym dokumencie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia, Minister Sprawiedliwości: W. Grabowski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

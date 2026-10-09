@@ -1,0 +1,699 @@
+{
+ "eli": "DU/1933/352",
+ "title": "Obwieszczenie Ministrów Komunikacji i Skarbu z dnia 13 maja 1933 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowym Funduszu Drogowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/352/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRÓW KOMUNIKACJI I SKARBU z dnia 13 maja 1933 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Państwowym Funduszu Drogowym. Na podstawie art. 5 ustawy z dnia 29 marca 1933 r., zmieniającej ustawę z dnia 3 lutego 1931 r. o Państwowym Funduszu Drogowym (Dz. U. R. P. Nr. 29, poz. 254), ogłaszamy jednolity tekst tej ustawy w brzmieniu obowiązującem od 1 kwietnia 1933 r. z uwzględnieniem zmian, wynikających z art. 6 p. a) rozporządzenia Prezydenta Rzeczypospolitej z dnia 21 maja 1932 r. w sprawie zniesienia urzędu Ministra Robót Publicznych (Dz. U. R. P. Nr. 51, poz. 479) i ustawy z dnia 29 marca 1933 r. zmieniającej ustawę z dnia 3 lutego 1931 r. o Państwowym Funduszu Dro- $gowym. Minister Komunikacji: M. Butkiewicz Minister Skarbu: Wł, Zawadzki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministrów Komunikacji i Skarbu z dnia 13 maja 1933 r, (poz. 352).",
+   "body": [
+    {
+     "type": "text",
+     "text": "USTAWA z dnia 3 lutego 1931 r. o Państwowym Funduszu Drogowym."
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IL",
+     "text": "Państwowy Fundusz Drogowy. Art 1. Dla dostarczenia środków na budowę, utrzymanie i wzmocnienie dróg państwowych oraz udzielenia zapomóg na budowę, utrzymanie i wzmocnienie dróg samorządowych, tworzy się Państwowy Fundusz Drogowy, który jest osobą prawną."
+    },
+    {
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "Na pokrycie wydatków Państwowego Funduszu Drogowego służą następujące wpływy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/pkt_1",
+       "text": "z opłat od pojazdów mechanicznych oraz niektórych pojazdów konnych (art. 6, 7, 8 i 9);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/pkt_2",
+       "text": "z opodatkowania pędnych materjałów (art. 14 i 15);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_2/pkt_3",
+       "text": "z opłat od reklam, umieszczonych wzdłuż dróg publicznych, poza granicami miast (art. 16);",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_2/pkt_4",
+       "text": "z opłat, pobieranych na rzecz Skarbu Pańetwa na podstawie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_2/pkt_4/lit_a",
+         "text": "ustawy z dnia 10 grudnia 1920 r. o budowie i utrzymaniu dróg publicznych w Rzeczyspolitej Polskiej (Dz. U. R.P, z 1921 r. Nr. 6, poz, 32);",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_2/pkt_4/lit_b",
+         "text": "ustawy z dnia 7 października 1921 r. o przepisach porządkowych na drogach publicznych (Dz. U. R. P. Nr. 89, poz. 656);",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_2/pkt_4/lit_c",
+         "text": "ustawy z dnia 14 marca 1932 r. o zarobkowym przewozie osób i towarów pojazdami mechanicznemi (Dz. U. R. P. Nr. 32, poz. 336);",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_2/pkt_5",
+       "text": "z dotacji Skarbu Państwa w wysokości, określonej w budżecie państwowym na każdy okres budżetowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_2/pkt_6",
+       "text": "z grzywien za przekroczenia przepisów ustaw, wymienionych w p. 4 lit. b) i c) oraz ustawy niniejszej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_2/pkt_7",
+       "text": "z państwowych wytwórni materjałów drogowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_2/pkt_8",
+       "text": "ze sprzedaży państwowych materjałów drogowych, niepotrzebnych dla celów drogowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "(1) Państwowy Fundusz Drogowy ma prawo zaciągać pożyczki do łącznej wysokości 400.000.000 zł, względnie w równowartości w obcych walutach, z zabezpieczeniem na wpływach, określonych w art. 2 p. 1), 2) i 3).",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Szczegółowe warunki pożyczek Państwowego Funduszu Drogowego zatwierdza Minister Skarbu."
+      },
+      {
+       "type": "text",
+       "text": "(3) Minister Skarbu ma prawo udzielać gwarancji państwowej do łącznej wysokości 400.000.000 zł, względnie w równowartości w obcych walutach, za pożyczki, zaciągnięte przez Państwowy Fundusz Drogowy."
+      },
+      {
+       "type": "text",
+       "text": "Art. 4,"
+      },
+      {
+       "type": "text",
+       "text": "(1) Budżet Państwowego Funduszu Drogowego, sporządzony przez Ministra Komunikacji w porozumieniu z Ministrem Skarbu i innymi zainteresowanymi ministrami, stanowi załącznik każdorocznego budżetu Ministerstwa Komunikacji."
+      },
+      {
+       "type": "text",
+       "text": "(2) Wysokość dotacyj z Państwowego Funduszu Drogowego dla związków komunalnych ustala corocznie Minister Komunikacji w porozumieniu z Ministrem Spraw Wewnętrznych i Ministrem Skarbu."
+      },
+      {
+       "type": "text",
+       "text": "(3) Zarząd Państwowym Funduszem Drogowym sprawuje Minister Komunikacji."
+      },
+      {
+       "type": "text",
+       "text": "(4) Sprawozdanie rachunkowe Państwowego Funduszu Drogowego za każdy okres budżetowy będzie dołączane do właściwego zamknięcia rachunków państwowych,"
+      },
+      {
+       "type": "text",
+       "text": "Art. 5,"
+      },
+      {
+       "type": "text",
+       "text": "Minister Komunikacji ma prawo w porozumieniu z Ministrem Skarbu zwiększać wydatki, przewidziane w budżecie Państwowego Funduszu Drogo-"
+      },
+      {
+       "type": "text",
+       "text": "Nr, 45."
+      },
+      {
+       "type": "text",
+       "text": "wego, jak również ustala i nowe wydatki, w budżecie tym nieprzewidziane, o ile zmiany te nie spowodują powiększenia dotacji ze Skarbu Państwa na rzecz wymienionego Funduszu (art. 2 punkt 5)."
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IL",
+     "text": "Opłaty od pojazdów mechanicznych i od niektórych pojazdów konnych."
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "(1) Ustanawia się opłatę od pojazdów mechanicznych w następującej wysokości w stosunku rocznym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_6/pkt_1",
+       "text": "od pojazdów mechanicznych osobowych, z wyjątkiem wymienionych w p. 4) i 5), — 15 zł od każdych 100 kg wagi własnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_6/pkt_2",
+       "text": "od pojazdów mechanicznych ciężarowych i traktorów, z wyjątkiem wymienionych w p. 3, — 20 zł od każdych 100 kg wagi własnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_6/pkt_3",
+       "text": "od pojazdów ię tani curren ciężarowych i traktoréw, używanych do zarobkowego przewozu towarów, — 35 zł od każdych 100 kg wagi wiasnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_6/pkt_4",
+       "text": "od motocykla bez przyczepki — 40 zł od sztuki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_6/pkt_5",
+       "text": "od motocykla z przyczepką oraz od trzykołowych pojazdów mechanicznych (cyklonetek) — 60 zł od sztuki,",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Przyczepki do pojazdów mechanicznych podeście takim samym opłatom jak ciągnące je pojazdy."
+        },
+        {
+         "type": "text",
+         "text": "(3) Przy obliczaniu wagi pojazdów mechanicznych nie uwzględnia się ilości do 50 kg włącznie, a ilości ponad 50 kg liczy się za pełne 100 kg."
+        },
+        {
+         "type": "text",
+         "text": "(4) Od pojazdów mechanicznych i przyczepek na kołach z pełnemi obręczami gumowemi opłata podlega podwyżce o 25%, zaś od pojazdów mechanicznych i przyczepek na kołach z obręczami żelaznemi o 100%."
+        },
+        {
+         "type": "text",
+         "text": "(5) Od pojazdów mechanicznych, posiadających na różnych osiach różne rodzaje obręczy, pobiera się opłatę od rodzaju obręczy, podlegającego wyższej opłacie, ."
+        },
+        {
+         "type": "text",
+         "text": "_ (1) Ustanawia się opłaty od pojazdów mechanicznych i konnych, używanych do zarobkowego przewozu osób poza obszarami jednej gminy,"
+        },
+        {
+         "type": "text",
+         "text": "(2) Opłaty wynoszą w stosunku rocznym:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_6/pkt_1",
+       "text": "od pojazdów mechanicznych, z wyjątkiem określonych w p. 2:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_6/pkt_1/lit_a",
+         "text": "od każdego miejsca w pojeździe, przeznaczonego dla podróżnego, — 100 zł, a nadto",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_6/pkt_1/lit_b",
+         "text": "od każdego miejsca w pojeździe, przeznaczo- - nego dla podróżnego, za każdy kilometr dziennego przebiegu — 0, 40 zł; opłaty, wymienione pod lit. a) i b), nie mogą łącznie przekraczać 300 zł od jednego miejsca;",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_6/pkt_2",
+       "text": "od pojazdów mechanicznych, używanych doraźnie;",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_6/pkt_2/lit_a",
+         "text": "posiadających do 6 miejsc dla podróżnych— 100 zł od każdego z tych miejsc,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_6/pkt_2/lit_b",
+         "text": "posiadających więcej niż 6 miejsc dla podróżnych—200 zł od każdego z tych miejsc;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_6/pkt_3",
+       "text": "od pojazdów konnych, z wyjątkiem używanych doraźnie — 20 zł od każdego miejsca, przeznaczonego dla podróżnego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(3) Miejsca w przyczepkach do pojazdów mechanicznych, określonych rw ust. 1, podlegają takiej samej opłacie, jak miejsca w pojazdach."
+        },
+        {
+         "type": "text",
+         "text": "(4) Opłaty od pojazdów mechanicznych i przyczepek, określone w ust. 2 i 3, pobiera się niezależnie od opłaty, określonej w art. 6."
+        },
+        {
+         "type": "text",
+         "text": "(5) Opłat, określonych w ust. 2 p. 2, nie pobiera się, jeżeli pojazd jest wynajmowany w całości, a doraźnie."
+        },
+        {
+         "type": "text",
+         "text": "Art 8."
+        },
+        {
+         "type": "text",
+         "text": "(1) Ustanawia się opłatę od pojazdów konnych, używanych do zarobkowego przewozu towarów poza obszarami jednej gminy."
+        },
+        {
+         "type": "text",
+         "text": "(2) Opłata wynosi w stosunku rocznym — 9 zł od każdych 100 kg nośności."
+        },
+        {
+         "type": "text",
+         "text": "(3) Przy obliczaniu nośności pojazdów stosuje się odpowiednio przepis art. 6 ust. 3,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "Pojazdy, wprowadzone na czasowy pobyt z poza obszaru Rzeczypospolitej, o ile międzynarodowe umowy nie stanowią inaczej albo o ile z zastosowania zasady wzajemności co innego nie wynika, podlegają opłatom, określonym w art. 6, 7 18, z tą zmianą, że opłatę obliczać należy dziennie, najmniej jednak za okres pełnych trzech dni. Za podstawę obliczenia należy przyjmować wysokość opłaty rocznej. Minister Komunikacji w porozumieniu z Ministrem Skarbu ustala przeciętne stawki dzienne, odpowiadające powyższym opłatom, z dodatkiem na koszty poboru.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "Upoważnia się Radę Ministrów do zmieniania w drodze rozporządzeń opłat, wymienionych w art. 6, 718, na całym obszarze Państwa lub na poszczególnych jego częściach, tudzież do zniżania opłat oraz zwalniania od nich. Jednakże ' opłaty, określone w art. 6, nie mogą być podwyższone więcej niż o 50%, opłaty, określone w art. 7 ust. 2 p. 1i2 więcej niż do 300 zł od miejsca w pojeździe, zaś opłaty, określone w art. 8, więcej niż do 12 zł od 100 kg nośności.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "11",
+     "path": "art_11",
+     "text": "Od opłat, wymienionych w art. 6 wolne są pojazdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_11/pkt_1",
+       "text": "przeznaczone dla urzędowego użytku osób, którym według prawa międzynarodowego przysługuje prawo eksterytorjalności, oraz konsulów i wicekonsulów zawodowych i ich sekretarzy, będących obywatelami państw obcych — z zastrzeżeniem wzajemności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/pkt_2",
+       "text": "władz i urzędów państwowych (cywilnych i wojskowych) oraz władz i urzędów samorządu terytorjalnego; przedsiębiorstw państwowych „Polskie Ko- — 3 leje Państwowe” oraz „Polska Poczta, Teleśraf i Telefon’, z wyjątkiem pojazdów, używanych do zarobkowego przewożenia osób i bagaży; :",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_11/pkt_4",
+       "text": "pojazdy instytucyj i zakładów użyteczno- Ści publicznej, mianowicie: szpitali, zakładów dezynfekcyjnych, straży ogniowych, pogotowi ratunkowych, kas chorych, zakładów wodociągowych i kanalizacyjnych. oraz oczyszczania miasta, jako też instytucyj dobroczynnych, o ile są niezbędne dla działalności tych instytucyj, względnie zakładów, oraz pojazdy mechaniczne, stanowiące własność gminy i przeznaczone do zarobkowego przewozu osób i towarów we własnym zarządzie gminy i na jej obszarze; używane do objazdów służbowych własne — 5 pojazdy mechaniczne drogowego personelu technicznego, państwowego i samorządowego; traktory, przeznaczone dla celów rolni- 6)",
+       "children": [
+        {
+         "type": "text",
+         "text": "— czych, o ile nie są używane do przewozu ciężarów po drogach publicznych,"
+        },
+        {
+         "type": "text",
+         "text": "Art. 12,"
+        },
+        {
+         "type": "text",
+         "text": "(1) Do uiszczania opłat od pojazdów mechanicznych (art. 6 i 7) obowiązana jest osoba, na którą zarejestrowany jest pojazd. Obowiązek ten powstaje z chwilą dopuszczenia pojazdu do ruchu, przyczem okresy krótsze niż miesiąc liczy się za cały miesiąc, a ustaje po upływie miesiąca, w którym pojazd został wycofany z ruchu, W razie przerw w komunikacji wskutek siły wyższej władza, pobierająca opłatę, może przyznać stosowne potrącenia."
+        },
+        {
+         "type": "text",
+         "text": "(2) Do uiszczania opłaty od pojazdów mechanicznych, wprowadzonych na czasowy .pobyt z poza obszaru Rzeczypospolitej (art. 9), obowiązana jest osoba, wprowadzająca pojazd."
+        },
+        {
+         "type": "text",
+         "text": "(3) Do uiszczania opłaty od pojazdów konnych (art. 7 i 8) obowiązany jest właściciel pojazdu. Obowiązek uiszczania tej opłaty powstaje z chwilą potwierdzenia przez władzę przemysłową zgłoszenia o rozpoczęciu wykonywania przewozu, a ustaje po zaniechaniu wykonywania przewozu."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "13",
+     "path": "art_13",
+     "text": "Do stawek opłat od pojazdów nie mogą być ustanowione żadne dodatki zarówno na rzecz Państwa, jak i na rzecz związków samorządowych.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IIL",
+     "text": "Opodatkowanie materjałów pędnych."
+    },
+    {
+     "type": "art",
+     "num": "14",
+     "path": "art_14",
+     "text": "(1) Ustanawia się dodatek drogowy do państwowego podatku od olejów mineralnych. Dodatkowi podlegają oleje mineralne, które mogą być używane do napędu pojazdów mechanicznych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Dodatek wynosi 12 groszy od 1 kg."
+      },
+      {
+       "type": "text",
+       "text": "(3) Rada Ministrów określa w drodze rozporzą” dzeń, jakie oleje w rozumieniu ust. 1 podlegają dodatkowi, oraz władna jest obniżać wysokość tego dodatku, względnie zwalniać od tego dodatku."
+      },
+      {
+       "type": "text",
+       "text": "(4) Dodatek drogowy pobierają właściwe władze skarbowe łącznie z podatkiem od olejów mineralnych,"
+      },
+      {
+       "type": "text",
+       "text": "(5) Do dodatku drogowego stosuje się odpowiednio przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 7 marca 1928 r. o podatku od olejów mineralnych (Dz. U. R. P. Nr. 27, poz. 252), z wyjątkiem przepisów art. 1 — 3."
+      },
+      {
+       "type": "text",
+       "text": "(6) Zwolnione są od dodatku drogowego oleje mineralne:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_14/lit_a",
+       "text": "wywożone pod kontrolą skarbową z rafinerji lub wolnego składu zagranicę lub na obszar W. M. Gdańska;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_14/lit_b",
+       "text": "używane do napędu pojazdów mechanicznych, wprowadzonych na czasowy pobyt z poza obszaru Rzeczypospolitej, w ilościach zwolnionych od cła przywozowego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_14/lit_c",
+       "text": "używane do napędu silników statków powietrznych wojskowych i cywilnych; oleje mineralne dla cywilnych statków powietrznych wolne są od dodatku drogowego, jeżeli są nabywane na warunkach, które określają rozporządzenia Ministrów Komunikacji i Skarbu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "15",
+     "path": "art_15",
+     "text": "(1) Materjały, nieobjęte art. 14, które same lub w połączeniu z innemi mogą być używane do napędu pojazdów mechanicznych, podlegają opłacie w wysokości 12 gr od 1 kg.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Przepisy art. 14 ust. 3 i 6 stosuje się odpowiednio do opłaty, wymienionej w ust. 1."
+      },
+      {
+       "type": "text",
+       "text": "(3) Do uiszczania opłaty obowiązana jest osoba, wprowadzająca do wolnego obrotu materjały, podlegające opłacie. Obowiązek ten powstaje z chwilą wprowadzenia tych materjałów do wolnego obrotu. Przy sprowadzaniu takich materjałów z zagranicy do uiszczania opłaty obowiązana jest osoba, na której rachunek odbywa się odprawa celna, przy sprowadzaniu zaś takich materjałów z Wolnego Miasta Gdańska obowiązek zapłaty ciąży na osobie, dla której według dowodów przekazowych przesyłka jest przeznaczona."
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IV",
+     "text": "Opłata od reklam."
+    },
+    {
+     "type": "art",
+     "num": "16",
+     "path": "art_16",
+     "text": "Ustanawia się opłatę od reklam (znaków, szyldów, napisów), umieszczanych wzdłuż dróg publicznych na budynkach, słupach, kioskach i t. p. poza granicami miast, w wysokości do 25 zł rocznie za jeden metr kwadratowy powierzchni reklamy,",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "17",
+     "path": "art_17",
+     "text": "Od opłat zwolnione są reklamy przedsiębiorstw przemysłowych i handlowych, umieszczone na budynkach i ogrodzeniach tych budynków, w których znajdują się dane przedsiębiorstwa przemysłowe lub handlowe. :",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział V",
+     "text": "Wymiar, pobér i ściąganie opłat."
+    },
+    {
+     "type": "art",
+     "num": "18",
+     "path": "art_18",
+     "text": "(1) Przepisy o wymiarze, poborze i ściąganiu opłat, wymienionych w art. 6, 7, 8, 9, 15 i 16, o władzach państwowych i samorządowych, powołanych do tych czynności, o terminie płatności, o kredytowaniu, odraczaniu, przyznawaniu ulg, rozkładaniu na raty i odpisywaniu z powodu niemożności ściąśnięcia opłat, jak również przepisy o kontroli poboru opłat, oraz o premjach za wykrycie nadużyć wydadzą Ministrowie Komunikacji i Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych w drodze rozporządzeń,",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Nieuiszczone we właściwym terminie opłaty, wymienione w ust. 1, będą ściągane w trybie administracyjnym wraz z karami (odsetkami) za zwłokę i kosztami egzekucyjnemi. Koszty egzekucyjne oraz kary (odsetki) za zwłokę pobiera się według stopy, obowiązującej dla bezpośrednich podatków państwowych. Koszty egzekucyjne przypadają władzy, której or$an przeprowadził egzekucję."
+      },
+      {
+       "type": "text",
+       "text": "(3) Dowód rejestracyjny na pojazd traci ważność, jeżeli nie uiszczono należnej opłaty we właściwym terminie płatności,"
+      },
+      {
+       "type": "text",
+       "text": "(4) Prawo żądania zwrotu nienależnie pobranych opłat przedawnia się w ciągu roku, licząc od dnia uiszczenia. Prawo żądania opłat przedawnia się w ciągu 10 lat, licząc od dnia powstania obowiązku uiszczenia; przedawnienie przerywa każdy krok urzędowy, podjęty przez właściwą władzę w celu ściągnięcia opłaty."
+      },
+      {
+       "type": "text",
+       "text": "(5) Za czynności władz samorządowych przy wymiarze, poborze i ściąganiu opłat będzie przyznawane odszkodowanie w wysokości, nie przenoszącej 5% uiszczonych opłat oraz kar (odsetek) za zwłokę."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VI",
+     "text": "Postanowienia karne."
+    },
+    {
+     "type": "text",
+     "text": "Art. 19,"
+    },
+    {
+     "type": "text",
+     "text": "(1) Kto uchyla się od obowiązku płacenia opłat, określonych w art. 6, 7, 8, 9 i 16, podlega karze pieniężnej do wysokości 20-krotnej sumy opłaty, uszczuplonej lub na uszczuplenie narażonej."
+    },
+    {
+     "type": "text",
+     "text": "(2) Kto potajemnie (bez zawiadomienia władzy wymiarowej) lub bez dopełnienia przepisanych warunków wydaje lub wywozi z wytwórni materjały, podlegające opłacie, określonej w art. 15, podlega karze pieniężnej w wysokości 5-krotnej kwoty opłaty, uszczuplonej lub na uszczuplenie narażonej, jednak w wysokości nie mniejszej od sumy 100 zł, nadto zaś karze konfiskaty materjałów, wprowadzonych do wolnego obnotu bez uiszczenia opłaty. Jeśli konfiskaty nie można zarządzić z powodu znajdywania się materjałów tych w rękach osób trzecich, będących w dobrej wierze, wtedy zamiast konfiskaty orzeka się dodatkową karę pieniężną w wysokości wartości materjałów."
+    },
+    {
+     "type": "text",
+     "text": "(3) Kto prowadzi w wytwórni księgi i zapiski, przepisane dla kontroli opłaty, określonej w art. 15, niezgodne z rzeczywistością w celu ' uszczuplenia opłaty, podlega karze, określonej w ust. 2."
+    },
+    {
+     "type": "text",
+     "text": "(4) Kto dopuszcza się: naruszenia innych postanowień art. 15 lub przepisów, wydanych na podstawie tych postanowień, ulega karze pieniężnej od 10 do 300 złotych."
+    },
+    {
+     "type": "text",
+     "text": "(5) Władza orzekająca oznaczy w orzeczeniu, na wypadek niemożności ściąśnięcia kary pieniężnej, karę zastępczego aresztu według słusznego uznania, jednak nie ponad cztery tygodnie,"
+    },
+    {
+     "type": "text",
+     "text": "(6) Do orzekania powołane są powiatowe władze administracji ogólnej, jeżeli tymże władzom lub władzom samorządowym zostaną poruczone czynności wymiarowe, zaś władze skarbowe, jeżeli czynności te zostaną przekazane tymże władzom,"
+    },
+    {
+     "type": "text",
+     "text": "(7) W razie przekazania czynności wymiarowych władzom skarbowym do orzecznictwa karnego będą stosowane przepisy ustawy karnej skarbowej z dnia 18 marca 1932 r. (Dz. U. R. P. Nr. 34, poz. 355)."
+    },
+    {
+     "type": "text",
+     "text": "(8) Kto narusza przepisy w obrocie towarowym z zagranicą i Wolnem Miastem Gdańskiem w związku z przywozem, wywozem lub przewozem materjałów, podlegających opłacie, wymienionej w art. 15, ulega karom, ustanowionym za te naruszenia co do innych towarów (art. 45 i nast. oraz art, 133 — 135 ustawy karnej skarbowej z dnia 18 marca 1932 r. (Dz. U. R.P. Nr. 34, poz. 355). Do orzekania powołane są władze skarbowe przy zastosowaniu ustawy karnej skarbowej z dnia 18 marca 1932 r. (Dz. U. R. P. Nr. 34, poz. 355)."
+    },
+    {
+     "type": "art",
+     "num": "20",
+     "path": "art_20",
+     "text": "Naruszenia postanowień art. 14 oraz przepisów, wydanych na podstawie tych postanowień, podlegają karom, określonym w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 7 marca 1928 r. o podatku od olejów mineralnych (Dz. U. R. P. Nr. 27, poz. 252), przy zastosowaniu ustawy karnej skarbowej z dnia 18 marca 1932 r. (Dz. U. R. P. Nr. 34, poz. 355). Postanowienia art. 14 tejże ustawy mają tu analogiczne zastosowanie,",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VIL",
+     "text": "Postanowienia końcowe."
+    },
+    {
+     "type": "text",
+     "text": "Art. 21,"
+    },
+    {
+     "type": "text",
+     "text": "(1) Ustawa niniejsza wchodzi w życie z dniem Pona z mocą obowiązującą od 1 kwietnia 1931 r."
+    },
+    {
+     "type": "text",
+     "text": "(2) Od tego terminu znosi się:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "pobieranie od pojazdów mechanicznych i konnych, wymienionych w art. 6, 7 i 8 niniejszej ustawy, opłat mytniczych, przewidzianych w art. 24 ustawy z dnia 10 grudnia 1920 r. o budowie i utrzymaniu dróg publicznych w Rzeczypospolitej Polskiej (Dz. U. R. P. z 1921 r. Nr. 6, poz. 32) z tym wy” jątkiem, że zezwolone na zasadzie tegoż art. 24 wyjątkowe opłaty będą mogły być pobierane przez związki samorządowe do końca okresu, na jaki zezwolenie zostało wydane, oraz, ze od dnia 1 kwietnia 1931 r. będą mogły być pobierane opłaty mytnicze od tych pojazdów na takich większych mostach, które zostały zbudowane z funduszów, uzyskanych z pożyczek amortyzowanych z opłat mytniczych, pobieranych na tych mostach, a to do czasu zamortyzowania się tycn pożyczek; prawo pobierania od pojazdów mechanicz-",
+     "children": [
+      {
+       "type": "text",
+       "text": "— 2 nych i konnych, wymienionych w art. 6, 71 8, opłat za używanie dróg, na podstawie art. 27 ustawy z dnia 11 sierpnia 1923 r. o tymczasowem uregulowaniu finansów komunalnych (Dz. U. R. P, z 1932 r. Nr, 106, poz, 884); nie znosi się jednak prawa pobierania opłat na urządzenia drogowe, przeznaczone specjalnie do udogodnienia ruchu pojazdów mechanicznych, jak dworce autobusoweit p.; prawo pobierania od pojazdów mechanicz- 3"
+      },
+      {
+       "type": "text",
+       "text": "— nych i konnych, określonych w art. 6, 718 opłat, wymienionych w art. 19 ust. 2, 23 ust. 1 i 24 ust. 2 (opłaty kopytkowe) ustawy z dnia 10 grudnia 1920 r. o budowie i utrzymaniu dróg publicznych (Dz. U. R, P. z 1921 roku Nr. 6, poz. 32); pobieranie opłat za rejestrację pojazdów — 4 mechanicznych,"
+      },
+      {
+       "type": "text",
+       "text": "Art. 22,"
+      },
+      {
+       "type": "text",
+       "text": "(1) Przepisy, dotyczące opłat, określonych w art. 9, 14, 15 i 18 obowiązują również na obszarze województwa śląskiego."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(2) Pomiędzy Państwowym Funduszem Drogowym a wojewódzkim funduszem drogowym (Skarbem Śląskim) będzie dokonywany rozrachunek celem podziału wpływów, pochodzących ze źródeł do-' chodowych, wymienionych w ust. 1, a to według zasad następujących:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "udział wojewódzkiego funduszu drogowego (Skarbu Śląskiego) we wpływach od materjałów pędnych będzie określany według stosunku ogólnej wagi pojazdów mechanicznych, zarejestrowanych na obszarze województwa śląskiego, do ogólnej wagi pojazdów mechanicznych, zarejestrowanych na obszarze Państwa, udział zaś wojewódzkiego funduszu drogowego we wpływach, pochodzących z opłat od pojazdów mechanicznych, wprowadzonych na czasowy pobyt z poza obszaru Rzeczypospolitej, będzie określany według stosunku ilości przejazdowych punktów granicznych, upoważnionych do odprawy celnej pojazdów mechanicznych na śląskim odcinku granicznym, do ilości takich punktów granicznych całego Państwa;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "sumy, pobrane na obszarze województwa śląskiego ze źródeł, określonych w ust. 1, będą przelewane do wojewódzkiego funduszu drogowego jako zaliczka na poczet należności tego funduszu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_1/lit_c",
+       "text": "wysokość kwoty, należnej wojewódzkiemu funduszowi drogowemu, ustalają corocznie do końca miesiąca lipca za ubiegły okres budżetowy Ministrowie Komunikacji i Skar-",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nr. 45."
+        },
+        {
+         "type": "text",
+         "text": "pe po wysłuchaniu Śląskiej Rady Wojewódziej."
+        },
+        {
+         "type": "text",
+         "text": "Art, 23,"
+        },
+        {
+         "type": "text",
+         "text": "Upoważnia się Ministrów Komunikacji i Skarbu do umarzania nieściągalnych opłat, wymierzonych na podstawie ustawy z dnia 3 lutego 1931 r. o Państwowym Funduszu Drogowym (Dz. U. R. P. Nr, 16, poz. 81)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "24",
+     "path": "art_24",
+     "text": "(1) Pozostają w mocy przepisy rozporządzenia Prezydenta Rzeczypospolitej z dnia 21 października 1932 r. o premjowaniu pojazdów mechanicznych (Dz. U. R. P. Nr. 91, poz. 784).",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Rozporządzenie Ministrów Komunikacji i Spraw Wojskowych w porozumieniu z Ministrami Skarbu oraz Przemysłu i „Handlu określi wysokość sumy, jaka z wpływów Państwowego Funduszu Drogowego z opodatkowania materjałów pędnych, przeznaczona będzie na premjowanie pojazdów mechanicznych,"
+      },
+      {
+       "type": "text",
+       "text": "Art. 25,"
+      },
+      {
+       "type": "text",
+       "text": "Wykonanie ustawy niniejszej porucza się Ministrom Komunikacji i Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych i innymi interesowanymi ministrami"
+      },
+      {
+       "type": "text",
+       "text": "Warszawa. Drukarnia Państwowa, Tłoczono z polecenia Ministra Sprawiedliwości, —_—-—"
+      },
+      {
+       "type": "text",
+       "text": "64776 P Konto czekowe w P. K. O. Administracji Dziennika Ustaw Nr. 30130. Cena 40 gr."
+      },
+      {
+       "type": "text",
+       "text": "OD ADMINISTRACJI: Prenumerata Dz. U. R. P. wynosi 8 zł. kwartalnie. Urzędy i instytucje państwowe opłacają 6 zł. Prenumerata winna być opłacana najpóźniej na 2 tygodnie przed rozpoczęciem każdego kwartału. Reklamacje, z powodu nieotrzymania poszczególnych numerów Dz. U. R. P. należy wnosić do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

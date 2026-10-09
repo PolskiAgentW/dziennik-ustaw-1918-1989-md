@@ -1,0 +1,59 @@
+{
+ "eli": "DU/1930/326",
+ "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 26 marca 1930 r. o częściowej zmianie taryfy celnej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1930/326/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRÓW: SKARBU PRZEMYSŁU I HANDLU ORAZ ROLNICTWA z dnia 26 marca 1930 r. w sprawie częściowej zmiany taryiy celnej, Na podstawie art. 7 punkt i) ustawy z dnia 31 lipca 1924 r. w przedmiocie uregulowania stosunków celnych (Dz. U. R. P. 80, poz. 777) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Punkt 2 pozycji 202 taryfy celnej z dnia 26 czerwca 1924 r. (Dz. U. R. P. Nr. 54, poz. 540) otrzymuje brzmienie podane niżej, przyczem stawki celne rozumieją się w nowej jednostce pieniężnej (Dz. U. R.P. z r. 1928, Nr. 26, poz. 241):",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr. 37."
+    },
+    {
+     "type": "text",
+     "text": "Pozycja taryfy"
+    },
+    {
+     "type": "text",
+     "text": "Cło od 100 kg Nazwa towaru celnej zł 202p.2a) tkaniny wełniane, t. zw. sukna cylindrowe, za pozwoleniem Ministerstwa Skarbu 700,—"
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "tkaniny techniczne, t. zw. laping niegumowany, za pozwoleniem Ministerstwa Skarbu 600.—",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "wszelkie inne osobno niewymienione tkaniny techniczne, sprowadzane przez zakłady przemysłowe, za pozwoleniem Ministerstwa Skarbu 50.—",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie dziesiątego dnia po ogłoszeniu. Kierownik Ministerstwa Skarbu: Ignacy Matuszewski Minister Przemysłu i Handlu: E. Kwiatkowski Minister Rolnictwa: Leon J, Połczyński",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

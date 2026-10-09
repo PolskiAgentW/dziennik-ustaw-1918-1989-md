@@ -1,0 +1,47 @@
+{
+ "eli": "DU/1930/501",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 23 sierpnia 1930 r. w sprawie zmiany cen soli jadalnej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1930/501/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU z dnia 23 sierpnia 1930 r. w sprawie zmiany cen soli jadalnej, Na zasadzie § 4 i 22 rozporządzenia Prezydenta Rzeczypospolitej z dnia 30 grudnia 1924 r. o wprowadzeniu jednolitego monopolu sprzedaży soli na obszarze całej Rzeczypospolitej Polskiej (Dz. U. R. P. Nr. 117, poz. 1043) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Detaliczne ceny sprzedażne soli jadalnej ustala się na:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "36 zł za 100 kg. soli warzonki i białej soli kamiennej wraz z opakowaniem;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "26 zł za 100 kg. szarej soli kamiennej wraz z opakowaniem, Do powyższych cen soli sprzedawanej w ozdobnych opakowaniach kartonowych po 1 kg. wględnie po % kg, będzie się doliczać na koszty opakowania 10 zł na 100 kg. przy opakowaniu po 1 kg. oraz 15 zł na 100 kg, przy opakowaniu po % kg. soli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Niniejsze rozporządzenie wchodzi w życie z dniem 16 września 1930 r. Równocześnie traci moc obowiązującą rozporządzenie Ministra Skarbu z dnia 21 września 1929 r. (Dz. U, R. P. Nr, 67, poz. 520). Kierownik Ministerstwa Skarbu: Ignacy Matuszewski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

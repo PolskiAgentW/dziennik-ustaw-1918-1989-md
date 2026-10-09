@@ -1,0 +1,1325 @@
+{
+ "eli": "DU/1936/593",
+ "title": "Dekret Prezydenta Rzeczypospolitej z dnia 4 listopada 1936 r. o zmianie przepisów o państwowym podatku gruntowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1936/593/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET PREZYDENTA RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 listopada 1936 r."
+  },
+  {
+   "type": "text",
+   "text": "© zmianie przepisów o państwowym podatku gruntowym,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 55 ust. (1) ustawy konstytucyjnej i art. 1 pkt a) ustawy z dnia 2 lipca 1936 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania dekretów (Dz. U. R. P. Nr 51, poz. 363) postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Państwowemu podatkowi gruntowemu podlegają wszelkie grunty z wyjątkiem wymienionych w art. 2.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Od państwowego podatku gruntowego wolne są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "grunty podlegające państwowemu podatkowi cd nieruchomości;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "grunty należące do wyznań przez Państwo uznanych, z których dochody przeznaczone są stale i wyłącznie na cele kultu religijnego i nie przyczyniają się do osobistych dochodów duchowieństwa lub innych osób;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "grunty pod cmentarzami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_2/pkt_4",
+     "text": "grunty pod torami kolejowymi oraz pod publicznymi: drogami, placami i parkami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_2/pkt_5",
+     "text": "grunty użytkowane przez publiczne szkoły powszechne oraz grunty użytkowane wyłącznie w celach naukowych lub doświadczalnych przez szkoły rolnicze i instytucje naukowe lub przez należące do instytucji publicznoprawnych zakłady doświadczalne;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_2/pkt_6",
+     "text": "grunty i lasy państwowe pozostające w zarządzie wojska, użytkowane w celach wojskowych, a nie w celach osiągania dochodu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_2/pkt_7",
+     "text": "nieużytki, do których zalicza się lotne piaski, bagna, mokradła, rojsty, strome stoki i parowy, nie nadające się do użytkowania jako grunty orne, leśne, łąki lub pastwiska, skały, szutrowiska, okopy, doły po żwirze, torfie, glinie, piasku itp. oraz grunty pod wodami otwartymi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_2/pkt_8",
+     "text": "grunty osad objętych postępowaniem scaleniowym lub powstałych w wyniku, scalenia—na przeciąg lat 3, licząc od półrocza, nastepuiacego po wyborze lub wyznaczeniu rady uczestników scalenia; grunty te podlegają jednak obowiązkowi opłacania dodatków do tego podatku na rzecz związków samorządu terytorialnego; zwolnienia nie stosuje się do gruntów, których scalenie zostało zaniechane;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_2/pkt_9",
+     "text": "grunty, które były zwolnione od państwowego podatku gruntowego jako nieużytki, a na których założono sztuczne gospodarstwo rybne lub dokonano innych inwestycji, umożliwiających ich eksploatację — na przeciąg lat 5, licząc od roku następnego po przeprowadzeniu inwestycyj;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_2/pkt_10",
+     "text": "całkowicie lub częściowo w zależności od stopnia zmniejszenia się wartości użytkowej lasów ochronnych na skutek zarządzonych ograniczeń w użytkowaniu — grunty pod lasami, uznanymi za ochronne dlatego, że:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/pkt_10/lit_a",
+       "text": "zabezpieczają grunty przed zmywaniem 1 wyjałowieniem, powstrzymują usuwanie się ziemi lub kamienia, przeszkadzają tworzeniu się dzikich potoków, obrywaniu się skał i spadkowi lawin,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/pkt_10/lit_b",
+       "text": "chronią brzegi wód przed obrywaniem się, a źródła przed zasypaniem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_2/pkt_10/lit_c",
+       "text": "przeszkadzają powstawaniu albo rozszerzaniu się piasków lotnych lub parowów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_2/pkt_10/lit_d",
+       "text": "mają specjalne znaczenie dla obrony Państwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_2/pkt_10/lit_e",
+       "text": "mają znaczenie przyrodniczo - naukowe;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_2/pkt_11",
+     "text": "grunty zalesione a nie będące poprzednio gruntami leśnymi:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/pkt_11/lit_a",
+       "text": "uznane przez właściwą władzę za więcej nadające się do uprawy leśnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/pkt_11/lit_b",
+       "text": "na których zalesienie właściwa władza udzieliła zezwolenia — na przeciąg lat 30, licząc od roku następnego po dokonaniu sztucznego zalesienia; . \"_ 12) nieużytki, zalesione na podstawie przepisów o zalesianiu niektórych nieużytków, a także",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nr 85,"
+        },
+        {
+         "type": "text",
+         "text": "nieużytki dobrowolnie zalesione w sposób sztuczny — na przeciąg lat 50, licząc od roku następujące-. go po dokonaniu zalesienia."
+        },
+        {
+         "type": "text",
+         "text": "Art, 3, (1) Na obszarze województw: kieleckie- $o, lubelskiego, łódzkiego i warszawskiego, m. st. Warszawy oraz powiatów: augustowskiego, łomżyńskiego, ostrowskiego, ostrołęckiego, suwalskiego, szczuczyńskiego i wysoko-mazowieckiego w województwie białostockim — znosi się pobór dodatkowego podatku gruntowego dworskiego i włościańskiego, przewidzianego w Dziale IV rosyjskiej ustawy o podatkach bezpośrednich (Zbiór Praw ces. ros tom V)."
+        },
+        {
+         "type": "text",
+         "text": "(2) Wysokość stawek państwowego podatku gruntowego dworskiego i włościańskiego na obszarze, wymienionym w ust. (1), określa taryfa, załączona do artykułu niniejszego. Taryfa ta dzieli się na taryfę dla gruntów dworskich i taryfę dla śruntów włościańskich; według stawek taryfy dla gruntów dworskich opodatkowuje się wszy~- stkie grunty z wyjątkiem gruntów, nadanych mieszkańcom wsi i osad przy uwłaszczeniu włościan, które to grunty podlegają opodatkowaniu według stawek, wskazanych dla gruntów włościańskich. Grunty zaliczone do III klasy gruntów, podlegających taryfie dla śruntów dworskich, opłacają państwowy podatek gruntowy według stawek, przewidzianych dla gruntów IV klasy tejże taryfy."
+        },
+        {
+         "type": "text",
+         "text": "(3) Grunty na obszarze miast, wydzielonych z powiatowych związków samorządowych, podlegają państwowemu podatkowi gruntowemu według taryfy dla gruntów dworskich tego powiatu, z którego zostały wydzielone; grunty na obszarze m. st. Warszawy opodatkowuje się według taryfy dla gruntów dworskich w powiecie warszawskim,"
+        },
+        {
+         "type": "text",
+         "text": "Art. 4, Na obszarze województw: wileńskiego, nowogródzkiego, poleskiego i wołyńskiego oraz powiatów: białostockiego, bielskiego, sokólskiego, wołkowyskiego i grodzieńskiego w województwie białostockim — przypadającą na poszczególne powiaty ogólną sumę państwowego podatku gruntowe-~ go określa się przez pomnożenie przeciętnych sta wek, wymienionych w taryfie załączonej do artykułu niniejszego, przez ilość gruntów odpowiedniej ka« tegorii. Obliczoną w ten sposób sumę rozkłada się na poszczególne jednostki podatkowe."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Na obszarze województw: poznańskie go i pomorskiego oraz górnośląskiej części. województwa śląskiego — państwowy podatek gruntowy oblicza się w złotych przez przemnożenie kwoty po~ datku katastralnego, uwidocznionego w katastrze śruntowym, przez 3,5. .",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Na obszarze województw: krakowskiego, lwowskiego, stanisławowskiego i tarnopolskiego oraz powiatów: bielskiego i cieszyńskiego w województwie śląskim — państwowy podatek gruntowy pobiera się w wysokości 40% czystego dochodu katastralnego, uwidocznionego w katastrze podatku gruntowego, a wyrażonego w złotych,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "(1) Od płatników, opłacających od swych śruntów, położonych w granicach jednego powiatu; tytułem państwowego podatku gruntowego więcej niż 110 zł rocznie, pobiera się nadto oddzielny dodatek, Dodatek ten wynosi od płatników, opłacających rocznie państwowy podatek gruntowy od gruntów położonych w granicach jednego powiatu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "od 110 zł do 200 zł — 10% tego podatku \" 200 \"m m 550 TT 20% \" \"m \" 550 LLU 1.250 oo 30% \" \" „ 1.250, „ 2.650, — 40% ,, i \" 2.650 moo 4,400 m 50% \" \" » 4400, „ 6150, — 60% ,, iu \"m 6.150 \" \"m 8.800 m 80% \" \" powyżej 8.800 , — 100% _,, ji"
+    },
+    {
+     "type": "text",
+     "text": "(2) Jeżeli posiadtosé ziemska, stanowiaca jednostkę podatkową, należy do kilku współwłaścicieli, z których każdy ma część faktycznie wydzieloną i samoistnie gospodarowana, wówczas dodatek, przewidziany w ust. (1), oblicza się dla każdego współwłaściciela oddzielnie."
+    },
+    {
+     "type": "text",
+     "text": "Art. 8, (1) Od płatników, którzy od swych gruntów, położonych w granicach jednej gminy, opłacają focznie:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_7/pkt_1",
+     "text": "nie więcej niż 10 zł państwowego podatku gruntowego — pobiera się tylko 50% tego podatku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_7/pkt_2",
+     "text": "powyżej 10 zł do 35 zł państwowego podatku gruntowego — pobiera się tylko 80% tego podatku. Ulgi te przyznaje się przy poborze pierwszej raty.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Przepis ust. (1) nie dotyczy tych płatników, których grunty znajdują się w promieniu 10 km od miast, liczących ponad 100.000 mieszkańców."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Rokiem podatkowym jest rok kalenda-",
+   "children": [
+    {
+     "type": "text",
+     "text": "rzowy."
+    },
+    {
+     "type": "text",
+     "text": "Art, 10. Państwowy podatek śruntowy płatny jest w dwóch równych ratach: do dnia 30 kwietnia i do dnia 15 listopada."
+    },
+    {
+     "type": "text",
+     "text": "Art. 11, Miarą powierzchni dla wymiaru podatku gruntowego jest hektar. Od gruntów, których powierzchnia nie przekracza 1 hektara, pobiera się część stawki odpowiednio do ilości arów."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "(1) Obowiązek podatkowy powstaje od pierwszego dnia półrocza, następującego bezpośrednio po zajściu okoliczności faktycznych, uzasadniających wymiar państwowego podatku gruntowego. W tym samym terminie powstaje obowiązek podatkowy dla nabywcy gruntów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Obowiązek podatkowy wygasa z końcem półrocza, w którym zaszły okoliczności faktyczne, uzasadniające zwolnienie od podatku. W tym samym terminie wygasa obowiązek podatkowy zbywcy gruntów."
+    },
+    {
+     "type": "text",
+     "text": "Art, 13. Na obszarze, określonym w art. 3 i 4, w razie przeniesienia pewnej miejscowości z jedne-"
+    },
+    {
+     "type": "text",
+     "text": "1399"
+    },
+    {
+     "type": "text",
+     "text": "go powiatu do drugieśo, wymiar państwowego podatku gruntowego uskutecznia się z gruntów tej miejscowości według taryfy powiatu, do którego miejscowość została przyłączona, poczynając od na* stępnego roku podatkowego."
+    },
+    {
+     "type": "text",
+     "text": "Art, 14, Artykuł 14 ustawy z dnia 15 czerwca 1923 r. w przedmiocie wyrównania podatków gruntowych tudzież niektórych podatków budynkowych (Dz. U. R. P. Nr 65, poz. 505) otrzymuje brzmienie następujące:"
+    },
+    {
+     "type": "text",
+     "text": "„Art, 14, (1) Dodatki do państwowego podatku - gruntowego na rzecz związków samorządowych nie mogą dla poszczególnej jednostki podatkowej prze: wyżsżać w łącznej sumie 50% ogólnej kwoty państwowego podatku gruntowego wraz z oddzielnym dodatkiem, przewidzianym w art. 7 dekretu Prezydenta Rzeczypospolitej z dnia 4 listopada 1936 r. o zmianie przepisów o państwowym podatku gruntowym (Dz. U. R. P. Nr 85, poz. 593).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(2) W wyjątkowych, zasługujących na uwzględnienie przypadkach, może Minister Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu pozwolić na podwyższenie tej normy do 75%, ale tylko w stosunku do tej części państwowego podatku gruntowego, która nie obejmuje oddzielnego dodatku, przewidzianego w art. 7 dekretu, powołanego w ust. (1). .",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(3) Z dodatków samorządowych do państwowego podatku gruntowego otrzymują izbv rolnicze udział w wysokości 3% państwowego podatku gruntowego wraz z oddzielnym dodatkiem, przewidzianym w art. 7 dekretu, powołanego w ust. (1). Przepis ten nie dotyczy izb rolniczych na obszarze województw poznańskiego, pomorskiego i śląskiego. .",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 15. W art. 50 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o izbach rolniczych (Dz. U. R. P. z 1933 r. Nr 2, poz. 16) punkty a) i b) otrzymują brzmienie następujące: „a) z 3% udziału w ogólnej kwocie państwowego podatku gruntowego, pobranego w ates izby z uwzględnieniem oddzielnego dodatku i ulg, przewidzianych w art. 7 i 8 dekretu Prezydenta Rzeczypospolitej z dnia 4 listopada 1936 r. o zmianie przepisów o państwowym podatku gruntowym (Dz. U. R. P. Nr 85, poz. 593). _ b) z udziału w dodatkach samorządowych do państwowego podatku gruntowego w wysokości 3% tego podatku wraz z oddzielnym dodatkiem, przewidzianym w art. 7 dekretu, powołanego w pkt a).”.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 16. Artykuł 5 ustawy z dnia 20 marca 1931 r. o samoistnym podatku wyrównawczym dla $min wiejskich (Dz. U. R. P. Nr 27, poz. 172) otrzymuje brzmienie następujące: „Art. 5. Ogólna suma podatku wyrównawczego podlega w każdej śminie podziałowi pomiędzy poszczególnych płatników tego podatku w stosunku do przypadających na każdego z nich podatków, które w myśl art, 1 stanowią podstawę wymiaru podatku wyrównawczego, przy czym za podstawę wy-",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "miaru tegoż podatku przyjmuje się: w stosunku do płatników państwowego podatku gruntowego — podatek przypadający wedłuś przepisów dekretu Prezydenta Rzeczypospolitej z dnia 4 listopada 1936 r. o zmianie przepisów o państwowym podatku gruntowym (Dz. U. R. P. Nr 85, poz. 593), jednak bez oddzielnego dodatku i ulg, przewidzianych w art. 718 tegoż dekretu; w stosunku do płatników państwowego podatku przemysłowego — ceny świadectw przemysłowych i: kart rejestracyjnych, w stosunku do płatników podatku od nieruchomości — podatek od nieruchomości.”.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 177, W art. 3 ustawy z dnia 26 marca 1935 r. o świadczeniach w naturze na niektóre cele publiczne (Dz. U. R. P. Nr 27, poz. 204) ustęp (1) otrzymuje brzmienie następujące: _ w(t) Obowiązek świadczeń w naturze obciąża osoby fizyczne i prawne w gminach wiejskich i miastach nie wydzielonych z powiatowych związków samorządowych, które opłacają podatek gruntowy, podatek od nieruchomości i podatek przemysłowy — w stosunku do sumy tych podatków, obciążających poszczególnego płatnika, przy czym za podstawę wymiaru świadczeń przyjmuje się dla płatników podatku gruntowego — państwowy podatek gruntowy, przypadający według przepisów dekretu Prezydenta Rzeczypospolitej z dnia 4 listopada 1936 r. o zmianie przepisów o państwowym podatku gruntowym (Dz. U. R. P. Nr 85, poz. 593), jednak bez oddzielnego dodatku i ulg, przewidzianych w art. 7 i 8 tegoż dekretu, dla płatników podatku od nieruchomości — podatek od nieruchomości, a dla płatników podatku przemysłowego — ceny świadectw przemysłowych i kart rejestracyjnych.”."
+    },
+    {
+     "type": "text",
+     "text": "Art. 18, W art. 3 dekretu Prezydenta Rzeczypospolitej z dnia 3 grudnia 1935 r. o obniżeniu. obciążenia daninami komunalnymi i o innych zmianach w finansach komunalnych (Dz. U. R. P. Nr 88, poz."
+    },
+    {
+     "type": "pkt",
+     "num": "544",
+     "path": "art_12/pkt_544",
+     "text": "uchyla się przepis ustępu (1).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 19, Wykonanie dekretu niniejszego porucza się Ministrowi Skarbu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "(1) Dekret niniejszy wchodzi w życie z dniem 1 stycznia 1937 r, z wyjątkiem przepisu",
+   "children": [
+    {
+     "type": "text",
+     "text": "—"
+    },
+    {
+     "type": "text",
+     "text": "art. 2 pkt 10), który wchodzi w życie z dniem 1 stycznia 1938 r."
+    },
+    {
+     "type": "text",
+     "text": "(2) Z dniem wejścia w życie przepisów dekretu niniejszego uchyla się wszelkie przywileje i zwolnienia w państwowym podatku gruntowym oraz wszystkie przepisy sprzeczne z dekretem niniejszym, w szczególności zawarte: :"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_20/pkt_1",
+     "text": "w rosyjskiej ustawie o podatkach bezpośrednich (Zbiór Praw ces. ros. tom V),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_20/pkt_2",
+     "text": "w austriackiej ustawie z dnia 24 maja 1869 r. o podatku gruntowym (Dz. u. p. austr. Nr 88),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_20/pkt_3",
+     "text": "w pruskiej ustawie z dnia 21 maja 1861 r. o podatku gruntowym (Zb. ust. prusk. str. 253), w pruskiej ustawie z dnia 14 lipca 1893 r. o uchyleniu podatków bezpośrednich (Zb. ust. prusk. str. 119) i w pruskiej ustawie z dnia 14 lipca 1893 r. o daninach komunalnych (Zb. ust. prusk. str. 152),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_20/pkt_4",
+     "text": "w węgierskiej ustawie z dnia 18 marca 1909 r. o podatku śruntowym (Zb. Pr. państw. z dnia 1 kwietnia 1909 r.),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_20/pkt_5",
+     "text": "w ustawie z dnia 17 czerwca 1921 r. o poborze na rzecz Skarbu Państwa dodatku do podatków: gruntowego, podymnego, domowo - klasowego i budynkowego oraz unormowaniu poboru podatku gruntowego na obszarze województw: nowogrédzkiego, poleskiego i wołyńskiego jako też powiatów: białostockiego, bielskiego, sokólskiego, wołkowyskiego, białowieskieśo i grodzieńskiego województwa białostockiego (Dz. U. R. P. Nr 59, poz. 372),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_20/pkt_6",
+     "text": "w ustawie z dnia 15 czerwca 1923 r. w przedmiocie wyrównania podatków gruntowych tudzież niektórych podatków budynkowych (Dz. U. R. P, Nr 65, poz. 505), .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_20/pkt_7",
+     "text": "w rozporządzeniu Prezydenta Rzeczypospo- ° litej z dnia 12 kwietnia 1924 r. o podwyższeniu państwowych podatków gruntowych (Dz. U. R. P. Nr 33, poz. 339).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej: I, Mościcki"
+  },
+  {
+   "type": "text",
+   "text": "Prezes Rady Ministrów: Sławoj Składkowski"
+  },
+  {
+   "type": "text",
+   "text": "Minister Skarbu: E, Kwiatkowski —"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do art. 3 dekretu Prezydenta Rzeczypospolitej z dnia 4 listopada 1936 r. (poz. 593)."
+  },
+  {
+   "type": "text",
+   "text": "Taryfa państwowego podatku gruntowego (w złotych) z 1 ha"
+  },
+  {
+   "type": "text",
+   "text": "Województwa dw o"
+  },
+  {
+   "type": "text",
+   "text": "i powiaty k"
+  },
+  {
+   "type": "text",
+   "text": "I I"
+  },
+  {
+   "type": "text",
+   "text": "warszawskie"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "błoński . + + « + eee 10,46 4,57",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "ciechanowski . + » » » 5,83 2,57",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "gostyniński . « « « + » » 8,97 3,94 4, grójecki. -. + « + + s » » 10,46 4,57",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "kutnowski. . « + + + » » 8,74 3,83",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "lipnowski. + « + « + + » 8,52 3,72 Tlowickk= «s swa sw” 10,23 4,46",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "makowski .... + + » 6,34 2,74",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "mińsko-mazowiecki . + « 7,03 3,09",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "mławski . « « «+ «+». 5,09 2,23",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "nieszawski + + » « + + » 8,74 3,83",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "12",
+   "path": "ust_12",
+   "text": "płocki + w w w wę w» 7,54 3,32 13, płóŚski. « » t « « s 4 » 7,32 3,20",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "14",
+   "path": "ust_14",
+   "text": "przasnyski . + -« + + + » 5,60 2,46",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "15",
+   "path": "ust_15",
+   "text": "pułtuski ews ws 6,57 2,86",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "16",
+   "path": "ust_16",
+   "text": "radzymiński . . « + » . 6,57 2,86",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "rawsko-mazowiecki .... 7,77 3,43",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "rypiński . « « + + + + » 8,29 3,60",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "19",
+   "path": "ust_19",
+   "text": "sierpecki Ż 6 64064 5,37 2,34",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "20",
+   "path": "ust_20",
+   "text": "skierniewicki . +» + « » » 7,54 3,32",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "21",
+   "path": "ust_21",
+   "text": "sochaczewski . «s+ e+e » 10,23 4,46",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "22",
+   "path": "ust_22",
+   "text": "warszawski » + » + » » „, 10,23 4,46",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "23",
+   "path": "ust_23",
+   "text": "włocławski «+ « « 6 eos 9,26 4,06",
+   "children": [
+    {
+     "type": "text",
+     "text": "łódzkie"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "brzeziński « « « + + » + 8,29 3,60 2.-KAIISKI + « w: 6 w 6 aw 5 8,97 3,94",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "kolski oS: 4d & 8S 9,26 4,06",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "koniński + + + + + + es 8,52 3,72",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "łaski « © @ es 6 Gi KR 6,06 2,69",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "łęczycki. + « + + «+ » » 9,49 4,17",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "łódzki . « + + + + ew es 7,54 3,32",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "piotrkowski - » + + + » » 7,32 3,20",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "radomszczański + + » + » 7,54 3,32 IO..SIEFAdZKEI « « * ww Gos © 7,54 3,32",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "turecki . + + » + « + » + 8,52 3,72",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "12",
+   "path": "ust_12",
+   "text": "wieluński + + + + + ees 7,03 3,09 r s ka. włościańska",
+   "children": [
+    {
+     "type": "text",
+     "text": "] a s y"
+    },
+    {
+     "type": "text",
+     "text": "Hl IV V I II Ill IV"
+    },
+    {
+     "type": "text",
+     "text": "— 5,89 1,31 10,34 4,57 5,77 1,32 — 3,26 0,74 6,06 2,69 3,43 0,74 — 5,09 1,14 9,14 3,94 5,14 1,14 — 5,89 1,31 10,34 4,57 5,77 1,32 — 4,92 1,09 8,52 3,72 4,80 1,09 — 4,80 1,09 8,52 3,72 4,80 1,09 — 5,77 1,26 10,34 4,57 5,77 1,32 — 3,54 0,80 6,06 2,69 3,43 0,74 — 3,94 0,86 7,32 3,20 4,12 0,92 — 2,86 0,63 4,86 2,12 2,74 0,63 — 4,92 1,09 8,52 3,72 4,80 1,09 — 4,23 0,91 7,32 3,20 4,12 0,92 — 4,12 0,91 7,32 3,20 4,12 0,92 — 3,14 0,69 5,49 2,46 3,03 0,69 — 3,72 0,80 6,69 2,92 3,77 0,86 — 3,72 0,80 6,69 2,92 3,77 0,86 — 4,40 0,97 7,89 3,49 4,40 0,97 — 4,63 1,03 8,52 3,72 4,80 1,09 — 3,03 0,69 5,49 2,46 3,03 0,69 — 4,23 0,91 7,32 3,20 4,12 0,92 — 5,77 1,26 10,34 4,57 5,77 1,32 — 56 1,26 10,34 4,57 5,77 1,32 — 5,20 1,14 9,14 3,94 5,14 1,14"
+    },
+    {
+     "type": "text",
+     "text": "— 4,63 1,03 8,52 3,72 4,80 1,09 — 5,09 . 1,14 9,14 3,94 5,14 1,14 — 5,20 1,14 9,14 3,94 5,14 1,14 — 4,80 1,09 8,52 3,72 4,80 1,09 — 3,43 0,74 6,06 2,69 3,43 0,74 — 5,32 1,20 9,72 4,29 5,49 1,20 — 4,23 0,91 7,32 3,20 4,12 0,92 — 4,12 0,91 7,32 3,20 4,12 0,92 — 4,23 0,91 7,32 3,20 4,12 0,92 — 4,23 0,91 1,32 3,20 4,12 0,92 — 4,80 1,09 8,52 3,72 4,80 1,09 — 3,94 0,86 7,32 3,20 4,12 0,92"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Taryfa państwowego podatku gruntowego (w złotych) z 1 ha"
+    },
+    {
+     "type": "text",
+     "text": ". Województwa dw o r"
+    },
+    {
+     "type": "text",
+     "text": "i powiaty k s k a włościańska"
+    },
+    {
+     "type": "text",
+     "text": "l a s y rj a} mi[wiv |i"
+    },
+    {
+     "type": "text",
+     "text": "kieleckie"
+    },
+    {
+     "type": "text",
+     "text": "5,83 2,57 1 UIITTETTTEETIETI +... * © + + 2 % + + e +"
+    },
+    {
+     "type": "text",
+     "text": "+ + + 4 + + © > + + + * + + + + *"
+    },
+    {
+     "type": "text",
+     "text": "+ + 2 + 2 + © © © + * * + + + + +"
+    },
+    {
+     "type": "text",
+     "text": "+ +. © © © & 2 © © + + + 4 + + e + +. + + +» + © © + + + + + e + + +"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "częstochowski 6,57 2,86 6,06 2,69",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "iłżecki . 4 ; 7,32 3,20",
+   "children": [
+    {
+     "type": "text",
+     "text": "4, jędrzejowski 6,06 2,69"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "kielecki . . 6,06 2,69",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "konecki . . 5,83 2,57",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "kozienicki , 7,32 3,20",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "miechowski . 5,83 2,57",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "olkuski . . . 7,54 3,32",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "cpatowski 6,34 2,74",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "opoczyński Gul 3,43",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "12",
+   "path": "ust_12",
+   "text": "pińczowski 6,80 2,97 13, radomski . + + + e e 7,54 3,32",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "14",
+   "path": "ust_14",
+   "text": "sandomierski 6,57 2,86",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "15",
+   "path": "ust_15",
+   "text": "stopnicki . . . 6,57 2,86",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "16",
+   "path": "ust_16",
+   "text": "włoszczowski . 5,83 2,57",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "17",
+   "path": "ust_17",
+   "text": "zawierciański * » . lubelskie",
+   "children": [
+    {
+     "type": "text",
+     "text": ". bialski . . . 5,09 2,23 1 PTT E ETP ETP Pb debt +. + + + © + 2 + + + t e e + + + +"
+    },
+    {
+     "type": "text",
+     "text": "+ +»"
+    },
+    {
+     "type": "text",
+     "text": "+... + + * + e * 5,37 2,34"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "biłgorajski . ż 5,60 2,46",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "chełmski . . . * * + + + + + e * n 6,57 2,86",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "garwoliński . , . 5,83 2,57",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "hrubieszowski . 5,09 2,23",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "janowski . . + + + + + * + * + * * + + 5,09 2,23",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "krasnostawski . 5,37 2,34",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "lubartowski 6,57 2,86",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "lubelski . . + . + + © © © + * + 5,09 2,23",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "łukowski . . 6,34 2,74",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "puławski . .",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "12",
+   "path": "ust_12",
+   "text": "radzyński . . 4,40 =",
+   "children": [
+    {
+     "type": "text",
+     "text": "©"
+    },
+    {
+     "type": "text",
+     "text": "= „| 557 :"
+    },
+    {
+     "type": "text",
+     "text": "13. siedlecki . .",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "14. sokołowski . 6,34 2,74 z",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "15. tomaszowski. ź 5,37 2,34",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "16. węgrowski . 4 SĘ 6,34 2,74",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "17. włodawski . SPE” 4,40 1,94",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "18",
+   "path": "ust_18",
+   "text": "zamojski . . nk — SZ. 2,34",
+   "children": [
+    {
+     "type": "text",
+     "text": "białostockie"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "augustowski . « « « « . 560| 246| —",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "łomżyński » + + « « » » 6,57 2,86 —",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "ostrołęcki « . « « + + » » 4,63 2,00' — 4, ostrowski «. « « » + « » - 4,63 2,00 — 5, suwalski . - + + + + + Ń 5,37 2,34 z",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "szcziczyński « & « 4 @ % 7,03 3,09 |: —",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "wysoko-mazowiecki. . + . 5,09 2,23 —",
+   "children": [
+    {
+     "type": "text",
+     "text": "3,26 0,74| 6,06 2,69 3,43] 0,74 3,72 0,80] 6,69 2,92 3,77| 0,86 3,43 0,74| 6,06 2,69| 3,43| 0,74 412 0,91] 7,32! 3,20| 4,12! 0,92 3,43 0,74] 6,06| 2,69 0,74 + w R 3,43 0,74] 6,06| 2,69| 3,43| 0,741 3,26 0,74] 6,06! 2,69 3,43] 0,74 4,12} 0,91] 7,32| 3,20] 4,12} 0,92 3,26| 0,74] 6,06] 2,69| 3,43"
+    },
+    {
+     "type": "text",
+     "text": "0,74 4,23 0,91] 7,32! 3,20] 4,12 0,92 3,54 0,80] 6,06} 2,69! 3,43 0,74 4,40 0,97] 7,89 3,49| 4,40 0,97 3,83 0,86 6,69 2,92 3,77"
+    },
+    {
+     "type": "text",
+     "text": "0,86 4,23 0,91 7,32 3,20| 4,12 0,92 3,72 0,80| 6,69 2,92| 3,77"
+    },
+    {
+     "type": "text",
+     "text": "0,86 3,72 0,80| 6,69| 2,92| 3,77"
+    },
+    {
+     "type": "text",
+     "text": "0,86 3,26 0,74| 6,06 2,69 3,43 0,74"
+    },
+    {
+     "type": "text",
+     "text": "2,86 0,63 4,86 2,12 2,74 0,63 3,03 0,69 5,49 2,46 3,03 0,69 3,14 0,69 5,49 2,46 3,03 0,69 3,72 0,80 6,69 2,92 3,77 0,86 3,26 0,74 6,06 2,69 3,43 0,74 2,86 0,63 4,86 2,12 2,74 0,63 2,86 0,63 4,86 2,12 2,74 0,63 3,03 0,69 5,49 2,46 3,03 0,69 3,72 0,80 6,69 2,92 3,77 0,86 2,86 0,63 4,86 2,12 2,74 0,63 3,54 0,80 6,06 2,69 3,43 0,74 2,46 0,57 4,29| 1,83 2,46| 0,51 3,03 0,69 5,49 2,46 3,03 0,69 3,54 0,80 6,06 2,69 3,43 0,74 3,03 0,69 5,49 2,46 3,03 0,69 3,54 0,80 6,06 2,69 3,43 0,74 2,46 0,57 4,29 1,83 2,46 0,51 3,03 0,69 5,49 2,46 3,03 0,69"
+    },
+    {
+     "type": "text",
+     "text": "3,14 0,69] 5,49| 246| 3,03| 0,69 3,72 0,80 6,69 2,92 3,77 0,86 2,57 0,57 4,86 2,12 2,74 0,63 2,57 0,57 4,86 2,12 2,74 0,63 3,03 0,69 5,49 2,46 3,03 0,69 3,94 0,86 7,32 3,20 4,12 0,92 2,86 0,63 4,86 2,12 2,74 0,63"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do art. 4 dekretu Prezydenta Rzeczypospolitej z dnia 4 listopada 1936 r. (poz. 593)."
+    },
+    {
+     "type": "text",
+     "text": "Przeciętne stawki z I ha w złotych."
+    },
+    {
+     "type": "text",
+     "text": ". Z jednego ha Z jednego ha gruntów leś- Województwa gruntów upraw-| nych, błotninych, łąk, ogro- słych i pastwisk i powiaty F oraz gruntów dów i sadów pod wodśróć"
+    },
+    {
+     "type": "text",
+     "text": "białostockie"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "białostocki . 2, bielski + « w g « «",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "grodzieński . + « «+",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "sokólski . + + +. :",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "wołkowyski. . » « 1,50 0,30",
+   "children": [
+    {
+     "type": "text",
+     "text": "wileńskie"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "brasławski + + » . 1,30 0,26",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "dziśnieński + + + + 1,50 0,30",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "mołodecki . » + : 1,10 0,22 4, oszmiański . + » . 1,30 0,26",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "postawski . . . « 1,50 0,30",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "święciański . . «+ . 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "wilejski, . «. « « » 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "wileńsko-trocki . . 1,50 0,30",
+   "children": [
+    {
+     "type": "text",
+     "text": "nowogródzkie"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "baranowicki ... 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "lidzki « « s % w » 1,50 0,30",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "nieświeski . » » » 1,85 0,37",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "nowogródzki » » . 1,65 0,33 5, słonimski + + + + 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "stołpecki . . + + « 1,50 0,30",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "szczuczyński + + . 1,50 0,30",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "wołożyński + + + . 1,10 0,22",
+   "children": [
+    {
+     "type": "text",
+     "text": "poleskie"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "brzeski . + + » 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "drohicki . . » + . 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "kobryński. . + + » 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "kogowski + + » +» » 1,10 0,22 5, koszyrski - + + + » 0,95 0,19",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "luniniecki. « + » « 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "DIŃSKI « « s © % « 0,95 0,19",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "prużański . » + . 1,10 0,22 9, stoliński . +... 1,10 0,22",
+   "children": [
+    {
+     "type": "text",
+     "text": "wołyńskie"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "dubieński SCE 2,75 0,55",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "horochowski ... 1,50 0,30",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "kostopolski . + » » 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "kowelski . . + » « 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "krzemieniecki . . 2,75 0,55",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "lubomelski . . . . 1,10 © 0,22 7.łucki . + ee ee 1,65 0,33",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "rówieński .... 2,20 0,44 9, sarneński . . « +» « 1,10 0,22",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "włodzimierski . . . 1,50 0,30",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "11",
+   "path": "ust_11",
+   "text": "zdoibunowski + . . 2,75 0,55",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,165 @@
+{
+ "eli": "DU/1936/23",
+ "title": "Dekret Prezydenta Rzeczypospolitej z dnia 14 stycznia 1936 r. o ulgach w spłacie zobowiązań spółdzielni rolniczych i ich central.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1936/23/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET PREZYDENTA RZECZYPOSPOLITEJ z dnia 14 stycznia 1936 r. o ulgach w spłacie zobowiązań spółdzielni rolniczych i ich central."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 55 ust. (1) ustawy konstytucyjnej i ustawy z dnia 6 listopada 1935 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania dekretów (Dz. U. R. P. Nr. 81, poz. 501) postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "(1) Spółdzielnie rolnicze i ich centrale handlowe bez wzgiędu na formę prawną tych central, — których stan gospodarczy uzasadnia konieczność uporządkowania ich: zadłużenia, mogą być poddane postępowaniu układowemu z wierzycielami. Przepis ten nie dotyczy rolniczych spółdzielni kredytowych i ich central.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Charakter spółdzielni i ich central, uzasadniający możność zastosowania postępowania układowego, ustala Minister Skarbu."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "(1) Do orzekania w sprawach postępowania układowego powołany jest wojewódzki urząd rozjemczy do spraw majątkowych posiadaczy śospodarstw wiejskich.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Zespół orzekający składa się z przewodniczącego lub jego zastępcy oraz czterech członków:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "dwóch ławników, będących delegatami Ministra Skarbu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "jedneśo ławnika, będącego delegatem Ministra Rolnictwa i Reform Rolnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "jednego ławnika spośród innych członków urzędu rozjemczego, reprezentujących kredyt zorganizowany.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "(1) Otwarcie postępowania układowego może nastąpić:",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "na wniosek spółdzielni lub centrali,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "na ee wierzyciela spółdzielni lub centrali,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_3/pkt_3",
+     "text": "na wniosek poręczyciela lub współzobowiązaneśo ze spółdzielnią lub centralą.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Wniosek o otwarcie postępowania układowego można złożyć tylko w okresie do dnia 31 grudnia 1936 r."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "(1) Projekt układu może przewidywać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_4/pkt_1",
+     "text": "odroczenie terminów płatności lub rozłożenie sumy diugu na raty na okres do lat 14,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_4/pkt_2",
+     "text": "zmniejszenie sumy długu i jego oprocentowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_4/pkt_3",
+     "text": "częściowe lub całkowite zwolnienie z odpowiedzialności poręczycieli lub innych osób współzobowiązanych ze spółdzielnią lub centralą,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_4/pkt_4",
+     "text": "wskazanie czy i w jaki sposób wykonanie zobowiązań, objętych układem, ma być zabezpieczone.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Układ może przewidywać różne warunki dla poszczególnych kategoryj wierzytelności w zależności od stopnia ich zabezpieczenia, przyczem sumy mieszczące się w pierwszej połowie szacunku nieruchomości można obniżyć w stopniu niższym, niż zabezpieczone na dalszych miejscach hipotecznych,"
+      },
+      {
+       "type": "text",
+       "text": "(3) Bez zśody zainteresowanych wierzycieli nie można obniżyć należności publiczno - prawnych i należności z tytułu umowy o pracę. Art 5. Ulgi, dotyczące zobowiązań spółdzielni i ich central, wynikające z układu, rozoiągają się również na poręczycieli i innych współzobowiązanych."
+      },
+      {
+       "type": "text",
+       "text": "Art. 66 Rada Ministrów ustali w drodze rozporządzenia szczegółowe zasady postępowania układowego, a w szcześólności warunki i tryb postępowania, wierzytelności wyłączone z postępowania układowego, koszty postępowania, zasady nadzoru nad działalnością urzędów rozjemczych, stosunek przepisów dekretu niniejszego do innych przepisów, normujących zagadnienia, objęte dekretem niniej-"
+      },
+      {
+       "type": "text",
+       "text": "szym. Art 7. Wykonanie dekretu niniejszego porucza się Ministrom: Skarbu, Sprawiedliwości oraz Rolnictwa i Reform Rolnych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia, Prezydent Rzeczypospolitej: I, Mościcki Prezes Rady Ministrów: Marjan Zyndram - Kościałkowski Minister Skarbu: E. Kwiatkowski Minister Sprawiedliwości: Czesław Michałowski Minister Rolnictwa i Reform Rolnych: J, Poniatowski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

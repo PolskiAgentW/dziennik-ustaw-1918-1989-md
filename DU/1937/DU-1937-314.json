@@ -1,0 +1,647 @@
+{
+ "eli": "DU/1937/314",
+ "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 31 maja 1937 r. wydane w porozumieniu z Ministrem Sprawiedliwości o prowadzeniu przez inspektorów pracy rejestrów układów zbiorowych pracy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/314/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OPIEKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 maja 1937 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrem Sprawiedliwości o prowadzeniu przez inspektorów pracy rejestrów układów zbiorowych pracy."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust. (5) ustawy z dnia 14 kwietnia 1937 r. o układach zbiorowych pracy (Dz. U. R. P. Nr 31, poz. 242) zarządzam co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "I. Przepisy ogólne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "(1) Podlegają zarejestrowaniu w trybie rozporządzenia niniejszego układy zbiorowe pracy, zawarte na podstawie ustawy z dnia 14 kwietnia 1937 r. o układach zbiorowych pracy (Dz. U. R. P. Nr 31, poz. 242).",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Artykuły wymienione w rozporządzeniu niniejszym bez bliższego określenia oznaczają artykuły ustawy z dnia 14 kwietnia 1937 r. o układach zbiorowych pracy (Dz. U. R. P. Nr 31, poz. 242), paragrafy zaś — przepisy rozporządzenia niniejszego."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "(1) Do rejestru układów zbiorowych pracy wpisuje się zgłoszenia, dotyczące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "zawarcia układu (art. 11 ust. (1) i (2) i art. 12 ust. (1)),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "przystąpienia do układu nowego uczestnika (art. 12 ust. (2)),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "przedłużenia okresu mocy wiążącej układu (art. 12 ust. (2)),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "zmian i uzupełnień treści układu (art. 12 ust. (2)),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "zmian w osobach uczestników układu (art. 12 ust. (2)),",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "wypowiedzenia układu w przypadkach oznaczonych w art, 16 ust. (2) pkt 2) i ust. (3) oraz w art. 22 ust. (1) pkt 2),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "rozwiązania układu — częściowego lub całkowitego (art. 12 ust. (2)).",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Ponadto podlega zarejestrowaniu z urzędu:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "nadanie układowi mocy powszechnie obowiązującej (art. 21),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "ustanie mocy powszechnie obowiązującej w przypadkach oznaczonych w art. 22 ust. (1) pkt 1) i 2),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "ustanie mocy powszechnie obowiązującej układu wskutek nadania takiej mocy układowi późniejszemu na obszarze i w zakresie obowiąa> układu poprzedniego (art, 22 ust. (2) t 3)),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "zwolnienie od uczestnictwa w układzie w myśl art. 20,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "inne dane, których ujawnienie z urzędu w rejestrze przewidują przepisy prawa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przy zgłoszeniu do rejestru okoliczności, wymagającej stwierdzenia w formie piśmiennej (art. 11), powinien być dołączony do wniosku oryginał odpowiedniego dokumentu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zgłoszenia, podlegające wpisowi do rejestru, mogą być również składane przez interesowanych osobiście do protokołu, który sporządza się w urzędzie inspekcji pracy; protokół podpisują zgłaszający i inspektor pracy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "(1) Treść wpisu ustala inspektor pracy w terminie siedmiodniowym od daty zgłoszenia wniosku. Inspektor pracy decyduje o wpisie do rejestru przez oprowadzenie na oryginałach zgłaszanych dokumentów treści podlegającej wpisowi oraz umieszczenie u dołu każdego dokumentu własnoręcznej adnotacji ,,rejestruje”, podpisu i daty.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) W przypadku, przewidzianym w art. 13 ust, (2), gdy następuje zawieszenie z urzędu całego wpisu, inspektor pracy czyni u dołu wła- * ściwego dokumentu adnotację: „Z „powodu sprzeczności z. . « „ „wpis zawieszam! umieszcza podpis i date, po czym stosuje postępowanie przewidziane w art. 13 ust. (2), (4) i (6)."
+    },
+    {
+     "type": "text",
+     "text": "(3) W przypadku, przewidzianym w art. 13 ust. (3), śdy następuje zawieszenie z urzędu wpisu tylko niektórych postanowień, inspektor pracy oprowadza na oryginałach zgłaszanych dokumentów treść, bez zastrzeżeń podlegającą wpisowi, po czym u dołu każdego dokumentu czyni adnotację „rejestruję, zawieszając wpis postanowienia . . . . . z powodu sprzeczności z . . . ć .', umieszcza podpis i datę, po czym stosuje postępowanie przewidziane w art. 13 ust. (3), (4) i (6)."
+    },
+    {
+     "type": "text",
+     "text": "(4) Decyzja sadu, powzieta w trybie art. 13 ust. (5), podlega wpisaniu do rejestru z urzędu."
+    },
+    {
+     "type": "text",
+     "text": "(5) Każdy wpis w rejestrze oraz kazda decyzja, dotycząca rejestru, powinny być podpisane przez inspektora pracy."
+    },
+    {
+     "type": "text",
+     "text": "Str. 808"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Zawieszając w trybie art. 13 ust. (2) zarejestrowanie bądź całego układu, bądź niektórych postanowień, inspektor pracy zawiadamia o tym wszystkich uczestników układu, wzywając ich do poczynienia w układzie odpowiednich zmian; zawiadomienie to powinno być wysłane przed upływem dni czternastu od daty zgłoszenia wniosku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "(1) Jeżeli okaze się, ze w rejestrze figuruje wpis, który jest niedopuszczalny ze względu na bezwzględnie obowiązujące przepisy prawa, porządek publiczny lub dobre obyczaje, inspektor pracy, po wysłuchaniu osób interesowanych, zarządzi wykreślenie tego wpisu z urzędu,",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Wykreślenie wpisu z rejestru może nastąpić dopiero po uprawomocnieniu się decyzji zarządzającej wykreślenie,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "W razie powzięcia wiadomości, ze wpis, figurujący w rejestrze, nie odpowiada faktycznemu stanowi rzeczy, inspektor pracy wzywa uczestników układu do złożenia odpowiednich wyjaśnień lub zgłoszenia wniosku o dokonanie stosownego wpisu w terminie 14-dniowym, czyniąc w razie potrzeby użytek z przepisu art. 12 ust. (3). W razie niezłożenia wyjaśnień lub niezgłoszenia powyższego wniosku inspektor pracy wydaje decyzję z urzędu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Od decyzji inspektora pracy, wymierzającej karę porządkową, przewidzianą w art. 12 ust. (3), służy odwołanie do jęgo władzy przełożonej. W wyjątkowych przypadkach, zasługujących na uwzględnienie, inspektor pracy może wymierzoną przez siebie karę porządkową cofnąć,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "W postępowaniu w sprawach rejestrowych należy — o ile ustawa o układach zbiorowych pracy nie stanowi inaczej — stosować przepisy ogólne o postępowaniu administracyjnym,",
+   "children": [
+    {
+     "type": "text",
+     "text": "II. Organy rejestrowe."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "(1) Rejestry układów zbiorowych prowadzą okręgowi inspektorzy pracy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Prowadzenie przez obwodowych inspektorów pracy rejestrów układów zbiorowych pracy dla wyodrębniających się gospodarczo ośrodków regulują osobne rozporządzenia."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "(1) Właściwy miejscowo do zarejestro” wania układu zbiorowego jest inspektor pracy, w którego okręgu lub obwodzie znajduje się zakład pracy lub większość zakładów pracy, objętych danym układem.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Jeżeli układ zbiorowy dotyczy zakładów pracy, położonych na terenie kilku okr. gów lub obwodów inspekcji pracy, w których prowadzi się rejestry, układ ten podlega zarejestrowaniu w tym okręgu lub obwodzie, w którym znajduje się większość zakładów pracy lub siedzib uczestników układu, W razie wątpliwo- Sci ostatecznie rozstrzyga właściwy okręgowy inspektor pracy, a gdy kilku inspektorów okrę-"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Str. 809"
+    },
+    {
+     "type": "text",
+     "text": "gowych jest właściwych — Główny Inspektor Pracy."
+    },
+    {
+     "type": "text",
+     "text": "(3) W przypadku, przewidzianym w ust. (2), inspektor pracy, który układ zarejestrował, powinien zawiadomić o tym inspektorów pracy, w których okręgach lub obwodach znajdują się zakłady pracy, objęte układem."
+    },
+    {
+     "type": "text",
+     "text": "(4) Układy zbiorowe pracy zawarte dla obszaru całego Państwa rejestruje inspektor pracy okręgu, obejmującego m. st. Warszawę."
+    },
+    {
+     "type": "text",
+     "text": "IIL Księgi i akta rejestrowe."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Księgi rejestrowe powinny mieć trwałą oprawę. Każdy tom będzie oznaczony kolejną rzymską liczbą. Stronice będą kolejno numerowane. Na ostatniej stronicy każdego tomu powinno znajdować się poświadczenie o ilości stronic, podpisane przez inspektora pracy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Dla każdego układu zbiorowego prowadzi się oddzielnie akta, które obejmują dokumenty, stanowiące podstawę wpisu, inne dokumenty składane inspektorowi pracy w wykonaniu przepisów ustawowych, jak również wszelkie pisma, dotyczące danego układu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Dokumenty złożone do akt rejestru mogą być za zezwoleniem inspektora pracy zwrócone; wówczas należy pozostawić w aktach urzędowo poświadczony odpis lub wyciąg.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "(1) Księgi rejestru układów zbiorowych nie będą niszczone.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Księgi i akta nie mogą być wynoszone poza miejsce ich przechowania,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Każdy, kto uprawdopodobni, że jest w tym zainteresowany, ma prawo przeglądać pod nadzorem urzędowym w godzinach przyjęć rejestr i dokumenty, określone w § 14.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Na żądanie osób interesowanych może być wydane urzędowe zaświadczenie, że pewien wpis nie istnieje lub, że podanie albo dokument nie zostały złożone.",
+   "children": [
+    {
+     "type": "text",
+     "text": "IV. Sposób prowadzenia rejestru."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "(1) Każdy układ zbiorowy powinien być wciągnięty do rejestru pod numerem bieżącym.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Dla każdego układu zbiorowego będą przeznaczone w rejestrze dwie równolesłe stronice. Gdy będzie przewidywana większa ilość wpisów, należy pozostawić wolne dalsze stronice."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "(1) Poszczególne wpisy, wciągnięte pod jednym numerem dotyczącym tego samego układu, będą miały oddzielną kolejną numerację.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Równoczesne wpisy, wynikające z tego samego dokumentu, otrzymują tylko jeden numer kolejny."
+    },
+    {
+     "type": "text",
+     "text": "(3) Wpis oznaczony bieżącym numerem kolejnym powinien być oddzielony od następnego linią poprzeczną przez obie stronice."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "(1) Wpis powinien zawierać datę decyzji, podpis inspektora pracy oraz numer sprawy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) W aktach danego układu zbiorowego uczyniona będzie wzmianka o wpisie z podaniem daty wciągnięcia i numeracji rejestru. Wzmiankę należy umieścić pod decyzją, zarządzającą wpis."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Wpisy należy uskuteczniać starannie, pismem czytelnym i bez skróceń. Podskrobywania są wzbronione,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "(1) Decyzje inspektora pracy, zarządzające wpis do rejestru, doręcza się uczestnikom układu tylko na ich żądanie,",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) W aktach należy zaznaczyć przy decyzji, komu i kiedy odpis decyzji wysłano."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Zmiany i wykreślenia wpisów powinny być umieszczone pod nowym numerem kolejnym w tej samej rubryce, w której znajduje się wpis zmieniony lub wykreślony, Wpisy poprzednie, których zmiany dotyczą, należy podkreślić czerwonym atramentem; wpisy, których dotyczą wykreślenia, należy przekreślić czerwonym atramentem tak, aby można było odczytać wpisy wykreślone,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "(1) Omyłki pióra itp. oczywiste błędy we wpisach powinny być przekreślane czerwo* nym atramentem tak, aby można było odczytać tekst pierwotny, i prostowane w tej samej rubryce.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Sprostowania ważniejsze powinny być omówione w rubryce uwag."
+    },
+    {
+     "type": "text",
+     "text": "§ 26, W przypadkach dokonywania wpisu z urzędu inspektor pracy powinien zaznaczyć to w treści wpisu."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Jeżeli zmiany, które zaszły we wpisie danego układu, są tak liczne, że przez ich wciąśnięcie ucierpiałaby znacznie przejrzystość wpisów w rejestrze, należy przenieść wpisy obowiązujące pod nowy numer rejestru na inne miejsce księgi rejestrowej i zaznaczyć to przeniesienie w rubryce uwaś przy dawnym i przy: nowym wpisie,",
+   "children": [
+    {
+     "type": "text",
+     "text": "V. Treść rejestru."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "(1) Rejestr układów zbiorowych pracy składa się z 7 rubryk.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Do poszczególnych rubryk wciąga się dane następujące: ,"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_28/pkt_1",
+     "text": "do pierwszej — numer kolejny wpisów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_28/pkt_2",
+     "text": "do drugiej — datę i miejsce zawarcia układu oraz udział organów władzy przy zawarciu układu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_28/pkt_3",
+     "text": "do trzeciej — oznaczenie obszaru mocy wiążącej układu oraz jej zakresu (zakłady pracy, działy pracy, kategorie pracowników, których układ dotyczy);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_28/pkt_4",
+     "text": "do czwartej — wymienienie uczestników układu:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_28/pkt_4/lit_a",
+       "text": "po stronie pracodawców z podaniem imion, nazwisk i adresów lub nazw i siedzib osób prawnych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_28/pkt_4/lit_b",
+       "text": "po stronie pracowników z podaniem nazw związków zawodowych (stowarzyszeń, zrzeszeń) i ich siedzib;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_28/pkt_5",
+     "text": "do piątej — termin obowiązywania układu, oznaczenie sposobu jego wypowiedzenia lub terminów, w jakich układ może być rozwiązany, i sposobu jego przedłużenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_28/pkt_6",
+     "text": "do szóstej — datę decyzji, numer sprawy i podpis inspektora pracy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_28/pkt_7",
+     "text": "do siódmej — uwagi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Zgłoszenia podlegające wpisowi . do rejestru po dokonaniu wpisu o zawarciu układu (§ 2 ust. (1) pkt 1)) ujawnia się w rejestrze jak następuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_29/pkt_1",
+     "text": "przystąpienie do układu nowego uczestnika (§ 2 ust. (1) pkt 2)) — w rubryce 4,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_29/pkt_2",
+     "text": "przedłużenie mocy wiążącej układu (§ 2 ust. (1) pkt 3)) — w rubryce 5,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_29/pkt_3",
+     "text": "zmiany i uzupełnienia treści układu (§ 2 ust. (1) pkt 4)) — w rubryce 3,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_29/pkt_4",
+     "text": "zmiany w osobach uczestników układu {§ 2 ust. (1) pkt 5)) — w rubryce 4, i",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_29/pkt_5",
+     "text": "wypowiedzenia układu w przypadkach oznaczonych w art. 16 ust. (2) pkt 2) i ust. (3) oraz w art. 22 ust. (1) pkt 2) (§ 2 ust. (1) pkt 6)) — w rubryce 5,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_29/pkt_6",
+     "text": "rozwiązanie układu — częściowe lub całkowite (§ 2 ust. (1) pkt 7)) — w rubryce 5,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_29/pkt_7",
+     "text": "nadanie układowi mocy powszechnie obowiązującej (§2 ust. (2) pkt (1)) — w rubryce 3, ‘",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_29/pkt_8",
+     "text": "ustanie mocy powszechnie obowiązującej w przypadkach oznaczonych w art. 22 ust. (1) pkt 1) i 2) (§ 2 ust. (2) pkt 2)) — w rubryce 3,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_29/pkt_9",
+     "text": "ustanie mocy powszechnie obowiązującej układu wskutek nadania takiej mocy układowi późniejszemu na obszarze i w zakresie obowiązywania układu poprzedniego (§ 2 ust. (2) pkt 3)) — w rubryce 3,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_29/pkt_10",
+     "text": "zwolnienie od uczestnictwa w układzie w myśl art. 20 (§ 2 ust, (2) pkt 4)) — w rubryce 4.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Str. 810"
+      },
+      {
+       "type": "text",
+       "text": "VI. Wydawanie odpisów z rejestru."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "(1) Każdy interesowany może otrzymać, za opłatą przewidzianą w art. 12 ust. (4), wypis z rejestru bądź odpis układu z poświadczeniem jego rejestracji,",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Wypis z rejestru obejmuje informacje figurujące w rejestrze, dotyczące danego układu według stanu na dzień sporządzenia wypisu; informacje o wpisach z rejestru wykreślonych w zasadzie się pomija przy sporządzeniu wypisu, a umieszcza się je w wypisie tylko na wyraźne żądanie interesowanego."
+    },
+    {
+     "type": "text",
+     "text": "(3) Odpis układu, wydany z rejestru, powinien zawierać adnotację o zakresie mocy wiążącej układu na dzień sporządzenia odpisu według stanu ujawnionego w rejestrze,"
+    },
+    {
+     "type": "text",
+     "text": "VII. Przepisy przejściowe i końcowe."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Układy (umowy) zbiorowe pracy, obowiązujące w dniu wejścia w życie rozporządzenia niniejszego, podlegają zgłoszeniu do rejestru na zasadach ogólnych w terminie do dnia 1 sierpnia 1937 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Główny Inspektor pracy wydawać będzie w miarę potrzeby szczegółowe instrukcje, dotyczące biurowości i prowadzenia akt w sprawach rejestru układów zbiorowych",
+   "children": [
+    {
+     "type": "text",
+     "text": "pracy."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 czerwca 1937 r. na obszarze całego Państwa z wyjątkiem województwa śląskiego, na obszarze zaś województwa śląskiego — z chwilą wyrażenia przez Sejm Śląski zgody na wejście w życie na obszarze tego województwa ustawy z dnia 14 kwietnia 1937 r. o układach zbiorowych pracy (Dz. U. R. P. Nr 31, poz. 242),",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Opieki Społecznej: Marian Zyndram - Kościałkowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

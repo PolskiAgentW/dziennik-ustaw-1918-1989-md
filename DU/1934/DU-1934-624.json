@@ -1,0 +1,128 @@
+{
+ "eli": "DU/1934/624",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 21 lipca 1934 r. o podziale powiatu horodeńskiego w województwie stanisławowskiem na gminy wiejskie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/624/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 lipca 1934 r."
+  },
+  {
+   "type": "text",
+   "text": "© podziale powiatu horodeńskiego w województwie stanislawowskiem na gminy wiejskie."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 103 ustawy z dnia 23 marca 1933 r. o częściowej zmianie ustroju samorządu terytorjalnego (Dz. U. R. P. Nr. 35, poz. 294) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W powiecie horodeńskim, województwie stanisławowskiem tworzy się następujące gminy wiejskie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "gminę Czernelica z siedzibą w Czernelicy: w skład tej gminy wchodzą następujące dotychczasowe gminy wiejskie: Czernelica, Chmielowa, Dąbki, Kopaczyńce, Korniów bez przysiółka Korniówka, Kunisowce, Olchowiec i Repużyńce;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "gminę Czerniatyn z siedzibą w Czerniatynie; w skład tej gminy wchodzą następujące dotychczasowe gminy wiejskie: Czerniatyn, Głuszków, Okno, Targowica, Toporowce i Wierzbowce;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "gminę Horodenka z siedzibą w mieście Horodence; w skład tej gminy wchodzą następujące dotychczasowe gminy wiejskie: Horodnica, Jasienów Polny, Probabin, Serafińce, i Strzylcze;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "gminę Niezwiska z siedzibą w Niezwiskach; w skład tej gminy wchodzą następujące dotychczasowe śminy wiejskie: Harasymów, Isaków, Łuka, Niezwiska, Piotrów, Podwerbce, Rakowiec, Semenówka, Siekierczyn, Uniż i żywaczów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "gminę Obertyn z siedzibą w Obertynie; w skład tej gminy wchodzą następujące dotychczasowe gminy wiejskie: Bałahorówka, Hańczarów, Hawrylak, Jakubówka, Obertyn, Żabokruki i Żuków;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "gminę Siemakowce z siedzibą w Siemakowcach; w skład tej gminy wchodzą następujące dotychczasowe gminy wiejskie: Daleszowa, Kolanki, Mi- _chaleze, Potoczyska i Siemakowce;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "gminę Tyszkowce z siedzibą w Tyszkowcach; w skład tej gminy wchodzą następujące dotychczasowe gminy wiejskie: Czortowiec, Olejowa - Korolówka, Olejów - Korniów, Raszków, Tyszkowce oraz przysiółek Korniówka z dotychczasowej gminy Korniów z gruntami objętemi:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_7/lit_a",
+       "text": "lwh. 238, 281 i 317 o obszarze 219 ha 72 a. 65 m,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_7/lit_b",
+       "text": "lwh. 242 o obszarze 7 ha, 42 a. 10 m’,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_7/lit_e",
+       "text": "Iwh. 210 o obszarze 51 ha, 92 a. 95 m”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_7/lit_d",
+       "text": "Iwh. oznaczonemi: 2638/pg., 2639/1, 2639/2, '2631/1, 2637/2, 2637/3, 2637/4, 2636/1, 2636/2, 2640/1, 2640/2, 2632/1, 2632/2, 2632/3, 2635, 2634 i 2631/2 o ogólnym obszarze 8,1560 ha.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 sierpnia 1934 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Marjan Zyndram-Kościał kowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

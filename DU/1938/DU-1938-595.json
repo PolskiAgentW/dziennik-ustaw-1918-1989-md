@@ -1,0 +1,37 @@
+{
+ "eli": "DU/1938/595",
+ "title": "Obwieszczenie Prezydenta Rzeczypospolitej z dnia 6 listopada 1938 r. o sprostowaniu błędów w tekście ustawy z dnia 28 kwietnia 1938 r. o rejestrowych prawach rzeczowych na pojazdach mechanicznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/595/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE PREZYDENTA RZECZYPOSPOLITEJ z dnia 6 listopada 1938 r. © sprostowaniu błędów w tekście ustawy z dnia 28 kwietnia 1938 r. o rejestrowych prawach rzeczowych na pojazdach mechanicznych. Na podstawie art. 5 ust. (1) pkt 1) dekretu Prezydenta Rzeczypospolitej z dnia 6 września 1935 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej (Dz. U. R. P. Nr 68, poz. 423) prostuje się w tekście ustawy z dnia 28 kwietnia 1938 r. o rejestrowych prawach rzeczowych na pojazdach mechanicznych (Dz. U. R. P. Nr 36, poz. 302) błędy następujące:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w art. 31 ust. (1) pkt 1) zamiast „zastępcy” powinno być „zastawcy”,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w ostatnim wierszu art. 41 zamiast „(art. 15) powinno być „(art, 14)\".",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: 7. Mościcki Prezes Rady Ministrów: Sławoj Składkowski Minister Skarbu: E. Kwiatkowski Minister Sprawiedliwości: W. Grabowski Minister. Komunikacji: Ulrych"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

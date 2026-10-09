@@ -1,0 +1,76 @@
+{
+ "eli": "DU/1934/420",
+ "title": "Rozporządzenie Rady Ministrów z dnia 28 maja 1934 r. o zniesieniu ustroju miejskiego w niektórych miastach w powiecie bielskim i sokólskim, województwie białostockiem.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/420/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW,"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 maja 1934 r,"
+  },
+  {
+   "type": "text",
+   "text": "o zniesieniu ustroju miejskiego w niektórych miastach w powiecie bielskim i sokólskim, województwie białostockiem,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art, 33 ustawy z dnia 23 marca 1933 r. o częściowej zmianie ustroju samorządu terytorjalnego (Dz. U. R. P. Nr. 35, poz. 294) zarząsię co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "(1) Znosi się ustrój miejski następujących miast w województwie białostockiem:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "w powiecie bielskim — Boćki, Mielnik i Narew;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "w powiecie sokólskim — Odelsk i Nowy Dwór.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Wymienione wyżej miejscowości włącza się w charakterze gromad do $min wiejskich, a mianowicie; Boćki — do gminy wiejskiej Lubin, Mielnik — do gminy wiejskiej Radziwiłłówka i Narew — do śminy wiejskiej Narew w powiecie bielskim; Odelsk—do gminy wiejskiej Odelsk i Nowy Dwór— do gminy wiejskiej Nowy Dwór — w powiecie sokólskim,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wykonanie rozporządzenia niniejszego porucza się Ministrowi Spraw Wewnętrznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów: L. Kozłowski Minister Spraw Wewnętrznych: Bronisław Pieracki",
+   "children": [
+    {
+     "type": "text",
+     "text": "773 o zmianie okręśów sądów grodzkich w poviledie 774 . . . . . Py . . . . . ."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

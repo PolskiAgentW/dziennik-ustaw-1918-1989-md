@@ -1,0 +1,4338 @@
+{
+ "eli": "DU/1933/600",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. - Kodeks handlowy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/600/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 października 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "KODEKS HANDLOWY."
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ L",
+   "text": "Na podstawie art. 44 ust. 6 Konstytucji i ustawy z dnia 25 marca 1933 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 29, poz. 249) postanawiam co następuje: i"
+  },
+  {
+   "type": "text",
+   "text": "ZRODLA PRAWA."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W stosunkach handlowych obowiązują w braku przepisów kodeksu handlowego i ustaw szcześólnych lub powszechnego w państwie prawa zwyczajowego przepisy prawa cywilnego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "KSIĘGA PIERWSZA."
+    },
+    {
+     "type": "text",
+     "text": "KUPIEC."
+    },
+    {
+     "type": "text",
+     "text": "DZIAŁ I,"
+    },
+    {
+     "type": "text",
+     "text": "Pojęcie kupca."
+    },
+    {
+     "type": "text",
+     "text": "Art, 2. § 1. Kupcem jest, kto we własnem imieniu prowadzi przedsiębiorstwo zarobkowe."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_1/par_2",
+     "text": "Gospodarstwa rolnego nie uważa się za przedsiębiorstwo zarobkowe. § 3, Gospodarstwem rolnem w rozumieniu kodeksu niniejszego jest również gospodarstwo leśne, ogrodowe, hodowlane, rybne, łowieckie lub pszczelarskie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 33 Wykonywanie zawodu wolnego samo przez się nie jest przedsiębiorstwem zarobkowem."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "§. 1. Kupiec, który prowadzi przedsiębiorstwo zarobkowe w większym rozmiarze, jest kupcem rejestrowym. § 2. Minister Przemysłu i Handlu w porozumieniu z Ministrami Skarbu, Sprawiedliwości oraz Rolnictwa i Relorm Rolnych określa w drodze rozporządzenia, jakie przedsiębiorstwa uważa się za prowadzone w większym rozmiarze.",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_4/par_1",
+     "text": "Spółka handlowa jest kupcem",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "rejestrowym.",
+   "children": [
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_5/par_2",
+     "text": "Spółkami handlowemi są spółki jawne, spółki komandytowe, spółki z ograniczoną odpowiedzialnością i spółki akcyjne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Kupiec rejestrowy obowiązany jest wpisać się do rejestru handlowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_7/par_1",
+     "text": "Kto prowadzi gospodarstwo rolne w większym rozmiarze, może być na swe żądanie wpisany do rejestru handlowego i przez wpis staje się kupcem rejestrowym. Może on w każdym czasie żądać wykreślenia wpisu i przez wykreślenie przestaje być kupcem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 82."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_7/par_2",
+     "text": "Minister Rolnictwa i Reform Rolnych w porozumieniu z Ministrami Skarbu, Sprawiedliwości oraz Przemysłu i Handlu określa w drodze rozporządzenia, jakie gospodarstwa rolne uważa się za prowadzone w większym rozmiarze.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Jeżeli z gospodarstwem rolnem związane jest przedsiębiorstwo uboczne, prowadzone w większym rozmiarze, prowadzący je jest kupcem rejestrowym.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Kupiec, ktérego przedsiębiorstwo lub gospedarstwo rolne utraciło większy rozmiar, przestaje być kupcem rejestrowym przez wykreślenie z rejestru handlowego. Wykreślenie może nastąpić tylko na jego żądanie.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_10/par_1",
+     "text": "W stosunku do działającej w dobrej wierze osoby trzeciej, która powołuje się na wpis pewnej osoby jako kupca do rejestru handlowego, niedcpuszczalny jest zarzut, że nie było lub niema podstawy do wpisu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_10/par_2",
+     "text": "Wobec tego, kto został wpisany do rejestru handlowego, osoby trzecie nie mogą zasłaniać się zarzutem, że nie było podstawy do wpisu, chyba że wpisany świadomie uzyskał wpis bezpodstawny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Przepisy kodeksu niniejszego dotyczące kupców stosuje się do prowadzących przedsiębiorstwa zarobkowe nawet wówczas, śdy prawo publiczne zakazuje im prowadzenia takich przedsiębiorstw lub zezwolenie na prowadzenie uzależnia od dopełnienia pewnych warunków.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Mężatka, prowadząca przedsiębiorstwo zarobkowe, jest kupcem, chociażby je prowadziła bez zgody męża.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ IL",
+   "text": "Rejestr handlowy."
+  },
+  {
+   "type": "text",
+   "text": "Art 13. § 1. Rejestr handlowy służy do uskuteczniania wpisów przez prawo przewidzianych. 8.2, Rejestr handlowy wraz z dokumentami, stanowiącemi podstawę wpisu, jest jawny."
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Wpisy do rejestru handlowego będą dokonywane na podstawie zgłoszeń, chyba że prawo przepisuje wpis z urzędu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_15/par_1",
+     "text": "Zgłoszenia powinny być dokonywane osobiście w sądzie, bądź też podawane na piśmie. W ostatnim przypadku podpisy osób zgłaszających powinny być uwierzytelnione notarjalnie, chyba że wzory tych podpisów znajdują się już w sadzie rejestrowym. § 2. Pełnomocnictwa do dokonania zgłoszenia powinny być w ten sam sposób uwierzytelnione. Jeżeli pełnomocnikiem jest adwokat, stosuje się art. 89, kodeksu postępowania cywilnego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_15/par_3",
+     "text": "Jeżeli dane, podlegające wpisowi, opierają się na dokumentach, dokumeaty te powinny być dołączone w oryginałach albo uwierzytelnionych notarjalnie odpisach lub wyciągach.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 166 § 1. Sąd rejestrowy bada, czy zgłoszenie i dołączone do niego dokumenty zgadzają się"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "e pod względem formy i treści z bezwzględnie obowiązującemi przepisami prawnemi."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_15/par_2",
+     "text": "Sąd bada, czy zgłoszone dane zgodne są z prawdziwym stanem, jeżeli ma w tym względzie uzasadnione wątpliwości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_17/par_1",
+     "text": "Zgłoszenie okoliczności, podlegającej obowiązkowi wpisu do rejestru handlowego, powinno być dokonane w ciągu dni czternastu od jej zajścia. Sąd rejestrowy może zapomocą grzywien zmusić zobowiązanych do uskutecznienia zgłoszeń. Grzywna może sięgać do wysokości pięciuset złotych i może być powtarzana. W razie spełnienia żądania sądu grzywna może być darowana.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_17/par_2",
+     "text": "Jeżeli osoba zobowiązana do zgłoszenia nie dokonała go mimo wezwania, sąd rejestrowy może dokonać wpisu z urzędu, zaznaczając tę okoliczność w osnowie wpisu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Osoby zobowiązane do zgłoszenia odpowiadają solidarnie za szkody, wynikłe z niewykonania lub zwłoki w wykonaniu tej czynności,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 19, W przypadkach ogłoszenia i uchylenia upadłości albo postępowania układowego, udzielenia odroczenia wypłat i zakończenia postępowania celem zapobiegania upadłości, sąd, ośłaszający upadłość lub wszczęcie postępowania układowego albo udzielający odroczenia, zarządzi wpisanie odpowiedniej wzmianki do rejestru handlowego. Wpis taki nie ulega ogłoszeniu."
+    },
+    {
+     "type": "text",
+     "text": "Art, 20. Postanowienia sądu rejestrowego co do wpisu doręcza się kupcowi i osobom, których do- = tycza."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_21/par_1",
+     "text": "W razie założenia środka odwoławcześo od postanowienia sądu rejestrowego oraz w przypadku wniosku o sprostowanie lub o wykreślenie wpisu jako nieuzasadnionego, sąd rejestrowy może zarządzić wpisanie do rejestru odpowiedniej wzmianki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_21/par_2",
+     "text": "W razie wytoczenia sporu, dotyczącego danych wpisanych do rejestru, wpisanie odpowiedniej wzmianki może zarządzić sąd, przed którym sprawa się toczy,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_21/par_3",
+     "text": "Sąd, zarządzający wpisanie wzmianki, może uzależnić je od złożenia kaucji,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 22. Jeżeli prawo nie stanowi inaczej, wszystkie wpisy do rejestru będą ogłaszane w Monitorze Polskim."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_23/par_1",
+     "text": "Od daty Monitora Polskiego, w którym wpis został ogłoszony, nikt w stosunku do kupca nie może zasłaniać się nieświadomością zarejestrowanych danych, chybaby udowodnił, że nie mógł o nich wiedzieć.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_23/par_2",
+     "text": "Dopóki dane, które powinny być wpisane i ogłoszone, nie uzyskały skuteczności stosownie do postanowień paragrafu poprzedzającego, kupiec może się na nie powołać wobec osób trzecich tylko wówczas, śdy udowodni, że o tych danych wiedziały. Przepis ten nie odnosi się do okoliczności, dotyczących zdolności kupca do działań prawnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_24/par_1",
+     "text": "Wobec osób trzecich, działających w dobrej wierze, kupiec nie może zasłaniać się zarzutem, że dane, wpisane zgodnie z jego zgłoszeniem, nie są prawdziwe. § 2. Jeżeli pewne dane wpisano do rejestru niezgodnie ze zgłoszeniem kupca lub bez jego zgłoszenia, kupiec nie może zasłaniać się wobec osób trzecich, działających w dobrej wierze, zarzutem, że dane te nie są prawdziwe, jeżeli zaniedbał wystąpić niezwłocznie z wnioskiem o sprostowanie lub wykreślenie wpisu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_25/par_1",
+     "text": "Każdy oddział powinien być zarejestrowany z sądzie rejestrowym swej siedziby.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_25/par_2",
+     "text": "Jeżeli prawo nie stanowi inaczej, wszystkie wpisy powinny być uskuteczniane w rejestrze handlowym zarówno zakładu głównego, jak i oddziału. § 3. Wpisy w rejestrach oddziałów zarządza sąd rejestrowy zakładu głównego z urzędu i zamieszcza wzmiankę o tem zarządzeniu w ogłoszeniu wpisu do rejestru zakładu głównego. W tym przypadku sąd rejestrowy oddziału nie ogłasza wpisu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 4, W stosunkach z oddziałem skutki, określone w art. 23, liczą się dopiero od daty wpisu w rejestrze oddziału, jeżeli data ta jest późniejsza od daty Monitora Polskiego, w którym ogłoszono wpis do rejestru zakładu głównego."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "art_25/par_5",
+     "text": "Wpisy w rejestrze oddziału powinny być zgodne z wpisami w rejestrze zakładu głównego z zastrzeżeniem przepisów art. 36,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ III",
+   "text": "Firma."
+  },
+  {
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_26/par_1",
+     "text": "Firma jest nazwą, pod którą kupiec rejestrowy prowadzi przedsiębiorstwo.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_26/par_2",
+     "text": "Kupiec może pozywaé i być pozywany pod firmą,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Firma kupca jednoosobowego składa się z jego nazwiska i przynajmniej pierwszej litery imienia,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_28/par_1",
+     "text": "Firma spółki jawnej zawiera nazwiska wszystkich spólników albo też nazwisko i przynajmniej pierwszą literę imienia jednego lub kilku spólników z dodatkiem wskazującym spółkę. § 2. Firma spółki komandytowej składa się z nazwiska i przynajmniej pierwszej litery imienia jedneśo lub kilku spólników, odpowiadających bez ograniczenia, oraz zawiera dodatek „spółka komandytowa'. Nazwiska komandytarjuszów nie mogą wchodzić w skład firmy,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "Firma spółki akcyjnej albo spółki z ograniczoną odpowiedzialnością może być obrana dowolnie, powinna jednak zawierać dodatek w pierwszym przypadku „spółka akcyjna”, w drugim— „spółka z ograniczoną odpowiedzialnością’, Nazwiska osób nie mogą być umieszczone w firmie bez ich zgody lub zgody ich spadkobierców,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "Firmę osoby prawnej, nie będącej spółką handlową, stanowi jej nazwa ustawowa lub statutowa.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "Firma może zawierać także dodatki, mające na celu bliższe oznaczenie osoby kupca lub",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "przedsiębiorstwa. Niedopuszczalne są dodatki, któreby mogły wprowadzić w błąd,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_32/par_1",
+     "text": "W razie zmiany nazwiska, które stanowi część składową firmy, można przedsiębiorstwo prowadzić nadal pod dotychczasową firmą, należy jednak w dodatku do firmy wskazać nowe nazwisko. § 2. W przypadku ustąpienia ze spółki jawnej lub komandytowej spólnika, którego nazwisko było w firmie zamieszczone, można prowadzić przedsiębiorstwo nadal pod dotychczasową firmą za zezwoleniem jego lub jego spadkobierców, należy jednak w dodatku do firmy zamieścić brzmienie firmy, odpowiadające przepisowi art. 28.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 33. § 1. Kto nabywa istniejące przedsiębiorstwo, może je za zezwoleniem poprzedniego właściciela lub jego spadkobierców prowadzić pod dotychczasową firmą, powinien jednak zamieścić w firmie dodatek, oznaczający nabywcę, zśodnie z przepisami art, 27—31."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_32/par_2",
+     "text": "Pozostawienie w brzmieniu dotychczasowej firmy oznaczenia „spółka akcyjna', „spółka z ograniczoną odpowiedzialnością' lub „spółdzielnia\" jest niedopuszczalne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "34",
+   "path": "art_34",
+   "text": "Firma nie może być zbyta bez przedsiębiorstwa.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 35, § 1. Każda nowa firma powinna odróżniać się dostatecznie od firm w tej samej miejscowości, do rejestru handlowego już wpisanych lub zgłoszonych. _'§ 2. Przepis powyższy nie narusza dalej idących przepisów ustawy o zwalczaniu nieuczciwej konkurencji."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "36",
+   "path": "art_36",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_36/par_1",
+     "text": "Firma oddziału powinna odpowiadać firmie zakładu głównego i być uzupełniona dodatkiem, wskazującym związek z zakładem głównym.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_36/par_2",
+     "text": "W razie, jeżeli firma zakładu głównego nie różni się dostatecznie od firmy, wpisanej już lub zgłoszonej do rejestru handlowego, a znajdującej się w siedzibie oddziału, firma oddziału powinna być uzupełniona dodatkiem dostatecznie odróżniającym.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 37, W razie bezprawnego używania firmy pokrzywdzony może żądać zaniechania dalszego używania firmy, co nie wyłącza dalej idących roazczeń, przewidzianych w innych przepisach."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "38",
+   "path": "art_38",
+   "text": "Sąd rejestrowy powinien z urzędu czuwać nad należytem przestrzeganiem przepisów o firmie oraz nad tem, aby firmy używano w obrocie w brzmieniu, zgodnem z przepisami działu niniejszego. W tym celu ma prawo nakładać grzywny według zasad, wskazanych w art. 17. Pokrzywdzeni przez bezprawne używanie firmy mają prawo zgłaszać wnioski w sądzie rejestrowym i odwoływać się od jego postanowień.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ IV",
+   "text": "Zbycie przedsiębiorstwa."
+  },
+  {
+   "type": "art",
+   "num": "39",
+   "path": "art_39",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_39/par_1",
+     "text": "Zbycie przedsiębiorstwa, wydzierżawienie i ustanowienie na niem prawa użytkowania powinno być stwierdzone pismem z datą urzędownie ustaloną. § 2. Zbycie przedsiębiorstwa kupca rejestrowego, wydzierżawienie i ustanowienie na niem prawa użytkowania powinno być wpisane do rejestru handlowego. Wpisu dokonywa się na podstawie zgłoszenia którejkolwiek ze stron.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_39/par_3",
+     "text": "Przepisy powyższe nie uchybiają przepisom o formie czynności prawnych, dotyczących „„ M przeniesienia własności lub obciążenia majątku nieruchomego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "40",
+   "path": "art_40",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_40/par_1",
+     "text": "Zbycie przedsiębiorstwa o beja a - kad. a. muje wszystko, co wchodzi w skład przedsiębiorstwa jako zorganizowanej całości, w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_40/par_1/pkt_1",
+       "text": "firmę, znaki towarowe i inne oznaczenia indywidualizujące przedsiębiorstwo;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_40/par_1/pkt_2",
+       "text": "księgi handlowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_40/par_1/pkt_3",
+       "text": "nieruchomości i ruchomości, należące do",
+       "children": [
+        {
+         "type": "text",
+         "text": "5 zza immo mik m m Wa przedsiębiorstwa nie wyłączając towarów;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_40/par_1/pkt_4",
+       "text": "patenty, wzory użytkowe i zdobnicze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_40/par_1/pkt_5",
+       "text": "wierzytelności powstałe przy prowadzeniu przedsiębiorstwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_40/par_1/pkt_6",
+       "text": "prawa, wynikające z najmu i dzierżawy lokali, zajmowanych przez przedsiębiorstwo. § 2. W stosunku do zbywcy nabywca przejmuje zobowiązania, powstałe przy prowadzeniu przedsiębiorstwa,",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "41",
+   "path": "art_41",
+   "text": "Zbywca obowiązany jest udzielić nabywcy potrzebnych do prowadzenia przedsiębiorstwa wiadomości o jego stosunkach faktycznych i prawnych, w szczególności o wszystkich zobowiąani zaniach, istniejących w chwili zbycia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "42",
+   "path": "art_42",
+   "text": "Zbywca obowiązany jest nie czynić niczego, co, stojąc w sprzeczności z zasadami uczciwego obrotu, utrudniałoby nabywcy dalsze prowadzenie przedsiębiorstwa.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "43",
+   "path": "art_43",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_43/par_1",
+     "text": "Jeżeli zbycie przedsiębiorstwa kupca rejestrowego nastąpiło w formie aktu notarjalnego, nabywca odpowiada solidarnie ze zbywcą za zobowiązania, powstałe przy prowadzeniu przedsiębiorstwa, o których wiedział lub wiedzieć był powinien, Jeżeli nabywca jest osobą bliską zbywcy, domniemywa się, że nabywca wiedział o istnieniu wszystkich zobowiązań,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_43/par_2",
+     "text": "Zobowiązania, za które nabywca nie odpowiada, stają się w stosunku do zbywcy wymagalne z chwilą zbycia, o ile nie są lub nie zostaną należycie zabezpieczone.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 44, We wszystkich przypadkach, które z istoty swej stanowią zbycie przedsiębiorstwa kupca rejestrowego, a w których nie zachowano formy aktu notarjalnego, nabywca odpowiada solidarnie ze zbywcą za wszystkie zobowiązania, powstałe przy prowadzeniu przedsiębiorstwa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "45",
+   "path": "art_45",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_45/par_1",
+     "text": "Zarejestrowanie zbycia przedsiębiorstwa (art. 23) albo zawiadomienie dłużnika o zbyciu ma skutki prawne zawiadomienia o przelewie wierzytelności,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_45/par_2",
+     "text": "Jeżeli pewne wierzytelności w myśl umowy nie przechodzą na nabywcę, dłużnicy, którzy o tem nie zostali zawiadomieni, są zwolnieni od zo-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "bowiązania także przez zapłatę, uskutecznioną do rąk nabywcy przedsiębiorstwa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "46",
+   "path": "art_46",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_46/par_1",
+     "text": "Jeżeli w chwili zbycia przedsiębiorstwa umowa zobowiązywała zbywcę i trzeciego do świadczeń wzajemnych, trzeci może rozwiązać umowę z ważnych powodów, związanych ze zmianą osoby właściciela. Oświadczenie o rozwiązaniu należy złożyć w ciągu miesiąca od uzyskania wiadomości o zbyciu (art. 23). § 2. W razie zbycia przedsiębiorstwa kupca rejestrowego bez zachowania formy aktu notarjalnego, prawo rozwiązania służy trzeciemu nawet bez ważnego powodu. § 3. W razie zbycia przedsiębiorstwa kupca rejestrowego w formie aktu notarjalnego, nabywca może oświadczyć, że nie wstępuje w umowę, określoną w § 1, jeżeli o jej istnieniu nie wiedział ani wiedzieć nie był powinien. Oświadczenie takie należy złożyć w ciągu miesiąca od uzyskania wiadomości o istnieniu umowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "47",
+   "path": "art_47",
+   "text": "Przepisy artykułu poprzedzającego nie uchylają odmiennych postanowień, zawartych w umowach między zbywcą a osobami trzeciemi, ani przepisów, normujących skutki zbycia przedsiębiorstwa co do poszczególnych umów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "48",
+   "path": "art_48",
+   "text": "Odpowiedzialność kupca rejestrowe- $o, zbywającego przedsiębiorstwo, za zobowiązania, za które nabywca odpowiada, przedawnia się z upływem trzech lat od zarejestrowania zbycia, bądź od późniejszego terminu ich płatności, chyba że z mocy innych przepisów ulega krótszemu przedawnieniu,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "49",
+   "path": "art_49",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_49/par_1",
+     "text": "Dzierżawca przedsiębiorstwa kupca rejestrowego odpowiada solidarnie za zobowiązania wydzierżawiającego, powstałe przy prowadzeniu przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_49/par_2",
+     "text": "Umowne uchylenie odpowiedzialności dzierżawcy jest skuteczne wobec wierzycieli, gdy zostało im podane do wiadomości lub zarejestro-",
+     "children": [
+      {
+       "type": "text",
+       "text": "wane."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_49/par_3",
+     "text": "Zobowiązania, za które dzierżawca nie odpowiada, stają się w stosunku do wydzierżawiającego wymagalne z chwilą wydzierżawienia, o ile nie są lub nie zostaną należycie zabezpieczone.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "50",
+   "path": "art_50",
+   "text": "Za zobowiązania, zaciągnięte przez dzierżawcę pod firmą wydzierżawiającego przed zarejestrowaniem dzierżawy, odpowiada wydzierżawiający jako dłużnik solidarny.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "51",
+   "path": "art_51",
+   "text": "Wierzyciele dzierżawcy, których wierzytelności powstały przy prowadzeniu wydzierżawionego przedsiębiorstwa, mogą zaspokajać się z surowców i towarów, wchodzących w skład przed: siębiorstwa, niezależnie od tego, czy sa one własnością dzierżawcy, czy też wydzierżawiającego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "52",
+   "path": "art_52",
+   "text": "Przy dzierżawie stosuje się odpowiednio przepis art. 46 § 1.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "53",
+   "path": "art_53",
+   "text": "Przepisy art. 49—52 stosuje się odpowiednio w razie ustanowienia użytkowania na przedsiębiorstwie.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ V",
+   "text": "Rachunkowość kupiecka,"
+  },
+  {
+   "type": "art",
+   "num": "54",
+   "path": "art_54",
+   "text": "Kupiec rejestrowy obowiązany jest prowadzić według zasad prawidiowej rachunkowości kupieckiej taką księgowość handlową, jaka ze względu na rodzaj i rozmiar przedsiębiorstwa jest konieczna celem ujawnienia stanu majątku i interesów handlowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art 55. § 1. Zapisy w księgach handlowych powinny być uskuteczniane w aliabecie języków dopuszczonych w sądach siedziby przedsiębiorstwa lub oddziału."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_54/par_2",
+     "text": "Jeżeli według zasad prawidłowej rachunkowości kupieckiej rachunki mają być prowadzone w formie księgi, ksiega powinna być oprawiona i karta za kartą opatrzona numerem porządkowym.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_54/par_3",
+     "text": "Nie wolno pozostawiać odstępów w miejscach, które powinny być wypełnione. Nie wolno treści pierwotnej wymazywać lub w inny sposób czynić nieczytelną; poprawki powinny być dokonywane w taki sposób, aby tekst pierwotny można było odczytać,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "56",
+   "path": "art_56",
+   "text": "Księgi handlowe, listy otrzymane, odpisy listów wysłanych, faktury i inne pisma, dotyczące zapisów, powinny być przechowywane przez dziesięć lat. Przy księgach handlowych termin ten liczy się od końca roku kalendarzowego, w którym został uskuteczniony ostatni zapis do księgi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 57, § 1. Kupiec obowiązany jest przy rozpoczęciu przedsiębiorstwa tudzież na koniec każdego roku obrotowego sporządzić inwentarz i bilans w walucie polskiej. § 2. Inwentarz i bilans podpisze kupiec; przy spółkach jawnych i komandytowych podpiszą wszyscy spólnicy, upoważnieni do prowadzenia spraw spółki."
+    },
+    {
+     "type": "text",
+     "text": "Art, 58. W inwentarzach i bilansach wolno wartość poszczególnych przedmiotów majątkowych oznaczać co najwyżej podług ich wartości rzeczywistej,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "59",
+   "path": "art_59",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_59/par_1",
+     "text": "W przypadkach podziału majątku, w szcześćiności podziału spadku, spólności lub majątku spółkoweśo, sąd może nakazać dopuszczenie uczestnika spólności lub zamiast niego męża zaułania do przejrzenia ksiąg w całej rozciągłości. W razie braku zgody męża zaufania wyznacza sąd. § 2. Przepis powyższy stosuje się także w przypadku, śdy wynaśrodzenie (tantjema, prowizja it. p.) ma być obliczone na podstawie ksiąg, przyczem sąd może ograniczyć zakres przeglądania.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_59/par_3",
+     "text": "Do wydania postanowienia w tej sprawie właściwy jest w przypadku, gdy sprawa jest przedniiotem procesu, sąd, przed którym sprawa się toczy, pozatem sąd rejestrowy, w którego okręgu znajduje się siedziba przedsiębiorstwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ VL",
+   "text": "Pełnomocnicy handlowi."
+  },
+  {
+   "type": "art",
+   "num": "60",
+   "path": "art_60",
+   "text": "Prokury może udzielić tylko kupiec rejestrowy przez pisemne oświadczenie,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "61",
+   "path": "art_61",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_61/par_1",
+     "text": "Prokura upoważnia do wszystkich czynności sądowych i pozasądowych, jakie są związane z prowadzeniem jakiegokolwiek przedsiębiorstwa zarobkowego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_61/par_2",
+     "text": "Do zbycia przedsiębiorstwa, wydzierżawienia i ustanowienia na niem prawa użytkowania oraz do zbywania i cbciążania nieruchomości potrzeba wyraźnego upoważnies.ją",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_61/par_3",
+     "text": "Nie można ośraniczyć prokury ze skutkiem prawnym wobec osób trzecich.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "62",
+   "path": "art_62",
+   "text": "Prokura 1aoże być udzielona kilku osobom oddzielnie lub łącznie; jednakże nawet w przypadku prokury łącznej oświadczenia, zwrócone do kupca, tudzież doręczenia pism mogą być dokonywane wobec jednej z osób łącznie ustanowionych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 63. Prokury nie można przenieść; prokurent jednak może ustanowić pełnomocnika do poszczególnych czynności lub pewnego rodzaju czynności."
+    },
+    {
+     "type": "text",
+     "text": "Prokura może być w każdej"
+    },
+    {
+     "type": "text",
+     "text": "Art. 64, § 1. chwili odwołana."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_62/par_2",
+     "text": "Prckura wygasa wskutek ogłoszenia upaałości kupca. § 3. Śmierć kupca ani utrata zdolności jego do dzislan prawnych nie powoduje wygaśnięcia prokury.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "65",
+   "path": "art_65",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_65/par_1",
+     "text": "Udzielenie 4 wyśaśnięcie prokury powinien kupiec zglosié celem wpisania do rejestru handlowego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_65/par_2",
+     "text": "Jeżeli prekura jest łączna, okoliczność ta będzie zaznaczona we wpisie,",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 3 Do zgłoszenia dclaczyé należy skreślony wobec sądu albo uwierzytelniony no'arjalnie wzór podpisu prokurenta."
+      },
+      {
+       "type": "text",
+       "text": "Art 66. § 1. Pełnomocnictwo, nie będące prokurą, udzielcne przez kupca do prowadzenia bądź całego przedsiębiorstwa, bądź jego części, bądź też do czynności pewnege rodzaju, upoważnia do wszystkich czynności, jakie zazwyczaj wiążą się z poruczonym pełnomocnikowi zakresem działania. Do przeniesienia w całości ctrzymanego pełnomocnictwa, do zbycia przedsiębiorstwa, wydzierżawienia i ustanowienia na niem prawa użytkowania, do zbywania lub obciążania nieruchomości, prowadzenia sporów, zawierania ugód, czynienia zapisów na sąd polubowny, podpisywania weksli i czeków, zaciąśania pożyczek potrzeba wyraźnego upoważnienia."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_65/par_2",
+     "text": "Inne ograniczenia pełnomocnictwa są skuteczne wobec osób trzecich jedynie wtedy, gdy osoby te o ograniczeniach wiedziały lub wiedzieć były powinny.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 67. § 1. Zasada artykułu poprzedza‘acego stosuje się także do pełnomocników, których kupiec używa poza swoim zakładem."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_65/par_2",
+     "text": "Jeżeli kupiec pełnomocnika takiego używa do sprzedaży, uważa się go w razie wątpliwości za upoważnionego do odbioru ceny kupna za towar, który wydaje, do ustanawiania terminów zapłaty w granicach przyjętych zwyczajem, do odbierania",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 82."
+      },
+      {
+       "type": "text",
+       "text": "zawiadomień o wadach towaru i oznajmień o pozostawieniu towaru do dyspozycji oraz innych podebnych oświadczeń."
+      },
+      {
+       "type": "text",
+       "text": "Art, 68. Osobę, czynną za wiedzą kupca w lokalu przecsiębicrstwa, przeznaczonym do obsługiwania rubliczności, uważa się w razie wątpliwości za upoważnioną do załatwiania interesów, jakie zazwyczaj w tego rodzaju przedsiębiorstwach i lokalach są podejmowane,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "69",
+   "path": "art_69",
+   "text": "Jeżeli kupiec zawiera umowę w imieniu osoby trzeciej, nie mając upoważnienia, aibo przekracza zakres upoważnienia, obowiązany będzie, o ile umowy takiej nie potwierdzi osoba, w któr rej imieniu ją zawarto, podług wyboru wierzycieia co dcpełnienia umowy albo do odszkodowania.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ VIL",
+   "text": "Kupiec jednoosobowy."
+  },
+  {
+   "type": "text",
+   "text": "Art 70 § 1. ile idzie o jednoosoboweśo kupca rejestrowego, podlegają wpisowi do rejestru: firma, siedziba, przecmict przedsiębiorstwa i okoliczności, dotyczące zaolncści kupca do działań prawnych, jak również zmiany powyższych danych."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do zstoszenia obowiązany jest kupiec. Do edie cata doleczyé należy skreślony wcbec sądu albo uwierzyteiniony notarialnie wzór podpisu kupca.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art 71, Mężatka, która prowadzi przedsiębiorstwo zarobkowe za zgodą męża, odpowiada za zobowiązania, pcewstałe przy prowadzeniu tego przecsickiorstwa, także tym majątkiem, na którym mężowi z mocy prawa lub umów małżeńskich służy prawo zarządu i użytkowania lub inne uprawnienie, i to bez wzglęcu na te uprawnienia. Odpowiedziainość ciąży również na majątku wspólnym, o ile spólność majątkowa istnieje za życia małżonków."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "72",
+   "path": "art_72",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_72/par_1",
+     "text": "Jeżeli mężatka jest kupcem rejestrowym, mąż może żądać wpisania do rejestru wzmianki, iż żona prowadzi przedsiębiorstwo bez jeśo zgody. 2",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_72/par_2",
+     "text": "Nie może on powolywaé się na brak zgody w stesunku do wierzycieli, będących w dobrej wierze, których roszczenia, związane z prowadzeniem przedsiębicrstwa przez żonę, powstały przed wpisem powyższej wzmianki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_72/par_3",
+     "text": "Jeżeli przedsiębiorstwo mężatki ma oddziały, rozstrzyga wpis w rejestrze zakładu głównego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "73",
+   "path": "art_73",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_73/par_1",
+     "text": "Zona kupca rejestrowego może żądać wpisania w rejestrze wzmianki o umowie, dotyczącej stosunków majątkowych małżeńskich, i o zmianach, jakieby zaszły w tych stosunkach, załączając do zgłoszenia potrzebne dokumenty celem przechowania w aktach rejestrowych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_73/par_2",
+     "text": "Umowy powyższe nie mają skutku wobec wierzycieli, będących w dobrej wierze, których roszczenia, związane z prowadzeniem przedsiębiorstwa przez kupca, powstały po zawarciu umów a przed ich wpisaniem.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_73/par_3",
+     "text": "Jeżeli przedsiębiorstwo kupca ma oddziały, rozstrzyga wpis w rejestrze zakładu głównego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ VIII",
+   "text": "Oscba prawna."
+  },
+  {
+   "type": "art",
+   "num": "74",
+   "path": "art_74",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_74/par_1",
+     "text": "Jeżeli kupcem rejestrowym jest osób» prawna, nie będąca spółką handlową, do zsłoszer.a firmy okowiezane są oscby, uprawnione według ustawy lub staiutu do reprezentowania osoby prawnej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_74/par_2",
+     "text": "W zgłoszeniu podać należy członków władz, uprawnicnych do reprezentowania osoby prawnej, Imiona i nazwiska tych członków wpisuje się do rejestru. Wzory ich podpisów, skreślone wobec sądu albo uwierzytelnione notarjalnie, dołączyć należy do zgłoszenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ IX",
+   "text": "Spółka jawna."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Przepisy ogólne,"
+  },
+  {
+   "type": "art",
+   "num": "75",
+   "path": "art_75",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_75/par_1",
+     "text": "Spółką jawną jest spółka, która prowadzi we wspólnem imieniu przedsiębiorstwo zarobkowe w większym rozmiarze (art. 4), a nie jest inną spółka handlową. § 2. Spółka, która prowadzi we wspólnem imieniu gospodarstwo rolne w większym rozmiarze (art. 7), a nie jest inną spétka handlewa, może być na swe żądanie wpisana do rejestru handlowego i przez wpis staje się spółką jawną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "76",
+   "path": "art_76",
+   "text": "Do spółki jawnej nie stosuje się przepisów kodeksu zobowiązań o spółce.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art 77. Umowa spółki powinna być pismem stwierdzona."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "78",
+   "path": "art_78",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_78/par_1",
+     "text": "Zmiana rostanowień umowy spółki wymaga zgody wszystkich spólników.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_78/par_2",
+     "text": "Nieważne są postanowienia umowy spółki, według których może być dokonana bez zgody wszystkich spólników istotna jej zmiana.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "79",
+   "path": "art_79",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_79/par_1",
+     "text": "Wypis spółki do rejestru handlowego powinien obejmować:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_79/par_1/pkt_1",
+       "text": "firmę, siedzibę i przedmiot przedsiębiorstwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_79/par_1/pkt_2",
+       "text": "imiona i nazwiska spólników oraz okoliczności, dotyczące zdo!ności spólnika do działań prawnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_79/par_1/pkt_3",
+       "text": "imiona i nazwiska osób, które są uprawnione do reprezentowania spółki i sposób tego reprezentowania;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_79/par_1/pkt_4",
+       "text": "zmiany powyższych danych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_79/par_2",
+     "text": "Każdy spólnik ma prawo i obowiązek zgłoszenia spółki do rejestru handlowego bez względu na odmienne brzmienie umowy spółki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_79/par_3",
+     "text": "Do zgłoszenia dołączyć należy skreślone wobec sądu albo uwierzytelnione notarjalnie wzory podpisów csób, uprawnionych do reprezentowania spółki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "80",
+   "path": "art_80",
+   "text": "Żora spólnika jawnego może żądać wpisania do rejestru wzmianki o umowie, dotyczącej stosunków majątkowych małżeńskich. Do wpisu tego stosuje się przepisy art. 73.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział II",
+   "text": "Stesunek do osób trzecich."
+  },
+  {
+   "type": "art",
+   "num": "81",
+   "path": "art_81",
+   "text": "Spółka jawna może nabywać prawa i zaciąśać zobowiązania, pozywać i być pozywana.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "82",
+   "path": "art_82",
+   "text": "Rzeczy i prawa, wniesione tytułem wkładu, a także nabyte lub uzyskane dla spółki w jaki bądź sposób w czasie jej istnienia, stanowią majątek spółki.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art 83. § 1. Każdy spólnik ma prawo reprezentować spółkę."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_82/par_2",
+     "text": "W umowie może być spólnik wyłączony od prawa reprezentowania spółki lub uprawniony do reprezentowania tylko łącznie z innym spólnikiem lub prekurentem.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_82/par_3",
+     "text": "Odjęcie spólnikowi wbrew jego woli prawa reprezentowania spółki może nastąpić jedynie z ważnych powodów wyrokiem sądowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "84",
+   "path": "art_84",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_84/par_1",
+     "text": "Prawo spólnika do reprezentowania spółki rozciąga się na wszystkie czynności sądowe i pozasądowe, związane z prowadzeniem jakiegckolwiek przedsiębiorstwa handlowego, nie wyłączając zbywania i chciążania nieruchomości, ustanawiania i cdwoływania prokury. § 2. Prawa reprezentowania spółki nie można ograniczyć ze skutkiem prawnym wobec osób trzecich.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "85",
+   "path": "art_85",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_85/par_1",
+     "text": "Za zobowiązania spółki odpowiada każdy spólnik wcbec wierzycieli bez ograniczenia całym swym ma;ątkiem solidarnie z pozostałymi spélnikami craz ze spółką. Zasada ta obowiązuje także w razie upadłości spółki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_85/par_2",
+     "text": "Jeżeli spólnikiem jest mężatka, stosuje się odpowiednio przepisy art. 71 i 72.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "86",
+   "path": "art_86",
+   "text": "Kto przystępuje do spółki już istniejącej, codpcwiada także za zobowiązania, powstałe przed jeśo przystąpieniem.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "87",
+   "path": "art_87",
+   "text": "Kto jako spólnik jawny przystępuje do przedsiębiorstwa kupca jednoosobowego, odpowiada także za zobcwiązania, powstałe przy prowadzeniu przedsiębiorstwa przed jego przystąpieniem.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art 88, Postanowienia umowne, niezgodne z przepisami art. 85 — 87, nie mają skutku prawnego wobec osób trzecich."
+    },
+    {
+     "type": "text",
+     "text": "Art, 89. § 1. Spólnik, pozwany z tytułu odpowiećzialności za zcbowiazania spółki, może przeciwstawić wierzycielowi zarzuty, służące spółce, tylko o tyle, o ile mogą jeszcze przez nią być podniesione."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_87/par_2",
+     "text": "Jeżeli zarzut wymaga oświadczenia woli ze strony spółki, jako to: uchylenie się cd skutków prawnych oświadczenia, potrącenie lub inne tym podobne, spólnik może odmówić zaspokojenia wierzyciela, dopóki spółka oświadczenia takiego nie złoży lub prawa do złożenia nie utraci,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "90",
+   "path": "art_90",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_90/par_1",
+     "text": "W czasie trwania spółki spólnik nie może żądać od dłużnika zapłaty przypadającego-nań udziału w wierzytelności spółki, ani wierzycielowi osobistemu przedstawiać do potrącenia wierzytelności spółki. § 2. Dłużnik spółki nie może przedstawiać spółce do potrącenia wierzytelności, jaka mu służy przeciwko jednemu ze spólników.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział III",
+   "text": "Stosunki wewnętrzne spółki. —"
+  },
+  {
+   "type": "art",
+   "num": "91",
+   "path": "art_91",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_91/par_1",
+     "text": "Umowa nie może powierzyć prowadzenia spraw spółki osobom trzecim z wyłączeniem spólników.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_91/par_2",
+     "text": "Nie może również ograniczyć prawa spólnika do cscbistego zasięgania wiadomości o stanie majątku oraz o biegu interesów spółki, ani jeśo prawa do osobistego przeglądania ksiąg i dckumentów spółki. R",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "92",
+   "path": "art_92",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_92/par_1",
+     "text": "Inne stosunki prawne między spólnikami ocenia się według umowy spółki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_92/par_2",
+     "text": "W braku postanowień w umowie spółki stosuje się przepisy poniższe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "93",
+   "path": "art_93",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_93/par_1",
+     "text": "Każdy spólnik ma prawo i obowiązek prowadzenia spraw spółki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_93/par_2",
+     "text": "Każdy spólnik może prowadzić bez uprzedniej uchwały spólników sprawy, nieprzekraczające zakresu zwykłych czynności spółki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_93/par_3",
+     "text": "Jeżeli jednak przed załatwieniem takiej sprawy choćby jeden 2 pozostałych spólników sprzeciwi się jej przeprowadzeniu, potrzeba uprzedniej uchwały spólników.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "94",
+   "path": "art_94",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_94/par_1",
+     "text": "Prowadzenie spraw spółki może być powierzone jednemu lub kilku spólnikom bądź na mocy umowy spółki, bądź na podstawie późniejszej uchwały, W tym razie pozostali spólnicy są wyłączeni od prowadzenia spraw spółki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_94/par_2",
+     "text": "Jeżeli prowadzenie spraw spółki powierzono kilku spólnikom, stosuje się co do sposobu prowadzenia spraw przepisy o prowadzeniu spraw przez wszystkich spólników z tą różnicą, że uchwałę wszystkich spólników zastępuje uchwała tych spólników, którym prowadzenie spraw spółki zostało powierzone.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "95",
+   "path": "art_95",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_95/par_1",
+     "text": "Ustanowienie prokury wymaga zgody wszystkich spólników, mających prawo prowadzenia spraw spółki, § 2. Odwołać prokurę może każdy spólnik, mający prawo prowadzenia spraw spółki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "96",
+   "path": "art_96",
+   "text": "Jeżeli w sprawach, nieprzekraczających zwykłych czynności spółki, potrzeba uchwały spólników, wymagana jest jednomyślność wszystkich powołanych do współdziałania spólników.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "97",
+   "path": "art_97",
+   "text": "W sprawach, przekraczających zakres zwykłych czynności spółki, potrzebna jest zgoda wszystkich spólników, nawet wyłączonych od prowadzenia spraw spółki.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "98",
+   "path": "art_98",
+   "text": "Spólnik, mający prawo prowadzenia spraw spółki, może bez uchwały spólników wykonać czynność nagłą, której zaniechanie mogłoby wyrządzić spółce niepowetowane straty, =",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "99",
+   "path": "art_99",
+   "text": "Prawa i obowiązki spólników, prowadzących sprawy spółki, ocenia się, w stosunku między nimi a spółką, wedłuś przepisów o zleceniu, a w przypadkach, gdy spólnik działa imieniem spółki, nie posiadając prawa prowadzenia jej spraw, albo gdy spólnik, uprawniony do prowadzenia spraw, przekracza swą władzę, — według przepisów o prowadzeniu cudzych spraw bez zlecenia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "100",
+   "path": "art_100",
+   "text": "Spólnik, prowadzący sprawy spółki, nie otrzymuje wynagrodzenia za pracę osobistą.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "101",
+   "path": "art_101",
+   "text": "Prawo prowadzenia spraw spółki może być spólnikowi cdjęte z ważnych powodów wyrokiem sądowym. Zasada ta odnosi się również do zwolnienia spólnika od obowiązku prowadzenia spraw spółki.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "102",
+   "path": "art_102",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_102/par_1",
+     "text": "W razie wątpliwości uważa się, że wkłady spólników mają być równe. § 2. Wkład spólnika może polegać na wniesieniu do spółki własności lub innych praw, na dozwoleniu używania rzeczy lub praw, albo na wykony-",
+     "children": [
+      {
+       "type": "text",
+       "text": "waniu pracy. § 3. Domniemywa się, że rzeczy, które spólnik zobowiązał się wnieść do spółki, mają być wniesione na własność."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "103",
+   "path": "art_103",
+   "text": "W przypadku, gdy spólnik zobowiązał się wnieść do spółki rzeczy inne niż pieniądze na własność lub do używania, wówczas do jego obowiązku świadczenia, odpowiedzialności z tytułu rękojmi i pcnoszenia niebezpieczeństwa stosuje się odpowiednio przepisy jużto © sprzedaży, jużto o najmie.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "104",
+   "path": "art_104",
+   "text": "Spólnik nie jest uprawniony ani obowiązany do pcdwyższenia umówionego wkładu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "105",
+   "path": "art_105",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_105/par_1",
+     "text": "Każdy spólnik ma prawo do równego udziału w zysku i uczestniczy w stratach w tym samym stosunku, bez względu na rodzaj i wartość wkładu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_105/par_2",
+     "text": "Spólnik, który wniósł tytułem wkładu tylko swą pracę, w razie wątpliwości nie uczestniczy w stratach. Umowa może także innych spólników zwolnić nawet w zupełności od udziału w stratach. § 3. Stosunek udziału spólników w. zysku, ustalony w umowie, odnosi się w razie wątpliwości tak- Że do udziału w stratach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "106",
+   "path": "art_106",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_106/par_1",
+     "text": "Spólnik może żądać podziału i wypłaty całości zysku z końcem każdego roku obrotowego. Abi § 2. Jeżeli jednak udział doznał wskutek strat uszczuplenia, obraca się zysk na jego uzupełnienie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "107",
+   "path": "art_107",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_107/par_1",
+     "text": "Spólnik ma prawo żądać corocznie wypłacenia odsetek w wysokości cztery od sta od swego udziału, nawet gdy spółka poniosła straty. § 2. Pozatem nie ma on prawa zmniejszenia swego udziału bez zgody pozostałych spólników.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "108",
+   "path": "art_108",
+   "text": "Spólnik nie może potrącać ze szkodami, za które odpowiada, korzyści, jakich przysporzył spółce w innych sprawach.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "109",
+   "path": "art_109",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_109/par_1",
+     "text": "W stosunku do spółki spólnikowi nie wolno rozporządzać prawami, służącemi |= żmą — mu z tytułu należenia do niej, z wyjątkiem praw do świadczeń w pieniądzach lub innych rzeczach, przypadających mu w czasie trwania spółki jako udział w.zysku, odsetki, zwrot wydatków, wynagrodzenie zą prowadzenie spraw, oraz praw z tytułu podziału majątku po ustąpieniu spólnika lub rozwiązaniu spółki. — § 2. Jeżeli spólnik przyjmie sobie spólnika lub ustąpi osobie trzeciej w całości lub w części prawa, służące mu z tytułu należenia do spółki, to ani jego spólnik, ani ta osoba trzecia nie zyskują charakteru spólnika w stosunku do spółki, a w szczególności nie mogą zasięgać wiadomości © stanie jej interesów. § 3. Przez czas trwania spółki żaden ze spólników nie może domagać się podziału majątku spółki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "110",
+   "path": "art_110",
+   "text": "§ i. Spólnik obowiązany jest poa \"RF § wstrzymać się od wszelkiej działalności, sprzecznej z. interesami spółki. § 2. W szczególności nie wolno spólnikowi bez wyraźnego lub domniemanego zezwolenia pozostałych spólników zajmcwać się interesami konkurencyjnemi ani też uczestniczyć w spółce konkurencyjnej jako spólnik jawny lub członek zarządu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "111",
+   "path": "art_111",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_111/par_1",
+     "text": "W przypadku naruszenia zakazu konkurencji każdy spólnik ma prawo żądać wydania spółce korzyści, jakie spólnik, przekraczający zakaz kcrkurencji, osiągnął, i odszkodowania.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_111/par_2",
+     "text": "Roszczenia te przedawniają się z upływem sześciu miesięcy od chwili, gdy wszyscy pozostali spólnicy dowiedzieli się o przekroczeniu zakazu, w każdym zaś razie z upływem trzech lat.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_111/par_3",
+     "text": "Przepisy powyższe nie naruszają prawa spólników do żądania rozwiązania spółki lub ustąpienia spólnika, przekraczającego zakaz konkurencji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "Rozwiązanie spółki i ustąpienie spólnika,"
+  },
+  {
+   "type": "art",
+   "num": "112",
+   "path": "art_112",
+   "text": "Rozwiązanie spółki powodują:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_112/pkt_1",
+     "text": "przyczyny przewidziane w umowie spółki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_112/pkt_2",
+     "text": "zgoda wszystkich spólników;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_112/pkt_3",
+     "text": "upadłość spółki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_112/pkt_4",
+     "text": "śmierć spólnika lub jego upadłość;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_112/pkt_5",
+     "text": "wypowiedzenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_112/pkt_6",
+     "text": "wyrok sądowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "113",
+   "path": "art_113",
+   "text": "Spółkę uważa się za przedłużoną milcząco na czas nieograniczony, jeżeli mimo istnienia powodów rozwiązania, przewidzianych w umowie, prowadzi nadal swe czynności za zgodą wszystkich spólników.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "114",
+   "path": "art_114",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_114/par_1",
+     "text": "Jeżeli umowa spółki stanowi, że w razie śmierci spólnika spółka ma istnieć nadal z jego spadkobiercami, a nie zawiera w tym względzie szczególnych postanowień, każdy spadkobierca może uzależnić swe pozostanie w spółce od przekształcenia spółki na spółkę komandytową i przyznania mu stanowiska komandytarjusza. W razie uwzględnienia żądania spadkobiercy, udział spadkodawcy, wykazany w ostatnim bilansie rocznym, albo przypadająca na danego spadkobiercę część tego udziału, stanowi jego wkład oraz sumę komandytową. W przeciwnym razie może spadkobierca bez wypowiedzenia ustąpić ze spółki. Ustąpienie uskutecznia się przez zawiadomienie pozostałych spólników lub spólnika, uprawnionego do reprezentowania spółki,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_114/par_2",
+     "text": "Prawa powyższe wykonać może spadkobierca tylko w terminie sześciomiesięcznym, licząc od dnia, w którym dowiedział się o otwarciu spadku.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_114/par_3",
+     "text": "Jeżeli w tym terminie spadkobierca uzyska stanowisko komandytarjusza, albo jeżeli ze spółki ustąpi lub spółka się rozwiąże, odpowiada za zobowiązania spółki, dotychczas powstałe, jedynie według zasad prawa spadkowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "115",
+   "path": "art_115",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_115/par_1",
+     "text": "Każdy ze spadkobierców, który pozostaje w spółce jako spólnik jawny, ma wszystkie prawa i obowiązki spólnika jawnego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_115/par_2",
+     "text": "Jeżeli umowa spółki stanowi, że prawa, jakie miał zmarły spólnik, służą wszystkim spadkobiercom wspólnie, a nie zawiera w tym względzie szczególnych postanowień, wówczas do wykonywania tych praw powinni spadkobiercy wskazać spółce jedną osobę. Czynności, dokonane przez pozostałych spólników przed takiem wskazaniem, są dla spadkobierców spólnika wiążące.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "116",
+   "path": "art_116",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_116/par_1",
+     "text": "Jeżeli spółkę zawarto na czas nieoznaczony, spólnik może wypowiedzieć spółkę na sześć miesięcy przed końcem roku obrotowego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_116/par_2",
+     "text": "Spółkę, zawartą na czas życia spólnika, uważa się za zawartą na czas nieoznaczony.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_116/par_3",
+     "text": "Wypowiedzenie uskutecznia się przez zawiadomienie pozostałych spólników lub spólnika, uprawnionego do reprezentowania spółki.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 1177 § 1. W czasie trwania spółki wierzyciele spólnika mogą uzyskać zajęcie tylko tych praw, służących spólnikowi z tytułu należenia do spółki, któremi spólnikowi wolno w stosunku do niej rozporządzać. §2. Jeżeli w ciągu ostatnich sześciu miesięcy przeprowadzono bezskutecznie egzekucję z ruchomości spólnika, wówczas jego wierzyciel osobisty, który na podstawie prawomocnego tytułu egzekucyjnego uzyskał zajęcie roszczeń, służących spólnikowi na przypadek jego ustąpienia lub rozwiązania spółki, może wypowiedzieć spółkę na sześć miesięcy przed końcem roku obrotowego, nawet gdy była zawarta na czas oznaczony. Jeżeli umowa spółki przewiduje krótszy termin wypowiedzenia, wierzyciel może skorzystać z terminu umownego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "118",
+   "path": "art_118",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_118/par_1",
+     "text": "Każdy spólnik może żądać z ważnych powodów rozwiązania spółki wyrokiem sądowym. § 2. Jeżeli jednak ważny powód zachodzi w osobie jednego ze spólników, sąd może na wniosek spólników pozostałych orzec, że spólnik, w którego osobie zaszedł ważny powód, ustępuje ze spółki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_118/par_3",
+     "text": "Przeciwne postanowienie umowne jest nieważne. aes",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "119",
+   "path": "art_119",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_119/par_1",
+     "text": "Pomimo śmierci lub upadłości spólnika oraz pomimo wypowiedzenia, dokonanego przez spólnika lub jego wierzyciela osobistego, spółka trwa nadal pomiędzy pozostałymi spólnikami, jeżeli tak stanowi umowa spółki lub pozostali spólnicy tak się ułożą.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_119/par_2",
+     "text": "Układ taki powinien nastąpić w przypadku śmierci lub upadłości bezzwłocznie, w przypadku zaś wypowiedzenia przed upływem terminu wypowiedzenia. W przeciwnym razie spadkobiercy, zarządca masy upadłości, spólnik, który wypowiedział, bądź też jeśo wierzyciel osobisty domagać się mogą przeprowadzenia likwidacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "120",
+   "path": "art_120",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_120/par_1",
+     "text": "W przypadkach ustąpienia spólnika ze spółki oznacza się wysokość udziału jego lub jego spadkobierców na podstawie osobnego bilansu, uwzględniającego wartość majątku spółkowego dla przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_120/par_2",
+     "text": "Jako dzień bilansowy przyjąć należy w przypadkach wypowiedzenia — ostatni dzień roku obrotowego, w którym upłynął termin wypowiedzenia, w przypadku śmierci lub upadłości — dzień śmierci albo ogłoszenia upadłości, w przypadku zaś ustąpienia z mocy wyroku — dzień wniesienia po-",
+     "children": [
+      {
+       "type": "text",
+       "text": "zwu."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_120/par_3",
+     "text": "Obliczony w ten sposób udział powinien być wypłacony w gotówce. Rzeczy, dane spółce przez spólnika tylko do używania, zwraca się w naturze.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "art_120/par_4",
+     "text": "Jeżeli przy rozliczeniu udział spólnika ustępującego okaże się bierny, spólnik jest obowiązany zapłacić spółce przypadającą nań część niedoboru.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "art_120/par_5",
+     "text": "Spólnik ustępujący lub jego spadkobiercy uczestniczą w zysku i stratach ze spraw jeszcze niezakończonych, nie mają jednak wpływu na ich prowadzenie, a mosą tylko żądać wyjaśnień, rachunków i podziału zysku i strat z końcem każdego roku obrotowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "121",
+   "path": "art_121",
+   "text": "Jeżeli w spółce, składającej się z dwóch spólników, w osobie jednego z nich zajdzie przyczyna rozwiązania, sąd może wyrokiem upoważnić drugiego spólnika do przejęcia majątku spółki z obowiązkiem rozliczenia się ze spólnikiem ustępującym według zasad artykułu poprzedzającego.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział V",
+   "text": "Likwidacja."
+  },
+  {
+   "type": "art",
+   "num": "122",
+   "path": "art_122",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_122/par_1",
+     "text": "Gdy zajdzie przyczyna rozwiązania spółki, odbywa się jej likwidacja, chyba że spólnicy umówili się o inny sposób zakończenia działalności spółki.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 2 W przypadku wypowiedzenia przez wierzyciela osobistego lub w razie upadłości spólnika, zawarcie takiej umowy po zajściu przyczyny rozwiązania wymaśa zgody w pierwszym przypadku wierzyciela osobistego, w drugim — zarządcy masy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "123",
+   "path": "art_123",
+   "text": "Do spółki w okresie likwidacji stosuje się przepisy o stosunkach zewnętrznych i wewnętrznych spółki jawnej, o ile co innego nie wynika z przepisów tego rozdziału lub celu likwidacji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr, 82."
+    },
+    {
+     "type": "text",
+     "text": "zakaz konku-"
+    },
+    {
+     "type": "text",
+     "text": "Art 124. W czasie likwidacji likwidatorencji obowiązuje tylko osoby, będące rami."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "125",
+   "path": "art_125",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_125/par_1",
+     "text": "Likwidatorami są wszyscy spólnicy. Mogą oni jednomyślnie powołać na likwidatorów tylko niektórych z pośród siebie, jako też osoby z poza swego grona. §2 Spadkobiercy spólnika powinni wskazać spółce do wykonywania swych praw jedną osobę. Czynności, dokonane przez pozostałych spólników przed takiem wskazaniem, są obowiązujące dla spadkobierców spólnika.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_125/par_3",
+     "text": "Na miejsce spólnika upadłego wchodzi zarządca masy upadłości.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 126, § 1. Sąd rejestrowy może z ważnych powodów, na wniosek bądź spólnika, bądź innej osoby interesowanej, ustanowić likwidatorami tylko niektórych z pośród spólników, jako też osoby z poza ich grona. § 2. Przeciwne postanowienie umowne jest nieważne."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "127",
+   "path": "art_127",
+   "text": "Likwidatorzy mogą być odwołani za jednomyślną zgodą spólników.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "128",
+   "path": "art_128",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_128/par_1",
+     "text": "Z ważnych powodów sąd rejestrowy może, na wniosek spólnika lub osoby interesowanej, odwołać likwidatorów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "-§ 2. Likwidatorów, ustanowionych przez sąd, tylko sąd może odwołać."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_128/par_3",
+     "text": "Przeciwne postanowienia umowne są nieważne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "129",
+   "path": "art_129",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_129/par_1",
+     "text": "Otwarcie likwidacji, imiona i nazwiska likwidatorów, sposób reprezentowania spółki przez likwidatorów i wszelkie w tym względzie zmiany należy zgłosić do rejestru handlowego, nawet gdyby nie nastąpiła żadna zmiana w dotychczasowej reprezentacji spółki. Każdy likwidator ma prawo i obowiązek dokonania powyższego zgłoszenia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_129/par_2",
+     "text": "Do zgłoszenia dołączyć należy skreślone wobec sądu albo uwierzytelnione notarjalnie wzory podpisów likwidatoréw. §3. Wpis likwidatorów przez sąd ustanowionych i wykreślenie likwidatorów przez sąd odwołanych następuje z urzędu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "art_129/par_4",
+     "text": "Likwidację prowadzi się pod firmą spółki z dodatkiem „w likwidacji”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "130",
+   "path": "art_130",
+   "text": "Jeżeli jest kilku likwidatorów, upoważnieni są oni do reprezentowania spółki łącznie, o ile czego innego nie postanowili spólnicy lub sąd, powołujący likwidatorów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "131",
+   "path": "art_131",
+   "text": "W sprawach, w których potrzeba uchwały likwidatorów, rozstrzyga większość głosów, o ile czego innego nie postanowili spólnicy lub sad, powołujący likwidatorów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "132",
+   "path": "art_132",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_132/par_1",
+     "text": "Likwidatorzy zakończą interesy bieżące spółki, ściągną wierzytelności i spieniężą majątek spółki zarówno ruchomy jak nieruchomy, z wolnej ręki lub przez licytację publiczną, Nowe interesy mogą zawierać tylko wówczas, gdy to jest potrzebne do ukończenia dawnych.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_132/par_2",
+     "text": "W stosunku wewnętrznym likwidatorzy są obowiązani stosować się do uchwał spólników. Likwidatorzy, ustanowieni przez sąd, obowiązani są stosować się do jednomyślnych uchwał, powziętych przez spólników oraz przez te osoby interesowane, które spowodowały ich ustanowienie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "133",
+   "path": "art_133",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_133/par_1",
+     "text": "W granicach zakresu działania, wskazanego w § 1 artykułu poprzedzającego, likwidatorzy mają prawo reprezentowania spółki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_133/par_2",
+     "text": "Ograniczenia tego zakresu działania likwidatorów nie mają skutku prawnego wobec osób trzecich.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_133/par_3",
+     "text": "Wobec osób trzecich, działających w dobrej wierze, uważa się czynności, przedsięwzięte przez likwidatorów, za czynności likwidacyjne.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 134, W czasie likwidacji prokura nie może być ustanowiona, Prokura przedtem ustanowio-"
+      },
+      {
+       "type": "text",
+       "text": "na wygasa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "135",
+   "path": "art_135",
+   "text": "Odpowiedzialność spadkobierców spólnika za zobowiązania spółki, zaciągnięte w toku likwidacji, ocenia się według przepisów prawa spadkowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 136. § 1. Przy rozpoczęciu i zakończeniu likwidacji sporządzą likwidatorzy bilans."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_135/par_2",
+     "text": "Gdyby likwidacja trwała dłużej niż jeden rok, należy bilans sporządzać corocznie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 137. § 1. Z majątku spółki spłaca się przedewszystkiem zobowiązania spółki oraz pozostawia odpowiednie kwoty na pokrycie zobowiązań jeszcze niewymagalnych lub spornych. §2. Pozostały majątek dzieli się między spólników stosownie do postanowień umowy spółki. W braku umowy spłaca się spólnikom udziały, przewyżkę zaś dzieli się między spólników według stosunku, w jakim uczestniczą w zysku."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_135/par_3",
+     "text": "Rzeczy, dane spółce przez spólnika tylko do używania, zwraca się spólnikowi w naturze,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 138, Gdyby majątek spółki nie wystarczał na spłatę długów i udziałów, niedobór dzieli się między spólników wedłuś postanowień umowy, a w braku umowy w stosunku, w jakim uczestniczą w stratach, W przypadku niewypłacalności jednego ze spólników, przypadającą nań część niedoboru dzieli się między spólników pozostałych w takim samym stosunku."
+      },
+      {
+       "type": "text",
+       "text": "Art 139. § 1. Ukończenie likwidacji zgłoszą likwidatorzy celem wykreślenia firmy z rejestru handlowego. W przypadku rozwiązania spółki bez przeprowadzenia likwidacji obowiązek zgłoszenia ciąży na spólnikach."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_135/par_2",
+     "text": "Księgi i dokumenty spółki rozwiązanej będą oddane na przechowanie spólnikowi lub osobie trzeciej, Przechowawcę w braku zgody oznaczy sąd rejestrowy. . ' § 3. Spólnicy i osoby interesowane mają prawo prześlądać księgi i dokumenty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "140",
+   "path": "art_140",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_140/par_1",
+     "text": "W przypadku upadłości spółki rozwiązanie następuje dopiero po ukończeniu postępowania upadłościowego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_140/par_2",
+     "text": "Nie rozwiązuje się jednak spółka, śdy postępowanie kończy się układem lub zostanie z innych przyczyn uchylone lub umorzone.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VI",
+   "text": "Przedawnienie roszczeń."
+  },
+  {
+   "type": "art",
+   "num": "141",
+   "path": "art_141",
+   "text": "Roszczenia przeciwko spólnikom z tytułu zobowiązań spółki przedawniają się z upływem pięciu lat od daty zarejestrowania wykreślenia firmy lub ustąpienia spólnika, chyba że roszczenie przeciwko spółce ulega krótszemu przedawnieniu. Jeżeli roszczenie staje się płatne dopiero po zarejestrowaniu, przedawnienie zaczyna biec od dnia płatności.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art 142. Przedawnienia, biegnącego na korzyść spólnika, który ustąpił ze spółki, nie przerywają działania prawne, skierowane przeciwko spółce."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ X",
+   "text": "Spółka komandytowa."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział L",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "art",
+   "num": "143",
+   "path": "art_143",
+   "text": "Spółka, mająca na celu prowadzenie w większym rozmiarze przedsiębiorstwa zarobkowego albo gospodarstwa rolnego pod wspólną firmą, jest spółką komandytową, jeżeli wobec wierzycieli za zobowiązania spółki przynajmniej jeden spólnik odpowiada bez ośraniczenia, a odpowiedzialność przynajmniej jednego spólnika (komandytarjusza) jest ograniczona.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "144",
+   "path": "art_144",
+   "text": "Oile dział niniejszy nie zawiera przepisów odmiennych, do spółki komandytowej stosuje się odpowiednio przepisy o spółce jawnej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "145",
+   "path": "art_145",
+   "text": "Zawarcie spółki komandytowej wymaga zachowania formy aktu notarjalnego pod rygorem nieważności,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "146",
+   "path": "art_146",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_146/par_1",
+     "text": "Spółka komandytowa powstaje z chwilą dokonania wpisu do rejestru handlowego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_146/par_2",
+     "text": "Zarejestrowaniu ulegają oprócz danych, wskazanych w art. 79, przedmiot wkładu każdego komandytarjusza z zaznaczeniem, w jakiej części został wniesiony, zwroty wkładów choćby częściowe, oznaczona pieniężnie wysokość odpowiedzialności każdego komandytarjusza wobec wierzycieli (suma komandytowa), jako też zmiany powyższych danych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_146/par_3",
+     "text": "Przepis art. 80 stosuje się również do żony komandytarjusza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział II",
+   "text": "Stosunek do osób trzecich."
+  },
+  {
+   "type": "art",
+   "num": "147",
+   "path": "art_147",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_147/par_1",
+     "text": "Komandytarjusz odpowiada za zobowiązania spółki wobec jej wierzycieli tylko do wysokości sumy komandytowej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_147/par_2",
+     "text": "Jeżeli komandytarjuszem jest mężatka, nie stosuje się przepisu art. 72 o rejestracji braku zgody męża.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "148",
+   "path": "art_148",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_148/par_1",
+     "text": "Komandytarjusz wolny jest od odpowiedzialności w granicach wartości wkładu, wniesionego do majątku spółki.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_148/par_2",
+     "text": "W razie zwrotu wkładu w całości lub w części odpowiedzialność zostaje przywrócona w wysokości wartości dokonanego zwrotu. § 3. W razie uszczuplenia wkładu przez straty uważa się w stosunku do wierzycieli za zwrot wkładu każdą wypłatę, dokonaną przez spółkę na rzecz komandytarjusza przed uzupełnieniem wkładu do pierwotnej wysokości. Dokonanie takich wypłat nie ulega rejestracji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "149",
+   "path": "art_149",
+   "text": "Obniżenie sumy komandytowej nie ma skutku prawnego wobec wierzycieli, których roszczenia powstały przed zarejestrowaniem obniżenia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "150",
+   "path": "art_150",
+   "text": "Kto przystępuje do istniejącej spółki w charakterze komandytarjusza, odpowiada także za zobowiązania spółki, istniejące w chwili wpisania go do rejestru handlowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "151",
+   "path": "art_151",
+   "text": "Kto jako komandytarjusz przystępuje do przedsiębiorstwa kupca jednoosobowego, odpowiada także za zobowiązania, powstałe przy prowadzeniu przedsiębiorstwa, a istniejące w chwili wpisania spółki do rejestru handlowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 152. § 1. Komandytarjusz może reprezentować spółkę jedynie na zasadzie pełnomocnictwa."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_151/par_2",
+     "text": "Jeżeli zawrze czynność w imieniu spółki, nie ujawniając swego pełnomocnictwa, odpowiada z tej czynności wobec osób trzecich bez ograniczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "153",
+   "path": "art_153",
+   "text": "Postanowienia umowne, niezgodne z przepisami art. 147 — 152, nie mają skutku prawnego wobec osób trzecich.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział III",
+   "text": "Stosunki wewnętrzne spółki."
+  },
+  {
+   "type": "art",
+   "num": "154",
+   "path": "art_154",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_154/par_1",
+     "text": "Komandytarjusz ma prawo domagać się odpisu rocznego bilansu oraz przeglądać księgi i dokumenty celem sprawdzenia jego rzetelności. § 2. Na wniosek komandytarjusza sąd rejestrowy może z ważnych powodów zarządzić w każdym czasie udzielenie bilansu lub innych wyjaśnień, tudzież dopuścić go do przejrzenia ksiąg i dokumentów. § 3. Umowa nie może wyłączyć ani ograniczyć uprawnień komandytarjusza, służących mu z mocy artykułu niniejszego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "155",
+   "path": "art_155",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_155/par_1",
+     "text": "W braku odmiennego postanowienia umowy komandytarjusz nie ma ani prawa, ani obowiązku prowadzenia spraw spółki, § 2. W sprawach, przekraczających zakres zwykłych czynności spółki, potrzebna jest jeśo zgoda.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "156",
+   "path": "art_156",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_156/par_1",
+     "text": "Umowa powinna określać sposób podziału zysku i strat.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 82."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_156/par_2",
+     "text": "W razie wątpliwości komandytarjusz uczestniczy w stratach jedynie do wysokości umówionego wkładu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "Rozwiązanie spółki i ustąpienie spólnika."
+  },
+  {
+   "type": "art",
+   "num": "157",
+   "path": "art_157",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_157/par_1",
+     "text": "Śmierć komandytarjusza nie stanowi przyczyny rozwiązania spółki. Spadkobiercy komandytarjusza powinni wskazać spółce do wykonywania jego praw jedną osobę. Czynności, dokonane przez pozostałych spólników przed takiem wskazaniem, są dla spadkobierców komandytarjusza wiążące. § 2. Podział między spadkobierców udziału komandytarjusza skuteczny jest wobec spółki jedynie za zgoda pozostałych spólników,",
+     "children": [
+      {
+       "type": "text",
+       "text": "KSIĘGA DRUGA."
+      },
+      {
+       "type": "text",
+       "text": "CZYNNOŚCI HANDLOWE."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ L",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "art",
+   "num": "158",
+   "path": "art_158",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_158/par_1",
+     "text": "Czynności prawne kupca, związane z prowadzeniem jego przedsiębiorstwa, są czynnościami handlowemi. § 2. Domniemywa się, że każda czynność prawna kupca jest czynnością handlową.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "159",
+   "path": "art_159",
+   "text": "Jeżeli czynność jest handlowa dla jednej ze stron, stosuje się przepisy prawa handlowego do obu stron, chyba że prawo stanowi inaczej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 160, Domniemywa się, że zwyczaje handlowe są kupcowi znane."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "161",
+   "path": "art_161",
+   "text": "Kupiec, który z czynności dla niego handlowej obowiązany jest do staranności, powinien dokładać staranności sumiennego kupca.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "162",
+   "path": "art_162",
+   "text": "W sporach, wynikających z czynności handlowych, może sędzia, o ile uzna to za niezbędne, dopuścić dowód ze świadków przeciw osnowie lub ponad osnowę dokumentu prywatnego.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ IL",
+   "text": "Prawo rzeczowe."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział L",
+   "text": "Prawo własności."
+  },
+  {
+   "type": "art",
+   "num": "163",
+   "path": "art_163",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_163/par_1",
+     "text": "Jeżeli kupiec w zakresie swego przedsiębiorstwa zbywa i oddaje cudzą rzecz ruchomą, nabywca, który jest w dobrej wierze co do uprawnienia kupca do rozporządzania tą rzeczą, staje się jej właścicielem.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_163/par_2",
+     "text": "Jeżeli kupiec w zakresie swego przedsię biorstwa zbywa i oddaje rzecz ruchomą, która była skradziona lub zgubiona, nie staje się ona własnością nabywcy, jednakże właściciel może żądać od nabywcy w dobrej wierze wydania rzeczy tylko w ciągu lat trzech od utraty posiadania i tylko za zwrotem tego, co nabywca na nią wyłożył.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "164",
+   "path": "art_164",
+   "text": "Przepis art. 163 § 1 stosuje się do pieniędzy i papierów na' okaziciela także wtedy, gdy ani zbywca ani nabywca nie byli kupcami i gdy właściciel utracił ich posiadanie wbrew swej woli.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "165",
+   "path": "art_165",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_165/par_1",
+     "text": "Kupca, prowadzącego przedsiębiorstwo bankowe, który nabywa papier na okaziciela skradziony lub zgubiony, nie uważa się za będącego w dobrej wierze, jeżeli utracony papier na okaziciela został objęty postępowaniem umarzającem a kupiec nabył papier po ogłoszeniu o wszczęciu takiego postępowania w Monitorze Polskim. Ogłoszenie nie ma tego skutku, jeżeli kupiec nie mógł o niem wiedzieć.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_165/par_2",
+     "text": "Przepis powyższy nie stosuje się do biletów bankowych i do papierów na okaziciela, płatnych za okazaniem, oraz do kuponów procentowych i dywidendowych, płatnych w najbliższym terminie, następującym po dacie nabycia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "166",
+   "path": "art_166",
+   "text": "Przepisy powyższe stosuje się odpowiednio w przypadkach, gdy rzecz obciążona była prawami osób. trzecich.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IL",
+   "text": "Prawo zastawu."
+  },
+  {
+   "type": "art",
+   "num": "167",
+   "path": "art_167",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_167/par_1",
+     "text": "Zastaw jest handlowy, jeżeli ma za przedmiot rzeczy ruchome lub papiery wartościowe, a ustanowienie zastawu jest czynnością handlową dla obu stron.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_167/par_2",
+     "text": "Ustanowienie zastawu handlowego powiń- RO być stwierdzone pismem z datą urzędownie ustaoną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "168",
+   "path": "art_168",
+   "text": "Przepisy o znaczeniu dobrej wiary przy nabyciu własności stosuje się odpowiednio do nabycia prawa zastawu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "169",
+   "path": "art_169",
+   "text": "W braku zapłaty wierzyciel, który chce zaspokoić się z zastawu, obowiązany jest listem poleconym zagrozić zastawcy sprzedażą, chyba że zagrożenia nie da się uskutecznić. Sprzedaż może nastąpić dopiero po upływie dwóch tygodni od daty zagrożenia, a jeżeli nie da się go uskutecznić, od daty płatności zabezpieczonej wierzytelności, przed upływem zaś terminów powyższych tylko wówczas, gdyby zwłoka naraziła zastawcę na szkodę.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "170",
+   "path": "art_170",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_170/par_1",
+     "text": "Sprzedaż przeprowadza na zadanie wierzyciela notarjusz lub komornik, a jeżeli przecmict dGopuszczony jest do obrotu giełdowego, także przysięgły makler giełdowy. Sprzedaż przeprowadza się przez licytacię publiczną, Jeżeli przedmiot zastawu ma cenę gieldowa lub targową, sprzedaż dokonana bęczie z wolnej ręki po kursie dziennym, w drodze zaś licytacji publicznej tylko wówczas, śdy sprzedaży z wolnej ręki nie dało się uskutecznić.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_170/par_2",
+     "text": "Sprzedaż przez licytację publiczną odbywa się bez oszacowania w jednym terminie, przyczem nie stosuje się przepisów kodeksu postępowania cywilnego, Do zastawcy należy wysłać zawiadomienie o miejscu i czasie licytacji, chyba że zwłoka grozi niebezpieczeństwem. Tryb dokonywania licytacji określi bliżej rozporządzenie Ministra Sprawiedliwesci, wydane w porozumieniu z Ministrem Przemysłu i Handlu i Ministrem Skarbu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "171",
+   "path": "art_171",
+   "text": "Z ceny, osiąśniętej przy sprzedaży, organ przeprowadzający sprzedaż zaspokoi koszty sprzedaży oraz nieuiszczone od sprzedanego przedmiotu daniny publiczne, resztę zaś wyda wierzycielowi.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "172",
+   "path": "art_172",
+   "text": "Wierzyciel obowiązany jest bezzwiceznie zawiadomić zastawcę o dokonaniu sprzedaży i jej wyniku, chyba że zawiadomienia nie da się uskutecznié.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "173",
+   "path": "art_173",
+   "text": "Sprzedaż przenosi własność w stanie wolnym od ciężarów mimo niezachowania przepisów art. 169 — 172, wierzyciel jednak obowiązany jest do odszkodowania. Zastawca nie może zrzec się zśóry prawa do powyższego odszkodowania.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "174",
+   "path": "art_174",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_174/par_1",
+     "text": "Jeżeli przedmiotem zastawu są papiery wartościowe, wierzyciel uprawniony jest do zaspokojenia swej wierzytelności z tych papierów w terminach ich płatności nawet jeszcze przed nadejściem terminu płatności zabezpieczonej wierzytelności. Wierzyciel obowiązany jest przytem do zachowania przepisanych prawem czynności zachowawczych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_174/par_2",
+     "text": "Przepis powyższy nie pozbawia wierzyciela praw, służących mu z mocy artykułów poprzedzających.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "175",
+   "path": "art_175",
+   "text": "Przepisy art. 168 — 174 stosuje się odpowiednio do przewidzianych w kodeksie niniejszym przypadków ustawowego zastawu, i to nawet wobec osoby, nie będącej kupcem.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "176",
+   "path": "art_176",
+   "text": "Przepisy art. 168 — 174 stosuje się odpowiednio do zastawu, ustanowionego na zabezpieczenie tranzakcji giełdowej.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IIL",
+   "text": "Prawo zatrzymania,"
+  },
+  {
+   "type": "art",
+   "num": "177",
+   "path": "art_177",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_177/par_1",
+     "text": "Kupcowi służy na zabezpieczenie płatnej wierzytelności, którą ma do innego kupca z zawartej z nim obustronnej czynności handlowej, prawo zatrzymania na rzeczach ruchomych i papierach wartościowych, stanowiących własność dłużnika, które z jego wiedzą i wolą otrzymał w swoje dzierżenie na podstawie czynności handlowej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_177/par_2",
+     "text": "Prawo zatrzymania nie służy wierzycielowi, jeżeli dłużnik przed oddaniem lub przy oddaniu rzeczy zlecił wierzycielowi, aby postąpił z niemi w pewien oznaczony sposób, albo też wierzyciel, choćby w czasie późniejszym, przyjął takie zobowiązanie, a wykonanie prawa zatrzymania byłoby z tem",
+     "children": [
+      {
+       "type": "text",
+       "text": "sprzeczne."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "178",
+   "path": "art_178",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_178/par_1",
+     "text": "Jeżeli ogłoszono upadłość dłużnika lub wszczęto postępowanie układowe albo postępowanie celem zapobiegania upadłości, jeżeli dłużnik wstrzymał wypłaty albo też egzekucja z jeśo ruchomości pozostała bezskuteczna, prawo zatrzymania służy wierzycielowi także na zabezpieczenie wierzytelności jeszcze niepłatnej,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": ". § 2. Wierzyciel, który o okolicznościach powyższych dowiedział się dopiero po otrzymaniu od dłużnika zlecenia do postąpienia z oddanemi rzeczami w pewien oznaczony sposób lub po przyjęciu ta- * kiego zobowiązania, może wykonać prawo zatrzymania bez względu na powyższe zlecenie lub zobowiązanie."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "179",
+   "path": "art_179",
+   "text": "Przedmiotem prawa zatrzymania mogą być również rzeczy, będące własnością wierzyciela, w przypadku, gdy jest on obowiązany do wydania ich dłużnikowi.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "180",
+   "path": "art_180",
+   "text": "Prawo zatrzymania służy wierzycielowi, dopóki przedmioty tego prawa znajdują się u niego lub u osoby, która je dzierży w jego imieniu, albo dopóki niemi może rozporządzać zapomocą papierów towarowych, w szczególności zapomocą dowodów składowych, dowodów ładunkowych lub konosamentów. Jest ono skuteczne w stosunku do dłużnika i jego wierzycieli oraz osób trzecich, które nabyły prawa na przedmiocie zatrzymanym dopiero po powstaniu prawa zatrzymania.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "181",
+   "path": "art_181",
+   "text": "O dokonanem zatrzymaniu wierzyciel obowiązany jest zawiadomić dłużnika listem poleconym, chyba że zawiadomienia nie da się uskutecznić. Zaniedbanie zawiadomienia zobowiązuje do odszkodowania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 182, Wierzyciel nie może wykonać prawa zatrzymania, o ile ma lub otrzyma należyte zabezpieczenie."
+    },
+    {
+     "type": "text",
+     "text": "Art. 183, Niezależnie od zatrzymania służy wierzycielowi dla płatnych wierzytelności prawo zaspokojenia się z zatrzymanych przedmiotów według przepisów o zaspokojeniu się z zastawu handlowego. Wierzycielowi służy przytem pierwszeństwo przed osobami, w stosunku do których prawo zatrzymania jest skuteczne."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ III",
+   "text": "Zobowiązania."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "text",
+   "text": "Art. 184, Wystawienie towaru w miejscu sprzedaży na widok publiczny z oznaczeniem ceny uważa się za ofertę,"
+  },
+  {
+   "type": "art",
+   "num": "185",
+   "path": "art_185",
+   "text": "Jeżeli kupiec, którego przedsiębiorstwo obejmuje załatwianie cudzych interesów, otrzyma ofertę do załatwienia takiego interesu od osoby, z którą pozostaje w stałych stosunkach handlowych, obowiązany jest do bezzwłocznej odpowiedzi; jego milczenie uważa się za przyjęcie oferty.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "186",
+   "path": "art_186",
+   "text": "Jeżeli oferent łącznie z oferta przesyła towar kupcowi, z którym pozostaje w stałych stosunkach handlowych, a kupiec oferty nie przyj-_ muje, nie może towaru odesłać bez porozumienia się z oferentem. Obowiązany jest postarać się o przechowanie towaru na koszt sprzedawcy aż do chwili, w której w normalnych warunkach sprzedawca bę-",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr. 82."
+    },
+    {
+     "type": "text",
+     "text": "dzie miał możność nim rozporządzić, chyba że przechowanie wymaga kosztów, na które niema pokrycia."
+    },
+    {
+     "type": "text",
+     "text": "Art. 1877 § 1. Przepisów kodeksu zobowiązań o formie pisemnej dla celów dowodowych nie stosuje się, jeżeli czynność jest handlowa dla obu stron."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_186/par_2",
+     "text": "Przepisu powyższego nie stosuje się do uchylenia się od skutków prawnych oświadczenia woli, złożonego pod wpływem błędu, podstępu, groźby albo wyzysku, do najmu i dzierżawy nieruchomości oraz do poręczenia,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 188. Spółdłużnik z czynności, która dla niego jest handlowa, odpowiada solidarnie."
+      },
+      {
+       "type": "text",
+       "text": "Art. 189, Kupiec, dla którego poręczenie jest czynnością handlową, odpowiada solidarnie z tym, za kogo poręczył."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "190",
+   "path": "art_190",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_190/par_1",
+     "text": "Jeżeli kupiec w wykonywaniu swego przedsiębiorstwa zobowiązał się do odszkodowania umownego, nie może żądać jego zmniejszenia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_190/par_2",
+     "text": "Jeżeli przy czynności handlowej umówiono odszkodowanie, żadna ze stron nie może dochodzić odszkodowania wyższego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "191",
+   "path": "art_191",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_191/par_1",
+     "text": "Jeżeli czas wykonania zobowiązania oznaczony jest na wiosnę, jesień, sezon lub w inny podobny sposób, w razie wątpliwości rozstrzyga zwyczaj handlowy miejsca wykonania zobowiązania.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_191/par_2",
+     "text": "O oznaczeniu wagi, miary, waluty, obliczenia czasu i odległości rozstrzyga w razie wątpliwości miejsce wykonania zobowiązania,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IL",
+   "text": "Rachunek bieżący."
+  },
+  {
+   "type": "art",
+   "num": "192",
+   "path": "art_192",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_192/par_1",
+     "text": "Przez umowę rachunku bieżącego strony zobowiązują się między sobą, że wynikające z czynności handlowych wierzytelności i świadczenia obu stron wpisywane będą na rachunek i że rozliczenie oraz ustalenie nadwyżki (salda) dokonywane będzie tylko co pewien czas.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_192/par_2",
+     "text": "Rozliczenie następuje z końcem każdego półrocza kalendarzowego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 193. § 1. Poszczególnemi wierzytelnościami, wpisanemi na rachunek, nie można oddzielnie rozporządzać ani oddzielnie ich dochodzić, § 2. Wynikająca z rozliczenia nadwyżka jest płatna natychmiast, jeżeli nie nastąpi przeniesienie jej na okres dalszy."
+      },
+      {
+       "type": "text",
+       "text": "\"Art. 194. Jeżeli strona, która otrzymała rozliczenie, nie podniesie przeciw niemu bez usprawiedliwionej zwłoki zarzutu, uważa się, że je uznała."
+      },
+      {
+       "type": "text",
+       "text": "Art 195. Uznanie rozliczenia stanowi samoistny tytuł prawny."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "196",
+   "path": "art_196",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_196/par_1",
+     "text": "Wpisanie do rachunku wierzytelności do osoby trzeciej uważa się za stanowcze i dokonane na niebezpieczeństwo nabywcy wierzytelności.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_196/par_2",
+     "text": "Jeżeli jednak nabycie nastąpiło z zastrzeżeniem inkasa lub jeżeli chodzi o wierzytelność z wekslu, czeku lub przekazu, a wierzytelność ta nie została przez trzecieśo w terminie zaspokojona, nabywca może skreślić ją z rachunku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "197",
+   "path": "art_197",
+   "text": "Od ustalonej przy rozliczeniu nadwyżki należą się odsetki także w tym przypadku, śdy w nadwyżce policzone już były odsetki od poszczególnych pozycyj.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "198",
+   "path": "art_198",
+   "text": "Szczególne zabezpieczenie dla wierzytelności, weiagnietej do rachunku bieżącego, jak również zobowiązanie spółdłużnika, pozostaje w mocy w tych granicach, w jakich nadwyżka wyrównywa się z ową wierzytelnością.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "199",
+   "path": "art_199",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_199/par_1",
+     "text": "Strona może wypowiedzieć umowę rachunku bieżącego każdej chwili. Wypowiedzenie ma skutek dopiero od najbliższego terminu rozliczenia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_199/par_2",
+     "text": "Z ważnych powodów można wypowiedzieć umowę z tym skutkiem, że rozliczenie i płatność nadwyżki następuje natychmiast,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "200",
+   "path": "art_200",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_200/par_1",
+     "text": "Jeżeli wierzyciel strony, pozostającej w stosunku rachunku bieżącego, uzyskał zajęcie przyszłej nadwyżki, nie można przez wstawienie nowych pozycyj pogorszyć położenia wierzyciela, chyba że wstawienie ich jest następstwem powstałeśo przed zajęciem stosunku prawnego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_200/par_2",
+     "text": "Przepis art. 196 § 2 stosuje się także i w tym przypadku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IIL",
+   "text": "Sprzedaż handlowa."
+  },
+  {
+   "type": "text",
+   "text": "Art, 201. Sprzedaż jest handlowa, jeżeli ma za przedmiot rzeczy ruchome lub papiery wartościowe i jest czynnością handlową."
+  },
+  {
+   "type": "art",
+   "num": "202",
+   "path": "art_202",
+   "text": "Jeżeli sprzedawca zastrzega sobie własność, zastrzeżenie powinno być pismem stwierdzone. Jest ono skuteczne wobec wierzycieli nabywcy dopiero od chwili opatrzenia pisma datą urzędownie ustaloną.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "203",
+   "path": "art_203",
+   "text": "Jeżeli kupujący zastrzegł sobie oznaczenie kształtu, wymiaru lub innych podobnych wła- Sciwosci rzeczy, będącej przedmiotem sprzedaży, sprzedawca może w razie zwłoki kupującego w oznaczeniu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_203/pkt_1",
+     "text": "wykonać prawa, służące wierzycielowi według kodeksu zobowiązań w razie niespełnienia przez dłużnika świadczenia wzajemnego lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_203/pkt_2",
+     "text": "dokonać oznaczenia i podać je do wiadomości kupującego, zakreślając mu zarazem *odpowiedni termin do odmiennego oznaczenia. Z bezskutecznym upływem zakreślonego terminu obowiązuje oznaczenie, dokonane przez sprzedawcę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "204",
+   "path": "art_204",
+   "text": "Jeżeli kupujący dopuści się zwłoki w przyjęciu towaru, sprzedawca może towar oddać na przechowanie na koszt i niebezpieczeństwo kupującego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "205",
+   "path": "art_205",
+   "text": "Sprzedawca może również spowodować sprzedaż towaru na rachunek kupującego. W tym przypadku obowiązany jest listem poleconym zagrozić kupującemu sprzedażą, chyba że zagrożenia nie da się uskutecznié lub że towar jest narażony na ze psucie, a zwłoka grozi niebezpieczeństwem.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "206",
+   "path": "art_206",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_206/par_1",
+     "text": "Sprzedaż przeprowadza na żądanie sprzedawcy notarjusz lub komornik, a jeżeli przedmiot dopuszczony jest do obrotu giełdowego, także przysięgły makler giełdowy. Sprzedaż przeprowadza się przez licytację publiczną. Jeżeli towar ma cenę giełdową lub targowa, sprzedaż dokonana będzie z wolnej ręki po kursie dziennym, w drodze zaś licytacji publicznej tylko wówczas, gdy sprzedaży z wolnej ręki nie dało się uskutecznić¢.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_206/par_2",
+     "text": "Sprzedaż przez licytację publiczną odbywa się bez oszacowania w jednym terminie, przyczem nie stosuje się przepisów kodeksu postępowania cywilnego. Nabywcą towaru może być również sprzedawca lub kupujący. Do kupującego należy wysłać zawiadomienie o miejscu i czasie licytacji, chyba że zwłoka grozi niebezpieczeństwem. Tryb dokonywania licytacji określi bliżej rozporządzenie Ministra Sprawiedliwości, wydane w porozumieniu z Ministrem Przemysłu i Handlu i Ministrem Skarbu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "207",
+   "path": "art_207",
+   "text": "Z ceny, osiąśniętej przy sprzedaży, organ przeprowadzający sprzedaż zaspokoi koszty sprzedaży oraz nieuiszczone od sprzedanego towaru daniny publiczne, resztę zaś wyda sprzedawcy.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "208",
+   "path": "art_208",
+   "text": "Sprzedawca obowiązany jest bezzwłocznie zawiadomić kupującego o dokonaniu sprzedaży i jej wyniku, chyba że zawiadomienia nie da się uskutecznić.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "209",
+   "path": "art_209",
+   "text": "W razie niezachowania przy sprzedaży przepisów art. 205 — 208 sprzedawca obowiązany jest do odszkodowania.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "210",
+   "path": "art_210",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_210/par_1",
+     "text": "Jeżeli strony się umówiły lub z okoliczności wynika, że świadczenie ma być spełnione niezawodnie w ściśle oznaczonym terminie, a nie zostało w tym terminie spełnione, uważa się, że strona, na której rzecz miało nastąpić świadczenie, od umowy odstępuje, chyba że bezzwłocznie po upływie terminu oświadczy stronie przeciwnej, że obstaje przy jej wykonaniu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_210/par_2",
+     "text": "W razie zwłoki strona, na której rzecz świadczenie miało nastąpić, może, gdy przedmiot sprzedaży ma cenę targową lub giełdową, domasać się jako odszkodowania różnicy między ceną umówioną a ceną targową lub giełdową dnia, w którym świadczenie miało być spełnione. Różnicy między ceną umówioną a ceną rzeczywiście zapłaconą lub otrzymaną może domagać się jedynie wówczas, gdy takie wyrównanie szkody było zgodne z zasadami dobrej wiary i nastąpiło bezzwłocznie po upływie umówionego terminu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_210/par_3",
+     "text": "Przepisy powyższe nie naruszają prawa do żądania wyższego odszkodowania według ogólnych zasad.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "211",
+   "path": "art_211",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_211/par_1",
+     "text": "Jeżeli sprzedaż jest czynnością handlową dla obu stron, kupujący powinien bez zwłoki zbadać towar w czasie i w sposób przyjęty w stosunkach handlowych przy towarze tego rodzą-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ju i o dostrzeżonych wadach fizycznych zawiadomić bezzwłocznie sprzedawcę. § 2. Jeżeli wada wyszła najaw dopiero później, kupujący powinien zawiadomić sprzedawcę bezzwłocznie po jej wykryciu. §3. Do zawiadomienia wystarcza wysłanie pisma lub telegramu."
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_211/par_1/ust_4",
+       "text": "Zaniedbanie zawiadomienia powoduje utratę praw z tytułu rękojmi za wady. Utrata praw nie następuje, jeżeli sprzedawca wadę podstępnie zataił lub jeżeli zawiadomienia nie da się uskutecznić,",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "212",
+   "path": "art_212",
+   "text": "Jeżeli przy sprzedaży, będącej czynnością handlową dla obu stron, dostarczono towar inny, niż zamówiony, kupujący powinien zawiadomić o tem sprzedawcę stosownie do przepisów artykułu poprzedzająceśo; w przeciwnym razie towar uważa się za przyjęty.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "213",
+   "path": "art_213",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_213/par_1",
+     "text": "Kupujący, który w przypadkach, przewidzianych w art. 211 i 212, nie przyjmuje towaru nadesłanego z innej miejscowości, nie może go odesłać bez porozumienia się ze sprzedawcą. Obowiązany jest postarać się o przechowanie towaru na koszt sprzedawcy aż do chwili, w której w normalnych warunkach sprzedawca będzie miał możność mim rozporządzić,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_213/par_2",
+     "text": "Jeżeli towar jest narażony na zepsucie, kupujący ma prawo, a gdy tego interes sprzedawcy wymaga, obowiązek sprzedać towar. Do sprzedaży stosuje się odpowiednio przepisy o sprzedaży w razie zwłoki kupującego w przyjęciu towaru.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_213/par_3",
+     "text": "Prawo takie służy kupującemu również wtedy, gdy sprzedawca zwleka z rozporządzeniem towarem, lub gdy jego przechowanie wymaga kosztów, na które niema pokrycia. W tych przepadkach może kupujący również odesłać towar sprzedawcy na jego koszt i niebezpieczeristwo.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "Umowa ajencyjna."
+  },
+  {
+   "type": "text",
+   "text": "Art. 214, Przez umowę ajencyjną . kupiec (ajent) podejmuje się stałeśo pośredniczenia w zawieraniu umów na rzecz dającego polecenie lub zawierania ich w jego imieniu."
+  },
+  {
+   "type": "art",
+   "num": "215",
+   "path": "art_215",
+   "text": "Ajent ma prawo żądać od dającego polecenie pisemnego potwierdzenia umowy ajencyjnej z wyszczególnieniem istotnych warunków umowy.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "216",
+   "path": "art_216",
+   "text": "Do zawierania umów w imieniu dającego polecenie oraz do odbierania dlań oświadczeń ajent uprawniony jest tylko wtedy, gdy posiada ku temu pełnomocnictwo. .",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 217, W razie wątpliwości uważa się ajenta za upoważnionego do odbioru zapłaty za towar, który wydaje, oraz towaru, za który płaci, jak również do odbierania zawiadomień o wadach towaru i oznajmień o pozostawieniu towaru do dyspozycji oraz innych podobnych oświadczeń, odnoszących się do wykonania umowy przez niego zawartej."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "218",
+   "path": "art_218",
+   "text": "Uważa się ajenta za upoważnionego do podejmowania kroków, potrzebnych do zabezpie-",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr. 82. ."
+    },
+    {
+     "type": "text",
+     "text": "czenia mienia i praw dającego polecenie w zakresie powierzonych mu czynności,"
+    },
+    {
+     "type": "text",
+     "text": "Art, 219. Jeżeli ajent, nieposiadający pełnomocnictwa lub przekraczający jego granice, zawiera umowę w imieniu dającego polecenie, umowę uważa się za potwierdzoną, jeżeli dający polecenie niezwłocznie po otrzymaniu wiadomości o zawarciu umowy nie oświadczy osobie trzeciej, że umowy nie potwierdza."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "220",
+   "path": "art_220",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_220/par_1",
+     "text": "Ajent ma prawo do prowizji od umów, zawartych przy jego udziale.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_220/par_2",
+     "text": "Jeżeli ajent został ustanowiony jako wyłączny dla pewnego okręgu lub pewnego koła odbiorców, ma on prawo do prowizji również od umów, zawartych bez jego udziału, jeżeli odnoszą się do tego okręgu lub tego koła odbiorców. O umowach takich powinien dający polecenie zawiadamiać niezwłocznie ajenta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "221",
+   "path": "art_221",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_221/par_1",
+     "text": "Ajent nabywa prawo do prowizji z chwilą zawarcia umowy z osobą trzecią.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_221/par_2",
+     "text": "Jeżeli umowa ma za przedmiot kupno lub sprzedaż, ajent nabywa prawo do prowizji z chwilą, gdy dający polecenie otrzymał towar albo cenę kupna lub przyjął inne jej pokrycie. Jeżeli jednak umowa ma być wykonana częściami, ajent nabywa prawo do prowizji w miarę jej wykonania.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_221/par_3",
+     "text": "W przypadkach, gdy ajent nabywa prawo do prowizji dopiero z chwilą wykonania umowy, prawo to służy ajentowi mimo niewykonania umowy, jeżeli niewykonanie spowodowane zostało przez dająceśo polecenie bez ważnej przyczyny po stronie drugiego kontrahenta. .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "222",
+   "path": "art_222",
+   "text": "Wysokość prowizji oznacza się według zwyczaju w siedzibie ajenta; w braku zwyczaju należy się wynagrodzenie słuszne.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 223, Ajent nie ma prawa domagać się zwiotu zwyczajnych kosztów i wydatków."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "224",
+   "path": "art_224",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_224/par_1",
+     "text": "Obliczenie i wypłata należności ajenta powinny być dokonywane co trzy miesiące z końcem kwartału kalendarzowego, a w każdym razie powinny być dokonane w chwili rozwiązania umowy.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_224/par_2",
+     "text": "Jednocześnie z obliczeniem dający polecenie, jeżeli jest kupcem, obowiązany jest wręczyć ajentowi wyciąś z ksiąś handlowych, dotyczący umów, od których należy się prowizja.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 225, Umowa ajencyjna, zawarta na czas nieoznaczony, może być wypowiedziana na trzy miesiące. Okres wypowiedzenia musi się kończyć ostatniego dnia miesiąca kalendarzowego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "226",
+   "path": "art_226",
+   "text": "Ajentowi służy na zabezpieczenie roszczeń o prowizję, o zwrot wydatków i kosztów, jeżeli mu się należą, oraz o zwrot zaliczek, udzielonych dającemu polecenie, prawo zastawu na rzeczach ruchomych i papierach wartościowych dającego polecenie, które otrzymał w związku z umową ajencyjną, dopóki znajdują się u niego lub u osoby, która je dzierży w jeśo imieniu, albo dopóki może niemi rozporządzać zapomocą papierów towarowych,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział V",
+   "text": "Komis,"
+  },
+  {
+   "type": "art",
+   "num": "227",
+   "path": "art_227",
+   "text": "Przez umowę komisu kupiec (komisant) podejmuje się kupna lub sprzedaży rzeczy ruchomych lub papierów wartościowych w imieniu własnem, a na rachunek innej osoby (komitenta),",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 228. § 1. Komisant powinien wydać komitentowi wszystko, co przy wykonaniu zlecenia dla niego uzyskał, w szczególności powinien przelać na niego wierzytelności, jakie nabył w imieniu własnem na jeśo rachunek."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_227/ust_2",
+     "text": "Powyższe uprawnienia komitenta skuteczne są także wobec wierzycieli komisanta i jego masy upadłości,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "229",
+   "path": "art_229",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_229/par_1",
+     "text": "Jeżeli komisant zawarł umowę na warunkach korzystniejszych od oznaczonych przez komitenta, wszelka korzyść należy się komitentowi.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_229/par_2",
+     "text": "Oznaczenie w zleceniu ceny nie zwalnia komisanta od starań o uzyskanie ceny korzystniejszej dla komitenta, j",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "230",
+   "path": "art_230",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_230/par_1",
+     "text": "Komisant, który sprzedał rzecz oddaną do sprzedaży po enie niższej od oznaczonej przez komitenta, obowiązany jest wyrównać komitentowi różnicę,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_230/par_2",
+     "text": "Jeżeli komisant nabył rzecz po cenie wyższej od oznaczonej przez komitenta, powinien komitent natychmiast po otrzymaniu zawiadomienia o wykonaniu zlecenia oświadczyć, że nie uznaje czynności za dokonaną na jego rachunek, w przeciwnym zaś razie uważa się, że zgadza się na odstąpienie od oznaczonej ceny, § 3. Komitent nie może żądać wyrównania różnicy ani odrzucić umowy, mimo że komisant przekroczył oznaczoną cenę, jeżeli zlecenia po cenie oznaczonej nie można było wykonać, a zawarcie umowy uchroniło komitenta od szkody.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 231, Komisant jest obowiązany do ubezpieczenia towaru jedynie wtedy, gdy otrzymał takie zlecenie,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "232",
+   "path": "art_232",
+   "text": "Jeżeli stan towaru, nadesłanego komisantowi, nasuwa podejrzenie, że zachodzi brak, zepsucie lub uszkodzenie, lub gdy towar z natury swojej na niebezpieczeństwo takie jest narażony, komisant powinien podjąć kroki potrzebne do zabezpieczenia mienia i praw komitenta.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "233",
+   "path": "art_233",
+   "text": "Jeżeli towar narażony jest na zepsucie, a nie można wyczekiwać zarządzenia komitenta lub komitent zwleka z wydaniem zarządzenia, komisant ma prawo, a gdy tego interes komitenta wymaga, obowiązek sprzedać towar z zachowaniem należytej staranności,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 234, Jeżeli poza przypadkami, wymienionemi w artykule poprzedzającym, komitent zwle- 'ka bezzasadnie z wydaniem zarządzeń co do towaru lub też bezzasadnie odmawia przyjęcia towaru, ee służą prawa określone w art. 205 — 09."
+    },
+    {
+     "type": "text",
+     "text": "_ Art, 235. Jeżeli zlecenie zakupu jest dla komitenta czynnością handlową, wówczas między komitentem a komisantem stosuje się odpowiednio przepisy art. 211 — 213 o obowiązku zbadania towaru i zawiadomienia, tudzież o tymczasowem przechowaniu i prawie sprzedaży towaru, nadesłanego z innej miejscowości."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "236",
+   "path": "art_236",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_236/par_1",
+     "text": "Komisantowi nie wolno bez upoważnienia komitenta udzielać osobie trzeciej kredytu ani zaliczek. § 2. Jeżeli komisant towar, oddany mu do sprzedaży, sprzedał bez upoważnienia na kredyt, powinien natychmiast, jako dłużnik ceny kupna, uiścić komitentowi zapłatę, Komisant, który udowodni, że przy sprzedaży za gotówkę cena byłaby niższa, obowiązany jest zapłacić tylko tę cenę, gdyby zaś cena ta była niższa od ceny oznaczonej w zleceniu, zapłaci ponadto różnicę stosownie do art, 230.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "237",
+   "path": "art_237",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_237/par_1",
+     "text": "Komisant odpowiada za wypełnienie zobowiązania przez osobę trzecią tylko wtedy, gdy taką odpowiedzialność (del credere) przyjął na siebie w umowie z komitentem.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_237/par_2",
+     "text": "Z tytułu takiej odpowiedzialności należy mu się w razie wątpliwości osobna prowizja.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "238",
+   "path": "art_238",
+   "text": "Jeżeli komisant w doniesieniu o wykonaniu zlecenia nie wskazał osoby, z którą zawarł umowę, komitent może uważać go za swego bezpośredniego nabywcę czy sprzedawcę,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "239",
+   "path": "art_239",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_239/par_1",
+     "text": "Komis zakupu lub sprzedaży towarów, mających cenę giełdową lub urzędowo ustaloną cenę targową, może komisant, jeżeli mu tego komitent nie zabronił, wykonać także w ten sposób, iż podejmuje się sam dostarczyć towar, który miał zakupić, albo kupić dla siebie towar, który miał sprzedać, § 2. W tym przypadku komisant powinien policzyć komitentowi średnią cenę dnia, w którym wysłał zawiadomienie o wykonaniu zlecenia,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "240",
+   "path": "art_240",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_240/par_1",
+     "text": "Komisant nabywa prawo do prowizji z chwilą, gdy komitent otrzymał towar albo cenę kupna lub przyjął inne jej pokrycie. Jeżeli jednak umowa ma być wykonana częściami, komisant nabywa prawo do prowizji w miarę jej wykonania.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_240/par_2",
+     "text": "Prawo do prowizji służy komisantowi mimo niewykonania umowy, jeżeli niewykonanie spowodowane zostało przez komitenta bez ważnej przyczyny po stronie trzeciego,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "241",
+   "path": "art_241",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_241/par_1",
+     "text": "Komisantowi służy na zabezpieczenie roszczeń o prowizję, o zwrot wydatków i kosztów, o zwrot zaliczek, udzielonych komitentowi, oraz wszelkich innych należności, powstałych ze zlecenia czy zleceń komisowych, prawo zastawu na rzeczach ruchomych i papierach wartościowych, stanowiących przedmiot komisia, dopóki znajdują się u niego lub u osoby, która je dzierży w jego imieniu, albo dopóki może niemi rozporządzać zapomocą papierów towarowych,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_241/par_2",
+     "text": "Przepis powyższy stosuje się odpowiednio także w przypadku, gdy komisant jest właścicielem przedmiotu komisu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "242",
+   "path": "art_242",
+   "text": "Komisantowi służy z tytułu należności, określonych w artykule poprzedzającym, prą-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "wo zaspokojenia się z wierzytelności, które nabył na rachunek komitenta, z pierwszeństwem przed komitentem i jego wierzycielami,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "243",
+   "path": "art_243",
+   "text": "Komisant, który wobec komitenta ma stanowisko bezpośredniego nabywcy czy sprzedawcy (art. 238, 239), nie traci przez to uprawnień, wymienionych w art. 240 — 242.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VI",
+   "text": "Spedycja."
+  },
+  {
+   "type": "text",
+   "text": "Art. 244, Przez umowę spedycji kupiec (spedytor) podejmuje się przesłania rzeczy w imieniu własnem, lecz na cudzy rachunek,"
+  },
+  {
+   "type": "art",
+   "num": "245",
+   "path": "art_245",
+   "text": "W braku odmiennych przepisów tego rozdziału stosuje się przepisy, dotyczące komisu,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 246, Spedytor odpowiada za szkodę, wynikłą z utraty, ubytku lub uszkodzenia przesyłki w czasie od przyjęcia rzeczy aż do wydania jej przewoźnikowi, oraz za szkodę, wynikłą z opóźnienia wykonania zlecenia, chybaby udowodnił, że nie most zapobiec szkodzie mimo zachowania należytej staranności."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "247",
+   "path": "art_247",
+   "text": "Spedytor odpowiada za osoby, zatrudnione w jego przedsiębiorstwie, tudzież za każdą inną osobę, którą posługuje się przy wykonaniu zlecenia,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 248, Spedytor odpowiada za przewoźników, przedsiębiorców przewozu morskiego i dalszych spedytorów, którymi się posługuje, chybaby udowodnił, że przy ich wyborze dołożył należytej staranności,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "249",
+   "path": "art_249",
+   "text": "Spedytor obowiązany jest do podejmowania kroków, potrzebnych do uzyskania zwrotu niesłusznie pobranych kwot z tytułu przewoźnego, cła, podatku od ładunków i innych należności, związanych z dokonaniem przesyłki.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "250",
+   "path": "art_250",
+   "text": "Spedytor, który podjął się przesłania za oznaczoną w umowie sumę ryczałtową, ma prawa i obowiązki przewoźnika.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "251",
+   "path": "art_251",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_251/par_1",
+     "text": "Spedytor może sam wykonać przewóz.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_251/par_2",
+     "text": "W tym przypadku spedytor ma jednocześnie także prawa i obowiązki przewoźnika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "252",
+   "path": "art_252",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_252/par_1",
+     "text": "Odszkodowanie, do którego obowiązany jest spedytor, nie może przewyższać zwykłej wartości rzeczy, chyba że szkoda wynikła ze złego zamiaru lub rażącego niedbalstwa.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_252/par_2",
+     "text": "Za utratę, ubytek lub uszkodzenie pieniędzy, kosztowności, papierów wartościowych albo rzeczy szczególnie cennych odpowiada spedytor jedynie wtedy, gdy właściwość przesyłki była podana przy zawarciu umowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "253",
+   "path": "art_253",
+   "text": "Jeżeli spedytor przesyła kilka przesyłek zbiorowo przy użyciu środków przewozowych, najętych na własny rachunek, ma prawo obok prowizji liczyć przewoźne odpowiednie do okoliczno-",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr. 82."
+    },
+    {
+     "type": "text",
+     "text": "ści, nie wyższe jednak nad to, któreby się należało, gdyby każda rzecz przesłana była oddzielnie,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "254",
+   "path": "art_254",
+   "text": "Spedytorowi służy na zabezpieczenie roszczeń o przewoźne, o prowizję, o zwrot wydatków i kosztów, o ryczałtowo umówione wynagrodzenie, o zwrot zaliczek, udzielonych dającemu zlecenie, oraz wszelkich innych należności, powstałych ze zlecenia czy zleceń spedycyjnych, prawo zastawu na rzeczach, stanowiących przedmiot spedycji, dopóki znajdują się u niego lub u osoby, która je dzierży w jego imieniu, albo dopóki może niemi rozporządzać zapomocą papierów towarowych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "255",
+   "path": "art_255",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_255/par_1",
+     "text": "Jeżeli w przesłaniu rzeczy bierze udział dalszy spedytor, powinien on, gdy tego wymaga staranność sumiennego kupca, wykonać znane mu prawa poprzedzających spedytorów i przewoźników, a w szczególności ich prawa zastawu.",
+     "children": [
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_255/par_1/ust_2",
+       "text": "O ile następca zaspokoi roszczenia poprzednika, przechodzą one wraz z prawem zastawu poprzednika na następcę.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "256",
+   "path": "art_256",
+   "text": "$ i. Roszczenia przeciwko spedytorowi z powodu całkowitej utraty, ubytku, uszkodzenia lub spóźnionej dostawy przesyłki przedawniają się z upływem jednego roku. Termin ten może być umową przedłużony. . § 2. Przedawnienie zaczyna biec w przypadku uszkodzenia lub ubytku od dnia, w którym nastąpiła dostawa, w przypadku zaś całkowitej utraty lub spóźnionej dostawy od dnia, w którym dostawa powinna była nastąpić.",
+   "children": [
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_256/par_3",
+     "text": "Roszczenia, wymienione w § 1, mogą być podniesione także po upływie terminu przedawnienia w drodze zarzutu, jeżeli w ciągu jednorocznego terminu wysłano do spedytora reklamację.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "257",
+   "path": "art_257",
+   "text": "Określone w artykule poprzedzającym roszczenia spedytora przeciwko przewoźnikom, przedsiębiorcom przewozu morskiego i dalszym spedytorom, którymi się posługuje przy przesłaniu rzeczy, oraz tych osób między sobą przedawniają się z upływem trzech miesięcy od dnia, kiedy zobowiązany zapłacił odszkodowanie lub gdy mu doręczono pozew.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "258",
+   "path": "art_258",
+   "text": "Przepisów o skróconym terminie przedawnienia nie stosuje się do tego, kto wyrządził szkodę w złym zamiarze.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VII",
+   "text": "Przewóz."
+  },
+  {
+   "type": "text",
+   "text": "Art. 259, Przez umowę przewozu kupiec (przewoźnik) podejmuje się przewiezienia rzeczy lądem lub wodami śródlądowemi."
+  },
+  {
+   "type": "art",
+   "num": "260",
+   "path": "art_260",
+   "text": "Przepisy rozdziału niniejszego stosuje się do przewozu kolejami żelaznemi, do zarobkowego przewozu pojazdami mechanicznemi, do żeślugi i spławu wodami śródlądowemi, do przewozu statkami powietrznemi oraz przewozu pocztą tylko o tyle, o ile przewóz ten nie jest odmiennie uregulowany przepisami szczególnemi.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "261",
+   "path": "art_261",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_261/par_1",
+     "text": "Wysyłający powinien podać przewoźnikowi dokładnie swój adres tudzież adres",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "odbiorcy, miejsce dostawy, oznaczenie przesyłki aż do wydania jej odbiorcy, oraz za szkodę, wynikłą wedłuś rodzaju, ilości oraz sposobu opakowania, wartość rzeczy szczególnie cennych. § 2. Na żądanie przewoźnika wysyłający powinien wystawić list przewozowy, który ma zawierać dane wskazane w § 1, oznaczenie wysokości przewoźneśo oraz wszelkie inne istotne postanowienia umowy."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_261/par_3",
+     "text": "Wysyłający ponosi skutki niedokładnego lub nieprawdziwego oświadczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "262",
+   "path": "art_262",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_262/par_1",
+     "text": "Wysyłający powinien wręczyć przewoźnikowi dokumenty, potrzebne ze względu na przepisy celine, podatkowe, sanitarne i policyjne.",
+     "children": [
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_262/par_1/ust_2",
+       "text": "Wysyłający ponosi skutki niedokładnych lub nieprawdziwych danych,",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "263",
+   "path": "art_263",
+   "text": "Jeżeli rozpoczęcie lub dokonanie przewozu dozna czasowej przeszkody wskutek okoliczności, zachodzącej po stronie przewoźnika, wysyłający może odstąpić od umowy, powinien jednak dać przewoźnikowi słuszne wynagrodzenie za dokonaną część przewozu w granicach tego, co na kosztach przewozu oszczędził. Nie traci przez to prawa do odszkodowania w przypadku winy przewoźnika.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "264",
+   "path": "art_264",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_264/par_1",
+     "text": "Wysyłający ma prawo rozporządzania przesyłką, powinien jednak wynagrodzić przewoźnikowi wydatki i szkodę, spowodowaną przez swoje rozporządzenie, § 2. Prawo rozporządzania wysyłającego wygasa, gdy po nadejściu przesyłki na miejsce przeznaczenia przewoźnik zawiadomił o tem odbiorcę, albo gdy odbiorca zażądał wydania przesyłki stosownie do art. 266.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "265",
+   "path": "art_265",
+   "text": "Przewoźnik powinien zawiadomić odbiorcę niezwłocznie o nadejściu przesyłki na miejsce przeznaczenia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "266",
+   "path": "art_266",
+   "text": "Po nadejściu przesyłki na miejsce przeznaczenia odbiorca może we własnem imieniu wykonywać wszelkie prawa, wynikające z umowy przewozu, w szczególności żądać wydania przesyłki i listu przewozoweśo przy równoczesnem dopełnieniu zobowiązań, wypływających z tej umowy.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "267",
+   "path": "art_267",
+   "text": "Przez przyjęcie przesyłki i listu przewozowego odbiorca zobowiązuje się do zapłaty należności przewoźnika, oznaczonych w liście prze-",
+   "children": [
+    {
+     "type": "text",
+     "text": "wozowym,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "268",
+   "path": "art_268",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_268/par_1",
+     "text": "Jeżeli nie można doręczyć przesyłki odbiorcy, powinien przewoźnik niezwłocznie zawiadomić o tem wysyłającego. Gdy wysyłający nie nadeśle w stosownym czasie odpowiednich wskazówek, powinien przewoźnik oddać przesyłkę na przechowanie lub inaczej ją zabezpieczyć, zawiadamiając o tem wysyłającego i odbiorcę.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_268/par_2",
+     "text": "Jeżeli towar jest narażony na zepsucie, albo jeżeli jego przechowanie wymaga kosztów, na które niema pokrycia, przewoźnik może towar sprzedać w trybie, przewidzianym w razie zwłoki kupującego w przyjęciu towaru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "269",
+   "path": "art_269",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_269/par_1",
+     "text": "Przewoźnik odpowiada za szkodę, wynikłą z utraty, ubytku lub uszkodzenia przesyłki w czasie od przyjęcia rzeczy do przewozu z opóźnienia w dostawie, chybaby udowodnił, iż nie mógł zapobiec szkodzie mimo zachowania należytej staranności,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_269/par_2",
+     "text": "Odszkodowanie nie może przewyższać zwykłej wartości rzeczy, chyba że szkoda wynikła ze złego zamiaru lub rażącego niedbalstwa.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_269/par_3",
+     "text": "Za utratę, ubytek lub uszkodzenie pieniędzy, kosztowności, papierów wartościowych albo rzeczy szczególnie cennych odpowiada przewoźnik jedynie wtedy, gdy właściwość przesyłki była podana przy zawarciu umowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "270",
+   "path": "art_270",
+   "text": "Przewoźnik odpowiada za osoby, zatrudnione w jego przedsiębiorstwie, tudzież za każdą inną osobę, którą się posługuje przy wykonywaniu",
+   "children": [
+    {
+     "type": "text",
+     "text": "przewozu."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "271",
+   "path": "art_271",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_271/par_1",
+     "text": "Przewoźnik może oddać przesyłkę do przewozu innemu przewoźnikowi na całą przestrzeń przewozu lub jej część; odpowiada jednak za dalszych przewoźników aż do dostawienia przesyłki odbiorcy, jak za siebie samego. § 2. Każdy przewoźnik, który przyjmuje przesyłkę na podstawie tego samego listu przewozowego, obejmuje solidarną odpowiedzialność za wykonanie całego przewozu podług treści listu przewozoweśo.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_271/par_3",
+     "text": "Przewoźnik, który na podstawie swej solidarnej odpowiedzialności za cały przewóz zapłacił odszkodowanie, ma zwrotne roszczenie do przewoźnika, z którego winy szkoda nastąpiła, a jeśli okoliczności tej nie można ustalić, odpowiedzialność ponoszą wszyscy przewoźnicy w stosunku do przypadającego na nich przewoźnego, Wolny jest od odpowiedzialności ten przewoźnik, który udowodni, że szkoda nie powstała na jego przestrzeni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "272",
+   "path": "art_272",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_272/par_1",
+     "text": "Przewoźnikowi służy na zabezpieczenie roszczeń z umowy przewozu, jako to: przewoźnego, składowego, opłat celnych i innych wydatków, jako też zaliczek, udzielonych na towar, prawo zastawu na przesyłce, dopóki przesyłka znajduje się u niego lub u osoby, która ją dzierży w jego imieniu, albo dopóki może nią rozporządzać zapomocą papierów towarowych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_272/par_2",
+     "text": "Do wykonania prawa zastawu stosuje się przepisy art. 169 — 174 z tą zmianą, że zagrożenie powinno być wystosowane do wysyłającego i odbiorcy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "273",
+   "path": "art_273",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_273/par_1",
+     "text": "Jeżeli na przesyłce ciążą obok siebie prawa zastawu dla roszczeń komisanta, spedytora lub przewoźnika, wówczas prawa zastawu dla roszczeń z tytułu przesłania rzeczy i przewozu mają pierwszeństwo przed prawami zastawu dla innych roszczeń:",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_273/par_2",
+     "text": "Jeżeli na przesyłce ciążą obok siebie prawa zastawu dla roszczeń z tytułu jej przesłania lub przewozu na rzecz kilku osób, wówczas prawo zastawu, które później powstało, ma pierwszeństwo przed wcześniejszem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "274",
+   "path": "art_274",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_274/par_1",
+     "text": "Ostatni przewoźnik powinien, jeżeli tego wymaga staranność sumiennego kupca, wykonać znane mu prawa poprzedzających spędy-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "torów i przewoźników, a w szczególności ich prawa zastawu."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_274/par_2",
+     "text": "O ile przewoźnik zaspokoi roszczenia poprzednika, przechodzą one na niego wraz z prawem zastawu poprzednika,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "275",
+   "path": "art_275",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_275/par_1",
+     "text": "Przez przyjęcie przesyłki bez zastrzeżeń oraz zapłatę należności przewoźnika wygasają wszelkie roszczenia do przewoźnika z umowy o przewóz. Jednakże pozostają w mocy roszczenia z tytułu uszkodzeń niewidocznych, jeśli odbiorca niezwiccznie, a w każdym razie najpóźniej w ciągu dni ośmiu od przyjęcia, zawiadomił o nich przewoźnika. § 2. Przepisów tych nie stosuje się, jeżeli szkoda wynikła ze złeśo zamiaru lub rażącego niedbalstwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 276, Do przedawnienia roszczeń przeciwko przewcźnikowi oraz roszczeń przewoźnika do poprzedników stosuje się odpowiednio przepisy art. 256 — 258."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VIIL",
+   "text": "Spółka cicha."
+  },
+  {
+   "type": "text",
+   "text": "Art 277, § 1. Kto jako spólnik uczestniczy wkładem w przecsiębiorstwie kupca, prowadzonem przez tegcz w imieniu własnem, jest spólnikiem cichym."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Srólnik cichy nie odpowiada wobec wierzycieli za zobowiązania kupca.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "278",
+   "path": "art_278",
+   "text": "Do prowadzenia spraw przedsiębiorstwa uprawniony i obowiązany jest kupiec.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "279",
+   "path": "art_279",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_279/par_1",
+     "text": "Spólnik cichy uczestniczy w zysku i stratach w stosunku odpowiadającym słusz-",
+     "children": [
+      {
+       "type": "text",
+       "text": "ności."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_279/par_2",
+     "text": "W stratach uczestniczy spólnik cichy do wysokości umówionego wkładu. § 3. Umowa spółki może zwolnić spólnika cichego od udziału w stratach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "280",
+   "path": "art_280",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_280/par_1",
+     "text": "Z końcem roku obrotowego obowiązany jest kupiec obliczyć udział spólnika cicheśo w zysku i stratach i wypłacić mu należny zysk.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_280/par_2",
+     "text": "Jeżeli jednak wkład doznał wskutek strat uszczuplenia, obraca się zysk na jego uzupełnienie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "281",
+   "path": "art_281",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_281/par_1",
+     "text": "Spólnik cichy ma prawo domagać się odpisu rocznego bilansu oraz przeglądać księgi i dokumenty celem sprawdzenia jego rzetelności.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_281/par_2",
+     "text": "Na wniosek. cichego spólnika może sąd grodzki siedziby kupca, a co do kupca rejestrowego sąd rejestrowy, z ważnych powodów zarządzić w każdym czasie udzielenie bilansu lub innych wyjaśnień, tudzież dopuścić go do przejrzenia ksiąg i dokumentów.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_281/par_3",
+     "text": "Umowa nie może wyłączyć ani ograniczyć uprawnień spólnika cichego, służących mu z mocy artykułu niniejszego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "282",
+   "path": "art_282",
+   "text": "Spadkobiercy spólnika cichego powinni wskazać kupcowi jedną osobę do wykonywania praw zmarłego spólnika.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr. 82."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "283",
+   "path": "art_283",
+   "text": "Rozwiązanie umowy spółki cichej powodują:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_283/pkt_1",
+     "text": "przyczyny, przewidziane w umowie spółki;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_283/pkt_2",
+     "text": "zgoda spólników;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_283/pkt_3",
+     "text": "zwinięcie lub zbycie przedsiębiorstwa;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_283/pkt_4",
+     "text": "ogłoszenie upadłości któregokolwiek spólnika;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_283/pkt_5",
+     "text": "śmierć kupca;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_283/pkt_6",
+     "text": "wypowiedzenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_283/pkt_7",
+     "text": "wyrok sądowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "284",
+   "path": "art_284",
+   "text": "Rozwiązanie spółki z powodu zwinięcia lub zbycia przedsiębiorstwa nie narusza praw spólnika cichego do żądania odszkodowania.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "285",
+   "path": "art_285",
+   "text": ".§ 1. Spółkę, zawartą na czas nieoznaczony, może spólnik wypowiedzieć na sześć miesięcy przed końcem roku obrotowego.",
+   "children": [
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_285/par_2",
+     "text": "Spółkę, zawartą na czas życia spólnika, uważa się za zawartą na czas nieoznaczony.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "286",
+   "path": "art_286",
+   "text": "Jeżeli w ciągu ostatnich sześciu miesięcy przeprowadzono bezskutecznie egzekucję z ruchomości cichego spólnika, wówczas jego wierzyciel, który na podstawie prawomocnego tytułu egzekucyjnego uzyskał zajęcie roszczeń, służących cichemu spólnikowi na przypadek rozwiązania spółki, może wypowiedzieć spółkę na sześć miesięcy przed końcem roku obrotowego, nawet gdy była zawarta na czas oznaczony, Jeżeli umowa spółki przewiduje krótszy termin wypowiedzenia, wierzyciel może skorzystać z terminu umownego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 287, § 1. Każdy spólnik może żądać z ważnych powodów rozwiązania spółki wyrokiem sądowym. § 2. Przeciwne postanowienie umowne jest nieważne."
+    },
+    {
+     "type": "text",
+     "text": "Art. 288, § 1. Po rozwiązaniu spółki powinien kupiec dokonać rozliczenia ze spólnikiem cichym na podstawie osobnego bilansu i wypłacić mu należność jego w gotówce."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_286/par_2",
+     "text": "Jako dzień bilansowy przyjąć należy: w przypadkach wypowiedzenia — ostatni dzień roku obrotowego, w którym upłynął termin wypowiedzenia, w przypadku śmierci — dzień śmierci, w przypadku upadłości — dzień jej ogłoszenia, w przypadku zaś rozwiązania na podstawie wyroku — dzień doręczenia pozwu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_286/par_3",
+     "text": "Spólnik cichy lub jego spadkobiercy uczestniczą w zysku i stratach ze spraw jeszcze niezakończonych; mogą żądać wyjaśnień, rachunków i podziału zysku i strat z końcem każdego roku obrotowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "289",
+   "path": "art_289",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_289/par_1",
+     "text": "W upadłości kupca może cichy spólnik zgłosić do masy roszczenie swoje z tytułu nadwyżki wpłaconego wkładu ponad swój udział w stratach.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_289/par_2",
+     "text": "Jeżeli wkład nie był w całości wpłacony, spólnik cichy obowiązany jest do jego wpłacenia jedynie o tyle, o ile to jest potrzebne do pokrycia przypadającego nań udziału w stratach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "290",
+   "path": "art_290",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_290/par_1",
+     "text": "Jeżeli spólnik cichy na podstawie umowy, zawartej z kupcem w ciągu ostatniego roku przed ogłoszeniem upadłości, zwolniony zo-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "stał od obowiązku wpłacenia wkładu w całości lub w części, albo od przypadającego nań udziału w stratach, lub też otrzymał zwrot wkładu w całości lub w części, wówczas zarządca masy upadłości może żądać obalenia zwolnienia czy też zwrotu, choćby nastąpiły one równocześnie z rozwiązaniem spółki, chyba że przyczyna upadłości nastąpiła już po dokonanym zwrocie lub zwolnieniu. § 2. Przepis ten nie narusza dalej idących przepisów o obalaniu czynności prawnych,"
+      },
+      {
+       "type": "text",
+       "text": "Przepisy końcowe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "291",
+   "path": "art_291",
+   "text": "Wykonanie kodeksu niniejszego porucza się Ministrowi Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "292",
+   "path": "art_292",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 lipca 1934 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: J. Mościcki Prezes Rady Ministrów i Minister Wyznań Religijnych i Oświecenia Publicznego: J. Jędrzejewicz Minister Spraw Wewnętrznych: Bronisław Pieracki Minister Spraw Zagranicznych: Beck Minister Spraw Wojskowych: J. Piłsudski Minister Skarbu: Wł. Zawadzki Minister Sprawiedliwości: Czesiaw Michałowski Minister Rolnictwa i Reform Rolnych: Nakoniecznikow - Klukowski Minister Przemysłu i Handlu: Zarzycki Minister Komunikacji: M. Butkiewicz Minister Opieki Społecznej: Hubicki Minister Poczt i Telegrafów: Kaliński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,53 @@
+{
+ "eli": "DU/1932/444",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 21 maja 1932 r. o zniesieniu sądu okręgowego w Lesznie oraz zmianie okręgów sądów okręgowych w Ostrowie i Poznaniu.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1932/444/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ z dnia 21 maja 1932 r. o zniesieniu sądu okręgowego w Lesznie oraz zmianie okręgów sądów okręgowych w Ostrowie i Poznaniu. Na podstawie art. 44 ust. 6 Konstytucji i art. 1 lit. a) ustawy z dnia 17 marca 1932 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 22, poz. 165) postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Znosi się sąd okręgowy w Lesznie.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Włącza się okręgi sądów grodzkich w Bojanowie, Gostyniu, Jutrosinie i Rawiczu do okręgu sądu okręgowego w Ostrowie, a okręgi sądów grodzkich w Kościanie, Lesznie, Śmiglu i Wolsztynie do okręgu sądu okręgowego w Poznaniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 33 Wykonanie rozporządzenia niniejszego porucza się Ministrowi Sprawiedliwości."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia, z tem, że przepisy art, 1 i 2 uzyskają moc obowiązującą w terminie, oznaczonym w rozporządzeniu Ministra Sprawiedliwości.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: I. Mościcki Prezes Rady Ministrów: A. Prystor Minister: Wł. Zawadzki Minister Spraw Wewnętrznych: Bronisław Pieracki Minister Spraw Zagranicznych; August Zaleski Minister Spraw Wojskowych: J. Piłsudski Minister Skarbu: Jan Piłsudski Minister Sprawiedliwości: Czesław Michałowski Minister Wyznań Religijnych i Oświecenia Publicznego: J. Jędrzejewicz Minister Rolnictwa i Minister Reform Rolnych: Sew. Ludkiewicz Minister Przemysłu i Handlu: Zarzycki Minister Komunikacji i Minister Robót Publicznych: Kiihn Minister Pracy i Opieki Społecznej: Hubicki Minister Poczt i Telegrafów: Boerner,"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,58 @@
+{
+ "eli": "DU/1933/756",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 21 listopada 1933 r. w sprawie zmian w organizacji urzędów skarbowych akcyz i monopolów państwowych w okręgu administracyjnym Izby Skarbowej I we Lwowie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/756/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MNISTRA SKARBU z dnia 21 listopada 1933 r. w sprawie zmian w organizacji urzędów skarbowych akcyz i monopolów państwowych w okręgu admunistracyjnym Izby Skarktowej I we Lwowie. Na podstawie art. 4 i 15 ustawy z dnia 31 lipca 1919 r. o tymczasowej organizacji władz i urzędów skarbowych (Dz. P. P. P. Nr. 65, poz. 391) zarządzam co następuje: ;"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Istniejący w okręgu administracyjnym Izby Skarbowej I we Lwowie Urząd Skarbowy Akcyz i Monopolów Państwowych w Jarosławiu znosi się a jego agendy przekazuje się: '",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "odnośnie powiatów łańcuckiego i przeworskiego Urzędowi Skarbowemu Akcyz i Monopolów Państwowych w Rzeszowie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "odnośnie powiatu jarosławskiego Urzędowi Skarbowemu Akcyz i Monopolów Państwowych w Przemyślu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "odnośnie zaś powiatu lubaczowskiego Urzędowi Skarbowemu Akcyz i Monopoléw Państwowych w Żółkwi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w ży* cie z dniem 1 marca 1934 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: Wł. Zawadzki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

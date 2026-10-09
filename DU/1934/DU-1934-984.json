@@ -1,0 +1,75 @@
+{
+ "eli": "DU/1934/984",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 29 grudnia 1934 r. w porozumieniu z Ministrami: Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych o zniżkach celnych na śledzie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/984/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 grudnia 1934 r."
+  },
+  {
+   "type": "text",
+   "text": "w porozumieniu z Ministrami: Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych o zniżkach celnych na śledzie."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 23 ust. 1 lit. a. rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o prawie celnem (Dz. U. R. P. Nr. 84, poz. 610) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Niżej wyszczególnione towary, sprowadzane przez porty polskiego obszaru celnego, podlegają cłu zniżonemu w następującej wysokości:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Cło zniżone Pozycja taryfy celnej Nazwa towaru w złotych"
+    },
+    {
+     "type": "text",
+     "text": "116z uwagi Śledzie żywe, świeże nieżywe dop.3 (mrożone, śnięte) od 100 kg."
+    },
+    {
+     "type": "text",
+     "text": "1.— 117 uwaga 1 Śledzie solone:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "w beczkach, od 1/1 beczki . 16.—",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "* półbeczkach, od 1/2 becz- 8.—",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie dnia 1 stycznia 1935 r. i obowiązuje do 28 lutego 1935 r. włącznie.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: Wł. Zawadzki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

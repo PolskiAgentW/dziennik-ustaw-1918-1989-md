@@ -1,0 +1,67 @@
+{
+ "eli": "DU/1933/8",
+ "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych z dnia 28 grudnia 1932 r. w sprawie ceł wywozowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/8/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRÓW: SKARBU, PRZEMYSŁU I HANDLU ORAZ ROLNICTWA I REFORM ROLNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 grudnia 1932 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ceł wywozowych. Na podstawie art. 7 punkt a) ustawy z dnia 31 lipca 1924 r. w przedmiocie uregulowania stosunków celnych (Dz. U. R. P. Nr. 80, poz. 777) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pozycja 258 taryfy celnej, w brzmieniu ustalonem rozporządzeniem z dnia 5 marca 1931 r. (Dz. U. R. P. Nr. 24, poz. 146), otrzymuje brzmienie następujące: Pozycja Nazwa towaru Cło od 100 kg taryfy celnej zł 258 a) Mięso wieprzowe świeże, solone i mrożone w stanie nieprzerobionym z wyjątkiem oddzielnych śłów oraz oddzielnych wnętrz- NOSGL G % m b W e a iw 100.—",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "Bekony . . . . „ „ 150—",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "Szynki peklowane „ „ 150—",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_1/lit_d",
+     "text": "Przetwory mięsa wieprzowego peklowane . „wow ow a «= ABD Uwaga 1: Towary wymienione w 258, wywożone za zapoz. Ministerstwa świadczeniami Przemysłu i Handlu . bez cła Uwaga 2: Towary wymienione w poz. 258, wywożone w małym ruchu granicznym w myśl obowiązujących przepisów , „ bez cła",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 10 stycznia 1933 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Wł. Zawadzki Minister Przemysłu i Handlu: Zarzycki Minister Rolnictwa i Reform Rolnych: : Sew. Ludkiewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

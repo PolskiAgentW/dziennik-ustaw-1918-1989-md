@@ -1,0 +1,86 @@
+{
+ "eli": "DU/1933/796",
+ "title": "Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 5 grudnia 1933 r. o zwinięciu i utworzeniu niektórych katedr i zakładów naukowych w szkołach akademickich.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/796/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE i MINISTRA WYZNAŃ RELIGIJNYCH I OŚWIECĘ- NIĄ PUBLICZNEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 grudnia 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "o zwinięciu i utworzeniu niektórych katedr i zakładów naukowych w.szkołach akademickich."
+  },
+  {
+   "type": "text",
+   "text": "\"Na podstawie artykułu 3 ust. 1 ustawy z dnia 15 marca 1933 r. o szkołach akademickich (Dz. U. R. P. Nr. 29, poz. 247) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Zwija się na Wydziale Teologicznym Uniwersytetu Jana Kazimierza we Lwowie katedrę teologji moralnej ogólnej wraz z połączonym z nią zakładem naukowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Tworzy się następujące katedry wraz z zakładami naukowemi: A. w Uniwersytecie Jana Kazimierza we Lwowie na Wydziale Teologicznym drugą katedrę filozofji chrześcijańskiej (II), B. w Uniwersytecie Warszawskim",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "na Wydziale Humanistycznym:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "katedrę historji Ukrainy,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "katedrę filologji ukraińskiej,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/ust_2/lit_b",
+       "text": "na Wydziale Matematyczno-Przyrodniczym czwartą katedrę matematyki (IV).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Wyznań Religijnych . i Oświecenia Publicznego: J. Jędrzejewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,80 @@
+{
+ "eli": "DU/1935/49",
+ "title": "Rozporządzenie Rady Ministrów z dnia 13 lutego 1935 r. o ustaleniu planu parcelacyjnego na rok 1936.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1935/49/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW."
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 lutego 1935 r."
+  },
+  {
+   "type": "text",
+   "text": "o ustaleniu planu parcelacyjnego na rok 1936."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ustawy z dnia 28 grudnia 1925 r. o wykonaniu reformy rolnej (Dz. U. R. P. z 1926 r. Nr. 1, poz. 1), art. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 grudnia 1927 r. o terminach ogłaszania i wykonania planów parcelacyjnych i wykazów imiennych nieruchomości, podlegających wykupowi na cele reformy rolnej (Dz. U R.P. Nr. 114, poz. 973) oraz art. 2 ustawy z dnia 25 lutego 1932 r, w sprawie wykonywania planów parcelacyjnych (Dz. U. R. P. Nr. 25, poz. 216) w brzmieniu ustawy z dnia 5 marca 1934 r. (Dz. U. R.P. Nr. 24, poz. 178) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Plan parcelacyjny na rok 1936 obejmuje następujące obszary w poszczególnych województwach:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "Grunty państwowe i Państwowego Banku Rolnego: 750 ha w województwie warszawskiem, 260 woo” m łódzkiem, 500 \"mn \" kieleckiem, 2900 m\" on\" \" lubelskiem, 820 w w „i białostockiem, 380 m mn \" wileńskiem, 150 m om \" nowogródzkiem, 1560 w w \" poleskiem, 4100 LOSU \" wołvńskiem, 88 won m lwowskiem, 22 ow 1\" krakowskiem, 6950 ww \" poznańskiem, 1520 w w \" pomorskiem.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "Grunty prywatne: 7000 ha w województwie warszawskiem, 4000 „ w s łódzkiem, 3500 ,, w \" kieleckiem, 5000 ,, w ii lubelskiem, 2000 „ w s białostockiem, 6000 „ 4, ii wileńskiem, 4500 „ w \" nowośródzkiem, 5000 „ 4 i’ poleskiem, 6000 ,, |, ‘i wołyńskiem, 7000 „ oy a tarnopolskiem, 3000 „ w» \" stanisławowskiem, 8000 „ m at Iwowskiem,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wr Y,"
+      },
+      {
+       "type": "text",
+       "text": "1000 ha w województwie krakowskiem, 10000 „ 4, n poznańskiem, 8000 „ w \" pomorskiem."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wykonanie rozporządzenia niniejszego porucza się Ministrowi Rolnictwa i Reform Rolnych. ~",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: L. Kozłowski Minister Rolnictwa i Reform Rolnych: J. Poniatowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

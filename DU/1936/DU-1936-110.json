@@ -1,0 +1,152 @@
+{
+ "eli": "DU/1936/110",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 31 stycznia 1936 r. wydane w porozumieniu z Ministrem Przemysłu i Handlu oraz Ministrem Rolnictwa i Reform Rolnych w sprawie zmiany rozporządzenia Ministra Skarbu z dnia 10 czerwca 1933 r. o ustaleniu cen sprzedażnych spirytusu na cele niekonsumcyjne.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1936/110/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 stycznia 1936 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrem Przemysłu i Handlu oraz Ministrem Rolnictwa i Reform Rolnych w sprawie zmiany rozporządzenia Ministra Skarbu z dnia 10 czerwca 1933 r. o ustaleniu cen sprzedażnych spirytusu na cele niekonsumcyjne,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 45 i 71 rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 lipca 1932r. o monopolu spirytusowym, opodatkowaniu kwasu octowego i drożdży oraz sprzedaży napojów alkoholowych (Dz. U. R. P. Nr. 63, poz. 586) zarządza się co następuje: ."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Skarbu z dnia 10 czerwca 1933 r. o ustaleniu cen sprzedażnych spirytusu na cele niekonsumcyjne (Dz. U. R. P. Nr. 46, poz. 361) w brzmieniu rozporządzenia z dnia 7 marca 1935 r. (Dz. U. R. P, Nr. 17, poz. 95) wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 2 w punkcie a) zmienia się oznaczenię: ww punkcie d)\" na oznaczenie: „w punkcie e)*,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 2 zamiast punktów d) i e) wprowadza się punkty d), e) i f) o brzmieniu następującem: „d) za spirytus surowy lub spirytusy rektyfikowane poślednich gatunków do wyrobu octu . . . „ . 1,20 zł",
+     "children": [
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_2/lit_e",
+       "text": "za spirytus do wyrobu: eteru, politur, lakierów, syntetycznych środków leczniczych, preparatów organoterapeutycznych, stabilizacji ziół, materjałów wybuchowych i na wszelkie inne cele przemy» ‘ slowe z wyłączeniem przemysłów artykułów spożywczych, oraz za spirytus skażony na cele dezynfekcyjne dla zakładów leczniczych (szpitali, ambulatorjów, klinik, sanatorjów i t. p-):",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "za rektyfikat I gatunku lub spirytus odwodniony . . . , 0,90 zł",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "za spirytus surowy lub spirytusy rektyfikowane poślednich gatunków , » a a aa s a 0,80 zł",
+     "children": [
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/ust_2/lit_f",
+       "text": "do celów napędowych łącznie ze środkiem skażającym:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "za rektyfikat I gatunku lub spirytus odwodniony . . . - 0,45 zł",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "za spirytus surowy lub spirytusy rektyfikowane poślednich „ gatunków , . . . „ . . +» 0.33 zł”.",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "§ 4 otrzymuje brzmienie następujące:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "„Za denaturat w detalu cenę sprzedażną ustala się jak następuje:",
+     "children": [
+      {
+       "type": "text",
+       "text": "a) o mocy 92° łącznie z butelką 1 litr 0,75 litra 0,5 litra 0,95 zt “0,75 zł 0,55 zł",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) o mocy 92° w blaszankach (bez wartości opakowania) 0,75 zł za litr.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Denaturat o mocy 92° w butelkach o pojemności 0,75 litra będzie sprzedawany w miarę posiadanych zapasów”.",
+       "quoted": true
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_1/pkt_4",
+       "text": "W § 5 dodaje się nowy ustęp o brzmieniu następującem: „Przepis powyższy może być stosowany również w przypadkach, wymagających ustalania w drodze wyjątku obniżonych cen dla poszczególnych gałęzi przemysłów”.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Znajdujące się w sprzedaży w dniu wej- Scia w życie niniejszego rozporządzenia zapasy denaturatu mogą być sprzedawane po cenach ustalonych rozporządzeniem Ministra Skarbu z dnia 10 czerwca 1933 r. (Dz. U. R. P. Nr. 46, poz. 361) w ciągu dni czternastu, licząc od dnia wejścia w życie niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w ży» cie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: E. Kwiatkowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

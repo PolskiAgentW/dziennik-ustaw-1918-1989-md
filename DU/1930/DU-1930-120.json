@@ -1,0 +1,146 @@
+{
+ "eli": "DU/1930/120",
+ "title": "Rozporządzenie Ministra Spraw Wojskowych z dnia 8 lutego 1930 r. wydane w porozumieniu z Ministrami: Robót Publicznych, Spraw Wewnętrznych i Sprawiedliwości, w sprawie udzielania przez władze wojskowe pozwoleń na wzniesienie, przebudowę lub zmianę budynku w pobliżu twierdz, lub w rejonach fortyfikacyjnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1930/120/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WOJSKOWYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 lutego 1930 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrami: Robót Publicznych, Spraw Wewnętrznych i Sprawiedliwości, w sprawie udzielania przez władze wojskowe pozwoleń na wzniesienie, przebudowę lub zmianę budynku w pobliżu twierdz, lub w rejonach fortyiikacyjnych,"
+  },
+  {
+   "type": "text",
+   "text": "Na zasadzie art, 422 i 342 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r. o prawie budowlanem i zabudowaniu osiedli (Dz, U. R. P, Nr. 23, poz, 202) zarządza się co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "„81. Władze wojskowe mogą udzielać pozwoleń w myśl art. 342 na wzniesienie, przebudowę lub zmianę budynku w pobliżu twierdzy lub w rejonie fortyfikacyjnym — o ile projektowane wzniesienie, przebudowa lub zmiana budynku nie wpłynie ujemnie na stan obronności twierdzy lub rejonu fortyfikacyjnego. Za twierdzę należy uważać obszar warowny, — za pobliże twierdzy obszar położony w granicach obszaru warownego — za rejony fortyfikacyjne zaś rejony umocnione,",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "§ 2. Udzielone przez władzę wojskową pozwolenie na wzniesienie, przebudowę lub zmianę budynku w granicach obszaru warownego lub w rejonie umocnionym nie zwalnia proszacego o to pozwolenie od dopełnienia innych warunków, wymaganych przez szczególne przepisy dla wzniesienia, przebudowy lub zmiany budynku.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "§ 3. Wzniesienie budynku oznacza zarówno postawienie nowego budynku stałego lub tymczasowego, jak również nadbudowę lub powiększenie budynku istniejącego, — z wyjątkiem podrzędnych budynków gospodarskich, wznoszonych w miejscowo= ściach wiejskich, jak: kurniki, brogi, budki i t. p.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Przebudowa budynku oznacza przeróbkę budynków wymienionych w ustępie pierwszym, przy których zostają zmieniane, dodawane lub usuwane części nośne lub konstrukcyjne tych budynków, bądź części wpływające na bezpieczeństwo budynków od ognia lub stan zdrowotny. Zmiana budynku oznacza zmianę przeznaczenia budynków lub ich części, określonych w ustępach pierwszym i drugim, w szczególności przeróbkę na pomieszczenie dla pobytu ludzi takich budynków lub ich części, które uprzednio miały inne przezna” czenie lub były budowane dla innego celu.",
+   "quoted": true
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Władzą wojskową właściwą dla udzielenia pozwolenia jest: w obszarach warownych — dowódca obszaru warownego, w rejonach umocnionych — ten dowódca okręgu korpusu, w którego okręgu położony jest dany rejon umocniony. d decyzji władzy, wskazanej w ustępie pierw= szym, przysługuje interesowanemu w terminie dni 14 od dnia jej doręczenia odwołanie do Ministra Spraw Wojskowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Do prośby o udzielenie pozwolenia nale» ży dołączyć jeden egzemplarz planów (projektów), dotyczących budowy, co do której ma być udzielone pozwolenie. Planów tych stronie interesowanej nie zwraca się. Władza wojskowa może, w razie potrzeby, zażądać od interesowanego uzupełnienia planów (projektów) budowy — lub też przeprowadzić dochodzenia przed wydaniem pozwolenia, celem uzyskania potrzebnych wiadomości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Prośbę o udzielenie pozwolenia władza wojskowa rozpatruje tylko w tym kierunku, czy wzniesienie, przebudowa lub zmiana budynku nie wpłynie ujemnie na stan obronności obszaru warów= nego lub rejonu umocnionego i w zależności od tego, władza wojskowa albo:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_6/lit_a",
+     "text": "udziela pozwolenia, nie czyniąc go zawisłem od żadnych warunków, albo",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_6/lit_b",
+     "text": "udziela pozwolenia warunkowego t. j. uzależnia wzniesienie, przebudowę lub zmianę budynku w granicach obszaru warownego lub w rejonie umocnionym od wyrażenia przez interesowanego zgody na warunki wskazane przez władzę wojskową, udziela jaca pozwolenia, albo",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_6/lit_c",
+     "text": "odmawia pozwolenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Warunki wskazane przez władzę wojsko» wą, udzielającą pozwolenia warunkowego (§ 6 pkt. b), „mogą wynikać tylko ze względów dotyczących obronności obszaru warownego, lub rejonu umocnionego. W szczególności władza wojskowa, udzielając pozwolenia warunkowego, może zażądać od właściciela nieruchomości złożenia oświadczenia, że ani przez niego, ani też przez jego prawonabywców nie będą podnoszone do Skarbu Państwa żadne roszczenia o odszkodowanie z tytułu uszkodzenia lub żur pełnego zburzenia budynku, któreby nastąpiło w związku z wydarzeniami wojennemi lub wo skoe wemi operacjami dla celów obrony. Dopełnienie tego zobowiązania może być zapewnione przez danie",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "odpowiedniej gwarancji, wskazanej przez władze wojskowe,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Pozwolenie na wzniesienie, przebudowę lub zmianę budynku powinno być udzielane na pewien określony czas, oznaczony przez władzę wojskową, jednak nie krótszy niż dwuletni. Po upływie oznaczonego w pozwoleniu czasu, traci ono swą ważność.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Do próśb, wnoszonych do władz wskazanych w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 16 lutego 1928 r, o prawie budowlanem i zabudowaniu osiedli (Dz. U. R. P. Nr. 23, poz, 202), o udzielenie pozwolenia na wzniesienie, przebudowę lub zmianę budynku — należy, o ile chodzi o takie budowy w granicach obszaru warownego lub rejonu umocnionego, dołączyć pozwolenie władzy wojskowej, wydane w myśl niniejszego rozporządzenia. Prośba o pozwolenie na wzniesienie, przebudowę lub zmianę budynku nie będzie rozpatrywaną, jeżeli interesowany nie uzyskał uprzednio pozwolenia władzy wojskowej na taką budowę w granicach obszaru warownego, lub rejonu umocnionego, — pozwolenie zaś nie będzie udzielone, gdy interesowany nie dopełnił warunków przewidzianych w udzielonem mu przez władzę wojskową pozwoleniu warunkowem,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wojskowych: J. Piłsudski"
+  },
+  {
+   "type": "text",
+   "text": "Minister Robót Publicznych: Matakiewicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych: H. Józewski"
+  },
+  {
+   "type": "text",
+   "text": "Kierownik Ministerstwa Sprawiedliwości: Dutkiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

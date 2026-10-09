@@ -1,0 +1,882 @@
+{
+ "eli": "DU/1934/715",
+ "title": "Obwieszczenie Ministra Skarbu z dnia 9 sierpnia 1934 r. w sprawie ogłoszenia jednolitego tekstu ustawy o państwowym podatku dochodowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/715/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 sierpnia 1934 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy o państwowym podatku dochodowym."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 211 § 2 Ordynacji Podatkowej z dnia 15 marca 1934 r. (Dz. U. R. P. Nr. 39, poz. 346) ogłaszam jednolity tekst ustawy o państwowym podatku dochodowym (Dz. U. R. P. z 1925 r. Nr. 58, poz. 411) z uwzględnieniem zmian i uzupełnień, wprowadzonych:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "ustawą z dnia 29 października 1920 r. o spółdzielniach w brzmieniu obwieszczenia Ministra Skarbu z dnia 16 czerwca 1934 r. (Dz. U. R.P. Nr. 55, poz. 495);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "ustawą z dnia 7 listopada 1931 r. o zmianie niektórych postanowień ustawy o państwowym podatku dochodowym (Dz. U. R. P. Nr. 101, poz. 771);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "art. 2 ustawy z dnia 17 marca 1932 r. o zmianie niektórych przepisów ustaw, dotyczących finansów komunalnych (Dz. U. R. P. Nr. 25, poz. 223);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "rozporządzeniem Prezydenta Rzeczypospolitej z dnia 21 października 1932 r. o zmianie niektórych postanowień ustawy o państwowym podatku dochodowym (Dz. U. R. P. Nr. 91, poz. 767);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "ustawą z dnia 23 marca 1933 r. o częściowej zmianie usiroju samorządu terytorjalnego (Dz. U. R. P. Nr. 35, poz. 294);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "Ordynacją Podatkową z dnia 15 marca 1934 r. (Dz. U. R. P. Nr. 39, poz. 346);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "ustawą z dnia 28 marca 1933 r. o ubezpieczeniu społecznem (Dz. U. R. P. Nr. 51, poz. 396) oraz z nową numeracją artykułów. Podany w załączniku tekst ustawy obowiązuje od dnia 1 października 1934 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: Wł. Zawadzki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Skarbu z dnia 9 sierpnia 1934 r. (poz. 715).",
+   "body": [
+    {
+     "type": "text",
+     "text": "USTAWA"
+    },
+    {
+     "type": "text",
+     "text": "© państwowym podatku dochodowym."
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ 1",
+     "text": "Osoby obowiązane do opłacania podatku,"
+    },
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "Państwowy podatek dochodowy opłacają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/pkt_1",
+       "text": "Osoby fizyczne, mające na obszarze Rzeczypospolitej miejsce zamieszkania lub przebywające na tym obszarze dłużej niż rok, od całego dochodu.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/pkt_2",
+       "text": "Osoby fizyczne, bez względu na ich miejsce zamieszkania lub pobytu, o ile na obszarze Państwa:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_1/pkt_2/lit_a",
+         "text": "posiadają nieruchomości, wierzytelności zahipotekowane na nieruchomościach, majątki, przywiązane do tegoż obszaru fideikomisem lub innemi przepisami prawnemi;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_1/pkt_2/lit_b",
+         "text": "wykonywają przedsiębiorstwa handlowe i przemysłowe albo są wspólnikami takict przedsiębiorstw, przyczem posiadania akcy): udziałów i podobnych papierów wartościo” wych nie należy uważać za udział w przeć” siębiorstwie;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_1/pkt_2/lit_c",
+         "text": "pobierają dochody w postaci tantjem;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_1/pkt_2/lit_d",
+         "text": "pobierają płacę lub emeryturę, wypłaconą bądź przez służbodawców prywatnych, bądź z funduszów Państwa, związków samorzą” dowych, oraz innych tego rodzaju funduszów publicznych — tylko od dochodu z tych źródeł (ustęp 2, punkty a, b, ci d).",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/pkt_3",
+       "text": "Osoby fizyczne, nie mające miejsca zamiesz” kania na obszarze Rzeczypospolitej, lecz przebywa” jace na tym obszarze chociażby mniej niż rok dla za” robku albo wykonywania czynności handlowych lub przemysłowych, — od dochodu osiąśniętego w tymże czasie na wspomnianym obszarze.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_1/pkt_4",
+       "text": "Spadki wakujące (nie objęte),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_1/pkt_5",
+       "text": "Osoby prawne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_1/pkt_5/lit_a",
+         "text": "których zarząd znajduje się na obszarze Rze” czypospolitej — od całego dochodu;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_1/pkt_5/lit_b",
+         "text": "inne — od dochodu, osiągniętego na obsza” rze Rzeczypospolitej ze źródeł, wymienio” nych w ustępie 2 punkty a) i b).",
+         "children": [
+          {
+           "type": "text",
+           "text": "Art 2."
+          },
+          {
+           "type": "text",
+           "text": "Opodatkowaniu podlegają wymienione w art. 1 osoby fizyczne, spadki wakujące (nie objęte) i osoby prawne, których dochód roczny przekracza 1.500 zł."
+          },
+          {
+           "type": "text",
+           "text": "Przedmiot opodatkowania,"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "Opodatkowaniu podlegają dochody:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_3/pkt_1",
+       "text": "z nieruchomości gruntowej własnej, posiadanej, użytkowanej lub dzierżawionej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_3/pkt_2",
+       "text": "z budynków:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_3/pkt_3",
+       "text": "a) z przedsiębiorstw handlowych i przemy* stowych;",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_3/pkt_3/lit_b",
+         "text": "z zajeé zawodowych i wszelkich innych zatrudnień o celach zarobkowych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_3/pkt_4",
+       "text": "z tantjem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_3/pkt_5",
+       "text": "z kapitałów pieniężnych i praw majątko” wych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_3/pkt_6",
+       "text": "z uposażeń służbowych, emerytur i wynagro” dzeń za najemną pracę;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_3/pkt_7",
+       "text": "z wszelkiego rodzaju Źródeł dochodu, nie wymienionych w ust. 1 — 6 niniejszego artykułu. Wymienione dochody, z wyjątkiem dochodów z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę, podlegają łącznemu opodatkowaniu na podstawie przepisów Działu I niniejszej ustawy: Dochody z uposażeń służbowych, emerytur i wynagrodzeń za najemną pracę podlegają opodatkowaniu na podstawie przepisów Działu II niniejszej ustawy; dochody te, o ile wypłacane są na obszarze obcego państwa, podlegają opodatkowaniu na pod stawie przepisów Działu I ustawy, jednak według skali art. 43, przyczem do tych dochodów nie stosuje się odliczeń z art. 10, tudzież zwyżek i zniżek podatkowych z art. 26, 27 i 29.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "a eT ee I ORA NZ OR RĘCZNE"
+        },
+        {
+         "type": "text",
+         "text": "Art. 4,"
+        },
+        {
+         "type": "text",
+         "text": "h Dochód osób fizycznych (art. 1 ust. 1) z nieru- Chomości i stałych przedsiębiorstw, znajdujących się Pozą obszarem Rzeczypospolitej, jak również dochód 2 tantjem oraz dochód z płac służbowych i emerytur A unduszów innego państwa, obcych związków samoię dowych oraz innych tego rodzaju funduszów puicznych wyłącza się od opodatkowania, o ile bę- Zle udowodnione, że podlega tam podatkowi tego sa- Mego rodzaju i jeżeli właściwe obce państwo postę- Puje według zasad wzajemności co do takich samych chodów ze źródeł tutejszych."
+        },
+        {
+         "type": "text",
+         "text": "Zwolnienia od podatku."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "Od podatku dochodowego wolni są: lite; 1) uwierzytelnieni przy Rządzie Rzeczyposponi €] zastępcy obcych państw oraz przydani im urzęddo i osoby, pozostające u nich w służbie, o ile są cuzr oziemcami, z wyjątkiem podatku od dochodu ze Tódeł, wymienionych w art. 1 ust. 2; , ,2) inne osoby, którym na podstawie układów Riędzypaństwowych lub w ogóle według zasad prawa ledzynarodowego służy prawo do zwolnienia od poatku dochodowego, z wyjątkiem podatku od docho- Sw ze źródeł, wymienionych w art. 1 ustęp 2; d 3) weterani powstań 1831, 1848 i 1863 roku, co ust rensvi pobieranych na mocy obowiązujących w;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_5/pkt_4",
+       "text": "osoby, pobierające ze Skarbu pensje i dodał- \" przywiązane do odznaczeń za waleczność, za ra-",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "1t",
+       "path": "art_5/ust_1t",
+       "text": "p., co do tych pensyj i dodatków; w 5) szeregowi Wojsk Polskich co do ich żołdu mi tużbie czynnej, łącznie ze wszystkiemi dodatka-",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "art_5/ust_1t/pkt_6",
+         "text": "oficerowie, duchowni i urzędnicy wojskowi a zasie wojny, należący do oddziałów, postawionych et Stopie bojowej, co do uposażenia wypłacanego z atu wojennego; Państwo i związki samorządowe; ne 8) osoby prawne, których dochody są obracacałości na cele ogólnej użyteczności, naukowe, Oświa towe, kulturalne, wyznaniowe i dobroczynne; zy: 9) kółka rolnicze, należące do związków rewicjnych lub Związku Ekonomicznego kółek rolniych, a mające charakter spółdzielni (ustawa z dnia Do Października 1920 r. Dz. U, R.P. z 1934 r. Nr. 55,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_5/ust_2",
+       "text": "495), wolne są od podatku dochodowego do końtoku 1929, Po upływie tego terminu kółka te bęopodatkowane jak spółdzielnie, wymienione w a tt. 10 część pierwsza ustęp 6.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Pojęcie dochodu."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "dów Za dochód uważa się sumę wszystkich przycho- Otrz, Pieniądzach lub wartościach pieniężnych, W ar manych z poszczególnych źródeł, wymienionych nią ; 5; PO strąceniu kosztów osiągnięcia, zachowacone bezpieczenia tych przychodów, łącznie z cokg, M prawidłowem odpisaniem na zużycie budyń- ' Maszyn i wszelkiego rodzaju martwego inwentarza, oraz po potrąceniu strat częściowych lub całkowitych w przedmiotach, podlegających zużyciu i służących do osiągnięcia dochodu, o ile odpisań na zużycie oraz strat nie uwzględniono już w kosztach wyżej wymienionych. Do kosztów osiągnięcia przychodów zalicza się koszty wyżywienia członków rodziny podatnika, stale pracujących w jego gospodarstwie rolnem lub leśnem, albo w jego przedsiębiorstwie handlowem lub przemysłowem. W razie, gdy okaże się wątpliwość co do wysokości odpisań za zużycie, w niniejszym artykule wymienionych, należy odpowiednie sumy ustalić przez znawców (biegłych).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 7,"
+      },
+      {
+       "type": "text",
+       "text": "Nie uważa się za dochód, podlegający opodatkowaniu: 1) nadzwyczajnych przychodów w postaci spadków, legatów, darowizn, posaśów, kapitałów, wypłaconych za ubezpieczenie życia, o ile te przychody nie stanowią perjodycznych wpływów; 2) wpływów wskutek częściowego lub całkowitego spieniężenia majątków; 3) zysków, wynikających ze sprzedaży przedmiotów majątkowych, o ile sprzedaż nie nastąpiła w wykonywaniu przedsiębiorstwa zarobkowego lub interesu spekulacyjnego; 4) wygranych loteryjnych i losowych; 5) wpłat z tytułu umarzania wierzytelności i 6) w ogóle takich przychodów, które stanowią A ZEE lub zwrot majątku, lecz nie stanowią dochodu. ."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "8",
+     "path": "art_8",
+     "text": "Z przychodów, osiągniętych z poszczególnych Źródeł, nie mogą być potrącone:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_8/pkt_1",
+       "text": "wydatki na powiększenie lub ulepszenie źródła dochodu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_8/pkt_2",
+       "text": "wydatki na umorzenie długów, kapitałów; włożonych w przedsiębiorstwo przez uczestników i na pokrycie strat za ubiegłe lata;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_8/pkt_3",
+       "text": "wydatki na prowadzenie gospodarstwa do* mowego podatnika i na utrzymanie członków jego rodziny;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_8/pkt_4",
+       "text": "procenty od własnego kapitału, włożonego w gospodarstwo lub przedsiębiorstwo podatnika;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_8/pkt_5",
+       "text": "wydatki na osiągnięcie dochodu ze źródeł, zagranicą położonych, a na mocy tej ustawy nie podlegających opodatkowaniu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_8/pkt_6",
+       "text": "inne wydatki i straty, nie związane z osiąg-. nięciem dochodu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "Jeżeli przy obliczaniu dochodu z różnych źródeł, wskazanych w art. 3, okaże się w jednem przewyżka wpływów nad wydatkami, a w drugiem straty, to w celu ustalenia wysokości dochodu oblicza się oddzielnie sumę przewyżek i sumę strat i tę ostatnią potrąca się z pierwszej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Odliczenia."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "Od ogólnego dochodu należy odliczyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_10/pkt_1",
+       "text": "odsetki od długów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_10/pkt_2",
+       "text": "wartość pieniężną rent i trwałych ciężarów, opartych na tytułach prawnych;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "umowy opłaty za siebie i za członków jego rodziny do kas zapomogowych, emerytalnych, ubezpieczalni społecznych, ubezpieczeń od nieszczęśliwych wypadków i pogrzebowych, o ile te opłaty łącznie nie przekraczają 300 zł rocznie za każdą ubezpieczoną osobę;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_10/pkt_4",
+       "text": "premje, wpłacane przez podatnika od ubezpieczeń na wypadek śmierci lub na dożycie, o ile nie przekraczają: a) na rachunek samego podatnika 300 zł rocznie, b) na rachunek zaś podatnika i członków rodziny, będących na jego utrzymaniu, łącznie 600 zł rocznie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_10/pkt_5",
+       "text": "beżpośrednie podatki państwowe i samorządowe, przymusowe lub ustawowe świadczenia pieniężne oraz bezpłatne świadczenia przymusowe innego rodzaju na cele publiczne, z wyjątkiem państwowego podatku dochodowego, podatku specjalnego od tantjem, tudzież nadzwyczajnej daniny państwowej (ustawa z dnia 16 grudnia 1921 r—Dz. U. R. P. z 1922 r. Nr. 1, poz. 1) i podatku od wzbogacenia się, które ujawniło się przez nabycie nieruchomości i przez spłatę diugéw hipotecznych (ustawa z dnia 31 marca 1922 r—bDz. U. R. P. Nr. 30, poz. 238), oraz daniny lasowej (ustawa z dnia 6 lipca 1923 r.—Dz. U. R. P. Nr. 87, poz. 676) i podatku majątkowego (ustawa z dnia 11 sierpnia 1923 r.—Dz. U. R. P. Nr. 94, poz. 746);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_10/pkt_6",
+       "text": "w spółdzielniach, działających na zasadzie ustawy z dnia 29 października 1920 r. (Dz. U. R. P. z 1934 r. Nr. 55, poz. 495), które należą do związków rewizyjnych, wymienionych w art. 66 i 70 tejże ustawy, posiadających na podstawie art. 68 tejże ustawy prawa rewizji, — sumy nadwyżek bilansowych (zyski bilansowe), pochodzące z obrotów z członkami, o ile spółdzielnie te faktycznie i statutowo działają wśród swych członków, lub jeżeli rozszerzają wprawdzie działalność swoją i na osoby, nie będące członkami, ale przelewają przypadające na nieczłonków nadpłaty i zwroty w całości do funduszów, niepodlegających podług statutu podziałowi między członków. Wszystkie powyżej wymienione odliczeńia mogą być dokonane o tyle, o ile wydatki na nie faktycznie poniesione zostały. Wydatki, wspomniane w ustępach 1 i 2 niniejsześo artykułu, odlicza się tylko o tyle, o ile ciążą na źródłach dochodu, podlegającego podatkowi i pozostają w związku gospodarczym z temi źródłami. Procenty i perjodyczne świadczenia podatnika na korzyść członków rodziny mogą być uwzględnione tylko pod warunkiem, jeżeli otrzymujący te procenty lub świadczenia członek rodziny jest opodatkowany odrębnie podatkiem dochodowym.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Opodatkowanie członków rodziny i wspólnych dochodów."
+        },
+        {
+         "type": "text",
+         "text": "Art 11."
+        },
+        {
+         "type": "text",
+         "text": "O ile głowie rodziny służy prawo rozporządzania dochodami ze źródeł, należących do członków rodziny, lub też prawo użytkowania tych dochodów, to dochody członków rodziny dolicza się do dochodów głowy rodziny. Jeżeli jednak dochód członków rodziny osiągnięty został ze źródeł, wymienionych w ustępie 3 p. b"
+        },
+        {
+         "type": "text",
+         "text": "EE GH"
+        },
+        {
+         "type": "text",
+         "text": "i 6 art. 3 niniejszej ustawy, wówczas co do tego do” chodu członkowie rodziny podlegają oddzielnemu opodatkowaniu."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "12",
+     "path": "art_12",
+     "text": "Dochody z udziałów we wspólnej własności wspólnem posiadaniu lub użytkowaniu opodatkowu” je się osobno dla każdego uczestnika, w stosunku 09 jego udziału. Przy udziałach, których wysokości nie można określić, uczestnictwo przyjmuje się w rów\" nych częściach,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Podstawa opodatkowania."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "13",
+     "path": "art_13",
+     "text": "Opodatkowaniu podlegają dochody, osiągnięte w ostatnim roku kalendarzowym lub w ostatnim ro¥ operacyjnym, względnie gospodarczym, poprzedza” jącym rok podatkowy.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "14",
+     "path": "art_14",
+     "text": "Wartość pieniężną dochodów w naturze oblicza się według przeciętnych cen z roku ubiegłego w nvel scu, gdzie znajduje się źródło tych dochodów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dochody z poszczególnych źródeł."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "15",
+     "path": "art_15",
+     "text": "Za dochód z gruntów, pozostających we wła” snym zarządzie, uważa się rzeczywiście osiągnięty czysty przychód z całego rolnego i leśnego gosP9. darstwa, jako też z produkcji i uprawnień, mający”! związek gospodarczy z posiadłością gruntową, łącz nie z wartością pieniężną produktów, użytych w 8% spodarstwie domowem podatnika. Przy wydzier74 wionych posiadłościach gruntowych lub prawać'! z temi posiadłościami związanych, za dochód uważa się rzeczywiście otrzymany czynsz dzierżawny WT z wartością pieniężną wszelkich świadczeń ze strony dzierżawcy i korzyści, zastrzeżonych na rzecz w:% ściciela, po uwzględnieniu potrąceń, które wpływają na zmniejszenie czynszu dzierżawnego. Dochó gruntów dzierżawionych ustala się w sposób, wskaz% ny dla gruntów we własnym zarządzie, po potrąceniu jednak z tego dochodu czynszu dzierżawnego oraz !? nych świadczeń w pieniądzach i w naturze, obciąż% jących dzierżawcę na korzyść właściciela. s Przy obliczaniu ogólnego dochodu z gosp?” darstw rolnych poniżej 15 ha użytkowego gruntu, Po, łożonych w odległości ponad 5 km od granicy mia$ z ludnością wyżej 100.000 mieszkańców, przyjmuje > dochód w wysokości, nie przekraczającej wartości centnarów metrycznych żyta z 1 ha gruntu po Cr nach przeciętnych w roku osiągnięcia dochodu, sa żącego za podstawę do opodatkowania w myśl art. ustawy niniejszej. af Za dochód z lasu uważa się czysty przychój uzyskany z wyrębów i wszelkich użytków leśny oraz wynagrodzenia, otrzymane za odstąpione osoD9 trzecim prawa użytkowania lasu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "_ Jeżeli wyręby uskutecznia się w ilości, prze” + yższającej plan prawidłowego gospodarstwa lub nauralny przyrost lasu, to do ogólnego dochodu podatnika dolicza się tylko sumę, osiągnięta z wyrębu €] części lasu, która była przeznaczona do wyrębu stents planu lub odpowiada naturalnemu przyrologe Dochéd, osiągnięty z wyrębu, przekraczającego NOŚĆ, określoną w planie gospodarstwa leśnego lub ość, odpowiadającą naturalnemu przyrostowi, pod- €ga oddzielnemu opodatkowaniu w następujący Sposób:"
+      },
+      {
+       "type": "text",
+       "text": "cały czysty dochód, uzyskany z nadzwyczajtego wyrębu, dzieli się na 6 równych części: 1/6 część o liczą się do ogólnego dochodu, zaś od dochodu 2 pozostałych 5/6 części wymierza się podatek w stounku procentowym, odpowiadającym podatkowi od Ogólnego dochodu. Gdyby jednak ogólny dochód był mniejszy od dochodu, podlegającego podatkowi weug skali art. 23, wówczas od tych 5/6 części dochodu Wyznacza się stawkę podatkową w stosunku procenowym według 1 stopnia tejże skali,"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "16",
+     "path": "art_16",
+     "text": "Za dochód z budynków wynajętych uważa się Tzeczywiście osiągnięty całoroczny czysty czynsz za omy, lokale, place, ogrody przy domach i t. p. = Za dochód z budynków, zajmowanych: w całoiż lub w części przez samego właściciela lub człon* Ow jego rodziny, tudzież z wszelkich bezpłatnych ę.tkowań budynków, uważa się czystą wartość użytowania, jaką budynek lub części tegoż stanowią ze Zględu na ich jakość i położenie oraz miejscowe Osunki najmu. ę O ile posiadacz używa swego budynku lub czę- Aż tegoż wyłącznie do celów własnego gospodarstwa „nego, leśnego lub do celów przemysłowych, nie Gb €ży brać w rachubę wartości użytkowania ani przy k Icząniu dochodu, ani przy obliczaniu odnośnych złów produkcji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 17,"
+      },
+      {
+       "type": "text",
+       "text": "n Za dochód z przedsiębiorstw handlowych i przew słowych oraz z wszelkiego rodzaju zajęć zawodo- 3, Ch i innych zatrudnień o celach zarobkowych uwa- A się różnicę między sumą przychodu, a sumą potracer stosownie do postanowień, zawartych w art. 6."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "18",
+     "path": "art_18",
+     "text": "fr Za dochód z tantjem uważa się wszelkie wynap odzenia, wypłacane pod jakąkolwiek nazwą osonad należącym do składu zarządu, rad, komitetów ły, orczych i komisyj rewizyjnych, z wyjątkiem stafou: Perjodycznych i z góry w sumie absolutnej cyb Wo określonych poborów, wypłacanych UB osog M z tytułu ich stałego zatrudnienia w przedsiębiornigy. „procentowe wynagrodzenia tych stale zatrud- Rych osób uważa się również za tantjemy,",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "19",
+     "path": "art_19",
+     "text": "Za dochód z kapitałów pieniężnych i praw majątkowych uważa się: procenty od pożyczek, wkładów lub rachunków bieżących i od innych lokat pieniężnych; procenty od procentów i innych nie otrzymanych w terminie sum; kary konwencjonalne za niezwrócony w terminie kapitał lub niezapłacony w terminie procent; procenty z interesów wekslowych oraz z innych zobowiązań pieniężnych, według których kapitał ma być zwrócony po upływie oznaczonego terminu w kwocie, przewyższającej pierwotną sumę tego kapitału; procenty od wszelkiego rodzaju papierów wartościowych; dywidendy od akcyj i udziałów; wpływy pieniężne lub mające wartość pieniężną z wszelkiego rodzaju lokat kapitałów; wreszcie renty i dochody z innych praw majątkowych. Dochody z kapitałów podatnika, które są ulokowane na jego nieruchomościach lub w jego handlu i przemyśle, uważa się za dochody, osiągnięte z nieruchomości lub z przemysłu i handlu. Przy ustalaniu dochodu z papierów wartościowych nie bierze się pod uwagę zmiany ich wartości kursowej z wyjątkiem papierów, będących w posiadaniu tych przedsiębiorstw, których obroty papierami wartościowemi są przedmiotem interesu handlowego.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "20",
+     "path": "art_20",
+     "text": "Za dochód z uposażeń służbowych, emerytur i z najemnej pracy uważa się wszelkiego rodzaju wynagrodzenia w pieniądzach lub w naturze, jakie podatnik uzyskuje ze swego stosunku służbowego lub z tytułu najmu pracy łącznie ze wszystkiemi dodatkami, z wyjątkiem wynagrodzeń, które w myśl art. 18 uznać należy za dochód z tantjem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 21."
+      },
+      {
+       "type": "text",
+       "text": "Za podlegający opodatkowaniu dochód osób prawnych, zarówno obowiązanych, jak i nieobowiązanych do publicznego składania rachunków, lecz prowadzących prawidłowe księgi handlowe, uważa się zyski bilansowe, wykazane w zatwierdzonem zamknięciu rachunkowem, sporządzonem zgodnie z postanowieniami art. art, 6, 8, 10 i 13, nie wyłączając kwot, rozdzielonych pomiędzy członków, wspólników, udziałowców i t. p. tytułem udziału w zyskach w postaci dywidend lub procentów. Za zyski bilansowe uważa się również sumy, przeznaczone na umorzenie długów lub kapitału zakładowego, na ulepszenie lub rozszerzenie przedsiębiorstwa, jak również na utworzenie wszelkiego rodzaju funduszów rezerwowych, z wyjątkiem kwot, odkładanych przez towarzystwa ubezpieczeniowe na wypłatę sum ubezpieczonych, a ponadto w towarzystwach na wzajemności opartych na zwroty premij dla członków ubezpieczonych. Za zyski bilansowe uważa się wreszcie te kwoty pensyj i wszelkiego rodzaju wynagrodzenia osób, biorących czynny udział w zarządzie przedsiębiorstwa i zarazem wchodzących do składu zarządu, rad. nadzorczych, komitetów dyskontowych i komisyj rewizyjnych w charakterze członków lub ich zastępców, oraz osób upełnomocnionych do samodzielnego"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "prowadzenia całego przedsiębiorstwa, które przekraczają sumarycznie 10% od kapitału zakładowego, a przy kapitale zakładowym do 500.000 zł — 15% od kapitału zakładowego. Przy kapitale zakładowym od 500.000 zł do 750.000 zł dopuszczalne jest potrącenie z tego tytułu do kwoty 75.000 zł. W wypadkach, szcześółowo uzasadnionych, władny będzie Minister Skarbu granice powyższe rozszerzyć."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22",
+     "path": "art_22",
+     "text": "Spółki firmowe i firmowo - komandytowe (jawne spółki handlowe i komandytowe) nie podlegają obciążeniu podatkiem dochodowym. Dochód z tego rodzaju spółek opodatkowuje wi odrębnie jako dochód poszczególnych uczestni- OW,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Skala podatkowa."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "23",
+     "path": "art_23",
+     "text": "Podatek dochodowy wymierza się według następującej skali:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Stopień Wysokość dochodów Podatek dochodu w złotych w złotych"
+      },
+      {
+       "type": "text",
+       "text": "1 1.500 do 1.550 31 2 1.550 ,, 1.600 33 3 1.600 ,, 1.700 37 4 1.700 ,, 1.800 41 5 1.800 ,, 1.900 45 6 1.900 ,, 2.000 50 7 2.000 ,, 2.100 54 8 2.100 ,, 2.200 59 9 2.200 „ 2.400 67 10 2.400 „ 2.600 75 11 2.600 ,, 2.800 84"
+      },
+      {
+       "type": "text",
+       "text": "13 3.000 ,, 3.200 102 14 3.200 ,, 3.400 112 15 3.400 ,, 3.600 122 16 3.600 ,, 3.800 133 17 3.800 ,, 4.000 144 18 4.000 ,, 4.400 162 19 4.400 ,, 4.800 182 20 4.800 ,, 5.200 202 21 5.200 ,, 5.600 224 22 5.600 ,, 6.000 246 23 6.000 ,, 6.600 283 24 6.600 ,, 7.200 324 25 7.200 ,, 7.800 366 26 7.800 ,, 8.400 411 27 8.400 ,, 9.200 469 28 9.200 „ 10.000 530 29 10.000 ,, 11.000 605 30 11.000 ,, 12.000 684 31 12.000 ,, 13.000 767 32 13.000 ,, 14.000 854 33 14.000 ,, 15.000 945 34 15.000 ,, 16.000 1.040 35 16.000 ,, 17.000 1.156 36 17.000 ,, 18.000 1.278 37 18.000 ,, 19.000 1.406"
+      },
+      {
+       "type": "text",
+       "text": "Nr, 76. ee eee"
+      },
+      {
+       "type": "text",
+       "text": "Stopień Wysokość dochodów Podatek dochodu w złotych w złotych"
+      },
+      {
+       "type": "text",
+       "text": "38 19.000 do 20.000 1.540 39 20.000 „ 22.000 1.760 40 22.000 „ 24.000 1.992 41 24.000 ,, 26.000 2.230 42 26.000 ,, 28.000 2.492 43 28.000 ,, 30.000 2.760 44 30.000 ,, 32.000 3.040 45 32.000 ,, 34.000 3.366 46 34.000 ,, 36.000 3.708 47 36.000 ,, 38.000 4.066 48 38.000 „ 40.000 4.440 49 40.000 ,, 44.000 5.060 50 44.000 ,, 48.000 5.712 51 48.000 ,, 52.000 6.396 52 52.000 ,, 56.000 7.112 53 56.000 ,, 60,000 7.860 54 60.000 ,, 64.000 8.704 55 64.000 ,, 68.000 9.588 56 68.000 ,, 72.000 10.512 57 72.000 ,, 76.000 11.476 58 76.000 ,, 80.000 12.480 59 80.000 ,, 88.000 14.168 60 88.000 ,, 96.000 15.936 61 96.000 ,, 104.000 17.888 62 104.000 ,, 112.000 19.936 63 112.000 ,, 120.000 22.080 64 120.000 ,, 128.000 24.320 65 128.000 ,, 136.000 26.656 66 : 136.000 „ 144.000 29.088 67 144.000 ,, 152.000 31.616 68 152.000 ,, 160.000 34.400 69 160.000 ,, 168.000 37.296 70 168.000 ,, 176.000 40.304 71 176.000 ,, 184.000 43.424 72 184.000 ,, 192.000 46.656 73 192.000 200.000 50.000. Przy dochodzie ponad 200.000 zł podatek wyno” si 50.000 zł i oprócz tego 2.000 zł od każdych pełnych 8.000 zł ponad 200.000 zł. Do podatku dolicza się ponadto, o ile chodzi o dochody osób fizycznych i spadków nieobjętych: Ponad 200.000 zł do 300.000 zł 1%% i 300.000 ,, ,, 400.000 , 2%% A 400.000 ,, , 500.000 „ 4% = 500.000 „ , 600.000 ,, 54% m 600.000 ,, „ 800.000 „ 7% a 800.000 ,, ,, 1100.000 „ 9% „ 1100.000 „ ., 1500.000 „11% w _1500.000 „ ,, 2000.000 „13% w 2000.000 15% od całego podlegającego podatkowi dochodu. Podatek należy jednak wymierzać w ten sposób! aby z dochodu wyższego stopnia po potrąceniu P9 datku nie pozostało nigdy mniej, niż zostaje z najwy?” szego dochodu bezpośrednio niższego stopnia po P9 trąceniu podatku, na ten stopień przypadającego. O ile z dochodu, ustalonego do wymiaru poda? ku po potrąceniu przypadającej kwoty podatkowi! pozostaje mniej, niż wynosi najwyższy dochód wo ny od podatku, należy podatek wymierzyć i pobrał tylko w wysokości nadwyżki dochodu ponad tę 14) niższą granicę."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "24",
+     "path": "art_24",
+     "text": ". Do stawek państwowego podatku dochodowego nie mogą być ustanawiane dodatki na rzecz związków samorządowych. Na obszarze jednak województw poznańskiego, Pomorskiego i górnośląskiej części województwa śląskiego gminy i powiatowe związki samorządowe mo- §4 pobierać na podstawie uchwał organów uchwala- Jących dodatki do państwowego podatku dochodowego, A. Dodatki te nie mogą przekraczać przy dochodzie podatkowym: według skali art. 23: Ponad 1,500 zł do 24.000 4% dochodu » 24000 „ „ 88.000 45% mn w 88.000 ,, 5% u B. Dodatki te wynoszą: 7 według skali art. 43 — 3% dochodu, poczyna- Jąć od 15 stopnia tejże skali. Dochody z uposażeń służbowych, emerytur i Wynagrodzeń za najemną pracę, wypłacanych z funuszów Państwa oraz związków samorządowych, nie podlegają dodatkowi na rzecz związków samorzaowych,",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "25",
+     "path": "art_25",
+     "text": "Osoby, które osiągają dochód, określony w art. 18, a przekraczający 1.500 zł, opłacają obok podatku dochodowego, w myśl ogólnych postanowień niniejszej ustawy, specjalny podatek od iantjem w wysokości 50% stawki, przypadającej od ctrzymane- $o Z tantjem dochodu, według skali, podanej w art. 23 mniejszej ustawy, jednak nie mniej niż 16 zł. y jedna i ta sama osoba pobiera tantjemy W kilku instytucjach lub przedsiębiorstwach, wów- Czas podatek w myśl części pierwszej niniejszego arjykułu, oblicza się osobno od każdej tantjemy, prze- Taczającej 1.500 zł. Instytucje, wypłacające tantjemy, obowiązane SĄ potrącać przy każdej wypłacie specjalny podatek tantjem. , Specjalny podatek od tantjem należy potrącić Przy wypłacie tantjem bez wymiaru. Kwoty, potrą- Cone w ciągu miesiąca w sposób wyżej wymieniony, Należy z reguły w ciągu dni 7 po upływie tego mię- Siaca wpłacić do właściwej kasy państwowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "* Zwyżki i zniżki podatkowe. — }"
+      },
+      {
+       "type": "text",
+       "text": "- Stope podatkową, podaną w art, 23, podwyższa Się © 20% dla podatników nieżonatych lub niezam €żnych, nie mających na utrzymaniu żadnego członk A rodziny, lecz osiągających dochód ponad 3.600 zł."
+      },
+      {
+       "type": "text",
+       "text": "che O ile na utrzymaniu głowy rodziny, której dood, podlegający opodatkowaniu, nie przekracza “200 zł, znajduje się więcej niż jeden członek rodziny, wówczas przypadającą stopę podatkową obniża się o dwa stopnie na każdego następnego członka rodziny, Gdyby na podstawie ulgi, przyznanej w niniejszym artykule, wypadło zmniejszyć stopę podatkową poniżej pierwszego stopnia, następuje zupełne zwolnienie od podatku."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "28",
+     "path": "art_28",
+     "text": "Za członków rodziny w myśl artykułów 26 i 27 uważa się: małżonków, dzieci ślubne, nieślubne i przysposobione, krewnych męża i żony w linji wstępnej i zstępnej, rodzeństwo męża i żony, oraz dzieci rodzeństwa tychże.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 29,"
+      },
+      {
+       "type": "text",
+       "text": "Nadzwyczajne okoliczności, istotnie osłabiające siłę podatkową płatników, których roczny dochód, podlegający opodatkowaniu, nie przekracza 12.000 złotych, mogą być podstawą do zmniejszenia podatku, najwyżej o trzy stopnie. Okoliczności te mogą być uwzględnione przez władzę wymiarową z urzędu lub na prośbę płatnika, , Przyznanie takiej ulgi może nastąpić niezależnie od zniżenia podatku na zasadach artykułu 27,"
+      },
+      {
+       "type": "text",
+       "text": "Początek i koniec obowiązku podatkowego."
+      },
+      {
+       "type": "text",
+       "text": "Zmiany w ciągu roku podatkowego."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "30",
+     "path": "art_30",
+     "text": "Obowiązek podatkowy dla osób fizycznych i prawnych rozpoczyna się z reguły od najbliższego roku po nastaniu stosunków, uzasadniających obowiązek podatkowy. Natomiast osoby fizyczne i prawne, które mieszkały lub miały siedzibę poza obszarem Rzeczypospolitej i nie pobierały żadnych dochodów ze źródeł, na obszarze tym się znajdujących, a otworzyły w Polsce przedsiębiorstwo, obrały sobie w Polsce miejsce zamieszkania lub siedzibę, albo przybyły do Polski dla zarobku i osiągają dochody, podlegające opodatkowaniu, podlegają obowiązkowi podatkowemu z początkiem najbliższego miesiąca po zajściu wyżej wymienionych wydarzeń.",
+     "children": [
+      {
+       "type": "text",
+       "text": "‘Art. 31,"
+      },
+      {
+       "type": "text",
+       "text": "Przy wymiarze podatku za rok pierwszy dla wymienionych w części drugiej art. 30 osób fizycznych i prawnych, z wyjątkiem obowiązanych do publicznego składania rachunków, przyjmuje się za podstawę dochód, spodziewany w ciągu pełnych miesięcy, pozostałych do końca tego roku. Z dochodu, obliczonego w stosunku do całego roku, określa się odpowiednią stawkę podatkową. Podatek wynosi tyle 12-tych części tej stawki, ile pełnych miesięcy pozostało do końca roku, wymiar zaś podatku w roku następnym uskutecznia się od dochodu, obliczonego w ten sposób za cały rok,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Art, 32."
+      },
+      {
+       "type": "text",
+       "text": "Nowopowstajace na obszarze Rzeczypospolitej towarzystwa i zakłady, obowiązane do publicznego składania rachunków, podlegają opodatkowaniu po złożeniu pierwszego sprawozdania, na mócy którego wymierza się podatek zarówno za pierwszy, jak ża drugi rok podatkowy od czasu ich powstania. Podatek oblicza się w sposób, wskazany w art. 31. Art, 33."
+      },
+      {
+       "type": "text",
+       "text": "Osoby, wymienione w części drugiej art. 30, powinny w ciągu dni czternastu po zajściu wydarzenia uzasadniającego ich obowiązek podatkowy, złoży pierwsze zeznanie, w którem należy podać dochód, spodziewany do końca roku. Nowopowstające zaś towarzystwa i zakłady, obowiązane do publicznego składania rachunków (art. 32), powinny w terminie miesięcznym po zatwierdzeniu pierwszego zamknięcia rachunkowego złożyć zeżnanie w sposób, ustalony przez Ministra Skarbu."
+      },
+      {
+       "type": "text",
+       "text": "Art. 34,"
+      },
+      {
+       "type": "text",
+       "text": "Dla osób, wymienionych w części drugiej art. 30, gaśnie obowiązek podatkowy z powodu śmierci, wyprowadzenia się z obszaru Rzeczypospolitej i utraty dochodów na tym obszarze z końcem tego miesiąca, w którym wydarzenia te zaszły. W tych wypadkach należy umorzyć podatek, począwszy od bezpośrednio następującego miesiąca kalendarzowego. Jeżeli jednak wskutek śmierci podatnika osiągany przez niego dochód nie gaśnie całkiem, wówczas masa spadkowa odpowiada za wymietzony temuż podatek, po umorzeniu kwoty, przypadającej za pozostałą część roku podatkowego, a ciążącej na dochodzie ze źródeł wygasłych wraz ze śmiercią podatnika, z uwzględnieniem odliczeń w stosunku pozostałego dochodu do wygasłej części tegoż dochodu."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "35",
+     "path": "art_35",
+     "text": "'W razie zaniechania działalności w ciągu roku podatkowego przez towarzystwa i zakłady, wspomniane w art. 32, następuje umorzenie podatku, począwszy od następnego miesiąca po zaniechaniu.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "36",
+     "path": "art_36",
+     "text": ", Zastosowanie przepisów części pierwszej art. 34 1 art. 35 w wypadkach tam omówionych, z wyjątkiem śmierci, może nastąpić tylko na prośbę, wniesioną do władzy skarbowej w przeciągu dni 14 od nastąpienia tych wypadków. , razie śmierci podatnika powinni spadkobiercy wnieść doniesienie w przeciągu 3 miesięcy wówczas, gdy domagają się zniżenia podatku w myśl części drugiej art. 34,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 37,"
+      },
+      {
+       "type": "text",
+       "text": "Wymia a podatku dla osób, wymienionych w części drugiej art. 30, z wyjątkiem towarzystw i zakładów, obowiązanych do publicznego składania ra” chunków, jako też umorzenie lub zniżenie podatku w myśl art. 34 uskutecznia urząd skarbowy; wymia” ty dla nowopowstalych towarzystw i zakładów, obó* wiązanych do publicznego składania rachuńkóW uskuteczniają właściwe władze skarbowe,"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "38",
+     "path": "art_38",
+     "text": "Zmiany, jakie zachodzą w ciągu roku podatko” wego w wysokości dochodu lub we wszystkich inny¢ stosunkach podatnika, nie wpływają na zmianę po” datku za odnośny rok podatkowy z wyjątkiem wy* padków, przewidzianych w art. 34 i 35. Jeżeli jednak wskutek nieszczęśliwych okolicz* ności lub nadzwyczajnych wydarzeń zdolność płatni” cza osoby fizycznej znacznie osłabła, urząd skarbo” wy może na prośbę podatnika, wniesioną najpóźniej do końca roku podatkowego, umorzyć odpowiednią część wymierzonego podatku, gdy uzna, że podatii tej ulgi potrzebuje.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "39",
+     "path": "art_39",
+     "text": "Terminy płatności podatku dochodowego usta” nawia się na dzień 1 maja i 1 listopada roku podat* kowego. 5 Do dnia 1 maja roku podatkowego należy uiścić podatek w wysokości połowy tej kwoty, która przy” pada wedle skali art. 23 ustawy od wykazanego W zeznaniu dochodu i dowód uskutecznionej zapłaty W oryginale lub w odpisie, przez płatnika podpisanym! dołączyć do zeznania. Osoby, które w terminie, wyznaczonym do składania zeznań, zeznania nie złożą, obowiązane 5% najpóźniej do 1 maja roku podatkowego uiścić pol?” wę podatku, wymierzonego za poprzedni rok podat owy. W terminie do 1 listopada roku podatkoweś? winni są wszyscy płatnicy uiścić ewentualną roznicé między podatkiem, wymierzonym na dany rok prze” władze podatkowe, a podatkiem, zapłaconym w te” minie do 1 maja roku podatkowego.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "40",
+     "path": "art_40",
+     "text": "Podatnicy, wymienieni w części drugiej art. 30 i art. 32, powinni zapłacić wymierzony podatek w ciągu dwóch tygodni od dnia doręczenia nakaz płatniczego.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ IL",
+     "text": "Opodatkowanie dochodów z uposażeń służbowych emerytur i wynagrodzeń za najemną pracę."
+    },
+    {
+     "type": "art",
+     "num": "41",
+     "path": "art_41",
+     "text": ", Dochody z uposażeń służbowych, emerytuf 1 wynagrodzeń za najemną pracę (art. 3 ustęp 6). © jęte skalą miarodajną do ustalania potrąceń (art. 43) podlegają podatkowi dochodowemu na zasadzie przepisów Działu II niniejszej ustawy.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Art. 42, E Br hse yl ir by RIC A pój ponad do podatku „, Za podstawę podatku przyjmuje się wysokość 46 40.000 44.000 115 lipósażeń, względnie wynagrodzeń bieżących, o trzy- 47 44.000 48,000 11.9 Yywanych zarówno w pieniądzach, jak i w naturze, 48 48.000 52.000 12.3 „bliczoną w stosunku rocznym. 49 52.000 56.000 12.7 Dochody te opodatkowuje się w całości, nie 59 56.000 60.000 13.1 stosuje się do nich odliczeń z art. 10, tudzież zniżek 51 60.000 64.000 13.6 1 zwyżek podatkowych z art. 26, 27 i 29 ustawy ni- 52 64.000 68.000 141 Mejszej. 53 68.000 72.000 14.6 |. (Wartosé pieniężną dochodów w naturze oblicza 54 12.000 16.000 15.1 SIĘ podług ceny w dniu 1 stycznia roku podatkowego. 55 76.000 80.000 15.6"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "43",
+     "path": "art_43",
+     "text": ".",
+     "children": [
+      {
+       "type": "text",
+       "text": "xa Podatek pobiera się drogą potrącenia przy każ- ,"
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_43/lit_e",
+       "text": "wypłacie uposażenia według następującej skali:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Ł ę i : p. WE ZZ SA pie tht : ponad da podatku 1 2.500 2.600 1.5 2 2,600 2.700 1.6 3 2.700 2.800 1.7 4 2.800 ~ 2.900 1.8 5 2.900 3.000 1.9 6 3.000 3.100 2 ) 3.100 3.200 2.1 8 3.200 3,400 2.2 9 3.400 3.600 2.3 10 3.600 3.800 24 11 3.800 4.000 25 12 4.000 4.200 26 13 4.200 4,400 27 14 4.400 4.800 28 15 4.800 5.200 29 16 5.200 5.600 3 w 5.600 6.000 31. 19 6.000 6.400 3.2 6.400 6.800 33 20 6.800 7.200 3.4 21 7.200 7.600 3.5 22 7.600 8.000 3.6 23 8.000 8.800 3.9 24 8.800 9.600 4.1 25 9.600 10.400 4.3 26 10.400 11.200 4.6 27 11.200 - 12.000 4,9 28 12.000 13.000 5.3 29 13.000 14.000 5.7 z 14.000 15.000 6.1 kb 15.000 16.000 6.5 = 16.000 17.000 6.8 2 17.000 18.000 11 35 18.000 eg 2 19.000 .000 . 30 20.000 22.000 8 38 22.000 24.000 8.3 39 24.000 26.000 8.6 4 26.000 28.000 8.9 4 . 28.000 30.000 9.2 4 30.000 32.000 9.5 43 32.000 34.000 9,9 44 34.000 36.000 10.3 45 36.000 38.000 10.7 38,000 40.000 11.1"
+        },
+        {
+         "type": "text",
+         "text": "56 80.000 88.000 16.1 57 88.000 96.000 16.6 58 96.000 104.000 17.2 59 104.000 112.000 17.8 60 112.000 120.000 18.4 61 120.000 128.000 19 62 128.000 136.000 19.6 63 136.000 144.000 20.2 64 144.000 152.000 20.8 65 152.000 160.000 21.5 66 160.000 168.000 22.2 67 168.000 176.000 22.9 68 176.000 184.000 23.6 69 184.000 192.000 24.3 70 192.000 25"
+        },
+        {
+         "type": "text",
+         "text": "„Podstawę do ustalenia stopy procentowej przy- ,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "padającego do potrącenia podatku stanowi wysokość wypłaconego wynagrodzenia, obliczona w stosunku rocznym. _W celu ustalenia stopy procentowej przy wypłacie jednorazowych wynagrodzeń dolicza się je do obliczonej w stosunku: rocznym sumy ostatniego perjodycznego wynagrodzenia.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 44,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Obowiązek potrącania podatku ciąży na władzach, urzędach, jako tez na instytucjach i przedsiębiorstwach i w ogóle na służbodawcach, wypłacających wszelkiego rodzaju wynagrodzenia. Potracone kwoty należy w terminie do dni 7 po dokonaniu potrącenia wpłacić do właściwej kasy skarbowej z dołączeńiem wykazu potrąceń, sporządzonego według przepisanego wzoru, względnie odpisu listy płacy, zawierającej dane, niezbędne do sprawdzenia prawidłowości dokonanych potrąceń. Wykaz ten, względnie odpis listy płacy, po uwidocznieniu na nim przyjętej sumy oraz daty przyjęcia, kasa skarbowa przesyła do właściwej władzy podatkowej I instancji.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": ":",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "mate",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Osoby, które otrzymują wynagrodzenie od różnych służbodawców, obowiązane są po upływie danego roku uiścić tytułem podatku dochodowego według Działu II ustawy o państwowym podatku dochodowym różnicę, jaka przypada do zapłaty od łącznego rocznego wynagrodzenia według skali art. 43, a łączną kwotą, potrąconą tytułem podatku przez poszczególnych służbodawców w ciągu ubiegłego roku,",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "„Kwotę, przypadającą z powyższego tytułu do zapłaty, winny osoby, wymienione w ustępie pierwszym, obliczyć i płacić do właściwej kasy skarbowej w czterech ratach kwartalnych, a to do 5 marca, do 5 czerwca, do 5 września i do 5 grudnia każdego roku. Przy uiszczeniu pierwszej raty kwartalnej należy przedłożyć kasie skarbowej obliczenie różnicy przy doiączeniu wykazu wynagrodzeń, otrzymanych w ciągu ubiegłego roku od poszczególnych służbodawców, oraz potrąceń, dokonanych tytułem podatku. Obliczenie to oraz wykaz, po uwidocznieniu przyjętej tytułem pierwszej raty kwartalnej sumy, tudzież daty przyjęcia, kasa skarbowa przesyła do właściwej władzy podatkowej I instancji. Podatek należy jednak wymierzać w ten sposób, aby z dochodu wyższego stopnia po potrąceniu podatku nie pozostało nigdy mniej, niż zostaje z najwyższego dochodu bezpośrednio niższego stopnia po potrąceniu podatku, na ten stopień przypadającego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "DZIAŁ III.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 46. Upoważnia się Ministra Skarbu do zezwolenia związkom rewizyjnym, wymienionym w art. 66 i 70 ustawy z dnia 29 października 1920 r. o spółdzielniach (Dz. U. R.P. z 1934 r. Nr. 55, poz. 495), posiadającym na mocy art. 68 tejże ustawy prawa rewizji, na składanie zeznań o dochodzie, wyjaśnień i odwołań w imieniu spółdzielni, do tych związków należących, oraz na uiszczanie podatku dochodowego, przypadającego od spółdzielni związkowych.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 47. Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 48.' Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od 1 stycznia 1925 r. na całym obszarze Rzeczypospolitej.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

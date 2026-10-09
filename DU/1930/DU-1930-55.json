@@ -1,0 +1,83 @@
+{
+ "eli": "DU/1930/55",
+ "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 20 stycznia 1930 r. w sprawie ceł wywozowych na drewno osikowe.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1930/55/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRÓW: SKARBU, PRZEMYSLU I HANDLU ORAZ ROLNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 stycznia 1930 r. w sprawie ceł wywozowych na drewno osikowe,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art, 7 punkt a) ustawy z dnia 31 lipca 1924 r. w przedmiocie uregulowania stosunków celnych (Dz. U. R. P. Nr. 80, poz. 177) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pozycja 228 punkt 3) taryfy celnej (Dz. U. R. P. z 1927 r. Nr. 118, poz, 1018). w. brzmieniu, nadanem jej rozporządzeniem z dnia 25 lutego 1929 r. (Dz. U: R. P. Nr. 15, poz. 126) otrzymuje brzmienie następujące: Pozycja taryfy",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nazwa towaru Cło od 100 kg. ZŁ gr celnej. Drewno: 228"
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "osikowe:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "okrągłe o średnicy 20 cm i wyżej, mierzonej w cieńszym końcu bez kóry, io długości: I. od 0,8 metra do 2 metrów wyłącznie 1,50 IL od 2 metrów wzwyż . 3—",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "w szczapach z rdzeniem wyłupanym 0 grubości 10 cm i wyżej, mierzonej bez kory, jako też w szczapach niepozbawionych rdzenia o promieniu od 15 cm i wyżej, wszystko o długości 0,8 metra i wyżej 6 \"1,50",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Cło wywozowe od drewna ae w szczapach, przewidziane wyżej w punkcie 3) litera b) poz. 228 taryfy celnej, nie będzie pobierane w okresie czasu do dnia 31 grudnia 1930 r. włącznie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 15 lutego 1930 r. Kierownik Ministerstwa Skarbu: Ignacy Matuszawski Minister Przemysłu i Handlu: E, Kwiatkowski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Rolnictwa: Leon J. Połczyński"
+    },
+    {
+     "type": "text",
+     "text": "Nr. 7."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,687 @@
+{
+ "eli": "DU/1934/277",
+ "title": "Rozporządzenie Rady Ministrów z dnia 6 marca 1934 r. o przepisach finansowych dla Państwowego Zakładu Emerytalnego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/277/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE. RADY MINISTRÓW,"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 marca 1934 r."
+  },
+  {
+   "type": "text",
+   "text": "o przepisach finansowych dla Państwowego Zakładu Emerytalnego,"
+  },
+  {
+   "type": "text",
+   "text": "_ Na podstawie art. 7 ust. 5 ustawy z dnia 11 grudnia 1923 r. o zaopatrzeniu emerytalnem funkcjonarjuszów państwowych i zawodowych wojskowych (Dz. U. R. P. z 1931 r. Nr. 42, poz. 380) w brzmieniu, ustalonem ustawą z dnia 18 marca 1932 r. (Dz. U, R, P. Nr. 26, poz, 239) oraz rozporządzeniem Prezydenta Rzeczypospolitej z dnia 28 października 1933 r. (Dz. U, R. P, Nr. 86, poz, 668) zarządza się co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "RozdziatL"
+  },
+  {
+   "type": "text",
+   "text": "Postanowienia ogólne,"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W tekście niniejszego rozporządzenia oznacza się w skróceniu Państwowy Zakład Emerytalny, jako „Zakład”, Zakład Ubezpieczeń Pracowników Umysłowych oraz te instytucje, przedsiębiorstwa i zakłady, wyjąwszy przedsiębiorstwo „Polska . Poczta, Telegraf i Telefon\", w których zatrudnienie zwalnia w myśl art. 5 p. 4 — 6 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 listopada 1927 r. o ubezpieczeniu pracowników umysłowych (Dz. U. R. P. Nr. 106, poz. 911) od obowiązku ubezpieczenia w Zakładzie Ubezpieczeń Pracowników Umysłowych — jako „instytucje ubezpieczające', ustawę z dnia 11 grudnia 1923 r. o zaopatrzeniu emerytalnem funkcjonarjuszów państwowych i zawodowych wojskowych (Dz. U. R. P. z 1931 r. Nr. 42, poz. 380) z późniejszemi zmianami i uzupełnieniami, — jako „ustawa emerytalna\", rozporządzenie Prezydenta Rzeczypospolitej z dnia 24 listopada 1927 r. o ubezpoc pracowników umysłowych (Dz. U. R. P. r. 106, poz. 911) z późniejszemi zmianami i uzupełnieniami — jako „rozporządzenie o ubezpieczeniu pracowników umysłowych”, a statut Państwowego Zakładu Emerytalnego, ustalony rozporządzeniem Rady Ministrów z dnia 6 marca 1934 r. (Dz. U. R.P. Nr, 31, poz. 276) — jako „statut Zakładu”,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "(1) Zakład prowadzi rachunkowość i spo* rządzą preliminarze budżetowe, sprawozdania roczne oraz zamknięcia rachunkowe według zasad, ustalanych przez Ministra Skarbu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Sprawozdanie roczne wraz z protokółem Komisji Rewizyjnej i zamknięcia rachunkowe oraz bilanse ubezpieczeniowo-techniczne Zakład przesyła Ministrowi Skarbu w terminach przez niego określonych."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wpływy Zakładu składają się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "ze składek emerytalnych (§ 5, 6 i 10 ust. (1) i (2)).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "z dochodu z majątku i urządzeń Zakładu oraz odsetek od ulokowanych kapitałów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "z wpłat i subwencyj Skarbu Państwa (§ 8, 9 ust. (2) i § 16), .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "ze składek, przekazywanych przez instytucje ubezpieczające (§ 31 — 36),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "z darowizn, zapisów i subsydjów, § 4. Fundusze Zakładu mogą być używane jedynie na cele przewidziane w ustawie emerytalnej oraz w innych przepisach o zaopatrzeniu emerytalnem uczestników Zakładu, w statucie Zakładu i w rozporządzeniu niniejszem, tudzież na pokrycie kosztów administracyjnych Zakładu,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IL",
+   "text": "Składki emerytalne,"
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "(i) Skarb Państwa uiszcza składki emerytalne za funkcjonarjuszów państwowych oraz za- Tay wojskowych, będących uczestnikami Za\" adu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Składki emerytalne oblicza się procentowo od uposażeń służbowych, zaliczalnych do podstawy wymiaru emerytury, § 6. Wysokość składki emerytalnej ulegać będzie co najmniej w odstępach co 5 lat sprawdzeniu ubezpieczeniowo-technicznemu, które ma wykazać, czy składka obowiązująca, jako składka stała, wy* starczy w przyszłości na pokrycie wszystkich odpowiednich świadczeń, oraz jak wysoka ma być ta składka. Na podstawie tego sprawdzenia Rada Ministrów w drodze rozporządzenia na wniosek Ministra Skarbu ustala wysokość składki emerytalnej na najbliższe 5 lat,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Ze wszystkich wpływów, z wyjątkiem wpłat przeznaczonych na Fundusz B (§ 8 i 16 ust. (7) p. 2), Zakład tworzy fundusz rezerwowy, nazwany Funduszem A, który służy na pokrycie kosztów administracyjnych oraz świadczeń, wynikających:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "z nabycia praw emerytalnych przez uczestnika Zakładu, którego zdolność do pracy zarobkowej wskutek ułomności cielesnej lub umysłowej, albo też wskutek upadku sił fizycznych trwale spadła poniżej 50%,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "z nabycia praw emerytalnych przez uczestnika Zakładu, który odpowiada warunkom, wymienionym w art. 9 ust. (2) p. 2 ustawy emerytalnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "z nabycia praw emerytalnych przez uczestnika Zakładu, który osiągnął wiek i wysługę emerytalną, uprawniające do przejścia na emeryturę na własną prośbę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "w przypadku śmierci uczestnika lub emerytowanego uczestnika Zakładu,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "(1) W razie przejścia uczestnika Zakładu w stan spoczynku z innych przyczyn, aniżeli wymienione w § 7 p. 1 — 3, Skarb Państwa przekaże Zakładowi sumę, równą wartości kapitałowej całej emerytury i związanych z nią ekspektatyw, obliczoną z uwzględnieniem ryzyka indywidualnego i z mniej-- szoną o rezerwę techniczną, utworzoną dla '-danego uczestnika Zakładu w Funduszu A.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Z wpłat, wymienionych w ust. (1), Zakład tworzy oddzielny fundusz rezerwowy, nazwany Funduszem B, przeznaczony wyłącznie na pokrycie świadczeń, na które zostały dokonane odpowiednie wpłaty przez Skarb Państwa. Fundusz ten powinien"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "posiadać pełne kapitałowe pokrycie płynnych zobowiązań i związanych z niemi ekspektatyw."
+    },
+    {
+     "type": "text",
+     "text": "(3) Fundusz A przekaże rezerwę techniczną uczestnika Zakładu w przypadkach, oznaczonych w ust, (1), Funduszowi B, który dokonywać będzie wypłaty wszelkich świadczeń aż do wygaśnięcia uprawnień, nabytych przez interesowanych uczestników Zakładu, bądź przez osoby po nich pozostałe,"
+    },
+    {
+     "type": "text",
+     "text": "§ 9, (1) Zasoby, zebrane na rachunku Funduszu A, nie będą mogły być używane na pokrycie świadczeń, wypłacanych przez Fundusz B, lub na pokrycie niedoborów tego Funduszu i wzajemnie,"
+    },
+    {
+     "type": "text",
+     "text": "(2) Niedobory techniczno-ubezpieczeniowe poszczególnych funduszów pokrywa Skarb Państwa w granicach ustawowej gwarancji na zasadach następujących:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "niedobór Funduszu A — przez odpowiednie podwyższenie składki emerytalnej lub przez jednorazową albo też wielokrotną subwencję,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "niedobór Funduszu B — wyłącznie przez jednorazową subwencję lub wielorazowe wpłaty do - wysokości powstałego niedoboru,",
+     "children": [
+      {
+       "type": "text",
+       "text": ". § 10. (1) Składki emerytalne (§ 5 i 6) należą się Zakładowi za każdy miesiąc kalendarzowy, za który uczestnik Zakładu otrzymał uposażenie służbowe."
+      },
+      {
+       "type": "text",
+       "text": "(2) Jeżeli przepisy ustawy emerytalnej przewidują korzystniejsze liczenie jakichkolwiek okresów służby cywilnej lub wojskowej do wysługi emerytalnej, aniżeli w stosunku jednego miesiąca za każdy miesiąc kalendarzowy, wówczas opłata emerytalna, uiszczana przez Skarb Państwa do Zakładu za uczestników Zakładu, pozostających na takiej korzystnej zaliczalnej służbie, ulega podwyższeniu w takim stosunku, w jakim pozostaje korzystniejsze zaliczenie pełnionej służby do liczenia kalendarzowego."
+      },
+      {
+       "type": "text",
+       "text": "(3) Składki emerytalne powinny być przekazane Zakładowi w ciągu miesiąca, licząc od dnia, w którym zostało wypłacone uposażenie służbowe."
+      },
+      {
+       "type": "text",
+       "text": "(4) Składki emerytalne przekazuje Skarb Państwa Zakładowi na zasadzie obliczenia stanu osobowego uczestników Zakładu z uwzględnieniem wysokości ich uposażenia służbowego, zaliczalnego do podstawy wymiaru emerytury. ."
+      },
+      {
+       "type": "text",
+       "text": "(5) Od zaległych składek emerytalnych, niewpłaconych w terminie przepisanym, Skarb Państwa uiszcza odsetki według stopy technicznej,"
+      },
+      {
+       "type": "text",
+       "text": "(6) Składki emerytalne, nienależnie pobrane, zwraca Zakład Skarbowi Państwa z oprocentowaniem według stopy technicznej,"
+      },
+      {
+       "type": "text",
+       "text": "(7) Stopą techniczną jest stopa procentowa, przyjęta przy obliczaniu wysokości składki emerytalnej (§ 6). § 11. Należne Zakładowi od Skarbu Państwa składki emerytalne nie podlegają przedawnieniu."
+      },
+      {
+       "type": "text",
+       "text": "Rozdział III,"
+      },
+      {
+       "type": "text",
+       "text": "Szczegółowe przepisy finansowe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "(1) W miarę potrzeby Zakład może tworzyć fundusze specjalne, Sposób tworzenia i użył-",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr. 31."
+    },
+    {
+     "type": "text",
+     "text": "kowania tych funduszów ustala Rada Zakładu, przyczem odpowiednia uchwała wymaga zatwierdzenia władzy nadzorczej,"
+    },
+    {
+     "type": "text",
+     "text": "(2) Fundusze specjalne mogą być używane tylko na cele, którym mają służyć."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Rok obrachunkowy rozpoczyna się dnia 1 kwietnia, a kończy się dnia’ 31 marca następnego roku kalendarzowego. ,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "(1) Zakład opracowuje bilanse ubezpieczeniowo-techniczne co najmniej raz na 5 lat oddzielnie dla każdego z Funduszów A i B,",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Ogólne metody opracowywania tych bilansów oraz metody przeprowadzania badań ubezpieczeniowo-technicznych (§ 6) ustala Rada Zakładu, której uchwała wymaga zatwierdzenia Ministra Skarbu,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "(1) Fundusze rezerwowe Zakładu, przeznaczone na pokrycie zobowiązań z tytułu świadczeń (§ 7 i 8), powinny być lokowane za zabezpieczeniem w myśl postanowień rozporządzenia Prezydenta Rzeczypospolitej z dnia 15 lutego 1928 r. o sposobie lokowania funduszów przez osoby prą-. wa publicznego, fundacje i osoby niewłasnowolne, oraz o sposobie lokowania kaucyj, składanych z tytułu obowiązku publicznego (Dz. U. R. P. Nr. 17, poz. 141) z późniejszemi zmianami i uzupełnieniami.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Przynajmniej 50 (pięćdziesiąt) procent funduszów rezerwowych na pokrycie zobowiązań z tytułu świadczeń z Funduszu A, a 15 (piętnaście) procent z Funduszu B lokuje się w państwowych lub przez Państwo gwarantowanych papierach procentowych."
+    },
+    {
+     "type": "text",
+     "text": "(3) Dochód z lokat środków finansowych Zakładu nie może być niższy, aniżeli stopa techniczna (§ 10 ust, (7))."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "Rozrachunek ze Skarbem Państwa i zaliczalność do wysługi emerytalnej okresów, za które Zakładowi nie uiszczono składek emerytalnych ani ubezpieczeniowych,"
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "(1) Za okresy, zaliczalne do emerytury funkcjonarjuszom państwowym i zawodowym wojskowym, a poprzedzające ich uczestnictwo w Zakładzie, Skarb Państwa wpłaca sumę, stanowiącą równowartość rezerwy technicznej, odpowiadającej zaliczalnym okresom. Suma ta jest obliczana przy założeniu, że poszczególne okresy kolejno łączą się z sobą i bezpośrednio poprzedzają uczestnictwo w Zakładzie, oraz z uwzględnieniem wieku i zaliczalnego do podstawy wymiaru emerytury uposażenia w czasie powstania obowiązku uczestnictwa w Zakładzie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Jeżeli pewien okres, poprzedzający uczestnictwo w Zakładzie, za który Zakład nie otrzymuje składek emerytalnych ani ubezpieczeniowych, jest zaliczalny do emerytury w pewnym stosunku do okresu uczestnictwa w Zakładzie, Skarb Państwa wpłaca corocznie oprócz składek emerytalnych sumę, stanowiącą równowartość przyrostu rezerwy technicznej, odpowiadającego okresowi corocznie"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "dodatkowo zaliczalnemu do wysługi emerytalnej. Przyrost rezerwy oblicza się w tym przypadku z zastosowaniem zasad, zawartych w ust. (1)."
+    },
+    {
+     "type": "text",
+     "text": "(3) Jeżeli funkcjonarjuszom państwowym i zawodowym wojskowym zostały doliczone do emerytury pewne okresy, których zaliczalność wyłącznie lub między innemi warunkami uzależniona jęst od uznania władzy, rezerwę techniczną oblicza się z uwzględnieniem wieku i zaliczalnego do podstawy wymiaru emerytury uposażenia w czasie uskutecznienia doliczenia. |."
+    },
+    {
+     "type": "text",
+     "text": "(4) O ile w przypadku, przewidzianym w ust. (3), uczestnik Zakładu na skutek doliczenia wskazanych okresów nabył prawo do. emerytury, którejby bez tego doliczenia nie uzyskał, Skarb Pań- \"stwa przekaże Zakładowi sumę, oznączoną w § 8 ust, (1), jeżeli zaś doliczenie w tych warunkach następuje po śmierci uczestnika, Skarb Państwa przekaże Zakładowi sumę równą wartości kapitałowej ewentualnych pensyj (wdowiej i sierocych)."
+    },
+    {
+     "type": "text",
+     "text": "(5) Jeżeli w przypadkach, przewidzianych w ust, (1) — (3), uczestnik Zakładu uiścił do Zakładu opłaty emerytalne celem uzyskania doliczenia pewnych okresów, zaliczalnych do emerytury pod warunkiem uiszczenia składek, Skarb Państwa zmniejsza odpowiednio przekazywane sumy, -"
+    },
+    {
+     "type": "text",
+     "text": "(6) Sumy, przewidziane w ust, (1), płatne są w ciągu miesiąca od powstania obowiązku uczestnictwa w Zakładzie, sumy, przewidziane w ust. (2), — w ciągu miesiąca od ukończenia danego roku uczestnictwa w Zakładzie, a sumy, wymienione w ust. (3), — w ciągu miesiąca od uskutecznienia doliczenia danego okresu do emerytury. Do sum zaległych ma zastosowanie § 10 ust. (5)."
+    },
+    {
+     "type": "text",
+     "text": "(7) Zarachowanie powyżej wyszczególnionych wp: ma być dokonywane na następujących zasaach;"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "wpłaty, oznaczone w ust. (1) — (3), zarachowy= wane będą na Fundusz A,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "wpłaty, oznaczone w ust. (4), zarachowywane będą na Fundusz B, który dokonywać będzie wy- «płat wszystkich świadczeń, wynikających z odpowiednich zaliczeń, aż do wygaśnięcia uprawnień. nabytych przez interesowanych uczestników Zakładu, bądź przez osoby po nich pozostałe,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_16/pkt_3",
+     "text": "w przypadkach, oznaczonych w ust, (4), Fundusz A przekaże Funduszowi B rezerwę techniczną uczestnika Zakładu, za którego - Skarb i dokonał wpłaty, przewidzianej w § 8 ust. (1).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Rezerwy techniczne, wartości kapitałowe emerytur i związanych z niemi ekspektatyw oraz wartości kapitałowe pensyj wdowich i sierocych określane będą według zasad obliczania, ustalanych przez Radę Zakładu, a zatwierdzanych przez Ministra Skarbu,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "(1) Wpłaty Skarbu Państwa mogą odbywać się na zasadach, ustalanych przez Ministra Skarbu, w drodze zarachowania i wzajemnego potrą* cenią należności Skarbu Państwa z tytułu wypłaty na rachunek Zakładu świadczeń emerytalnych z zachowaniem zasad § 15 ust. (3).",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Wpłaty Skarbu Państwa mogą być dokonywane przez odstąpienie Zakładowi części majątku państwowego z zastrzeżeniem zachowania odpowiednich 'dla takiego odstąpienia zasad: postępowania, ustanowionych w obowiązujących przepisach prawnych, oraz postanowień § 15."
+    },
+    {
+     "type": "text",
+     "text": "(3) W przypadku, wskazanym w ustępie poprzedzającym, przeniesienie na Zakład przejmowanych przezeń praw majątkowych wolne jest od wszelkich opłat i podatków. Przepisanie praw hipotecznych w przypadku odstąpienia majątku nieruchomego następuje na wspólny wniosek Prokuratorji Generalnej i Zakładu."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział V",
+   "text": "Przekazywanie składek między Zakładem a instytucjami ubezpieczajacemi."
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Zakład przekazuje niezwłocznie instytucji ubezpieczającej składki na rzecz uczestnika, który po rozwiązaniu stosunku służbowego, uzasadniającego uczestnictwo w Zakładzie, wstąpił do zatrudnienia, uzasadniającego obowiązek ubezpieczenia w tej instytucji ubezpieczającej,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Na przekazanie składek przez Zakład nie ma wpływu skazanie uczestnika Zakładu w czasie trwania lub po rozwiązaniu stosunku służbowe- $o, uzasadniającego uczestnictwo w Zakładzie, przez sąd karny lub dyscyplinarnie na karę, pociągającą utratę lub ograniczenie prawa do emerytury albo odprawy,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Zakład nie przekazuje składek na rzecz uczestników, którzy przy rozwiązaniu stosunku służbowego, uzasadniającego uczestnictwo w Zakładzie, nabyli prawo do emerytury, choćby to prawo następnie stracili wskutek jego zgaśnięcia lub zrzeczenia się. i",
+   "children": [
+    {
+     "type": "text",
+     "text": "składki na wniosek . § 22. Zakład przekazuje instytucji ubezpieczającej."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "(1) Za czas uczestnictwa w Zakładzie Zakład przekazuje instytucjom ubezpieczającym tytułem składek 8 (osiem) procent płacy podstawowej; właściwej dla każdoczesnego miesięcznego uposażenia, przyczem sumy, w ten sposób obliczone, zmniejsza się o 1 (jeden) procent. Płacę podstawową oblicza się według przepisów rozporządzenia o ubezpieczeniu pracowników umysłowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Za zaliczalne do emerytury okresy po 31 grudnia 1927 r., poprzedzające uczestnictwo w Zakładzie, Zakład przekazuje tytułem składek 8 (osiem) procent płacy podstawowej, właściwej dla każdoczesnego miesięcznego uposażenia z tem zastrzeżeniem, że jeżeli chodzi o okresy, za które Zakład otrzymał ze Skarbu Państwa rezerwę techniczną, ośmioprocentową składkę oblicza się od uposażenia, otrzymanego przez uczestnika Zakładu przy powstaniu obowiązku uczestnictwa w Zakładzie."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Zakład nie przekazuje składek za okresy służby, nie zaliczalne do wysługi emerytalnej w myśl art, 38 lit, b, c id oraz art, 51 lit. a, b, cif ustawy emerytalnej,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Na przekazywanie składek i wysokość przekazywanych sum nie ma wpływu otrzymanie przez danego uczestnika odprawy. w a",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "(1) Wraz z sumami, wymienionemi w",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 23, Zakład przekazuje składane odsetki od nich, obliczone przy kapitalizacji rocznej według stopy technicznej Zakładu, obowiązującej w chwili przekazania."
+    },
+    {
+     "type": "text",
+     "text": "(2) Jeżeli chodzi o okresy, za które Zakład otrzymał ze Skarbu Państwa rezerwę techniczną, procent składany oblicza się przy założeniu, że poszczególne okresy, za które została wpłacona rezerwa techniczna, kolejno łączą się ze sobą i bezpośrednio poprzedzają uczestnictwo w Zakładzie."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Przekazanie składek zostaje wstrzymane, jeżeli w sprawie przyznania zaopatrzenia emerytalnego uczestnikowi Zakładu lub jego rodzinie toczy się postępowanie administracyjne lub sądowoadministracyjne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "(1) W przypadku, gdy po przekazaniu składek przez Zakład zostanie wszczęte lub wznowione postępowanie emerytalne i w jego wyniku uczestnikowi Zakładu lub pozostałej po nim rodzinie zostanie przyznane zaopatrzenie emerytalne, instytucja ubezpieczająca zwraca sumy, otrzymane poprzednio z Zakładu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) O ile jednak w przypadku, przewidzianym w ust, (1), uczestnik Zakładu (wdowa, sierota po"
+    },
+    {
+     "type": "lit",
+     "num": "nim",
+     "path": "par_28/lit_nim",
+     "text": "korzystał już ze świadczeń emerytalnych w jednej z instytucyj ubezpieczających, Zakład potrąci mu z uposażenia emerytalnego (pensji wdowiej, sierocej) i przekaże tej instytucji sumy, które ona na skutek przekazania poprzednio składek przez Zakład wypłaciła tytułem świadczeń emerytalnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "(1) Instytucja ubezpieczająca zalicza w całości do wysługi emerytalnej (miesięcy składkowych) czas, za który Zakład powinien przekazać jej sumy, wymienione w § 23; czas ten zalicza się do wysługi, uzasadniającej prawo do świadczeń emerytalnych lub do miesięcy składkowych, uzasadniających w razie przerwy w zatrudnieniu zaliczanie miesięcy składkowych, przebytych przed przerwą.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Czas, za który Zakład powinien przekazać składki, zalicza się do wysługi emerytalnej (miesięcy składkowych) danego pracownika niezależnie od terminu, w którym stwierdzono istnienie obowiązku *. przekazania składek lub rzeczywiście je przekazano."
+    },
+    {
+     "type": "text",
+     "text": "(3) Czas, za który Zakład przekazał składki, nie może być uważany za przerwę w zatrudnieniu, któraby w myśl przepisów danej instytucji ubezpieczającej pozbawiała pracownika prawa do świadczeń emerytalnych lub ograniczała ich wysokość."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "(1) Instytucja ubezpieczająca przekazuje otrzymane z Zakładu sumy innej instytucji ubezpieczającej, jeżeli pracownik przeszedł do zatrudnienia, uzasadniającego obowiązek ubezpieczenia w tej innej instytucji. Przekazane zostają sumy, otrzymane od Zakładu zarówno wprost, jak i za pośrednictwem innych instytucyj ubezpieczających,",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) W przypadkach, gdy instytucja ubezpieczająca otrzymuje od innej instytucji ubezpieczającej składki, przekazane poprzednio przez Zakład, stosuje się postanowienia § 29,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Instytucje ubezpieczające przekazują niezwłocznie Zakładowi składki na rzecz uczestni-",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr. 31."
+    },
+    {
+     "type": "text",
+     "text": "ków Zakładu, którzy przed uczestnictwem w Zakładzie pozostawali w zatrudnieniu, uzasadniającem obowiązek ubezpieczenia lub opłacania składek emerytalnych, bądź też dobrowolnie opłacali składki w tych instytucjach ubezpieczających."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Na przekazanie składek przez instytucje ubezpieczające nie ma wpływu skazanie pracownika w czasie trwania lub po rozwiązaniu stosunku służbowego z daną instytucją przez sąd karny lub dyscyplinarnie na karę, pociągającą w myśl przepisów tej instytucji utratę lub ograniczenie prawa do świadczeń emerytalnych lub jednorazowych (odprawy it. d.).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "(1) Instytucje ubezpieczające nie przekazują składek i wymienionych w § 35 sum na rzecz pracowników, którzy nabyli prawo do świadczeń emerytalnych danej instytucji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Instytucje ubezpieczające przekazują jednak składki i wymienione w § 35 sumy, jeżeli pracownik zrzeknie się świadczeń emerytalnych z danej instytucji i zwróci jej otrzymane świadczenia pod warunkiem, że takie zrzeczenie się jest dopuszczalne na mocy. obowiązujących tę instytucję przepisów,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "(1) Zakład Ubezpieczeń Pracowników Umysłowych przekazuje składki za okresy zaliczalne do ubezpieczenia po dniu 31 grudnia 1927 r. w wysokości, obliczonej według zasad, zawartych w rozporządzeniu o ubezpieczeniu pracowników umy- Rych a odnoszących się do przekazywania skłaek. .",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Pozostałe instytucje ubezpieczające przekazują sumy, wynoszące 8 (osiem) procent każdoczesnego wynagrodzenia miesięcznego pracownika."
+    },
+    {
+     "type": "text",
+     "text": "(3) Instytucje ubezpieczające, o których mowa w ustępie poprzedzającym, przekazują składki za cały czas pracy umysłowej, opłaconej składkami emerytalnemi, bez względu na przerwy w służbie lub pracy; nie przekazują natomiast składek za czas, za który składki zostały już poprzednio przekazane Zakładowi, Skarbowi Państwa lub innej instytucji ubezpieczającej."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "Instytucje ubezpieczające przekazują również zmniejszone o 5 (pięć) procent sumy, otrzymane poprzednio na rzecz danego pracownika od Zakładu, Skarbu Państwa lub innych instytucyj ubezpieczających.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "Wraz ze składkami i sumami, o których mowa w § 34135, instytucje ubezpieczające przekazują składane odsetki od nich, obliczone przy kapitali- © zacji rocznej według stopy technicznej Zakładu, obowiązującej w czasie przekazania, J ednak Zakład Ubezpieczeń Pracowników Umysłowych stosuje własną stopę techniczną.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "Na przekazywanie składek i na wysokość przekazywanych sum nie ma wpływu otrzymanie przez pracownika od danej instytucji ubezpieczającej w związku ze zwolnieniem z zatrudnienia jednorazowego świadczenia (odprawy).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "Przekazanie składek zostaje wstrzymane, jeżeli w sprawie przyznania danemu pracownikowi świadczenia emerytalnego przez instytucję ubez-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "pieczającą toczy się postępowanie sądowe, administracyjne lub sądowo - administracyjne."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "Czas, za który Zakładowi powinny być przekazane składki, zalicza się do wysługi emerytalnej niezależnie od terminu, w którym stwierdzono istnienie obowiązku przekazania składek lub rzeczywiście je przekazano. § 40. Pracownicy, którym instytucje ubezpieczające odmawiają przekazania składek z powodu nieopłacenia za pewien okres składek emerytalnych (ubezpieczeniowych), mogą bądź opłacić te składki danej instytucji ubezpieczającej, bądź też wpłacić Zakładowi sumę, którą przekazałaby dana instytucja, gdyby składki były opłacone we właściwym czasie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "Dla ustalenia, czy zachodzi obowiązek zaliczenia do wysługi emerytalnej pewnych okresów służby lub pracy, Zakład może żądać od właściwej instytucji ubezpieczającej stwierdzenia jeszcze przed przekazaniem składek, czy i za jakie okresy składki takie będą na rzecz danego uczestnika Zakładu przekazane. Podobne żądanie może zgłosić w stosunku do Zakładu instytucja ubezpieczająca, uprawniona do otrzymania składek.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "(1) Pracownik, na którego rzecz powinny być przekazane składki, może żądać tego od Zakładu lub instytucji ubezpieczającej, obowiązanej w Sa niniejszego rozporządzenia do przekazania skłaek.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Prawo to nie przedawnia się. ,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "(1) Zakład lub instytucja ubezpieczająca, do której pracownik zwrócił się z żądaniem przekazania składek, powinny w ciągu 3 miesięcy przekazać składki lub wydać orzeczenie, stwierdzające, czy i za jakie okresy składki będą przekazane.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Orzeczenie to pracownik może skarżyć w terminie i trybie postępowania, przewidzianych dla dochodzenia praw do świadczeń emerytalnych, wypłacanych przez Zakład czy instytucje ubezpieczające. ,"
+    },
+    {
+     "type": "text",
+     "text": "(3) Niewydanie orzeczenia w ciągu 3 miesięcy jest równoznaczne z wydaniem orzeczenia, odmawiającego przekazania składek,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "Pracownik nie może się zrzec przekazania składek ze szkodą Zakładu lub instytucji ubezpieczającej, którym w myśl rozporządzenia niniejsze- $o powinny być przekazane składki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "W razie sporu między Zakładem a instytucją ubezpieczającą w sprawie przekazywania składek (§ 19 — 44) rozstrzyga Zakład; od orzeczenia Zakładu służy prawo odwołania do Ministra Skarbu w terminie dni trzydziestu od dnia doręczenia orzeczenia. Minister Skarbu rozstrzyga ostatecznie w administracyjnym toku instancyj.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VL",
+   "text": "Przepisy przejściowe i końcowe,"
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "Do czasu dokonania pierwszego sprawdzenia ubezpieczeniowo - technicznego, przewidzianego w § 6, które może nastąpić przed upływem pierwszych lat pięciu, ustala się wysokość opłaty emerytalnej na 8 (osiem) procent uposażenia uczestników Zakładu, zaliczalnego do podstawy wymiaru emerytury, a stopę techniczną na 4% (cztery i pół) procent w stosunku rocznym.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 47, Wydatki, połączone z uruchomieniem Zakładu i jego organizacją, ponosi Skarb Państwa."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "Wykonanie rozporządzenia niniejszego porucza się Ministrowi Skarbu,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia. 1 lutego 1934 r. Prezes Rady Ministrów: J. Jędrzejewicz Minister Skarbu: Wł. Zawadzki",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

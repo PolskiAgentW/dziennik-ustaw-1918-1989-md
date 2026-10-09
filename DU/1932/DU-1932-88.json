@@ -1,0 +1,546 @@
+{
+ "eli": "DU/1932/88",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 3 lutego 1932 r. wydane w porozumieniu z Ministrami: Spraw Wewnętrznych, Robót Publicznych oraz Przemysłu i Handlu w sprawie wykonania ustawy o państwowym podatku od energji elektrycznej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1932/88/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 lutego 1932 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrami: Spraw Wewnętrznych, Robót Publicznych oraz Przemysłu i Handlu w sprawie wykonania ustawy o państwowym podatku od energji elektrycznej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 1 ustęp 2 i art. 11 ustawy z dnia 17 grudnia 1931 r. o państwowym podatku od energji elektrycznej (Dz. U. R. P. Nr. 112, poz. 880) zarządza się co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "do art. 1,"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "Podatkowi podlega enerśja elektryczna:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "pobierana dla celów oświetleniowych z wyjątkiem wypadków, wskazanych w § 2, oraz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "pobierana dla innych celów, aniżeli oświetleniowe, gdy energja, na te inne cele zużywana, jest mierzona wspólnie z energją dla światła.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "Nie uważa się za energię elektryczną pobieraną dla celów oświetleniowych energji, pobieranej przez przyrządy, mogące wprawdzie dawać światło, lecz służące do innych celów, jak lekarskich, sygnalizacyjnych, kontrolnych, doświadczalnych i t. d., jak",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "również energji pobieranej przez aparaty projekcyjne, kinematograficzne i t. p."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "Nie podlega podatkowi energja elek-",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "tryczna:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "pobierana dla innych celów, aniżeli oświetleniowe, o ile jest mierzona odrębnie (na podstawie oddzielnego licznika, podlicznika) od energji dla światła, oraz",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "pobierana nawet dla celów oświetleniowych, o ile jest wspólnie mierzona z energją dla innych celów, a więc przedewszystkiem z energją dla siły, pod warunkiem, iż energja dla światła stanowi tylko nieznaczną część pobieranej na tym liczniku głównej ilości energii.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Za nieznaczną część uznaje się taką ilość, kiedy moc przyłączonych odbiorników dla światła nie przekracza 15% zainstalowanej mocy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "Podatkowi podlega energja elektryczna pobierana na niskiem napięciu odpłatnie przez poszczególnych odbiorców.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "Za niskie napięcie uznaje się napięcia nieprzekraczające następujących wartości napięć nominalnych, podanych w rozporządzeniu Ministra Robót Publicznych z dnia 26 maja 1930 r. o napięciach normalnych i o częstotliwości normalnej prądu elektrycznego (Dz. U. R. P. Nr. 45, poz. 384), a mianowicie: przy prądzie stałym 1 x 220 woltów i 2 x 220 woltów, przy prądzie jednofazowym 1 x 220 woltów oraz przy prądzie trójfazowym 220 woltów napięcia fazowego lub 380 woltów napięcia skojarzonego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "Energja elektryczna podlega podatkowi tylko wówczas, o ile jest pobierana przez odbiorców odpłatnie. W razie braku warunku odpłatności energja ta wolna jest od podatku. Nie podlega np. podatkowi energja elektryczna, dostarczana pracownikom własnym z tytułu pracy, o ile za te świadczenia nie jest pobierana oddzielna zapłata, albo energja dostarczana z tytułu najmu lokalu, o ile za nią nie jest pobierana oddzielna opłata i gdy energja ta jest wytwarzana we własnych domowych lub blokowych elektrowniach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "Uchwały stanowiących organów samorządowych o wprowadzeniu na rzecz gmin miejskich dodatku komunalnego do państwowego podatku od energji elektrycznej powinny być podawane do wiadomości właściwym władzom skarbowym oraz sprzedawcom energji elektrycznej przed początkiem każdego roku. W razie niezachowania tego terminu, w wypadku pobierania tego dodatku w roku poprzednim, mają zastosowanie postanowienia art, 45 ustawy z dnia 11 sierpnia 1923 r. o tymczasowem uregulowaniu finansów komunalnych (Dz. U. R. P. Nr. 94, poz. 747).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "W roku 1932 dodatek komunalny do państwowego podatku od energji elektrycznej pobierany będzie, poczynając od miesiąca, następującego po tym miesiącu, w którym powiadomiono właściwe władze skarbowe, oraz sprzedawców energji elektrycznej o uchwale poboru tego dodatku.",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "do art, 2, |."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Zużycie energji elektrycznej przez fundusz kwaterunku wojskowego oraz przez wymienione w ustępie 1) art. 2 ustawy władze, urzędy, instytucje, zakłady oraz przedsiębiorstwa, wolne jest od podatku tylko w tej części, w jakiej energia elektryczna została zużyta przez nie na cele (potrzeby) własne, w pozostałej zaś części energja ta podlega podat+ kowi. Energja elektryczna pobierana np. przez fundusz kwaterunku wojskowego (ustawa z dnia 15 lipca 1925 r. o zakwaterowaniu wojska w czasie pokoju (Dz. U. R. P. Nr. 97, poz. 681) wraz z późniejszemi zmianami i uzupełnieniami) zwolniona jest od podatku wyłącznie w tej części, jaka zużyta została przez ten fundusz bezpośrednio na jego potrzeby (np. oświetlenie biur funduszu, oświetlenie klatek schodowych budynków, stanowiących własność tego funduszu i t. p.); natomiast podlega podatkowi energia elektryczna, zużyta przez osoby zamieszkujące w domach, stanowiących własność tego funduszu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "Do przedsiębiorstw państwowych niewydzielonych zalicza się wszystkie przedsiębiorstwa państwowe z wyjątkiem: -",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_1/lit_a",
+       "text": "przedsiębiorstw wyodrębnionych na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 marca 1927 r. o wydzielaniu z administracji państwowej przedsiębiorstw państwowych, przemysłowych, handłowych i górniczych oraz o ich komercjalizacji (Dz. U. R. P. Nr 25. poz 195) oraz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/pkt_1/lit_b",
+       "text": "przedsiębiorstw, których odrębna osobowość prawna została wyrażnie stwierdzona szczególnym przepisem prawnym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "Do instytucyj państwowych zalicza się banki państwowe: Bank Gospodarstwa Krajowego, Państwowy Bank Rolny oraz Pocztową Kasę Oszczędności, do instytucyj zaś samorządu terytorjalnego komunalne kasy oszczędności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Do przedsiębiorstw samorządowych, nie posiadających charakteru przemysłowego względnie handlowego, zalicza się: wodociągi i kanalizacje, laboratorja do badania produktów, zakłady dezyniekcyjne, łaźnie, kąpieliska oraz rzeźnie wraz z przedsiębiorstwami z niemi polaczonesni (chłodnie, fabry= ' ki lodu i t. d.).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "O ile na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. w sprawie ulg dla przedsiębiorstw przemysłowych i komunikacyjnych (Dz. U. R. P. Nr. 36, poz. 329) przyznane zostały ulgi nie całemu przedsiębiorstwu, lecz pewnej jego części, to ze zwolnienia od podatku korzysta tylko energja elektryczna zużywana przez tę część tego przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "Decyzje ustalające, iż przedsiębiorstwu, względnie pewnej jego części służy prawo do ulg, ogłaszane są zgodnie z art. 9 wymienionego rozporządzenia w Monitorze Polskim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Podlega podatkowi zużycie energji elektrycznej przez instytucje i zakłady naukowe, oświatowe, kulturalne, wyznaniowe, dobroczynne i t. p. z wyjątkiem tego rodzaju instytucyj i zakładów państwowych oraz samorządu terytorjalnego.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "do art. 3,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "Energja elektryczna kilkakrotnie odprzedawana podlega opodatkowaniu tylko raz jeden. Do opłacania podatku obowiązany jest ostatni odbiorca energji elektrycznej.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "Za odbiorcę uważa się osobę (abonenta energji elektrycznej) obowiązaną do płacenia, w odrębnej kwocie, należności za energję elektryczną, bądź bezpośrednio zakładowi elektrycznemu, bądź też innemu (niekoniecznie wytwórcy) sprzedawcy energji elektrycznej.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_10/pkt_3",
+     "text": "Sublokatorzy, mieszkańcy pokojów umeblowanych, hoteli i t. p. nie są uważani za odbiorców, o ile nie pobierają energji elektrycznej do oświetlenia bezpośrednio z zakładu elektrycznego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_10/pkt_4",
+     "text": "Natomiast osoby zamieszkujące np. w domach należących do funduszu kwaterunku wojskowego są uważane za odbiorców energji elektrycznej nawet w wypadku, gdy pobierają energję elektryczną dla oświetlenia i regulują należność za tę energję nie bezpośrednio z zakładem elektrycznym, lecz za pośrednictwem tegoż funduszu, jako nabywcy od zakładu elektrycznego ogólnej ilości energji, zużywanej zarówno na potrzeby własne funduszu jak i przez o szczególne osoby zamieszkujące w domach tegoż unduszu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_11/pkt_1",
+     "text": "Podstawę do obliczenia podatku stanowi należność (cena) za pobieraną energję. Należność ta może być obliczana przez sprzedawcę energji elektrycznej zarówno na podstawie przyrządów, służących do mierzenia energji elektrycznej (liczników), jak również może być ustalana w kwotach stałych (ryczałty), bądź w jakikolwiek inny sposób przy stosowaniu taryf kombinowanych (np. przy taryfach, opartych na mocy zainstalowanej w kilowatach i zużyciu energji mierzonej w kilowatogodzinach).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_11/pkt_2",
+     "text": "Celem ustalenia podstawy obliczenia podatku nie uwzględnia się należności z tytułu innych świadczeń przez dostarczającego energję, jak np. za dzierżawę liczników, ograniczników prądu lub innych przyrządów, za konserwację urządzeń elek* trycznych (instalacyj) lub ich wykonanie it. p. *' Również nie uwzględnia się żadnych innych opłat, pobieranych przy regulowaniu należności za energie elektryczną tytułem np. specjalnych świadczeń społecznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "Udzielane odbiorcy w ciągu lub po zakończeniu okresu obrachunkowego opusty lub dodatkowe zniżki od uiszczonych przezeń należności za energję elektryczną uwzględniane są przy obliczaniu podatku automatycznie, w ten sposób, że opusty te lub zniżki, jako potrącane przez sprzedawcę przy wystawianiu rachunku za następne okresy obrachunkowe, zmniejszają odpowiednio sumę tego rachunku.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "O ile odbiorca, któremu przyznano opust lub zniżkę od zapłaconych przezeń w pewnym okresie obrachunkowym należności za energję elektryczną, przestaje być abonentem prądu elektrycznego i o ile przyznana odbiorcy tytułem opustu lub zniżki kwota zostaje mu przez sprzedawcę energji elektrycznej zwrócona w gotówce — to w tym wypadku służy. odbiorcy prawo żądania zwrotu zapłaconego od tej",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 15."
+      },
+      {
+       "type": "text",
+       "text": "kwoty (jako od części należności za energję elektryczną) podatku."
+      },
+      {
+       "type": "text",
+       "text": "do art. 4,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "Za sprzedawcę energji elektrycznej należy z reguły uważać przedsiębiorcę rozdzielającego energję elektryczną.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "O ile jednak nabywca energji elektrycznej od przedsiębiorcy rozdzielającego energję odstępuje od siebie tę nabytą energję dalszym odbiorcom — to w tym wypadku za sprzedawcę energji elektrycznej (w odniesieniu do części enerśji odstąpionej odbiór-",
+     "children": [
+      {
+       "type": "lit",
+       "num": "com",
+       "path": "par_13/pkt_2/lit_com",
+       "text": "należy uważać tego nabywcę. Na nim zatem ciążą zarówno wszelkie obowiązki jak i służą mu uprawnienia przewidziane w ustawie dla sprzedawcy energji elektrycznej. Np. urząd państwowy, będąc bezpośrednim odbiorcą z zakładu elektrycznego energji elektrycznej dla wszystkich pomieszczeń (urzędowych i prywatnych) znajdujących się w administrowanym przez ten urząd budynku państwowym, obowiązany jest do obliczania i poboru podatku od należności, liczonych przez ten urząd za zużytą w mieszkaniach prywatnych energję elektryczną.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "Odszkodowanie sprzedawcy energji elektrycznej za koszta, związane z poborem podatku, określone w ustępie 3) art. 4 ustawy, uprawniony jest sprzedawca obliczyć i zatrzymać na swoją rzecz tylko od kwot podatku rzeczywiście przez nie-. go pobranych. Uprawnienie to służy również sprze-. dawcy w wypadku, określonym w § 13..",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "Przepis ustępu 3) art. 4 nie ma zastosowania do kwot podatku wymierzonych przez urząd: skarbowy zgodnie z § 6 rozporządzeńia Ministra Skarbu z dnia 16 stycznia 1932 r. (Dz. U. R. P. Nr. 9,: poz. 53). :",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_14/pkt_3",
+     "text": "Potrącone tytułem odszkodowania kwoty winien sprzedawca uwidaczniaé na blankiecie nadawczym P. K. O. lub w deklaracji składanej w myśl § 4 rozporządzenia Ministra Skarbu z dnia 16 stycznia 1932 r. (Dz. U. R. P. Nr. 9, poz. 58). .",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "do art. 5."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_15/pkt_1",
+     "text": "Przysługujące z mocy ustępów 1) i 2) art, 5 ustawy uprawnienia służą sprzedawcy również w wypadkach, określonych w § 13. _. ZANE 1",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_15/pkt_2",
+     "text": "Przy częściowem uiszczaniu przez odbiorcę należności za energję elektryczną (ustęp 3 art. 5 usta-",
+     "children": [
+      {
+       "type": "lit",
+       "num": "wy",
+       "path": "par_15/pkt_2/lit_wy",
+       "text": "należy uwzględniać obok samego podatku również proporcjonalnie i dodatek komunalny do tego podatku w wypadkach wprowadzenia tego dodatku na podstawie art. 1 ustęp 3) ustawy. ,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "do art. 6."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Pobrane w wypadku, przewidzianym w art. 6, należności z tytułu kar za zwłokę oraz kosztów egzekucyjnych, obciążają wyłącznie sprzedawce energji elektrycznej; należności te nie podlegają przerzuceniu na odbiorcę.",
+   "children": [
+    {
+     "type": "text",
+     "text": "do art. 7."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "Władze skarbowe mają prawo i obowiązek kontroli prawidłowości obliczania i poboru podatku przez sprzedawcę; w razie nieprowadzenia przez sprzedawcę energji elektrycznej prawidłowych ksiąg handlowych, umożliwiających w należyty sposób przeprowadzenie władzom skarbowym tej kontroli,.sprzedawca ten obowiązany jest do prowadzę-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nią takich ksiąg lub zapisków (nie wyłączając np. prowadzenia szczegółowego wykazu poszczególnych abonentów), któreby dawały możność sprawdzenia, czy i w jakim zakresie sprzedawca energji elektrycznej wykonywa ciążące na nim w myśl ustawy obowiązki."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "Przy przeprowadzaniu kontroli urzędy skarbowe obowiązane są również sprawdzać, czy zastosowane przez sprzedawcę zwolnienie od podatku zużycia energji elektrycznej z mocy art. 2 oraz art. 9 ustawy (w wypadku, gdy zasięg terytorjalny danego zakładu elektrycznego rozciąga się również i na obszar określony w tym artykule) znajduje uzasadnienie w przepisach ustawy.",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "do art. 8."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Pod odwołaniem z art. 8 ustęp 5) ustawy należy rozumieć żądanie skierowania sprawy karnej do sądu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Odpowiedzialność funkcjonarjuszów publicznych władz i urzędów nie zwaima władz i urzędów od obowiązku wpłacenia należnej sumy podatkowej do kasy urzędu skarbowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "do art. 9. :"
+    },
+    {
+     "type": "text",
+     "text": "“~~ - § 20. Wolna jest od podatku do końca 1941 r. energja elektryczna zużywaru na obszarze, określonym w art. 9 ustawy. -Wytworzona na tym obszarze energja elektryczna podlega jednak podatkowi, o ile jest zużywana poza tym obszarem.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "do art. 12. : 8 21. Wolna jest od podatku energja elektryczna, wytworzona. przez krajowe zakłady elektryczne, o ile jest zużywana przez odbiorców poza obszarem Rzeczypospolitej. *",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 22. Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Jan Piłsudski",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Bronisław Pieracki",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Minister Robót Publicznych: Norwid Neugebauer Minister Przemysłu i Handlu: Zarzycki",
+     "quoted": true
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

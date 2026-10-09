@@ -1,0 +1,500 @@
+{
+ "eli": "DU/1933/632",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. - Prawo o publicznych przedsięwzięciach rozrywkowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/632/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 października 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "Prawo o publicznych przedsięwzięciach rozrywkowych,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 44 ust. 6 Konstytucji 1 ustawy z dnia 25 marca 1933 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R.P. Nr. 29, poz. 249) postanawiam co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Przepisy ogdlne."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Przepisom prawa niniejszego podlegają publiczne: widowiska, produkcje słowne, muzyczne, odczyty, przedsięwzięcia sportowe, szkoły tańców salonowych, zabawy ludowe, tudzież inne przedsięwzięcia, służące celom rozrywkowym lub pokazowym, z wyjątkiem wystaw gospodarczych i wyświetlania filmów zapomocą kinematografu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 22 § 1. Urządzanie rozrywek podlegajacyoh prawu niniejszemu wymaga pozwolenia włazy."
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_1/par_2",
+     "text": "Pozwolenie ma charakter ściśle osobisty i nie może być przeniesione na osobę trzecią ani w drodze spadku, ani aktem zdziałanym między żyjącymi. 7 § 3. Minister Spraw Wewnętrznych władny jest w drodze rozporządzeń określać przedsięwzięcia rozrywkowe, co do których wystarczy zgłoszenie, oraz ustalać sposób i warunki takich zgłoszeń, a także uprawnienia władz w stosunku do zgłoszonych przedsięwzięć,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_3/par_1",
+     "text": "Udzielając pozwolenia, władza w miarę okoliczności może ustalić warunki, których niedopełnienie powoduje cofnięcie pozwolenia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_3/par_2",
+     "text": "Władza może uzależnić udzielenie pozwolenia od złożenia kaucji w gotówce, w papierach pupilarnych lub w formie śwarancji bankowej na zabezpieczenie ewentualnych roszczeń do przedsięwzięcia rozrywkowego ze strony jego pracowników lub publiczności,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_4/par_1",
+     "text": "Niezależnie od wymagań przepisów budowlanych i techniczno-sanitarnych dla teatrów i innych pomieszczeń, przeznaczonych do licznego gromadzenia się ludzi, jeżeli przedsięwzięcie rozrywkowe wymaga specjalnych urządzeń technicznych, których bezpieczeństwo może nasuwać obawy, wówczas uruchomienie go będzie poprzedzone zbadaniem przez odpowiednią władzę przy udziale potrzebnych fachowców. W razie wątpliwości kompetencyjnych władzę tę ustala władza udzielająca pozwolenia na przedsięwzięcie.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_4/par_2",
+     "text": "Przepisy co do wewnętrznego urządzenia pomieszczeń przedsięwzięć rozrywkowych i zacho- °",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 85."
+      },
+      {
+       "type": "text",
+       "text": "wania się w nich ze względu na wymagania bezpieczeństwa, higjeny i porządku wydaje Minister Spraw Wewnętrznych w porozumieniu z zainteresowanymi ministrami."
+      },
+      {
+       "type": "text",
+       "text": "Art. 55 Ze względu na właściwość władz i tryb postępowania oraz warunki organizowania przedsięwzięć prawo niniejsze rozróżnia przedsięwzięcia:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/par_2/lit_a",
+       "text": "z siedzibą stałą, b) wędrowne i c) dorywcze.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział II",
+   "text": "Przedsięwzięcia z siedzibą stałą."
+  },
+  {
+   "type": "text",
+   "text": "Art. 66 § 1. Pozwolenia na przedsięwzięcie rozrywkowe z siedzibą stałą, z wyjątkiem przedsięwzięć teatralnych, udziela wojewódzka władza administracji ogólnej miejsca siedziby przedsięwzięcia. § 2. Pozwolenia na przedsięwzięcie teatralne bez względu na jego siedzibę udziela Minister Spraw Wewnętrznych w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego."
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Pozwolenia te wydaje władza w zależności od oceny warunków miejscowych, charakteru przedsięwzięcia i kwaliłikacyj jego orśanizatorów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Kompelencje przewidziane w § 1 — Minister Spraw Wewnętrznych, a przewidziane w § 2 — Minister Spraw Wewnętrznych w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego władny jest normować odmiennie droga rozporządzeń.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Pozwolenia określone w art. 6 mogą być udzielane na okres do 15 lat w zależności od charakteru przedsięwzięcia, potrzeby odpowiednich inwestycyj i kosztów z tem związanych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział III",
+   "text": "Przedsięwzięcia wędrowne."
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_8/par_1",
+     "text": "Pozwoleń na przedsięwzięcia wędrowne, z wyjątkiem objazdowych przedsięwzięć teatralnych, udzielają władze administracji ogólnej właściwe dla obszaru, na którym przedsięwzięcie ma funkcjonować, a na obszar całego Państwa — Minister Spraw Wewnętrznych,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_8/par_2",
+     "text": "Pozwoleń na objazdowe przedsięwzięcia teatralne udziela Minister Spraw Wewnętrznych w porozumieniu z Ministrem Wyznań Religijnych i Oświecenia Publicznego. § 3. Przepis art. 6 § 4 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Po przybyciu przedsięwzięcia do miejscowości jego czasowego funkcjonowania, urządzający ma obowiązek zgłosić miejscowo właściwej powiatowej władzy administracji ogólnej o czasie, miejscu i rodzaju produkcyj. Władza ta, w zależności od oceny warunków miejscowych, może ograniczyć czas funkcjonowania przedsięwzięcia, a nawet zakazać jego funkcjonowania w danej miejscowości.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "\"Rozdział IV. f) ośmieszające arcydzieła literatury polskiej"
+    },
+    {
+     "type": "text",
+     "text": "Przedsięwzięcia dorywcze,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Pozwoleń na przedsięwzięcia dorywcze udzielają powiatowe władze administracji ogólnej miejsca przedsięwzięcia. Za dorywcze uważa się przedsięwzięcie zorganizowane wyłącznie celem urządzenia jednej lub paru rozrywek w jednej miejscowości.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział V",
+   "text": "Aprobata utworów i ich inscenizacji,"
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_11/par_1",
+     "text": "Na utwory z tekstem słownym, przeznaczone do publicznego wykonania, należy uprzednio uzyskać aprobatę miejscowo właściwej władzy administracji ogólnej, a jeżeli chodzi o obszar całego Państwa — Ministra Spraw Wewnętrznych. Władza powołana do aprobaty utworu z tekstem słownym może zażądać dołączenia tłumaczenia go na język państwowy, jeżeli utwór pisany jest w języku innym.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_11/par_2",
+     "text": "Rozporządzenia Ministra Spraw Wewnętrznych mogą ustalać ulgi w zakresie potrzeby uprzedniej aprobaty utworów i zmieniać kompetencje co do aprobaty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_12/par_1",
+     "text": "Władza może poddać ocenie również inscenizację i część mimiczną utworu, nie przewidzianą w aprobowanym jego tekście słownym. „W tym celu urządzający jest obowiązany co najmniej na 24 godziny przed ostateczną próbą produkcji zawiadomić o jej czasie i miejscu właściwą powiatową władzę administracji ogólnej,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_12/par_2",
+     "text": "W stosunku do przedsięwzięć wędrownych inscenizacja i część mimiczna mogą być aprobowane przez powiatową władzę administracji ogólnej miejsca organizacji przedsięwzięcia, co nie pozbawia władzy miejsca wykonania utworu prawa do żądania poczynienia możliwych zmian, którychby wymagały warunki miejscowe,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VL",
+   "text": "Produkcje zakazane."
+  },
+  {
+   "type": "text",
+   "text": "Art. 13, Zakazane są przedsięwzięcia rozrywkowe przeciwne prawu albo zagrażające bezpieczeństwu, spokojowi lub porządkowi publicznemu, a w szczególności produkcje: szkodliwe dla interesu państwowego Rze- — a czypospolitej, -b) obrażające uczucia narodowe,"
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "obrażające uczucia religijne kościołów i związków religijnych przez Państwo uznanych,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "d",
+   "path": "lit_d",
+   "text": "mogące przyczynić się do zdziczenia obyczajów lub demoralizacji, e lub gloryfikacje stanowiące propagandę",
+   "children": [
+    {
+     "type": "text",
+     "text": "— przestępstw, lub złośliwie je zniekształcające, $) złośliwie przedstawiające w ujemnem świetle polską rzeczywistość,"
+    }
+   ]
+  },
+  {
+   "type": "lit",
+   "num": "h",
+   "path": "lit_h",
+   "text": "wkraczające w dziedzinę hypnotyzmu i sugestji, o ile miałyby odbywać się przy udziale osób z pośród publiczności,",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VIL",
+   "text": "Przepisy porządkowe,"
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_14/par_1",
+     "text": "Programy przedstawień (produk-",
+     "children": [
+      {
+       "type": "lit",
+       "num": "cyj",
+       "path": "art_14/par_1/lit_cyj",
+       "text": "ze wskazaniem miejsca, czasu, przeznaczonych do wykonania utworów i biorącego w nich udział personelu powinny być dostarczane powiatowej władzy administracji ogólnej miejsca przedstawień w miarę ustalania tych programów, a w każdym razie najpóźniej na 24 dadziny przed przedstawieniem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_14/par_2",
+     "text": "Programy te powinny być przed rozpoczęciem sprzedaży biletów podane do publicznej wiadomości drogą wywieszenia ich przy wejściu do pomieszczenia, gdzie przedstawienie ma się odbywać i w miejscach przeznaczonych do sprzedaży biletów. Przedruk programów nie podlega żadnym ograniczeniom.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 3, W razie konieczności zmiany programu należy o tem niezwłocznie podać do wiadomości władz i obwieścić sposobem wskazanym w paragrafie poprzednim, Osoby, które nabyły bilety przed obwieszczeniem zmiany, uprawnione są do zwrotu biletów i otrzymania wpłaconej za nie należności."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Zapowiedziane przedstawienia (produkcje) powinny rozpoczynać się dokładnie w czasie wskazanym w programach i afiszach.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Celem kontroli przestrześania prze- 'pisów i warunków tudzież nadzoru artystycznego, oraz dla celów reprezentacyjnych, urządzający przedsięwzięcie ma obowiązek oddania do dyspo- „zycji władz bezpłatnie najwyżej 6 miejsc. Obowiązek ten określa szczegółowo władza, udzielająca pozwolenia na przedsięwzięcie.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_17/par_1",
+     "text": "Powiatowa władza administracji ogólnej może zawiesić wykonanie utworu aprobowanego, jeżeli w tym czasie zajdą lub wyjdą najaw okoliczności, wskazujące na to, że produkowanie utworu zagraża bezpieczeństwu, spokojowi lub porządkowi publicznemu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_17/par_2",
+     "text": "Powiatowa władza administracji ogólnej może również zawiesić wykonanie utworu, jeżeli ma dostateczne podstawy do przypuszczenia, ze wykonanie to miałoby odbyć się z pośwałceniem praw autorskich. § 3. Minister Spraw Wewnętrznych może czasowo zawiesić funkcjonowanie prawnie istniejących przedsięwzięć rozrywkowych na obszarze całego Państwa z powodu żałoby narodowej. Podobne uprawnienie przysługuje wojewódzkiej władzy administracji ogólnej na podległym jej obszarze w",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "przypadku epidemii. W pierwszym z tych przypadków zawieszenie nie może trwać dłużej niż 3 dni."
+      },
+      {
+       "type": "text",
+       "text": "Art, 18. Szczegółowe przepisy porządkowe dotyczące funkcjonowania przedsięwzięć rozrywkowych, a zwłaszcza co do: godzin ich funkcjonowania, ograniczeń funkcjonowania niektórych przedsięwzięć w pewnych dniach ze względów religijnych, ograniczeń co do udziału dzieci i młodzieży oraz uczęszczania ich na przedstawienia — ustalają rozporządzenia Ministra Spraw Wewnętrznych w porozumieniu z zainteresowanymi ministrami,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VIIL",
+   "text": "Postanowienia karne."
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Kto wykracza przeciw przepisom prawa niniejszego lub rozporządzeń, wydanych na jego podstawie, podlega karze aresztu do 3 miesięcy lub grzywny do 3.000 złotych. Do orzekania powołane są władze administracyjne.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Uporczywe nieprzestrzeganie przez przedsięwzięcie rozrywkowe przepisów prawa niniejsześo i rozporządzeń na niem opartych, stwierdzone kilkakrotnem ukaraniem, a także nieprzestrzeganie warunków pozwolenia, daje władzy podstawę do cofnięcia go przed upływem terminu jego ważności,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Rozdział IX,"
+    },
+    {
+     "type": "text",
+     "text": "Postanowi2nią końcowe."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Do nadzoru nad funkcjonowaniem przedsięwzięć rozrywkowych, o ile nie chodzi o kompetencje szczególne, przewidziane w prawie niniejszem i w rozporządzeniach na niem opartych, powołane są powiatowe władze administracji ogólnej miejsca funkcjonowania tych przedsięwzięć.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art 22, Wszelkie zawiadomienia kierowane do władz w sprawach objętych niniejszem prawem lub rozporządzeniami wydanemi na jego podstawie, z wyjątkiem zawiadomień, wymienionych w art, 2 § 3 niniejszego prawa, są wolne od opłat stemplowych."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Wykonanie prawa niniejszego i wydanie w tym celu potrzebnych rozporządzeń wykonawczych porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z zainteresowanymi ministrami.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 24, Prawo niniejsze wchodzi w życie z dniem 1 stycznia 1934 r. Z dniem tym tracą moc obowiązującą wszelkie przepisy w sprawach uregulowanych prawem niniejszem, a w szczególności:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_23/pkt_1",
+     "text": "dekret z dnia 7 lutego 1919 r. w przedmiocie przepisów tymczasowych o widowiskach (Dz. P. P. P. Nr. 14, poz. 177), o ile dotyczy spraw uregulowanych prawem niniejszem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_23/pkt_2",
+     "text": "dekret kancelarji nadwornej z dnia 16 kwietnia 1822 r, (Zb. u. pol., tom 51, str. 169, Nr. 44);",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 85."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_23/pkt_3",
+     "text": "dekret kancelarji nadwornej z dnia 5 sierpnia 1824 r. (Zb. u. pol., tom 52, str. 338, Nr. 98);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_23/pkt_4",
+     "text": "dekret kancelarji nadwornej z dnia 12 maja 1827 r. (Zb. u. pol., tom 55, str. 92, Nr. 60), ogtoszo~ ny rozporządzeniem gubernjalnem z dnia 28. maja 1827 r. (Zb. ust. prow., poz. 100);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_23/pkt_5",
+     "text": "dekret kancelarji nadwornej z dnia 6 stycznia 1836 r. (Zb. u. pol., tom 64, str. 8, Nr. 5);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_23/pkt_6",
+     "text": "rozporządzenie Ministerstwa Spraw Wewnętrznych z dnia 15 listopada 1850 r. (Dz. P. P. Nr. 454);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_23/pkt_7",
+     "text": "najwyższe postanowienia z dnia 25 czerwca 1855 r., ogłoszone rozp. min, z dnia 12 lipca 1855 r. L. 14596;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_23/pkt_8",
+     "text": "postanowienia § 14 najwyższego postanowienia z dnia 14 września 1852 r., ogłoszonego rozokt ee a ee porządzeniem ministrów: spraw wewnętrznych, sprawiedliwości i skarbu z dnia 19 stycznia 1853 r. (Dz. U, P, Nr. 10), o ile dotyczą spraw uregulowanych prawem niniejszem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_23/pkt_9",
+     "text": "$§ 32, 33a, 33b, 33c, 40, 49, 53 i 54 ordynacji przemysłowej Rzeszy Niemieckiej (według tekstu ogłoszonego przez Kanclerza Rzeszy z dnia 26 lipca 1900 r. (Dz. Ust. Rz. str. 871) oraz $§ 115b, 118, 120 p. 1 i 121 ustawy z dnia 1 sierpnia 1883 r. o właściwości władz administracyjnych i sądowo administracyjnych (Zb. ust. pr. str. 237) i rozporządzenie z dnia 31 grudnia 1883 r. w sprawie wykonania ustawy Rzeszy z dnia 10 lipca 1883 r., zmieniającej ordynację przemysłową (Zb. ust. pr. str. 7 z 1884 r.)— o ile przepisy te dotyczą spraw uregulowanych niniejszem prawem,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prezydent Rzeczypospolitej: J. Mościcki Prezes Rady Ministrów i Minister Wyznań Religijnych i Oświecenia Publicznego: J. Jedrzejewica Minister Spraw Wewnętrznych: Bronisław Pieracki Minister Spraw Zagranicznych: Beck Minister Spraw Wojskowych: J. Piłsudski Minister Skarbu: Wi. Zawadzki Minister Sprawiedliwości: Czesław Michałowski Minister Rolnictwa i Reform Rolnych: Nakoniecznikow - Klukowski Minister Przemysłu i Handlu: Zarzycki Minister Komunikacji: M. Butkiewicz Minister Opieki Społecznej: Hubicki Minister Poczt i Telegrafów: Kaliński"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

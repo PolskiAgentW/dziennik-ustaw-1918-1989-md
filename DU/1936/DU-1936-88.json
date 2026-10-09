@@ -1,0 +1,261 @@
+{
+ "eli": "DU/1936/88",
+ "title": "Obwieszczenie Ministra Skarbu z dnia 10 stycznia 1936 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 18 marca 1935 r. o pobieraniu odsetek od zaległości w podatkach państwowych i innych daninach publicznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1936/88/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SKARBU z dnia 10 stycznia 1936 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 18 marca 1935 r. o pobieraniu odseiek od zaległości w podatkach państwowych i innych daninach pub.icznych. Na podstawie art. 3 dekretu Prezydenta Rzeczypospolitej z dnia 22 listopada 1935 r. (Dz. U. R. P. Nr. 83, poz. 519) ogłaszam w załączniku do obwieszczenia niniejszego jednolity tekst ustawy z dnia 18 marca 1935 r. o pobieraniu odsetek od zaległości w podatkach państwowych i innych daninach publicznych (Dz. U. R. P. Nr. 22, poz. 129), z uwzględnieniem zmian, wprowadzonych dekretem Prezydenta Rzeczypospolitej z dnia 22 listopada 1935 r. (Dz. U. R. P. Nr. 85, poz. 519). Podany w załączniku tekst nie obejmuje art. 2 dekretu Prezydenta Rzeczypospolitej z dnia 22 listopada 1935 r. (Dz. U. R. P. Nr. 85, poz. 519), jako niewłączonego przez ten dekret do tekstu ustawy, a którego brzmienie jest następujące: „Przepisy dekretu niniejszego nie dotyczą wysokości odsetek od zaległych składek i opłat na rzecz instytucyj ubezpieczeń społecznych, jeżeli należności z tytułu tych składek i opłat powstały do dnia 31 grudnia 1933 r.' Minister Skarbu: E. Kwiatkowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Min, Skarbu z dnia 10 stycznia 1936 r. (poz. 88).",
+   "body": [
+    {
+     "type": "text",
+     "text": "USTAWA"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 18 marca 1935 r. o pobieraniu odsetek od zaleśłości w podatkach państwowych i innych daninach publicznych oraz w składkach i opłatach na rzecz prawno-publicznych instytucyj ubezpieczeń."
+    },
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "(1) Przepisom niniejszej ustawy podlegają:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/lit_a",
+       "text": "państwowe podatki bezpośrednie oraz podatki: od lokali, ód placów budowlanych, od uboju, od energji elektrycznej, majątkowy, spadkowy i od darowizn, nadzwyczajna danina majątkowa i danina lasowa, zamieniona na ekwiwalent pieniężny; \" _ b) państwowe podatki pośrednie;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/lit_c",
+       "text": "wymierzone opłaty stemplowe (należytości stemplowe i bezpośrednie);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/lit_d",
+       "text": "dodatki do wymienionych pod lit. a), b) i c) danin, pobierane na rzecz Skarbu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/lit_e",
+       "text": "dodatki do wymienionych pod lit. a), b) i c) danin, pobierane na rzecz innych związków praw publicznego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_1/lit_f",
+       "text": "samoistne daniny komunalne; $) składki i opłaty na rzecz instytucyj ubezpieczeń społecznych oraz składki, pobierane na mocy art. 1 i 3 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 maja 1927 r. (Dz. U. R.P.z 1933r. Nr. 3, poz. 23) wraz z późniejszemi zmianami na rzecz Powszechnego Zakładu Ubezpieczeń Wzajemnych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_1/lit_h",
+       "text": "wszelkiego rodzaju przedpłaty lub zaliczki na poczet wymienionych wyżej danin oraz składek i opłat.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Należności, wymienione w ust. (1), będą nazywane w dalszym ciągu ustawy niniejszej „daninami publicznemi '. ,"
+        },
+        {
+         "type": "text",
+         "text": "(3) Ustawa niniejsza nie dotyczy podwyżek stemplowych, ani też z akredytowanych, w oznaczonym terminie uiszczonych podatków pośrednich."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "Nieuiszczone w terminie płatności daniny publiczne uważa się za zaległości.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "(1) Od zaległości w daninach publicznych pobiera się odsetki-w wysokości 0,75% miesięcznie, począwszy od dnia następnego po upływie terminu płatności.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Jeżeli nieuiszczenie w terminie daniny publicznej zagrożone jest w ustawie grzywną lub karą pieniężną, nie zwalnia to od uiszczenia od zaległości w tej daninie odselek w myśl ustawy niniejszej."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "(1) Od zaległości w daninach publicznych, nieprzekraczającej w każdej daninie łącznie z dodatkami kwoty 10 zł, nie pobiera się żadnych odsetek.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Jeżeli od płatnika, uiszczającego zaległości w daninach publicznych, pobrano odsetki lub odsetki ulgowe w kwocie niższej od należnej w myśl przepisów ustawy niniejszej, niedobrane odsetki lub odsetki ulgowe mogą być dodatkowo pobrane tylko w tym przypadku, gdy kwota niedobranych odsetęk lub odsetek ulgowych przekracza 2 zł."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "(1) Od zaległości w daninach publicznych, których spłata została odroczona lub rozłożona na raty, pobiera się odsetki ulgowe w wysokości 0,4% miesięcznie, z wyjątkiem odroczonych lub rozłożonych na raty zaległych składek i opłat na rzecz instytucyj ubezpieczeń społecznych, od których pobiera się odsetki ulgowe w wysokości 0,5% miesięcznie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Prawo do ulgowych odsetek uzyskuje płatnik z mocy samego prawa, z chwilą powzięcia przez właściwą władzę posianowienia o odroczeniu lub rozłożeniu na raty zaległości, przyczem prawo to służy mu za cały okres, licząc od dnia powstania zaległości. Płatnik traci uzyskane prawo do odsetek ulgowych, jeżeli nie dotrzymał terminu, do którego spłata została odroczona; $dy zaległość została rozłożona na raty, płatnik — w razie nieuiszczenia raty w terminie — traci prawo do odsetek ulgowych, przypadających od tej raty i od rat pozostałych,"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "Przy obliczaniu odsetek i odsetek ulgowych miesiąc zaczęty liczy się za cały.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 7, Przepisy o poborze odsetek i odsetek ulgowych przy częściowych wpłatach na poczet zaległości określą rozporządzenia Ministra Skarbu."
+      },
+      {
+       "type": "text",
+       "text": "Art. 8, Obowiązek uiszczania odsetek lub odsetek ulgowych ciąży na tym, kto w myśl istniejących przepisów obowiązany jest do uiszczenia zaległości."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "(1) W zakresie: umarzania odsetek i odsetek ulgowych, skutków, jakie na odsetki i odsetki ulgowe wywiera umorzenie daniny publicznej, stanowiącej należność główną, zwrotu i oprocentowania nadpłat w odsetkach i odsetkach ulgowych, obowiązują — o ile chodzi o daniny publiczne, wymienione w art. 1 i 2 ordynacji podatkowej (Dz. U. R. P. z 1934 r. Nr. 39, poz. 346), o opłaty stemplowe oraz o podatki spadkowy i od darowizn— przepisy art. 130 i 131 ordynacji podatkowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) W zakresie pozostałych danin publicznych należy stosować przepisy następujące:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_9/lit_a",
+       "text": "umorzenie zaległości w całości lub w części pociąga za sobą umorzenie w odpowiednim stosunku odsetek lub odsetek ulgowych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_9/lit_b",
+       "text": "w gospodarczo uzasadnionych lub na szcześólne uwzględnienie zasłuśujących przypadkach, Minicter Skarbu, w odniesieniu do danin publicznych z wyjątkiem samoistnych danin komunalnych oraz składek i opłat, o których mowa w art. 1 ust. (1) lit. g), może obniżyć przypadające odsetki i odsetki ulgowe oraz umorzyć narosłe i nieuiszczone odsetki i odsetki ulgowe, w całości lub w części. Minister Skarbu może uprawnienie to przelać na władze podległe;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_9/lit_c",
+       "text": "uprawnienie do umarzania i obniżania odsetek i odsetek ulgowych, przewidziane pod lit. b), służy w odniesieniu do samoistnych danin komunalnych zarządom właściwych związków samorządowych, a w odniesieniu do składek i opłat, o których mowa w art. 1 ust. 1 lit. g), właściwym instytucjom ubezpieczeń;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_9/lit_d",
+       "text": "sumy nadmiernie lub nienależnie wpłacone w odsetkach i odsetkach ulgowych podlegają zaliczeniu z urzędu na poczet innych płatnych należności płatnika, a w ich braku — zwrotowi w gotówce na prośbę płatnika.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "Odsetki i odsetki ulgowe, przypadające od zaległości w państwowych daninach publicznych, pobiera się na rzecz Skarbu, od zaległości zaś w daninach publicznych, przypadających na rzecz innych związków prawa publicznego — na rzecz tych związków.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "11",
+     "path": "art_11",
+     "text": "Minister Skarbu może drośą rozporządzeń ogólnie obniżać lub umarzać odsetki i odsetki ulgowe, przypadające od zaległości we wszystkich lub w poszczególnych kategorjach danin publicznych, wymienionych w art. 1.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 12."
+      },
+      {
+       "type": "text",
+       "text": "Wykonanie ustawy niniejszej porucza się Ministrowi Skarbu."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "13",
+     "path": "art_13",
+     "text": "(1) Ustawa niniejsza wchodzi w życie w 14 dni po ogłoszeniu. Równocześnie tracą moc obowiązującą wszystkie przepisy w sprawach niniejszą ustawą uregulowanych, o ile ustawa niniejsza nie stanowi inaczej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Ilekroć w poszczególnych przepisach prawnych, które zyskały moc obowiązującą przed dniem wejścia w życie ustawy niniejszej, jest mowa o karach za zwłokę i odsetkach za odroczenie, należy przez nie rozumieć odsetki i odsetki ulgowe."
+      },
+      {
+       "type": "text",
+       "text": "(3) W kodeksie postępowania cywilnego (Dz. U. R. P. z 1932 r. Nr. 112, poz. 934) w art. 784 w § 1 w pkt. 3, w art. 796 w § 1 w pkt 2i7 oraz w art. 800 w § 1 w pkt. 3 i 6 na końcu średniki zastępuje się przecinkami i dodaje się wyrazy: „wraz z wszystkiemi dodatkami, odsetkami i kosztami egzekucji; w art. 796 w § 2 i w art. 800 w § 2 skreśla się wyrazy: „kary za zwłokę w uiszczeniu podatków i innych danin publicznych\"."
+      },
+      {
+       "type": "text",
+       "text": "(4) W art. 203 prawa upadłościowego (Dz. U, R. P. z 1934 r. Nr. 93, poz. 834) w § 1 w pkt. 4 wyrazy; „karami za zwłokę”, zastępuje. się wyrazami: „wszelkiemi odsetkami”, a w § 1 w pkt. 9 skreśla się wyrazy: „kary za zwłokę w uiszczeniu podatków i innych danin publicznych”."
+      },
+      {
+       "type": "text",
+       "text": "(5) 'W art. 4 w ust. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o: poborze 10% dodatku do państwowego podatku gruntowego i przemysłowego (Dz. U. R. P. Nr. 84, poz. 612), którego moc obowiązująca została przedłużona rozporządzeniem Rady Ministrów z dnia 27 września 1934 r. (Dz. U. R. P. Nr. 86, poz. 788), skreśla się wyrazy: „przyczem od dodatku tego nie będą pobierane kary za zwłokę ani odsetki za odroczenie”, zaś po wyrazie „główną” przecinek zastepuje się kropką,"
+      },
+      {
+       "type": "text",
+       "text": ". Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Państwowej w Warszawie, 80710"
+      },
+      {
+       "type": "text",
+       "text": "Cena 75 śr"
+      },
+      {
+       "type": "text",
+       "text": "Prenumerata Dz. U, R. P. wynosi w kraju 8 zł kwartalnie (32 zł rocznie), Władze, urzędy i instytucje państwowe oraz władze samorządu terytorjalnego opłacają 6 zł kwartalnie (24 zł rocznie), Do prenumeraty zagranicznej dolicza się 4 zł kwartalnie (16 zł rocznie) tytułem porta pocztowego. Prenumeraię wpłacać należy z góry przed początkiem każdego kwartału, półrocza lub roku. Zamówienia na prenumeratę jak również na numery pojedyńcze wykonywa się jedynie po wpłaceniu należności Reklamacje spowodu nieotrzymania poszczególnych numerów wnosić należy do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru. uwzględnia się."
+      },
+      {
+       "type": "text",
+       "text": "Reklamacyj spóźnionych lub wniesionych niewłaściwie nie"
+      },
+      {
+       "type": "text",
+       "text": "Wszelkie wpłaty na Dz. U, R. P, wnosić należy za pośrednictwem P, K. O. na konto czekowe Adm, Dz. Ustaw 30-130."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

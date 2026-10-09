@@ -1,0 +1,330 @@
+{
+ "eli": "DU/1937/509",
+ "title": "Rozporządzenie Ministrów Komunikacji i Opieki Społecznej z dnia 23 lipca 1937 r. o organizacji i zasadach prowadzenia zakładów leczniczych kolei państwowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/509/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRÓW KOMUNIKACJI I OPIEKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 lipca 1937 r."
+  },
+  {
+   "type": "text",
+   "text": "o organizacji i zasadach prowadzenia zakładów leczniczych kolei państwowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 76 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o zakładach leczniczych (Dz. U. R. P. Nr 38, poz. 382) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "(1) Szpitale kolei państwowych, nazywane w dalszych przepisach rozporządzenia niniejszego szpitalami kolejowymi, są zakładami leczniczymi bez prawa publiczności, utworzonymi w przedsiębiorstwie „Polskie Koleje Państwowe', przeznaczonymi do leczenia lub obserwacji szpitalnej osób uprawnionych do kolejowej opieki lekarskiej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Szpitale kolejowe podlegają bezpośrednio właściwym dyrekcjom okręgowym kolei państwowych,"
+    },
+    {
+     "type": "text",
+     "text": "(3) Szpitale kolejowe, o ile posiadają ogólne zezwolenie Ministerstwa Komunikacji, udzielone na wniosek właściwego dyrektora kolei państwowych, mogą przyjmować osoby nieuprawnione do kolejowej opieki lekarskiej w miarę posiadania miejsc wolnych."
+    },
+    {
+     "type": "text",
+     "text": "(4) Ilość i siedziby szpitali kolejowych ustala Minister Komunikacji w porozumieniu z Ministrem Opieki Społecznej."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "(1) Szpital kolejowy obejmuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "oddziały szpitalne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "pracownie badawcze i lecznicze.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Ilość i rodzaje oddziałów szpitalnych oraz pracowni badawczych i leczniczych w szpitalu kolejowym ustala Minister Komunikacji,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Świadczenia szpitali kolejowych są w zasadzie odpłatne. Wysokość opłat dziennych określa Ministerstwo Komunikacji na wniosek właściwego dyrektora kolei państwowych. Opłata dzienna za chorych, nie mających prawa do kolejowej opieki lekarskiej, wynosi o 20% więcej niż za chorych posiadających prawo do tej opieki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "(1) Na czele szpitala kolejowego stoi kierownik lekarz, mianowany przez Ministra Komunikacji, posiadający kwalifikacje fachowe, określone w art. 51 ust. 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o zakładach leczniczych (Dz. U. R. P. Nr 38, poz. 382).",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Kierownik szpitala kolejowego:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "podlega dyrekcji okręgowej kolei państwowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "reprezentuje szpital na zewnątrz, \" 3) jest zwierzchnikiem pracowników szpitala,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "zarządza bezpośrednio szpitalem pod względem lekarskim i administracyjno - gospodarczym, w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_4/lit_a",
+       "text": "organizuje życie wewnętrzne szpitala i wydaje regulamin porządku wewnętrznego w szpitalu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_4/lit_b",
+       "text": "decyduje o przyjęciu chorych do szpitala, o potrzebie wykonania zabiegów operacyjnych (§ 6), jak również o zaniechaniu sekcji zwłok (§ 7),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_4/pkt_4/lit_c",
+       "text": "inicjuje i popiera pracę naukową lekarzy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_4/pkt_4/lit_d",
+       "text": "stara się o dokształcanie personelu pomocniczego,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_4/pkt_4/lit_e",
+       "text": "nadzoruje stan lecznictwa w szpitalu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_4/pkt_4/lit_f",
+       "text": "stara się o należyte zaopatrzenie szpitala w potrzebne narzędzia lekarskie, aparaty, środki lecznicze, opatrunkowe, pomocnicze środki lecznicze, inwentarz użytkowy i inne niezbędne materiały, $) czuwa nad stanem technicznym urządzeń szpitala, i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_4/pkt_4/lit_h",
+       "text": "dba o zaspokojenie potrzeb gospodarczych szpitala,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_4/pkt_4/lit_i",
+       "text": "dba o uposażenie szpitala w potrzebne urządzenia higieniczne i o przestrzeganie higieny szpitalnej, a w szczególności hiśieny osobistej chorych i w stosunku do chorych,",
+       "children": [
+        {
+         "type": "text",
+         "text": "(3) Kompetencje kierownika szpitala w sprawach personalnych i finansowo - gospodarczych określa Minister Komunikacji."
+        },
+        {
+         "type": "text",
+         "text": "(4) Dyrekcja okręgowa kolei państwowych może kierownikowi szpitala kolejowego powierzyć równocześnie pełnienie czynności ordynatora jednego z oddziałów szpitalnych."
+        },
+        {
+         "type": "text",
+         "text": "(5) Nieobecnego kierownika szpitala kolejowego zastępuje jeden z ordynatorów, wyznaczony przez dyrekcję okręgową kolei państwowych, na którego przechodzą wszystkie prawa i obowiązki kierownika,"
+        },
+        {
+         "type": "text",
+         "text": "(6) Na czele oddziałów szpitalnych stoją ordynatorzy, na czele pracowni badawczych lub leczniczych bądź kierownicy, bądź ordynatorzy, zależnie od decyzji Ministerstwa Komunikacji."
+        },
+        {
+         "type": "text",
+         "text": "(7) Do pomocy kierownikowi szpitala kolejowego, ordynatorom oddziałów szpitalnych i kierownikom pracowni badawczych lub leczniczych w szpitalach kolejowych, jest przydany odpowiedni personel lekarski, administracyjny i pomocniczy, Szczegółowy zakres działania tego personelu określa Minister Komunikacji,"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "(1) Przyjęcie do szpitala kolejowego chorego, uprawnionego do korzystania z kolejowej opieki lekarskiej następuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "na zlecenie lekarza’ rejonowego kolei państwowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "bez zlecenia, w wyjątkowych przypadkach, jeżeli zachodzi konieczność natychmiastowego umieszczenia chorego w szpitalu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) O przyjęciu do szpitala kolejowego osoby nieuprawnionej do kolejowej opieki lekarskiej (§ 1 ust. (3)) decyduje kierownik szpitala."
+      },
+      {
+       "type": "text",
+       "text": "(3) Wypisanie chorego ze szpitala kolejowego następuje w razie:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "stwierdzenia ukończenia lub leczenia obserwacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "odmowy przez chorego poddania się operacji, uznanej za konieczną, jeżeli wypisanie ze szpitala nie grozi niebezpieczeństwem choremu lub jego otoczeniu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "niestosowania się chorego do obowiązującego regulaminu porządku wewnętrznego w",
+     "children": [
+      {
+       "type": "text",
+       "text": "Str. 1302"
+      },
+      {
+       "type": "text",
+       "text": "szpitalu pod warunkiem, że wypisanie chorego nie spowoduje następstw grożących jego życiu lub jego otoczeniu,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "żądania chorego lub prawnego jego zastępcy; jeżeli wypisanie mogłoby ujemnie wpłynąć na stan zdrowia chorego, wypisanie następuje na podstawie pisemnej deklaracji, mocą której wypisany przedwcześnie ze szpitala zrzeka się wszelkich pretensji do przedsiębiorstwa „Polskie Koleje Państwowe” za wynikłe z tego powodu skutki,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_5/pkt_5",
+     "text": "stwierdzenia, że chory nie kwalifikuje się do dalszego leczenia i może być oddany pod opiekę rodziny, a w braku tejże, pod opiekę gminy zobowiązanej do udzielenia opieki,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "(1) Zabiegi operacyjne dokonywane w szpitalu kolejowym, mogą być podejmowane tylko za zgodą chorego; jeżeli chory nie ukończył 21 lat życia, albo z powodu niedojrzałości umysłowej lub też z powodu stanu zdrowia nie może ocenić potrzeby zabiegu operacyjnego, zabieg operacyjny może być dokonany za zgodą jego prawnego zastępcy, z wyjątkiem wypadków grożących niebezpieczeństwem dla życia chorego, w których każdorazowo o potrzebie dokonania zabiegu decyduje kierownik szpitala.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Dokonanie zabiegu operacyjnego bez zgody chorego lub jego prawnego zastępcy, zapisuje się w „historii choroby”, z uzasadnieniem potrzeby i nagłości dokonania zabiegu."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "(1) Zwłoki osób zmarłych w szpitalu kolejowym poddaje się sekcji, jeżeli jej wykonanie nakazują przepisy sanitarno - policyjne, albo gdy zażąda tego właściwa władza bądź to ze względów policyjno - sanitarnych, bądź też dla celów postępowania sądowego, lub gdy tego wymagają inne względy publiczne lub nauowe.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Sekcję zwłok przeprowadza się z reguły w 24 godzin po niewątpliwym stwierdzeniu śmierci przez lekarza szpitalnego,"
+    },
+    {
+     "type": "text",
+     "text": "(3) Z każdej przeprowadzonej sekcji zwłok kasi się protokół, który załącza się do akt choroby zmarłego."
+    },
+    {
+     "type": "text",
+     "text": "(4) W razie śmierci choreśo uprawnionego do kolejowej opieki lekarskiej koszty pogrzebu ponosi szpital kolejowy jedynie w braku osób do tego obowiązanych,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Przepisy rozporządzenia niniejszego stosuje się do zakładów leczniczych kolei państwowych przeznaczonych specjalnie do leczenia klimatycznego (sanatoriów kolejowych).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Rozporządzenie niniejsze wchodzi w. życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Komunikacji: Ulrych"
+    },
+    {
+     "type": "text",
+     "text": "Minister Opieki Społecznej: Marian Zyndram-Kościał kowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

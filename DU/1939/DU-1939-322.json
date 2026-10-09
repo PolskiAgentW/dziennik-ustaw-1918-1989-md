@@ -1,0 +1,62 @@
+{
+ "eli": "DU/1939/322",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 12 maja 1939 r. o dozorcach celnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/322/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA SKARBU z dnia 12 maja 1939 r. o dozorcach celnych. Na podstawie art. 92 ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej (Dz. U. R. P. Nr 21, poz. 164) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Funkcjonariuszów państwowych o specjalnych kwalifikacjach, pełniących czynności * pomocnicze przy urzędach celnych, zalicza się do kategorii funkcjonariuszów niższych i równocześnie ustala się ich tytuły służbowe w sposób następujący: ZW KIEJ",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "starszy dozorca celny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "dozorca celny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "pomocniczy dozorca celny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia, _. Równocześnie traci moc rozporządzenie Ministra Skarbu z dnia 30 września 1935 r. o dozorcach skarbowych (Dz. U. R. P. Nr 76, poz. 477).",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: E. Kwiatkowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

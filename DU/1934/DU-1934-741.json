@@ -1,0 +1,916 @@
+{
+ "eli": "DU/1934/741",
+ "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 29 sierpnia 1934 r. o budowie i stanie technicznym wytwornic acetylenowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/741/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA PRZEMYSŁU I HANDLU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 sierpnia 1934 r."
+  },
+  {
+   "type": "text",
+   "text": "o budowie i stanie technicznym wytwornic acetylenowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 oraz art. 5 ustawy z dnia 24 marca 1933 r. o nadzorze nad zbiornikami pod ciśnieniem (Dz. U. R. P. Nr. 28, poz. 234) zarządzam co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "L Przepisy ogólne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Za wytwornice acetylenowe w rozumieniu przepisów niniejszych uważa się wszelkie aparaty, w których wskutek reakcji między wodą a karbidem bądź mieszaninami karbidowemi wytwarza się acetylen w postaci gazu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Przepisom niniejszym podlegają wszystkie wytwornice acetylenowe z wyjątkiem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/ust_2/lit_a",
+       "text": "wytwornic w państwowych i prywatnych instytucjach naukowych, oraz w doświadczalniach zakładów fabrykujących wytwór- \"nice, o ile służą one do celów naukowych i doświadczalnych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/ust_2/lit_b",
+       "text": "wytwornic acetylenowych, służących do oświetlania (lampy i latarnie), gotowania i ogrzewania, bez ruchomego klosza zbiornika gazu oraz bez zastosowania sprężonego powietrza lub tlenu, o ile ładunek karbidu wytwornicy nie przekracza 2 kg, ciśnienie acetylenu 0,15 atn (atmosfer nadciśnie-",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "nią) oraz temperatura w przestrzeni gazowej wytwornicy 100°C."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Przez ładunek karbidu należy rozumieć całkowitą ilość karbidu w kg, którą wolno umieścić wewnątrz wytwornicy lub w przyrządach albo komorach wytwornicy, przeznaczonych na ten cel.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przez najwyższą stałą wydajność wytwornicy należy rozumieć tę wydajność acetylenu w litrach na godzinę, przy której podczas nieprzerwanego ruchu przynajmniej w ciągu jednej godziny",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz. 740 i 741. Nr. 79."
+      },
+      {
+       "type": "text",
+       "text": "temperatura w żadnej części wytwornicy nie przekracza dozwolonych granic (§ 8) i przy której odbiór gazu nie przekracza ilości w tymże czasie wytwo-"
+      },
+      {
+       "type": "text",
+       "text": "rzonej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Przez najwyższe dopuszczalne ciśnienie robocze acetylenu w wytwornicy, wyrażone w mm słupa wody, należy rozumieć ciśnienie statyczne, mierzone bezpośrednio za zbiornikiem gazu, przy największem dopuszczalnem obciążeniu klosza zbiornika gazu (8:6 pkt. f).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Przez najwyższe dopuszczalne ciśnienie w urządzeniu zabezpieczającem (§ 11), wyrażone w mm słupa wody, należy rozumieć to najwyższe ciśnienie statyczne wewnątrz urządzenia zabezpie- . czającego, po którego przekroczeniu gaz przedostaje się przez rurę wyrzutową nazewnątrz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Za wytwornice przenośne uważa się wytwornice o ładunku karbidu do 10 kg włącznie, pojemności klosza zbiornika gazu do 300 1 i ciśnieniu acetylenu do 0,15 atn, a to nawet w tym przypadku, jeżeli są przyłączone do rurociągów stałych, jednakże o długości nie większej niż 10 m, a obsługują nie więcej niż 2 punkty pobierania gazu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Za wytwornice stałe uważa się wszystkie inne wytwornice, jak również wytwornice o nieruchomym kloszu zbiornika gazu, dopuszczone do użytku na okres przejściowy (§ 19 pkt. 2).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Każda wytwornica acetylenowa, pracująca przy zastosowaniu sprężonego powietrza lub, tlenu, powinna być zaopatrzona w bezpiecznik wodny lub równoznaczne w działaniu urządzenie zabezpieczające.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Żadna wytwornica, której konstrukcja nie została dopuszczona do użytku przez Ministra Przemysłu i Handlu zgodnie z § 15 rozporządzenia niniejszego, nie może być wprowadzona do handlu lub oddana do użytku. To samo dotyczy urządzenia zabezpieczającego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Każda wytwornica acetylenowa, wprowadzona do handlu lub oddana do użytku, powinna posiadać tabliczkę fabryczną, przymocowaną w ła-- two dostrzegalnem miejscu, zawierającą następujące dane:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/ust_1/lit_a",
+       "text": "nazwę albo firmę oraz siedzibę wytwórcy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/ust_1/lit_b",
+       "text": "rok budowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/ust_1/lit_c",
+       "text": "bieżący numer fabryczny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_6/ust_1/lit_d",
+       "text": "nazwę i wielkość wytwornicy (według oznaczenia wytwórcy), ładunek karbidu w kg oraz jego ziarnistość — e",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "w mm,"
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_6/ust_1/lit_f",
+       "text": "najwyższe dopuszczalne ciśnienie robocze acetylenu w mm słupa wody, $) najwyższą stałą wydajność acetylenu w litrach na godzinę, numer dopuszczenia wraz z literą rozpo- — h znawczą (§ 15).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Na każdym bezpieczniku wodnym lub równoznacznem w działaniu urządzeniu zabezpieczającem, wprowadzonem do handlu lub oddanem do użytku, powinna być przymocowana tabliczka fabryczna, zawierająca następujące dane;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/ust_2/lit_a",
+       "text": "nazwę albo firmę oraz siedzibę wytwórcy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/ust_2/lit_b",
+       "text": "rok budowy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/ust_2/lit_c",
+       "text": "najwyższe dopuszczalne ciśnienie acetylenu w mm słupa wody,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_6/ust_2/lit_d",
+       "text": "numer dopuszczenia (§ 15).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Ciśnienie acetylenu wewnątrz wytwornicy nie może w jakiejkolwiek części wytwornicy przekraczać 0,15 atn.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W przypadkach wyjątkowych można stosować ciśnienie acetylenu powyżej 0,15 atn do 0,5 atn, jeżeli na użytkowanie danej wytwornicy uzyskano oddzielne pozwolenie Ministra Przemysłu i Handlu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Temperatura acetylenu w żadnej części wytwornicy nie powinna przekraczać 100°C.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Przy wejściu do zbiornika gazu acetylen nie powinien posiadać temperatury wyższej aniżeli 50'C.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Temperatura wody, służącej do wytwarzania gazu, jak również temperatura wody chłodzącej nie może przekraczać 60° Ć. .",
+     "children": [
+      {
+       "type": "text",
+       "text": "IL Materjał i techniczne zasady budowy wytwornic."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Ściany wytwornicy i dodatkowych. urządzeń, stykające się z acetylenem, powinny być wykonane w ten sposób, aby nie podlegały odkształceniom, były całkowicie szczelne i wystarczająco chronione przed korozją (rdzewieniem). Ścianki stalowe powinny posiadać przynajmniej 1 mm grubości. Miedzi nie wolno używać w miejscach stykających się z acetylenem. Dozwolone jest używanie stopów miedzi (np. mosiądzu o zawartości miedzi do 70%) na kurki, zawory i połączenia śrubowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Konstrukcja wytwornicy powinna umożliwić sprawdzanie w czasie ruchu, czy w wytwornicy jest dostateczna ilość wody chłodzącej lub potrzebnej do wytwarzania acetylenu, oraz zamianę lub dolewanie wody, bez wypuszczania nazewnątrz znaczniejszej ilości acetylenu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Wytwornice powinny posiadać w zasadzie taką ilość wody, aby na każdy kg ładunku karbidu przypadało przynajmniej 10 1 wody. W wytwornicach, w których woda dopływa do karbidu, postano- * wienie to dotyczy wody chłodzącej, otaczającej. komory, w których odbywa się gazowanie. Ilość wody, zawartej w wytwornicy, może być zmniejszona tylko w tych przypadkach, jeżeli odpowiednie urządzenia, zabezpieczające przed zamuleniem i przekroczeniem dozwolonych temperatur, zapewniają prawidłową pracę wytwornicy. , \" 4, Wytwornice powinny być tak zbudowane, aby przestrzenie szkodliwe, zawierające powietrze przed rozpoczęciem wytwarzania acetylenu, były jak najmniejsze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Wytwornice powinny być tak urządzone, aby nadmierne ilości karbidu nie były poddane reakcji i żeby po zamknięciu odbioru gazu, w czasie największego dopuszczalnego obciążenia wytwornicy, nie następowała nadprodukcja, przekraczająca pojemność zbiornika gazu. Jeżeli karbid załadowany jest w wytwornicy w oddzielne przegrody, wówczas powinny być one tak urządzone, aby woda zalewała każdą oddzielną przegrodę i to w ten sposób, że dopiero po zalaniu całkowitem jednej przegrody „woda powinna przelewać się do przegrody następnej. Objętość każdej komory powinna równać się przynajmniej podwójnej objętości karbidu, który może być w niej załadowany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_9/ust_6",
+     "text": "W wytwornicach na spadek karbidu do wody, przy ziarnistości karbidu ponad 7 mm, należy zastosować takie środki zaradcze (ruszty, mieszadła, urządzenia do przepłókiwania i t. p.), które zapobiegałyby pozostawieniu resztek karbidu w mule.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_9/ust_7",
+     "text": "Konstrukcja wytwornicy powinna umożliwić odmulanie w czasie ruchu w taki sposób, ażeby powietrze z zewnątrz nie mogło przedostać się wskutek depresji do wnętrza wytwornicy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_9/ust_8",
+     "text": "Rury odmulające przy wytwornicach, zawierających do 500 I wody potrzebnej do gazowania, powinny posiadać przekrój co najmniej 500 mm», Przekrój wymienionej rury należy, przy zwiększeniu się ilości wody o każde 5001, zwiększyć o dalsze „500 mm?; na pozostałą resztę, mniejszą od 500 wody, przekrój rury powinien być zwiększony co najmniej o 350 mm”,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ill. Zbiorniki gazu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Każda wytwornica, bądź zespół wytwornic, pracujących razem, powinny pocz e i nik gazu o ruchomym (pływającym) kloszu. Wyjątek stanowią:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_10/ust_1/lit_a",
+       "text": "pochodnie acetylenowe o ładunku karbidu do 10 kg,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_10/ust_1/lit_b",
+       "text": "wytwornice o ciśnieniu acetylenu powyżej 0,15 atn do 0,5 atn (§ 7 p. 2).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Zbiornik gazu powinien być zabezpieczony przez odpowiednie zamknięcia wodne przed bezpośredniem połączeniem gazu z atmosferą, szczególnie w czasie ładowania i odmulania wytwornicy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Zbiornik gazu powinien być tak zbudowany, aby przestrzeń szkodliwa, zawierająca powietrze, była ograniczona do minimum. 4, Użyteczna pojemność zbiornika gazu jest wystarczająca, jeżeli: a. mieści w sobie całą ilość acetylenu, wytworzonego z całkowitego ładunku karbidu, a przy jego podziale na części, — ilość acetylenu, wytworzonego z każdej oddzielnej * części ładunku, oraz b. mieści w sobie acetylen, wytworzony wskutek późniejszego gazowania przy nagłem przerwaniu odbioru acetylenu i to w czasie najwyższej dopuszczalnej wydajności wytwornicy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_10/ust_5",
+     "text": "Zbiornik gazu o pojemności ponad 300 powinien posiadać niezawodnie działające urządzenie zamykające (zamknięcie wodne i t. p.), włączone między przestrzenią gazowania i zbiornikiem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_10/ust_6",
+     "text": "Przy stałych wytwornicach zbiornik gazu powinien być zaopatrzony w rurę bezpieczeństwa, która w razie nadmiaru gazu odprowadza go w powietrze. ł",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_10/ust_7",
+     "text": "Na rurze bezpieczeństwa nie wolno umieszczać mechanicznych urządzeń zamykających (kurki, zawory i t. p.), z wyjątkiem zamknięć wodnych.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Przekrój tej rury nie może być mniejszy od przekroju przewodu, doprowadzającego gaz."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_10/ust_8",
+     "text": "Jeżeli wytwornica jest zaopatrzona w rurę bezpieczeństwa, przez którą można jednocześnie odprowadzić nadmiar gazu z wytwornicy i zbiornika, wówczas oddzielna rura bezpieczeństwa dla zbiornika nie jest wymagana. Zbiorniki gazu, przeznaczone do pracy na wolnem powietrzu, nie wymagają rur bezpieczeństwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. Urządzenia zabezpieczające."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Każdy bezpiecznik wodny lub każde urządzenie zabezpieczające powinny skutecznie zapobiegać cofnięciu się tlenu lub powietrza sprężonego do wytwornicy albo do zbiornika gazu i powinny unieszkodliwić działanie płomienia powrotnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Urządzenie zabezpieczające powinno być pod względem wielkości dostosowane do danego ciśnienia i ilości przepływającego acetylenu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Bezpieczniki wodne powinny być tak zbudowane, ażeby pozwalały na sprawdzanie wzajemnych poziomów rur, umieszczonych wewnątrz, jak również ich stanu wewnętrznego; pozatem budowa ich powinna zezwalać na łatwe napełnianie wodą, ustalanie jej poziomu i łatwe oczyszczanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Bezpieczniki wodne albo inne równoważne urządzenia zabezpieczające powinny być w ten sposób zbudowane, ażeby mogły działać wielokrotnie i bez powtarzania ręcznych zabiegów (np. dołewania wody), powodujących przerwę w pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_11/ust_5",
+     "text": "Każdy bezpiecznik może posiadać tylko jeden kurek do pobierania gazu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_11/ust_6",
+     "text": "Wytwornice acetylenowe o ciśnieniu powyżej 0,15 atn do 0,5 atn, prócz urządzeń zabezpieczających, o których jest mowa w p. 1 paragrafu niniejszego, powinny być zaopatrzone w niezawodnie i samoczynnie działające przyrządy, niedopuszczające do wzrostu ciśnienia ponad ciśnienie dozwolone.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Oczyszczacze,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Masa oczyszczająca w oczyszczaczach nie może zawierać żadnych składników, któreby uchodziły z acetylenem lub nagryzały materjał urządzenia acetylenowego i jego przewody, albo które tworzyłyby z acetylenem związki wybuchowe lub szkodliwe dla zdrowia. Masa ta musi być w oczyszczaczu tak umieszczona, żeby nie utrudniała w znacznym stopniu przepływu acetylenu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Używanie mas oczyszczających, wytwarzanych na podstawie nadchloranów lub związków chlorowych, jest wzbronione,",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI. Przewody."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Wytwornice i ich części wolno łączyć z sobą tylko przewodami stałemi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Jako materjał na przewody gazowe wolno używać jedynie stali.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 79,"
+      },
+      {
+       "type": "text",
+       "text": "VIL Przyrządy do mierzenia ciśnienia,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Wytwornice acetylenowe o ciśnieniu acetylenu powyżej 0,15 atn do 0,5 atn muszą być zaopatrzone w manometr.",
+   "children": [
+    {
+     "type": "text",
+     "text": "VIII. Dopuszczanie do użytku poszczególnych konstrukcyj wytwornic i urządzeń zabezpieczających."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Celem dopuszczenia do użytku konstrukcji wytwornicy acetylenowej lub urządzenia zabezpieczającego (np. bezpiecznika wodnego) i uzyskania numeru dopuszczenia (§ 5) — należy wnieść podanie do Ministra Przemysłu i Handlu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Do podania należy dołączyć w trzech egzemplarzach:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_15/ust_2/lit_a",
+       "text": "dokładny rysunek technic: wytwornicy acetylenowej (urządzenia zabazyłeczające:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "go",
+       "path": "par_15/ust_2/lit_go",
+       "text": "wraz z dodatkowemi urządzeniami, z podaniem wymiarów (także grubości ścian); jeżeli wytwornice (urządzenia zabezpieczające) danej konstrukcji mają być wykonane w różnych wielkościach, wówczas należy podać zestawienie wymiarów poszczególnych wielkości;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_15/ust_2/lit_b",
+       "text": "dokładny opis, w którym należy podać przeznaczenie poszczególnych części wytwornicy i ich sposobu działania, użyteczną pojemność zbiornika gazu i przestrzeni wodnej (przestrzeń chłodzącą), ładunek w kg i ziarnistość karbidu w mm, największą stałą wydajność gazu w litrach na godzinę, najwyższe dopuszczalne ciśnienie robocze w mm słupa wody, sposób oczyszczania gazu, okresy odmulania oraz materjał, z jakiego zostały wykonane poszczególne części wytwornicy; urządzeń zabezpieczających należy podać: najwyższe dopuszczalne ciśnienie w mm słupa wody, opis działania urządzenia, przeznaczenie poszczególnych części oraz materjał, z jakiego zostały wykonane;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_15/ust_2/lit_c",
+       "text": "szczegółowe przepisy obsługi, — przyczem na wszystkich powyższych załącznikach powinna być podana treść tabliczki fabrycznej z wyjątkiem numeru dopuszczenia. 3, Minister Przemysłu i Handlu przekazuje wniosek do zbadania upoważnionemu przez siebie rzeczoznawcy. Rzeczoznawca bada wniosek zgodnie z instrukcją, wydaną przez Minietra Przemysłu i Handlu. Instrukcję oraz wykaz rzeczoznawców ogłasza się w Dzienniku Urzędowym „Monitor Polski”.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Wnioskodawca obowiązany jest udzielać rzeczoznawcy wszelkich wymaganych przez niego wyjaśnień oraz dostarczyć mu w razie potrzeby odpowiedniej ilości dodatkowych załączników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_15/ust_5",
+     "text": "Rzeczoznawca powinien sporządzić protokół badania, zawierający: czas poszczególnych okresów badań, zużycie karbidu i wody, ilość wytworzonego acetylenu, temperatury i ciśnienia, uwagi czy przy zasilaniu i odmulaniu nie uchodzą nadmierne ilości acetylenu i czy nie pokazały się znaczniejsze ciemne zabarwienia (zjawiska polimeryzacji), jak również wszelkie spostrzeżenia o konstrukcji i prą-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Nr. 79,"
+      },
+      {
+       "type": "text",
+       "text": "Dziennik Ustaw. Paz. 741."
+      },
+      {
+       "type": "text",
+       "text": "cy wytwornicy. W stosunku do urządzeń zabezpieczających protokół powinien uwzględniać wymagamia, określone w § 11 rozporządzenia niniejszego. Ponadto protokół powinien zawierać opinje, czy wytwornica lub urządzenie zabezpieczające może być dopuszczone, ewentualnie z jakiemi zastrzeżeniami. Rzeczoznawca przesyła Ministrowi Przemysłu i Handlu protokół badań wraz z załącznikami, po poświadczeniu zgodności danych, zawartych w załącznikach, z rzeczywistością,"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_15/ust_6",
+     "text": "Minister Przemysłu i Handlu może zarządzić powtórzenie badania dla wyjaśnienia wątpliwości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_15/ust_7",
+     "text": "Minister Przemysłu i Handlu, biorąc pod uwagę opinję rzeczoznawcy, dopuszcza badaną konstrukcje do użytku bez zastrzeżeń lub z ewentualnemi zastrzeżeniami, albo odmawia jej dopuszczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_15/ust_8",
+     "text": "Minister Przemysłu i Handlu nadaje dopuszczonym do użytku konstrukcjom wytwornic i urządzeń zabezpieczających bieżące numery dopuszczenia. Rejestr numerów dopuszczenia konstrukcyj prowadzi Ministerstwo Przemysłu i Handlu. 9, Ponadto nadaje Minister Przemysłu i Handlu konstrukcjom wytwornic litery rozpoznawcze, które powinny być zamieszczane przed numerem dopuszczenia, a mianowicie dla konstrukcyj wytwornic:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_15/ust_8/lit_a",
+       "text": "stałych, o ładunku karbidu powyżej 10 kg— literę „S*,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_15/ust_8/lit_b",
+       "text": "o ciśnieniu powyżej 0,15 atn do 0,5 atn — literę „S. C”, o ładunku",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_15/ust_8/lit_c",
+       "text": "przenośnych (warsztatowych), karbidu do 10 kg — literę „W',",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_15/ust_8/lit_d",
+       "text": "pochodni acetylenowych, o ładunku karbidu do 10 kg — literę ,,P\",",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_15/ust_8/lit_e",
+       "text": "wytwornic do oświetlania, gotowania i ogrzewania, o ładunku karbidu do 2 kg (wytwornice gospodarcze § 1 p. 2), poddanych dobrowolnemu badaniu konstrukcji, — literę a” 10, Minister Przemysłu i Handlu zawiadamia o swej decyzji (p. 7) wnioskodawcę, wydając mu, w razie dopuszczenia konstrukcji, zaświadczenie dopuszczenia wraz z numerem dopuszczenia (p. 8 i 9), oraz zwracając mu poświadczony egzemplarz rysunku, opisu i przepisów obsługi. Rzeczoznawca otrzymuje odpis poświadczenia dopuszczenia wraz z poświadczonemi załącznikami.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_15/ust_11",
+     "text": "W razie zmiany konstrukcji wytwornicy lub konstrukcji urządzenia zabezpieczającego, już dopuszczonej do użytku, należy uzyskać ponowne jej douszczenie przez Ministra Przemysłu i Handlu. tych przypadkach, zależnie od uznania rzeczoznawcy, można odstąpić od przeprowadzenia badań w ruchu,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "1, Każda wytwornica, której konstrukcja została dopuszczona i uzyskała numer dopuszczenia, powinna być ostemplowana przez rzeczoznawcę. W tym celu rzeczoznawca, po stwierdzeniu zgodności wytwornicy z dopuszczoną konstrukcją, wybija swój stempel na nitach lub kroplach cyny, przytwierdzających tabliczkę fabryczną. Rzeczoznawca wystawia dla każdej ostemplowanej wytwornicy poświadczenie ostemplowania (według wzoru załącznika), które wytwórca powinien doręczyć nabywcy wytwornicy,",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Nieostemplowane wytwornice acetylenowe nie mogą być oddane do użytku lub wprowadzone do handlu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Minister Przemysłu i Handlu może na podstawie opinii rzeczoznawców cofnąć dopuszczenie danej kons:rukcji wytwornic lub urządzeń zabezpieczających, jak również zabronić używania ich, jeżeli w ruchu praktycznym w wysokim stopniu zagrażają życiu lub zdrowiu pracowników albo też innych osób. O swej decyzji zawiadamia Minister wnioskodawcę, o ile wnioskodawca ma miejsce zamieszkania w kraju, oraz ogłasza ją w Dzienniku Urzędowym „Monitor Polski’,",
+   "children": [
+    {
+     "type": "text",
+     "text": "IX. Odchylenia od zastosowania przepisów niniejszych."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Minister Przemysłu i Handlu może dopuszczać w drodze wyjątku konstrukcje wytwornic, odbiegające od wymagań, zawartych w rozporządzeniu niniejszem, co do pojemności zbiornika gazu, wydajności wytwornicy i ciśnienia gazu, o ile konstrukcje te na podstawie przeprowadzonych badań będą zapewniały w sposób należyty bezpieczeństwo pracy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "X. Przepisy przejściowe."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Wytwornice acetylenowe o ruchomym kloszu zbiornika gazu oraz urządzenia zabezpieczające, których konstrukcje zostały dopuszczone przez Ministra Przemysłu i Handlu lub przez organa, upoważnione do tego przez Ministra Przemysłu i Handlu, przed wejściem w życie rozporządzenia niniejszego— o ile konstrukcje te nie zostały zmienione — nie wymagają ponownego dopuszczenia, Jednakże jeżeli wytwornice te lub urządzenia zabezpieczające okażą się w ruchu praktycznym niebezpieczne dla życia lub zdrowia pracowników lub też innych osób, Minister Przemysłu i Handlu może zastosować postanowienia",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 17,"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Wytwornice o nieruchomym kloszu zbiornika gazu, jak również wszystkie wytwornice oraz urządzenia zabezpieczające, których konstrukcje nie mają dopuszczenia do użytku, powinny być zgłoszone właściwej władzy przemysłowej II instancji w ciągu 3 miesięcy od dnia wejścia w życie rozvorzadzenia niniejsześo. Władza przemysłowa po otrzymaniu zgłoszenia poleca rzeczoznawcy (p. 3 § 15) przeprowadzenie badania konstrukcji celem wydania opinii, czy dana konstrukcja zapewnia bezpieczeństwo pracy. Władza przemysłowa II instancji, biorąc pod uwagę opinje rzeczoznawcy, bądź zakaże dalszego używania wytwornicy lub urządzenia zabezpieczającego, bądź zakaze jej używania do czasu dostosowania danej konstrukcji do wymagań rozporządzenia niniejszego, bądź też wyznaczy ostateczny termin, do którego wytwornica lub urządzenie zabezpieczające może być w użyciu,",
+     "children": [
+      {
+       "type": "text",
+       "text": "XI. Opłaty."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Za badania, o których mowa w §§ 15 — 19, wnioskodawca lub zgłaszający obowiązany jest",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "uiścić rzeczoznawcy opłatę, której wysokość i sposób uiszczenia ustali Minister Przemysłu i Handlu w drodze oddzielnego rozporządzenia."
+    },
+    {
+     "type": "text",
+     "text": "XII Przepisy szczególne dla górnictwa."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Co do zakładów, podlegających władzom śórniczym, stosuje się postanowienia art. 149 Prawa górniczego, ogłoszonego rozporządzeniem Prezydenta Rzeczypospolitej z dnia 29 listopada 1930 r. (Dz. U. R. P. Nr. 85, poz. 654).",
+   "children": [
+    {
+     "type": "text",
+     "text": "XII. Przepisy końcowe."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Rozporządzenie niniejsze wchodzi w życie w sześć miesięcy po dniu ogłoszenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Jednoczęśnie tracą moc obowiązującą wszystkie dotychczasowe przepisy, wydane w przedmiotach, unormowanych rozporządzeniem niniejszem. W szczególności tracą moc obowiązującą: a. w województwach zachodnich — rozporządzenia policyjne w sprawie wytwarzania, przechowywania i używania acetylenu, oraz w sprawie magazynowania karbidu (wydane na podstawie § 137 ustawy z dnia 30 lipca 1883 r. o ogólnym zarządzie kraju, $§ 6, 12 i 15 ustawy z dnia 11 marca 1850 r. o zarządzie policyjnym, ustawy z dnia 8 lipca 1905 r., dotyczącej kosztów badania urządzeń, wymagających dozoru, oraz § 120a i 120e ustawy przemysłowej Rzeszy); b. w województwach południowych i cieszyńskiej części województwa śląskiego — rozporządzenie ministerstw handlu, spraw wewnętrznych, robót publicznych i kolei żelaznych z dnia 10 września 1912 r., tyczące się wyrobu i używania acetylenu, tudzież obrotu karbidem (Dz. u. p. Nr. 185); c. w województwach centralnych i wschodnich — przepisy o używaniu acetylenu a także o przechowywaniu i sprzedaży karbidu, zatwierdzone przez ministra finansów 30 kwietnia 1904 r., ogłoszone w zbiorze",
+     "children": [
+      {
+       "type": "text",
+       "text": "Warszawa. Drukarnia Państwowa. Tłoczono z"
+      },
+      {
+       "type": "text",
+       "text": "Nr. 79."
+      },
+      {
+       "type": "text",
+       "text": "\"ustaw i rozporządzeń rządowych 1904 r. Nr. 79, str. 832,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: H. Floyar-Rajchman"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do rozp. Min. Przemysłu i Handlu z dnia 29 sierpnia 1934 r. (poz. 741). Wzór do § 16."
+  },
+  {
+   "type": "text",
+   "text": "s» Bow #8 m.m am dn. I a m.a 19. „TT"
+  },
+  {
+   "type": "text",
+   "text": "Poświadczenie"
+  },
+  {
+   "type": "text",
+   "text": "ostemplowania wytwornicy acetylenowej. Nr. rejestru . . . ."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie § 16 rozporządzenia Ministra Przemysłu i Handlu z'dnia 29 sierpnia 1934 r. o budowie i stanie technicznym wytwornic acetylenowych (Dz. U. R. P. Nr. 79, poz.. 741) stwierdzam, ze konstrukcja wytwornicy acetylenowej, zaopatrzonej ej tabliczkę fabryczną, zawierającą następujące lane: . nazwa albo firma oraz siedziba wytwórcy s a . . . . U . . |. EJ LJ * . . . . . . + rok budowy. « > 2 s » ; bieżący Nr. fabryczny . . . . « » 5 5 1 nazwa i wielkość wornic ładunek karbidu . “a : . . LJ . . H „ kg; ziarnistość karbidu . . mm; najwyższe dopuszczalne ciśnienie robocze acetylenu w mm słupa wody . . . . 4 46 « » 5 7 najwyższa stała wydajność acetylenu w I na"
+  },
+  {
+   "type": "text",
+   "text": "Nr. dopuszczenia wraz z literą rozpoznawczą » + + + +, —jest zgodna z konstrukcją, dopuszczoną do użytku przez Ministra Przemysłu i Handlu dnia . . . . . . . . „ . , . . za Nr. dopuszczenia. . . . „na dowód czego na nitach — kroplach cyny — przytwierdzających tabliczkę fabryczną, wybito stempel rzeczoznawcy . . . » « « + » » a"
+  },
+  {
+   "type": "text",
+   "text": "(m. p.) - (podpis)"
+  },
+  {
+   "type": "text",
+   "text": "polecenia Ministra Sprawiedliwości. 12024"
+  },
+  {
+   "type": "text",
+   "text": "Cena 25 $r"
+  },
+  {
+   "type": "text",
+   "text": "Prenumerata Dz. U. R. P, wynosi w kraju 8 zł kwartalnie (32 zł rocznie), Władze, urzędy i instytucje państwowe oraz władze samorządu terytorjalnego opłacają 6 zł kwartalnie (24 zł rocznie), Do prenumeraty zagranicznej dolicza się 4 zł kwartalnie (16 zł rocznie) tytułem porta pocztowego, Prenumeratę wpłacać należy zgéry przed początkiem każdego ka tału, półrocza lub roku. Zamówienia na prenumeratę jak również na numery pojedyńcze wykonywa się jedynie po wpłaceniu należności. Reklamacje z powodu nieotrzymania poszczególnych numerów wnosić należy do właściwych urzędów: pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru, Reklamacyj spóźnionych lub wniesionych niewłaściwie nie uwzględnia się, i"
+  },
+  {
+   "type": "text",
+   "text": "Wszelkie wpłaty na Dz, U. R, P, wnosić należy za pośrednictwem P. K. O. na konto czekowe Adm, Dz, Ustaw 30-130"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

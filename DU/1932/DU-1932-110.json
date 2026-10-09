@@ -1,0 +1,3266 @@
+{
+ "eli": "DU/1932/110",
+ "title": "Obwieszczenie Ministra Skarbu z dnia 27 stycznia 1932 r. w sprawie ogłoszenia jednolitego tekstu ustawy o państwowym podatku przemysłowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1932/110/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 stycznia 1932 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy o państwowym podatku przemysłowym."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 36 ustawy z dnia 19 grudnia 1931 r. w sprawie zmiany ustawy z dnia 15 lipca 1925 r. o państwowym podatku przemysłowym (Dz. U. R.P. Nr. 112, poz. 881) ogłaszam w brzmieniu obowiązującem od dnia 1 stycznia 1932 r. jednolity tekst ustawy z dnia 15 lipca 1925 r. o państwowym podatku przemysłowym (Dz. U. R. P. Nr. 79 poz. 550) z uwzględnieniem zmian, wynikających z:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. w sprawie zmiany art. 120 ustawy z dnia 15 lipca 1925 r. o państwowym podatku przemysłowym, w brzmieniu nadanem rożporządzeniem Prezydenta Rzeczypospolitej z dnia 17 sierpnia 1927 r. (Dz. U. R. P. Nr. 38, poz. 371), . 2) ustawy z dnia 19 grudnia 1931 r. w sprawie zmiany ustawy z dnia 15 lipca 1925 r. o państwowym podatku przemysłowym (Dz. U. R. P. Nr. 112, poz. 881),",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "obwieszczeń: z dnia 9 stycznia 1926 r. (Dz. U. R. P. Nr. 7, poz. 52) i z dnia 18 stycznia 1927 r. (Dz. U. R. P. Nr. 8, poz. 56),",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "przepisów wprowadzających kodeks postępowania karnego — rozporządzenie Prezydenta Rzeczypospolitej z dnia 19 marca 1928 r. (Dz. U. R. P. Nr. 33, poz. 314), „5) kodeksu postępowania karnego — rozporządzenie Prezydenta Rzeczypospolitej z dnia 19 marca 1928 r. (Dz. U. R. P. Nr. 33, poz. 313),",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 listopada 1930 r. w sprawie żmiany niektórych postanowień rozporządzenia Prezydenta Rzeczypospolitej z dnia 6 lutego 1928 r., zawierającego „Prawo o ustroju sądów powszechnych” (Dz. U. R. P. Nr. 80, poz. 626),",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "rozporządzeń Ministra Skarbu: z dnia 9 grudnia 1926 r. (Dz. U. R. P, Nr. 128, poz. 768), z dnia 29 października 1927 r. (Dz. U. R. P..Nr. 106, poz. 912), z dnia 21 października 1928 r, (Dz. U. R. P, Nr. 96, poz. 849), z dnia 18 października 1929 r. (Dz. U. R. P. Nr. 79, poz. 591), z dnia 24 marca 1928 r. (Dz. U. R. P. Nr. 42, poz. 415), z dnia 21 marca 1930 r. (Dz. U. R. P. Nr. 27, poz. 235) i z dnia 15 kwietnia 1930 r. (Dz. U. R. P. Nr. 37, poz. 327).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Jan Piłsudski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Skarbu z dnia 27 stycznia 1932 r. (poz. 110),",
+   "body": [
+    {
+     "type": "text",
+     "text": "USTAWA"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 15 lipca 1925 r."
+    },
+    {
+     "type": "text",
+     "text": "o państwowym podatku przemysłowym."
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział L",
+     "text": "PRZEPISY OGÓLNE."
+    },
+    {
+     "type": "text",
+     "text": "Przedmiot podatku."
+    },
+    {
+     "type": "text",
+     "text": "Art 1."
+    },
+    {
+     "type": "text",
+     "text": "Państwowemu podatkowi przemysłowemu podlegają:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "handlowe, przemysłowe i inne na zysk obliczone przedsiębiorstwa;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "zajęcia przemysłowe, wymienione w taryfie, załączonej do art. 23, i samodzielne wolne zajęcia zawodowe, wyszczególnione w art. 9.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wyjątki."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "Państwowemu podatkowi przemysłowemu nie podlegają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/pkt_1",
+       "text": "gospodarstwa rolne i leśne oraz związane z niemi: hodowla inwentarza, mleczarstwo, sadownictwo, ogrodownictwo, pszczelarstwo i gospodarstwo rybne; opłacają jednak podatek:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_2/pkt_1/lit_a",
+         "text": "gorzelnie, browary, krochmalnie, cukrownie, destylarnie drzewa i inne tym podobne zakłady przemysłowe, przerabiające chociażby tylko produkty miejscowego gospodarstwa;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_2/pkt_1/lit_b",
+         "text": "przemysłowe mleczarstwo, ogrodownictwo, sadownictwo i rybołówstwo, prowadzone zawodowo, jako wyłączny lub przeważający rodzaj gospodarstwa;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_2/pkt_1/lit_c",
+         "text": "wyręby leśne, dokonywane przez właścicieli obszarów leśnych nawet na ich własny rachunek, w tych wypadkach, gdy właścicielami takich obszarów są spółki o charakterze przemysłowym lub han-",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "dlowym lub osoby, które kodeks handlowy za handlujące uznaje;"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/pkt_2",
+       "text": "sprzedaż i dostawa wytworów własnego lub dzierżawionego gospodarstwa rolnego oraz własnego gospodarstwa leśneśo, dokonywana bez utrzymywania w tym celu osobnych zakładów handlowych i oddzielnych składów poza obrębem własnych lub dzierżawionych gruntów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_2/pkt_3",
+       "text": "eksploatowanie w obrębie własnych lub dzierżawionych gruntów: pokładów torfu, piasku, wapna, kamieni, kredy, fosłorytów i t. p. wyłącznie na potrzeby własnego gospodarstwa, oraz połączone z eksploatacją cegielnie, piece wapienne i tym podobne zakłady, znajdujące się w obrębie wyżej oznaczonych gruntów, a zaspakajające również tylko potrzeby własnego gospodarstwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_2/pkt_4",
+       "text": "młyny i tartaki, znajdujące się w obrębie własnych lub dzierżawionych śruntów, a zaspakajające wyłącznie potrzeby gospodarcze właścicieli, względnie dzierżawców tych gruntów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Zwolnienia,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "Od państwowego podatku przemysłowego są zwolnione: .",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_3/pkt_1",
+       "text": "wszelkie przedsiębiorstwa, prowadzone przez Państwo na podstawie praw zwierzchniczych, prawa monopolu lub wyłącznie na potrzeby administracji państwowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_3/pkt_2",
+       "text": "państwowe koleje żelazne oraz koleje prywatne, będące w zarządzie przedsiębiorstwa „Polskie Koleje Państwowe\", łącznie ze wszystkiemi urządzeniami, służącemi do zaspakajania własnych potrzeb kolei;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_3/pkt_3",
+       "text": "przedsiębiorstwa użyteczności publicznej, prowadzone przez związki samorządowe we własnym zarządzie i na własny rachunek, oraz utrzymywane przez te związki lombardy i kasy pożyczkowe i oszczędności, których działalność ogranicza się do przyjmowania wkładów i udzielania pożyczek oraz do sprzedaży państwowych papierów wartościowych i pupilarnych papierów banków państwowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_3/pkt_4",
+       "text": "kasy pomocy (emerytalne, oszczędnościowopożyczkowe, pogrzebowe i t. p.) pracowników instytucyj państwowych, komunalnych i społecznych, pracowników handlowych, przemysłowych i rolnych, tudzież inteligencji zawodowej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_3/pkt_5",
+       "text": "związki pracownicze, mające na celu dostarczanie odpowiedzialnych pracowników;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_3/pkt_6",
+       "text": "zakłady naukowe tak publiczne, jak i prywatne;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_3/pkt_7",
+       "text": "zakładane lub utrzymywane przy pomocy Państwa, związków samorządowych lub instytucyj społecznych, oświatowych i dobroczynnych, zakłady wychowawcze i poprawcze, przytułki i schroniska noclegowe, bibljoteki, czytelnie, muzea, galerje i wystawy, warsztaty szkolne, wzorowe ogrody i sady, mające na celu podniesienie ogrodownictwa i sadownictwa oraz utrzymywane przez stowarzyszenia sportowe i przeznaczone wyłącznie dla członków stowarzyszenia sale gimnastyczne lub szermiercze, boiska, cyklodromy i ślizgawki;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_3/pkt_8",
+       "text": "nieobliczone na zysk stałe i ruchome przedsiębiorstwa kinematograficzne, prowadzone we wias-",
+       "children": [
+        {
+         "type": "text",
+         "text": "*"
+        },
+        {
+         "type": "text",
+         "text": "- j A p PPORODE TE"
+        },
+        {
+         "type": "text",
+         "text": "nym zarządzie i na własny rachunek przez instytucje państwowe, samorządowe i społeczne w celach oświatowo-kulturalnych;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_3/pkt_9",
+       "text": "teatry państwowe i komunalne, o ile nie są oddane w dzierżawę; .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_3/pkt_10",
+       "text": "urządzane w celach filantropijnych i oświatowo-kulturalnych widowiska, zabawy, kiermasze it, Di;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "art_3/pkt_11",
+       "text": "przemysł ludowy i rzemiosła, wykonywane ubocznie przez drobnych gospodarzy rolnych lub bezrolnych bez obcych sił pomocniczych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "art_3/pkt_12",
+       "text": "cdnajmowanie pokojów umeblowanych i utrzymywanie stołowni, lecz bez sprzedaży napojów wyskokowych, jeżeli ilość odnajmowanych pokojów nie przekracza dwóch, a ilość stołowników dzie sięciu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "art_3/pkt_13",
+       "text": "operacje kredytu długoterminowego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "art_3/pkt_14",
+       "text": "tranzakcje kupna-sprzedaży wszelkiego rodzaju zbóż i innych ziemiopłodów, dokonywane na giełdach krajowych, a udowodnione prawidłowemi księgami handlowemi i kartami umów giełdowych, spisanemi przez przysięgłych maklerów giełdowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "art_3/pkt_13",
+       "text": "obroty z eksportu węgla i wszelkiego rodzaju półłabrykatów i gotowych wyrobów, dokona= nego bądź bezpośrednio, bądź za pośrednictwem wspólnych biur sprzedaży, oraz tranzakcje z firmami zagranicznemi, wynikające z obrotu uszlachetniającego czynneso, pod warunkiem udowodnienia tych obrotów prawidłowo prowadzonemi księgami handlowemi; niniejsze zwolnienie dotyczy jedynie podatku przemysłowego od obrotu. W wypadkach wątpliwych władze skarbowe ustalają, czy dany artykuł należy zaliczyć do surowców lub półłabrykatów, albo gotowych wyrobów na zasadzie uprzedniej opinji właściwych izb przemysłowo-handlowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "art_3/pkt_16",
+       "text": "przewóz podróżnych przez przedsiębiorstwa żeglugi morskiej. Komisja szacunkowa może wyjątkowo zwalniać od podatku ubogich płatników, których podatek nie przenosi kwoty rocznej 100 zt. Do ważności odnośnej decyzji konieczna jest zgoda przewodniczącego komisji.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Podstawa opodatkowania."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "Za podstawę do obliczania podatku przemysło= wego dla wszystkich przedsiębiorstw i zajęć, ż wyjątkiem wymienionych w art. 8, służy obrót, osiągnięty przez przedsiębiorstwo, względnie zajęcie (art. 1), w każdym roku podatkowym. Rokiem podatkowym jest bieżący rok kalenda rzowy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "aa Art. 5."
+      },
+      {
+       "type": "text",
+       "text": "Za obrót, podlegający opodatkowaniu, uwae ża się:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_4/pkt_1",
+       "text": "w przedsiębiorstwach handlu towarowego, względnie skupu zawodowego w celu odprzedaży wewnątrz Państwa — sumę przychodu brutto za towary: sprzedane za gotówkę, wymienione lub sprzedane na kredyt, łącznie z przychodem brutto, uzyskanym z handlu na jarmarkach, względnie targach, oraz z- wykonania dostaw, w przedsiębiorstwach zaś",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "skupu zawodowego, prowadzonego celem wywozu zagranicę — wartość wywiezionych towarów;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_4/pkt_2",
+       "text": "w instytucjach kredytu krótkoterminowego, jako też w domach bankowych i kantorach wymiany — sumę pobranych i należnych procentów, prowizji, komisowego, tudzież innych tym podobnych wynagrodzeń za świadczenia oraz zysk brutto z operacyj obcemi walutami, dewizami, czekami zagranicznemi, tudzież wszelkiego rodzaju papierami wartościowemi;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_4/pkt_3",
+       "text": "w instytucjach ubezpieczeniowych: A) w instytucjach, nie opartych na wzajemności: .",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_4/pkt_3/lit_a",
+         "text": "całkowitą sumę pobranych składek od ubezpieczeń rzeczowych;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_4/pkt_3/lit_b",
+         "text": "1/10 część pobranych składek od ubezpieczeń na życie i od wypadków;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_4/pkt_3/lit_c",
+         "text": "od ubezpieczeń pośrednich (reasekuracji) w działach rzeczowych 1 4 część pobranych składek, a w działach ubezpieczeń na życie i od wypadków 1/40 część pobranych składek; B) w instytucjach, opartych na wzajemności, a ograniczających swoją działalność w ubezpieczeniach bezpośrednich tylko do swoich członków — połowę składek, wymienionych pod lit. A) a), b) i c); nie wlicza się do obrotu składek na rzecz straży ogniowych;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_4/pkt_4",
+       "text": "dla robót i dostaw, wykonywanych jako samoistne przedsiębiorstwa, — sumę przychodu brutto za roboty, względnie dostawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_4/pkt_5",
+       "text": "w przedsiębiorstwach komisowych, pośrednictwa handlowego, w przedsiębiorstwach ekspedycyjnych oraz w przedsiębiorstwach przewozowych i komunikacyjnych — sumę prowizji, komisowego oraz wszelkich innych wynagrodzeń za wykonane świadczenia i usługi. Za komisowe w rozumieniu niniejszej ustawy uważa się działające we własnem imieniu i na rachunek osób trzecich przedsiębiorstwa sprzedaży, które prowadzą prawidłowe księgi handlowe i udowodnią stosunek komisu oraz wysokość wynagrodzenia komisowego umową lub korespondencją, w przeciwnym razie winny być traktowane jako działające na rachunek własny. W wyjątkowych gospodarczo uzasadnionych wypadkach służy Ministrowi Skarbu prawo zwalniania komisantów od obowiązku prowadzenia prawidłowych ksiąg handlowych, o ile stosunek komisowy i obrót wynika z prawidłowo prowadzonych ksiąg handlowych komitenta. Stosunek komisu nie zachodzi, jeżeli sprzedawca, działając na rachunek osób trzecich, otrzymuje dla siebie, niezależnie od umówionego wynagrodzenia komisowego lub zamiast wynagrodzenia, różnicę lub większą część różnicy między ceną, istotnie osiągniętą przy sprzedaży, a ceną, ustaloną w umowie ra rzecz komitenta.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Przedsiębiorstwa komisowe, działające na rachunek osób, nie opłacających podatku przemysłowego w myśl niniejszej ustawy, opłacają podatek od pełnego obrotu towarowego, w zależności od charakteru sprzedaży. Przepis ustępu poprzedniego nie ma zastosowania do komisowej sprzedaży zboża, dokonywanej na rachunek producentów rolnych."
+        },
+        {
+         "type": "text",
+         "text": "Nr. 17."
+        },
+        {
+         "type": "text",
+         "text": "Za pośrednictwo handlowe w rozumieniu niniejszej ustawy uważa się działanie przedsiębiorstw i zajęć przemysłowych w imieniu i na rachunek osób: trzecich. Przedsiębiorstwa, względnie zajęcia przemysłowe pośrednictwa handlowego, posiadające towary osób trzecich w konsygnacji i działające w imieniu i na rachunek osób trzecich, nie opłacających podatku przemysłowego w myśl niniejszej ustawy od sprzedaży powyższych towarów, opłacają podatek = pełnego obrotu w zależności od charakteru sprzeaży. Inkasowanie należności za towar przez przedsiębiorstwa, względnie zajęcia przemysłowe pośrednictwa handlowego, nie stanowi przeszkody do ustalania podalku od obrotu w myśl art. 5 p. 5 ustawy. Określenie wysokości prowizji w formie skali ruchomej, prowadzenie handlu jednocześnie na rachunek własny i cudzy nie stanowią przeszkody do ustalania podatku od obrotu w myśl art. 5p.5 ustawy. Przepisy ust. piątego i ósmego niniejszego punktu nie dotyczą przedsiębiorstw komisowych i zajęć pośrednictwa handlowego, o ile przedmiotem ich obrotu są surowce lub półfabrykaty niezbędne dla rozwoju rolnictwa lub przemysłu krajowego. Wykaz takich towarów ustala Minister Skarbu w porozumieniu z Ministrami Przemysłu i Handlu oraz Rolnictwa po wysłuchaniu opinji izb przemystowohandlowych i rzemieślniczych;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_4/pkt_6",
+       "text": "we wszystkich innych przedsiębiorstwach handlowych — sumę przychodu brutto; ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_4/pkt_7",
+       "text": "w przedsiębiorstwach przemysłowych, wydobywających lub przetwarzających surowce, albo produkujących wyroby z wydobytych lub zakupionych na własny rachunek materjałów -— sumę przychodu brutto za surowce, półłabrykaty i gotowe wyroby, tak sprzedane za gotówkę, jak i wymienione lub sprzedane na kredyt, oraz użyte do wykonania umów o roboty i dostawy, łącznie z przychodem brutto, uzyskanym ze sprzedaży na jarmarkach, względnie targach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_4/pkt_8",
+       "text": "w przedsiębiorstwach przemysłowych, wytwarzających wyroby z cudzych materjałów — zarobek brutto, t. j. całkowitą sumę wynagrodzenia, pobranego za przerób;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_4/pkt_9",
+       "text": "we wszystkich innych przedsiębiorstwach przemysłowych, nie wymienionych powyżej — sumę przychodu brutto;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_4/pkt_10",
+       "text": "dla zajęć przemysłowych i samodzielnych wolnych zajęć zawodowych — zarobek brutto. Obrotów wewnętrznych przedsiębiorstw przemysłowych i handlowych t. j. wydania jakiegokolwiek artykułu z jednego oddziału, czy też z jednego zakładu, względnie przedsiębiorstwa do drugiego, należącego do tego samego przedsiębiorcy, nie uważa się za obrót.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nie dolicza się do obrotu przedsiębiorstw przemysłowych wszelkich podatków konsumcyjnych, pobieranych od towarów produkowanych przez te przedsiębiorstwa. Również nie dolicza się do obrotu podatku od widowisk i podatku hotelowego (ust. 4 lit. b. art. 7 i art. 18 ustawy z dnia 11 sierpnia 1923 r.; Dz, U. R. P. Nr. 94, poz. 747), opłat od"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "kart do gry (art. 10 ustawy z dnia 18 marca 1931 r. Dz. U. R. P. Nr. 27, poz. 171) oraz wszelkich innych podatków, które mogą obciążyć obrót. Wyłącza się z podstaw opodatkowania po udowodnieniu prawidłowo prowadzonemi księgami handlowemi koszty przewozu i ubezpieczenia towaru, wyłożone za nabywcę, zwroty towarów, bonifikacje i skonta oraz odsetki prolongacyjne przy tranzakcjach kredytowych."
+        },
+        {
+         "type": "text",
+         "text": "Forma i wysokość podatku."
+        },
+        {
+         "type": "text",
+         "text": "Art 6,"
+        },
+        {
+         "type": "text",
+         "text": "Podatek przemysłowy pobiera się od wszystkich przedsiębiorstw i zajęć z wyjątkiem wymienionych w art. 8 i 9:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_4/pkt_10/lit_a",
+         "text": "w formie świadectw przemysłowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_4/pkt_10/lit_b",
+         "text": "w postaci podatku od obrotu.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "7",
+     "path": "art_7",
+     "text": "Stawka podatku od obrotu wynosi: A) od 1 stycznia 1932 r.:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/pkt_1",
+       "text": "a) 0,5% od obrotów, wymienionych w p. 1i4 art. 5, a uzyskanych przez przedsiębiorstwa handlowe ze sprzedaży hurtowej oraz z dostaw dla instytucyj państwowych i samorządowych, przez przedsiębiorstwa skupu zawodowego kategorji I, II i III świadectw przemysłowych (część II lit. A p. II załącznika do art. 23 ustawy), jak również przez samo- „istne przedsiębiorstwa wykonywania dostaw, pod warunkiem prowadzenia przez wymienione wyżej przedsiębiorstwa prawidłowych ksiąg handlowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/pkt_1",
+       "text": "b) 0,5% od obrotów, wymienionych w p. 1 art. 5, a uzyskanych przez przedsiębiorstwa skupu zawodowego kategorji IV świadectw przemysłowych (część II lit. A p. II załącznika do art. 23 ustawy);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_7/pkt_2",
+       "text": "0,5% od obrotów, osiągniętych przez prowadzące prawidłowe księgi handlowe wydawnictwa książek, drukowanych na obszarze obowiązywania niniejszej ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_7/pkt_3",
+       "text": "1% od obrotów, wymienionych w p. 1i7 ‘art. 5, a dokonanych artykułami spożywczemi pierwszej potrzeby przy detalicznej i drobnej sprzedaży z przedsiębiorstwa handlowego, jak również z pracowni rzemieślniczej, której właściciel posiada kartę rzemieślniczą, względnie z zakładu handlowego, należącego do właściciela pracowni rzemieślniczej i obsługującego tę pracownię;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_7/pkt_4",
+       "text": "15% od obrotów, wymienionych w p. 1 art. 5, a uzyskanych ze sprzedaży przez przedsiębiorstwa prowadzące prawidłowe księgi handlowe, z wyjątkiem sprzedaży hurtowej w rozumieniu niniejszego artykułu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_7/pkt_5",
+       "text": "4% od obrotów przedsiębiorstw komisowych i pośrednictwa handlowego oraz pośredników handlowych (kat. II b. zajęć przemysłowych, część III lit. D zał. do art. 23);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_7/pkt_6",
+       "text": "1% od obrotów, wymienionych w p. 2 art. 5, osiągniętych przez przedsiębiorstwa, prowadzące prawidłowe księgi handlowe, z wyjątkiem zysków brutto z operacyj obcemi walutami, dewizami, czekami zagranicznemi tudzież wszelkiego rodzaju papierami wartościowemi;",
+       "children": [
+        {
+         "type": "text",
+         "text": "255"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/pkt_1",
+       "text": "1% od obrotów przedsiębiorstw budowlanych (art. 5 p. 7) oraz samoistnych przedsiębiorstw robót (art. 5 p. 4), uzyskanych przy budowie domów mieszkalnych, pod warunkiem prowadzenia przez odnośne przedsiębiorstwa prawidłowych ksiąg handlowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_7/pkt_8",
+       "text": "1% od obrotów, określonych w p. 7 art. 5, a osiągniętych przez młyny oraz olejarnie, prowadzące prawidłowe księgi handlowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_7/pkt_9",
+       "text": "1% od obrotów, wymienionych w p. 7 art. 5, a osiągniętych przez przedsiębiorstwa przemysłowe ze sprzedaży wydobytych surowców, lub wyprodukowanych towarów krajowym przedsiębiorstwom przemysłowym (nie wyłączając przedsiębiorstw budowlanych), zarówno opłacającym podatek przemysłowy, jak i nie opłacającym tego podatku w myśl niniejszej ustawy, z wyjątkiem artykułów, przeznaczonych na inwestycje nabywającego przedsiębiorstwa przemysłowego, tudzież remonty, które określi rozporządzenie Ministra Skarbu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_7/pkt_10",
+       "text": "1,5% od obrotów, wymienionych w p. 718 art. 5, a osiągniętych przez pracownie rzemieślnicze, których właściciele posiadają karty rzemieślnicze;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "art_7/pkt_11",
+       "text": "1,5% od obrotów przedsiębiorstw ekspedycyjnych i przewozowych (art. 5 p. 5); B) od 1 stycznia 1933 r.:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/pkt_1",
+       "text": "0,75% od obrotów, wymienionych w p. 1 art. 5, a osiągniętych ze sprzedaży przez przedsię biorstwa, prowadzące prawidłowe księgi handlowe, z wyjątkiem sprzedaży hurtowej w rozumieniu niniejszego artykułu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_7/pkt_2",
+       "text": "1% od pozostałych obrotów, wymienionych w p. 1 art. 5 oraz w p. 4 art. 5, o ile chodzi o obroty, osiągnięte przez samoistne przedsiębiorstwa wykonywania dostaw;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_7/pkt_3",
+       "text": "1% od obrotów, wymienionych w p. 718 art. 5, a osiągniętych przez pracownie rzemieślnicze, których właściciele posiadają karty rzemieślnicze; C) od 1 stycznia 1934 r.: 1,75% od pozostałych obrotów, wymienionych w p. 7 art. 5, oraz od obrotów, wymienionych w p. 4 art. 5, a osiągniętych przez samoistne przedsiębiorstwa robót, pod warunkiem prowadzenia ksiąg handlowych przez przedsiębiorstwa kategorji I do IV, świadectw; D) od 1 stycznia 1935 r.: 1,50% od pozostałych obrotów, wymienionych w p. 7 art. 5 oraz od obrotów, wymienionych w p. 4 art. 5, a osiągniętych przez samoistne przedsiębiorstwa robót, pod warunkiem prowadzenia ksiąg handlowych przez przedsiębiorstwa kategorji I do IV świadectw;",
+       "children": [
+        {
+         "type": "text",
+         "text": "E) od 1 stycznia 1936 r.: 1,25% od pozostałych obrotów, wymienionych w p. 7 art. 5 oraz od obrotów, wymienionych vw p. 4 art. 5, a osiągniętych przez samoistne przedsiębior- „stwa robót, pod warunkiem prowadzenia ksiąg handlowych przez przedsiębiorstwa kategorji I do IV świadectw; F) od 1 stycznia 1937 r.: 1% od pozostałych obrotów, wymienionych w p. 7 art. 5, oraz od obrotów, wymienionych w p. 4 art. 5, a osiągniętych przez samoistne przedsiębiorstwa robót, pod warunkiem prowadzenia ksiąg han-"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "——"
+        },
+        {
+         "type": "text",
+         "text": "dlowych przez przedsiębiorstwa kategorji I do IV świadectw; G) 2% od pozostałych obrotów, podlegających opodatkowaniu. H) Począwszy od 1 stycznia 1934 r. stopa podatków od obrotów, o których mowa w lit. A. p. 9 niniejszego artykułu, będzie wynosiła połowę kazdoczęśnie obowiązującej stopy podatków od obrotów, wymienionych w p. 7 art. 5 niriejszej ustawy. Minister Skarbu w porozumieniu z Ministrem Przemysłu i Handlu może w drodze rozporządzeń przyśpieszyć terminy wprowadzenia w życie zniżonych stawek podatkowych, określonych w punktach: C), D), E) i F) oraz obniżać najwyżej do 1% stawkę, określoną w punkcie G). Ulgowe stawki podatkowe będą stosowane wyłącznie do obrotów przedsiębiorstw handlowych, uzyskanych ze sprzedaży towarów bez przerobu. Nie uważa się jednak za przerób nabytego towaru czynności przygotowawczych, dokonywanych w przedsiębiorstwach handlowych przed uskutecznieniem sprzedaży, zgodnie z istniejącemi zwyczajami. Na wypadek wątpliwości, czy dana czynność odpowiada zwyczajom handlowym, zasięga władza podatkowa opinii właściwej izby przemysłowo-handlowej. Obroty przedsiębiorstw handlowych, uzyskane ze sprzedaży towarów po ich przerobieniu w obcych przedsiębiorstwach przemysłowych, opłacają stawkę 2% do dnia 31 grudnia 1933 r., a po tym okresie stawki, okreś!one pod literami C), D), E) i F) niniejszego artykułu. Do obrotów, osiągniętych ze sprzedaży, dokonanych bezpośrednio z samego zakładu przemysłowego, czy też z zakładów handlowych, należących do właściciela przedsiębiorstwa przemysłowego i obsługujących zakład przemysłowy, nie mogą być stosowane stawki podatkowe, przewidziane dla przedsiębiorstw handlowych, o ile obroty te dotyczą towarów, wyprodukowanych przez to samo przedsiębiorstwo przemysłowe. Przepis niniejszy nie ma zastosowania w wypadkach, przewidzianych w p. A)"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_7/pkt_3",
+       "text": "niniejszego artykułu. Za sprzedaż hurtową, podlegającą ulgowej stawce podatkowej, uważa się zbyt wszelkiego rodzaju towarów przez przedsiębiorstwo handlowe kupcom i przemysłowcom, kółkom rolniczym i producentom rolnym, oraz przedsiębiorstwom państwowym i komunalnym, tudzież instytucjom ubezpieczeń społecznych celem odprzedaży lub produkcji, a jeżeli chodzi o przedsiębiorstwa komunikacyjne, także celem eksploatacji, w innych zaś wypadkach — w ładunkach lub ilościach wagonowych. Minister Skarbu w porozumieniu z Ministrami Przemysłu i Handlu oraz Spraw Wewnętrznych i po wysłuchaniu opinji izb przemysłowo - handlowych i rzemieślniczych ustali w rozporządzeniu wykaz artykułów spożywczych pierwszej potrzeby.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art 8."
+        },
+        {
+         "type": "text",
+         "text": "Państwowy podatek przemysłowy tylko w formie, określonej w art. 6 lit. a), opłacają:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/pkt_1",
+       "text": "przedsiębiorstwa handlu wędrownego (art. 19);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_7/pkt_2",
+       "text": "przedsiębiorstwa handlu jarmarcznego (art. 20);",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nr. 17."
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_7/pkt_3",
+       "text": "pomocnicy podróżujący (komiwojażerowie), inspektorzy i ageiici towarzystw ubezpieczeniowych, przed.iębiorstw komunikacyjnych, przewozowych, kredytowych, z wyjątkiem pomocników, podróżujących w imicniu lub na rachunek firm, nie opłacających podatku przemysłowego w myśl niniejszej ustawy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_7/pkt_4",
+       "text": "przedsiębiorstwa, prowadzące wydawnictwa dzienników i innych pism perjodycznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_7/pkt_5",
+       "text": "pracownie i zajęcia rzemieślnicze, rękodzielnicze, dorożkarstwo, furmaństwo, rybołówstwo, o ile są prowadzone przez właścicieli przy współudziale najwyżej jedneśo członka rodziny; dla zaliczenia do, pracowni i zajęcia rzemieślnicześo, względnie rękodzielniczego, nieodzowne jest posiadanie karty rzemieślniczej; przepis niniejszy nie ma zastosowania do mydlarstwa, rzeźnictwa oraz wyrębu mięsa.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 9,"
+        },
+        {
+         "type": "text",
+         "text": "Podatek przemysłowy tylko w formie podatku od obrotu (art. 6 lit. b) opłacają samodzielne wolne zajęcia zawodowe lekarzy, dentystów, weterynarzy, felczerów, adwokatów, notarjuszy, obrońców sądowych, architektów, inżynierów, innych techników i inne samodzielne wolne zajęcia zawodowe, które ustala w drodze rozporządzeń Minister Skarbu w porozumieniu z właściwym ministrem."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IL",
+     "text": "ŚWIADECTWA PRZEMYSŁOWE."
+    },
+    {
+     "type": "text",
+     "text": "Rejestracja przedsiębiorstw."
+    },
+    {
+     "type": "text",
+     "text": "Art 10."
+    },
+    {
+     "type": "text",
+     "text": "Świadectwa przemysłowe (art. 6 lit. a) winny być wykupione:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "przez przedsiębiorstwa handlowe i przemy» słowe dla każdego przez nie prowadzonego oddzielnego zakładu handlowego, względnie przemysłowego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "przez każde przedsiębiorstwo na zysk obliczone, a wykonywane bez utrzymywania oddzielneśo zakładu; ;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "dla każdego zajęcia przemysłowego, wymienionego w taryfie dołączonej do art. 23.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Określenie oddzielnych zakładów i przedsiębiorstw."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "11",
+     "path": "art_11",
+     "text": "Za oddzielny zakład handlowy uważa się osobne stałe lub ruchome, zamknięte lub otwarte pomieszczenie albo część takiego pomieszczenia, względnie kilka pomieszczeń, posiadających bezpośrednie ze sobą połączenie, w których prowadzi się handel towarowy, lub w których dokonywa się innych operacyj handlowych, stanowiących według taryfy załączonej do art. 23 odrębne przedsiębiorstwo.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "12",
+     "path": "art_12",
+     "text": "Za oddzielny zakład przemysłowy (wytwórnię, pracownię, warsztat, zakład rzemieślniczy) uważa się jedno, względnie kilka, zamkniętych lub otwartych pomieszczeń, bądź położonych w obrębie jedne go obejścia, bądź stanowiących jeden jednolity ze-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Nr. 17."
+      },
+      {
+       "type": "text",
+       "text": "spół gospodarczy i służących do jednego rodzaju produkcji lub nawet do kilku rodzajów, jeśli stanowią one kolejne stopnie obróbki, względnie przeróbki, tych samych materjałów albo wytworów lub znajdują się w związku, uzasadnionym potrzebami głównej produkcji. W wypadkach wątpliwych Minister Skarbu w porozumieniu z Ministrem Przemysłu i Handlu rozstrzyga, czy istnieje jeden jednolity zespół gospodarczy i czy kolejne stopnie obróbki, względnie przeróbki, pozostają w związku uzasadnionym potrzebami głównej produkcji. :"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "13",
+     "path": "art_13",
+     "text": "Za oddzielne przedsiębiorstwo górnicze uważa się zespół szybów, sztolni, wież wiertniczych i tym podobnych urządzeń, należących do jednego przedsiębiorstwa, a znajdujących się w obrębie jednego terenu kopalnianego i służących do wydobywania tego samego produktu. Wydobywanie ubocznych produktów kopalnianych przy prowadzeniu głównej eksploatacji górniczej nie uważa się za oddzielne przedsiębiorstwo.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "14",
+     "path": "art_14",
+     "text": "Jeżeli przedsiębiorstwo przemysłowe oprócz zakładu przemysłowego prowadzi także zakład handlowy celem sprzedaży w nim wyrobów własnej produkcji, to tego rodzaju zakłady handlowe uważa się za oddzielne w myśl art. 11. Postanowienie ustępu pierwszego niniejszego artykułu nie dotyczy zakładów hurtowej sprzedaży wyrobów własnej produkcji, o ile te zakłady są utrzymywane przez przedsiębiorstwo przy samym zakładzie przemysłowym lub poza nim, lecz w obrębie miejscowości, będącej jego siedzibą, lub w miejscowości, będącej poza jego siedzibą, o ile jest to jedyny hurtowy zakład sprzedaży poza siedzibą zakładu przemysłowego. Detaliczna i drobna sprzedaż produktów własnego wyrobu dokonywana w tym samym lokalu, gdzie się mieści zakład przemysłowy, nie stanowi oddzielnego przedsiębiorstwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 15."
+      },
+      {
+       "type": "text",
+       "text": "Za oddzielne przedsiębiorstwo uważa się każdy wyrąb lasu wraz z pierwiastkową obróbką drzewa, dokonywany w obrębie jednej lub kilku graniczących ze sobą parcel leśnych."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "16",
+     "path": "art_16",
+     "text": "Za oddzielny zakład w przedsiębiorstwach żeglugi uważa się każdy statek.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "17",
+     "path": "art_17",
+     "text": "Za oddzielne przedsiębiorstwo kolei żelaznych uważa się cały zespół urządzeń na linjach kolejowych, objętych jedną koncesją.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "18",
+     "path": "art_18",
+     "text": "Oddzielne przedsiębiorstwo stanowi wykonywanie każdej poszczególnej umowy o dokonanie ro-",
+     "children": [
+      {
+       "type": "text",
+       "text": "257"
+      },
+      {
+       "type": "text",
+       "text": "bót lub dostaw, jako też każdej poszczególmej umowy o dzierżawę od Państwa lub od związku samorządowego prawa poboru specjalnych opłat (targowej, mostowej, rogatkowej i t. p.). Nie uważa się jednak za oddzielne preedsiebiorstwo wykonywania umów:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_18/lit_a",
+       "text": "przez przedsiębiorstwa przemysłowe o dostawy wyrobów ich własnej fabrykacji;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_18/lit_b",
+       "text": "przez przedsiębiorstwa przewozowe i komunikacyjne — o przewóz ładunków;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_18/lit_c",
+       "text": "przez przedsiębiorstwa handlu towarowego — o dostawy towarów, stanowiących przedmiot ich własnego liandlu, o ile cena świadectwa, nabytego na prowadzenie handlu towarowego, odpowiada cenie świadectwa, które należałoby wykupić na samoistną dostawę; if",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_18/lit_d",
+       "text": "przez przedsiębiorstwa budowlane i biura techniczne — o prowadzerie robót, wchodzących w zakres ich działalności;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_18/lit_e",
+       "text": "przez wszelkie czynności zarobkowe, dokonywane przez wolne zawody poza siedziną swego biura.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "19",
+     "path": "art_19",
+     "text": "W . handlu wędrownym (domokrążnym) za przedsiębiorstwo uważa się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_19/lit_a",
+       "text": "dla handlu obnośnego — sprzedaż towarów ze skrzyni, kułra, walizy, kosza i t. p. opakowania, przenoszonego z miejsca na miejsce przez kupca;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_19/lit_b",
+       "text": "dla handlu rozwoźnego — sprzedaż towarów z wozu, łodzi i t. p. pom'eszczenia, przewożonego z miejsca na miejsce przy pomocy siły zwierzęcej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "20",
+     "path": "art_20",
+     "text": "W handlu jarmarcznym za przedsiębiorstwo, wymagające wykupienia osobnego świadectwa przemysłowego, uważa się sprzedaż na jarmarkach, trwających dłużej niż trzy dni, towarów należących do przedsiębiorstwa, które nie przedstawi dowodu wykupienia świadectwa przemysłowego z tytułu posiadania zakładów, określonych w art. 11, 12, 13i 15.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 21,"
+      },
+      {
+       "type": "text",
+       "text": "Co do innych rodzajów przedsiębiorstw, nie przewidzianych w art. 11 do 20, Ministrowi Skarbu przysługuje prawo rozstrzygania, czy te przedsiębiorstwa, względnie ich zakłady, mają być uważane za oddzielne. Zyta"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22",
+     "path": "art_22",
+     "text": "Należące do przedsiębiorstwa oddzielne składy nie podlegają obowiązkowi wykupienia świadectw przemysłowych; na takie składy winny jednak być uzyskane osobne karty rejestracyjne (art. 23). Za oddzielny skład uważa się jedno lub kilka bezpośrednio ze sobą połączonych pomieszczeń poza obrębem zakładu handlowego lub przemysłowego (art. 11 — 14), należących do jednego przedsiębiorstwa, zamkniętych, albo otwartych, a służących wy* łącznie do przechowywania, przesuszania, oczyszcza",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nią, sortowania, brakowania, przeładowywania lub pakowania towarów, jak również do przechowywania przez przedsiębiorstwa przemysłowe: zapasowych maszyn, narzędzi, paliwa, surowców i materjałów niezbędnych do produkcji, jako też wyrobów, przez te przedsiębiorstwa wytwarzanych, tudzież \"zapasów żywności lub odzieży i t. p. produktów do zaopatrywania własnych robotników, o ile to zaopatrywanie nie jest obliczone na zysk przedsiębiorcy i tem samem nie posiada charakteru RPaeOMOSPE Mi, handlowego. ‘ W osobną kartę rejestracyjną winien być również zaopatrzony każdy zakład hurtowej sprzedaży wyrobów własnej produkcji, który w myśl art. 14 nie stanowi oddzielnego zakładu handlowegó.-"
+      },
+      {
+       "type": "text",
+       "text": "Ceny świadectw przemysłowych."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "23",
+     "path": "art_23",
+     "text": "-Ceny świadectw przemysłowych zależą od kategorji, do której przedsiębiorstwo lub zajęcie zostało zaliczone, jak również od klasy miejscowości, w której wykonywa się przedsiębiorstwo lub zajęcie. Podział miejscowości na klasy, oraz przedsiębiorstw i zajęć na kategorje, tudzież ceny świadectw przemysłowych, zawiera taryfa, załączona do niniejszego artykułu. Sea karty rejestracyjne na oddzielne 'składy (art. Ż2 ust. 1 i 3), utrzymywane przez przedsiębiorstwa handlowe i przemysłowe, uiszcza się osobną stałą opłatę w wysokości dziesięciu złotych za każdą kartę.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 24."
+      },
+      {
+       "type": "text",
+       "text": "W tych wypadkach, gdy w jednym zakładzie handlowym jest prowadzony handel mieszany (np. hurtowy i detaliczny łącznie), lub gdy w jednym zakładzie przemysłowym są wykonywane różne związane z sobą gałęzie fabrykacji, zakład taki winien być zaopatrzony w świadectwo przemysłowe kateśorji najwyższej pod względem rodzaju handlu, względnie przemysłu. Jeżeli zaś dla każdej gałęzi fabkykacji należałoby wykupić świadectwo przemysłowe według ilości robotników, a cena tego świadectwa byłaby. niższa od tej, jakaby przypadała według ogólnej ilości robotników, zatrudnionych w zakładzie, to świadectwo należy opłacić według ogólnej ilości robotników, nie przyjmując pod uwagę różnicy fabrykacji."
+      },
+      {
+       "type": "text",
+       "text": "Art 25."
+      },
+      {
+       "type": "text",
+       "text": "Dla przedsiębiorstwa lub zajęcia, wykonywanego w kilku miejscowościach, zaliczonych do różnych klas, nabywa się świadectwa przemysłowe według. ceny, odpowiadającej miejscowości, zaliczonej do najwyższej klasy."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "26",
+     "path": "art_26",
+     "text": "Ministrowi Skarbu w porozumieniu z Ministrem Przemysłu i Handlu przysługuje prawo przenoszenia poszczególnych miejscowości z wyższej klasy do niższej lub odwrotnie, jeśli w tych miejscowościach zostanie stwierdzony upadek, względnie rozwój handlu i przemysłu. Rozporządzenia w tym przedmiocie uzyskują moc obowiązującą z dniem 1 stycznia toku następnego po ich ogłoszeniu w Dzienniku Ustaw Rzeczypospolitej Polskiej. Ministrowi Skarbu przysługuje również prawo zaliczania do odpowiednich kategoryj takich przedsiębiorstw, które nie mogłyby być objęte tarylą, załączoną do art. 23.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nabywanie świadectw przemysłowych."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "27",
+     "path": "art_27",
+     "text": "Świadectwa przemysłowe i karty rejestracyjne nabywa się w okręgu właściwej władzy podatkowej I instancji. Właściwa jest ta władza, w której okręgu znajdują się zakłady handlowe i przemysłowe lub należące do nich składy, albo w którym wykonywa się przedsiębiorstwo, na zysk obliczone, względnie osobiste zajęcie przemysłowe.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "28",
+     "path": "art_28",
+     "text": "Świadectwa przemysłowe dla robót i dostaw, wykonywanych jako samoistne przedsiębiorstwa, winny być nabywane w tym okręgu (art. 27), w którym te przedsiębiorstwa są wykonywane; jeżeli wykonanie odbywa się w kilku okręgach, świadectwo winno być nabyte w okręgu zawarcia umowy. Świadectwa przemysłowe dla handlu wędrownego (art. 19) nabywa się w okręgu stałego miejsca zamieszkania, względnie pobytu przedsiębiorcy.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "29",
+     "path": "art_29",
+     "text": "Świadectwa przemysłowe i karty rejestracyjne wydaje kasa skarbowa właściwego okręgu. Prezes iżby skarbowej ma prawo, w razie potrzeby, poruczyć wydawanie świadectw przemysłowych, tudzież kart rejestracyjnych naczelnikom władz podatkowych I instancji, zarządom gmin miejskich i wiejskich, izbom przemysłowo-handlowym, rzemieślniczym lub rolniczym oraz zrzeszeniom zawodowym,",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "30",
+     "path": "art_30",
+     "text": "Świadectwa przemysłowe, tudzież karty rejestracyjne winny być nabywane w miesiącach listopadzie i grudniu, poprzedzających rok podatkowy. Cenę świadectwa przemysłowego, względnie opłatę za karty rejestracyjne, uiszcza się w pełnej kwocie za cały rok podatkowy zśóry.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 31."
+      },
+      {
+       "type": "text",
+       "text": "Dla zakładów handlowych i przemysłowych, dla innych przedsiębiorstw, na zysk obliczonych, tudzież dla osobistych zajęć przemysłowych, które rozpoczynają swą działalność w ciągu roku podatkowego, należy nabyć przed rozpoczęciem działalności: świadectwo roczne (art. 30 ust, 2), o ile działalność rozpoczyna się przed 1 lipca, świadectwo półroczne (za połowę ceny taryfowej), o ile działalność rozpoczyna się dopiero od 1 lipca lub po tym terminie. Ważność powyższych świadectw upływa w każdym razie z końcem roku podatkowego."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Postanowienia ustępów 1 i 2 niniejszego arlykułu stosuje się również analogicznie do kart rejestracyjnych na składy, powstałe w ciągu roku podatkowego. Art 32."
+      },
+      {
+       "type": "text",
+       "text": "Dla przedsiębiorstw handlowych i przemysłowych, wykonywanych sezonowo w miejscowościach klimatycznych i leczniczych, mogą być nabywane półroczne świadectwa przemysłowe nawet przed 1 lipca lecz ważność takich świadectw upływa w sześć miesięcy po ich wydaniu. Ministrowi Skarbu służy prawo zastosowania niniejszego artykułu do przedsiębiorstw o charakterze sezonowym wykonywanych i w innych miejscowościach."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "33",
+     "path": "art_33",
+     "text": "Dla robót i dostaw, wykonywanych jako samoistne przedsiębiorstwa, nabywa się roczne, względnie półroczne świadectwa przemysłowe, zależnie od tego, w jakiem półroczu roku podatkowego rozpoczęto wykonywanie tych przedsiębiorstw. O ile wykonywanie umowy, roboty, względnie dostawy, trwa dłużej niż jeden rok, należy nabywać corocznie odpowiednio do taryfy świadectwo przemysłowe.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "34",
+     "path": "art_34",
+     "text": "Dla otrzymania świadectwa przemysłowego należy złożyć pisemną deklarację wedłuś przepisanego wzoru, oddzielną dla każdego zakładu handlowego i przemysłowego, oraz dla każdego innego przedsiębiorstwa, na zysk obliczonego, względnie dla zajęcia przemysłowego. Deklaracja winna zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_34/pkt_1",
+       "text": "imię i nazwisko, względnie nazwę lub firmę przedsiębiorcy, który nabywa świadectwo;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_34/pkt_2",
+       "text": "rodzaj zakładu, względnie przedsiębiorstwa, lub zajęcia przemysłowego, tudzież inne cechy, niezbędne dla określenia ceny świadectwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_34/pkt_3",
+       "text": "miejsce wykonywania przedsiębiorstwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_34/pkt_4",
+       "text": "cenę świadectwa, przypadającą według taryły;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_34/pkt_5",
+       "text": "podpis składającego deklarację. Postanowienia niniejsześo artykułu mają analośiczne zastosowanie przy nabywaniu kart rejestracyjnych na oddzielne składy,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 35,"
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli przed upływem terminu ważności świadectwa przemysłowego zajdą w przedsiębiorstwie zmiany, uzasadniające zaliczenie go do wyższej kategorji, lub jeżeli przedsiębiorstwo zostanie przeniesione do miejscowości klasy wyższej, winna nastąpić dopłata do ceny pierwotnie wykupionego świadectwa przemysłowego. Dopłatę pobiera się: w stosunku rocznym, śdy wspomniane zmiany zajdą przed 1 lipca roku podatkowego, w stosunku zaś półrocznym, o ile zajdą one dopiero, poczynając od 1 lipca tegoż roku."
+        },
+        {
+         "type": "text",
+         "text": "Art, 36."
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli przed upływem terminu ważności świadectwa przemysłowego zajdzie zmiana co do osoby przedsiębiorcy, lub co do miejsca wykonywania przedsiębiorstwa, to należy o zaszłej zmianie najpóźniej w ciągu miesiąca zawiadomić właściwe władze podatkowe I instancji (art. 27) celem uzyskania odpowiedniej adnotacji na świadectwie, a to pod rygorem jego nieważności. Adnotacji o zaszłej zmianie w osobie przedsiębiorcy dokonywa się pod warunkiem uiszczenia zaległości podatku przemysłowego, obciążających przedsiębiorstwo. Postanowienie niniejszego artykułu stosuje się analogicznie do kart rejestracyjnych na oddzielne składy. Jk, rt, 37."
+        },
+        {
+         "type": "text",
+         "text": "Świadectwa do osobistych zajęć przemysłowych nie mogą być odstępowane innym osobom."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "38",
+     "path": "art_38",
+     "text": "Świadectwa przemysłowe oraz karty rejestracyjne na oddzielne składy winny być umieszczane w zakładach, względnie w składach na widocznem miejscu i stale się tam znajdować.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "39",
+     "path": "art_39",
+     "text": "W razie zgubienia świadectwa przemysłowego przedsiębiorca jest obowiązany wnieść prośbę o wydanie duplikatu świadectwa do urzędu skarbowego, który zarządza wydanie duplikatu za zwrotem kosz: tu formularza — po uprzedniem zbadaniu sprawy.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział III",
+     "text": "Lustracja przedsiębiorstw."
+    },
+    {
+     "type": "art",
+     "num": "40",
+     "path": "art_40",
+     "text": "Niezwłocznie po upływie terminu, wyznaczonego na nabywanie świadectw przemysłowych (art. 30 ust. 1), naczelnicy władz podatkowych I instancji i ich pomocnicy, a w razie potrzeby delegowani przez prezesa izby skarbowej także inni urzędnicy, mają przystąpić do lustracji przedsiębiorstw. Dokonywający lustracji badają rodzaj i rozmiar każdego przedsiębiorstwa, zbierają dane, niezbędne do należytego obliczenia podatku przemysłowego, oraz sprawdzają, czy wszystkie przedsiębiorstwa posiadają właściwe świadectwa przemysłowe.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "41",
+     "path": "art_41",
+     "text": "Prezes izby skarbowej wyznacza termin dla ukończenia dorocznej lustracji przedsiębiorstw w okręgu każdej władzy podatkowej I instancji, Niezależnie od przeprowadzenia dorocznej lustracji, naczelnicy władz podatkowych I instancji winni w ciągu całego roku bacznie czuwać nad wszelkiemi zmianami, zachodzącemi tak w ilości, jak w rodzaju i rozmiarach przedsiębiorstw, oraz osobiście lub przez delegowanych urzędników możliwie jak najczęściej sprawdzać wysokość obrotów, osiągniętych przez przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "42",
+     "path": "art_42",
+     "text": "Wykonywający lustrację urzędnicy posiadają prawo wstępu do zakładów handlowych i przemysło-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wych, cło składów i wszelkich miejsc, w których się prowadsi handel, przemysł, wzgłędnie inne na zysk obliczone przedsiębiorstwa lub zajęcia, podlegające podatkowi przemysłowemu, oraz do utrzymywanych przez przedsiębiorstwa oddzielnych składów, tudzież prawo dokonywania oględzin tych miejsc i składów."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "43",
+     "path": "art_43",
+     "text": "Zakłady handlowe i przemysłowe oraz cddzielne składy winny być zaopatrzone w znaki (szyldy), umieszczone w miejscach widocznych celem ułatwienia lustracji.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "44",
+     "path": "art_44",
+     "text": ".",
+     "children": [
+      {
+       "type": "text",
+       "text": "\"_.W razie powzięcia wiadomości o potajemnem prowadzeniu handlu lub przemysłu w lokalach, nieposiadających charakteru zakładów handlowych lub przemysłowych, albo o przechowywaniu w tych lokalach ksiąg handlowych, względnie innych dowodów, dotyczących obrotów przedsiębiorstwa, dokonywającym lustracji urzędnikom służy prawo do oględzin i zbadania tych lokali w trybie, przepisanym ustawą z dnia 14 grudnia 1923 r. o uprawnieniach organów wykonawczych władz skarbowych (Dz. U. R.P. z 1924 r. Nr. 5, poz. 37)."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "45",
+     "path": "art_45",
+     "text": "Policja państwowa, względnie samorządowa, jest obowiązana do udzielania dokonywającym lustracji urzędnikom skarbowym niezbędnej pomocy i do niezwłocznego zawiadamiania właściwych władz podatkowych I instancji o zauważonem prowadzeniu handlu, przemysłu oraz innych na zysk obliczonych przedsiębiorstw, tudzież zajęć przemysłowych bez posiadania świadectwa przemysłowego, jako też o utrzymywaniu oddzielnych składów bez posiadania karty rejestracyjnej.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "46",
+     "path": "art_46",
+     "text": "Urzędy państwowe i samorządowe, instytucje publiczne oraz zrzeszenia, korzystające z gwarancyj, z kredytów lub subwencyj państwowych, są obowiązane przesyłać właściwym izbom skarbowym wiadomości o zawarciu umów o dokonanie robót i dostaw, tudzież umów o wydzierżawienie prawa poboru specjalnych opłat (art. 18) najpóźniej w terminie miesięcznym po zawarciu takich umów, jak również dostarczać innych danych, potrzebnych do obliczenia podatku przemysłowego.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "47",
+     "path": "art_47",
+     "text": "Wszelkie urzędy państwowe, a w szczególności pocztowe i celne, urzędy samorządowe, jak również, i instytucje kredytowe (banki), przedsiębiorstwa komunikacyjne (kolei żelaznych, żeglugi), przewozowe, ubezpieczeniowe i ekspedycyjne, domy składowe oraz wszelkie przedsiębiorstwa handlowe, przemysłowe i inne, na zysk obliczone, wreszcie osoby wykonywające zajęcia przemysłowe, obowiązane są udzielać bezpłatnie władzom skarbowym na'ich żądanie wiadomości, dotyczących towarów sprzedanych, zastawionych, nadawanych, odbieranych, ubezpieczanych i clonych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 17."
+      },
+      {
+       "type": "text",
+       "text": "Wszystkie wyżej wymienione instytucje, przedsiębiorstwa i osoby są obowiązane zezwalać delegowanym przez władze skarbowe urzędnikom na prześlądanie ksiąś, dokumentów i innych zapisków, zawierających wiadomości, o których mowa w ustępie pierwszym niniejszego artykułu, oraz na sporzadza-. nie z tych ksiąg i zapisków potrzebnych wyciągów. Materjał, uzyskany w powyższy sposób, władze skarbowe winny zużytkować z całkowitem zachowaniem tajemnicy handlowej."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "48",
+     "path": "art_48",
+     "text": "Lustracji (art. 40 i 41) dokonywa się w obecności przedsiębiorcy względnie jego zastępcy, a w razie ich nieobecności —- wobec powołanej na świadka osoby postronnej. Lustrscję przeprowadza się w godzinach wy-. znaczonyci. do prowadzenia handlu i przemysłu, a jej dokonywanie nie powinno przeszkadzać prowadzeniu handlu, względnie pracy w zakładach przemysłowych. O dokonaniu lustracji czyni się wzmiankę na świadectwie przemysiowem, względnie na karcie rejestracyjnej.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "49",
+     "path": "art_49",
+     "text": "W razie dokonywania lustracji przedsiębiorstw, prowadzonych w obrębie stacyj kolejowych, portów państwowych lub zabudowań wojskowych, należy przed przystąpieniem do lustracji porozumieć się z właściwą władzą kolejową, portową, względnie wojskową, której przysługuje prawo wyznaczafia ze swej strony przedstawiciela.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "50",
+     "path": "art_50",
+     "text": "Przedsiębiorca jest obowiązany okazać urzędnikom, dokonywającym lustracji, księgi handlowe, tudzież wszelkie inne zapiski, posiadające znaczenie dla określenia obrotu przedsiębiorstwa w myśl przepisów art. 5, celem przejrzenia takowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "WMP EJ"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "51",
+     "path": "art_51",
+     "text": "Jeśli przy dokonywaniu lustracji stwierdzone będzie naruszenie artykułów 97 do 102 niniejszej ustawy, to należy sporządzić protokół, w tymże wyszczególnić, na czem polega przekroczenie i jakie okoliczności to przekroczenie stwierdzają. : Protokół udziela się w odpisie przedsiębiorcy, który ma prawo bądź niezwłocznie, bądź w ciągu najbliższych 14 dni złożyć do protokółu swoje wy: jaśnienia.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IV",
+     "text": "Postępowanie przy obliczaniu i uiszczaniu podatku."
+    },
+    {
+     "type": "text",
+     "text": "Art. 52,"
+    },
+    {
+     "type": "text",
+     "text": "Po upływie każdego roku kalendarzowego w terminie, oznaczonym w art. 55, należy złożyć władzom, wymienionym w art. 54, pisemne zeznanie o obrocie, według ustanowionego wzoru, a to odrębnie: . -"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "co do każdego oddzielnego zakładu, względnie przedsiębiorstwa handlowego, zaliczonego w taryfie (art. 23) do kategorji I i II przedsiębiorstw handlowych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "co do każdego oddzielnego zakładu, względnie przedsiębiorstwa przemysłowego, zaliczónego w taryfie do pierwszych pięciu kategoryj przedsiębiorstw przemysłowych; _ 3) co do każdego zajęcia przemysłowego, zaliczonego w taryfie (zał. do art. 23) do kategorji I Il",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "i b) zajęć przemysłowych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "co do każdego samodzielnego wolnego zaje~ cia zawodowego (art. 9). Przedsiębiorstwa handlowe i przemysłowe, na* leżące do kategoryj niższych, niż wskazane w p. 1i2 niniejszego artykułu, mogą także składać zeznania o obrócie i w takim razie korzystają z uprawnienia, przysługującego płatnikom podatku przemysłowego z mocy ust. 3 art. 76.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "53",
+     "path": "art_53",
+     "text": "W zeznaniu o obrocie (art. 52) winny być podane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_53/pkt_1",
+       "text": "imię i nazwisko przedsiębiorcy, względnie osoby, wykonywającej zajęcie przemysłowe lub samodzielne wolne zajęcie zawodowe, albo nazwa lub firma przedsiębiorcy; adres)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_53/pkt_2",
+       "text": "miejsce zamieszkania (dokładny przedsiębiorcy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_53/pkt_3",
+       "text": "rodzaj zakładu, względnie przedsiębiorstwa lub zajęcia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_53/pkt_4",
+       "text": "miejsce wykonywania przedsiębiorstwa lub zajęcia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_53/pkt_5",
+       "text": "ilość i bliższe oznaczenie oddzielnych składów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_53/pkt_6",
+       "text": "ogólna suma obrotu (art. 5), osiągniętego w ciągu ubiegłego roku, w żeznaniach zaś przedsiębiorstw, wymienionych w p. 1 i 2 art. 52, a prowadzących prawidłowe księgi handlowe, oraz przedsiębiorstw, wymienionych w ust. 2 art. 54, odrębnie sumy obrotu, osiągniętego w każdym poszczególnym miesiącu kalendarzowym ubiegłego roku;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_53/pkt_7",
+       "text": "oświadczenie, czy prowadzone są księgi handlowe i czy na poparcie wykazanej sumy obrotu płatnik gotów jest przedstawić władzy skarbowej księgi handlowe; ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_53/pkt_8",
+       "text": "zapewnienie, że wszystkie przytoczone w zeznaniu dane oznajmiono według najlepszej wiedzy",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "i sumienia;"
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_53/pkt_9",
+       "text": "własnoręczny podpis osoby, składającej zezhanie. Jeżeli przedsiębiorstwo przemysłowe, względnie handlowe przekazuje częściowo lub w całości swe wytwory lub towary do innych zakładów przemysłowych, wzgłędnie handlowych, utrzymywanych we własnym zarządzie i na własny rachunek, to w zeznaniu o obrocie należy wykazać tylko sumę obrotu bezpośtednio osiągniętego (p. 1 i 7 art. 5) z jednoczesnem podaniem, do jakich mianowicie zakładów i w jakich ilościach przekazano resztę wytworów, względnie towarów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 54,"
+        },
+        {
+         "type": "text",
+         "text": "Zeznania o obrocie winny być składane właściwym władzom podatkowym I instancji (art. 27)."
+        },
+        {
+         "type": "text",
+         "text": "Spółki akcyjne, spółki z ograniczoną odpowiedzialnością i inne przedsiębiorstwa, które na zasadzie swych statutów lub specjalnych przepisów są obowiązane do publicznego ogłaszania sprawozdań o swych operacjach lub do składania sprawozdań do zatwierdzenia właściwym organom, winny składać zeznania o obrotach wszystkich należących do nich zakładów, lecz każdego oddzielnie temu urzędowi skarbowemu, względnie tej izbie skarbowej (art. 57 ust, 2), w której okręgu znajduje się siedziba zarządu spółki, względnie przedsiębiorstwa."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "55",
+     "path": "art_55",
+     "text": "Zeznania. o obrocie ża każdy tok kalendatzowy (art. 53) należy składać w terminie do 15 lutego roku następnego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zaliczki na podatek od obrotu."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "56",
+     "path": "art_56",
+     "text": "Przedsiębiorstwa, wymienione w p. 1 i 2 art. 52, a prowadzące prawidłowe księgi handlowe oraz przedsiębiorstwa, wymienione w ust. 2 art. 54 winty po upływie każdego miesiąca kalendarzowego, najpóźniej do dnia 15 następnego miesiąca wpłacić do kasy skarbowej zaliczkę na podatek przemysłowy (art. 7), w wysokości podatku, przypadającego od obrotu, osiągniętego w ubiegłym miesiącu. Inni płatnicy winni wpłacić do kasy skarbowej zaliczkę na podatek w wysokości co najmniej 1/5 kwoty podatku, wymierzoneśo za ubiegły rok kalendarzowy, w następujących terminach: do 15 lipca za kwartał, do 15 września — za II kwartał, do 15 listopada — za III kwartał oraz do 15 marca — za IV kwartał. Płatnicy ci jednak mogą wpłacać lę zaliczkę także w terminach miesięcznych w wysokości 1/15 części podatku, wymierzonego za ubiegły rok kalendarzowy. . Dowody wpłat, zarówno miesięcznych, jak i kwartalnych, należy w oryginałach lub odpisach dołączyć do zeznania, składanego w terminie, oznaczonym w art. 55. 5 Przedsiębiorstwa nowopowstałe są obowiązane do kwartalnych wpłat na podstawie rzeczywistego obrotu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Niewpłacone w terminach, wyżej wskazanych, kwoty zaliczek uważa się za zaległości podatkowe, podlegające przymusowemu ściągnięciu."
+      },
+      {
+       "type": "text",
+       "text": "Organa obliczające podatek."
+      },
+      {
+       "type": "text",
+       "text": "Art. 57,"
+      },
+      {
+       "type": "text",
+       "text": "Sprawdzanie i ustalanie obrotów, podlegających opodatkowaniu i obliczanie podatku przemysłowego, przypadającego w myśl artykułów 4 — 6, należy w pierwszej instancji do komisyj szacunkowych, a w drugiej zaś instancjj—do komisyj odwoławczych. Dla przedsiębiorstw, wymienionych w ust. 2 art, 54 pierwszą instancją jest właściwy urząd skarbowy, drugą zaś izba skarbowa, z wyjątkiem spółek akcyjnych, dla których pierwszą instancją jest właściwa izba skarbowa, drugą zaś — Ministerstwa Skarbu."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "58",
+     "path": "art_58",
+     "text": "Ilość komisyj szacunkowych do spraw podatku przemysłowego i miejsce ich urzędowania określa Minister Skarbu w drodze rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "59",
+     "path": "art_59",
+     "text": "Komisja szacunkowa składa się z przewodniczącego, którym jest z urzędu naczelnik władzy podatkowej I instancji lub jego zastępca, z wyznaczonego przez prezesa izby skarbowej przedstawiciela właściweśo urzędu podatków pośrednich, tudzież z 8 do 12 członków i tyluż zastępców z grona płatników podatku od obrotu. Połowę członków i zastępców komisji mianuje prezes właściwej izby skarbowej na wniosek naczelnika władzy podatkowej I instancji, drugą zaś połowę mianuje tenże prezes z listy kandydatów, przedstawionej przez izbę handlową i przemysłową, izbę rękodzielniczą, względnie przez zawodowe organizacje gospodarcze. Lista kandydatów powinna zawierać trzykrotnie większą liczbę nazwisk, niż liczba członków komisji. Mianowania przeprowadza się w ten sposób, aby w skład komisji każdego okręgu wchodzili płatnicy podatku od obrotu, należycie obznajomieni ze stosunkami teśoż okręgu.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "60",
+     "path": "art_60",
+     "text": "Komisje odwoławcze do spraw podatku przemysłowego istnieją przy każdej izbie skarbowej i składają się z przewodniczącego, którym jest z urzędu prezes izby skarbowej lub jego zastępca, z dwóch urzędników izby skarbowej i tyluż zastępców, mianowanych przez Ministra Skarbu na wniosek prezesa izby skarbowej, tudzież z 8 do 12 członków i tyluż zastępców, powołanych z grona płatników podatku przemysłowego. Połowę członków i zastępców komisji mianuje Minister Skarbu na wniosek prezesa izby skarbowej, drugą zaś połowę mianuje tenże minister z listy kandydatów, przedstawionej przez izbę handlową i przemysłową, izbę rękodzielniczą, względnie przez zawodowe organizacje gospodarcze, Lista kandydatów powinna zawierać trzykrotnie większą liczbę nazwisk, niż liczba członków komisji. Ministrowi Skarbu przysługuje prawo utworzenia przy jednej izbie skarbowej kilku komisyj odwoławczych,",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "61",
+     "path": "art_61",
+     "text": "Przy powoływaniu członków kemisyj szacunkowych i odwoławczych z grona płatników podatku od obrotu należy przestrzesać, aby w skład komisji wchodzili przedstawiciele wielkiego, średniego i drobnego handlu i przemysłu oraz rzemiosła, tudzież samodzielnych wolnych zajęć zawodowych i spółdzielczości. Art, 62.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Członków komisji i ich zastępców powołuje się na okres czteroletni,"
+      },
+      {
+       "type": "text",
+       "text": "Nr. 17."
+      },
+      {
+       "type": "text",
+       "text": "Po upływie każdego dwulecia ustępuje połowa członków i ich zastępców. Ustępujących po raz pierwszy wyznacza los, Ustępujący mogą być ponownie powołani."
+      },
+      {
+       "type": "text",
+       "text": "Art. 63,"
+      },
+      {
+       "type": "text",
+       "text": "Na członków komisji mogą być powoływani ci płatnicy podatku przemysłowego, którzy korzystają z pełni praw cywilnych i politycznych i nie byli.prawomocnie skazani na karę za wykroczenia, przewidziane w. art. 96, 105, 106 i 108."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "64",
+     "path": "art_64",
+     "text": "Mandat członka komisji gaśnie, gdy jego posiadacz traci warunki, przewidziane w art. 63, gdy przestaje być płatnikiem podatku przemysłoweśo, śdy nie był obecny na trzech z rzędu posiedzeniach komisji i nieobecności nie usprawiedliwił,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 65,"
+      },
+      {
+       "type": "text",
+       "text": "Członkowie komisji odwoławczej i ich zastępcy nie mogą być równocześnie członkami komisji szacunkowej i ich zastępcami,"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "66",
+     "path": "art_66",
+     "text": "Jeżeli instytucje, powołane do przedstawiania kandydatów na członków i ich zastępców (art. 59 i 60) nie uczynią tego w wyznaczonym terminie, to brakujących członków i ich zastępców mianuje właściwa władza skarbowa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 67,"
+      },
+      {
+       "type": "text",
+       "text": "Przewodniczący zwołuje komisję, kieruje jej czynnościami, wykonywa jej uchwały i jest odpowiedzialny za należyte stosowanie obowiązujących przepisów, ai Art, 68,"
+      },
+      {
+       "type": "text",
+       "text": "O kazdem posiedzeniu komisji przewodniczący zawiadamia pisemnie wszystkich. członków komisji, przynajmniej na 5 dni przed terminem posiedzenia. W ten sposób zaprasza się w razie potrzeby zastęp-"
+      },
+      {
+       "type": "text",
+       "text": "ców,"
+      },
+      {
+       "type": "text",
+       "text": "Komisja jest zdolna do powzięcia uchwał, jeżeli prócz przewodniczącego lub jego zastępcy jest obecna przynajmniej połowa członków. Jeżeli na pierwsze posiedzenie nie przybędzie zdolna do powzięcia uchwał ilość członków, wyznacza się drugie posiedzenie z zastrzeżeniem, że zapadite na niem uchwały będą prawomocne bez względu na ilość obecnych."
+      },
+      {
+       "type": "text",
+       "text": "Art. 69,"
+      },
+      {
+       "type": "text",
+       "text": "Członkowie komisji i ich zastępcy, o ile nie pozostają na służbie państwowej, składają przy obejmowaniu swych obowiązków uroczyste przyrzeczenie, iż obowiązki swe pełnić będą wedłuś najlepszej wiedzy i sumienia i zachowają w ścisłej tajemnicy wszystkie powzięte w komisji wiadomości o położeniu majątkowem płatników. Obowiązek zachowania tajemnicy ciąży również na przewodniczącym, na jego zastępcy, jak rów-"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nież na członkach komisji, zostających na służbie - państwowej. „Art. 70, Uchwały komisji zapadają zwykłą większością głosów obecnych członków. W razie równości głosów rozstrzyga głos przewodniczącego."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "71",
+     "path": "art_71",
+     "text": "Przewodniczący i członkowie komisji oraz ich zastępcy nie mogą uczestniczyć w posiedzeniach podczas obrad i uchwał, dotyczących opodatkowania przedsiębiorstw i zajęć, wykonywanych przez nich \"samych, przez ich małżonków, krewnych i powino- \"watych w linji wstępnej i zstępnej, albo w bocznej do trzeciego stopnia, przez osoby, będące pod ich opieką lub kuratelą, tudzież przez firmy, spółki i zrzeszenia, z któremi są w jakikolwiek sposób paśrednio lub bezpośrednio związani,",
+     "children": [
+      {
+       "type": "text",
+       "text": "\"Art. 72,"
+      },
+      {
+       "type": "text",
+       "text": "Z obrad i uchwał komisji spisuje się protokóły, które podpisują przewodniczący i przynajmniej trzech obecnych na posiedzeniu członków lub ich zastępców."
+      },
+      {
+       "type": "text",
+       "text": "Art. 73,"
+      },
+      {
+       "type": "text",
+       "text": "Członkom komisji, którzy nie są urzędnikami państwowymi, zwraca się koszty, spowodowane przybyciem na posiedzenie, Bliższe przepisy w tym przedmiocie wyda Minister Skarbu w drodze rozporządzenia,"
+      },
+      {
+       "type": "text",
+       "text": "Sprawdzanie zeznań i ustalanie obrotów przez komisje szacunkowe."
+      },
+      {
+       "type": "text",
+       "text": "Art. 74,"
+      },
+      {
+       "type": "text",
+       "text": "Zeznania o obrocie, składane w myśl art, 52 do 54, sprawdza właściwa władza podatkowa I instancji, posiłkując się przytem wszelkiemi posiadanemi materjałami, a w szczególności danemi, zebranemi podczas iustracji przedsiębiorstw, i przygotowuje wnioski dla komisji, Władza podatkowa I instancji przygotowuje również na podstawie posiadanych materjałów wnioski o obrotach tych przedsiębiorstw i zajęć, co do których nie złożono zeznań, wbrew art. 52 lub co do których nie istnieje ustawowy obowiązek składania zeznań."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "75",
+     "path": "art_75",
+     "text": "Celem należyteśo sprawdzenia obrotów i przygotowania wniosków (art. 74) władze podatkowe I instancji oraz komisje szacunkowe mają prawo: ,",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_75/pkt_1",
+       "text": "żądać od przedsiębiorców przedstawienia w oznaczonych terminach pisemnych lub ustnych wyjaśnień co do obrotów, jako też ksiąg handlowych, o ile tacowe są prowadzone, wszelkich dokumentów i załączników lub uwierzytelnionych wyciągów z tych ksiąg;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_75/pkt_2",
+       "text": "zbierać informacje od osób, obznajomionych z faktycznemi stosunkami i powoływać biegłych do badania ksiąg, zapisków oraz stosunków faktycznych, miarodajnych dla wymiaru podatków, z listy kandydatów, przedstawionych przez izby 'przemysłowohandlowe, rzemieślnicze -lub rolnicze, organizacje lub zrzeszenia przemysłowo-handlowe oraz związki za* wodowe, Jeżeli przedstawienie ksiąg w myśl p. 1 niniejszego artykułu nastręcza trudności, to na prośbę płatnika badanie ksiąś może się odbyć w jego zakładzie.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 76,"
+        },
+        {
+         "type": "text",
+         "text": "Wnioski, przygotowane w myśl art. 741 75, składa naczelnik władzy podatkowej I instancji, jako przewodniczący komisji szacunkowej, pod jej obrady. Komisja ustala obroty oraz przypadający podatek. W razie potrzeby komisja ma prawo powołać na swe posiedzenie rzeczoznawców, którzy przed przystąpieniem do swej czynności mają złożyć przyrzeczenie w myśl art. 69, Jeżeli na poparcie wykazanego w zeznaniu obrotu płatnik wyraził gotowość przedstawienia ksiąg handlowych wraz z dokumentami i rachunkami, to władza podatkowa, względnie komisja szacunkowa, nie może ustalić obrotu odmiennie od zeznania, o ile księgi nie zostały uznane przez komisję ża nieprawidłowe lub za nierzetelne, Przy badaniu ksiąś ma prawo być obecny płatnik lub jego zastępca, Nieprzyjęcie obrotu, wykazanego w księgach, winno być protokólarnie stwierdzone i uzasadnione, Odpis tego uzasadnienia doręcza się płatnikowi."
+        },
+        {
+         "type": "text",
+         "text": "Minister Skarbu władny jest pobierać podatek od drobnych przedsiębiorstw na podstawie przeciętnych norm obrotu bez ustalania sum obrotu w każnym poszczególnym wypadku, Sposób zryczałtowania podatku, przepisy wymiarowe, poborowe oraz terminy płatności ustala rozporządzenie Ministra Skarbu, wydane w porozumieniu z Ministrem Przemysłu i Handlu po wysłuchaniu opinji izb przemysłowo-handlowych i rzemieślniczych. Upoważnia się Ministra Skarbu do wprowadzenia od poszczególnych towarów scalonego podaku przemysłowego od wszelkiego rodzaju obrotów (art. 5). Podatek ten będzie pobierany jednorazowo za późniejsze fazy obrotów. Rozporządzenie Ministra Skarbu, wydane w porozumieniu z Ministrem Przemysłu i Handlu i po wysłuchaniu opinii izb przemysłowo-handlowych i rzemieślniczych, określi zśodnie ze stawkami, przewidzianemi w niniejszej ustawie, wysokość scalonego podatku przemysłowego, przepisy wymiarowe, poborowe, terminy płatności scalonego podatku, władze powołane do wymiaru i poboru podatku, osoby obowiązane do płacenia podatku, oraz odpowiedzialność za podatek; przyczem w razie poboru tego podatku na granicy lub przez władze celne stawki podatku scalonego muszą być przeliczone na jednostkę wagi lub od sztuki."
+        },
+        {
+         "type": "text",
+         "text": "Minister Skarbu w porozumieniu z Ministrem Przemysłu i Handlu i po wysłuchaniu opinii izb przemysłowo-handlowych ustali w rozporządzeniu:"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_75/pkt_1",
+       "text": "bliższe określenie pojęcia prawidłowych. ksiąg handlowych w rożumieniu niniejszej ustawy oraz zasady w przedmiocie ich prowadzenia, badania i oceny.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_75/pkt_2",
+       "text": "kategorje lub rodzaje mniejszych przedsię” biorstw i zasady uproszczonej księgowości, posiadającej moc dowodową, przewidzianą w niniejszym artykule i której prowadzenie przez tych podatników będzie uzasadniało zwolnienie od podatku lub stosowanie stawek, przewidzianych dla prowadzących prawidłowo księgi handlowe.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art, 77,"
+        },
+        {
+         "type": "text",
+         "text": "_. Q kwotach ustalonych obrotów i przypadają - cego do uiszczeńia podatku należy zawiadomić płatnika przez doręczenie mu nakazu płatniczego. W nakazach tych należy również wskazać termin i tryb wnoszenia odwołań."
+        },
+        {
+         "type": "text",
+         "text": "Art. 78,"
+        },
+        {
+         "type": "text",
+         "text": "Prace komisji winny być prowadzone w ten sposób, aby nakazy płatnicze były rozesłane najpóźniej do dnia 15 kwietnia roku bezpośrednio następującego po roku podatkowym. W razie rozesłania nakazów płatniczych po 15 kwietnia, terminy, oznaczone w art. 81 i 85, będą odpowiednio przedłużone, co zaznaczone być winno w obwieszczeniach, przewidzianych w art, 79."
+        },
+        {
+         "type": "text",
+         "text": "Art. 29,"
+        },
+        {
+         "type": "text",
+         "text": "Równocześnie z rozesłaniem nakazów płatniczych fart, 77), przewodniczący komisji zawiadamia płatników zapomocą publicznego obwieszczenia o dniu rozesłania nakazów płatniczych, o terminach płacenia podatków (art, 81) i o trybie wnoszenia odwołań (art. 85 i 86). Obwieszczenie to należy wywiesić w lokalu władzy podatkowej, rozplakatować najpóźniej w terminie oznaczonym w art. 78 oraz ewentualnie zamnieścić w dziennikach miejscowych,"
+        },
+        {
+         "type": "text",
+         "text": "Art 80,"
+        },
+        {
+         "type": "text",
+         "text": "_ Przewodniczący komisjj sporządza jw dwóch egzémplarzach imienne listy płatników według $min, względnie dzielnic miejskich, z oznaczeniem kwot ustałonego obrotu i przypadającego podatku. Tak śpórządzone listy wywiesza się w pómiesżczeńiu władzy podatkowej I instancji i przesyła się do urzędów śminnych (magistratów) celem wyłożenia na przeciąg 4-ch tygodni w miejscu dostepnem dla publiczności, Przed upływem terminu, wyznaczonego do wniesienia odwołania, względnie skargi do sądu, niezależnie od rożesłania nakazów płatniczych, władze podatkowe I instancji są obowiązane do udzielania zgłaszającym się płatnikom lub ich pełnomocnikom ustnych informacyj, dotyczących podstaw wymiaru oraz kwot ustalonych obrotów i przypadającego do uiszczenia podatku,"
+        },
+        {
+         "type": "text",
+         "text": "Termin uiszczenia podatku, obliczonego przez komisje szacunkowe."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "81",
+     "path": "art_81",
+     "text": "Podatek przemysłowy należy płacić do 15-go maja roku, bezpośrednio następującego po roku podatkowym.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sprawdzanie zeznań i ustalanie obrotu przez władże skarbowe oraz termin uiszczenia obliczonego przez nie podatku."
+      },
+      {
+       "type": "text",
+       "text": "Art. 82,"
+      },
+      {
+       "type": "text",
+       "text": "Postanowienia artykułów 74, 75, 76 i 77 mają analogiczne zastosowanie także prży sprawdzaniu zeznań, ustalaniu obrotu i obliczaniu podatku przedsiębiorstw, wymienionych w ustępie drugim art. 54, przez władze skarbowe."
+      },
+      {
+       "type": "text",
+       "text": "Art, 83,"
+      },
+      {
+       "type": "text",
+       "text": "Obliczony przez władzę skarbową (art. 82) podatek przemysłowy winien być wpłacony w ciągu 14 dni, licząc od dnia następnego po doręczeniu żawiadomienia,"
+      },
+      {
+       "type": "text",
+       "text": "Dodatkowe wymiary,"
+      },
+      {
+       "type": "text",
+       "text": "Art, 84."
+      },
+      {
+       "type": "text",
+       "text": "Od przedsiębiorstw i zajęć, podlegających podatkowi przemysłowemu, a z jakichkołwiek bądź powodów wcale nie pociągniętych do opodatkowania w terminach, oznaczonych w niniejszej ustawie, wymierza się podatek dodatkowy w ciągu pięciu lat. W ciągu lat trzech może być dodatkowo wymierzony podatek, jeśli na skutek później ujawnionych konkretnych okoliczności pierwotny wymiar okaże się za niski. W tych wypadkach władza podatkowa zawia* damia płatnika o wymiarze indywidualnie, a podatek powinien być uiszczony w terminie, wskazanym w art, 83."
+      },
+      {
+       "type": "text",
+       "text": "Odwołania i sprzeciwy."
+      },
+      {
+       "type": "text",
+       "text": "Art, 85."
+      },
+      {
+       "type": "text",
+       "text": "Od ustalonych sum obrotów i obliczonych kwot podatku, mogą być wńosżone odwołania w hastępujących terminach: ."
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_81/pkt_1",
+       "text": "przez płatników, o których mowa w art. 54 ustęp drugi i w art. 84, w ciągu dni czternastu, liv cząc od dnia następnego po doręczeniu zawiado* imienia; j",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_81/pkt_2",
+       "text": "przez wszystkich innych płatników, najpóźniej do dnia 15 maja roku, bezpośrednio następującego po roku podatkowym. Wniesienie odwołania nie wstrzymuje obowiązku uiszczenia podatku w przepisanym terminie. Spóźnione odwołania komisja szacunkowa, względnie władza skarbowa (art. 82) pozostawia bez rozpatrzenia, o ile nie uzna, że zaszła ważna a nieuchronna przyczyna opóźnienia.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Art, 86."
+        },
+        {
+         "type": "text",
+         "text": "Prawo wniesienia odwołania nie przysługuje temu płatnikowi, który bez udowodnienia ważnej a nieuchronnej przyczyny, wbrew przepisom art. art. 52, 54 i 55 bądź wcale nie złożył zeznania o obrocie, bądź złożył je po terminie. zaistnieniu ważnej a nieuchronnej przyczyny rozstrzyga władza, powołana do rozstrzygnięcia odwołania. a > - Odwołanie takiego płatnika nie podlega rozpoznaniu, o czem należy go zawiadomić."
+        },
+        {
+         "type": "text",
+         "text": "Art. 87:"
+        },
+        {
+         "type": "text",
+         "text": "\"Przewodniczącemu komisji szacunkowej służy prawo zgłoszenia sprzeciwu przeciw uchwałom komisji szacunkowej w terminie 7-dniowym od dnia następnego po powzięciu uchwały, Odpis sprzeciwu należy równocześnie przesłać płatnikowi, któremu przysługuje prawo do wniesienia odpowiedzi w terminie do dni 7, licząc od dnia następnego po doręczeniu odpisu. Sprzeciw przewodniczącego winien być przesłany komisji odwoiawezej w ciągu dni 14 od dnia doręczenia odpisu wraz z ewentualną odpowiedzią płatnika. Wniesienie sprzeciwu nie wstrzymuje wykonania uchwał komisji szacunkowej."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "88",
+     "path": "art_88",
+     "text": "Przewodniczący komisji szacunkowej, względnie władza skarbowa (art. 54 i 82), bada konkretne zarzuty odwołania, przeprowadza w razie potrzeby uzupełniające dochodzenia i akta sprawy z wnioskiem komisji szacunkowej, względnie z własnym wnioskiem, przesyła komisji odwoławczej — najpóźniej w terminie 30-dniowym od dnia otrzymania odwołania.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "89",
+     "path": "art_89",
+     "text": "Komisja odwoławcza, względnie władza skarbowa, stanowiąca drugą instancję (art. 57, ust. 2), jest właściwa do rozstrzygania w drugiej i ostatniej instancji odwołań i sprzeciwów. Przy rozpatrywaniu odwołań i sprzeciwów, komisja odwoławcza 1 jej przewodniczący korzystają z tych samych praw, jakie służą komisji szacunkowej i jej przewodniczącemu. Księgi handlowe i inne zapiski, dotyczące obrotu, mośą być jednak rozpatrywane w drugiej instancji tylko w tym wypadku, gdy płatnik powołał się na nie w zeznaniu o obrocie i oświadczył gotowosé przedstawienia ich (art, 53, p. 7). Komisja odwoławcza, względnie władza skarbowa (art. 57 ust. 2), winna jest cozstrzygnaé odwołanie najpóźniej w terminie 6-ciu miesięcy, od dnia odwołania. Jeżeli jednak przed urływem tego terminu zażądano od rłatnika dodatkowych wyjaśnień, termin ten przedłuża się o dalsze trzy miesiące.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 90."
+      },
+      {
+       "type": "text",
+       "text": "O ile płatnik, lub jego pełnomocnik wyraził w odwołaniu życzenie złożenia ustnych wyjaśnieńi, należy go zawiadomić o terminie wyznaczonym do rozpatrzenia odwołania, przynajmniej na 8 dni przed posiedzeniem komisji. SE"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "91",
+     "path": "art_91",
+     "text": "Przy rozstrzyganiu odwołań i sprzeciwów, iastancja odwoławcza nie jest związana ani uchwałą I instancji, ani wnioskiem przewodniczącego komisji szacunkowej (art. 88), i zależnie od stanu faktycznego i prawnego zatwierdza lub zmienia zaskarżoną uchwałę. Jeżeli jednak instancja odwotaweza, załatwiając jednostronne odwołanie płatnika, przyjdzie do przekonania, że podatek wymierzono w kwocie ża niskiej, to orzeka odrżucenie odwołania i żwrtaca sprawę I instancji celem uzupełnienia postępowania wymiarowego. Zapadłe decyzje instancji odwoławczej wraz z aktami spraw przesyła się przewodniczącemu komisji szacunkowej, względnie władzy skarbowej, celem zawiadomienia płatników i poczynienia ewentualnych zmian w księdze bierczej, Od decyzji instancji odwoławczej przysługuje tak płatnikom, jak i przewodniczącemu komisji odwoławczej prawo wniesienia skargi do Najwyższego Trybunału Administracyjnego w myśl ustawy z dnia 3 sierpnia 1922 r. (Dz. U. R. P. Nr. 67, poz. 600).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rozdział V,"
+      },
+      {
+       "type": "text",
+       "text": "Zaległości, zwroty i ulgi."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "92",
+     "path": "art_92",
+     "text": "Państwowy podatek przemysłowy korzysta z ustawowego pierwszeństwa zaspokojenia z całego majątku ruchomego, należącego do przedsiębiorstwa, obłożonego tym podatkiem.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "93",
+     "path": "art_93",
+     "text": "Nadmiernie lub niewłaściwie wpłacone kwoty podatku przemysłowego (art. 6) podlegają zwrotowi na podstawie zarządzeń izb skarbowych. Zwrot winien nastąpić najpóźniej w ciągu sześćdziesięciu dni od daty wniesienia podania. Izby skarbowe są również władne umarzać należności podatku przemysłowego z tytułu decyzji komisyj odwoławczych (art. 91), jako też ż tytułu bezwzględnej nieściągalności.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 94,"
+      },
+      {
+       "type": "text",
+       "text": "W gospodarczo uzasadnionych lub zasługujących na szczególne uwzględnienie wypadkach Ministrowi Skarbu przysługuje prawo całkowitego lub częściowego zwalniania od podatku, odraczania i rozkładania na raty, jako też częściowego lub całkowitego umarzania zaległych kwot podatku oraz kar pieniężnych, tudzież odsetek ża odroczenie i kar za zwłokę i kosztów egzekucyjnych, jak również darowania skutków niedotrzymania wszelkich przewidzianych w niaiejszej ustawie terminów. O ile chudzi © siosowanie powyższego przepisu do zarządzeń o charakterze ogólnym, zarządzenia te wydaje"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Minister Skarbu w porozumieniu z Ministrem Przemysłu i Handlu. i Ministrowi Skarbu służy prawo przeniesienia powyższych uprawnień na izby skarbowe. Ministrowi Skarbu w porozumieniu z Ministrem Przemysłu i Handlu, a odnośnie produktów wiejskich w porozumieniu z Ministrem Rolnictwa oraz Ministrem Przemysłu i Handlu w wypadkach stwierdzonej potrzeby gospodarczej służy prawo:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_93/pkt_1",
+       "text": "częściowego lub całkowitego zwalniania od podatku obrotów eksportowych, o ile nie są zwolnione od podatku na mocy art. 3 p. 15 ustawy, oraz wszelkiego rodzaju obrotów komisantéw z tranzakcyj- eksportowych w wypadkach, w których pobór tego podatku okazałby się przeszkodą dla rozwóju eksportu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_93/pkt_2",
+       "text": "udzielania eksporterom bonilikacji podatku uiszczonego od obrotów, pochodzących z dostaw części składowych oraz materjałów pomocniczyc i innych, użytych do wytworzenia wywiezionych zagranicę towarów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_93/pkt_3",
+       "text": "częściowego lub całkowitego zwalniania od podatku obrotów ze sprzedaży na rachunek osób, nieopłacających podatku przemysłowego (art. 5 p. 5);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_93/pkt_4",
+       "text": "częściowego lub całkowitego zwalniania od podatku od obrotu, przypadającego w myśl art. 5 p. 5 od prowizyj i innych wynagrodzeń, uzyskanych przez wspólne biura sprzedaży przedsiębiorstw przemysłowych; * 5) częściowego lub całkowitego zwalniania od podatku przemysłowego od obrotu tranzakcyj kupna-sprzedaży, a dokonywanych na towarowych giełdach krajowych, udowodnionych prawidłowemi księgami handlowemi i kartami umów giełdowych, spisanemi przez przysięgłych maklerów giełdowych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_93/pkt_6",
+       "text": "zwalniania przedsiębiorstw żeglugi od podatku przemysłowego od obrotu z tytułu przewozu towarów; - 1) częściowego lub całkowitego zwalniania od podatku obrotów firm krajowych, . osiągniętych z tranzakcyj, zawartych z firmami posiadającemi swą siedzibę na terenie W. M. Gdańska;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_93/pkt_8",
+       "text": "zwracania przy eksporcie podatku uiszczonego jednorazowo w formie scalonej.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art, 95 *)."
+        },
+        {
+         "type": "text",
+         "text": "Spółdzielnie, działające na zasadzie ustawy z dnia 29 października 1920 r. o spółdzielniach (Dz. U. R.P, Nr. 111, poz. 733), należące do związków rewizyjnych, w rozumieniu art. 68 i 70 tejże ustawy, korzystają z następujących ulg: - 1) jeżeli statutowo i faktycznie działają wśród swych członków, lub jeżeli rozszerzają wprawdzie działalność swoją i na osoby nie będące członkami, ale przelewają przypadające od nieczłonków nadpłaty i zwroty w całości do funduszów, nie podlegających według statutu podziałowi między członków:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_93/pkt_8/lit_a",
+         "text": "zwalnia się od podatku przemysłowego spółdzielnie mieszkaniowe dla budowy nowych domów oraz spółdzielcze instytucje drobneśo kredytu;",
+         "children": [
+          {
+           "type": "text",
+           "text": "*) w brzmieniu obowiązującem do dnia 31 grudnia 1933 r. włącznie,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_93/pkt_8/lit_b",
+         "text": "w spółdzielniach, prowadzących handel towarowy lub przedsiębiorstwa przemysłowe, za obrót przyjmuje się jedną czwartą część sum, określonych w art. 5, punktach t, 7",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "i 8. Warunek należenia do związku rewizyjnego nie dotyczy spółdzielni, zorganizowanych w myśl art. 70 wyżej powołanej ustawy o spółdzielniach, a posiadających przyznane im przez Radę spółdzielczą PRAWO rewizji;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_93/pkt_2",
+       "text": "w innych spółdzielniach za obrót przyjmuje się połowę sum, określonych w art. 5, punktach 1, 2,718;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_93/pkt_3",
+       "text": "upoważnia się Ministra Skarbu do zezwalania związkom rewizyjnym, wymienionym w art. 68 i 70 powołanej ustawy o spółdzielniach, na składanie deklaracji, zeznań o obrocie w imieniu spółdzie|- ni, do tych związków należącej, oraz na uiszczanie podatku przemysłowego, przypadającego od spółdzielni związkowych, Z ulg powyższych korzystają również spółdzielnie, wzsledem których nie upłynęły jeszcze terminy, przepisane dla uzgodnienia statutu z obowiązującą ustawą o spółdzielniach w myśl przepisów art. 117 tejże ustawy. Sklepy kółek rolniczych, należące do wymienionych wyżej związków rewizyjnych, a prowadzone we wsiach na własny rachunek i we własnym zarządzie tych kółek, korzystają z ulg, w myśl p. 1) lit. b) niniejszego artykułu, ' Do centralnej kasy spółek rolniczych (dekret Naczelnika Państwa z dnia 8 lutego 1919 r. Dz. P. P. P. Nr. 15, poz. 212/213) mają zastosowanie -ulgi, przewidziane w p. 2) niniejszego artykułu.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art, 95 \"')."
+        },
+        {
+         "type": "text",
+         "text": "Spółdzielnie, działające na podstawie ustawy z dnia 29 października 1920 r. o spółdzielniach (Dz. U. R.P. Nr. 111, poz. 733), a należące do związków rewizyjnych w rozumieniu art. 68 i 70 tejże ustawy, jeżeli statutowo i faktycznie działają wyłącznie wśród swych członków lub jeżeli rozszerzają wprawdzie działalność swą i na osoby, nie będące członkami, lecz przypadające na nieczłonków nadpłaty i zwroty przelewają w całości do funduszów, nie podlegających według ustawy o spółdzielniach lub statutu podziałowi między członkami, korzystają z ulg następujących: m:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_93/pkt_1",
+       "text": "zwalnia się od podatku przemysłowego spółdzielnie mieszkaniowe dla budowy nowych domów, spółdzielnie dla wykonywania robót wyłącznie siłami członków (spółdzielnie pracy), o ile narzędzia i maszyny nie są własnością spółdzielni, względnie jej członków, oraz spółdzielcze instytucje drobnego kredytu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_93/pkt_2",
+       "text": "w spółdzielniach kredytowych (art. 6 rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 marca 1928 r. o prawie bankowem; Dz. U. R. P. Nr. 34, róż. 321) zwalnia się od podatku przemysłowego od obrotu sumę pobranych i należnych procentów od wkładów członków i pożyczek, udzielo-",
+       "children": [
+        {
+         "type": "text",
+         "text": "\"\") w brzmieniu obowiązującem od dnia 1 stycznia 1934 r."
+        },
+        {
+         "type": "note",
+         "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "nych członkom, oraz od sum, Poówanycz w związkowych centralach finansowych; -"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_93/pkt_3",
+       "text": "w innych spółdzielniach zwalnia się od opodatkowania obrót w rozumieniu art. 5 niniejszej ustawy, dokonany z członkami lub przypadający na członków, o ile członkowie są dostawcami spółdzielni, sprzedających produkty gospodarstwa wiejskieśo, względnie przerabiających produkty hodowli.i len lub też przerabiających inne płody rolne, o ile sposób przeróbki nie ma charakteru fabrycznego lub o ile spółdzielnie te wykupują świadectwa przemysłowe VI, VII lub VIII kategorji dla przedsiębiorstw przemysłowych, , Obrót spółdzielni wojskowych, osiągnięty w-obrebie koszar, uważa się za obrót, dokonany z. członkami, Do Centralnej Kasy Spółek Rolniczych (dekrety z dnia 8 lutego 1919 r, Dz. P. P. P. Nr. 15, poz. 212 i 213) mają zastosowanie ulgi, przewidziane w p. 2 niniejszego artykułu, Warunek należenia do związku rewizyjnega nie dotyczy spółdzielni, zorganizowanych w myśl art. 70 wyżej powołanej ustawy o spółdzielniach, a posiadających przyznane im przez Radę Spółdzielczą prawo rewizji. Upoważnia się Ministra Skarbu do zezwalania związkom rewizyjnym, wymienionym w art. 68 i 70 ustawy o spółdzielniach, na składanie deklaracyj, zeznań o obrocie w imieniu spółdzielni do tych związków należących oraz na uiszczanie podatku przemysłowego, przypadająceśo od spółdzielni związkowych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Rozdział VI,"
+        },
+        {
+         "type": "text",
+         "text": "POSTANOWIENIA KARNE,"
+        },
+        {
+         "type": "text",
+         "text": "Przepisy materjalne,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "96",
+     "path": "art_96",
+     "text": "Kto osób delegowanych do lustracji przedsiębiorstw (art. 40) nie dopuści do wykonania czynności, z lustracją związanych (art. 42, 44 i 47), lub przeszkodzi wykonaniu tych czynności, będzie karany, o ile czyn tego rodzaju nie podlega karze surowszej w myśl istniejących przepisów, pozbawieniem wolności do trzech miesięcy, lub karą pieniężną do 1.000 złotych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "97",
+     "path": "art_97",
+     "text": "Kto osobom, dokonywającym lustracji (art. 40), nie okaże prowadzonych w przedsiębiorstwie ksiąg lub innych zapisków, wymienionych w art. 50, ulegnie karze pieniężnej od 50 do 500 złotych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "98",
+     "path": "art_98",
+     "text": "\"",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kto prowadzi przedsiębiorstwo lub wykonywa zajęcie, nie nabywszy- świadectwa przemysłowego, ulegnie karze pieniężnej od 3 — 20 krotnej kwoty, nie uiszczonej za świadectwo, Kto prowadzi przedsiębiorstwo lub wykonywa zajęcie, nie nabywszy należytego świadectwa przeimystowego, względnie utrzymuje skład bez karty"
+      },
+      {
+       "type": "text",
+       "text": "267"
+      },
+      {
+       "type": "text",
+       "text": "rejestracyjnej, ulegnie karze «pieniężnej do wysokości 3-krotnej kwoty, stanowiącej: różnicę . między ceną właściwego a posiadanego. świadectwa . przemysłoweśo, względnie stanowiącej należną OBR za kartę rejestracyjną, Kara nie zwalnia od obowiązku nabycia wie Sciwego świadectwa przemysłowego, wzślędnie karty rejestracyjnej. Art, 99,"
+      },
+      {
+       "type": "text",
+       "text": "Kto nie umieści w przedsiębiorstwie lub składzie na miejscu widocznem (art. 38), świadectwa. przemysłowego, względnie karty rejestracyjnej, -alo nie okaże osobom, dokonywającym lustracji, świadectwa przemysłowego na handel wędrowny (obnośny, rozwoźny) — ulegnie karze pieniężnej od 5 do 100-złotych."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "100",
+     "path": "art_100",
+     "text": "Kto nie zaopatrzy zakładu handlowego lub przemysłowego oraz oddzielnego składu w sz Id (art. 43), ulegnie karze pięaiężaj od 5 do 100 z tych. i Art. 101.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kto nie przedstawi świadectwa przemysłowego, względnie karty rejestracyjnej, celem uzyskania adnotacji, przewidzianej w art. 36, ulegnie karze pieniężnej od 5 do 100 złotych. W razie zmiany w osobie przedsiębiorcy. karze tej podlega zarówno poprzedni, jak i nowy właściciel przedsiębiorstwa."
+      },
+      {
+       "type": "text",
+       "text": "Art. 102,"
+      },
+      {
+       "type": "text",
+       "text": "Kto w razie zagubienia świadectwa przemysłowego nie złoży w ciągu dwóch tygodni, licząc od dnia stwierdzenia faktu zagubienia świadectwa, prośby o wydanie duplikatu (art. 39), uleśnie karze pieniężnej od 5 do 50 złotych."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "103",
+     "path": "art_103",
+     "text": "Kto nie złoży zeznania o obrocie (art. 52, 53 i 54) w terminie, oznaczonym w art. 55, lub kto wbrew postanowieniom art. 53 przedstawi w zeznaniu o obrocie niezupełne dane, ulegnie karze pieniężnej od 50 do 500 złotych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "104",
+     "path": "art_104",
+     "text": "Kto mimo wezwania władzy podatkowej (art. 75, p. 1) w wyznaczonym przez nią terminie nie udzieli wyjaśnień co do obrotu, albo nie przedstawi prowadzonych ksiąg handlowych lub uwierzytelnionych z nich wyciągów, uleśnie karze pieniężnej od 10 do 500 złotych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "105",
+     "path": "art_105",
+     "text": "Kto w celu uchylenia od ustawowej powinności podatkowej siebie lub osoby, przez siebie zastępowanej, świadomie poda w zeznaniu o obrocie (art. 52 i 53), względnie w wyjaśnieniu, złożonem w myśl przepisów art. 75 p. 1, nieprawdziwe wia-. domości, które mogą się przyczynić do udaremnienia wymiaru, albo do uszczuplenia ustawowo na-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "PMR"
+      },
+      {
+       "type": "text",
+       "text": "leżącego się podatku, niezależnie od obowiązku uiszczenia należności podatkowej, ulegnie karze pieniężnej od dwukrotnej do dwudziestokrotnej sumy uszczuplonego, względnie narażonego na zmniejszenie lub uszczuplenie podatku, a w razie okol czności obciążających — nadto karze pozbawienia wolności do trzech miesięcy."
+      },
+      {
+       "type": "text",
+       "text": "Art. 106,"
+      },
+      {
+       "type": "text",
+       "text": "Kto w celu uszczuplenia dochodu skarbowego prowadzi nierzetelnie księgi handlowe, uleśnie karze pieniężnej od dwukrotnej do dwudziestokrotnej sumy uszczuplonego, względnie narażonego na uszczuplenie lub zmniejszenie podatku, ponadto w razie okoliczności obciążających — karze pozbawienia wolności do 6 miesięcy. Tej samej karze ulegają osoby, które świadomie z polecenia innych lub dla innych prowadzą nierzetelnie rachunkowość, o której mowa w ustępie 1 niniejszego artykułu."
+      },
+      {
+       "type": "text",
+       "text": "Art. 107,"
+      },
+      {
+       "type": "text",
+       "text": "Winni uszczuplenia należności z tytułu podatku, o którym mowa w art, 76 ust. 7 oraz w art. 125 niniejszej ustawy, o ile podatki te będą pobierane na granicy, względnie przez władze ce'ne, ulegają karze pieniężnej w wysokości pięciokrotnej uszczuplonej, względnie narażonej na uszczuplenie należności podatkowej. Pozatem mają w tym wypadku zastosowanie postanowienia ustawy karnej skarbowej z dnia 2 sierpnia 1926 r. (Dz. U, R. P. Nr. 105, poz. 609), przewidziane dla przestępstw, polegających na naruszeniu przepisów w przedmiotach, wymienionych w art. 1 p. 1 i 15 ustawy karnej skarbowej oraz w postanowieniach części drugiej tejże ustawy."
+      },
+      {
+       "type": "text",
+       "text": "Art 108,"
+      },
+      {
+       "type": "text",
+       "text": "Członkowie komisji do spraw podatku przemy* słowego, ich zastępcy, jako też rzeczoznawcy, powoływani na posiedzenia komisji (art. 76) winni ujawnienia wiadomości, o których mowa w art. 69, u leśną karze pieniężnej do 1.000 złotych, o ile w myśl istniejących przepisów nie podlegają surowszym postanowieniom karnym. Jeżeli wykroczenia dokonano w celu zaszkodzenia kredytowi, lub czci osoby, której dotyczy wiadomość ujawniona, winny ulegnie nadto karze pozbawienia wolności na czas do 6 miesięcy."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "109",
+     "path": "art_109",
+     "text": "— Winni kilku wykroczeń przeciwko przepisom niniejszej ustawy, podlegają karze pieniężnej za każde z tych wykroczeń z osobna; co do kary pozbawienia wolności należy stosować odnośne przepisy ustaw karnych powszechnych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przepisy formalne,"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "110",
+     "path": "art_110",
+     "text": "Wszcżynanie spraw o przekroczenia przepisów niniejszej ustawy należy bez naruszenia kompetencji innych właściwych organów do tej władzy podatkowej, względnie do tej komisji do spraw podatku przemysłowego, która ujawniła odnośne przekroczenia,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 17."
+      },
+      {
+       "type": "text",
+       "text": "Art, 111."
+      },
+      {
+       "type": "text",
+       "text": "Orzecznictwo co do naruszeń niniejszej ustawy, zagrożonych karą pieniężną z mocy art. 97 do 102, należy do naczelników władz podatkowych I instancji (art. 40), a co do naruszeń, zagrożonych karą pieniężną z mocy art. 103 i 104, do komisyj szacunkowych, względnie do władz skarbowych (art, 57). Orzecznictwo w sprawach o przestępstwa, zagrożone choćby obok innej kary karą pozbawienia wolności (art. 96, 105, 106 i 108), należy do powszechnych sądów karnych (grodzkich),"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "112",
+     "path": "art_112",
+     "text": "Wydanie orzeczeń, skazujących na karę pieniężną z art. 97 do 102, powinno poprzedzać protokólarne stwierdzenie istoty karygodnego czynu (art, 51),",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "113",
+     "path": "art_113",
+     "text": "Władza podatkowa I instancji po sporządzeniu protokółu, stwierdzającego przekroczenie, zagrożone karą pieniężną z art. 98, zarządza zamknięcie zakładu handlowego, wzślędnie przemysłowego, prowadzonego bez świadectwa, o ile w ciągu dni 30 po sporządzeniu protokółu świadectwo nie zostanie nabyte; zarządzenie to traci moc z chwilą wykupu właściwego świadectwa przemysłowego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 114,"
+      },
+      {
+       "type": "text",
+       "text": "O orzeczeniach karnych (art, 111 ust. 1) władza orzekająca zawiadamia obwinionego pisemnie, Obwinionemu przysługuje prawo wniesienia na ręce władzy, która orzeczenie wydała, odwołania w terminie 14-dniowym, licząc od dnia następnego po doręczeniu mu zawiadomienia, do władzy administracyjno-skarbowej drugiej instancji, albo też żądania rozpatrzenia sprawy przez sąd. W pierwszym wypadku rozstrzygnięcie należy:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_113/lit_a",
+       "text": "do właściwej izby skarbowej, o ile chodzi o orzeczenie, wydane na podstawie art. 97 i 99 do 102;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_113/lit_b",
+       "text": "do komisji odwoławczej, względnie władzy skarbowej, o ile chodzi o orzeczenie, wydane na podstawie art. 98, 103 i 104, Obwiniony, który wybierze drogę odwołania do władz skarbowych, traci drogę odwołania do sądu. Odwołania do władz skarbowych i do sądu nie wstrzymują wykonania kary, z wyjątkiem pozbawienia wolności, oraz z wyjątkiem kary pieniężnej, przewidzianej w art, 98. Ta ostatnia kara jest ściągalna po wydaniu orzeczenia przez władzę skarbową II. instancji lub, o ile płatnik odwoła się do sądu, po zapadnięciu wyroku sądu I instancji. Orzeczenia władz -administracyjno-skarbowych II instancji są ostateczne,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art 115."
+        },
+        {
+         "type": "text",
+         "text": "Przez karę pozbawienia wolności, o której mowa w art. 96, 105, 106 i 108, rozumieć należy areszt (art. 21 ros. k. k, z roku 1903, § 18 niem. u. k. z r. 1871,"
+        },
+        {
+         "type": "text",
+         "text": "§ 244 austr. u. k. z r. 1852), o ile orzeczono karę, nieprzenoszącą sześciu tygodni pozbawienia wolności, zresztą zaś na obszarze mocy obowiązującej ros, k: k. zr. 1903 i niem. u. k. z r. 1871 więzienie (art. 3, ustęp 3 przep. przech, do ros, kod, kar. z 7 sierpnia"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "1917 r. i § 16 niem. u. k, z r. 1871), na obszarze zaś mocy obowiązującej austr. u. k, z r. 1852 — ścisły areszt (§ 245 austr, u, k, z r. 1852). Na obszarze mocy obowiązującej austr. u. k. można zawsze wnieść odwołania z powodu orzeczenia o karze, Art 116,"
+        },
+        {
+         "type": "text",
+         "text": "Kary pieniężne, orzeczone przez sądy, w razie niemożności ich ściągnięcia, ulegają zamianie na kary pozbawienia wolności, stosownie do ogólnych przepisów dzielnicowych ustaw karnych, jednak nie wyżej sześciu miesięcy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "117",
+     "path": "art_117",
+     "text": "Przestępstwa, wymieuione w art. 96, 97, 99 do 106 i 108, ulegają przedawnieniu ścigania po upływie trzech lat, przestepsiwa zaś, przewidziane w art. 98, po upływie lat pięciu, licząc od dnia popełnienia czynu przestępnego. Przedawnienie wyrokowania i wykonania wyro..u następuje po upływie terminów trzykrotnie wyższych, Karygodność czynu, wymienionego w art. 105, śaśnie, gdy winny sprostuje lub uzupełni swe zeznanie lub wyjaśnienie wobec właściwej władzy skarbowej, zanim władza skarbowa otrzyma wiadomość o przestępstwie,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 118,"
+      },
+      {
+       "type": "text",
+       "text": "Kary pieniężne, nałożone za przekroczenia postanowień niniejszej ustawy w drodze administracyjno-skarbowej, winny być uiszczone w terminie 3-ch tygodniowym, licząc od dnia następnego, po doręczeniu orzeczenia karnego (art, 114). Kary, niewpłacone w terminie, wskazanym w ust. £ niniejszego artykułu, uważa się za zaległość."
+      },
+      {
+       "type": "text",
+       "text": "Art 119."
+      },
+      {
+       "type": "text",
+       "text": "Kary pieniężne, nałożone za naruszenie przepisów niniejszej ustawy, wpływają na rzecz Skarbu i mogą być zabezpieczone na majątku obwinionego przez władze podatkowe nawet przed wydaniem orzeczenia karnego. Za kary pieniężne, nałożone na pełnomocnika płatnika, odpowiada płatnik posiłkowo, Środki odwoławcze przysługują płatnikowi narówni z obwinionym."
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VIL",
+     "text": "Opodatkowanie handlu i przemysłu na rzecz związków samorządowych i innych korporacyj,"
+    },
+    {
+     "type": "text",
+     "text": "Art. 120,"
+    },
+    {
+     "type": "text",
+     "text": "Związkom komunalnym przysługuje prawo opodatkowania na potrzeby samorządu przedmiotów, podlegających państwowemu podatkowi przemysłowemu, tylko w postaci dodatku do tego podatku:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "o ile chodzi o przedsiębiorstwa i zajęcia, podlegające państwowemu podatkowi od obrotu, — do wysokości jednej czwartej części tego podatku;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "nadto od wszystkich przedsiębiorstw i zajęć — do wysokości 30% każdocześnie przez Państwo pobieranej ceny świadectw przemysłowych i kart rejestracyjnych,",
+     "children": [
+      {
+       "type": "text",
+       "text": "269"
+      },
+      {
+       "type": "text",
+       "text": "Art, 121."
+      },
+      {
+       "type": "text",
+       "text": "Na rzecz izb handlowych i przemysłowych, izb rzemieślniczych, związków stowarzyszeń przemysłowych i rękodzielniczych, spełniających funkcje izb handlowo-przemysłowych lub rękodzielniczych, wreszcie szkół zawodowych, mających prawo publiczności, a utrzymywanych tak przez publiczne, jak i przez inne związki i stowarzyszenia kupców, przemysłowców i rzemieślników, oraz przez nieobliczone na zysk stowarzyszenia, instytucje i fundacje, utworzone specjalnie dla utrzymywania uczelni zawodowych, wreszcie na rzecz burs terminatorskich, patronatów dla młodzieży rękodzielniczej i przemysłowej, oraz zawodowych kursów przemysłowych dokształcających ma być opodatkowany handel i przemysł oraz zajęcia przemysłowe:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "na rzecz izb handlowych i przemysłowych, izb rzemieślniczych i instytucyj zastępczych — do wysokości, nieprzekraczającej 15% ceny świadectw przemysłowych i kart rejestracyjnych, nabywanych w okręgu izby lub instytucji zastępczej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "na rzecz szkół zawodowych — do wysokości, nieprzekraczającej 25% tychże świadectw i kart. W granicach wyżej zakreślonych niezbędną wysokość obciążenia na rzecz izb handlowych, tudzież izb rzemieślniczych określa corocznie Minister Przemysłu i Handlu na podstawie budżetów tych izb, wysokość zaś obciążenia na rzecz szkół zawodowyca i innych instytucyj, wymienionych w ust. 1 niniejszego artykułu, oraz podział tych sum ustala corocznie na podstawie budżetu tychże szkół i instytucyj Minister Skarbu w porozumieniu z Ministrami: Wyznań Religijnych i Oświecenia Publicznego i Przemysłu i Handlu, którzy swe uprawnienia pod tym względem mogą przelać na prezesów izb skarbowych, względnie kuratorów okręgów szkolnych. Podział winien być w ten sposób dokonany, by wpływy, zebrane w okręgu danej izby skarbowej, były w tymże okręgu użyte, z potrąceniem jednak 20% tych sum na pokrycie potrzeb wyższych uczelni zawodowych o charakterze społecznym, oraz 30%, które Minister Wyznań Religijnych i Oświecenia Publicznego rozdziela wedle swego uznania pomiędzy szkoły zawodowe o charakterze społecznym.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VIII",
+     "text": "Przepisy końcowe."
+    },
+    {
+     "type": "text",
+     "text": "Art. 122,"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu może uwolnić od podatku przemysłowego te przedsiębiorstwa, których bezpośrednie zadanie stanowi popieranie celów publicznych, dobroczynnych lub ogólnie użytecznych, jeżeli obrót tych przedsiębiorstw jest stosunkowo nieznaczny."
+    },
+    {
+     "type": "art",
+     "num": "123",
+     "path": "art_123",
+     "text": "Upoważnia się Ministra Skarbu do odraczania wszystkich terminów, wyznaczonych w niniejszej ustawie. Art 124,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Dla uniknięcia podwójnych opodatkowań, względnie uzyskania traktowania, odpowiadającego"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "zasadom wzajemności, jako też celem przeprowadzenia zarządzeń odwetowych, Prezydent Rzeczypospolitej jest władny, na przedstawiony mu przez Radę Ministrów wniosek Ministra Skarbu, zawierać umowy, oparte na zasadach odmiennych od postanowień niniejszej ustawy, oraz wydawać w tym przedmiocie zarządzenia odwetowe."
+      },
+      {
+       "type": "text",
+       "text": "Art 125."
+      },
+      {
+       "type": "text",
+       "text": "Od fabrykatów i półfabrykatów, wyprodukowanych przez przedsiębiorstwa, nieopłacające podatku przemysłowego w myśl niniejszej ustawy, a przeznaczonych do dalszej sprzedaży, przeróbki lub użytku własnego na obszarze obowiązywania tejże ustawy, z wyjątkiem artykułów, w kraju niewyrabianych, będzie pobierany jednorazowo podatek wyrównawczy. Do podatku tego nie mogą być pobierane żadne dodatkowe opłaty lub obciążenia na rzecz Państwa i związków publiczno-prawnych. Do uiszczenia powyższego podatku obowiązany jest odbiorca towaru lub jego nabywca bez względu na to, czy podlega podatkowi przemysłowemu w myśl niniejszej ustawy, Towary, wyprodukowane przez krajowe gospodarstwa i przedsiębiorstwa, wymienione w art 2 i 3 niniejszej ustawy, wolne są od podatku, określonego w ustępie pierwszym niniejszego artykułu. Podatek będzie obliczany od zryczałtowanej wartości fabrykatów i półfabrykatów, ustalonej z przeliczeniem na wagę lub od sztuki. Rozporządzenia Ministra Skarbu, wydane w porozumieniu z Ministrem Przemysłu i Handlu po wysłuchaniu opinji izb przemysłowo-handlowych, ustalą:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_123/lit_a",
+       "text": "listy fabrykatów i półfabrykatów, które podlegać będą podatkowi wyrównawczemu, przyczem listy te nie mogą być zmieniane częściej aniżeli po 6 miesiącach i winny być ogłaszane co najmniej na trzy miesiące przed wejściem ich w życie;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_123/lit_b",
+       "text": "wysokość należności z tytułu podatku wyréwmawczego od poszczególnych towarów, umieszczonych na liście, obliczoną od zryczałtowanej wartości tych towarów z przeliczeniem na jednostkę wagi lub od sztuki i z uwzględnieniem w ustaleniu wysokości podatku ilości faz obrotu, przez jakieby dany towar oraz jego części składowe przeszły, gdyby towar był wyprodukowany przez przedsiębiorstwa, opłacające podatek przemysłowy w myś! niniejszej ustawy;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_123/lit_c",
+       "text": "przepisy wymiarowe, poborowe, terminy płatności podatku oraz władze, powołane do wymiaru i poboru podatku;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_123/lit_d",
+       "text": "odpowiedzialność za podatek;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_123/lit_e",
+       "text": "sposób zwrotu podatku w eksporcie i w reeksporcie. Pobór podatku wyrównawczego od poszczególnych towarów wchodzi w życie równocześnie z wprowadzeniem od tychże towarów, wyprodukowanych na obszarze obowiązywania niniejszej ustawy, scalonego podatku przemysłowego od obrotu, który będzie pobierany jednorazowo za wszystkie późniejsze fazy obrotów, Towary, od których opłacony zostanie podatek wyrównawczy lub scałony podatek obrotowy, wolne będą od podatku przemysłowego od obrotu,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art, 126."
+        },
+        {
+         "type": "text",
+         "text": "Moc obowiązująca ustawy niniejszej rozciąga się na cały obszar Rzeczypospolitej, nie wyłączając województwa śląskiego."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "127",
+     "path": "art_127",
+     "text": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Załącznik do Art, 23."
+      },
+      {
+       "type": "text",
+       "text": "TARYFA"
+      },
+      {
+       "type": "text",
+       "text": "zawierająca podział miejscowości na klasy, a przedsiębiorstw i zajęć na kategorje, tudzież ceny Świadectw przemysłowych,"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Część L",
+     "text": "Podział miejscowości na klasy,"
+    },
+    {
+     "type": "text",
+     "text": "A, M, st, Warszawa, B. Klasa I: Miasta: Bydgoszcz, Katowice, Kraków, Królewska Huta, Lublin, Lwów, Łódź, Poznań, Sosnowiec, C. Klasa II: Miasta: Biała (woj. krakowskie), Białystok, Bielsk, Borysław, Chrzanów, Czechowice, Częstochowa, Drohobycz, Dziedzice, Gniezno, Grodno, Grudziądz, Inowrocław, Jarosław, Jasło, Kalisz, Kamienica, Kielce, Kołomyja, Krosno, Lipnik, Mysłowice, Nowy Sącz, Pabjanice, Piotrków, Przemyśl, Pszczyna, Radom, Równo, Rzeszów, Siedlce, Stanisławów z Knihininem wsią i Knihininem kolonja, Stryj, Tarnów, Tarnopol, Tarnowskie Góry, Tomaszów (woj. łódzkie), Toruń, Wilno, Włocławek, Zgierz. Powiaty: będziński z wyjątkiem śmin Łosień, Ożarowice i Wojkowice-Kościelne, drohobycki, katowicki, z wyłączeniem śmin: Kończyc, Makoszowych i Pawłowa, lwowski, świętochłowicki (woj. śląskie), gminy miejskie pow. poznańskieśo z wyjątkiem Staszewa, Pobiedzisk oraz Swarzędza i warszawski, - Gminy i obszary dworskie: Pszczyński Zamek, Radzionków, D. Klasa III. Na obszarze Izb Skarbowych: Białostockiej: Miasta i miasteczka: Augustéw, Łomża, Ostrów, Suwałki, Wołkowysk. Powiat białostocki. Brzeskiej: Miasta i miasteczka; Brześć, Kobryń, Łuniniec, Pińsk, Prużany. Kieleckiej: Miasta i miasteczka: Busk, Końskie, Miechów, Opatów, Opoczno, Ostrowiec, Sandomierz, Szydłowiec. Powiaty: częstochowski z wyłączeniem osady Przyrów oraz gminy Złoty Potok, olkuski z wyłączeniem osady i śminy Żarnowiec, radomski oraz gminy Łosień, Ożarowice i Wojkowice-Kościelne pow. będzińskiego, Krakowskiej: Miasta i miasteczka: Andrychów, Bochnia, Dębica, Gorlice, Kęty, Limanowa, Mielec, Myślenice, Nowy Targ, Oświęcim, Poronin, Rabka, Ropczyce, Szczawnica Wyżna, Szczawnica Niżna (pow. nowotarski), Wadowice, Wieliczka, Wilamowice, Zakopane, Żywiec z Zablociem,"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Powiaty: chrzanowski, gorlicki, krakowski, nowosądecki, oraz gminy: Helenów, Komorowice, Mikuszowice, powiatu bialskiego. Lubelskiej: Miasta i miasteczka: Biała Podlaska, Chełm, Hrubieszów, Krasnystaw, Lubartów, Łuków, Międzyrzec, Puławy, Radzyń, Sokołów, Tomaszów, Węgrów, Włodawa, Zamość,"
+    },
+    {
+     "type": "text",
+     "text": "-_ Powiat lubelski. - Lwowskiej I: Miasta: Gródek Jagielloński, Jaryczów Nowy, Jaworów, Łańcut, Mościska, Przeworsk, Rawa Ruska, Rymanów, Sambor, Sanok, Sokal, Żółkiew. Powiaty: krośnieński z wyłączeniem miasteczka Dukli i rzeszowski z wyłączeniem Błażowej. Lwowskiej II: Miasta: Borszczów, Brody, Brzeżany, Buczacz, Czortków, Dolina, Kałusz, Kamionka Strumiłowa, Podhajce, Przemyślany, Rohatyn, Śniatyn, Trembowla, Zaleszczyki, Złoczów. Łódzkiej: Miasta: Koło, Konin, Łęczyca, Ozorków, Radomsko, Turek, Wieluń, Zduńska Wola,"
+    },
+    {
+     "type": "text",
+     "text": "Powiaty: brzeziński, kaliski, łódzki. Łuckiej: Miasta: Dubno, Kowel, Krzemieniec, Luck, Ostróg, Sarny, Włodzimierz Wołyński, Zdotbunowo. : Nowośródzkiej: Miasta i miasteczka: Baranowicze, Lida, Nieśwież, Nowogródek, Słonim, Stołpce. Pomorskiej: Miasta: Brodnica, Chełmno, Chojnice, Działdowo, Gdynia, Gniew, Kartuzy, Kościerzyna, Sempolno, Starogard, Świecie, Tczew, Tuchola, Wąbrzeźno, Wejherowo. Poznańskiej: Miasta: Chodzież, Czarnków, Go- ° słyń, Grodzisk, Jarocin, Kępno, Koźmin, Kościan, Krotoszyn, Leszno, Międzychód, Mogilno, Nakło, Nowotomyśl, Oborniki, Odolanów, Ostrów, Ostrzeszów, Pleszew, Pobiedzisk, Rawicz, Śmigiel, Śrem, Środa, Stęszew, Strzelno, Swarzędz, Szamotuły, Szubin, Węgrowiec, Wolsztyn, Września, Wyżysk, Zbąszyń, Żnin. Powiat bydgoski i śminy wiejskie pow. poznańskiego. Warszawskiej Okręgowej: Miasta: Ciechanów, Ciechocinek, Góra Kalwarja, Grójec, Kałuszyn, Łowicz, Mława, Mińsk Mazowiecki, Płock, Płońsk, Pułtusk, Rawa, Radzymin, Sierpc, Skierniewice. Powiaty: błoński, kutnowski, włocławski. Wileńskiej: Miasta i miasteczka: Głębokie, Nowo-Wilejka, Oszmiana, Święciany, Troki, Na obszarze województwa śląskiego: Miasta: Aleksandrowicze, Bobrek, Cieszyn, Chybi, Goleszów, Jasienica, Jaworze, Komorowice, Lubliniec, Mikołów, Mikuszowice, Olszówka Dolna, Skoczów, Stare Bielsko, Ustroń, Wapienica, Wodzisław, Żory. Gminy i obszary dworskie: Kończyce, Ligota Pszczyńska, Łaziska Górne, Łaziska Średnie, Makoszowy, Murcki, Pawłów, Tychy. Powiaty: rybnicki, tarnogórski, z wyłączeniem Tarnowskich Gór i Radzionkowa."
+    },
+    {
+     "type": "text",
+     "text": "E. Klasa IV. Wszystkie inne miejscowości i powiaty."
+    },
+    {
+     "type": "text",
+     "text": "Uwaga: Miasta i miasteczka, niewymienione osobno w powyższej klasyfikacji, zalicza się do tej samej klasy, do której zaliczono odnośny powiat,"
+    },
+    {
+     "type": "heading",
+     "label": "Część IL",
+     "text": "PODZIAŁ PRZEDSIĘBIORSTW NA KATEGORJE."
+    },
+    {
+     "type": "text",
+     "text": "A. _ Przedsiębiorstwa handlowe."
+    },
+    {
+     "type": "text",
+     "text": "I, Prowadzące handel towarowy (art. 5, p. 1)."
+    },
+    {
+     "type": "text",
+     "text": "Kategorja pierwsza."
+    },
+    {
+     "type": "text",
+     "text": "Handel hurtowy czyli zbyt wszelkiego rodzaju towarów przeważnie w większych ilościach (partjami), głównie kupcom i przemysłowcom."
+    },
+    {
+     "type": "text",
+     "text": "Kategorja druga."
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Handel detaliczny, czyli sprzedaż wszelkieśo rodzaju towarów w mniejszych ilościach, zarówno drobnym kupcom, jak i spożywcom, .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Drobna sprzedaż (p. kategorja III) nawet wyłącznie spożywcom towarów, posiadających cechy produkcji wytworniejszej, jak to:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_2/lit_a",
+       "text": "kamieni szlachetnych, pereł i korali prawdziwych, przedmiotów, wyrobionych w całości, lub w części ze złota lub platyny, oraz wyrobów srebrnych z wyjątkiem drobnej biżuterji, oraz z wyjątkiem zegarków kieszonkowych w oprawie srebrnej;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "wyrobów z kości słoniowej, bursztynu, masy perłowej i szyldkretu oraz artykułów toaletowych i galanteryjnych, których przeważną część składową stanowią: masa perłowa, szyldkret, kość słoniowa, emalja i kamienie półszlachetne, jako też pozłacane lub posrebrzane metale i stopy;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_2/lit_c",
+       "text": "bronzów, majolik i platerowanych zastaw stołowych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "pkt_2/lit_d",
+       "text": "wyrobu z kryształu i porcelany;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_2/lit_e",
+       "text": "antyków z wyjątkiem książek;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "t",
+       "path": "pkt_2/lit_t",
+       "text": "mebli wyściełanych, rzeźbionych, polilurowanych i woskowanych, oraz wytwornych mebli i trumien metalowych, pianin i fortepianów, dywanów, kobierców i gobelinéw, portjer i tkanin meblowych; ś) ekwipaży, rowerów, motocykli i samochodów:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "pkt_2/lit_h",
+       "text": "skór meblowych i galanteryjnych, skórzanych przyborów podróżnych, wyrobów siodlarskich i rymarskich, z wyjątkiem zwykłej uprzęży dla sprzężaju roboczego; ubrań skórzanych, futer i ubiorów futrzanych, z wyjątkiem zwykłych skór, kożuchów i czapek baranich, wykwintnego obuwia gemzowego, zamszowego, lakierowanego, oraz wykwintneśo obuwia z tkanin;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "pkt_2/lit_i",
+       "text": "zagranicznych i krajowych towarów włóknistych, prócz krajowych towarów bawełnianych i półwełnianych oraz prócz samodziałów i innych materjałów, używanych na ubiory ludowe;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "pkt_2/lit_j",
+       "text": "ubiorów gotowych, prócz ludowych i robotniczych, używanych do pracy codziennej, bielizny jedwalnej i webowej oraz strojnej z cienkich materjałów, kapeluszy zagranicznych i strojnych kapeluszy damskich, parasoli i parasolek, krytych tkaniną jedwaąbną lub półjedwabną, tiulu jedwabnego, tkanin haftowanych i wyrobów dzianych jedwabnych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "pkt_2/lit_k",
+       "text": "win winośronowych, koniaków, wódek, likierów, kawioru, ostryg, homarów, pasztetów, łososi, turbot, jesiotrów, sielaw i t p. wyszukanych towarów gastronomicznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Handel specjalny, nawet drobny, nastepujacemi towarami:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_3/lit_a",
+       "text": "pachnidłami i kosmetyka;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "dziełami sztuk plastycznych;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 21 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "ste nts mms ml sa. mt fl"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_3/lit_c",
+       "text": "bronią; _ . d) aparatami fotogralicznemi, przyborami optycznemi, chirurgicznemi, fizycznemi i t. p. armaturą elektryczną, przyborami do wodociągów i łazienek, kasami ogniotrwałemi, lustrami, wyrobami gumowemi i gutaperkowemi:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "pkt_3/lit_e",
+       "text": "kawą i herbatą;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "pkt_3/lit_f",
+       "text": "materjałami aptecznemi w stolicy oraz w miejscowościach pierwszej i druśiej klasy; ś) lakierami i farbami olejnemi;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "pkt_3/lit_h",
+       "text": "obiciami papierowemi;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "pkt_3/lit_i",
+       "text": "lampami;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "pkt_3/lit_j",
+       "text": "przędzą i koronkami;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "pkt_3/lit_k",
+       "text": "wszelkiego rodzaju silnikami 1 maszynami, w tej liczbie maszynami do szycia, do pisania, do rachowania oraz ich częściami składowemi",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Sprzedaż mięsa, połączona z wyrębem, odpowiadająca cechom, określonym w p. 1. Uwaga: Zakłady, prowadzące handel towarowy na podstawie świadectw przemysłowych II kategorji, mogą utrzymywać nieośraniczoną ilość oddzielnych składów (art. 22) tylko w obrębie tej miejscowości, w której zakład się znajduje.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kategorja trzecia,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Drobna sprzedaż, czyli sprzedaż wszelkich towarów, z wyjątkiem wymienionych w punkcie 2 kategorji drugiej, wyłącznie spożywcom z zakładów, składających się z jednego pokoju. Zakłady, prowadzące handel towarowy na podstawie świadectw przemysłowych trzeciej kategoriji, ° mogq zatrudniać prócz właściciela lub zastępującego go dorosłego członka jego rodziny, najwyżej jedneśo dorosłego najemnego subjekta tpm a i utrzymywać nie więcej niż dwa oddzielne składy (art. 22) przy zakładzie handlowym.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Zakłady handlu towarowego, należące do spółdzielni, bez względu na rodzaj prowadzonego handlu.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Sprzedaż mięsa, potnczona z wyrębem, odpowiadająca warunkom, określonym w p. 1.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kategorja czwarta. Drobna sprzedaż towarów, z wyjątkiem wymienionych w punkcie 2 kategorji drugiej, wyłącznie spożywcom, dokonywana z niewielkich pomieszczeń, nie posiadających ani wyglądu, ani charakteru pokoju oraz sprzedaż mięsa połączona z wyrębem, odpowiadająca powyższym warunkom. ~~ Zakłady, prowadzące handel towarowy na podstawie świadectw czwartej kategorji, nie mogą utrzymywać oddzielnych składów (art. 22); w zakładach tych nie może być zatrudniony prócz właściciela lub zastępującego go dorosłego członka jego rodziny żaden dorosły najemny subjekt handlowy."
+      },
+      {
+       "type": "text",
+       "text": "Kategorja piąta. Handel wędrowny (domokrążny) art. 8 punkt 1)."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Kategorja V-a handel rozwoźny (art. 19 lit. b).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Kategorja V-b handel obnośny (art. 19 lit. a), > W b. dzielnicy rosyjskiej świadectwa przemysłowe na handel wędrowny uprawniają w granicach obowiązujących w tym względzie przepisów administracyjnych do sprzedaży poza obrębem miast i miaste-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 17."
+      },
+      {
+       "type": "text",
+       "text": "czek wszelkiego rodzaju towarów, z wyjątkiem towarów, wymienionych w punkcie 2 kategorji drugiej. W obrębie zaś miast i miasteczek dozwolony jest na tych samych zasadach tylko handel obnośny a to: artykułami spożywczemi, napojami chłodzącemi, wyrobami tytoniowemi i zapałkami, tudzież gazetami i książkami. Do handlu wędrownego (art. 19), wykonywane- $o na obszarze b, dzielnicy austrjackiej i pruskiej, mają zastosowanie przepisy, zawarte w odnośnych ustawach przemysłowych, obowiązujących w tych dzielnicach."
+      },
+      {
+       "type": "text",
+       "text": "II. Skup zawodowy (art. 5, punkt 1). Skup w celu odprzedaży wewnątrz Państwa lub na wywóz zagranicę surowców krajowych, produktów rolnictwa i leśnictwa oraz zwierząt domowych, dro* biu, tudzież innych towarów bez utrzymywania w tym celu zakładów handlowych."
+      },
+      {
+       "type": "text",
+       "text": "Kategorja pierwsza, Na sumę ponad pięćset tysięcy (500.000) złotych rocznie, Kategorja druga. Na sumę ponad sto tysięcy (100.000) do pięciuset tysięcy (500.000) złotych rocznie,"
+      },
+      {
+       "type": "text",
+       "text": "Kategorja trzecia. Na sumę ponad dwadzieścia tysięcy (20.000) złotych do stu tysięcy (100.000) złotych rocznie,"
+      },
+      {
+       "type": "text",
+       "text": "Kategorja czwarta. Na sumę do dwudziestu tysięcy (20.000) złotych. Przedsiębiorstwa skupu surowców krajowych, produktów rolnictwa i leśnictwa oraz zwierząt domowych i drobiu mogą utrzymywać oddzielne składy:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "w nieograniczonej ilości na obszarze całej Rzeczypospolitej, o ile nabyły świadectwa przemysłowe kategorji pierwszej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "nie więcej niż pięć składów w obrębie powiatu, w którym przedsiębiorca zamieszkuje lub w granicach powiatów sąsiednich, o ile nabyto świadectwo drugiej kategorji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "nie więcej niż dwa składy w obrębie tej miejscowości, gdzie przedsiębiorca stale mieszka, o ile nae byto świadectwo trzeciej kategorji;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "nie więcej niż jeden skład w tej miejscowości, gdzie przedsiębiorca stale mieszka, o ile nabyto świadectwo czwartej kategorji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IIL Instytucje kredytu krótkoterminowego (art. 5, punkt 2)."
+      },
+      {
+       "type": "text",
+       "text": "Kategorja pierwsza."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Instytucje kredytu krótkoterminowego z kapitałem zakładowym ponad pięćset tysięcy złotych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Domy bankowe, ,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kategorja druga."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Instytucje kredytu krótkoterminowego z kapitałem zakładowym ponad pięćdziesiąt tysięcy (50.000) do pięciuset tysięcy (500.000) złotych.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Kantory wymiany i lombardy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kategorja trzecia. Instytucje kredytu krótkoterminowego z kapita= łem zakładowym do pięćdziesięciu tysięcy (50,000) złotych."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Kategorja czwarta. Zakłady kredytowe, należące do spółdzielni, bez względu na wysokość kapitału zakładowego."
+      },
+      {
+       "type": "text",
+       "text": "IV. Przedsiębiorstwa ubezpieczeniowe (art. 5, punkt 3). Kategorja pierwsza. Przedsiębiorstwa ubezpieczeniowe, nie oparte na wzajemności, Kategorja druga."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Oddziały przedsiębiorstw ubezpieczeniowych, nie opartych na wzajeraności.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Przedsiębiorstwa ubezpieczeniowe, oparte na wzajemności i ich oddziały,",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Roboty i dostawy (art, 5, punkt 4). Kategorja pierwsza. ‘ Na sumę ponad czterysta tysięcy (400.000) złotych. s Kategorja druga. Na sumę ponad osiemdziesiąt tysięcy (80.000) do czterystu tysięcy (400.000) złotych. Kategorja trzecia. Na sumę ponad dwadzieścia tysięcy (20.000) do osiemdziesięciu tysięcy (80.000) złotych, Kategorja czwarta. Na sumę do dwudziestu tysięcy (20.000) złotych, VI. Przedsiębiorstwa pośrednictwa handlowego, ekspedycyjne i przewozowe (art, 5, punkt 5), Kategorja pierwsza."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Przedsiębiorstwa komisowe, ekspedycyjne, przewozowe, oraz ekspedycyjno-przewozowe, utrzymujące oddziały.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Przedsiębiorstwa, przyjmujące towary na \"skład z wydawaniem na nie pożyczek, lub bez wydawania. Kategorja druga.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Oddziały i filje przedsiębiorstw, wymienio- 'nych w punkcie 1 kategorji pierwszej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Przedsiębiorstwa komisowe, ekspedycyjne i przewozowe, nie utrzymujące oddziałów i filij. * 3) Biura techniczne.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Biura wywiadowcze, informacyjne, pogrzebowe i wszelkie biura pośrednictwa handlowego, -5) Biura próśb i porad prawnych, zatrudniające więcej niż dwóch pracowników. Kategorja trzecia.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Biura próśb i porad prawnych, zatrudniające najwyżej dwóch pracown'ków.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Biura pośrednictwa pracy. Kategorja czwarta. Biura tłumaczeń i przepisywania na maszynie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VII. Zakłady gastronomiczne: restauracyjne, cukiernie, kawiarnie i mleczarnie (art. 5, punkt 6). Kategorja pierwsza. Zakłady gastronomiczne ze sprzedażą lub nawet bez sprzedaży trunków, zatrudniaj ce ponad 20 osśb, licząc w tem właściciela i członków jego rodziny w tych zakładach pracujących,"
+      },
+      {
+       "type": "text",
+       "text": "Kategorja druga."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Zakłady, zatrudniające ponad 10 do 20 osób, licząc w tem właściciela i członków jego rodziny w tych zakładach pracujących.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Zakłady gastronomiczne z wyszynkiem trunków, zatrudniające nawet mniej niż 10 osób, licząc w tem właściciela i członków jego rodziny, w tych zakładach pracujących. Kategorja trzecia. Wszelkie inne mniejsze zakłady gastronomiczne i jadłodajnie — bez wyszynku trunków,",
+     "children": [
+      {
+       "type": "text",
+       "text": "VIII. Sale bilardowe (art. 5, punkt 6). Kategorja trżecia. „Sale bilardowe, utrzymywane oddzielnie od zakładów gastronomicznych. IX. Zakłady dla sprzedaży napojów chłodzących (art. 5, punkt 6), Kategorja czwarta. Zakłady, sprzedające wyłącznie wodę selcerska, limonade i t. p. napoje chłodzące."
+      },
+      {
+       "type": "text",
+       "text": "X. Hotele, pokoje umeblowane, zajazdy, gospody i domy noclegowe (art. 5, punkt 6). ' Kategorja pierwsza. Hoiele i pokoje umeblowane, posiadające do wynajęcia ponad 100 pokojów (numerów). Kategorja druga. Hotele i pokoje umeblowane, posiadające do wynajęcia ponad 20 do 100 pokojów. Kategorja trzecia, Hotele i pokoje umeblowane, posiadające do wynajęca ponad sześć do 20 pokojów; zajazdy i gospody w miastach i miasteczkach, bez wyszynku trunków. Kategorja czwarta. Hotele i pokoje umzblowane, posiadające do wynajęcia ponad 2 do 6 pokojów; zajazdy i go:pody w osadach wiejskich, bez wyszynku oraz domy noclegowe, XI. Pensjonaty — pokoje umeblowane ze stołowaniem (art. 5, punkt 6). : Kategorja pierwsza. Pensjonaty, w których ilość wynajmowanych pokojów przewyższa pięćdziesiąt. Kategorja druga. Pensionaty, posiadające do wynajęcia ponad 12 do 50 pokojów. Kategorja trzecia. Pensionaty, posiadające do wynajęcia ponad 2 do 12 pokojów."
+      },
+      {
+       "type": "text",
+       "text": "XII. Księgarnie (art. 5, punkt 1). Kategorja druga. Ksi egarnie, zatrudniające ponad 5 osób, licząc w tem właściciela i członków jego rodziny, w księgarni pracujących. Kategorja trzecia. Wszystkie inne ksiegarnie."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "XIII. Zakłady lecznicze (art, 5, punkt 6). Kategorja druga. Posiadające łóżek dla chorych ponad 10. Kategorja trzecia. Posiadające łóżek dla chorych do 10, oraz wszelkie zakłady lecznicze, przeznaczone wyłącznie dla chorych przychodnich (ambulatorja),"
+      },
+      {
+       "type": "text",
+       "text": "XIV. Apteki (art. 5, punkt 6). Kategorja pierwsza, Zatrudniające ponad 8 osób, licząc w tem właściciela i członków jego rodziny, w aptece pracujących, Kategorja druga. Zatrudniające ponad 3 do 8 osób, licząc w tem właściciela i członków jego rodziny, w aplece pracujących. Kategorja trzecia, Zatrudniające najwyżej trzy osoby, licząc w tem właściciela i członków rodziny, w aptece pracujących."
+      },
+      {
+       "type": "text",
+       "text": "XV. Zakłady kąpielowe (art. 5, punkt 6), Katesorja druga."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Łaźnie z oddzielnemi kabinami, lub łazienki z ilością wanien ponad 20.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Kąpiele na wodach morskich i słodkich z ilością kabin powyżej 40, Kategorja trzecia.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Łaźnie ośólne i łazienki z ilością wanien do 20.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Kąpiele na wodach morskich i słodkich z ilością kabin od 10 do 40.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kategorja czwarta, Kąpiele na wodach morskich i słodkich ogólne z ilością kabin poniżej 10. XVI. Przedsiębiorstwa kinematograficzne (art. 5, punkt 6), Kategorja pierwsza. Stałe kinematografy, posiadające widownie, obliczone na ilość osób ponad 500, Kategorja druga. Stałe kinematografy, posiadające widownie, obliczone na ilość osób ponad 150 do 500. Kategorja trzecia. Stałe kinematografy, posiadające widownie, obliczone na ilość osób do 150, Wędrowne przedsiębiorstwa kinematograliczne winny nabywać świadectwa kategorji V-a przedsiębiorstw handlowych. XVII. Przedsiębiorstwa teatralne, cyrki, ogródki i sale z zamkniętemi lub otwartemi scenami (art. 5, ‘ punkt 6), Kategorja pierwsza. Stałe teatry, cyrki, ogródki i sale z otwartemi lub zamkniętemi scenami, posiadające widownie, obliczone na ilość osób ponad 750. Kategorja druga. Stałe teatry, cyrki, ogródki i sale z otwarlemi lub zamkniętemi scenami, posiadające widownie, obliczone na ilość osób ponad 300 do 750."
+      },
+      {
+       "type": "text",
+       "text": "Kategorja trzecia. Stałe teatry, cyrki, ogródki i sale z otwartemi lub zamkniętemi scenami, posiadające widownie obliczone na ilość osób do 300. ~ Wędrowne przedsiębiorstwa teatralne, wędrowne cyrki i inne wędrowne zespoły artystyczne winny nabywać świadectwa przemysłowe kategorji V-a przedsiębiorstw handlowych, XVIII. Zdroje naturalnych wód mineralnych (art. 5, punkt 6). Kategorja druga. Sprzedaż wód mineralnych ze zdrojów. Uwaga: Wszelkie inne przedsiębiorstwa, prowadzone przez zarządy zdrojowe (pensjonaty, kąpiele, ambulatorja), podlegają oddzielnemu opodatkowaniu na zasadach ogólnych, XIX. Wrotniska i ślizgawki (art. 5, punkt 6). Kategorja trzecia. Wszystkie przedsiębiorstwa tego rodzaju, XX. Magle i maszyny do czesania wełny (art, 5, punkt 6). Kategorja czwarta, Utrzymywane jako oddzielne przedsiębiorstwa zarobkowe: magle i maszyny do czesania wełny, XXI. Wydawnictwa utworów drukowanych, Kategorja druga. Wydawnictwa pism codziennych w stolicy i miejscowościach pierwszej klasy, Kategorja trzecia, Wydawnictwa pism codziennych w miejscowościach II, III i IV klasy, wydawnictwa innych utworów drukowanych bez względu na klasę miejscowości."
+      },
+      {
+       "type": "text",
+       "text": "B. Przedsiębiorstwa komunikacyjne, I. Przedsiębiorstwa kolei żelaznych tak normalnych, jak i wąskotorowych, tudzież tramwajów oraz przedsiębiorstwa telefonów zalicza się do kategorji pierwszej przedsiębiorstw handlowych. II. Główne zakłady przedsiębiorstw żeglugi zalicza się do kategorji drugiej przedsiębiorstw handlowych; inne zakłady tych przedsiębiorstw zalicza się do kategorji trzeciej przedsiębiorstw handlowych. Nadto od każdego statku uiszcza się opłatę za świadectwo przemysłowe w następującej wysokości:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "statki parowe, wedłuś powierzchni ogrzewalnej kotłów parowych po 0,80 zł za jeden m* tej powierzchni;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "statki motorowe, według siły motorów po 0,40 zł za każdą jednostkę siły (H. P.);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "żaglowce metalowe, według powierzchni pokładu po 0,03 zł za jeden m” powierzchni pokładu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "żaglowce z drzewa z pokładem, według powierzchni pokładu po 0,03 zł za jeden m* tej powierzchni;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "żaglowce z drzewa bez pokładu (berlinki) według powierzchni, obliczonej przez pomnożenie dłu- $ości żaglowca (berlinki) przez jego szerokość, po 0,01 zł za jeden m* tej powierzchni.",
+     "children": [
+      {
+       "type": "text",
+       "text": "C. Przedsiębiorstwa przemysłowe. l. Kopalnie węgla kamiennego. Kategorja pierwsza. Produkujące ponad 2.000.000 ctn. m."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Kategorja druśa. Produkujące ponad 1.500.000 do 2.000.000 cin. m. a Kategorja trzecia. Produkujące ponad 500.000 do 1.500.000 ctn, m. Kategorja czwarta, Produkujące ponad 200.000 do 500.000 ctn, m. Kategorja piąta. Produkujące ponad 50.000 do 200.000 ctn. m. Kategorja szósta. Produkujące do 50.000 ctn. m. II. Kopalnie rudy. Kategorja pierwsza. Produkujące ponad 2.500.000 ctn. m. Kategorja druga. Produkujące ponad 2.000.000 do 2.500.000 ctn. m. i Kategorja trzecia. Produkujące ponad 1.000.000 do 2.000.000 ctn. m. Kategorja czwarta, Produkujące ponad 500.000 do 1.000.000 ctn. m. Kategorja piąta. Produkujące ponad . 100.000 do 500.090 ctn. m. Katesorja szósta. Produkujące do 100.000 ctn. m, Kopalnie nafty lub gazów ziemnych. III. Kategorja pierwsza. Produkujące ropy naftowej ponad 3.000.000 cin. m. Kategorja druga. Produkujące ropy naftowej ponad 2.000.000 do 3.000.000 ctn. m. Kategorja trzecia, Produkujące ropy naftowej ponad 1.000.000 do 2.000.000 ctn, m, Kategorja czwarta, - Produkujące ropy naftowej ponad 250.000 do 1.000.000 ctn. m, Kategorja piąta. ponad 100. 000 do Produkujące ropy naftowej 250.000 ctn, m. Kategorja szósta. Produkujące ropy naftowej do 100.000 ctn. m. Uwaga: Przy kopalniach, produkujących gazy ziemne, jeden metr sześcienny gazu liczy się za jeden kilogram ropy naftowej, IV. Młyny mączne. Kategorja pierwsza. Młyny, w których suma średnic wszystkich par żaren przekracza 150 metrów. Kategorja druga. Młyny, w «tórych suma średnic wszystkich par żaren wynosi ponad 100 do 150 metrów. Kategorja trzecia. Młyny, w których suma średnic wszystkich par żaren wynosi ponad 50 do 100 metrów, tip a ÓY RZE"
+      },
+      {
+       "type": "text",
+       "text": "Kategorja czwarta. Młyny, w których suma średnic wszystkich par żaren wynosi ponad 15 do 50 metrów. Kategorja piąta. Młyny, w których suma średnic wszystkich par żaren wynosi ponad 8 do 15 metrów. Kategorja szósta. Młyny, w których suma średnic wszystkich par żaren wynosi ponad 4 do 8 metrów, Kategorja siódma. Młyny, w których suma średnic wiikyślniek par żaren wynosi ponad 1% do 4 metrów. 'Kategorja ósma. Wiatraki i inne młyny, w których suma średnie wszystkich par żaren nie przekracza półtora metra. Uwaga: O ile w młynach używane są do mielenia walce wyłącznie lub łącznie z żarnami, to 1 ctm. długości pary walców liczy się za trzy ctm. średnicy pary żaren, a zespół trzech walców liczy się za dwie pary walców. V. Gorzelnie."
+      },
+      {
+       "type": "text",
+       "text": "Kategorja trzecia. Produkujące ponad 900.000 stopni hektolitrowych alkoholu. Kategorja czwarta. Produkujące ponad 400.000 do 900.000 stopni hektolitrowych alkoholu. Kategorja piąta. Podikująke ponad 200.000 do 400.000 stopni „hektolitrowych alkoholu, Kategorja szósta, Produkujące do 200.000 stopni hektolitrowych alkoholu."
+      },
+      {
+       "type": "text",
+       "text": "VI. Browary. » Kategorja pierwsza. Wyrabiające ponad 60.000 hektol. gorącej brzeczki, Kategorja druga. Wyrabiające ponad 30.000 do 60.000 hektol. gorącej brzeczki, Kategorja trzecia. Wyrabiające ponad 18.000 do 30.000 hektol. gorącej brzeczki, Kategorja czwarta. Wyrabiające ponad 6.000 do 18.000 hektol. .gorącej brzeczki, Kategorja piąta. Wyrabiające ponad 2.000 do 6.000 hektol. gorącej brzeczki, Kategorja szósta. Wyrabiające do 2.000 hektol. gorącej brzeczki VII. Cukrownie. Kategorja pierwsza. Produkujące ponad 30.000 ctn. m. Sżę Kategorja druga. Produkujące ponad 20.000 do 30.000 ctn. m. kryształu,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Kategorja trzecia. Produkujące ponad 10.000 do 20.000 ctn. m. kryształu. Kategorja czwarta. Produkujące do 10.000 ctn. m. kryształu."
+      },
+      {
+       "type": "text",
+       "text": "VIII,"
+      },
+      {
+       "type": "text",
+       "text": "Olejarnie parowe. Kategorja pierwsza, Posiadające ponad 20 czynnych pras. Kategorja druga. Posiadające ponad 13 do 20 czynnych pras. Kategorja trzecia. Posiadające ponad 7 do 13 czynnych pras. Kategorja czwarta. Posiadające do 7 czynnych pras."
+      },
+      {
+       "type": "text",
+       "text": "IX. Zakłady drożdżowo-gorzelnicze. Kategorja pierwsza. * Wyrabiające ponad 4.000 ctn. m. drożdży prasowanych. Kategorja druga. Wyrabiające ponad 3.000 do 4.000 ctn, m. drożdży prasowanych. Kategorja trzecia. i Wyrabiające ponad 1.200 do 3.000 ctn. m. drożdży prasowanych. Kategorja czwarta. Wyrabiające ponad 400 do 1.200 ctn, m. drożdży prasowanych. Kategorja piąta. a Wyrabiające do 400 ctn, m. drożdży prasowanyc X.. Fabryki drożdży Z Kategorja druga. Wyrabiające ponad 4.000 ctn. m. drożdży prasowanych. Kategorja trzecia. Wyrabiające ponad 2.000 do 4.000 cin. m. drożdż ży prasowanych. Kategorja czwarta. ~ Wyrabiające ponad 600 -do 2.000 ctn. m. drożdży Sonia Kategorja stata, - Wyrabiające ponad 200 do 600 ctn, \"m droż= ty prasowanych, Kategorja szósta. Wyrabiające do 200 ctn. m. drożdży prasowanych, : XI. Fabryki wódek. Kategorja pierwsza, Produkujące ponad 12.000 hektol. wyrób. Wal: czanych. Kategorja druga. Produkujące ponad 8,000 do 12.000 hektol. wyrobów wódczanych."
+      },
+      {
+       "type": "text",
+       "text": "Nr. 17."
+      },
+      {
+       "type": "text",
+       "text": "Kategorja trzecia, Produkujące ponad 4.000 do 8.000 hektol. wyrobów wódczanych. Kategorja czwarta. Produkujące ponad 1.000 do 4.000 hektol. wyrobów wódczanych, Kategoria piąta, 1 Produkujące do 1.000 hektol. wyrobów wódczanych. XII. Rektylikacja okowity. Kategorja druga. stopni hektol. Produkujące ponad 2.400.000 oczyszczonej okowity, Katedorja trzecia. Produkujące ponad 1.209.000 do 2.400.000 stop~ ni hektol. oczyszczonej okowity. Kategorja czwarta, Produlittiace ponad 350.000 do 1.200.090 stopni hektol. oczyszczonej okowity. Kategorja piąta, Produkujące do 350.000 stopni hektol. oczysz~ czonej okowity."
+      },
+      {
+       "type": "text",
+       "text": "XIII. Rafinerje cukru. Kalegorja pierwsza. Produkujące ponad 30.000 cła. m. rafinady, Kategorja druga. Produkujące ponad 20.000 do 30.000 ctn. m. rafinady. Kategorja trzecia. F Produkujące do 20.000 ctn. m. rafinady."
+      },
+      {
+       "type": "text",
+       "text": "KIV. Miodosytnie, zakłady wyrabiające lakier spirytusowy i politurę. Kategorja pierwsza. Zatrudniające ponad 1.000 robotników. Kategorja druga. Zatrudniające ponad 500 do 1.000 robotników: Kategorja trzecia. Zatrudniające ponad 200 do 500 robotników. Kategorja czwarta. Zatrudniające ponad 50 do 200 robotaikew, prey stosowaniu zaś silników mechanicznych — ponad 23 do 200 robotników, Kategoria piata. Zatrudniające ponad 15 do 20 robotników, przy stosowaniu zaś silników mechanicznych — ponad 10 do 20 robotników. Kategorja szósta. Wszystkie inne tego rodzaju zakłady,"
+      },
+      {
+       "type": "text",
+       "text": "XV. Fabryki zapałek, Kategorja trzecia. Zatrudniające powyżei 500 robotników, Kategorja czwarta, Zatrudniające przy fabrykacji ręcznej ponad 200 do 500 robotników, przy stosowaniu zaś silników mechanicznych — ponad 100 do 500 robotników,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 26 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Kategorja piąta. Zatrudniające przy fabrykacji ręcznej do 200 robotników, przy stosowaniu zaś silników mechanicznych — do 100 robotników,"
+      },
+      {
+       "type": "text",
+       "text": "XVI"
+      },
+      {
+       "type": "text",
+       "text": "Przedsiębiorstwa wodociągowe, gazownie, elektrownie. Kategorja trzecia. Wszystkie tego rodzaju zakłady."
+      },
+      {
+       "type": "text",
+       "text": "XVII. Przedsiębiorstwa wykonywania filmów dla kinematograłów. Kategorja trzecia. Wszystkie przedsiębiorstwa tego rodzaju. XVIII. Przędzalnie, blicharnie, farbiarnie i apretury, walcownie żelaza, stali, cynku i miedzi, fabryki drutu, rur, wagon6w i maszyn, odlewnie miedzi i bronzu, zakłady wytapiania tłuszczów, fapryki ekstraktów z tłuszczów i olejów, margaryny, mydła, stearyny oraz garbarnie, fabryki artykułów chemicznych, kosmetycznych, aptecznych, farb, ekstraktów farbiarskich, lakięrów terpentynowych, laku, szuwaksu, rafinerji nafty, olejów mineralnych, gazoliny i smarów, asłaltu, gudronitu, parafiny i cerezyny. Kategorja pierwsza. Zatrudniające ponad 500 robotników. Kategorja druga. * Zatrudniające ponad 200 do 500 robotników. Kategorja trzecia. Zatrudniające ponad 100 do 200 robotników. Kategorja czwarta. Zatrudniające robotników:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "przy fabrykacji ręcznej ponad 50 do 100;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "przy stosowaniu silników mechanicznych ponad 25 do 100. Kategorja piąta. Zatrudniające robotników:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "przy fabrykacji ręcznej ponad 15 do 50;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "przy stosowaniu silników mechanicznych ponad 10 do 25. Be Kategorja szósta. Zatrudniające robotników: site",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "przy fabrykacji ręcznej ponad 9 do 15; ... b) przy stosowaniu silników mechanicznych ponad 7 do 10, . Kategorja siódma. Zatrudniające robotników:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "przy fabrykacji ręcznej ponad 4 do 9;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "przy stosowaniu silników mechanicznych ponad 4 da 7. Kategorja ósma. Zatrudniające robotników tak przy fabrykacji ręcznej, jak i przy stosowaniu silników mechanicznych od 1 do 4 licząc w tem właściciela przedsiębiorstwa i ezłonków jego rodziny, zatrudnionych w przedsiębiorstwie.",
+       "children": [
+        {
+         "type": "text",
+         "text": "XIX. Wszelkie przedsiębiorstwa przemysłowe, nie wymienione w poprzednich ustępach, tudzież zajęcia rzemieślnicze, rękodzielnicze, dorożkarstwo i furmań- . stwo, , Kategorja pierwsza. Zatrudniające robotników ponad 1.000. Kategorja druga. Zatrudniające robotników ponad 500 do 1.000. Kategorja trzecia. Zatrudniające robotników ponad 200 do 500. Kategorja czwarta. Zatrudniające robotników: —"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "przy fabrykacji ręcznej ponad 50 do 290;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "przy stosowaniu silników mechanicznych po-- nad 25 do 200. Kategorja piąta. Zatrudniające robotników:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "przy fabrykacji ręcznej ponad 15 do 50;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "przy stosowaniu silników mechanicznych ponad 10 do 25. Kategoria szósta. Zatrudniające robotników: .",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "przy fabrykacji ręcznej ponad 9 do 15;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "przy stosowaniu silników mechanicznych ponad 7 do 10. , Kategorja siódma. Zatrudniające robotników:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "przy fabrykacji ręcznej ponad 4 do 9;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "przy stosowaniu silników mechanicznych po- ‘nad 4 do 7, Kategorja ósma. Zatrudniające robotników tak przy fabrykacji ręcznej, jak i przy stosowaniu silników mechanicznych od 1 do 4, licząc w tem właściciela przedsię” biorstwa i członków jego rodziny, zatrudnionych w przedsiębiorstwie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Część III",
+     "text": "CĘNY ŚWIADECTW PRZEMYSŁOWYCJIŁ A. Dla przedsiębiorstw handlowych. ‘iw Warszawie scowościach a w miejscowościach kich miej- EJ > Lad [4 Kategoria = „w 2"
+    },
+    {
+     "type": "text",
+     "text": "I Dla zakładów t leashes handlowych . [2.000 — — — — — I Dla zakładów i bandlowych . — fs"
+    },
+    {
+     "type": "pkt",
+     "num": "330",
+     "path": "pkt_330",
+     "text": "270 i III Dla zakładów handlowych . — IV Dla zakładów handlowych . — V-a Dla handlu I rozwoźneśo . 50 — — — — — V-b| Dia handlu obnośnego. » 15",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 27 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "B. Dla przedsiębiorstw przemysłowych."
+      },
+      {
+       "type": "text",
+       "text": "2 w miejscowościach jscowosciach We wszystkich miejz klasy a 5 Kategorja a ką (M; IV L. z l"
+      },
+      {
+       "type": "text",
+       "text": "1; ir [ee — 120} 100 80 60 40 Mię kM WE eee seme 60 50 40 30 20 II,"
+      },
+      {
+       "type": "text",
+       "text": "VIII 0 ............................ „| — 15 12 10 6 4"
+      },
+      {
+       "type": "text",
+       "text": "i"
+      },
+      {
+       "type": "text",
+       "text": "C. Dla handlu jarmarcznego. . ą"
+      },
+      {
+       "type": "text",
+       "text": "Dla handlu Dla kandlu Ill. hurtowego detalicznego"
+      },
+      {
+       "type": "text",
+       "text": "- złotych"
+      },
+      {
+       "type": "text",
+       "text": "Na jarmarkach, trwających ponad 21 dni . . . Na jarmarkach, trwających ponad 7 dni do 21 dni Na jarmarkach, trwających IV. ponad 3 dni do 7 dni ,"
+      },
+      {
+       "type": "text",
+       "text": "D. Dla zajęć przemysłowych."
+      },
+      {
+       "type": "text",
+       "text": "Oznaczenie zajęcia przemysłowego"
+      },
+      {
+       "type": "text",
+       "text": "Ekspedytorzy, nie utrzymujący oddzielnych biur i pomocników handlowych, lecz trudniący się osobiście z polecenia osób trzecich cleniem w urzędach celnych towarów, wysyłanych zagranicę lub otrzymywanych z zagranicy:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Przy urzędach celnych, znajdujących się przy głównych linjach kolei żelaznych . 400",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Przy urzędach celnych, znajdujących się przy bocznych AJSEŃ kolei żelaznych . . 300",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Przy urzędach celnych, nie położonych przy linjach kleje\" wych . 250",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_3/lit_a",
+       "text": "Pośrednicy giełdowi (maklerzy):",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Na giełdzie warszawskiej . . 400",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Na innych giełdach . . . . . 250",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_2/lit_b",
+       "text": "Wszelkiego rodzaju inni pośrednicy handlowi:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "W Warszawie i w size” ściach I klas ; „ 150",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "W miescowościóch £ II klasy „ 100",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "W miejscowościach IIIi IV klasy 30 Inspektorzy i ajenci przedsiębiorstw. . ubezpieczeniowych, przewozowych, komunikacyjnych oraz instytucyj kredytowych, o ile prowadzą operacje bez utrzymywania biur:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "W Warszawie i w niigjecowściach I klasy . . . 50",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "W miejscowościach II klasy . 3 40",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "W miejscowościach III i IV klasy 20 Pomocnicy podróżujący (komiwojażerowie). » « a a a « a a » 100",
+     "children": [
+      {
+       "type": "text",
+       "text": "Warszawa, Drukarnia Państwowa, Tłoczono z polecenia Ministra Sprawiedliwości, 58677 P Konto czekowe w P. K. O. £ Administracji Dziennika Ustaw Nr. 30130. Cena 75 gr."
+      },
+      {
+       "type": "text",
+       "text": "OD ADMINISTRACJI: Prenumerata Dz, U. R. P. wynosi 8 zł, kwartalnie, Urzędy i instytucje państwowe opłacają 6 zł, Prenumerata winna być opłacana najpóźniej na 2 tygodnie przed rozpoczęciem każdego kwartału. Reklamacje z powodu nieotrzymania poszczególnych numerów Dz, U. R, P, należy wnosić do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

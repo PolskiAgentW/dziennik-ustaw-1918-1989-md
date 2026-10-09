@@ -1,0 +1,56 @@
+{
+ "eli": "DU/1939/414",
+ "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 3 lipca 1939 r. o granicach uchybień obiegowych dla zegarów znajdujących się w miejscach publicznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/414/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA PRZEMYSŁU I HANDLU z dnia 3 lipca 1939 r. © granicach uchybień obiegowych dla zegarów znajdujących się w miejscach publicznych. Na podstawie art. 3 ustawy z dnia 11 maja 1922 r. o rachubie czasu (Dz. U.R. P. Nr 36, poz. 307) zarządzam co następuje: §1. Granice uchybień obiegowych dozwolonych dla zegarów znajdujących się w miejscach publicznych, z wyjątkiem zegarów słonecznych wynoszą:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w miastach — 3 minuty; ,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "we wszystkich innych miejscowościach:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "dla zegarów należących do władz, instytucyj i inter fated państwowych lub samorządowych — 3 minuty,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "dla pozostałych zegarów — 10 minut czasu éredniego słonecznego.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": ". 82. Rozporządzenie niniejsze wchodzi w życie z dniem 1 października 1939 r. Jednocześnie traci moc obowiązującą rozpotzadzenie Ministra Przemysłu i Handlu z dnia 21 sierpnia 1922 r. o granicach uchybień wskazań zegarów znajdujących się w miejscach publicznych (Dz. U. R. P. Nr 74, poz. 676). Minister Przemysłu i Handlu: Antoni Roman"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

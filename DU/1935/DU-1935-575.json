@@ -1,0 +1,67 @@
+{
+ "eli": "DU/1935/575",
+ "title": "Dekret Prezydenta Rzeczypospolitej z dnia 10 grudnia 1935 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o godzinach handlu i godzinach otwarcia zakładów handlowych i niektórych przemysłowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1935/575/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET PREZYDENTA RZECZYPOSPOLITEJ z dnia 10 grudnia 1935 r. w sprawie zmiany rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o godzinach handlu i godzinach otwarcia zakładów handlowych i niektórych przemysłowych. Na podstawie art. 55 ust. (1) ustawy konstytucyjnej i ustawy z dnia 6 listopada 1935 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania dekretów (Dz. U. R. P. Nr. 81, poz. 501) postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W art. 8 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o godzinach handlu i godzinach otwarcia zakładów handlowych i niektórych przemysłowych (Dz. U. R. P. Nr. 38, poz. 364) wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "ustęp pierwszy otrzymuje brzmienie: „Sklepy, zakłady i miejsca zawodowej sprzedaży, z wyjątkiem zakładów wymienionych w art. 4, 5i 6, mogą być otwarte do godziny 19-ej, a w soboty i dni przedświąteczne — do godziny 21-ej.”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "skreśla się ustęp drugi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Minister Spraw Wewnętrznych w porozumieniu z Ministrami Opieki Społecznej oraz Przemysłu i Handlu wyda — w związku z przedłużeniem w myśl art. 1 godzin handlu — zarządzenia",
+   "children": [
+    {
+     "type": "text",
+     "text": "1446"
+    },
+    {
+     "type": "text",
+     "text": "w celu zachowania przepisów o czasie pracy pracowników."
+    },
+    {
+     "type": "text",
+     "text": "Art. 33 Wykonanie dekretu niniejszego porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrami Opieki Społecznej oraz Przemysłu i Handlu."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej: I. Mościcki Prezes Rady Ministrów: Marjan Zyndram-Kościał kowski Minister Spraw Wewnętrznych: Wł. Raczkiewicz",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

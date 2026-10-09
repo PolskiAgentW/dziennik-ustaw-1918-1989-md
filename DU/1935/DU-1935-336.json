@@ -1,0 +1,203 @@
+{
+ "eli": "DU/1935/336",
+ "title": "Obwieszczenie Ministra Skarbu z dnia 12 czerwca 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 10 marca 1932 r. o spłacie zaległości podatkowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1935/336/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SKARBU z dnia 12 czerwca 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 10 marca 1932 r. o spłacie zaległości podatkowych. Na podstawie art. 2 ustawy z dnia 26 marca 1935 r. w sprawie zmiany ustawy z dnia 10 marca 1932 r. o spłacie zaległości podatkowych (Dz. U. R.P. Nr. 27, poz. 202) ogłaszam jednolity tekst ustawy z dnia 10 marca 1932 r. o spłacie zaległości podatkowych (Dz. U. R. P. Nr. 29, poz. 291), z uwzględnieniem zmian, wprowadzonych wspomnianą wyżej ustawą z dnia 26 marca 1935 r."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: Wł. Zawadzki"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Skarbu z dnia 12 czerwca 1935 m (poz. 336). USTAWA z dnia 10 marca 1932 r. o spłacie zaległości podatkowych oraz zaległych składek i opłat na rzecz niektórych publiczno-prawnych instytucyj ubezpieczeń.",
+   "body": [
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/pkt_1",
+       "text": "Upoważnia się I Ministra Skarbu:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_1/pkt_1/lit_a",
+         "text": "do odraczania i rozkładania na raty oraz do umarzania w części lub w całości zaległości w następujących państwowych podatkach wraz z wszelkiemi dodatkami państwowemi, samorządowemi i na rzecz innych związków prawa publicznego: gruntowym, od nieruchomości, od placów budowlanych, przemysłowym, dochodowym, majątkowym, od kapitałów i rent, od lokali, od energji elektrycznej, od uboju, nadzwyczajnym podatku od niektórych zajęć zawodowych, wojskowym, od spadków i darowizn oraz w nadzwyczajnej daninie majątkowej i daninie lasowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_1/pkt_1/lit_b",
+         "text": "do obniżania oraz umarzania kar za zwłokę, odsetek za odroczenie i kosztów egzekucyjnych, przypadających od zaległości, wymienionych w lit. a), oraz grzywien i kar pieniężnych, nakładanych przez władze skarbowe w zakresie podatków, wymienionych również w lit. a),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_1/pkt_1/lit_c",
+         "text": "do zamiany zaległości podatkowych, wymienionych w lit. a), na zobowiązania, których rodzaj i charakter ustala Minister Skarbu w drodze rozporządzeń, do zaliczania na żądanie płatnika na rachud",
+         "children": [
+          {
+           "type": "text",
+           "text": "— nek zaległości podatkowych, wymienionych w lit. a), wszelkiego rodzaju należności,"
+          },
+          {
+           "type": "note",
+           "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "przypadających podatnikom od Skarbu Państwa, na warunkach, które określi rozporządzenie Ministra Skarbu."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/pkt_2",
+       "text": "Minister Skarbu władny jest przenosić w drodze rozporządzeń uprawnienia, wynikające z przepisów lit. a) i b) ustępu poprzedniego, na podległe mu władze skarbowe w zakresie i pod warunkami przez siebie określonemi.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/pkt_3",
+       "text": "Rozporządzenia Ministra Skarbu określą bliżej tryb i warunki stosowania ulg, wymienionych w ust. 1 lit. a) i b), oraz ich zakres.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_1/pkt_4",
+       "text": "Uprawnienia, określone w ust. 1) i 3), przysługują Ministrowi Skarbu również w odniesieniu do zaległości w składkach z tytułu ubezpieczeń od ognia w instytucjach publiczno-prawnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 2,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/pkt_1",
+       "text": "Upoważnia się Ministra Spraw Wewnętrznych do stosowania w porozumieniu z Ministrem Skarbu uprawnień, określonych w art. 1 ust. 1) i 3) — do zaległości w samoistnych daninach komunalnych.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/pkt_2",
+       "text": "Minister Spraw Wewnętrznych władny jest przenosić w porozumieniu z Ministrem Skarbu uprawnienia, określone w ust. 1), na wojewodów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_3/pkt_1",
+       "text": "Upoważnia się Ministra Opieki Społecznej do odraczania, rozkładania na raty i umarzania w części lub w całości, w porozumieniu z Ministrem Skarbu, zaległych składek i opłat oraz odsetek, kar i grzywien na rzecz instytucyj ubezpieczeń społecznych.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_3/pkt_2",
+       "text": "Minister Opieki Społecznej władny jest przenosić w porozumieniu z Ministrem Skarbu w drodze",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nr. 50."
+        },
+        {
+         "type": "text",
+         "text": "rozporządzeń uprawnienia, wynikające z ust. 1), na instytucje ubezpieczeń społecznych."
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_3/pkt_3",
+       "text": "Rozporządzenie Ministra Opieki Społecznej, wydane w porozumieniu z Ministrem Skarbu, ustalą bliżej tryb i warunki stosowania ulg, wymienionych w ust. 1), oraz ich zakres.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_3/pkt_4",
+       "text": "Wszystkim zaległym składkom i opłatom na rzecz instytucyj ubezpieczeń społecznych, których spłatę uregulowano w myśl przepisów ustawy niniejszej, przysługują do czasu całkowitego dokonania ich spłaty przywileje, przyznane składkom i opłatom na rzecz instytucyj ubezpieczeń społecznych w postępowaniu egzekucyjnem i upadłościowem.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 4,"
+        },
+        {
+         "type": "text",
+         "text": "Okresu odroczenia na podstawie art. 1 ust. 1 lit. a) i ust. 4) oraz art. 2 nie wlicza się do czasokresu, w ciągu którego należności, wymienione w tych artykułach, korzystają w mys! obowiązujących przepisów z przywileju pierwszeństwa."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "Wykonanie ustawy niniejszej porucza się Ministrom: Skarbu, Spraw Wewnętrznych i Opieki Społecznej, każdemu we właściwym mu zakresie działania.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia i traci moc obowiązującą w terminie, jaki zostanie określony przez rozporządzenie Rady Ministrów.,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Warszawa. Drukarnia Państwowa. Tłoczono z polecenia Ministra Sprawiedliwości, 717751"
+      },
+      {
+       "type": "text",
+       "text": "Cena 60 gr"
+      },
+      {
+       "type": "text",
+       "text": "Prenumerata Dz. U. R. P, wynosi w kraju 8 zł kwartalnie (32 zł rocznie). Wiadze, urzędy i instytucje państwowe oraz władze samorządu terytorjalnego opłacają 6 z! kwartalnie (24 zł rocznie). Do prenumeraty zagranicznej dolicza si 4 zł kwartalnie (16 zł rocznie) tytułem porta pocztowego. Prenumeratę wpłacać należy z góry przed początkiem każdego war» tału, półrocza lub roku. Zamówienia na prenumeratę jak również na numery pojedyńcze wykonywa się jedynie po wpłaceniu należności. Reklamacje z powodu nieotrzymania poszczególnych mumerów wnosić należy do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru. Reklamacyj spóźnionych lub wniesionych niewłaściwie nie uwzględnia się,"
+      },
+      {
+       "type": "text",
+       "text": "Wszelkie wpłaty na Dz. U, R. P. wnosić należy za pośrednictwem P. K. O. na konto czekowe Adm. Dz. Ustaw 30-130."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

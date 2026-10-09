@@ -1,0 +1,47 @@
+{
+ "eli": "DU/1930/458",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 21 lipca 1930 r. w sprawie ustalenia wysokości opłaty skarbowej od soli jadalnej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1930/458/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU z dnia 21 lipca 1930 r, w sprawie ustalenia wysokości opłaty skarbowej od soli jadalnej, Na zasadzie postanowień $§ 9 i 22 rozporządzenia Prezydenta Rzeczypospolitej z dnia 30 grudnia 1924 roku o wprowadzeniu jednolitego monopolu sprzedaży soli na obszarze całej Rzeczypospolitej Polskiej (Dz, U. R. P. Nr. 117, poz, 1043) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Opłatę skarbową od 100 kg. wydobytej lub wyprodukowanej w kraju i wprowadzonej do obrotu soli jadalnej ustala się w wysokości:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "od soli warzonej lub białej soli kamiennej 3 13 zt. 50 gr.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "od szarej soli kamiennej . 8 ,, 50 ,,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 kwietnia 1930 roku. Kierownik Ministerstwa Skarbu: Ignacy Matuszewski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

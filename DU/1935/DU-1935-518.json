@@ -1,0 +1,428 @@
+{
+ "eli": "DU/1935/518",
+ "title": "Dekret Prezydenta Rzeczypospolitej z dnia 22 listopada 1935 r. w sprawie zmiany ustawy o państwowym podatku dochodowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1935/518/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET PREZYDENTA RZECZYPOSPOLITEJ z dnia 22 listopada 1935 r. w sprawie zmiany ustawy o państwowym podatku dochodowym. Na podstawie art. 55 ust. (1) ustawy konstytucyjnej i ustawy z dnia 6 listopada 1935 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania dekretów (Dz. U. R. P. Nr. 81, poz. 501) postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie o państwowym podatku dochodowym (Dz. U. R. P. z 1934 r. Nr. 76, poz. 715) w brzmieniu zmienionem ustawą z dnia 18 marca 1935 r. (Dz. U. R. P. Nr. 24, poz. 162) wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "art. 1 otrzymuje brzmienie następujące: „Państwowy podatek dochodowy opłacają:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "Osoby fizyczne, mające na obszarze Rzeczypospolitej miejsce. zamieszkania lub przebywające na tym obszarze dłużej niż rok, od całego dochodu.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "Osoby fizyczne, bez względu na ich miejsce zamieszkania lub pobytu, o ile na obszarze Rzeczypospolitej;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "posiadają nieruchomości, wierzytelności zahipotekowane na nieruchomościach, majątki, przywiązane do tegoż obszaru fideikomisem lub innemi przepisami prawnemi;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "wykonywają przedsiębiorstwa handlowe i przemysłowe, albo są spólnikami takich przedsiębiorstw, przyczem posiadania akcyj, udziałów i podobnych papierów wartościowych nie należy uważać za udział w przedsiębiorstwie;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_2/lit_c",
+       "text": "pobierają płacę lub emeryturę, wypłacaną bądź przez służbodawców prywatnych, bądź z funduszów Państwa, związków samorządowych, oraz innych tego rodzaju funduszów publicznych — tylko od dochodu z tych źródeł (ustęp 2).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "Osoby fizyczne, nie mające miejsca zamieszkania na obszarze Rzeczypospolitej, lecz przebywające na tym obszarze chociażby mniej niż rok dla zarobku albo wykonywania czynności handlowych lub przemysłowych, — od dochodu osiągniętego w tymże czasie na wspomnianym obszarze.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "Spadki wakujące (nieobjęte).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "Osoby prawne:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_5/lit_a",
+       "text": "których zarząd znajduje się na obszarze Rzeczypospolitej — od całego dochodu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_5/lit_b",
+       "text": "inne — od dochodu, osiągniętego na obszarze Rzeczypospolitej ze źródeł, wymienionych w ustępie 2 punkty a) i b).\";",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "art. 3 otrzymuje brzmienie następujące: „Opodatkowaniu podlegają dochody:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "z nieruchomości gruntowej własnej, posiadanej, użytkowanej lub dzierżawionej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "z budynków;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "a) z przedsiębiorstw handlowych i przemysłowych;",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_3/lit_b",
+       "text": "z zajęć zawodowych i wszelkich innych zatrudnień o celach zarobkowych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "z kapitałów pieniężnych i praw majątkowych; , 5) z uposażeń, emerytur i wynagrodzeń za najemną pracę;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "z wszelkiego rodzaju źródeł dochodu, niewymienionych w ust. 1 — 5 artykułu niniejszego. Wymienione dochody, z wyjątkiem dochodów z uposażeń, emerytur i wynagrodzeń za najemną pracę, podlegają łącznemu opodatkowaniu na podstawie przepisów Działu I ustawy niniejszej. Dochody z uposażeń, emerytur i wynagrodzeń za najemną pracę podleśaią opodatkowaniu na podstawie przepisów Działu II ustawy niniejszej; dochody te, o ile wypłacane są na obszarze obcego Państwa, podleśają opodatkowaniu na podstawie przepisów Działu I ustawy, jednak wedłuś skali art. 43, przyczem do tych dochodów nie stosuje się odliczeń z art. 10, tudzież zwyżek i zniżek podatkowych z art. 26, 27 i 29,';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "art. 4 otrzymuje brzmienie następujące: „Dochód osób fizycznych (art. 1 ust. 1) z nieruchomości i stałych przedsiębiorstw, znajdujących się poza obszarem Rzeczypospolitej, jak również dochód z płac służbowych i emerytur z funduszów innego państwa, obcych związków samorządowych oraz innych tego rodzaju funduszów publicznych wyłącza",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 85,"
+      },
+      {
+       "type": "text",
+       "text": "się od opodatkowania, o ile będzie udowodnione, że podlega tam podatkowi tego samego rodzaju i jeżeli właściwe obce państwo postępuje według zasad wzajemności co do takich samych dochodów ze źródeł tutejszych. '; i 4) w art. 6 ust. 2 otrzymuje brzmienie następujące: „Prowadzący prawidłowe księgi mogą jednorazowo odpisać całkowitą wartość przedmiotów, których zwykły okres zużycia nie przekracza lat pięciu.'';"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "art. 11 otrzymuje brzmienie następujące: „Do dochodów głowy rodziny dolicza się dochody jej małżonka sądownie nierozłączonego oraz dochody krewnych zstępnych, o ile głowie rodziny służy prawo rozporządzania dochodami ze źródeł, należących do krewnych zstępnych, lub też prawo użytkowania tych dochodów. Jeżeli jednak dochód wymienionych członków rodziny osiągnięty został ze źródeł, o których mowa w art. 3 ust. 3 pkt. b) i ust. 5 ustawy niniejszej, wówczas co do tego dochodu członkowie rodziny podlegają oddzielnemu opodatkowaniu. *;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "w art. 17 dodaje się ustęp nowy treści następującej: „Przy ustalaniu dochodu z przedsiębiorstw stosuje się odpowiednio przepisy art. 21 ust 5i6.';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "uchyla się art. 18 i 25;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "art. 20 otrzymuje brzmienie następujące: „Za dochód z uposażeń, emerytur i z najemnej pracy uważa się wszelkiego rodzaju wynagrodzenia w pieniądzach lub w naturze, jakie podatnik uzyskuje ze swego stosunku służbowego lub z tytułu najmu pracy łącznie ze wszystkiemi dodatkami, jak również wszelkiego rodzaju wynagrodzenia, wypłacane osobom, należącym do składu zarządów, rad, komitetów nadzorczych i komisyj rewizyjnych osób prawnych.\";",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "w art. 23 ust. 1 i 2 otrzymują brzmienie następujące: „Podatek dochodowy wymierza się według następującej skali:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Stopień Wysokość dochodów Podatek dochodu w złotych w złotych"
+      },
+      {
+       "type": "text",
+       "text": "1 1.500 do 1.550 44 2 1.550 , 1.600 47 3 1.600 ,, 1.700 52 4 1.700 ,, 1.800 57 5 1.800 ,, 1.900 63 6 1.900 ,, 2.000 70 7 2.000 ,, 2.100 76 8 2.100 ,, 2.200 83 9 2.200 ,, 2.400 94 10 2.400 4, 2.600 105 11 2.600 „ 2.800 118 12 2.800 „ 3.000 130 13 3.000 ,, 3.200 143 14 3.200 ,, 3.400 157 15 3.400 ,, 3.600 171 16 3.600 ,, 3.800 187 17 3.800 ,, 4.000 202 18 4.000 ,, 4.400 227 19 4.400 ,, 4.800 255"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Stopień Wysokość dochodów Podatek dochodu w złotych w złotych"
+      },
+      {
+       "type": "text",
+       "text": "20 4.800 do 5.200 283 21 5.200 ,, 5.600 314 22 5.600 ,, 6.000 345 23 6.000 ,, 6.600 397 24 6.600 ,, 7.200 454 25 7.200 ,, 7.800 513 26 7.800 ,, 8.400 576 27 8.400 ,, 9.200 657 28 9.200 ,, 10.000 742 29 10.000 ,, 11.000 847 30 11.000 ,, 12.000 958 31 12.000 ,, 13.000 1.074 \"32 13.000 „ 14.000 1.196 33 14.000 ,, 15.000 1.323 34 15.000 „ 16.000 1.456 35 16.000 ,, 17.000 1.619 36 17.000 „ 18.000 1.790 37 18.000 ,, 19.000 1.970 38 19.000 ,, 20.000 2.156 39 20.000 ,, 22.600 2.464 40 22.000 ,, 24.000 2.789 41 24.000 ,, 26.000 3.131 42 26.000 „ 28.000 3.489 43 28.000 ,, 30.000 3.864 44 30.000 ,, 32.000 4,256 45 32.000 ,, 34.000 4.713 46 34.000 „ 36.000 5.192 47 36.000 , 38.000 5.693 48 38.000 ,, 40.000 6.216 49 40.000 ,, 44.000 7.084 50 44.000 ,, 48.000 7.997 51 48.000 ,, 52.000 8.955 52 52.000 ,, 56.000 9.957 53 56.000 ,, 60.000 11.004 54 60.000 ,, 64.000 12.186 55 64.000 ,, 68.000 13.424 56 68.000 ,, 72.000 14.717 57 72.000 ,, 76.000 16.067 58 76.000 ,, 80.000 17.472 59 80.000 ,, 88.000 19.836 60 88.000 ,, 96.000 22.311 61 96.000 ,, 104.000 25.044 62 104.000 ,, 112.000 27.911 63 112.000 ,, 120.000 30.912 64 120.000 ,, 128.000 34.048 65 128.000 ,, 136.000 37.319 66 136.000 ,, 144.000 40.724 67 144.000 ,, 152.000 44.263 68 152.000 ,, 160.000 48.160 69 160.000 ,, 168.000 52.215 70 168.000 ,, 176.000 56.426 71 176.000 ,, 184.000 60.794 72 184.000 ,, 192.000 65.319 73 192.000 ,, 200.000 70.000"
+      },
+      {
+       "type": "text",
+       "text": "Przy dochodzie ponad 200.000 zł podatek wynosi 70.000 zł i oprócz tego 3.560 zł od każdych pełnych 10.000 zł ponad 200.000 zł.'';"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "art. 24 otrzymuje brzmienie następujące: „Do stawek państwowego podatku dochodowego nie mogą być ustanawiane dodatki na rzecz związków samorządowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Na obszarze jednak województw: poznańskiego, pomorskiego i górnośląskiej części województwa śląskiego gminy i powiatowe związki samorządowe mogą pobierać, na podstawie uchwał organów stanowiących, dodatki do państwowego podatku dochodowego: A. Dodatki te nie mogą przekraczać przy dochodzie podatkowym według skali art. 23: ponad 1.500 zł do 24.000 4% dochodu ‘i 24.000 ,, „ 83.000 45% ‘i LLJ 88.000 LLJ 5% \" Gdyby na podstawie ulg, przyznanych w art. 27 i 29, wypadło zmniejszyć stopę podatkową poniżej pierwszego stopnia, następuje zupełne zwolnienie od dodatku."
+      },
+      {
+       "type": "text",
+       "text": "B. Dodatki te wynoszą: według skali art. 43 — 3% dochodu, poczynając od 25 stopnia tejże skali. Dochody z uposażeń, emerytur i wynagrodzeń za najemną pracę, wypłacanych z funduszów Państwa oraz samorządów, nie podlegają dodatkowi na rzecz związków samorządowych. '';"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_1/pkt_11",
+     "text": "art. 26 otrzymuje brzmienie następujące: „Stopę podatkową, podaną w art. 23, podwyższa się o 14% dla podatników nieżonatych lub niezamężnych, niemających na utrzymaniu żadnego członka rodziny, lecz osiągających dochód ponad 3.600 zł.''; i",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "art_1/pkt_12",
+     "text": "art. 41 otrzymuje brzmienie następujące: „Dochody, wymienione w art. 20 ustawy, objęte skalą miarodajną do ustalania potrąceń (art. 43), podlegają podatkowi dochodowemu na zasadzie przepisów Działu II ustawy niniejszej, '';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_1/pkt_13",
+     "text": "art. 43 otrzymuje brzmienie następujące: „Podatek pobiera się drogą potrącenia przy każdej wypłacie wynagrodzenia według następującej skali:",
+     "children": [
+      {
+       "type": "text",
+       "text": "L Wysokość wypłaconego wynagrodzenia Stopa z obliczona w stosunku rocznym procentowa P. w złotych podatku ponad do"
+      },
+      {
+       "type": "text",
+       "text": "1 1.500 1.600 1 2 1.600 1.700 1,2 3 1.700 1.800 1,4 4 1.800 1.900 1,6 5 1.900 2.000 1,8 6 2.000 2.100 2 7 2.100 2.200 2,2 8 2.200 2.300 2,4 9 2.300 2.400 2,6 10 2.400 2.500 2,8 11 2.500 2.600 3 12 2.600 2.700 3,2 13 2.700 2.800 3,4 14 2.800 2.900 3,6 15 2.900 3.000 3,8 16 3.000 3.100 4 17 3.100 3.200 4,2 18 3.200 3.400 4,4 19 3.400 3.600 4,6 20 3.600 3.800 4,8 21 3.800 4.000 5 22 4.000 4.200 3,2"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "L Wysokość wypłaconego wynagrodzenia Stopa : obliczona w stosunku rocznym procentowa P w złotych podatku ponad do"
+      },
+      {
+       "type": "text",
+       "text": "23 4.200 4.400 5,4 24 4.400 4.800 5,6 25 4.800 5.200 5,8 26 5.200 5.600 6 27 5.600 6.000 6,2 28 6.000 6.400 6,4 29 6.400 6.800 6,6 30 6.800 7.200 6,8 31 7.200 7.600 7 32 7.600 8.000 7,2 33 8.000 8.800 7,8 34 8.800 9.600 8,2 35 9.600 10.400 8,6 36 10.400 11.200 9,2 37 11.200 12.000 9,8 38 12.000 13.000 10,6 39 13.000 14.000 11,4 40 14.000 15.000 12,2 4l 15.000 16.000 13 42 16.000 17.000 13,6 43 — 17.000 18.000 14,2 44 18.000 19.000 14,8 45 19.000 20.000 15,4 46 20.000 22.000 16 47 22.000 24.000 16,6 48 24.000 26.000 17,2 49 26.000 28.000 17,8 50 28.000 30.000 18,4 51 30.000 32.000 19 52 32.000 34.000 19,8 53 34.000 36.000 20,6 54 36.000 38.000 21,4 55 38.000 40.000 22,2 56 40.000 44.000 23 57 44.000 48.000 23,8 58 48.000 52.000 24,6 59 52.000 56.000 25,4 60 56.000 60.000 26,2 61 60.000 64.000 27,2 62 64.000 68.000 28,2 63 68.000 72.000 29,2 64 72.000 76.000 30,2 65 76.000 80.000 31,2 66 80.000 88.000 32,2 67 88.000 96.000 33,2 68 96.000 104.000 34,4 69 104.000 112.000 35,6 70 112.000 120.000 36,8 71 120.000 128.000 38 72 128.000 136.000 39,2 73 136.000 144.000 40,4 74 144.000 152.000 41,6 75 152.000 160.000 43 76 160.000 168.000 44,4 77 168.000 176.000 45,8 78 176.000 184.000 47,2 79 184.000 192.000 48,6 80 192.000 50"
+      },
+      {
+       "type": "text",
+       "text": "Podstawę do ustalenia stopy procentowej przypadającego do potrącenia podatku stanowi wyso-"
+      },
+      {
+       "type": "text",
+       "text": "Nr. 85."
+      },
+      {
+       "type": "text",
+       "text": "kość wypłacanego wynagrodzenia, obliczona w stosunku rocznym. W celu ustalenia stopy procentowej przy wypłacie jednorazowych wynagrodzeń dolicza się je do obliczonej w stosunku rocznym sumy ostatniego perjodycznego wynagrodzenia. W stosunku do osób, które wynagrodzeń perjodycznych nie otrzymują, podstawę do ustalenia stopy procentowej podatku stanowi kwota wypłacanego wynagrodzenia. W przypadkach powtarzających się w ciągu roku wypłat wynagrodzeń nieperjodycznych należy celem ustalenia właściwej stopy procentowej i obliczenia podatku dodawać do kwoty bieżąco wypłacanej kwoty wypłat już dokonanych i na podstawie łącznej sumy ustalać stopę procentową i obliczać podatek. Od tak ustalonej kwoty podatku PRACA się podatek poprzednio pobrany, a pozostaa różnica stanowi podatek, przypadający bieżąco do potrącenia. Jeżeli służbodawca nie potrąca należnego podatku od wypłacanego wynagrodzenia, lecz ponosi go z własnych funduszów, wówczas obowiązany jest przyjąć za podstawę obliczenia podatku taką kwotę wynagrodzenia, by, po potrąceniu od tej kwoty obliczonego podatku, pozostała różnica wyrażała sumę przypadającą pracownikowi do wypłaty. ';"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_1/pkt_14",
+     "text": "art. 44 otrzymuje brzmienie następujące: „Obowiązek potrącania podatku ciąży na władzach, urzędach, jako też na instytucjach i przedsiębiorstwach i w ogóle na służbodawcach, wypłacających wszelkiego rodzaju wynagrodzenia. Potrącone kwoty należy wpłacić do kasy właściwego urzędu skarbowego w terminie do dni 7 po upływie miesiąca kalendarzowego, w którym nastąpiła wypłata wynagrodzenia, z dołączeniem wykazu potrąceń, sporządzonego według przepisanego wzoru, lub też odpisu listy płacy, zawierającej dane, niezbędne do sprawdzenia prawidłowości dokonanych potrąceń. ;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_1/pkt_15",
+     "text": "art. 45 otrzymuje brzmienie następujące: „Osoby, które:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_15/lit_a",
+       "text": "otrzymują wynagrodzenie od różnych służbodawców,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_15/lit_b",
+       "text": "otrzymują od jednego służbodawcy dwa lub więcej wynagrodzeń perjodycznych, bądź też obok wynagrodzenia perjodycznego również wynagrodzenia jednorazowe, o ile łączna suma wynagrodzeń za dany rok kalendarzowy przekracza 4.800 zł, — obowiązane są po upływie danego roku uiścić tytułem podatku dochodowego według Działu II ustawy niniejszej różnicę, jaka przypada do zapłaty od łącznego rocznego wynagrodzenia według skali art. 43, a łączną kwotą, potrąconą w trybie art. 44 tytułem podatku w ciągu ubiegłego roku. Kwotę, przypadającą z powyższego tytułu do zapłaty, osoby, wymienione w ustępie pierwszym pod a) i b), powinny obliczyć i wpłacić do kasy właściwego urzędu skarbowego w dwóch ratach półrocznych, a to do 15 kwietnia i do 15 października każdego roku. Przy uiszczeniu pierwszej raty półrocznej należy złożyć w kasie urzędu skarbowego obliczenie różnicy, sporządzone na przepisanym formularzu. Podatek należy jednak wymierzać w ten sposób, aby z dochodu wyższego stopnia po potrąceniu",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "podatku nie pozostało nigdy mniej, niż zostaje z najwyższego dochodu bezpośrednio niższego stopnia po potrąceniu podatku, na ten stopień przypadającego. ';"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_1/pkt_16",
+     "text": "po art. 46 dodaje się nowy art. 46-a w brzmieniu następującem: „Minister Skarbu może obniżać skale podatku, ustalone w art. 23 i 43 ustawy niniejszej.”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Ustalony w art. 9 ust. 1) i 2) ustawy z dnia 11 sierpnia 1923 r. o tymczasowem uregulowaniu finansów komunalnych (Dz. U. R. P. z 1932 t. Nr. 106, poz. 884) udział związków samorządowych we wpływach z państwowego podatku dochodowego oblicza się od połowy wpływów z podatku, pobieranego według Działu II, oraz od 5/7 części wpłvwów z podatku, pobieranego według Działu I ustawy o państwowym podatku dochodowym. -",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "(1) Przepisy dekretu niniejszego, dotyczące podatku dochodowego, pobieranego według Działu I ustawy o państwowym podatku dochodowym, mają po raz pierwszy zastosowanie przy wymiarze podatku dochodowego na rok podatkowy 1936, przyczem:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "przepisy art. 1 pkt. 4) stosuje się do przedmiotów, nabywanych od 1935 r. począwszy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "dochód z tantjem, określonych w dotychczasowym art. 18 ustawy o państwowym podatku dochodowym, podlega po raz ostatni opodatkowaniu według działu I, o ile chodzi o tantjemy wypłacone -do dnia 31 grudnia 1935 r. eel",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Istniejące w dniu wejścia w życie dekretu niniejszego zaległości w podatku dochodowym wraz z dodatkami, pobieranemi na mocy ustawy z dnia 26 marca 1935 r. (Dz. U. R. P. Nr. 22, poz. 127) i ustawy z dnia 22 października 1931 r. (Dz. U. R. P. Nr. 99, poz. 760) wraz z późniejszemi zmianami, łączy się w jedną ogólną sumę. To samo stosuje się do należności z tytułu tego podatku wraz z dodatkami za lata podatkowe do roku podatkowego 1935 włącznie, powstających po dniu 31 grudnia 1935 r."
+      },
+      {
+       "type": "text",
+       "text": "(3) We wpływach z podatku dochodowego z Działu I ustawy o państwowym podatku dochodowym za lata podatkowe poprzedzające rok podatkowy 1936, obliczanych w myśl ust. (2), udział związków samorządowych wynosi: dla m. st. Warszawy — 162/3%, dla innych związków samorządowych — 12,5%."
+      },
+      {
+       "type": "text",
+       "text": "(4) Przepisy dekretu niniejszego, dotyczące podatku dochodowego, pobieranego według Działu II ustawy o państwowym podatku dochodowym, oraz dodatku do tego podatku na rzecz związków samorządowych, mają zastosowanie do uposażeń, emerytur i wynagrodzeń za najemną pracę, wypłacanych począwszy od 1 stycznia 1936 r. Jeżeli po wejściu w życie dekretu niniejszego wypłacane jest robotnikom wynagrodzenie, przypadające do wypłaty przed 1 stycznia 1936 r., wówczas różnica pomiędzy wysokością podatku, należnego na mocy dekretu niniejszego, a wysokością podatku, przewidzianą w przepisach dotychczasowych, nie podlega potrąceniu z wypłacanego wynagrodzenia, lecz obciąża pracodawcę; przepis ten stosuje się również do innych pracowników, jeżeli ich wynagrodzenie, obliczone w stosunku rocznym, nie przekracza 4800 zł."
+      },
+      {
+       "type": "text",
+       "text": "(5) Obliczenie oraz uiszczenie różnicy wedłuś zasad, ustalonych w art. 1 pkt. 15), dokonane będzie po raz pierwszy w roku 1936, przy wzięciu za podstawę wynagrodzeń otrzymanych w ciągu roku 1935, jednak według skali obowiązującej przed dniem wejścia w życie dekretu niniejszego."
+      },
+      {
+       "type": "text",
+       "text": "(6) Dodatki: 15%-wy w myśl ustawy z dnia 26 marca 1935 r. (Dz. U. R. P. Nr. 22, poz. 127) oraz kryzysowy w myśl ustawy z dnia 22 października 1931 r. (Dz. U. R.P. z 1935 r. Nr. 45, poz. 311) będą pobrane przy obliczeniu różnicy w podatku dochodowym, przypadającej do zapłaty w myśl art. 1 pkt. 15), od wynagrodzeń otrzymanych w ciągu roku 1935, jak również od dochodów, ustalanych dla wymiaru podatku dochodowego z Działu I ustawy o państwowym podatku dochodowym na lata podatkowe poprzedzające rok podatkowy 1936 — jednakże przy zastosowaniu przepisów ust. (2)."
+      },
+      {
+       "type": "text",
+       "text": "Art. 4, (1) Wykonanie dekretu niniejszego porucza się Ministrowi Skarbu."
+      },
+      {
+       "type": "text",
+       "text": "(2) Upoważnia się Ministra Skarbu do ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolitego tekstu ustawy o państwowym podatku dochodowym z uwzględnieniem zmian, wynikających z przepisów, wydanych do dnia ogłoszenia jednolitego tekstu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "(1) Dekret niniejszy wchodzi w życie z dniem 1 stycznia 1936 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Równocześnie traci moc obowiązującą ustawa z dnia 22 października 1931 r. o kryzysowym dodatku do państwowego podatku dochodowego (Dz. U. R. P. z 1935 r. Nr. 45, poz. 311)."
+    },
+    {
+     "type": "text",
+     "text": "(3) W art. 1 ust. (1) pkt. 2) ustawy z dnia 26 marca 1935 r. o poborze 10% dodatku do opłat stemplowych i podatków pośrednich oraz 15% dodatku do podatków bezpośrednich oraz spadkowego i od darowizn (Dz. U. R. P. Nr. 22, poz. 127) po wyrazie: ,gruntowego\" dodaje się wyrazy: „i dochodowego”, a w art. 2 skreśla się ustęp drugi."
+    },
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: J. Mościcki Prezes Rady Ministrów: Marjan Zyndram-Kościałkowski Minister Skarbu: E. Kwiatkowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

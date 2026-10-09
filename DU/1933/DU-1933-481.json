@@ -1,0 +1,1080 @@
+{
+ "eli": "DU/1933/481",
+ "title": "Obwieszczenie Ministra Poczt i Telegrafów z dnia 4 sierpnia 1933 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 3 czerwca 1924 r. o poczcie, telegrafie i telefonie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/481/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA POCZT I TELEGRAFÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 sierpnia 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 3 czerwca 1924 r. o poczcie, telegralie i telefonie."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ust. (2) ustawy z dnia 24 marca 1933 r., zmieniającej niektóre postanowienia ustawy z dnia 3 czerwca 1924 r. o poczcie, telegrafie i telefonie (Dz. U. R. P. Nr. 32, poz. 275), ogłaszam jednolity tekst ustawy z dnia 3 czerwca 1924 r. o poczcie, teleśrafie i telefonie (Dz. U. R.P. z 1931 r. Nr. 12, poz. 57) ze zmianami, wprowadzonemi ustawą z dnia 24 marca 1933 r. (Dz. U. R. P. Nr. 32, poz. 275) oraz wynikającemi z art. 5 § 1 p. 1 rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 lipca 1932 r. (Dz. U. R.P. Nr. 60, poz, 573) i z zastosowaniem nowej numeracji artykułów i poszczególnych ich części."
+  },
+  {
+   "type": "text",
+   "text": "Minister Poczt i Telegraféw: Kaliński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Poczt i Telegrafów z dnia 4 sierpnia 1933 r. (poz. 481].",
+   "body": [
+    {
+     "type": "text",
+     "text": "USTAWA"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 3 czerwca 1924 r."
+    },
+    {
+     "type": "text",
+     "text": "© poczcie, telegrafie i telefonie."
+    },
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "(1) Zakładanie, utrzymywanie i eksploatacja urządzeń pocztowych, telegraficznych, telefonicznych i radjokomunikacyjnych jest wyłącznem prawem Państwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Władzą, powołaną do wykonywania tego prawa, jest Minister Poczt i Telegrałów."
+      },
+      {
+       "type": "text",
+       "text": "(3) Wyrażenia ,,telegraf i „telefon'”, użyte w ustawie niniejszej bez określenia „przewodowe”, oznaczają także radjotelegraf, radjotelefon i radjofon."
+      },
+      {
+       "type": "text",
+       "text": "Art. 2,"
+      },
+      {
+       "type": "text",
+       "text": "(1) Prawo wyłączności państwowej co do poczty obejmuje przyjmowanie, przesyłanie i doręczanie:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/lit_a",
+       "text": "listów zamkniętych i otwartych, nazywanych w dalszym ciągu ustawy niniejszej — listami, oraz kartek pocztowych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/lit_b",
+       "text": "czasopism i wydawnictw, wychodzących przynajmniej 12 razy do roku.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Postanowienie to dotyczy także tego rodzaju przesyłek w obrocie z innemi państwami."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "Postanowieniom art. 2 nie podlegają:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/lit_a",
+       "text": "listy, kartki pocztowe, czasopisma i wydawnictwa, przesyłane za pośrednictwem umyślnego posłańca, o ile ani przesyłający, ani przenoszący nie trudnią się zawodowo zbieraniem, przenoszeniem i doręczaniem tych przesyłek, a posłaniec przenosi lub przewozi listy, kartki pocztowe, czasopisma i wydawnictwa od jednej tylko osoby i w drodze powrotnej przesyłek takich dla innych osób nie zabiera;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/lit_b",
+       "text": "czasopisma i wydawnictwa po roku od ich wydania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "(1) W obrębie tej samej miejscowości dozwolone jest wysyłanie listów jak również kartek pocztowych przez umyślnych posłańców; nie wolno jednak bez osobnego zezwolenia Ministra Poczt i Telegrafów Ri węg zakładów dla rozsyłki wymienionych przesyłek.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Rozsyłka czasopism i wydawnictw w obrębie tej samej miejscowości lub w obrębie 15 km od miejsca wydania nie podlega zastrzeżeniu na rzecz Państwa."
+      },
+      {
+       "type": "text",
+       "text": "(3) Dyrekcje poczt i teleśrafów mogą udzielać zezwoleń na rozsyłkę czasopism oraz wydawnictw poza obrębem 15 km od miejsca ich wydania pod warunkiem uiszczania specjalnej opłaty. Wysokość tej opłaty i sposób jej uiszczania określa w drodze rozporządzenia Minister Poczt i Telegrafów w porozumieniu z Ministrem Skarbu."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "(1) Listów oraz kartek pocztowych, pochodzących od różnych osób lub adresowanych do różnych osób, nie wolno wysyłać jako zbiorową przesyłkę bez względu na to, czy przewozu jej dokonywa się pocztą, czy też w inny sposób.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Wzbronione jest wysyłanie teleśramów jako przesyłek listowych zagranicę do instytucyj lub osób, eksploatujących urządzenia, służące do komunikacji telegraficznej, lub współdziałających w tej eksploatacji, celem dalsześo przesłania tych telegramów w drodze telegraficznej."
+      },
+      {
+       "type": "text",
+       "text": "(3) Nie będą doręczane telegramy, nadeszłe w formie przesyłek pocztowych od zagranicznych instytucyj lub osób, eksploatujących zagraniczne urządzenia, służące do komunikacji teleśraficznej, lub współdziałających w tej eksploatacji, a nadane do tych instytucyj lub osób częściowo lub całkowicie w drodze telegralicznej."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "Poza czynnościami, zastrzeżonemi wyłączności (art. 2), Minister Poczt i Telegrafów ma prawo rozszerzyć działalność poczty na przedmioty, nadające się do transportu pocztowego, na przewóz osób i ich bagaży, na przekazywanie pieniędzy oraz na inne czynności, które, jako poboczne, mogą być wykonywane w ramach służby pocztowej, telegraficznej lub telefonicznej z wyłączeniem sprzedaży losów loterji państwowej w miastach, liczących ponad 25.000 mieszkańców według ostatniego spisu ludności.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 7."
+      },
+      {
+       "type": "text",
+       "text": "(1) Prawo wyłączności państwowej co do telegrafu, telefonu i radjokomunikacji obejmuje:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_6/lit_a",
+       "text": "zakładanie, posiadanie, eksploatację i używanie urządzeń elektrycznych, służących do przesyłania lub odbioru zapomocą przewodów lub bezprzewodowo (łalami Hertz'a) wszelkiego rodzaju pisma, obrazów, dźwięków, znaków i sygnałów;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_6/lit_b",
+       "text": "przyjmowanie do wysyłki i doręczanie wszelkiego rodzaju pisma i obrazów, które są przeznaczone do wysyłania przy pomocy urządzeń, wymienionych pod lit. a), lub przy pomocy tychże urządzeń są odebrane.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Prawo wyłączności państwowej, określone w ust. 1, obejmuje również wszelkie tego rodzaju komunikacje w obrocie z innemi państwami w każdym przypadku, śdy komunikacje te na jakimkolwiek odcinku swego przebiegu na obszarze lub poza obszarem Państwa odbywają się zapomocą urządzeń, wymienionych pod lit. a)."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "8",
+     "path": "art_8",
+     "text": "(1) Minister Poczt i Telegrafów w porozumieniu z Ministrami Spraw Wewnętrznych i Spraw Wojskowych jest uprawniony do udzielania koncesyj na zakładanie i eksploatację, a także zezwoleń na posiadanie i używanie urządzeń, wymienionych w art. 7, ust. 1, lit. a), do określania w drodze rozporządzeń warunków zezwoleń oraz do ustalania w każdym poszczególnym przypadku warunków koncesji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Nabywanie, zakładanie, posiadanie i używanie prywatnych radjostacyj doświadczalnych nadawczo-odbiorczych i urządzeń, służących do odbioru słuchowisk radjofonicznych lub obrazów, odbywa się na zasadach, określonych w drodze rozporządzeń Ministra Poczt i Telegrafów, wydanych w porozumieniu z Ministrami Spraw Wewnętrznych, Spraw Wojskowych oraz Przemysłu i Handlu."
+      },
+      {
+       "type": "text",
+       "text": "(3) Zakładanie i eksploatacja urządzeń radjokomunikacyjnych na statkach żeglugi morskiej i powietrznej, obowiązanych do posiadania takich urządzeń, odbywa się na zasadach, określonych z uwzględnieniem umów międzynarodowych w drodze rozporządzenia, wydanego przez Ministra Poczt i Teleśrafów w porozumieniu z Ministrem Spraw Wejskowych, a nadło co do statków żeglugi morskiej — w porozumieniu z Ministrem Przemysłu i Handlu, a co do statków żeślugi powietrznej — w porozumieniu z Ministrem Komunikacji."
+      },
+      {
+       "type": "text",
+       "text": "(4) Koncesji na założenie i eksploatację urządzeń przewodowych, wymienionych w art. 7, ust. 1, lit. a). niezbędnych na potrzeby ruchu zakładu elektryczneśo o prądzie silnym, udziela Minister Poczt i Telegrafów w porozumieniu z Ministrem Przemysłu i Handlu, na potrzeby zaś ruchu na kolejach prywatnych — w porozumieniu z Ministrem Komunikacji."
+      },
+      {
+       "type": "text",
+       "text": "(5) Minister Poczt i Telegrafów ma prawo kontroli za pośrednictwem swych organów oraz władz administracji ogdlnej, czy są doirzymywane warunki, pod któremi udzielono osobom prywatnym koncesyj lub zezwoleń. [6] Niedotrzymywanie warunków, pod któremi udzielono zezwolenia, jako też naruszenie postanowień ustawy niniejszej uprawnia Ministra Poczt i Telegrafów do cofnięcia zezwolenia. Nadto Minister Poczt i Telegrafów może cofnąć zezwolenie na żądanie Ministra Spraw Wewnętrznych lub Ministra Spraw Wojskowych."
+      },
+      {
+       "type": "text",
+       "text": "(7) We wszystkich przypadkach cofnięcia zezwolenia nie służy posiadaczowi tegoż prawo żądania odszkodowania."
+      },
+      {
+       "type": "text",
+       "text": "Nr. 63."
+      },
+      {
+       "type": "text",
+       "text": "(8) Cofnięcie koncesji może nastąpić tylko w przypadkach, przewidzianych w każdej poszcześólnej koncesji. *"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "(1) Zakładanie i używanie oddzielnych urządzeń telegraficznych i telelonicznych, potrzebnych dla własnych celów poszczególnym władzom, urzędom i instytucjom państwowym, odbywa się po uprzedniem porozumieniu z Ministrem Poczt i Telegrafów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Jednakowoż Minister Spraw Wojskowych może zarządzić we własnym zakresie działania zakładanie, utrzymywanie i używanie oddzielnych urządzeń telegraficznych i telefonicznych, służących do celów obrony Państwa i do celów służbowych. Ministrowie Poczt i Telegrafów i Spraw Wojskowych ustalą zasady i wypadki, w których władze wojskowe czynić to będą jedynie po porozumieniu się z zarządem poczt i telegrafów."
+      },
+      {
+       "type": "text",
+       "text": "(3) Minister Komunikacii ma prawo zarządzać we własnym zakresie działania do celów służbowych kolei państwowych, lotnictwa cvwilnego i państwowych zarządów dróg wodnych zakładanie, posiadanie i używanie oddzielnych urządzeń telegraficznych i telefonicznych na terenach kolejowych, lotnisk użytku publicznego i wzdłuż rzek oraz zakładanie, posiadanie i eksploatację oddzielnych urządzeń radjokomunikacyjnych na potrzeby żeglugi powietrznej na terenach publicznych portów lotniczych oraz na potrzeby kolei państwowych."
+      },
+      {
+       "type": "text",
+       "text": "(4) Minister Poczt i Telegrafów wyznacza w porozumieniu z Ministrem Spraw Wojskowych z uwzględnieniem umów międzynarodowych wszystkim urządzeniom radjokomunikacyjnym częstotliwość lub zakresy częstotliwości, jak również znaki wywoławcze oraz ma prawo kontroli, czy dotrzymywane są warunki umów międzynarodowych i czy urządzenia te nie zakłócają innych komunikacyj."
+      },
+      {
+       "type": "text",
+       "text": "(5) Utrzymywanie i zawieszanie przewodów telegraficznych i telefonicznych, należących do rozmaitych władz, urzędów i instytucyj państwowych, cywilnych i wojskowych, a zawieszonych na wspólnych słupach, jako też utrzymywanie wspólnych słupów odbywać się będzie na podstawie porozumienia Ministra Poczt i Telegrafów z innymi zainteresowanymi ministrami, z zachowaniem zasady, że utrzymywanie wspólnych linij teletechnicznych wykonywa tylko jeden z zainteresowanych zarządów. Zasada ta nie wykiucza jednak samodzielnego działania organów każdego z zarządów przy usuwaniu zepsuć."
+      },
+      {
+       "type": "text",
+       "text": "(6) Wzajemne świadczenia władz, urzędów i instytucyj państwowych, wynikające z ustępu poprzedniego, ustali rozporządzenie zainteresowanych ministrów."
+      },
+      {
+       "type": "text",
+       "text": "(7) Utrzymywanie i zakładanie na terenie kolejowym oddzielnych urządzeń teletechnicznych, należących do zarządu poczt i telegrałów lub do innych władz, urzędów i instytucyj państwowych, powinno być uzgodnione z Ministrem Komunikacji. Zakładanie i utrzymywanie nowych przewodów telegraficznych i telefonicznych na istniejących wspólnych linjach teletechnicznych na terenie kolejowym powinno być uzgadniane z zarządem, utrzymującym słupy wspólnej linji teletechnicznej."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Nr. 63."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "Zakładanie i utrzymywanie linij teletechnicznych oraz anten w pobliżu lotnisk państwowych lub użytku publiczneśo dopuszczalne jest pod warunkami, które określi w drodze rozporządzenia Minister Poczt i Telegrafów w porozumieniu z Ministrami Komunikacji i Spraw Wojskowych,",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "11",
+     "path": "art_11",
+     "text": "(1) Bez koncesji wolno zakładać i utrzymywać w ruchu urządzenia telegraficzne i telefoniczne przewodowe do własnego użytku:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_11/lit_a",
+       "text": "właścicielom gruntów w obrębie granic jednego i tego sameśo gruntu lub między śruntami, od siebie oddzielonemi, a należącemi do tego samego właściciela, lub połączonemi we wspólnym zarządzie gospodarczym, o ile odległość między granicami tych gruntów nie przenosi 25 kilometrów w linji powietrznej, o zamierzonej budowie takich urządzeń winien właściciel gruntu donieść właściwej dyrekcji poczt i teleśrafów, dołączając plan gruntu i budowy linji;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_11/lit_b",
+       "text": "właścicielom domów i zakładów przemysłowych w obrębie realności dla wewnętrznego użytku;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_11/lit_c",
+       "text": "okrętom i powietrznym statkom dla wewnętrzneśo porozumiewania się.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Prawo kontroli nad takiemi urządzeniami sprawuje Minister Poczt i Telegrafów."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "12",
+     "path": "art_12",
+     "text": "Upoważniony do posiadania prywatnej stacji radjokomunikacyjnej jest obowiązany do zachowania w tajemnicy wiadomości, które przejął, a które nie były dla nieśo przeznaczone, i ujawnić je może jedynie urzędom państwowym.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 13,"
+      },
+      {
+       "type": "text",
+       "text": "(1) Właściciel przedsiębiorstwa przemysłowego, wytwarzającego sprzęt radjotechniczny, jako też właściciel przedsiębiorstwa handlowego, trudniącego się sprzedażą takiego sprzętu, obowiązany jest zgłosić swe przedsiębiorstwo we właściwej dyrekcji poczt i telegrafów oraz prowadzić parafowane przez tę dyrekcję książki, zawierające szczegółowy wykaz teśo sprzętu'i jego nabywców, oraz uskuteczniać w nich zapisy według zasad, jakie ustali rozporządzenie Ministra Poczt i Telegrafów. Książki te, porządnie utrzymywane i prawidłowo prowadzone, stwarzają domniemanie, że zapisy w nich uskutecznione są prawdziwe. W zakresie tych obowiązków przedsiębiorstwa, wyżej określone, podlegają kontroli właściwej dyrekcji poczt i telegrafów łącznie z właściwą powiatową władzą administracji ogólnej."
+      },
+      {
+       "type": "text",
+       "text": "(2) Przedsiębiorstwom powyższym nie wolno sprzedawać sprzętu radjotechnicznego osobom, które nie wykażą się dokumentem, stwierdzającym prawo nabycia tego sprzętu."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "14",
+     "path": "art_14",
+     "text": "(1) Przy zakładaniu urządzeń telegraficznych i telefonicznych przysługuje zarządowi poczt i telegrafów prawo umieszczania, bez odszkodowania, przedmiotów technicznych na publicznych drogach i przydrożnych pasach gruntów prywatnych szerokości 75 cm, na placach, mostach, wodach i ich brzegach, oraz na gruntach kolejowych, tudzież prawo umieszczania takich przedmiotów, za odszkodowaniem, na prywatnych gruntach, pod i ponad niemi i używania do tych celów nieruchomości prywatnych. W razie niedojścia do skutku dobrowolnej. umowy z prywatnymi właścicielami nieruchomości przysługuje zarządowi poczt i telegrałów prawo przymusu w drodze administracyjnej. Sprawy sporne co do wysokości odszkodowania rozstrzyga właściwy sąd na żądanie właściciela nieruchomości.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Takie same prawa przysługują koncesjonarjuszom prywatnych urządzeń telegraficznych i telefonicznych o charakterze publicznym, przeznaczonych do powszechnego użytku, w wykonywaniu warunków koncesji."
+      },
+      {
+       "type": "text",
+       "text": "(3) Miejsce i sposób umieszczania przedmiotów technicznych, o których mowa w ust. 1, na publicznych drogach, placach, mostach, wodach i ich brzegach, oraz na gruntach kolejowych wymaga uprzedniego uzgodnienia z właściwym zarządem drogowym, wodnym lub kolejowym."
+      },
+      {
+       "type": "text",
+       "text": "(4) Przy zakładaniu prywatnych urządzeń radjokomunikacyjnych przez posiadaczy zezwoleń służy im prawo umieszczania na prywatnych gruntach i nieruchomościach, w których obrębie zamieszkują, urządzeń antenowych, po uprzedniem zawiadomieniu właściciela i pod warunkiem wyrównania strat, na jakie został narażony właściciel nieruchomości przez założenie anteny. Umowy, sprzeczne z niniejszem postanowieniem, są z samego prawa nieważne."
+      },
+      {
+       "type": "text",
+       "text": "Art 15."
+      },
+      {
+       "type": "text",
+       "text": "(1) Zarządowi poczt i telegrafów przysługuje prawo umieszczania godeł, skrzynek listowych i automatów na wszystkich objektach i miejscach dostępnych dla publiczności jak również urządzeń telefonicznych przewodowych na nieruchomościach miejskich, bez uiszczania jakichkolwiek opłat na rzecz właścicieli."
+      },
+      {
+       "type": "text",
+       "text": "(2) Zarządowi poczt i telegrafów przysługuje również prawo umieszczania w sieniach domów szafek listowych dla bezpłatnego doręczania korespondencji mieszkańcom tych domów, oraz prawo udzielania zezwoleń na urządzanie takich szafek przedsiębiorcom prywatnym, bez uiszczania jakichkolwiek opłat na rzecz właścicieli domów."
+      },
+      {
+       "type": "text",
+       "text": "(3) Nikomu nie wolno używać godeł pocztowych, telegraficznych i telefonicznych, jako też syśnałów pocztowych bez zezwolenia zarządu poczt i teleśrałów."
+      },
+      {
+       "type": "text",
+       "text": "(4) Nikomu nie wolno nadawać pojazdom mechanicznym i konnym wyślądu właściwego pojazdom, używanym przez zarząd poczt i telegrałów do przewozu ładunku pocztowego. Zewnętrzny wygląd tych pojazdów określi Minister Poczt i Telegrafów w drodze rozporządzenia."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "16",
+     "path": "art_16",
+     "text": ". (1) Tajemnica listów i innych przesyłek pocztowych, telegramów i rozmów telefonicznych jest nienaruszalna.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Za naruszenie tajemnicy uważa się również udzielanie jakichkolwiek wiadomości osobom trze-"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "cim o przesyłkach pocztowych i korespondencji telegraficznej i telefonicznej. (3] Zatrzymywanie, prześlądanie, zajęcie i otwieranie przesyłek pocztowych oraz teleśramów i udzielanie o nich wiadomości jest dopuszczalne tylko w wypadkach, prawem przewidzianych."
+      },
+      {
+       "type": "text",
+       "text": "(4) Postanowienia ustępu 1—3 niniejszego artykułu mają zastosowanie również do koncesjonarjuszy prywatnych urządzeń telegraficznych i telefonicznych, przeznaczonych do powszechnego użytku, oraz do ich personelu."
+      },
+      {
+       "type": "text",
+       "text": "(5) Uszkodzone przesyłki pocztowe, z wyjątkiem listów zamkniętych, jako też przesyłki niedoręczalne, mogą być otwarte przez urzędy pocztowe w trybie, przewidzianym ordynacją pocztową."
+      },
+      {
+       "type": "text",
+       "text": "(6) Odnośnie do korespondencji zagranicznej przepisy trzech pierwszych ustępów niniejszego artykułu mają zastosowanie wyłącznie na zasadach wzajemności."
+      },
+      {
+       "type": "text",
+       "text": "(7) Przesyłki, nadawane w stanie otwartym, nie korzystają z ochrony tajemnicy pocztowej; nie uwalnia to atoli poczty od zachowania tajemnicy tej korespondencji wobec osób prywatnych."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17",
+     "path": "art_17",
+     "text": "(1) Przesyłek, powierzonych poczcie, nie wolno ze skutkiem prawnym zająć ani sądownie, ani w jakikolwiek inny sposób, ani też obciążyć zastawem, dopóki nie będą oddane odbiorcy lub zwrócone nadawcy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Wyjątki dopuszczalne są tylko na podstawie obowiązujących ustaw państwowych."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "18",
+     "path": "art_18",
+     "text": "(1) Minister Poczt i Telegrafów oznacza opłaty i określa warunki, pod jakiemi odbywać się ma przyjmowanie, przesyłanie i doręczanie przesyłek pocztowych i telegramów oraz używanie telefonów, nie naruszając konwencyj międzynarodowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Warunki te zawierać będą ordynacje: pocztowa, telegraficzna i telefoniczna."
+      },
+      {
+       "type": "text",
+       "text": "(3) Ministrowie Poczt i Telegratów, Skarbu i Spraw Wewnętrznych określają w drodze rozporządzeń wysokość i sposób uiszczania opłat pocztowych od przesyłek listowych, wysyłanych:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_18/lit_a",
+       "text": "przez władze i urzędy państwowe, samorządu terytorjalnego i gospodarczego w poruczonym zakresie działania, oraz przez przedsiębiorstwo „Polskie Koleje Państwowe\";",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_18/lit_b",
+       "text": "przez osoby lub instytucje na wezwanie władz i urzędów państwowych oraz samorządu terytorjalnego i gospodarczego w poruczonym zakresie działania;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_18/lit_c",
+       "text": "przez osoby lub instytucje w wykonywaniu ustawowego obowiązku.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(4) Ponadto Ministrowi Poczt i Telegrafów służy prawo określania ulgowych opłat od przesyłek pocztowych, przesyłanych przez instytucje wyższej użyteczności społecznej oraz instytucje, których działalność jest ściśle związana z instytucją pocztową."
+        },
+        {
+         "type": "text",
+         "text": "(5) Wydatki na opłaty pocztowe od przesyłek listowych, wysyłanych przez władze i urzędy samorządu terytorjalnego i gospodarczego w poruczonym"
+        },
+        {
+         "type": "text",
+         "text": "Nr. 63."
+        },
+        {
+         "type": "text",
+         "text": "zakresie działania, pokrywają właściwe władze państwowe."
+        },
+        {
+         "type": "text",
+         "text": "(6) Prawa abonentów państwowych urządzeń telefonicznych mogą być cedowane na osoby trzecie tylko w wypadkach i pod warunkami, które określi Minister Poczt i Telegrafów."
+        },
+        {
+         "type": "text",
+         "text": "(7) Osoby fizyczne lub prawne, które otrzymają koncesję lub zezwolenie na urządzenia wymienione w art, 7 ust. 1 lit. a) niniejszej ustawy, obowiązane są przez cały czas trwania koncesji lub zezwolenia uiszczać opłatę, której wysokość oznacza Minister Poczt i Telegrafów w porozumieniu z Ministrem Skarbu."
+        },
+        {
+         "type": "text",
+         "text": "(8) Od obowiązku uiszczania opłaty, wymienionej w ustępie poprzednim, zwolnione są radjostacje żeglugi morskiej i powietrznej. Ponadto dyrekcje poczt i telegrafów mogą zwalniać od tej opłaty instytucje naukowe i osoby, pracujące naukowo, inwalidów wojennych, jeżeli oprócz zaopatrzenia, pobieranego z funduszów publicznych, nie posiadają innych źródeł utrzymania, tudzież ociemniałych, którzy wykażą się świadectwem ubóstwa. *"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "19",
+     "path": "art_19",
+     "text": "(1) Każdy ma prawo do korzystania z urządzeń pocztowych, telegraficznych i telefonicznych państwowych i koncesjonowanych, przeznaczonych do powszechnego użytku, pod warunkami, określonemi w ordynacjach pocztowej, telegraficznej i telefonicznej, wzślędnie w dokumentach koncesyjnych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Prywatny ruch pocztowy, telegraficzny i telefoniczny może być rozporządzeniem Rady Ministrów czasowo wstrzymany lub ograniczony na całym obszarze Państwa lub na jego części."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "20",
+     "path": "art_20",
+     "text": "(1) Kolejowe i lotniskowe urzędy telegraficzne oraz radjostacje portów lotniczych użytku publiczneśo pełnią pomocniczo służbę telegraficzną nadawczą i oddawczą w zakresie płatnych teleśramów państwowych i prywatnych, jeżeli to ze względu na techniczne urządzenia i ich obsługę jest możliwe bez uszczerbku dla ruchu kolejowego i lotniczego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Radjostacje ruchome marynarki handlowej i lotnictwa cywilnego mogą pełnić publiczną służbę telegraficzną lub telefoniczną w zakresie obsługi pasażerów statków wodnych lub powietrznych."
+      },
+      {
+       "type": "text",
+       "text": "(3) Sposób pełnienia służb, wymienionych w ust. 1 i 2, określa w drodze rozporządzenia Minister Poczt i Telegrafów w porozumieniu z Ministrami Komunikacji oraz Przemysłu i Handlu."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "21",
+     "path": "art_21",
+     "text": "Należności z tytułu nie zapłaconych opłat, dopłat lub wydatków pocztowych, teleśraficznych i telefonicznych, jak również opłat od koncesyj i zezwoleń, wydanych na podstawie art. 8 ustawy niniejszej, podlegają ściągnięciu w trybie administracyjnym.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "22",
+     "path": "art_22",
+     "text": "(1) Minister Poczt i Telegrafów ma wyłączne prawo wydawania znaczków pocztowych, nadruków pocztowych, nalepek i płatnych druków pocztowych,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Nr. 63. aga telegraficznych i telefonicznych oraz oznaczenia ich wartości."
+      },
+      {
+       "type": "text",
+       "text": "(2) Nalepki i płatne druki pocztowe, telegrapew e * ficzne i telefoniczne mogą być wydawane przez osoby prywatne ae dla własnego użytku, za zezwoleniem Ministra Poczt i Telegrafów. =="
+      },
+      {
+       "type": "text",
+       "text": "(3) Wytwarzanie, sprzedaż i rozpowszechnianie znaczków, nadruków, nalepek i druków, naśladujących znaczki pocztowe, nadruki pocztowe, nalepki i płatne druki pocztowe, telegraficzne i telefoniczne w ten sposób, że mogłyby być uważane za wydane przez zarządy pocztowe, jest wzbronione. Pod względem ochrony prawnej znaczki, nalepki, nadruki pocztowe, wydane przez zarządy pocztowe zagraniczne, traktowane są narówni ze znaczkami, nalepkami i nadrukami pocztowemi krajowemi."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "23",
+     "path": "art_23",
+     "text": "Pokwitowania pocztowe, telegraficzne i telefoniczne tak nadawcze, jak oddawcze są dokumentami publicznemi.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "24",
+     "path": "art_24",
+     "text": "(1) Od opłat pocztowych wolne są:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_24/lit_a",
+       "text": "doniesienia o chorobach zakaźnych i zawodowych oraz o zaraźliwych chorobach zwierzęcych i roślin, przesyłane w wykonywaniu obowiązku doniesienia, nałożonego przepisami prawnemi;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_24/lit_b",
+       "text": "przesyłki pocztowe, dotyczące jeńców wojennych i osób internowanych, przeznaczone dla tych osób lub przez nie wysyłane, w granicach, ustalonych światową umową pocztową;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_24/lit_c",
+       "text": "przesyłki poczty polowej w granicach, określonych przepisami dla poczt polowych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_24/lit_d",
+       "text": "urzędowe zwykłe i polecone przesyłki listowe oraz paczki pocztowe, przesyłane między Pocztową Kasą Oszczędności a urzędami (agencjami) pocztowemi, jako zbiornicami Pocztowej Kasy Oszczędności.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Od opłaty teleśraficznej są wolne teleśramy meteorologiczne Państwowego Instytutu Meteorologicznego w Warszawie, jego stacyj i obserwatorów oraz zawiadowców portów lotniczych użytku publicznego."
+        },
+        {
+         "type": "text",
+         "text": "(3) Od opłaty teleśraficznej i telefonicznej są wolne telegramy i doniesienia telefoniczne, wysyłane do właściwych władz o pomoc w przypadkach napadów rabunkowych, pożarów, epidemij, katastrof, nieszczęśliwych wypadków lotniczych i przymusowych lądowań, jak również innych nieszczęść, spowodowanych żywiołowemi zdarzeniami. Od tychże opłat wolne są również lotnicze ostrzeżenia meteorologiczne o nagłej, a niebezpiecznej dla żeglugi powietrznej zmianie warunków atmosferycznych."
+        },
+        {
+         "type": "text",
+         "text": "(4) Od opłaty telegraficznej, telefonicznej i pocztowej wolne są teleśramy, rozmowy i przesyłki listowe władz wojskowych, władz administracji ogólnej i władz bezpieczeństwa w czasie częściowej lub ogólnej mobilizacji, w czasie wojny lub w okresie, kiedy teśo będzie wymagał interes obrony Państwa. stwierdzony uchwałą Rady Ministrów."
+        },
+        {
+         "type": "text",
+         "text": "(5) Minister Poczt i Telegrafów określa warunki i zasady, obowiązujące przy wysyłaniu przesyłek i teleśramów oraz prowadzeniu rozmów, zwolnionych od opłaty pocztowej, telegraficznej i telefonicznej."
+        },
+        {
+         "type": "text",
+         "text": "(6) Poza wyjątkami, podanemi w poprzednich ustępach, nikomu nie służy prawo bezpłatnego korzystania z poczty, telegrafu i telefonu."
+        },
+        {
+         "type": "text",
+         "text": "(7) Wysokość i sposób obliczania należności, jakie płacić ma Pocztowa Kasa Oszczędności zarządowi poczt i telegrafów za jego świadczenia w myśl § 14 rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 czerwca 1924 r. o Pocztowej Kasie Oszczędności i rozdziału V Statutu Pocztowej Kasy Oszczędności (Dz. U. R. P. Nr. 55, poz. 545), ustala umowa między państwowem przedsiębiorstwem „Polska Poczta, Telegraf i Telefon\" a Pocztową Kasą Oszczędności, podlegająca zatwierdzeniu przez Ministrów Poczt i Telegrafów oraz Skarbu."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "25",
+     "path": "art_25",
+     "text": "Nieruchomości prywatne lub ich części, służące do użytku poczty, telegrafu i telefonu, są wolne kwaterunku i rekwizycji, ruchomości — od rekwizycji i zajęcia.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "26",
+     "path": "art_26",
+     "text": "(1) Zarząd poczt i telegrafów ma prawo do bezpłatnego używania promów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Zarząd poczt i telegrafów jest zwolniony od opłat mytniczych. kopytkowych i mostowych i nie może być pociągany do udziału w kosztach budowy i utrzymania dróg niepaństwowych."
+      },
+      {
+       "type": "text",
+       "text": "Art 27."
+      },
+      {
+       "type": "text",
+       "text": "W razie powodzi. zasp śniężnych lub innych szczególnych trudności w przebyciu dróg publicznych zarząd poczt i telegrafów ma prawo używać dróg prywatnych. Nadto zarząd poczt i telegrafów ma prawo w tych wypadkach przejeżdżać przez prywatne grunty i łąki przy zachowaniu przez właścicieli prawa żądania odszkodowania."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "28",
+     "path": "art_28",
+     "text": "(1) Na dany sygnał pocztowy muszą być bezzwłocznie otwierane rogatki, zapory oraz dokonywane przewozy promami, a wszystkie zaprzęgi mają ustępować na drogach, o ile to może nastąpić bez widocznego niebezpieczeństwa. Odnośnie do otwierania zapór kolejowych obowiązują przepisy kolejowe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Mieszkańcy przydrożni obowiązani są na wezwanie pośpieszyć poczcie z pomocą za stosownem wynagrodzeniem, które na żądanie wyznaczy zarząd poczt i telegrafów."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "29",
+     "path": "art_29",
+     "text": "(1) Kto zakłada lub utrzymuje w ruchu urządzenia pocztowe albo urządzenia teleśraficzne i telefoniczne, wymienione w art. 7, ust. 1, lit. a), wbrew postanowieniom ustawy niniejszej, podlega karze aresztu do trzech miesięcy i grzywny do trzech tysięcy złotych lub jednej z tych kar.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Równocześnie z karą orzec można przepadek na rzecz Skarbu Państwa urządzeń, stanowiących przedmiot przestępstwa, niezależnie od tego, do kogo urządzenia te należą."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(3) W sprawach, dotyczących sprzeczneśo z ustawą niniejszą zakładania, używania i posiadania odbiorczych urządzeń radjofonicznych, obok kary wymierza się na rzecz zarządu poczt i telegrałów odszkodowanie w wysokości sześciomiesięcznej opłaty radjofonicznej."
+      },
+      {
+       "type": "text",
+       "text": "(4) Właściwe do orzekania są powiatowe władze administracji ośólnej."
+      },
+      {
+       "type": "text",
+       "text": "(5) Do ujawniania odbiorczych urządzeń radjofonicznych, założonych lub używanych wbrew postanowieniom ustawy niniejszej, mogą być z upoważnienia Ministra Poczt i Telegrafów powoływane organa koncesjonarjusza radjofonicznych stacyj nadawczych."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "30",
+     "path": "art_30",
+     "text": "(1) Kto uszkadza urządzenia, służące do komunikacji pocztowej, telegraficznej lub telefonicznej, jeżeli za dany czyn nie grozi kara surowsza według innych ustaw karnych, podlega karze aresztu do trzech miesięcy i grzywny do trzech tysięcy złotych lub jednej z tych kar.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) W razie skazania za przerwanie przewodu telegraficznego lub telefonicznego, uszkodzenie lub też zerwanie izolatora, orzeka się nadto na rzecz poszkodowanego odszkodowanie w wysokości pięciu złotych za każdy uszkodzony lub zerwany izolator oraz dwóch złotych za każde dziesięć metrów zerwanego przewodu."
+      },
+      {
+       "type": "text",
+       "text": "(3) Właściwe do orzekania są powiatowe władze administracji ogólnej."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "31",
+     "path": "art_31",
+     "text": "(1) Kto przesyła lub puszcza w o bieś zapomocą urządzeń radjokomunikacyjnych fałszywe lub wprowadzające w błąd sygnały niebezpieczeństwa lub wezwania w niebezpieczeństwie, jeżeli za dany czyn nie śrozi kara surowsza wedłuś innych ustaw karnych, podlega karze aresztu do trzech miesięcy i grzywny do trzech tysięcy złotych lub jednej z tych kar.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Właściwe do orzekania są powiatowe władze administracji ogólnej."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "32",
+     "path": "art_32",
+     "text": "(1) Kto bez uprawnienia przyłącza się do przewodu lub urządzenia radjokomunikacyjnej stacji nadawczej, jeżeli za dany czyn nie grozi kara surowsza według innych ustaw karnych, podlega karze aresztu do trzech miesięcy i grzywny do trzech tysięcy złotych lub jednej z tych kar.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Właściwe do orzekania są powiatowe władze administracji ogólnej."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "33",
+     "path": "art_33",
+     "text": "(1) Kto przyjmuje, przesyła lub doręcza przedmioty, wymienione w art. 2, a nie wyjęte w art. 3 z pod prawa wyłączności państwowej, podlega karze aresztu do czterech tygodni i grzywny do tysiąca złotych lub jednej z tych kar.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) W razie skazania orzeka się nadto odszkodowanie w wysokości dziesięciokrotnej uszczuplonej należności pocztowej, przyjmując za podstawę wymiaru opłaty pocztowe, obowiązujące w dniu popełnienia przestępstwa."
+      },
+      {
+       "type": "text",
+       "text": "Nr. 63. —m_ im"
+      },
+      {
+       "type": "text",
+       "text": "(3) Właściwe do orzekania są powiatowe władze administracji ogólnej."
+      },
+      {
+       "type": "text",
+       "text": "Art, 34."
+      },
+      {
+       "type": "text",
+       "text": "(1) Kto umyślnie przeszkadza organom państwowym w wykonywaniu kontroli zgodnie z niniejszą ustawą, podlega karze aresztu do jednego miesiąca i grzywny do tysiąca złotych lub jednej z tych kar."
+      },
+      {
+       "type": "text",
+       "text": "(2) Właściwe do orzekania są powiatowe władze administracji ogólnej."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "35",
+     "path": "art_35",
+     "text": "(1) Kto sprzedaje znaczki pocztowe lub płatne druki pocztowe, telegraficzne lub telefoniczne po cenie wyższej od nominalnej, podlega karze aresztu do jednego miesiąca i grzywny do tysiąca złotych lub jednej z tych kar.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Właściwe do orzekania są powiatowe władze administracji ogólnej."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "36",
+     "path": "art_36",
+     "text": "(1) Kto przekroczy postanowienia art. 4, art. 5 ust. 1 i 2, art. 12, 13, art. 15 ust. 4, art. 22 ust. 213 lub art. 28 ustawy niniejszej, albo też nabywa sprzęt radjotechniczny bez uzyskania koncesji lub upoważnienia, albo też kto przyjmuje do wysyłki i doręczenia wszelkiego rodzaju pisma i obrazy, które przeznaczone są do wysyłania przy pomocy urządzeń, wymienionych w art. 7 ust. 1 lit. a), lub zapomocą tych urządzeń są odebrane, podlega karze grzywny do trzech tysięcy złotych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) W razie skazania za naruszenie art, 4,5 ust. 1 i 2, należy orzec nadto odszkodowanie w wysokości dziesięciokrotnej uszczuplonej należności pocztowej lub telegraficznej, przyjmując za podstawę wymiaru opłaty, obowiązujące w dniu popełnienia przestępstwa."
+      },
+      {
+       "type": "text",
+       "text": "(3) Właściwe do orzekania są powiatowe władze administracji ogólmej."
+      },
+      {
+       "type": "text",
+       "text": "Art. 37,"
+      },
+      {
+       "type": "text",
+       "text": "Odszkodowania, przewidziane w art. 33 i 36, wpływają na rzecz państwowego przedsiębiorstwa „Polska Poczta, Telegraf i Telefon\"."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "38",
+     "path": "art_38",
+     "text": "Państwowe, cywilne i wojskowe, jako też samorządowe władze i urzędy mają obowiązek udzielania pomocy w wykonywaniu czynności urzędowych, pozostających w związku z utrzymaniem ruchu pocztowego, telegraficznego i telefonicznego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 39,"
+      },
+      {
+       "type": "text",
+       "text": "(1) Zarządy kolei państwowych i prywatnych są obowiązane na żądanie zarządu poczt i telegrafów:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_38/lit_a",
+       "text": "dostarczać na stacjach kolejowych w miarę możności bądź w drodze najmu, bądź w drodze przekazania w zarząd za umówioną opłatą potrzebnych na cele pocztowe, telegraficzne lub telefoniczne pomieszczeń służbowych i placów pod budowę pomieszczeń",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "służbowych lub domów mieszkalnych dla pracowników zarządu poczt i telegrafów, oraz uskuteczniać żądane przez zarząd poczt i telegrafo6w przeróbki i remonty w wynajętych lokalach za zwrotem kosztów własnych; utrzymywanie wynajętych pomieszczeń w stanie zdatnym do użytku należy do zarządu poczt i telegrafów;"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_38/lit_b",
+       "text": "wykonywać konserwacje technicznych urządzeń kolejowych, wybudowanych do celów pocztowych:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_38/lit_c",
+       "text": "urządzać dostęp z peronów do wszystkich torów, na których odbywa się ładowanie poczty;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_38/lit_d",
+       "text": "dostarczać za zwrotem kosztem własnych materjałów opałowych dla pomieszczeń służbowych pocztowych, telegraficznych i telefonicznych na stacjach kolejowych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_38/lit_e",
+       "text": "przy projektowaniu nowych i przebudowie lub rozszerzaniu istniejących stacyj kolejowych uwzględniać potrzeby zarządu poczt i teleśrafów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Wysokość należności za świadczenia, wy- „mienione pod lit. b) i c), ustala zarząd kolei państwowych na podstawie kosztów własnych."
+        },
+        {
+         "type": "text",
+         "text": "(3) Czasowe rozmieszczenie na gruntach kolejowych na wolnem powietrzu materjałów, służących do budowy lub utrzymania linij teletechnicznych zarządu poczt i telegrafów, nie podlega opłacie, wymaga jednak uprzedniego porozumienia się zarządu poczt i telegrafów z zarządem kolei co do miejsca, czasu i innych warunków rozmieszczenia tychże materjałów."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "40",
+     "path": "art_40",
+     "text": "(1) Zarządowi poczt i telegratów przysługuje prawo przewozu ładunku pocztowego wszystkiemi stałemi pociągami kolei państwowych i prywatnych. Organom zarządu poczt i telegraféw przysługuje prawo wolnego dostępu na perony i tory kolejowe, gdzie tego wymagają ich obowiązki służbowe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Odnośnie do przewozu ładunków pocztowych w oddzielnych wagonach, to zarządy kolei państwowych i prywatnych są obowiązane, na żądanie zarządu poczt i telegrafów: „a) włączać do każdego stałego pociągu pasażerskiego wagon pocztowy; włączenie drugiego wagonu pocztoweśo wymaga porozumienia zarządu poczt i telegraféw z zarządem kolejowym; obowiązek zarządu kolejowego przewiezienia ładunku pocztowego i wagonów pocztowych nie odnosi się do pociągów zbytkownych (luksusowych);"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_40/lit_b",
+       "text": "dostarczać odpowiedniego przedziału w wagonie kolejowym do przewiezienia ładunku, czy to pod zamknięciem, czy to pod dozorem funkcjonarjusza pocztowego i urządzać przedziały w wagonach kolejowych dła celów pocztowych za zwrotem kosztów;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_40/lit_c",
+       "text": "przewozić zamknięte odsyłki pocztowe przez konduktorów kolejowych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_40/lit_d",
+       "text": "dostarczać krytych wagonów towarowych do przewozu ładunku pocztowego w pociągach mieszanych i towarowych, a w pociągach osobowych po uprzedniem porozumieniu między obu zarządami;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_40/lit_e",
+       "text": "ogrzewać i oświetlać wagony pocztowe, przedziały pocztowe oraz oswietlaé konwojowane wagony towarowe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "41",
+     "path": "art_41",
+     "text": "Jeżeli wagon pocztowy lub wagon kolejowy z przedziałem pocztowym z powodu uszkodzenia lub innej przyczyny musi być wycofany z obiegu, zarząd kolejowy jest obowiązany:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_41/lit_a",
+       "text": "włączać zamiast niego inny wagon pocztowy lub wagon kolejowy lub wreszcie wyznaczyć stosowne miejsce dla przewozu ładunku pocztowego lub przynajmniej poczty listowej w tym samym lub w zastępczym pociągu; *",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_41/lit_b",
+       "text": "udzielić pomocy przy przeładowaniu poczty.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "42",
+     "path": "art_42",
+     "text": "Wagonów pocztowych z kompletnem urządzeniem wewnętrznem dostarcza zarząd poczt i telegrałów; wagony te mają być zgodne z planami, rysunkami i opisami, zatwierdzonemi przez Ministerstwo Komunikacji, i muszą odpowiadać warunkom technicznym, dotyczącym budowy taboru Polskich Kolei Państwowych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "43",
+     "path": "art_43",
+     "text": "(1) Konserwację i naprawę bieżącą wagonów pocztowych i ich wewnętrznego urządzenia, jako też naprawę przedziałów pocztowych w wagonach kołejowych uskutecznia zarząd kolejowy na rachunek zarządu poczt i telegraféw, za zwrotem kosztów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Koszty naprawy uszkodzonych wagonów i przedziałów pocztowych i odszkodowanie za zniszczone wagony i przedziały pocztowe ponosi zarząd kolejowy, jeżeli to uszkodzenie, względnie zniszczenie, nastąpiło z winy organów kolejowych."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "44",
+     "path": "art_44",
+     "text": "(1) Czyszczenie wewnętrzne wagonów pocztowych i przedziałów pocztowych, urządzonych w wagonach kolejowych, uskutecznia zarząd poczt i telegratów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Czyszczenie zewnętrzne uskutecznia zarząd kolejowy na własny rachunek,"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "45",
+     "path": "art_45",
+     "text": "Przejazd funkcjonarjuszów pocztowych, zajętych służbowo w waśonach pocztowych, przedziałach pocztowych wagonów kolejowych lub w krytych wagonach towarowych odbywa się bezpłatnie.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "46",
+     "path": "art_46",
+     "text": "Wysokość należności, jakie zarząd poczt i telegrafów ma płacić zarządowi kolejowemu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_46/lit_a",
+       "text": "za przewóz wagonów pocztowych, krytych wagonów towarowych z ładunkiem pocztowym oraz za używanie przedziałów w wagonach kolejowych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_46/lit_b",
+       "text": "za przewóz zamkniętych odsyłek listowych przez konduktorów kolejowych i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_46/lit_c",
+       "text": "za ogrzewanie i oświetlanie wagonów pocz: towych, przedziałów pocztowych w wagonach kolejowych i za oświetlanie konwojowanych wagonów towarowych ustala Minister Komunikacji w porozumieniu z Ministrem Poczt i Telegrafów.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "47",
+     "path": "art_47",
+     "text": "Odpowiedzialność zarządu kolejowego wobec zarządu poczt i telegrafów za oddane zarządowi kolejowemu do przewozu przesyłki pocztowe określi Minister Komunikacji w porozumieniu z Ministrem Poczt i Telegrafów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 48."
+      },
+      {
+       "type": "text",
+       "text": "Kolejowe rozkłady jazdy układa zarząd kolejowy w porozumieniu z zarządem poczt i telegrafów i o ile możności dostosowuje miejsce i czas postoju pociągów do potrzeb ruchu pocztowego."
+      },
+      {
+       "type": "text",
+       "text": "Art. 49,"
+      },
+      {
+       "type": "text",
+       "text": "(1) Państwowe i prywatne zarządy Żeglugi Wodnej są obowiązane dostarczać zarządowi poczt i telegrafów, za umówioną opłatą, w obrębie budowli portowych i w taborze osobowym, oświetlonych i ogrzanych pomieszczeń dla urządzeń pocztowych, telegraficznych i telefonicznych. Ilość, rozmiary i przeznaczenia tych pomieszczeń ustalone będą we wzajemnem porozumieniu zarządu poczt i telegraféw i zarządów Żeglugi."
+      },
+      {
+       "type": "text",
+       "text": "(2) Zarządowi poczt i telegrałfów przysługuje prawo przewozu przesyłek pocztowych przez własne organa lub obsługę statków wszystkiemi środkami, służącemi do Żeślugi Wodnej. Należytość za te przewozy ustalają dyrekcje poczt i telegrafów z zarządami Żeglugi."
+      },
+      {
+       "type": "text",
+       "text": "(3) Organom zarządu poczt i telegraféw przysługuje prawo wolnego dostępu do tych części portów, w których ładuje się przesyłki pocztowe, i korzystania ze wszystkich urządzeń portowych, należących do przedsiębiorstw, celem przewiezienia ładunku pocztowego oraz załadowania i wyładowania ze statków."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "50",
+     "path": "art_50",
+     "text": "Wszelkie przedsiębiorstwa przewozowe, nieobjęte artykułami 39 i 49, są obowiązane przewozić — za słusznem wynagrodzeniem — ładunek pocztowy przy pomocy własnych organów lub pod dozorem tunkcjonarjuszów pocztowych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "51",
+     "path": "art_51",
+     "text": "(1) Wydawanie przedsiębiorstwom, posługującym się prądem silnym, pozwoleń na budowę ich urządzeń winno być poprzedzone opinją zarządu poczt i telegrafów odnośnie do wpływu prądu na państwowe urządzenia telegraficzne i telefoniczne, służące do powszechnego użytku lub utrzymywane przez zarząd poczt i telegratów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Koszty urządzeń, potrzebnych dla zabezpieczenia od szkodliwego wpływu prądu silnego przewodów telegraficznych i telefonicznych, wymienionych w pierwszym ustępie, ponosi ta strona, która później buduje swe urządzenia. Koszty takich urządzeń, poniesione przez zarząd poczt i telegrałów na rachunek przedsiębiorstwa, posługującego się silnym prądem, mogą być ściągane w sposób, określony w art. 21."
+      },
+      {
+       "type": "text",
+       "text": "(3) Minister Poczt i Telegrałów w porozumieniu z Ministrami Przemysłu i Handlu, Spraw Wewnętrznych i Spraw Wojskowych wydaje w drodze rozporządzeń przepisy, normujące zapobieganie i usuwanie zakłóceń elektrycznych w telekomunikacji. wywoływanych przez aparaty i odbiorniki elektryczne, stosowane przez poszczególnych odbiorców lub użytkowników prądu silnego lub słabego; odpowiednie przeróbki lub uzupełnienia będą wykonywane bądź w urządzeniach odbiorców lub użytkowników prądu silnego lub słabego, bądź w urządzeniach telekomunikacyjnych."
+      },
+      {
+       "type": "text",
+       "text": "(4) Poza tem Minister Poczt i Telegrafów jest upoważniony do powołania w porozumieniu z Ministrem Przemysłu i Handlu organu doradczego i opinjodawczego, uprawnionego do wydawania opinii w przypadkach sporów, jakie mogą wyniknąć przy stosowaniu przepisów poprzedniego ustępu."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "52",
+     "path": "art_52",
+     "text": "(1) Ustawa niniejsza wchodzi w życie z dniem jej ogłoszenia i obowiązuje na całym obszarze Rzeczypospolitej Polskiej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Równocześnie tracą moc obowiązującą: ustawa z dnia 27 maja 1919 r. o państwowej wyłączności poczty, telegrafu i telefonu (Dz. P. P. P. Nr. 44, poz. 310), art. 11 ustawy z dnia 19 maja 1920 r. o Pocztowej Kasie Oszczędności (Dz. U. R. P. Nr. 48, poz. 297) i ustęp ostatni rozdziału VI Statutu Organizacyjnego Pocztowej Kasy Oszczędności, ogłoszonego w Dz. U. R. P. z roku 1920 Nr. 48, poz. 297, art. 7 ustawy z dnia 31 lipca 1919 r. w sprawie wydawania Dziennika Ustaw Rzeczypospolitej Polskiej (Dz. U. R. P. Nr. 66, poz. 400), drugie zdanie art. 6 ustawy z dnia 25 lipca 1919 r. w przedmiocie zwalczania chorób zakaźnych oraz innych chorób, występujących naśminnie (Dz. U. R. P. Nr. 67, poz. 402) i wszelkie inne postanowienia prawne sprzeczne z niniejszą ustawą."
+      },
+      {
+       "type": "text",
+       "text": "(3) Postanowienia tej ustawy w niczem nie naruszają mocy postanowień ustawy z dnia 18 grudnia 1920 r. o pocztach, radjotelegrafach, telegrafach i telefonach w czasie wojny (Dz. U. R. P. z 1921 r. Nr. 7, poz. 36)."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "53",
+     "path": "art_53",
+     "text": "Wykonanie ustawy niniejszej porucza się Ministrowi Poczt i Telegraféw w porozumieniu z zainteresowanymi ministrami, a wykonanie art. 29, 30, 31, 32, 33, 34, 35 i 36—Ministrowi Spraw Wewnętrznych i Ministrowi Sprawiedliwości,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Warszawa. Drukarnia Państwowa. Tłoczono z polecenia Ministra Sprawiedliwości. 65460 P"
+      },
+      {
+       "type": "text",
+       "text": "Konto czekowe w P. K. O. Administracji Dziennika Ustaw Nr. 30130. Cena 40 śr."
+      },
+      {
+       "type": "text",
+       "text": "OD ADMINISTRACJI: Prenumerata Dz, U, R. P. Wynosi 8 zł, kwartalnie, Urzędy i instytucje państwowe opłacają 6 zi, Prenumerata winna być opłacana najpóźniej na 2 tygodnie przed rozpoczęciem każdego kwartału. Reklamacje z powodu nieotrzymania poszczególnych numerów Dz, U. R, P, należy wnosić do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

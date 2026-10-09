@@ -1,0 +1,75 @@
+{
+ "eli": "DU/1932/642",
+ "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 6 sierpnia 1932 r. w sprawie uzupełnienia ordynacji pocztowej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1932/642/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA POCZT I TELEGRAFÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 sierpnia 1932 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie uzupełnienia ordynacji pocztowej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art, 6i 17 ust. 1 i 2 ustawy z dnia 3 czerwca 1924 r. o poczcie, telegralie i telelonie (Dz. U. R. P. Nr. 58, poz. 584), której tekst jednolity ogłoszony został w załączniku do obwieszczenia Ministra Poczt i Telegrafów z dnia 21 stycznia 1931 r. (Dz. U. R. P. Nr. 12, poz. 57) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W ordynacji pocztowej, ogłoszonej w załączniku do rozporządzenia Ministra Poczt i Teleśrafów z dnia 21 marca 1931 r. (Dz. U. R. P. Nr. 45, poz. 392) wprowadza się następujące zmiany 1 uzupełnienia:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "w § 32 w zdaniu pierwszem ustępu pierwszego spójnik „i' między słowami ,,paczki listy'' zastępuje się przecinkiem, a po stowie „wartościowe skreśla się kropkę i dodaje się: „oraz druki nadawane jednorazowo w ilości ponad 100 sztuk'';",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 70."
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "w § 80 dodaje się nowy punkt następującej treści:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3) Na drukach wpłaconych gotówką przy nadaniu (§ 32) musi być umieszczony na stronie adresowej napis: „Opłacono gotówką”. Druki takie muszą być nadawane przy okienku w urzędzie pocztowym zapomocą pocztowej książki nadawczej”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Poczt i Telegrałów: Boerner"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

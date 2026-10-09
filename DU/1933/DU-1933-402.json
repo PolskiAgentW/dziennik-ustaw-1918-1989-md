@@ -1,0 +1,266 @@
+{
+ "eli": "DU/1933/402",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 13 lipca 1933 r. w sprawie obliczenia i poboru nadzwyczajnej daniny majątkowej w 1933 roku.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1933/402/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 lipca 1933 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie obliczenia i poboru nadzwyczajnej daniny majątkowej w 1933 roku."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 8 ust. 1 i art. 12 ustawy z dnia 24 marca 1933 r. o nadzwyczajnej daninie majątkowej (Dz. U. R. P. Nr. 29, poz. 248) — zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Nadzwyczajną daninę majątkową obliczają:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "w I grupie kontyngentowej — w powiatach, stanowiących okraś jednego urzędu skarbowego — urzędy skarbowe, w których okrę- $u są położone grunta, podlegające nadzwyczajnej daninie majątkowej; jeżeli powiat jest podzielony na dwa lub więcej okręgów urzędów skarbowych — urzędy skarbowe, właściwe dla obliczania progresji w państwowym podatku gruntowym;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "w II grupie kontyngentowej — urzędy skarbowe, w których okręgu ustalony został obrót, miarodajny dla obliczenia nadzwyczajnej daniny majątkowej; dla spółek akcyjnych nadzwyczajną daniną majątkową w II grupie kontyngentowej obliczają izby skarbowe;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz. 401 i 402. Nr. 53."
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "w III grupie kontyngenicwej — urzędy skarbowe, w których okręgu położone są nieruchomości miejskie oraz niektóre budynki w śminach wiejskich, podlegające nadzwyczajnej daninie majątkowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Kwoty nadzwyczajnej daniny majątkowej, obliczone na 1933 rok, płatne są w poszczególnych grupach kontyngentowych w następujących terminach: i",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "w I grupie kontyngentowej — połowa w terminie do dnia 30 września 1933 roku włącznie, — druga połowa w terminie do dnia 15 listopada 1933 roku włącznie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "w II grupie kontyngentowej — cała należność w terminie do dnia 31 sierpnia 1933 roku włącznie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_2/lit_c",
+     "text": "w III grupie kontyngentowej — cała należność w terminie do dnia 30 listopada 1933 roku włącznie,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "Na obliczone kwoty nadzwyczajnej daniny majątkowej doręcza się płatnikom nakazy zapłaty według ustalonych wzorów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "Nakazy te doręcza się płatnikom:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_2/lit_a",
+       "text": "I grupy kontyngentowej — w terminie do dnia 15 września 1933 r. włącznie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_2/lit_b",
+       "text": "II grupy kontyngentowej — w terminie do dnia 16 sierpnia 1933 r. włącznie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_3/pkt_2/lit_c",
+       "text": "III grupy kontyngentowej — w terminie do dnia 15 listopada 1933 r. włącznie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "W razie doręczenia nakazu zapłaty po terminach wyznaczonych w ust. 2 kwota nadzwyczajnej daniny majątkowej jest płatna w ciągu dni 14, licząc od dnia następnego, po doięczeniu nakazu zapłaty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "Nieuiszczone w ustawowych terminach kwoty nadzwyczajnej daniny majątkowej stają się zaległością i podlegają egzekucyjnemu ściągnięciu wraz z karami za zwłokę i kosztami egzekucyjnemi, przewidzianemi:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_1/lit_a",
+       "text": "w I grupie kontyngentowej — dla zaległości w państwowym podatku gruntowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_1/lit_b",
+       "text": "w II grupie kontyngentowej — dla zaległości w państwowym podatku przemysłowym od obrotu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_4/pkt_1/lit_c",
+       "text": "w III grupie kontyngentowej — dla zaległości w państwowym podatku od nieruchomości.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "Od odroczonych kwot nadzwyczajnej daniny . majątkowej pobiera się odsetki za odroczenie w wysokości, przewidzianej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_2/lit_a",
+       "text": "w I grupie kontyngentowej — dla odroczonych należności w państwowym podatku śruntowym,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_2/lit_b",
+       "text": "w II grupie kontyngentowej — dla odroczonych. należności w państwowym podatku przemysłowym od obrotu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_4/pkt_2/lit_c",
+       "text": "w III grupie kontyngentowej — dla odroczonych należności w państwowym podatku od nieruchomości,",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "Od nakazów zapłaty na nadzwyczajną daninę majątkową nie przysługuje płatnikom prawo odwołania się,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "go podatku gruntowego, w wysokości obrotu oraz w wysokości przychodu względnie wartości czynszowej, orzeczone w normalnym toku instancji w myśl obowiązujących przepisów o państwowym podatku gruntowym, ustawy o państwowym podatku przemysłowym oraz w myśl obowiązujących przepisów o państwowym podatku od nieruchomości w gminach miejskich oraz od niektórych budynków w gminach wiejskich — pociągają za sobą z urzędu zmianę w wysokości nadzwyczajnej daniny majątkowej, obliczonej w danej grupie kontyngentowej."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "Na obszarze województwa śląskiego, sprostowanie w trybie odwoławczym rocznego komornego (czynszu) względnie wartości czynszowej, ustalonych dla obliczenia nadzwyczajnej daniny majątkowej w III grupie kontyngentowej na 1933 rok, pociąga za sobą sprostowanie obliczenia daniny w tejże grupie na 1933 rok.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "O zmianach w wysokości nadzwyczajnej daniny majątkowej w myśl ust. 2 i 3 zawiadamiają władze skarbowe płatników z urzędu.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_5/pkt_5",
+     "text": "Omyłki rachunkowe w obliczeniu nadzwyczajnej daniny majątkowej prostują władze skarbowe z urzędu lub na wniosek płatnika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: Wł. Zawadzki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

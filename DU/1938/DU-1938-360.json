@@ -1,0 +1,460 @@
+{
+ "eli": "DU/1938/360",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 10 czerwca 1938 r. o pasie granicznym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/360/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 czerwca 1938 r."
+  },
+  {
+   "type": "text",
+   "text": "o pasie granicznym."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. (2) i art. 17 rozporządzenia Prezydenta Rzeczypospolitej z dnia 23 grudnia 1927 r. o granicach Państwa (Dz. U, R, P. z 1937 r. Nr 11, poz. 83) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "(1) Pas graniczny, określony w art. 10 ust. (1) rozporządzenia Prezydenta Rzeczypospolitej z dnia 23 grudnia 1927 r. o granicach Państwa, rozszerza się na następujące obszary:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w województwie białostockim:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "śminę Trzcianne w powiecie. białostoc-",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "im,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "miasta Dąbrowa i Suchowola w powiecie sokólskim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w województwie kieleckim: nie objętą pasem granicznym resztę powiatu będzińskiego i powiatu zawierciańskiego, oraz gminę Bolesław w powiecie olkuskim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w województwie krakowskim: nie objętą pasem granicznym resztę powiatu limanowskiego i powiatu myślenickiego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w województwie lwowskim: nie objętą pasem granicznym resztę powiatu drohobyckiego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w województwie nowogródzkim:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "nie objętą pasem granicznym resztę powiatu baranowickiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "gamy Lubcza, Niehniewicze, Szczorse, orelicze, Rajca, Cyryn, Poczapowo w powiecie nowogródzkim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_5/lit_c",
+       "text": "śminy iWerenów, Żyrmuny, Sobotniki, Lipniszki, Iwie w powiecie lidzkim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "w województwie pomorskim:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "nie objętą pasem granicznym resztę powiatów: brodnickiego, chełmińskiego, starogardzkiego, tucholskiego, wąbrzeskiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "śminy Wtelno, Koronowo i Koronowo— miasto w powiecie bydgoskim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "w województwie poznańskim:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_7/lit_a",
+       "text": "nie objętą pasem granicznym resztę powiatów: kościańskiego, obornickiego, szamotulskiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_7/lit_b",
+       "text": "miasta Gołańcz i Wągrowiec w powiecie wągrowieckim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_7/lit_c",
+       "text": "gminy Czermin i Gołuchów oraz miasta Jarocin i Pleszew w powiecie jarocińskim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "w województwie śląskim: nie objętą pasem granicznym resztę powiatu pszczyńskiego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "w województwie stanisławowskim: nie objętą pasem granicznym resztę powiatu kołomyjskiego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "w województwie i o opdikina",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_10/lit_a",
+       "text": "nie objętą pasem granicznym resztę powiatów: czortkowskiego, tarnopolskiego, trembowelskiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_10/lit_b",
+       "text": "śminy Załoźce, Załoźce — miasto, Olejów, Bogdanówka, Jezierna w powiecie z borowskim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "w województwie warszawskim: śminy Żuromin, Bieżuń, Stawiszyn w powiecie sierpeckim oraz śminę Sypniewo w powiecie makowskim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "w województwie wileńskim: nie objętą pasem granicznym resztę powiatu postawskiego oraz cały powiat oszmiański;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "w województwie ROZK",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_13/lit_a",
+       "text": "gminy Nowy Czartorysk, Trościaniec, Kołki, Silno, Rożyszcze, Rożyszcze — miasto, Kiwerce, Poddębce, O łyka, O łyka — miasto, Połonka, Kniahininek w powiecie łuckim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_13/lit_b",
+       "text": "śminy Warkowicze, Jarosławicze, Malin, Kniahinin, Młynów, Dubno, Dubno — miasto w powiecie dubieńskim.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "wiera załącznik do rozporządzenia niniejszego. '"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Na następujące obszary pasa granicznego wprowadza się poniżej wyszczególnione przepisy rozporządzenia Ministra Spraw Wewnętrznych z dnia 22 stycznia 1937 r., wydanego w porozumieniu z Ministrami: Skarbu, Sprawiedliwości, Komunikacji oraz Rolnictwa i Reform Rolnych w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej o granicach Państwa (Dz. U. R.P. Nr 12, poz. 84), przewidziane dla strefy nadgranicznej:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "przepis § 25 ust. (2) — na cały obszar pasa granicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "przepisy $§ 3 do 6, 10 do 12, 17, 24, 25, 32 i 35 na:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "cały powiat nieświeski, , ,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "powiat baranowicki z wyjątkiem $min Mołczadź, Nowa Mysz i Dobromyśl,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_2/lit_c",
+       "text": "gminy Stołpce, Mir, Żuchowicze i Świerzeń w powiecie stołpeckim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_2/lit_d",
+       "text": "gminy Dąbrowica, Lubkowicze, Niemowicze, Klesów i Kisorycze w powiecie sarneńskim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_2/lit_e",
+       "text": "cały powiat kostopolski z wyjątkiem miast: Kostopol i Bereźne,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "przepisy $§ 7 — 9 i 13 — 17 na:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_3/lit_a",
+       "text": "gminy Ostrów, Krzywoszyn, Niedźwiedzica, Lachowicze, Darewo, Jastrzebl, Horodyszcze, Stołowicze i Wolna w powiecie baranowickim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_3/lit_b",
+       "text": "gminy Klesów i Niemowicze w powiecie sarneńskim, powiecie kostopol-",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_3/lit_c",
+       "text": "gminę Bereźne w skim.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "(1) Na wymienione w § 2 pkt 2 obszary pasa granicznego oraz na 'teren całego pasa granicznego w województwach: pomorskim, poznańskim, śląskim, stanisławowskim, tarnopolskim, wileńskim i wołyńskim wprowadza się przepis art. 6 ust. (3) rozporządzenia Prezydenta Rzeczypospolitej z dnia 23 grudnia 1927 r. „0 granicach Państwa (Dz. U. R.P. z 1937r. Nr 11, poz. 83).",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Na wymienione w § 2 pkt 2 obszary pasa granicznego jak również na teren całego pasa granicznego w wojewódzwie pomorskim wprowadza się przepis art. 8 ust. (1) rozporządzenia Prezydenta Rzeczypospolitej z dnia 23 grudnia 1927 r. o granicach Państwa w zastosowaniu jedynie do nowowznoszonych budowli murowanych."
+    },
+    {
+     "type": "text",
+     "text": "(3) Na wymienione w § 2 pkt 2 obszary pasa granicznego oraz na następujące powiaty: nadwórniański, kosowski, śniatyński i horodeński w województwie stanisławowskim oraz zaleszczycki, borszczowski, czortkowski i kopyczyniecki w województwie tarnopolskim, wprowadza się przepis art. 9 rozporządzenia Pręży-"
+    },
+    {
+     "type": "text",
+     "text": "Str. 748"
+    },
+    {
+     "type": "text",
+     "text": "denta Rzeczypospolitej z dnia 23 grudnia 1927 r. o granicach Państwa."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przepisy $§ 2 i 3 oraz wydane na ich podstawie rozporządzenia wojewodów tracą moc w dniu 1 listopada 1939 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Rozporządzenie niniejsze wchodzi w życie po upływie 30 dni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: . Sławoj Składkowski"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do rozp. Min. Spraw Wewn. z dnia 10 czerwca 1938 r. (poz. 360). :"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ PASA GRANICZNEGO. Woj. białostockie: powiaty: augustowski, grodzieński, łomżyński, ostrołęcki, suwalski, szczuczyński, z pow. białostockiego gminy: Dolistowo, Goniądz, Goniądz — miasto, i Trzcianne, z pow. sokólskiego gminy: Dąbrowa, Dąbrowa — miasto, Nowy- Dwór, Suchowola i Suchowola — miasto."
+    },
+    {
+     "type": "text",
+     "text": "Woj. kieleckie: powiaty: będziński, częstochowski, sosnowiecki, zawierciański, z pow. olkuskiego gminy: Bolesław i Sławków,"
+    },
+    {
+     "type": "text",
+     "text": "Woj. krakowskie: powiaty: gorlicki, jasielski, limanowski, myślenicki, nowosądecki, nowotarski, wadowicki, żywiecki, z pow. bialskiego gminy: Biała, Biała — miasto, Bestwina, Bystra— (Wilkowice, Kęty i Porąbka,"
+    },
+    {
+     "type": "text",
+     "text": "z pow. chrzanowskiego śminy: Jaworzno, Jaworzno — miasto, Szczakowa i Szczakowa — miasto. ."
+    },
+    {
+     "type": "text",
+     "text": "Woj. lwowskie: powiaty: drohobycki, krośnieński, leski, sanocki, turczański."
+    },
+    {
+     "type": "text",
+     "text": "Woj. łódzkie: powiat wieluński, z pow. radomszczańskiego gminy: Brzeźnica i Pajęczno, z pow. sieradzkiego gmina: Klonowa."
+    },
+    {
+     "type": "text",
+     "text": "Woj. nowogródzkie: powiaty: baranowicki, nieświeski, stołpecki, wołożyński,"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Dzienk Ustaw Nr 43 Str. 749"
+    },
+    {
+     "type": "text",
+     "text": "z pow. lidzkiego gminy: , Bieniakonie, Ejszyszki, Iwie, Lipniszki, Raduń, Sobotniki, Werenów, Zabłoć i Zyrmuny, z pow. nowogródzkiego gminy: Cyryn, Korelicze, Lubcza, Niehniewicze, Poczapowo, Rajca i Szczorse. ~"
+    },
+    {
+     "type": "text",
+     "text": "Woj. poleskie: ' powiaty: łuniniecki i stoliński,"
+    },
+    {
+     "type": "text",
+     "text": "Woj. pomorskie: _. powiaty: brodnicki, chełmiński, chojnicki, gdyński miejski, grudziądzki, grudziądzki miejski, kartuski, kościerski, lubawski, morski, sępoleński, starogardzki, świecki, tczewski, tucholski, wąbrzeski, wyrzyski, z pow. bydgoskiego gminy: Mąkowarsko, Koronowo, Koronowo—miasto, [Wierzchucin - Królewski, Wtelno, Ślesin, z pow, szubińskiego gminy: Łankowice, Sipiory."
+    },
+    {
+     "type": "text",
+     "text": "Woj. poznańskie: powiaty: chodzieski, czarnkowski, gostyński, kościański, kępiński, krotoszyński, leszczyński, międzychodzki, nowotomyski, obornicki, ostrowski, rawicki, szamotulski, wolsztyński, z pow. jarocińskiego gminy: Czermin, Gołuchów, Jaraczew, Jarocin, Jarocin — miasto, Kotlin, Pleszew, Pleszew — miasto, z pow. wągrowieckiego śminy: Gołańcz, Gołańcz — miasto, Wągrowiec- Południe, Wągrowiec-Północ, Wągrowiec — miasto. Woj. stanisławowskie: powiaty: doliński, horodeński, kałuski, kołomyjski, kosowski, nadwórniański, śniatyński, stryjski,"
+    },
+    {
+     "type": "text",
+     "text": "Woj. śląskie: cały obszar województwa śląskiego."
+    },
+    {
+     "type": "text",
+     "text": "Woj. tarnopolskie: powiaty: borszczowski, czortkowski, kopyczyniecki, skałacki, tarnopolski, trembowelski, zaleszczycki, zbaraski,"
+    },
+    {
+     "type": "text",
+     "text": "z pow. z borowskiego gminy: Bogdanówka, Jezierna, Olejów, Załoźce, Załoźce — miasto."
+    },
+    {
+     "type": "text",
+     "text": "Woj. warszawskie: powiaty: działdowski, mławski, przasnyski, z pow. ciechanowśkiego gminy: Grudusk, Regimin, z pow. makowskiego gminy: . Krasnosielc, Płoniawy, Sypniewo,"
+    },
+    {
+     "type": "text",
+     "text": "z pow. sierpeckiego gminy: Bieżuń, Stawiszyn, Żuromin, Żuromin — miasto,"
+    },
+    {
+     "type": "text",
+     "text": "Woj. wileńskie: cały obszar województwa wileńskiego."
+    },
+    {
+     "type": "text",
+     "text": "Woj. wołyńskie: powiaty: kostopolski, krzemieniecki, rówieński, sarneński, zdołbunowski, z pow. dubieńskiego gminy: Dubno, Dubno — miasto, Jarosławicze, Malin, Młynów, Kniahinin, Sudobicze, Warkowicze, łuckiego gminy: z pow. Kiwerce, Kniahininek, Kołki, Nowy Czartorysk, O łyka, O łyka — miasto, Poddebce, Połonka, Rożyszcze, Rożyszcze — miasto, Silno, Trościaniec,"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

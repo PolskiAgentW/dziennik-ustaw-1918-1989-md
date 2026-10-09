@@ -1,0 +1,81 @@
+{
+ "eli": "DU/1938/582",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 4 listopada 1938 r. wydane w porozumieniu z Ministrami Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych w sprawie zmiany taryfy celnej wywozowej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/582/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 listopada 1938 r. wydane w porozumieniu z Ministrami Przemysłu i Handlu oraz Rolnictwa i Reiorm Rolnych w sprawie zmiany taryfy celnej wywozowej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 13 ust. 5 lit. b) rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o prawie celnym (Dz. U. R. P. Nr 84, poz. 610) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W taryfie celnej wywozowej, stanowiącej załącznik do rozporządzenia Ministra Skarbu z dnia 23 października 1934 r. o ustanowieniu taryfy celnej wywozowej (Dz, U. R. P. Nr 96, poz. 873) w brzmieniu ustalonym rozporządzeniami: z dnia 2 października 1935 r. D Ą U. R. P, Nr 74, poz. 470), z dnia 3 czerwca 1936 r. (Dz. U. R. P. Nr 45, poz. 332), z dnia 26 lipca 1936 r. (Dz. U. R. P. Nr 60, poz. 442), z dnia 21 listopada 1936 r. (Dz. U. R. P, Nr 91, poz. 635), z dnia 30 czerwca 1937 r. (Dz. U. R.P. Nr 50, poz. 388 i Dz. U. R. P. Nr 51, poz. 397), z dnia 11 sierpnia 1937 r. (Dz. U. R. P. Nr 64, poz. 494) oraz z dnia 29 lipca 1938 r. (Dz. U, R. P. Nr 59, poz. 461), wprowadza się następujące zmiany: + 1) W grupie V po pozycji 43 dodaje się nową pozycję 44 w brzmieniu: Pozycja taryfy Nazwa towaru Cło od 100 kg „celnej w złotych",
+   "children": [
+    {
+     "type": "ust",
+     "num": "144",
+     "path": "par_1/ust_144",
+     "text": "Włókno lniane . . 100.—\"",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_144/pkt_2",
+       "text": "W uwagach do grupy V dodaje się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_144/pkt_2/lit_a",
+         "text": "nową uwagę 6 o treści: „6. Włókno lniane, wy-",
+         "children": [
+          {
+           "type": "text",
+           "text": "Pozycja taryfy Nazwa towaru Cło od 100 kg w złotych celnej wożone za zaświadczeniami Ministerstwa Przemysłu i Handlu . . . . . bezcta’;"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_144/pkt_2/lit_b",
+         "text": "nową uwagę 7 o treści: „7. Włókno lniane, wywożone przez osoby zamieszkałe w pasie śranicznym w ilości nie przekraczającej jednorazowo 10 kg . bez cła\";",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/ust_144/pkt_2/lit_c",
+         "text": "nową uwagę 8 o treści; „8. Włókno lniane w ilości do 10 kg włącznie, przeznaczone do własnego użytku osób wyjeżdżających za granicę oraz włókno lniane wysyłane za granicę pocztą, koleją lub innymi środkami komunikacyjnymi w ilości również nie przekraczającej 10 kg . . . bezcła”,",
+         "children": [
+          {
+           "type": "text",
+           "text": ",§ 2. Rozporządzenie niniejsze wchodzi w życie trzeciego dnia po dniu ogłoszenia, Minister Skarbu: E. Kwiatkowski"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

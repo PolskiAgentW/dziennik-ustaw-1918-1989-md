@@ -1,0 +1,78 @@
+{
+ "eli": "DU/1931/856",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 17 listopada 1931 r. w sprawie zapasów wyrobów tytoniowych, które mogą posiadać osoby prywatne.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1931/856/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 listopada 1931 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zapasów wyrobów tytoniowych, które mośą posiadać osoby prywatne."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 punkt h) ustawy z dnia 1 czerwca 1922 r. o monopolu tytoniowym (Dz. U R. P. Nr. 47, poz. 409) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Osoby prywatne bez zezwolenia władzy skarbowej posiadać mogą zapasy wyrobów tytoniowych w ilości nie większej niż 3.000 sztuk papierosów albo 300 sztuk cygar albo 3 kg. tytoniu do palenia lub do żucia, albo wreszcie 1,2 kg. tabaki do zażywania. Przy posiadaniu kilku rodzajów wyrobów tytoniowych dla oceny łącznego zapasu, który bez zezwolenia władzy skarbowej mogą posiadać osoby prywatne, ustala się stosunek: 10 sztuk papierosów odpowiada:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "10 gr. tytoniu do palenia lub do żucia,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "1 cygaru,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "4 gr. tabaki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Na posiadanie większej ilości wyrobów tytoniowych, od normy ustalonej w poprzednim para- ‘grafie, udzielają zezwoleń właściwe urzędy skarbowe akcyz i monopolów państwowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Jan Piłsudski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

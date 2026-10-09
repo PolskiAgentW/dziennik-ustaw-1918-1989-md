@@ -1,0 +1,1380 @@
+{
+ "eli": "DU/1934/854",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. - Prawo o sądach pracy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/854/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ z dnia 24 października 1934 r. Prawo o sądach pracy. Na podstawie art. 44 ust. 6 Konstytucji i ustawy z dnia 15 marca 1934 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 28, poz. 221) postanawiam co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "SEE: 2039"
+  },
+  {
+   "type": "text",
+   "text": "I. Właściwość."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_1/par_1",
+     "text": "Sądy pracy rozstrzygają wszystkie sprawy sporne cywilne, w których wartość przedmiotu sporu nie przewyższa 10.000 złotych, a które wynikają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/par_1/pkt_1",
+       "text": "ze stosunku pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/par_1/pkt_2",
+       "text": "ze stosunku chałupniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/par_1/pkt_3",
+       "text": "z umowy o naukę zawodową;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_1/par_1/pkt_4",
+       "text": "ze wspólnej pracy w tym samym zakładzie pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_1/par_1/pkt_5",
+       "text": "z należenia do instytucyj ubezpieczeń społecznych, ich instytucyj zastępczych lub kas zapomogowych, jeżeli ustawa lub statut takiej instytucji",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "lub kasy nie przekazuje rozstrzygania tych spraw sądom szczególnym, władzom administracyjnym lub komisjom rozjemczym."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_1/par_2",
+     "text": "Z zakresu właściwości, określonej w § 1, nie są wyłączone:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/par_2/pkt_1",
+       "text": "spory z umowy o udzielanie nauki przez nauczycieli poza zakładami naukowemi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/par_2/pkt_2",
+       "text": "spory, dotyczące mieszkań, stanowiących uposażenie służbowe lub znajdujących się w domach fabrycznych i kopalnianych (familijnych), a zajmowanych w związku ze stosunkiem pracy — o ile spory te ulegają rozpoznaniu w drodze sądowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_1/par_3",
+     "text": "Sądy pracy są właściwe również wtedy, fdy prawa lub obowiązki ze stosunków, wymienionych w § 1, przesziy na inną osobę. § 4. Właściwość sądu pracy uchyla właściwość innych sądów, władz oraz komisyj polubownych, rozjemczych i specjalnych, powołanych ustawowo do załatwiania zatargów między pracodawcami a pracownikami, z zastrzeżeniem przepisów art. 50.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "art_1/par_5",
+     "text": "Strony nie mogą poddać sprawy, należącej do właściwości sądu pracy, innemu sądowi, władzy lub komisji, ani poddać sądowi pracy sprawy, należącej do innego sądu, władzy lub komisji, mogą jednak poddać spór pod rozstrzygnięcie sądu polubownego lub instytucji rozjemczej w trybie, określonym w art. 37.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_2/par_1",
+     "text": "Do właściwości sądów pracy nie należą spory:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/par_1/pkt_1",
+       "text": "pracowników umysłowych, zatrudnionych na podstawie umowy w urzędach i szkołach państwowych oraz samorządu terytorjalnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/par_1/pkt_2",
+       "text": "pracowników i praktykantów w gospodarstwach rolnych, leśnych i ogrodowych oraz w przedsiębiorstwach z niemi związanych, które nie mają przeważającego charakteru przemysłowego lub handlowego, a znajdują się poza obszarami gmin miejskich.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_2/par_2",
+     "text": "Rozporządzenie Ministrów: Sprawiedliwości, Opieki Społecznej oraz Rolnictwa i Reform Rolnych może poddać właściwości sądów pracy spory osób, wymienionych w § 1 pkt. 2, bądź na całym obszarze Państwa, bądź na jego części.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_3/par_1",
+     "text": "W miejscowościach. które nie należą do okręgu żadnego sądu pracy, sprawy, należące do właściwości sądu pracy, rozstrzygają sądy grodzkie, jeżeli wartość przedm:otu sporu nie przewyższa 5.000 złotych. Postępowanie normuje kodeks postępowania cywilnego, jednakże co do właściwości miejscowej sądu stosuje się przepisy art. 17 prawa niniejszego, co do kosztów sądowych — art. 39, co do zastępstwa stron przez pełnomocników — art. 21 z tą zmianą, że adwokat może być pełnomocnikiem strony w każdej sprawie. § 2. Sprawy dotyczące dozorców domowych w tych miejscowościach rozstrzygają powołane ustawowo komisje.",
+     "children": [
+      {
+       "type": "text",
+       "text": "II. Ustrój."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_4/par_1",
+     "text": "Poszczególne samoistne sądy pracy ustanawiają Minister Sprawiedliwości oraz Mini-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 95,"
+      },
+      {
+       "type": "text",
+       "text": "ster Opieki Społecznej w porozumieniu z Ministrami: Spraw Wewnętrznych, Skarbu, Rolnictwa i Reform Rolnych oraz Przemysłu i Handlu. §2. W razie, gdy utworzenie samoistnego sądu pracy nie jest wskazane, Minister Sprawiedliwości i Minister Opieki Społecznej będą władni utworzyć sąd pracy przy sądzie grodzkim."
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_4/par_1/ust_3",
+       "text": "Przepisy § 1 i 2 stosuje się także w razie znoszenia sądów pracy, w szczególności zaś przepis § 1 przy dokonywaniu zmian siedzib lub granic okręgów poszczególrych samoistnych sądów pracy. § 4. Koszty utrzymania sądów pracy ponosi Skarb Państwa. .",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Rozporządzenie, ustanawiające samoistny sad pracy, określa jego okrąg. Okrąg samoistnego sądu pracy obejmować może jeden lub więcej obszarów gminnych,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_6/par_1",
+     "text": "Sąd pracy składa się z przewodniczącego, zastępcy lub zastępców przewodniczącego oraz co najmniej dziesięciu ławników i podwójnej. liczby zastępców ławników z każdej z dwóch grup: pracodawców oraz pracowników. § 2. Przewodniczącego i zastępcę (zastępców) przewodniczącego sądu powołuje z pośród sędziów Minister Sprawiedliwości. Pełnienie tych obowiązków w sądzie pracy przy sądzie grodzkim (art. 4 § 2) może być powierzone sędziom, urzędującym w tym sądzie. .",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_6/par_3",
+     "text": "O ile prawo niniejsze nie zawiera postanowień odmiennych — do ustroju, administracji sądowej i urzędowania w sądach pracy, tudzież do nadzoru nad temi sądami stosuje się odpowiednio przepisy, dotyczące w tym zakresie sądów grodzkich. Sędzia, powołany do pełnienia obowiązków przewodnicząceśo lub zastępcy przewodniczącego sądu pracy przy sądzie grodzkim z grona sędziów tego sądu grodzkiego, podlega nadal pod względem służbowym sędziemu, sprawującemu kierownictwo tego sądu grodzkiego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "art_6/par_5",
+     "text": "Do każdego samoistnego sądu pracy powinna być przeznaczona odpowiednia liczba ered ików sądowych i funkcjonarjuszów niższych. p",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "art_6/par_6",
+     "text": "Zasady uposażenia sędziów, powołanych na stanowisko przewodniczącego lub zastępcy przewodniczącego samoistnego sądu pracy, określają ogólne przepisy, regulujące wysokość uposażenia sędziów i prokuratorów, przyczem w zakresie tych przepisów przewodniczący samoistnego sądu pracy jest zrównany z sędzią grodzkim, sprawując kierownictwo sądu grodzkiego, liczącego ponad 15 sędziów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_7/par_1",
+     "text": "Ławników sądów pracy i sądów okręgowych powołuje w równej liczbie z każdej z dwóch grup (art. 6 § 1) na okres trzyletni Minister : Sprawiedliwości na wspólny wniosek Ministra Opieki Społecznej oraz jednego z następujących Ministrów: Ministra Przemysłu i Handlu, Ministra Rolnictwa i Reform Rolnych i Ministra Spraw Wewnetrz- - nych — zależnie od ich właściwości — na podstawie list kandydatów, przedstawionych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/par_1/pkt_1",
+       "text": "z grupy pracodawców — przez czynne w okręgu danego sądu izby przemysłowo-handlowe,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "izby rzemieślnicze oraz stowarzyszenia zawodowe pracodawców, niereprezentowanych w tych izbach, tudzież izby rolnicze oraz stowarzyszenia zawodowe pracodawców rolnych, przez zarządy instytucyj, przedsiębiorstw, wytwórni i banków państwowych oraz samorządu terytorjalnego, nie należących do stowarzyszeń zawodowych pracodawców, a czynnych w okręgu danego sądu;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_7/par_1/pkt_2",
+       "text": "z grupy pracowników — przez stowarzyszenia zawodowe pracownicze, czynne w okręgu danego sądu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_7/par_2",
+     "text": "Jednocześnie powoływana jest podwójna liczba zastępców ławników dla każdego sądu pracy lub sądu okręgowego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_7/par_3",
+     "text": "Przy powoływaniu ławników i zastępców ławników z grupy pracodawców przedstawiane kandydatury powinny być uwzględniane w miarę możności proporcjonalnie do liczby pracowników, zatrudnionych przez ogół członków stowarzyszeń zawodowych pracodawców oraz przez instytucje, przedsiębiorstwa, wytwórnie i banki państwowe oraz samorządu terytorjalneśo, uprawnione do przedstawiania list kandydatów, z grupy zaś pracowników — o ile możności, proporcjonalnie do liczby pracowników, zrzeszonych w stowarzyszeniach zawodowych pracowniczych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 4, W razie nieistnienia w okręgu danego sądu stowarzyszeń zawodowych, wymienionych w § 1, lub w razie uchylenia się tych stowarzyszeń od przedstawienia kandydatów w wyznaczonym terminie, Minister Sprawiedliwości na wspólny wniosek Ministra Opieki Społecznej oraz Ministra Przemysłu i Handlu lub Ministra Rolnictwa i Reform Rolnych powołuje odpowiednie kategorje ławników i ich zastępców z urzędu."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "art_7/par_5",
+     "text": "W razie zmniejszenia się w czasie trwania kadencji liczby ławników i ich zastępców danego sądu tak dalece, że wpływa to ujemnie na sprawność czynności sądowych, a także w przypadku zmiany granic okręgu sądu, może nastąpić na czas trwania danej kadencji dodatkowe powołanie odpowiedniej liczby ławników i ich zastępców na zasadach, wyrażonych w paragrafach poprzedzających. § 6. Przepisy szczegółowe co do wykonania przepisów § 1 — 5 ustala rozporządzenie Ministrów, wymienionych w § 1. § 7. Rozporządzenia Ministra Sprawiedliwości w porozumieniu z Ministrami: Opieki Społecznej, Przemysłu i Handlu, Rolnictwa i Reform Rolnych oraz Spraw Wewnętrznych mogą przekazać na obszarze całego państwa lub na poszczególnych obszarach okręgów sądów apelacyjnych powoływanie ławników i ich zastępców prezesom sądów apelacyjnych na podstawie wspólnych wniosków okręgowych inspektorów pracy i wojewódzkich władz administracji ogólnej, z uwzględnieniem list kandydatów, stosownie do przepisów § 1 — 3. Rozporządzenia te określą zarazem odpowiednie stosowanie przepisów § 4 15 artykułu niniejszego, art. 8 § 5, art. 10 i zdania drugiego § 2 art. 13.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_8/par_1",
+     "text": "Ławnikiem lub jego zastępcą może być obywatel polski, który korzysta w pełni z praw cywilnych i obywatelskich, jest nieskazitelnego charakteru, ukończył 30 lat, posiada znajomość zawodu, który reprezentuje, i włada językiem polskim w słowie i piśmie.",
+     "children": [
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_8/par_1/ust_2",
+       "text": "Od zajmowania stanowiska ławnika i jego zastępcy wyłączeni są: duchowni i zakonnicy, członkowie Sejmu i Senatu Rzeczypospolitej oraz funkcjonarjusze państwowi i wojskowi w służbie czynnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_8/par_3",
+     "text": "Powołanie na stanowisko ławnika lub jego zastępcy pracownika instytucji komunikacyjnej może nastąpić jedynie za zgodą władz przełożonych danej instytucji. § 4. Można odmówić przyjęcia lub złożyć objęty urząd ławnika lub jego zastępcy, jeżeli kandydat lub ławnik albo jego zastępca:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_8/par_3/pkt_1",
+       "text": "przekroczył 60 rok,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_8/par_3/pkt_2",
+       "text": "dotknięty jest ułomnością, utrudniającą sprawowanie urzędu, lub upadkiem sił fizycznych lub umysłowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_8/par_3/pkt_3",
+       "text": "nie mieszka lub przestaje mieszkać w okręgu danego sądu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_8/par_3/pkt_4",
+       "text": "w poprzedniej kadencji pełnił obowiązki ławnika lub zastępcy ławnika, .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_8/par_3/pkt_5",
+       "text": "utracił charakter reprezentanta tej gru- „py, z której był przedstawiony lub powołany, ) wykonywa osobiście przemysł bez udziału pracowników. §5. O dopuszczalności odmowy przyjęcia lub złożenia urzędu ławnika lub zastępcy ławnika orzeka Minister Sprawiedliwości.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "art_8/par_6",
+     "text": "Ławnicy i ich zastępcy nie mogą doznawać utrudnień ze strony pracodawców przy pełnieniu swych obowiązków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_9/par_1",
+     "text": "Ławnicy i ich zastępcy są w sprawowaniu swych urzędów niezawiśli i podlegają tylko ustawom.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_9/par_2",
+     "text": "Ławnicy i ich zastępcy składają przed objęciem urzędu przed przewodniczącym sądu pracy (prezesem sądu okręgowego) następujące przyrzeczenie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Przyrzekam, że na powierzonym mi urzędzie ławnika (zastępcy ławnika) sądu pracy (sądu okręgowego) będę sumiennie i gorliwie spełniał powierzone mi obowiązki, poświęcając im całą swą wiedzę i doświadczenie, a sprawiediiwość bezstronnie i zgodnie z przepisami prawa oraz zasadami słuszności wymierzał''.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ". 8 3. w zakresie obowiązku dochowania tajemnicy ławnicy i ich zastępcy są zrównani z sędziami.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Listę, zawierającą nazwiska i miejsce zamieszkania wszystkich ławników i zastępców ławników, Minister Sprawiedliwości ogłasza w ,,Monitorze Polskim\".",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_11/par_1",
+     "text": "Ławnicy i ich zastępcy pełnią swe obowiązki bezpłatnie, wszakże utrzymujący się z dziennego zarobku otrzymują na żądanie odszkodowanie za utracony zarobek, zamieszkali zaś poza siedzibą sądu — diety oraz zwrot kosztów przejazdu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_11/par_2",
+     "text": "Wysokość, jak również zasady ustalania i wypłacania odszkodowania, diet oraz kosztów prze-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "jazdu określa rozporządzenie Ministra Sprawiedliwości i Ministra Opieki Społecznej w porozumieniu z Ministrem Skarbu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_12/par_1",
+     "text": "Za nieusprawiedliwione niestawiennictwo do sądu lub uchylanie się od spełniania obowiązków urzędowych przewodniczący sądu pracy, a w sądzie okręgowym — prezes może ukarać ławnika lub zastępcę ławnika karą porządkową w wysokości do 500 złotych oraz obciążyć na rzecz Skarbu Państwa kosztami, wywołanemi odroczeniem rozprawy lub innych czynności sądowych z powodu niestawiennictwa ławnika. § 2. Od orzeczenia przewodniczącego sądu pracy, a w sądzie okręgowym — prezesa, ukarany ławnik lub zastępca ławnika może w przeciągu dni czternastu od dnia doręczenia orzeczenia wnieść sprzeciw do właściwego sądu, który orzeka ostatecznie w składzie, złożonym z przewodniczącego sądu pracy, a w sądzie okręgowym — z prezesa, jako przewodniczących, oraz 4 ławników, po dwóch z każdej z dwóch grup: pracodawców i pracowników, na rozprawie niejawnej, wszakże z prawem wezwania ukaranego, a na jego żądanie z obowiązkiem dopuszczenia go do udzielenia osobistych wyjaśnień.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_12/par_3",
+     "text": "W razie niemożności ściągnięcia kary porządkowej, sąd, który ją wymierzył, zamienia ją weług swego uznania na areszt do dwóch tygodni. :",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "art_12/par_4",
+     "text": "Co do ściągnięcia i użycia kary porządkowej stosuje się tryb, przewidziany dla grzywien w postępowaniu karno-sądowem.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "art_12/par_5",
+     "text": "Odpis skazującego orzeczenia, jak również — w przypadku wniesienia sprzeciwu przez ukaranego ławnika — odpis protokółu rozprawy niejawnej właściwy sąd przedstawia prezesowi sądu okręgowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_13/par_1",
+     "text": "Kolegjum administracyjne właściwego sądu okręgowego może usunąć ławnika lub zastępcę ławnika z urzędu na wniosek przewodniczącego sądu pracy lub prezesa sądu okręgowego, gdy chodzi o usunięcie ławnika lub zastępcy ławnika sądu okręgowego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_13/par_1/pkt_1",
+       "text": "jeżeli co do niego zajdą lub staną się wiadome okoliczności, które wyłączają go od zajmowania stanowiska ławnika (art. 8);",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_13/par_1/pkt_2",
+       "text": "jeżeli utracił charakter reprezentanta tej grupy, z której był powołany, oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_13/par_1/pkt_3",
+       "text": "jeżeli dopuścił się poważnego naruszenia swoich obowiązków urzędowych, a w szczególności w razie niedochowania tajemnicy (art. 9 § 3) lub trzykrotnego ukarania karą porządkową (art. 12).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_13/par_2",
+     "text": "Orzeczenie kolegjum administracyjnego sadu okręgowego jest ostateczne. Odpis orzeczenia przesyła się Ministrowi Sprawiedliwości.",
+     "children": [
+      {
+       "type": "text",
+       "text": "III. Postępowanie."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_14/par_1",
+     "text": "O ile prawo niniejsze nie zawiera przepisów odmiennych, sądy pracy prowadzą rozprawy i orzekają w kompletach, składających się z przewodniczącego lub jego zastępcy, jednego ławnika lub zastępcy ławnika z grupy pracodawców i jednego ławnika lub zastępcy ławnika z grupy pracowników,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 95,"
+      },
+      {
+       "type": "text",
+       "text": "przyczem przy rozpoznawaniu spraw pracowników umysłowych ławnikiem z grupy pracowników powinna być osoba, należąca do kategorji przedstawicieli pracowników umysłowych, a przy rozpoznawaniu spraw pracowników fizycznych — osoba, należąca do kategorji przedstawicieli pracowników fizycznych. § 2. Przy rozpoznawaniu spraw, dotyczących gospodarstw rolnych, leśpych i ogrodowych tudzież przedsiębiorstw z niemi związanych, ławnikami powinny być osoby, należące do kategorji przedstawicieli pracodawców i pracowników rolnych. § 3. Zasady, według których przewodniczący sądu pracy powoływać będzie na posiedzenia sądowe poszczególnych ławników i ich zastępców, określa rozporządzenie Ministra Sprawiedliwości i Ministra Opieki Społecznej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Wszystkie postanowienia poza rozprawą sądową oraz zarządzenia i orzeczenia natury administracyjnej i porządkowej wydaje przewodniczący sądu pracy lub jego zastępca. Dotyczy to również wydawania nakazów w postępowaniach nakazowem i upominawczem.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "O ile prawo niniejsze nie zawiera przepisów odmiennych, do właściwości i postępowania w sprawach, wszczętych przed sądami pracy, stosuje się przepisy o właściwości i postępowaniu w prawach cywilnych, wszczętych przed sądami grodziemi.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_17/par_1",
+     "text": "Powód może według swego uznania wytoczyć powództwo wyłącznie bądź przed sąd, w którego okręgu jest, była lub miała być wykonywana praca, bądź przed sąd, w którego okręgu znajduje się zakład pracy lub siedziba zarządu przedsiębiorstwa, bądź przed sąd właściwości ogólnej pozwanego. § 2. Przepis § 1 nie narusza przepisu art. 89 statutu Banku Polskiego (Dz. U. R. P. z 1927 r. Nr. 113, poz. 966) o wyłącznej właściwości sądów w sea w sprawach przeciwko Bankowi Polskiemu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "W sporach o właściwość sąd pracy jest zrównany z sądem grodzkim. :",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_19/par_1",
+     "text": "Ławnik lub zastępca ławnika jest wyłączony z mocy samej ustawy również wtedy, gdy zatrudnia jedną ze stron lub jest przez nią zatrudniony, może zaś być wyłączony na wniosek strony, jeżeli zachodzą okoliczności, wywołujące uzasadnioną wątpliwość co do jego bezstronności.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_19/par_2",
+     "text": "O wyłączeniu ławnika lub zastępcy ławnika orzeka przewodniczący.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Spółuczestnictwo w sporze jest dopuszczalne bez względu na ogólną wartość dochodzonych roszczeń.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_21/par_1",
+     "text": "Pełnomocnikiem strony przed sądem pracy oraz przed sądem okręgowym może być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_21/par_1/pkt_1",
+       "text": "ojciec, matka, małżonek, brat, siostra lub dziecko;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_21/par_1/pkt_2",
+       "text": "przedstawiciel stowarzyszenia zawodowego, którego strona jest członkiem, upoważniony przez stowarzyszenie do występowania przed sądem pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_21/par_1/pkt_3",
+       "text": "adwokat jako stały radca prawny pracodawcy lub stowarzyszenia zawodowego, którego strona jest członkiem;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_21/par_1/pkt_4",
+       "text": "działający w zastępstwie pracodawcy kierownik lub funkcjonarjusz zakładu pracy, w którym pracownik jest zatrudniony.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_21/par_2",
+     "text": "W sprawach, wymienionych w art. 32, pełnomocnikiem strony może być ponadto każdy adwokat. §3. Poczynając od założenia środka odwoławczego do Sądu Najwyższego, obowiązuje zastępstwo stron przez adwokatów. § 4. Sąd może zażądać od strony, aby w terminie tygodniowym przedstawiła dowody, że zachodzą warunki zastępstwa, wymienione w § 1.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "art_21/par_5",
+     "text": "Od postanowienia sądu co do dopuszczenia do udziału w sprawie przedstawiciela stowarzyszenia zawodowego lub adwokata, jako stałego radcy prawnego, niema środka odwoławczego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Stronie, działającej bez adwokata, sad udziela wskazówek o terminach czynności procesowych, a wydając orzeczenie — o terminie i warunkach formalnych do wniesienia środka odwoławczego oraz o skutkach ich niezachowania.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Termin rozprawy należy wyznaczyć niezwłocznie po wniesieniu pozwu na jeden z najbliższych dni w ten sposób, aby okres czasu od wniesienia pozwu do dnia rozprawy wynosił w miarę możności nie więcej niż dwa tygodnie, od dnia zaś doręczenia pozwu do dnia rozprawy nie mniej niż trzy dni.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_24/par_1",
+     "text": "Przewodniczący sądu pracy kieruje sprawę na sesję pojednawczą z urzędu lub na wniosek powoda, jeżeli uważa, że sprawa może być załatwiona trybem pojednawczym.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_24/par_2",
+     "text": "W sesji pojednawczej biorą udział dwaj ławnicy, wyznaczeni przez przewodniczącego, jeden z grupy pracodawców, drugi z grupy pracowników. Przewodniczy jeden z tych ławników, wyznaczony przez przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_24/par_3",
+     "text": "Ławnicy powinni skłaniać strony do pojednania. W razie niemożności osiąśnięcia zgody bezpośredniej mogą stronom zaproponować warunki ugody, odraczając sesję na czas do tygodnia. § 4. Na sesji pojednawczej nie można badać świadków i biegłych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "art_24/par_5",
+     "text": "Postanowienia zapadają jednomyślnie.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "6",
+     "path": "art_24/par_6",
+     "text": "Osnowa ugody, zawartej na sesji pojednawczej, powinna być wciąśnięta do protokółu i podpisana przez strony i ławników. Gdyby strona nie mogła podpisać ugody, niemożność tę stwierdzą ławnicy. Ugoda, zawarta na sesji pojednawczej, ma moc ugody, zawartej przed sądem pracy. § 7. W razie niezawarcia ugody lub braku jednomyślności ławników sprawa zostaje skierowana do postępowania zwykłego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "Na rozprawie ławnicy mogą zadawać pytania stronom, świadkom i biegłym za zezwoleniem przewodniczącego, który wszakże może uchylić pytanie, jeżeli je uzna za zbyteczne lub niewłaściwe.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Przepisy o przekazaniu sprawy sądowi właściwemu przez sąd niewłaściwy oraz o ponownem wniesieniu pozwu, odrzuconego z powodu niewłaściwości sądu, stosuje się również, gdy chodzi o sąd powszechny i sąd pracy. i",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Zarzut, że sprawa, wszczęta w sądzie pracy, należy do właściwości sądu powszechnego, lub że sprawa, wszczęta w sądzie powszechnym, należy do właściwości sądu pracy, jest zarzutem niewłaściwości sądu, nieusuwalnej na podstawie umowy stron.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "W przypadku odroczenia ogłoszenia sentencji, sentencję może ogłosić sam przewodniczą-",
+   "children": [
+    {
+     "type": "text",
+     "text": "cy rozprawy."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_29/par_1",
+     "text": "Wyrok sądu pracy z uzasadnieniem powinien być w ciągu tygodnia sporządzony na piśmie, jeżeli strona tego zażądała przed upływem trzech dni od ogłoszenia sentencji. § 2. Sporządzenie uzasadnienia wyroku, wydanego z udziałem ławników, należy do przewodniczącego rozprawy; podpisuje je tylko przewodni-",
+     "children": [
+      {
+       "type": "text",
+       "text": "czący."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_30/par_1",
+     "text": "Wyrok sądu pracy w sprawie, wymienionej w art. 31, jest natychmiast wykonalny. Sąd pracy może na wniosek strony uzależnić wykonanie wyroku od złożenia przez powoda stosownego zabezpieczenia.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_30/par_2",
+     "text": "W sprawach, wymienionych w art. 32, natychmiastowa wykonalność może być wyrzeczona również w sprawach przeciwko Skarbowi Państwa oraz przedsiębiorstwom państwowym, zastępowanym przez Prokuratorję Generalną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_31/par_1",
+     "text": "W sprawach, w których wartość przedmiotu sporu, pierwotna lub późniejsza w razie ograniczenia żądania powództwa, nie przewyższa 300 złotych, skarga apelacyjna od wyroku sądu pracy jest dopuszczalna tylko:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_31/par_1/pkt_1",
+       "text": "z przyczyn nieważności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_31/par_1/pkt_2",
+       "text": "z powodu 'przekroczenia przez sąd pracy zakresu swej właściwości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_31/par_1/pkt_3",
+       "text": "z powodu naruszenia prawa materjalnego przez błędną jego wykładnię lub niewłaściwe zastosowanie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_31/par_2",
+     "text": "Skargę apelacyjną rozstrzyga sąd okręgowy w składzie trzech sędziów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_32/par_1",
+     "text": "Skargi apelacyjne w innych sprawach, niż wymienione w art. 31, rozstrzyga sąd okręgowy w składzie, złożonym z sędziego okręgowego jako przewodniczącego i dwóch ławników sądu okrę- $goweśo.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_32/par_2",
+     "text": "Rozporządzenie, wymienione w art. 14 § 3, ustala tryb powoływania ławników i ich zastępców do udziału w tych posiedzeniach sądu okręgo-",
+     "children": [
+      {
+       "type": "text",
+       "text": "weśo."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "33",
+   "path": "art_33",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_33/par_1",
+     "text": "Sąd okręgowy nie może wstrzymać wykonania wyroku, którym zatwierdził wyrok sądu pracy.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_33/par_2",
+     "text": "Wyrok sądu okręgowego jest natychmiast wykonalny również w sprawach przeciwko Skarbowi Państwa oraz przedsiębiorstwom państwowym, zastępowanym przez Prokuratorję Generalną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "34",
+   "path": "art_34",
+   "text": "Zażalenie na postanowienia sądu pracy rozstrzyga sąd okręgowy w składzie trzech sędziów. Sa",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "35",
+   "path": "art_35",
+   "text": "W sprawach, wszczętych przed sądami pracy, skarga kasacyjna służy, śdy wartość przedmiotu zaskarżenia przewyższa 300 złotych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "36",
+   "path": "art_36",
+   "text": "Powód może żądać wydania nakazu zapłaty w postępowaniu nakazowem również na podstawie książeczki obrachunkowej, jeżeli odpowiada ona przepisom prawa, nie nasuwa podejrzenia co do jej prawdziwości, a należność pracownika jest stwierdzona podpisem pracodawcy lub osoby upoważnionej przez niego do rozliczeń z pracownikami.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "37",
+   "path": "art_37",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_37/par_1",
+     "text": "Strony mogą zawrzeć umowę o poddanie istniejącego już sporu, należącego do właściwości sądu pracy, pod rozstrzygnięcie sądu polubownego lub instytucji rozjemczej, powołanej przez układ zbiorowy. W układzie zbiorowym można poddać pod rozstrzygnięcie polubowne również spory przyszłe.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_37/par_2",
+     "text": "W przypadku, przewidzianym w § 1, sadem paristwowym w rozumieniu art. 506 kodeksu postępowania cywilnego jest sad pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "38",
+   "path": "art_38",
+   "text": "Ugoda, zawarta przed sądem pracy, jest tytułem egzekucyjnym.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "39",
+   "path": "art_39",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_39/par_1",
+     "text": "Co do kosztów sądowych stosuje się przepisy o kosztach sądowych w sprawach, wszczętych przed sądami grodzkiemi, z wyjątkami, zawartemi w § 2 i 3.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_39/par_2",
+     "text": "W sprawach, należących do właściwości sądów pracy, jeżeli wartość przedmiotu sporu nie przewyższa 50 złotych, nie pobiera się opłat sądowych z wyjątkiem opłat za doręczenia; jeżeli wartość przedmiotu sporu nie przewyższa 1.000 złotych, opłata wpisu stosunkowego wynosi połowę odpowiedniej opłaty wpisu stosunkowego, pobieranego w sądach powszechnych; przy wyższej wartości przedmiotu sporu zwolnienie powyższe dotyczy pierwszych 1.000 złotych. Przy spółuczestnictwie w sporze, przewidzianem w art. 69 pkt. 2 kodeksu postępowania cywilnego, wpis stosunkowy oblicza się dla każdego ze spółuczestników osobno.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_39/par_3",
+     "text": "W sprawach, należących do właściwości sądów pracy, w których wartość przedmiotu sporu nie przewyższa 1.000 złotych, wysokość kaucji kasacyjnej wynosi połowę sumy, pobieranej od skarg kasacyjnych w sprawach, należących do właściwości sądów grodzkich.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. Morski sąd pracy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "40",
+   "path": "art_40",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_40/par_1",
+     "text": "Rozporządzenie Ministrów Sprawiedliwości, Opieki Społecznej, Przemysłu i Handlu",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 95,"
+      },
+      {
+       "type": "text",
+       "text": "oraz Skarbu ustanowić może osobny sąd pracy lub osobny wydział sądu pracy w Gdyni do rozstrzygania sporów ze stosunków pracy pomiędzy armatorami a członkami załóg statków morskich i przystosować jego działalność do szczególnych potrzeb żeglugi morskiej."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_40/par_2",
+     "text": "Do czasu wydania rozporządzenia, wymienionego w § 1, prawo niniejsze nie będzie miało zazania do osób, zatrudnionych w żegiudze morskiej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Przepisy przejściowe i końcowe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "41",
+   "path": "art_41",
+   "text": "Sądy pracy, istniejące w dniu wejścia w życie prawa niniejszego, stają się sądami pracy w rozumieniu tego prawa.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "42",
+   "path": "art_42",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_42/par_1",
+     "text": "Sprawy cywilne, wszczęte w sadach pracy przed dniem wejścia w życie prawa niniejszego, rozpoznawać należy aż do ukończenia według przepisów dotychczasowych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_42/par_2",
+     "text": "Sprawy cywilne, w których w sądzie pracy nastąpiło zawieszenie postępowania, w razie ich podjęcia po wejściu w życie prawa niniejszego prowadzi się nadal według przepisów tego prawa z uwzględnieniem już dokonanych czynności procesowych i zebranego materjału. . W sprawach cywilnych, rozstrzygniętych według dotychczasowych przepisów, wznowienie postępowania wszczęte po wejściu w życie prawa niniejszego, odbywa się według tego prawa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "43",
+   "path": "art_43",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_43/par_1",
+     "text": "Do właściwości obwodowych inspektorów pracy przekazuje się sprawy o wykroczenia, przewidziane: w art. 6, 7 i 14 ustawy z dnia 1 sierpnia 1919 r. o załatwianiu zatargów zbiorowych pomiędzy pracodawcami a pracownikami rolnymi (Dz. R. P. z 1931 r. Nr. 90, poz. 706), a to zarówno co do pracodawców i pracowników rolnych, jak i właścicieli nieruchomości miejskich oraz dozorców domowych (Dz. U. R. P. z 1920 r. Nr. 8, poz. 53), w art. 10 ustawy z dnia 16 maja 1922 r. o urlopach dla pracowników, zatrudnionych w przemyśle i handlu (Dz. U. R. P. z 1933r. Nr. 94, poz. 735), w art. 8 w związku z art. 5 i 6 rozporządzenia Prezydenta Rzeczypospolitej z dnia 30 czerwca 1927 r. w sprawie produkcji, przywozu i używania bieli ołowianej, siarczanu ołowiu oraz innych związków ołowiu (Dz. U. R. P. Nr. 62, poz. 544), przyczem uchyla się art. 12 tego rozporządzenia, w art, 7 rozporządzenia Prezydenta Rzeczypospolitej z dnia 18 maja 1927 r. o kaucjach składanych w związku z umową o pracę (Dz. U. R. P. Nr. 46, poz. 409), w art. 29 rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 lipca 1927 r. o inspekcji pracy (Dz. U. R. P. Nr. 67, poz. 590), w art. 52 i 55 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 marca 1928 r. o umowie o pracę pracowników umysłowych (Dz. U. R.P. Nr. 35, poz. 323), w art. 60 i 64 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 marca 1928 r. o umowie o prace robotników (Dz. U. R. P. Nr. 35, poz. 324),",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Nr. 95,"
+      },
+      {
+       "type": "text",
+       "text": "w art. 5 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 marca 1928 r. o bezpieczeństwie i higjenie pracy (Dz. U. R. P. Nr. 35, poz. 325), w art. 59 prawa o wykroczeniach (Dz. U. R. P. z 1932 r. Nr. 60, poz. 572). § 2. Do właściwości władz administracji ogólnej przekazuje się sprawy o wykroczenia, przewidziane: w art. 17 i 18 ustawy z dnia 21 października 1921 r. o zarobkowem pośrednictwie pracy (Dz. R. P. Nr. 88, poz. 647), przyczem w miejsce kar, przewidzianych w art. 17 tej ustawy, wstępują kary następujące: areszt do trzech miesięcy i grzywna do 3.000 złotych albo jedna z tych kar, w art. 6 i 7 ustawy z dnia 10 czerwca '1924 r. o społecznem pośrednictwie pracy (Dz. U. R. P. Nr. 58, poz. 585), w art. 14 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 sierpnia 1927 r. o zapobieganiu chorobom zawodowym i ich zwalczaniu (Dz. U. R. P. Nr. 78, poz. 676)."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_43/par_3",
+     "text": "Sprawy o przestępstwa, wymienione w § 1 i 2, w których akt oskarżenia wpłynął do sądu, albo żądanie przekazania sprawy sądowi złożono przed dniem wejścia w życie prawa niniejszego, toczą się do końca według przepisów dotychczasowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "44",
+   "path": "art_44",
+   "text": "W sprawie, w której orzeczenie karne administracyjne wydał inspektor pracy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_44/pkt_1",
+     "text": "o terminie rozprawy w sądzie okręgowym zawiadomić należy również inspektora pracy, który wydał orzeczenie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_44/pkt_2",
+     "text": "właściwy inspektor pracy ma prawo zapowiedzieć kasację, przyczem w razie zapowiedzenia należy mu doręczyć odpis wyroku z uzasadnieniem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_44/pkt_3",
+     "text": "prawo założenia kasacji od wyroku sądu okręgowego służy narówni z prokuratorem Głównemu Inspektorowi Pracy lub jego zastępcy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 45, § 1. W razie utworzenia sądu pracy sprawy, wszczęte przed innemi sądami, władzami lub komisjami w okręgu utworzonego sądu pracy przed dniem rozpoczęcia czynności przez nowoutworzony sąd pracy, będą rozpoznawane aż do ukończenia przez sądy, władze lub komisje, które były dla tych spraw właściwe przed powyższym dniem. § 2. razie zniesienia sądu pracy rozporządzenie, wymienione w art. 4 § 3, wyznaczy sądy, którym zostaną przekazane sprawy nieukończone, area wilesże dalszy tryb postępowania w tych sprawach."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "46",
+   "path": "art_46",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_46/par_1",
+     "text": "Z dniem wejścia w życie prawa niniejszego tracą moc wszelkie przepisy, dotyczące przedmiotów, unormowanych prawem niniejszem. W szczególności traci moc rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o sądach pracy (Dz. U. R. P. Nr. 37, poz. 350).",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_46/par_2",
+     "text": "Jednakże ustawa o sądach przemysłowych z dnia 29 lipea 1890 r. (Dz. U. Rzeszy str. 249) oraz ustawa o sądach kupieckich z dnia 6 lipca 1904 r. (Dz. U. Rzeszy str. 266) — wraz z wszystkiemi późniejszemi ich zmianami tracą moc dopiero z dniem wejścia w życie rozporządzeń, przewidzianych w art. 48 § 1.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_46/par_3",
+     "text": "Z dniem wejścia w życie prawa niniejszego tracą moc przepisy karne oraz przepisy, poddające właściwości władz administracyjnych spory pomiędzy służbodawcami a służącymi, zawarte w regulaminie dla sług, ogłoszonym dla byłych okręgów administracyjnych krakowskiego i lwowskiego oraz dla miasta Krakowa rozporządzeniami z dnia 11 marca 1855 r. (dz. u. kr. okr. krak, Nr. 14, oddz. II), z dnia 1 lipca 1857 r. (dz. u. kr. okr. lwow. Nr. 12, oddz. II) oraz z dnia 4 lipca 1857 r. (dz. u. kr. okr. krak. Nr. 18, oddz. II).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 47, Do czasu wydania rozporządzeń, przewidzianych w art. 7 § 6, art. 11 § 2 oraz art. 14 § 3, stosuje się odpowiednio przepisy dotychczasowe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "48",
+   "path": "art_48",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_48/par_1",
+     "text": "Sądy przemysłowe i kupieckie, działające na obszarze województw poznańskiego, pomorskiego i górnośląskiej części województwa ślą-. skiego, zostaną przekształcone, z uwzględnieniem przepisu § 2, na sądy pracy, w terminie i na zasadach, które ustalą rozporządzenia Rady Ministrów. Rozporządzenia te mogą uchylić całkowicie lub częściowo stosowanie w tych sądach przepisów art. 21. Rozporządzenia te wskażą również dalszy tryb postępowania w sprawach nieukończonych. ~",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_48/par_2",
+     "text": "Jeżeli w jednej miejscowości działa kilka sądów przemysłowych i kupieckich, mogą być one złączone w jeden sąd pracy, którego okrąg będzie obejmował okręgi zniesionych sądów przemysłowych i kupieckich.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_48/par_3",
+     "text": "Rozporządzenie Ministra Sprawiedliwości określi zasady, na jakich dotychczasowi przewodniczący sądów przemysłowych i kupieckich będą mogli być z odstępstwem od zasady, wyrażonej w art. 6 § 2, powołani na przewodniczących lub zastępców przewodniczących sądów pracy. § 4. Związki samorządu terytorjalnego, które dotychczas pokrywały koszty utrzymania sądów przemysłowych i kupieckich, będą ponosiły te świadczenia do dnia 1 kwietnia 1940 r. W tym celu do budżetu odpowiednich związków samorządu terytorjalnego powinna być w tym okresie wstawiana corocznie osobna suma, przelewana do Skarbu Państwa na dochód budżetu Ministerstwa Sprawiedliwości, w wysokości, odpowiadającej rocznej przeciętnej sum i kosztów, przeznaczonych na utrzymanie sądów przemysłowych i kupieckich w latach 1929 — 1933. Rozporządzenie Ministra Spraw Wewnętrznych, Ministra Sprawiedliwości i Ministra Skarbu normuje wykonanie przepisu niniejszego i nadzór nad jego stosowaniem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 49, W razie rozszerzenia właściwości sądów pracy na spory pracowników i praktykantów w gospodarstwach rolnych, leśnych i ogrodowych oraz w przedsiębiorstwach z niemi związanych (art. 2"
+      },
+      {
+       "type": "text",
+       "text": "§ 2), tracą moc art. 19 ustawy z dnia 1 sierpnia 1919 r. o załatwianiu zatargów zbiorowych pomiędzy pracodawcami a pracownikami rolnymi (Dz. U. R. P. z 1931 r. Nr. 90, poz. 706), tudzież art. 4 ustawy z dnia 18 lipca 1924 r. w przedmiocie uprawnień Ministra Pracy i Opieki Społecznej do powoływania Nadzwyczajnych Komisyj Rozjemczych do załatwiania zatargów zbiorowych pomiędzv pracodawcami a pracow-"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nikami rolnymi (Dz. U. R. P. Nr. 71, poz. 686), o ile temi przepisami przekazano komisjom rozjemczym rozpatrywanie sporów indywidualnych, wynikających między pracodawcami a pracownikami vont na tle niestosowania się do umów zbiorowych oraz do orzeczeń komisyj rozjemczych lub Nadzwyczajnej Komisji Rozjemczej, regulujących zatargi zbiorowe — na tych obszarach, na których orzecznictwo sądów pracy w sprawach pracowników i praktykantów w gospodarstwach rolnych, leśnych i ogrodowych oraz w przedsiębiorstwach z niemi związanych będzie wprowadzone. Jednocześnie na tych obszarach spory indywidualne, należące dotąd do właściwości komisyj rozjemczych w myśl art. 19 ustawy z dnia 1 sierpnia 1919 r., przejdą do właściwości sądów pracy i sądów grodzkich z zastrzeżeniem, że sprawy, wszczęte uprzednio przed komisjami rozjemczemi, będą ukończone przez te komisje."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "50",
+   "path": "art_50",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_50/par_1",
+     "text": "Komisje pojednawczo-rozjemcze, działające na podstawie rozporządzenia z dnia 23 grudnia 1918 r. o umowach zbiorowych, wydziałach robotniczych i pracowniczych oraz o rozjemstwie w zatargach pracy (Dz. U. Rzeszy str. 1456), orzekają nadal w sporach indywidualnych, przekazanych im późniejszemi ustawami.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_50/par_2",
+     "text": "Rozporządzenia Ministra Sprawiedliwości i Ministra Opieki Społecznej mogą wszystkie lub niektóre z pośród tych sporów przekazać do rozstrzygania sądom pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "511",
+   "path": "art_511",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_511/par_1",
+     "text": "Termin końcowy okresu kadencji ławników i zastępców ławników sądów pracy i sądów okręgowych, którzy w dniu wejścia w życie prawa niniejszego zajmują te stanowiska, oznacza się bez względu na datę powołania poszczegóinych ławników lub ich zastępców — na dzień 31 grudnia 1935 r.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_511/par_2",
+     "text": "Rozporządzenia Ministra Sprawiedliwości oraz Ministra Opieki Społecznej mogą przesunąć ten termin dla sądów pracy, znajdujących się w okręgach poszczególnych sądów apelacyjnych, na przeciąg czasu nie dłuższy niż jeden rok.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 52, Prezes właściwego sądu apelacyjnego może na wniosek prezesa właściwego sądu okręgowego powierzyć dodatkowo przewodniczącemu lub zastępcy przewodniczącego samoistnego sądu pracy pełnienie czynności sędziowskich w miejscowym sądzie powszechnym."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "53",
+   "path": "art_53",
+   "text": "Wykonanie prawa niniejszego porucza się Ministrowi Sprawiedliwości i Ministrowi Opieki Społecznej oraz innym ministrom, każdemu w zakresie jego działania.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "54",
+   "path": "art_54",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 stycznia 1935 r. i obowiązuje na obszarze całego Państwa.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: I. Mościcki Prezes Rady Ministrów: L. Kozłowski Minister Spraw Wewnętrznych: Marjan Zyndram-Kościał kowski Minister Spraw Zagranicznych: Beck"
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Wojskowych: J. Piłsudski Minister Skarbu: Wł, Zawadzki Minister Sprawiedliwości: Czesław Michałowski Minister Wyznań Religijnych i Oświecenia Publicznego: W. Jędrzejewicz Minister Rolnictwa i Reform Rolnych: J, Poniatowski Minister Przemysłu i Handlu: H, Floyar-Rajchman Minister Komunikacji: M, Butkiewicz Minister Opieki Społecznej: Jerzy Paciorkowski Minister Poczt i Telegrafów: E. Kaliński"
+    },
+    {
+     "type": "text",
+     "text": "ĄDZENIE PREZYDENTA RZECZYPOSPOLITEJ"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 24 października 1934 r."
+    },
+    {
+     "type": "text",
+     "text": "o zmianie ustawy z dnia 28 marca 1933 r. o ubezpie- ————— ezenin społeczne. ="
+    },
+    {
+     "type": "text",
+     "text": "Na podstawie art. 44 ust. 6 Konstytucji i ustawy z dnia 15 marca 1934 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 28, poz. 221) postanawiam co następuje:"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie z dnia 28 marca 1933 r. o ubezpieczeniu społecznem (Dz. U. R. P. Nr. 51, poz. 396) wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 2 w ustępach 1 i 2 cyfry ,,4, 5 i 6\" zastępuje się cyframi ,,4, 5, 6, 6-a, 6-b i 6-c'; :",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 5 ust. 1 w punkcie 5 zastepuje się kropkę sredrikiem i wstawia się po punkcie 5 następujące punkty 6 i 7:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_1/pkt_16",
+     "text": "osoby, zatrudnione w gospodarstwie domowem, órych zatrudnienie w poszczególnych gospodarstwach domowych jest z natury rzeczy krótkotrwałe, jeżeli u tego samego pracodawcy nie trwa ono dłużej niż dwa tygodnie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "zatrudnieni w rzemiośle zstępni, rodzeństwo i wstępni pracodawcy, jeżeli pozostają z nim we wspólnem gospodarstwie domowem. ';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 6 ust. 1 w punkcie 1 wyrazy „wymienionych w ust. 3 pkt. 1 lit. a)\" zastępuje się wyrazami „objętych przepisem ust. 3 pkt. 1°;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 6 ust. 1 w punkcie 2 wyrazy „nie zachowały ciągłości ubezpieczenia w rozumieniu art. 153 i które', zastępuje się wyrazami „nie mają przebytych w ubezpieczeniu co najmniej 50 tygodni składkowych w przeciągu ostatnich trzech lat, przyczem do okresu trzech lat nie wlicza się okresów, wymienionych w art. 153 ust. 2, albo które '';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "w art. 6 ust. 3 punkt 1 otrzymuje brzmienie następujące:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "wi",
+       "path": "art_1/pkt_5/lit_wi",
+       "text": "pracownicy, zatrudnieni w gospodarstwach rolnych, leśnych, ogrodowych, hodowlanych i ryb-",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,75 @@
+{
+ "eli": "DU/1938/631",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 24 listopada 1938 r. o utworzeniu powiatowego wydziału hipotecznego w Sarnach.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/631/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 24 listopada 1938 r. o utworzeniu powiatowego wydziału. hipotecznego w Sqrnack. Na podstawie art. 9 i 271 prawa o ustroju sądów powszechnych (Dz. U. R. P. z 1932 r. Nr 102, poz. 863) zarządzam co następuje: § 1. Tworzy się powiatowy wydział hipoteczny wraz z archiwum hipotecznym przy Sądzie Grodzkim w Sarnach. Wydziałowi temu powierza się również prowadzenie ksiąg hipotecznych dla okręgów sądów grodzkich w Dąbrowicy i Włodzimiercu."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przenosi się “Reyne hipotecznego Sądu Okręgowego w Równem do archiwum hipotecznego przy Sądzie Grodzkim w Sarnach księgi hipoteczne, dotyczące następujących nieruchomości, położonych w okręgach sądów grodzkich w Dąbrowicy, Sarnach i Włodzimiercu:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "wszystkich nieruchomości miejskich,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "nieruchomości wiejskich o obszarze nie przewyższającym 50 ha.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Tworzy się stanowisko pisarza hipotecznego przy Sądzie Grodzkim w Sarnach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Notariusz z siedzibą w Sarnach staje się notariuszem przy wydziale hipotecznym w Sarnach,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Str. 1390"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Rozporządzenie niniejsze 'wchodzi w życie z dniem 15 grudnia 1938 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: W. Grabowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
