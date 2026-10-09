@@ -177,6 +177,8 @@ Wersje konwertera: eli2md 0.6.49 (28728).
 - Granice aktu (pomiar wyżej): w części aktów tekst zaczyna się od winiety i spisu treści numeru albo od końca
   poprzedniego aktu, albo kończy się początkiem następnego. Najczęściej, gdy OCR zniekształcił numer pozycji
   i nagłówek aktu (rozstrzelony druk: „K ON WENCUJIA”, DU/1934/793; numer „23” zamiast 29, DU/1981/29).
+- Następny akt o prawie tym samym tytule bywa doklejony na końcu (np. oświadczenie rządowe o ratyfikacji umowy, które
+  stoi zaraz po niej: DU/1928/523, 1930/462; dwa rozporządzenia o identycznym tytule: DU/1950/368).
 - Pierwsza strona numeru: gdy akt stoi pod spisem treści, do jego tekstu może trafić linia spisu (numery stron).
 - Stopka numeru (drukarnia, cena, „OD ADMINISTRACJI”) bywa w tekście ostatniego aktu numeru.
 - Tabele są spłaszczone do akapitów, a ich części mogą ginąć (DU/1944/46: tabele podatkowe w dużej części bez treści).
