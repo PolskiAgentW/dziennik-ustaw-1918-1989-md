@@ -1,0 +1,108 @@
+{
+ "eli": "DU/1971/174",
+ "title": "Rozporządzenie Ministrów Komunikacji i Obrony Narodowej z dnia 25 czerwca 1971 r. zmieniające rozporządzenie w sprawie zasad ruchu lotniczego cywilnych statków powietrznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1971/174/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRÓW KOMUNIKACJI I OBRONY NARODOWEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 czerwca 1971 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie zasad ruchu lotniczego cywilnych statków powietrznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 44 ust. 3 ustawy z dnia 31 maja 1962 r. — Prawo lotnicze (Dz. U. Nr 32, poz. 153) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministrów Komunikacji i Obrony Narodowej z dnia 19 grudnia 1964 r. w sprawie zasad ruchu lotniczego cywilnych statków powietrznych (Dz. U. z 1965 r. Nr 1, poz. 4 i Nr 30, poz. 201) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 7 ust. 3 wyrazy „wojskowe organy ruchu lotniczego” zastępuje się wyrazami „cywilno-wojskowe organy ruchu lotniczego według zasad ustalonych przez Ministrów Komunikacji i Obrony Narodowej\";",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 8 ust. 1 pkt 3:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "po wyrazach „separacji pionowej\" skreśla się dwu-",
+       "children": [
+        {
+         "type": "text",
+         "text": "."
+        },
+        {
+         "type": "text",
+         "text": "kropek i dodaje wyrazy „zgodnie z połówkowym podziałem wysokości\"; i"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "lit. a) i b) otrzymują brzmienie: „a) co najmniej 300 m — dla lotów wykonywanych na wysokości mniejszej niż 6.000 m,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "co najmniej 600 m — dla lotów wykonywanych na wysokości od 6.000 m do 9.000 m”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "dodaje się lit. c) w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "wc) co najmniej 1.000 m — dla lotów wykonywanych na wysokości 9.000 m lub większej”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie po upływie 2 tygodni od dnia ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Komunikacji: M. Zajfryd Minister Obrony Narodowej: w z. J. Urbanowicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

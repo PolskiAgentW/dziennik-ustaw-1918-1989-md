@@ -1,0 +1,268 @@
+{
+ "eli": "DU/1971/172",
+ "title": "Rozporządzenie Ministra Handlu Zagranicznego z dnia 19 czerwca 1971 r. w sprawie zmiany niektórych stawek w taryfie celnej wywozowej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1971/172/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA HANDLU ZAGRANICZNEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 czerwca 1971 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany niektórych stawek w taryfie celnej wywozowej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 8 ustawy z dnia 14 lipca 1961 r. — Prawo celne (Dz. U. Nr 33, poz. 166) i § 5 pkt 1 rozporządzenia Rady Ministrów z dnia 6 maja 1965 r. w sprawie ustanowienia ceł na towary wywożone za granicę (Dz. U. z 1965 r. Nr 18, poz. 120 i z 1970 r. Nr 20, poz. 167) zarządza się, co następuje: § 1. Zmienia się dotychczasowe stawki niektórych po-"
+  },
+  {
+   "type": "text",
+   "text": "u"
+  },
+  {
+   "type": "text",
+   "text": "Pozycja taryfy celnej i nazwa towaru"
+  },
+  {
+   "type": "text",
+   "text": "1"
+  },
+  {
+   "type": "text",
+   "text": ". Pierze, puch — z bezpośrednim Spee ania . Kołdry, pierzyny, poduszki:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "z puchu i pierza",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "inne zycji taryfy celnej wywozowej (Dz. U. z 1965 r. Nr 18, poz. 120 i z 1970 r. Nr 20, poz. 167), nadając im brzmienie podane w załączniku do rozporządzenia. § 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Handlu Zagranicznego: K. Olszewski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Minlstra Handlu Zagranicznego. z dnia 19 czerwca 1971 r. (poz. 172).",
+   "body": [
+    {
+     "type": "text",
+     "text": "Hemsle wy Wyman: GD Cło od jednostki miary towaru złotych"
+    },
+    {
+     "type": "text",
+     "text": "2 3 3"
+    },
+    {
+     "type": "text",
+     "text": "Jednostka miary towaru"
+    },
+    {
+     "type": "text",
+     "text": "od wartości 100°/o"
+    },
+    {
+     "type": "text",
+     "text": "100°/o t00/0 od wartości od wartości . Tkaniny, materie dziane, plecione, wstążki, taśmy:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "z włókien lnianych i konopnych",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "z innych materiałów włóknistych . Tiule, koronki, hafty i wyroby z nich; firanki:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "tiule; firanki",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "koronki, hafty i wyroby z nich . Polskie stroje ludowe (bez obuwia) . Obuwie:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "dziecięce:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "skórzane",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "inne",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "kierpce i pantofle domowe bez cła od wartości 100%/o",
+     "children": [
+      {
+       "type": "text",
+       "text": "1 kg od wartości"
+      },
+      {
+       "type": "text",
+       "text": "300 10*/0 bez cła"
+      },
+      {
+       "type": "text",
+       "text": "50*/e 30/0 20°/o od wartości od wartości od wartości"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "inne obuwie skórzane, również z dodatkiem futra oraz obuwie futrzane:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_3/lit_a",
+       "text": "na spodzie skórzanym",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_3/lit_b",
+       "text": "na spodzie innym",
+       "children": [
+        {
+         "type": "text",
+         "text": "50°/o 30°/o od wartości od wartości"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "z tkanin i innych materiałów, również z dodatkiem futra od wartości 30/0 . Nakrycia stołowe, wyroby nożownicze oraz drobne wy: roby z metali pospolitych do użytku domowego i osobistego:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "nakrycia stołowe i wyroby nożownicze",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "inne\" . Odbiorniki radiowe produkcji krajowej:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "tranzystorowe: -",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_1/lit_a",
+       "text": "z UKF",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_1/lit_b",
+       "text": "inne",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "lampowe >; . Płyty gramofonowe:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "wolnoobrotowe",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "szybkodbrotówe oraz wszelkie na pocztówkach",
+     "children": [
+      {
+       "type": "text",
+       "text": "100°/o 20°/o od wartości od wartości"
+      },
+      {
+       "type": "text",
+       "text": "50*/0 bez cła bez cła od wartości"
+      },
+      {
+       "type": "text",
+       "text": "4 od .wartości 20°/o bez cla,"
+      },
+      {
+       "type": "text",
+       "text": "Uwaga do poz. 80: Za płyty wolnoobrotowe należy uwa-| żąć płyty o ilości obrotów poniżej 70 na minutę."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

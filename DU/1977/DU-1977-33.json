@@ -1,0 +1,438 @@
+{
+ "eli": "DU/1977/33",
+ "title": "Rozporządzenie Ministrów Pracy, Płac i Spraw Socjalnych oraz Zdrowia i Opieki Społecznej z dnia 19 lutego 1977 r. w sprawie bezpieczeństwa i higieny pracy przy stosowaniu urządzeń wytwarzających pola elektromagnetyczne w zakresie od 0,1 MHz do 300 MHz.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1977/33/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRÓW PRACY, PŁAC I SPRAW SOCJALNYCH ORAZ ZDROWIA I OPIEKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 lutego 1977 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie bezpieczeństwa i higieny pracy przy stosowaniu urządzeń wytwarzających pola elektromagnetyczne w zakresie od 0,1 MHz do 300 MHz. i"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 208 § 1-i § 3 Kodeksu pracy (Dz. U. z 1974 r. Nr 24, poz. 141 i z 1975 r. Nr 16, poz. 91) po porozumieniu z Centralną Radą Związków zupach zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie dotyczy bezpieczeństwa i higieny pracy przy stosowaniu urządzeń wytwarzających pola elektromagnetyczne w zakresie od 0,1 MHz do 300 MHz, „ a w szczególności przemysłowych urządzeń grzejnych, indukcyjnych i dielektrycznych, urządzeń radiokomunikacyjnych, urządzeń fizykoterapeutycznych i diagnostycznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Na obszarze otaczającym urządzenia, o których mowa w § 1, ustala się następujące strefy ochronne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "strefę pośrednią,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "strefę zagrożenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "strefę niebezpieczną.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(ochronnymi stanowi strefę bez- Obszar poza strefami pieczną."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Granice poszczególnych stref ochronnych ustala się dla zakresów częstotliwości od 0,1 MHz do 10 MHz oraz powyżej 10 MHz do 300 MHz w drodze pomiarów kontrolnych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "wartości skutecznej natężenia pola elektrycznego i magnetycznego w zakresie częstotliwości od 0,1 MHz do 10 MHz, wyrażonych w woltach na 1 metr (V/m) i amperach na 1 metr (A/m),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "wartości skutecznej natężenia pola elektrycznego w zakresie powyżej 10 MHz do 300 MHz wyrażonej w woltach na 1 metr (V/m).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W zakresie częstotliwości od 0,1 MHz do 10 MHz ustala się następujące granice poszczególnych stref:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "na obszarach poza strefami ochronnymi (w strefie bezpiecznej) najwyższa wartość natężenia pola elektrycznego nie może przekraczać 20 V/m, a natężenie pola magnetycznego 2 A/m,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "w-strefie pośredniej graniczne wartości natężenia pola elektrycznego wynoszą. powyżej 20 V/m do 70 V/m, a pola magnetycznego powyżej 2 A/m do 10 A/m,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "w strefie zagrożenia graniczne wartości natężenia pola elektrycznego wynoszą powyżej 70 V/m do 1000 V/m, a pola magnetycznego powyżej 10 A/m do 250 A/m,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "w strefie niebezpiecznej natężenie pola elektrycznego jest większe niż 1000 V/m, a natężenie pola magnetycznego jest większe niż 250 A/m.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W zakresie częstotliwości powyżej 10 MHz do 300 MHz ustała się granice poszczególnych stref według wartości natężenia poła elektrycznego:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "na obszarach poza strefami ochronnymi (w strefie. bezpiecznej) najwyższa wartość nie może przekraczać 7 Vim,",
+     "children": [
+      {
+       "type": "text",
+       "text": ". 2).w strefie pośredniej graniczne wartości wynoszą od * - powyżej 7 V/m do 20: V/m,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "w strefie zagrożenia graniczne wartości wynoszą od powyżej 20 V/m do 300 V/m,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "w strefie niebezpiecznej wartość natężenia jest większa niż 300 V/m.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Oznakowania granic stref ochronnych dokonują zakłady pracy użytkujące urządzenia wytwarzające pola elektromagnetyczne w sposób wskazany przez instytucję upoważnioną w myśl § 8 do wykonywania pomiarów koń-- trolnych promieniowania oraz zgodnie z Polską Normą dotyczącą oznakowania źródeł i stref ochronnych promieniowania elektromagnetycznego. x",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Ustala się następujące zasady przebywania: pracowników na obszarze poszczególnych stref:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "na obszarze stref ochronnych mogą przebywać wyłącznie pracownicy, u których w wyniku przeprowadzonych badań lekarskich stwierdzono brak przeciw-_/ wskazań zdrowotnych do przebywania w zasięgu pól i elektromagnetycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "w strefie pośredniej mogą przebywać pracownicy zatrudnieni przy produkcji, naprawach, przeglądach, obsłudze lub stosowaniu urządzeń wymienionych w §1 „w Czasie jednej zmiany roboczej, ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "w strefie zagrożenia mogą przebywać pracownicy wy-- mienieni w pkt 2 przez czas ograniczony; dopuszczalny czas przebywania w tej strefie ulega skróceniu żależnie od natężenia pól elektromagnetycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_1/pkt_4",
+       "text": "w strefie niebezpiecznej przebywanie pracowników jest zabronione.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Zasady obliczania dopuszczalnego czasu prey wae’ nią w strefie zagrożenia określa załącznik do rozporządzę- _ nią.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Przepisu ust. 1 nie stosuje się do osób poddawa- — nych napromienianiu polami elektromagnetycznymi pod nadzorem fachowych, pracowników służby zdrowia w ce-. lach diagnostycznych lub leczniczych. =",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Zakres i sposób przeprowadzania badań lekarskich lub przebywających - „pracowników mających przebywać na obszarze stref ochronnych oraz kandydatów do odbycia przygotowania zawodowego w warunkach narażenia na działanie pola elektromagnetycznego regulują przepisy w sprawie przeprowadzania badań lekarskich pracowni- — ków. \\",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Na stanowiskach pracy i w innych miejscach przebywania pracowników w otoczeniu urządzeń wytwa- — rzających pola elektromagnetyczne należy przeprowadzać okresowe pomiary kontrolne- pola elektromagnetycznego co najmniej raz na trzy łata i każdorazowo w razie zmiany warunków eksploatacji, które mogą wpływać na wiel- — kość 'pól: elektromagnetycznych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "2.- Jeżeli rodzaj i rozmieszczenie urządzeń wyłtwarza-- jącyćh pola ełektromagnetyczne ułegają częstym zmianom, -"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dziemik Ustaw Nr 8"
+      },
+      {
+       "type": "text",
+       "text": "w szczególności przy pracach naukowych, konstrukcyjnych lub w zakładach remontowych, należy każdorazowo - wykonywać pomiary kontrolne i w miarę potrzeby przeprowadzać kontrole stopnia napromienienia pracowników."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Warunki napromieniania i ocenę stopnia napromienienia określa się dla maksymalnej mocy wyjściowej danego urządzenia oraz przy najbardziej niekorzystnym wariancie eksploatacji zgodnej z przeznaczeniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "O potrzebie przeprowadzenia pomiarów kontrolnych użytkownik obowiązany jest zawiadomić instytucję upoważnioną do przeprowadzania takich pomiarów oraz państwowego wojewódzkiego inspektora sanitarnego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "_ 5. 'Państwowy wojewódzki inspektor sanitarny może zarządzić przeprowadzenie dodatkowych pomiarów kontrolnych bądź zarządzić wykonywanie pomiarów kontrolnych w okresach krótszych niż raz na -trzy lata — z wiasnej inicjatywy, na wniosek instytucji upoważnionych do przeprowadzania pomiarów lub na wniosek użytkownika. § $. 1. Przeprowadzanie pomiarów kontrolnych, wydawanie opinii dotyczących bezpieczeństwa i higieny pracy w zasięgu pól 8lektromagnetycznych oraz prowadzenie na zlecenie szkolenia należy do organów Państwowej Inspekcji Radiowej, które w tym zakresie działają w porozumieniu z właściwymi organami Państwowej Inspekcji Sanitarnej. Decyzje o dopuszczalności warunków pracy w zasięgu pól elektromagnetycznych wydawane są przez właściwe organy Państwowej Inspekcji Sanitarnej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W razię wątpliwości eo do stopnia narażenia na działanie pola elektromagnetycznego, a w szczególności na pograniczu stref-oraz w zasięgu pól pochodzących z kilku źródeł, ustalenia dotyczące dopuszczalności i zasad przebywania na określonym obszarze podejmują właściwe terenowo organy Państwowej Inspekcji Sanitarnej,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Minister Zdrowia i Opieki Społecznej na wniosek zainteresowanego ministra (kierownika urzędu centralne-",
+     "children": [
+      {
+       "type": "lit",
+       "num": "go",
+       "path": "par_7/ust_3/lit_go",
+       "text": "może wyrazić zgodę na wykonywanie zadań określonych w ust. 1 przez inne instytucje przygotowane do tych zadań.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Badania, o których mowa w ust. 1 i 3, wykonywane na rzecz użytkowników urządzeń wytwarzających pola elektromagnetyczne, są odpłatne,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Sposób przeprowadzania pomiarów kontrolnych i oceny ich wyników dla celów bezpieczeństwa i higieny pracy oraz zasady sporządzania protokołów pomiarowych i orzeczeń regulują odrębne przepisy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Sprawy dotyczące zgłaszania zmiany warunków pracy i okresowych pomiarów kontrolnych pól elektromagnetycznych wytwarzanych przez urządzenia zainstalowane na jednostkach pływających regulują odrębne przepisy. § 9. Zakład pracy jest obowiązany przeszkolić co najmniej raz na trzy lata pracowników w zakresie bezpiecznego obchodzenia się z urządzeniami wytwarzającymi pola elektromagnetyczne. Wyniki tego przeszkolenia powinny być potwierdzone protokołem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "O zamierzonym uruchomieniu zakładu lub \"stanowiska pracy, na którym pracownicy mogliby być 'narażeni na działanie pól elektromagnetycznych, zakład pracy powinien zawiadomić właściwe terenowo organy Państwowej Inspekcji Sanitarnej i Inspekcji Pracy. ‘",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Wprowadzenie do produkcji, lokalizacja. i instalacja urządzeń wytwarzających pola elektromagnetyczne wymagają zgody właściwych terenowo organów Państwowej Inspekcji Sanitarnej i Inspekcji Pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Zakłady pracy powinny zawiadomić 'właściwe terenowo organy Państwowej Inspekcji Sanitarnej i Inspekcji Pracy o użytkowaniu urządzeń wytwarzających pola elektromagnetyczne w terminie trzech miesięcy od dnia wejścia w życie rozporządzenia. nisieny pracy przy. § 11. Zasady bezpieczeństwa i. stosowaniu urządzeń, o których mowa w §~1,-w jednostkach i zakładach wojskowych oraz przetlsiębiorstwach podległych Ministrowi Obrony Narodowej i Ministrowi Spraw. Wewnętrznych, jak też w jednostkach organizacyjnych. podległych innym ministrom, stosujących urządzenia objęte specjalmymi zastrzeżeniami, regulują odrębne przepisy..",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 czerwca 1977 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Pracy, Płac i Spraw Socjalnych: T. Rudolf"
+  },
+  {
+   "type": "text",
+   "text": "Minister Zdrowia i Opieki Społecznej: w z..J. Grenda"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministrów Pracy, Płac i Spraw Socjalnych oraz Zdrowia 1 Opieki Społecznej z dria 19 lutego 1977 r. (poz. 33).",
+   "body": [
+    {
+     "type": "text",
+     "text": "Zasady obliczania dopuszczalnego czasu przebywania w strefie zagrożenia."
+    },
+    {
+     "type": "text",
+     "text": "Dobowy dopuszczalny czas przebywania pracowników i innych osób w strefie zagrożenia w zakresie częstotliwości od 0,1 MHz do 300 MHz oblicza się według wzorów:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "dła pola magnetycznego o częstotliwości od 0,1 MHz do 10 MHz",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "ty =— — : H"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "dla pola elektrycznego o częstotliwości ai „i MHz do -.410 MHz .",
+     "children": [
+      {
+       "type": "text",
+       "text": "560 T, = — AA BR"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "dla pola elektrycznego o częstotliwości od ponad 10 MHz do 300 MHz",
+     "children": [
+      {
+       "type": "text",
+       "text": "3200 Ta = 7 B2"
+      },
+      {
+       "type": "text",
+       "text": "‘Oznaczenia:"
+      },
+      {
+       "type": "text",
+       "text": "‘Ty — oznacza dopuszczalny czas 'przebywania w godzi- „nach, H —'otnacza średnie natężenie pola: NWOESZAJRNĘ (Am) . -działającego>na pracowników-w «czasie Tg, E .—.oznac#a średnie natężenie poła etektrycznego (V/m).."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

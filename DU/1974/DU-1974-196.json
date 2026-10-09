@@ -1,0 +1,1106 @@
+{
+ "eli": "DU/1974/196",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 20 września 1974 r. w sprawie wykonywania obowiązku meldunkowego i prowadzenia ewidencji ludności.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1974/196/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 września 1974 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykonywania obowiązku meldunkowego i prowadzenia ewidencji ludności."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 52 ust. 1 i 3 ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. Nr 14, poz. 85) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Obowiązek meldunkowy polegający na zameldowaniu i wymeidowaniu się z miejsca pobytu stałego lub czasowego wykonuje się przez zgłoszenie danych wymaganych rozporządzeniem, w terminach określonych w ustawie o ewidencji ludności i dowodach osobistych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zgłoszenia danych wymaganych do zameldowania i wymeldowania dokonuje się na formularzach meldunkowych, chyba że przepisy rozporządzenia stanowią inaczej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Za osobę niepełnoletnią obowiązek meldunkowy wykonuje jej przedslawiciel ustawowy lub inna osoba sprawująca nad nią faktyczną opiekę w miejscu ich wspólnego pobytu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Zameidowanie na pobyt stały lub czasowy następuje pod oznaczonym adresem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Adres określa się przez podanie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "w miastach — nazwy miasta, ulicy, numeru domu i lokalu (pomieszczenia), a ponadto:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_2/pkt_1/lit_a",
+         "text": "w miastach podzielonych na dzielnice — nazwy dzielnicy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_2/pkt_1/lit_b",
+         "text": "w miastach nie stanowiących powiatu — nazwy powiatu,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "we wsiach — nazwy miejscowości, numeru domu i lokalu (pomieszczenia), nazwy gminy i powiatu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Przepisy ust. 1 i 2 stosuje się odpowiednio do zameldowania osób przebywających stale lub czasowo na statku morskim lub żeglugi śródlądowej albo w innych ruchomych urządzeniach mieszkalnych (pomieszczeniach).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Zmiana adresu pobytu stałego lub czasowego w tej samej miejscowości powoduje obowiązek zameldowania się we właściwym urzędzie miejskim, urzędzie miasta i powiatu, urzędzie dzielnicowym, urzędzie gminy lub urzędzie miasta i gminy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Zmiana pobytu czasowego na stały, choćby w tej samej miejscowości i pod tym samym adresem, powoduje obowiązek zameldowania się na pobyt stały,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Właściciel lub najemca lokalu stwierdza podpisem na formularzu meldunkowym określonego wzoru fakt pobytu lub opuszczenia lokalu przez osobę obowiązaną do zameldowania lub wymeldowania się. W razie braku takiego stwierdzenia urząd przyjmujący zgłoszenie dokonuje ustaleń potwierdzających pobyt osoby podlegającej obowiązkowi meldunkowemu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Zwalnia się od obowiązku zameldowania na pobyt czasowy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "dzieci do lat 7 — na okres nie przekraczający 2 miesięcy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "rodziców przybywających do swych dzieci i dziadków do wnuków — na okres nie przekraczający 30 dni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Zameldowanie."
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Przy zameldowaniu się na pobyt stały należy zgłosić następujące dane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "nazwisko (dla kobiet nazwisko rodowe i z poprzedniego małżeństwa) i imię (imiona),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "imiona rodziców oraz nazwisko rodowe matki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_1/pkt_3",
+       "text": "datę i miejsce urodzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_1/pkt_4",
+       "text": "stan cywilny,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_1/pkt_5",
+       "text": "imię i nazwisko małżonka,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_1/pkt_6",
+       "text": "nazwiska, imiona, daty i miejsca urodzenia dzieci do lat 18 i osób znajdujących się pod prawną lub faktyczną opieką, podlegających zameldowaniu i nie posiadających tymczasowych dowodów osobistych lub tymczasowych zaświadczeń tożsamości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_7/ust_1/pkt_7",
+       "text": "adres nowego miejsca pobytu stałego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_7/ust_1/pkt_8",
+       "text": "datę przybycia na pobyt stały,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_7/ust_1/pkt_9",
+       "text": "nazwisko i imię właściciela lub najemcy lokalu, w którym ma nastąpić zameldowanie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_7/ust_1/pkt_10",
+       "text": "adres poprzedniego miejsca pobytu stałego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_7/ust_1/pkt_11",
+       "text": "wykształcenie i zawód wyuczony,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_7/ust_1/pkt_12",
+       "text": "miejsce pracy i zawód wykonywany,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_7/ust_1/pkt_13",
+       "text": "obowiązek wojskowy (podlega — nie podlega), stopień wojskowy, nazwę i numer wojskowego dokumentu osobistego ze wskazaniem właściwego sztabu wojskowego, w którego ewidencji aktualnie pozostaje, lub potwierdzenie o zgłoszeniu się do rejestracji przedpoborowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_7/ust_1/pkt_14",
+       "text": "oznaczenie dokumentu stwierdzającego tożsamość.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Dane wymienione w ust. 1 zgłasza się przez wypełnienie i podpisanie formularza „Zgłoszenie pobytu stałego\".",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 8 1. Przy zameldowaniu się na pobyt stały należy przedstawić potwierdzenie wymeldowania się z poprzedniego miejsca pobytu stałego. Do czasu przedstawienia potwierdzenia wymeldowania osoba zgłaszająca pobyt może być zameldowana tylko na pobyt czasowy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przepisy ust. 1 nie mają zastosowania, gdy przybywający z zagranicy obywatel polski po raz pierwszy zgłasza miejsce pobytu stałego na terytorium Polskiej Rzeczypospolitej Ludowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Zameldowania się na pobyt stały na statku Żeglugi śródlądowej można dokonać za pośrednictwem kierownika przedsiębiorstwa żeglugowego, zatrudniającego członka załogi, lub upoważnionego pracownika tego przedsiębiorstwa.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "=) 80% a 'Dziennik Ustaw Nr 33"
+    },
+    {
+     "type": "text",
+     "text": "$.10. Zameldowania na pobyt czasowy trwający do 2 miesięcy dokonuje się ustnie, podając datę przybycia, zamierzony czas trwania pobytu i przedstawiając dokument stwierdzający tożsamość lub inny dokument, o którym mowa w art. 9 ust. 2."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Przy zameldowaniu się na pobyt czasowy trwający ponad 2 miesiące należy zgłosić dane wymienione w § 7 ust. 1 oraz podać zamierzony czas trwania pobytu i'okoliczności uzasadniające ten pobyt. Dane te zgłasza się przez wypełnienie i podpisanie formularza „Zgłoszenie pobytu czasowego ponad 2 miesiące”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Zameldowania na pobyt czasowy w zakładach określonych w art. 18 oraz w zakładach udzielających pomieszczeń w związku z pracą, nauką lub opieką społeczną dokonuje się ustnie u kierownika zakładu lub upoważnionego pracownika, podając datę przybycia, zamierzony czas trwania pobytu oraz przedstawiając dokument stwierdzający tożsamość lub inny dokument, o którym mowa w art. 9 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Pracownik przyjmujący zgłoszenie wpisuje do książki zameldowań następujące dane: -",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "nazwisko i imię (imiona), \"2) imiona rodziców,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_2/pkt_3",
+       "text": "datę i miejsce urodzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_2/pkt_4",
+       "text": "adres miejsca pobytu stałego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_12/ust_2/pkt_5",
+       "text": "datę przybycia i zamierzony czas trwania pobytu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_12/ust_2/pkt_6",
+       "text": "oznaczenie dokumentu stwierdzającego tożsamość.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Przyjmujący zgłoszenie potwierdza wpisane dane podpisem w książce."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Jeżeli zamierzony pobyt czasowy ma trwać dłużej niż 2 miesiące, zgłośzenia tego pobytu dokonuje się w \"sposób określony w § 11.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Zameldowania na pobyt czasowy w zakładzie udzielającym pomieszczenia w związku z leczeniem dokonuje się ustnie u kierownika zakładu lub upoważnionego pracownika, przedstawiając dokument stwierdzający tożsamość lub inny dokument, o którym mowa w art. 9 ust. 2,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Przepis § 12 ust. 2 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Zameldowania na pobyt czasowy na statku morskim lub w ruchomym urządzeniu mieszkalnym osób, o których mowa w art. 7 ust. 2, można dokonać za pośrednictwem kierownika zakładu pracy zatrudniającego te osoby lub innego upoważnionego pracownika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Przepisy § 11 i 12 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Osoby określone w art. 19 ust. 1 i 2 zameldowania się dokonują ustnie, podając datę przybycia i zamierzony czas trwania pobytu oraz przedstawiając dokument stwierdzający tożsamość lub inny dokument, o którym mowa w art. 9 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Przyjmujący zgłoszenie wpisuje do książki zameldowań następujące dane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_2/pkt_1",
+       "text": "nazwisko i imię (imiona),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_2/pkt_2",
+       "text": "imiona rodziców, -",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_2/pkt_3",
+       "text": "datę i miejsce urodzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_2/pkt_4",
+       "text": "adres miejsca pobytu stałego, ~",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_15/ust_2/pkt_5",
+       "text": "adres miejsca pobytu czasowego, „:6) „datę przybycia i zamierzony czas trwania pobytu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_15/ust_2/pkt_7",
+       "text": "oznaczenie dokumentu stwierdzającego tożsamość.",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Poz. 196",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "«Przyjmujący zgłoszenie potwierdza wpisane dane. podpisem w książce,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 16. Przy zameldowaniu uczestników wycieczki określonej w art. 20 kierownik wycieczki przedstawia listę zawierającą następujące dane uczestników: nazwiska i imiona, daty urodzenia, adresy miejsca stałego pobytu oraz oznaczenia dokumentów stwierdzających tożsamość,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 17. Osoby dopełniające obowiązku -zameldowania się na pobyt czasowy mogą na swój wniosek otrzymać potwierdzenie zameldowania.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rozdział 3 Wymeldowanie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 18.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Przy wymeldowaniu się z dotychczasowego miejsca pobytu stałego należy zgłosić następujące dane:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) nazwisko (dla kobiet nazwisko rodowe i z poprzedniego małżeństwa) i imię (imiona),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) imiona rodziców oraz nazwisko rodowe matki,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) datę i miejsce urodzenia,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) nazwiska, imiona, daty i miejsca urodzenia dzieci do lat 18 i osób znajdujących się pod prawną lub faktyczną opieką, podlegających wymeldowaniu i nie posiadających tymczasowych dowodów osobistych lub e czasowych zaświadczeń tożsamości,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) adres dotychczasowego miejsca: pobytu stiłeja,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) datę opuszczenia miejsca pobytu stałego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) adres nowego miejsca pobytu stałego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) obowiązek wojskowy (podlega — nie podlega), stopień wojskowy, nazwę i numer wojskowego dokumentu osobistego ze wskazaniem właściwego sztabu wojskowego, w którego ewidencji aktualnie pozostaje, lub potwierdzenie. o zgłoszeniu się do rejestracji przedpoborowych,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "9) oznaczenie dokumentu stwierdzającego tożsamość.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Dane wymienione w ust. 1 zgłasza się przez wypełnienie i podpisanie formularza „Zgłoszenie wymeldowania z miejsca pobytu stałego”.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 19. Wymeldowania z miejsca pobytu czasowego trwającego do 2 miesięcy, przed upływem okresu zgłoszonego przy zameldowaniu, dokonuje się ustnie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 20. Przy wymeldowaniu się z miejsca pobytu czasowego trwającego ponad 2 miesiące, przed upływem okresu zgłoszonego przy zameldowaniu, należy zgłosić dane wymienione w § 18 ust. 1. Dane te zgłasza się przez wypełnienie i podpisanie formularza „Zgłoszenie wymeldowania z miejsca pobytu czasowego ponad 2 miesiące\".",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 21.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Przy zgłoszeniu wyjazdu za granicę na pobyt czasowy trwający ponad 2 miesiące podaje się następujące dane:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) nazwisko (dla kobiet nazwisko rodowe i z poprzedniego małżeństwa) i imię (imiona),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) datę i miejsce urodzenia,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) adres miejsca pobytu stałego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) datę wyjazdu i adres zamierzonego miejsca pobytu czasowego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) nazwiska, imiona, daty i miejsca urodzenia dzieci do lat 18 oraz osób znajdujących się pod prawną lub faktyczną opieką, wspólnie wyjeżdżających i nie posiadających tymczasowych dowodów osobistych lub tymczasowych zaświadczeń tożsamości,",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "nos wm",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) obowiązek wojskowy (podlega — nie podlega). stopień wojskowy, nazwę i numer wojskowego dokumentu osobistego ze wskazaniem właściwego sztabu wojskowego, w którego ewidencji aktualnie pozostaje, lub potwierdzenie o zgłoszeniu się do rejestracji przedpoborowych,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) oznaczenie dokumentu stwierdzającego tożsamość.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Dane, o których mowa w ust. 1, zgłasza się przez wypełnienie i podpisanie formularza „Zgłoszenie wyjazdu za granicę na pobyt czasowy ponad 2 miesiące\",",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Zgłoszenia powrotu dokonuje się ustnie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 22. Przy wymeldowaniu przepisy § 9, 12, 13 i 14 stosuje się odpowiednio. * a",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rozdział 4",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Wykonywanie obowiązku meldunkowege przez cudzoziemców.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 23. Przy wykonywaniu obowiązku meldunkowego przez cudzoziemców stosuje się przepisy rozporządzenia ze zmianami wynikającymi z niniejszego rozdziału.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 24.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Przy zameldowaniu się na pobyt stały cudzoziemiec zgłasza dane określone w § 7 ust. 1 pkt 1—12 i 14, podaje swoje obywatelstwo oraz przedstawia kartę pobytu stałego cudzoziemca i potwierdzenie zameldowania na pobyt czasowy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Zameldowanie na pobyt staty następuje w miejsco- \"w ości określonej w karcie pobytu stałego cudzoziemca.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Dane, o których mowa w ust, 1, zgłasza się przez wypełnienie i podpisanie formularza „Zgłoszenie pobytu stałego\". ,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 25.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Przy zameldowaniu się na pobyt czasowy cudzoziemiec zgłasza następujące dane:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) nazwisko i imię (imiona),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) datę, miejsce i kraj urodzenia,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) obywatelstwo,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) nazwiska, imiona, daty i miejsca urodzenia dzieci do lat 18, podlegające zameldowaniu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) datę przekroczenia granicy Polskiej Rzeczypospolitej Ludowej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) adres miejsca pobytu czasowego i zamierzony czas „trwania pobytu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "7) datę i cel przybycia do danej miejscowości (nazwa instytucji, do której przybywa),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "8) oznaczenie dokumentu uprawniającego do pobytu na terytorium Polskiej Rzeczypospolitej Ludowej.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Dane wymienione w ust. 1 zgłasza się przez wypełnienie formularza „Zgłoszenie pobytu czasowego cudzoziemca\".",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 26.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Zameldowania na pobyt czasowy w zakładach hotelarskich, w zakładach udzielających pomieszczenia w związku z leczeniem lub wypoczynkiem cudzoziemiec dokonuje u kierownika zakładu lub upoważnionego pracownika, przedstawiając dokument uprawniający do pobytu na terytorium Polskiej Rzeczypospolitej Ludowej oraz zgłaszając dane, o których mowa w § 25 ust. 1.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Kierownik lub pracownik zakładu wypełnia na podstawie zgłoszonych danych i przedstawionych dakumentów formularz „Zgłoszenie pobytu czasowego cudzoziemca”.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Formularz podpisuje cudzoziemiec oraz osoba przyjmująca zgłoszenie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. W stosunku do cudzoziemców przebywających w zakładach, o których mowa w ust. 1, może być w okresie wzmożonego ruchu turystycznego stosowany sposób zameldowania określony w § 12.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 27. Zameldowania uczestników wycieczki dokonuje się ma podstawie paszportów lub innych dokumentów uprawniających do pobytu na terytorium Polskiej Rzeczypospolitej Ludowej albo na podstawie polskiej wizy zbiorowej.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 28. Przy wymeldowaniu się z miejsca pobytu stałego cudzoziemiec vgłasza dane określone w § 18 ust. 1 pkt 1— 7 1 9 oraz podaje swoje obywatelstwo i przedstawia dokument uprawniający do pobytu na terytorium Polskiej Rzeczypospolitej Ludowej. Dane te zgłasza się przez wypełnienie i podpisanie formularza „Zgłoszenie wymeldowania z pobytu stałego”.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 29.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Przy wymeldowaniu się z miejsca pobytu czasowego przed upływem okresu zgłoszonego przy zameldowaniu cudzoziemiec zgłasza dane, o których mowa w § 18 ust. 1 pkt 1—7 i 9, oraz podaje swoje obywatelstwo i przedstawia dokument uprawniający do pobytu na terytorium Polskiej Rzeczypospolitej Ludowej. Dane te zgłasza się przez wypełnienie i podpisanie formularza „Zgłoszenie wymeldowania cudzoziemca\".",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Wymeldowania z zakładów, o których mowa w § 26, cudzoziemiec dokonuje ustnie, przedstawiając dokument uprawniający do pobytu na terytorium Polskiej Rzeczypospolitej Ludowej.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 30. Do cudzoziemców nie mają zastosowania przepisy § 6, 10, 12, 15 i 16, z tym że przepis § 12 stosuje się w przypadkach, o których mowa w § 26 ust. 3.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rozdział 5",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Wykazy osób podlegających zameldowaniu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 31.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Wykaz, o którym mowa w art. 32, powinien zawierać nazwę miejscowości (dzielnicy) i ulicy, numer domu, numer lokalu (oraz oznaczenie wszelkich innych pomieszczeń używanych na mieszkanie), jak również następujące dane:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) nazwisko i imię oraz datę urodzenia,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) datę przybycia,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) datę opuszczenia lokalu (pomieszczenia).",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Wykaz prowadzi się dla każdego domu, uwzględniając podział według lokali (pomieszczeń).",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Dla domów stanowiących zwarty zespół i będących pod wspólnym zarządem jednego administratora lub właściciela można prowadzić jeden wykaz łączny z zachowaniem podziału wykazu według poszczególnych domów i lckali (pomieszczeń) w tych domach.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 32. Osoby prowadzące wykazy są obowiązane w porozumieniu z właściwym w sprawach meldunkowych urzędem dokonywać w wykazach na bieżąco wszelkich zmian wynikających z zameldowań i wymeldowań osób oraz zawiadamiać niezwłocznie ten urząd o niedokonaniu obowiązku meldunkowego przez osobę przebywającą w domu (pomieszczeniu).",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Rozdział 6",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Prowadzenie ewidencji ludności,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 33.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Urząd miejski, urząd miasta i powiatu, urząd dzielnicowy, urząd gminy oraz urząd miasta i gminy prowadzi rejestr stałych mieszkańców w formie kartoteki składającej się z indywidualnych kart osobowych mieszkańców.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Rejestr stałych mieszkańców w miastach prowadzi się w układzie terytorialnym, uwzględniając podział według ulic i nieruchomości oraz domów i lokali w tych domach.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Rejestr stałych mieszkańców gminy prowadzi się w układzie terytorialnym uwzględniając podział według wsi, domów, a także — jeśli zachodzi potrzeba — lokali w tych domach.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4, Jeżeli rejestr obejmuje mieszkańców miasta i gminy, prowadzi się go z zachowaniem zasad określonych w ust. 2i 3.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Urząd miasta i powiatu prowadzi rejestr stałych mieszkańców tylko dla miasta. § 34. 1. Rejestr stałych mieszkańców obejmuje wszystkie osoby zameldowane na pobyt stały na danym terenie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. O zameldowaniu na pobyt stały zawiadamia się niezwłocznie urząd właściwy ze względu na dotychczasowe miejsce pobytu stałego.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. W razie zmiany miejsca pobytu stałego urząd prowadzący rejestr przekazuje kartę osobową mieszkańca do urzędu właściwego ze względu na nowe miejsce pobytu stałego po otrzymaniu z tego urzędu zawiadomienia o zameldowaniu na pobyt stały. Zawiadomienie to włącza się do: oddzielnego działu ewidencji, zwanego kartoteką byłych mieszkańców.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. W razie wyjazdu osoby na stałe za granicę lub zgonu kartę osobową prżenosi się do kartoteki byłych mieszkańców. .",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Jeżeli osoba zameldowana na pobyt staly w danej miejscowości przebywa stale poza tą miejscowością, a jej miejsce pobytu nie jest znane, kartę osobową przenosi się po przeprowadzeniu postępowania wyjaśniającego do oddzielnego działu ewidencji zwanego kartoteką przejściową.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 35.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Na karcie osobowej mieszkańca dokonuje się na bieżąco zmian danych w niej zawartych na podstawie zgłoszeń zameldowania lub wymeldowania oraz nadsyłanych zawiadomień o zmianach tych danych (o zmianie stanu cywilnego, imienia lub nazwiska, obywatelstwa, dokumentu stwierdzającego tożsamość, numeru ewidencyjnego), a także na podstawie ustaleń poczynionych przez urząd prowadzący rejestr stałych mieszkańców.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. O dokonaniu zmian w zakresie stanu cywilnego, imion i nazwisk, obywatelstwa lub dokumentu stwierdzającego tożsamość zawiadamia się niezwłocznie urzędy prowadzące rejestr stałych mieszkańców w celu dokonania - przez te urzędy zmian na kartach osobowych mieszkańców.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 36.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Urzędy, o których mowa w § 33, prowadzą odrębną ewidencję osób zameldowanych na pobyt czasowy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Ewidencję osób zameldowanych na pobyt czasowy prowadzi się w formie kartoteki lub skorowidza pobytu czasowego.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Poz: 196",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. O zameldowaniu na pobyt czasowy trwający ponad 2 miesiące zawiadamia się niezwłocznie urząd właściwy ze wzgiedu na miejsce pobytu stałego. § 37. 1. Urząd powiatowy, urząd miasta i powiatu, urząd miejski miasta stanowiącego powiat i urząd miasta wyłączonego z województwa prowadzi w układzie alfabetycznym kartotekę ewidency jno-adresową:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) osób zameldowanych na pobyt stały,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) osób zameldowanych na pobyt czasowy,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) cudzoziemców zameldowanych na pobyt stały.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Kartotekę ewidencyjno-adresową prowadzi się na podstawie zgłoszeń nadsyłanych przez urzędy przyjmujące zgłoszenia meldunkowe. R",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. W kartotece ewidencyjno-adresowej w odniesieniu do osób zameldowanych na pobyt stały ewidencjonuje się fakt wydania dokumentu stwierdzającego tożsamość. § 38. 1. Kartotekę ewidencyjno-adresową dla obszaru całego kraju prowadzi Centralne Biuro Adresowe.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Urzędy określone w § 33 zawiadamiają Centralne Biuro Adresowe o zameldowaniu na pobyt stały i czasowy trwający ponad 2 miesiące, o wymeldowaniu z miejsca pobytu czasowego trwającego ponad 2 miesiące przed upływem okresu zgłoszonego przy zemeldowaniu, o zmianie imienia lub nazwiska, o zmianie stanu cywilnego, zmianie obywatelstwa, o wyjeździe na pobyt stały za granicę oraz o zgonie osoby.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rozdział 7",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Udzielanie informacji adresowych.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 39.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Informacji o adresie osoby zamieszkałej w kraju udzielają na podstawie prowadzonej ewidencji w odniesieniu do:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) terenu powiatu, miasta i powiatu, miasta stanowiącego powiat lub miasta wyłączonego z województwa — właściwy dla tego obszaru urząd, za pośrednictwem poczty lub bezpośrednio,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) całego kraju — Centralne Biuro Adresowe za pośrednictwem poczty.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Terenowy organ administracji państwowej stopnia wojewódzkiego może określić osoby, o których adresie będą informowane wyłącznie instytucje państwowe.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Informacji adresowych dla polskich urzędów konsularnych i dla urzędów kunsularnych państw obcych w Polskiej Rzeczypospolitej Ludowej udziela Centralne Biuro Adresowe.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 40. Ubiegający się o informację adresową powinien wypełnić odpowiedni formularz oraz uiścić opłatę skarbową.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rozdział 8",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Przepisy końcowe.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 41. Powołane w rozporządzeniu:.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) artykuły bez bliższego określenia — oznaczają artykuły ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. Nr 14, poz. 85),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) paragrafy bez bliższego określenia — oznaczają paragrafy rozporządzenia.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 42. Rozporządzenie wchodzi w Życie z dniem 1 stycznia 1975 r.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych: S. Kowalczyk"
+  },
+  {
+   "type": "text",
+   "text": "Tłoczono z polecenia Prezesa Rady Ministrów w. Zakładach Graficznych „Tamka” Zakład nr 1.. Warszawa, uł. Tamka 3.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Zam. 1669,",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Cena 40 zł",
+   "quoted": true
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

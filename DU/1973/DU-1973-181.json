@@ -1,0 +1,305 @@
+{
+ "eli": "DU/1973/181",
+ "title": "Rozporządzenie Ministra Rolnictwa z dnia 30 lipca 1973 r. w sprawie obowiązku zgłaszania i zwalczania choroby pęcherzykowej świń.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1973/181/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ROLNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 lipca 1973 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie obowiązku zgłaszania i zwalczania choroby pęcherzykowej świń."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 29 lit. a) i art. 109 przepisów z dnia 22 sierpnia 1927 r. o zwalczaniu zaraźliwych chorób zwierzęcych (Dz. U. z 1927 r. Nr 77, poz. 673 i Nr 114, poz. 975, z 1928 r. Nr 26, poz. 229, z 1932 r. Nr 26, poz. 229, Nr 60, poz. 573 i Nr 67, poz. 622, z 1934 r. Nr 110, poz. 976, z 1938 r. Nr 27, poz. 245, z 1948 r. Nr 49, poz. 373 i z 1951 r. Nr 1, poz. 4) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Do zaraźliwych chorób zwierzęcych podlegających obowiązkowi zgłaszania włącza się chorobę pęcherzykową Świń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "W razie wystąpienia u świń objawów choroby pęcherzykowej posiadacze świń obowiązani są:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "zgłosić o tym niezwłocznie do właściwego do spraw weterynarii organu prezydium powiatowej rady narodowej, zwanego dalej „organem weterynarii\",",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "do czasu przybycia przedstawiciela organu weterynarii:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_2/pkt_2/lit_a",
+         "text": "trzymać wszystkie świnie w pomieszczeniach zamkniętych w obrębie zagrody w sposób uniemożliwiający dostęp osób postronnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_2/pkt_2/lit_b",
+         "text": "przechowywać świnie padłe lub zabite w miejscu odosobnionym i zabezpieczonym przed dostępem ludzi i zwierząt.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Organ weterynarii może nałożyć na posiadacza świń obowiązek, aby w okresie niezbędnym do rozpoznania choroby utrzymywał świnie w stanie odosobnienia (§ 1 ust. 2 pkt 2), a ponadto stosował zabiegi dezynfekcyjne.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W razie stwierdzenia u świń choroby pęcherzykowej organ weterynarii uznaje zagrodę za zapowietrzoną, a na posiadacza świń nakłada obowiązek:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "umieszczenia przy wejściach do zagrody tablic ostrzegawczych z napisami: „Choroba pęcherzykowa świń, Wstęp wzbroniony”,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "utrzymania stanu odosobnienia świń i stosowania zabiegów dezynfekcyjnych (§ 2),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "trzymania na uwięzi psów, pod zamknięciem kotów, drobiu i gołębi, a ponadto może zobowiązać do:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "używania odzieży ochronnej przy obsłudze chorych świń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "stosowania innych środków niezbędnych do zwalczania choroby i zapobiegania jej dalszemu rozprzestrzenianiu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Organ weterynarii może w zagrodzie zapowietrzonej nakazać zabicie świń, jeżeli jest to uzasadnione koniecznością niezwłocznej likwidacji ogniska choroby.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Za świnie zabite z nakazu organu weterynarii przysługuje odszkodowanie w wysokości pełnej wartości szacunkowej świń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Za świnie padle wypłaca się zapomogę w wysokości 75°/o ich wartości szacunkowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Prezydium powiatowej rady narodowej może ustanowić dokoła zagrody zapowietrzonej okręg zagrożony i określić środki niezbędne do zapobieżenia dalszemu rozprzestrzenieniu choroby pęcherzykowej świń, a w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "rozmieszczenie i treść tablic ostrzegawczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "trzymanie świń w zamkniętych pomieszczeniach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "zakazy przywożenia i wywożenia świń, organizowania spędów, wystaw i pokazów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "nakazy odkażania środków transportu, miejsc spędu, targowisk i innych obiektów oraz urządzeń służących do gromadzenia lub przewozu świń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "ograniczenia w przetrzymywaniu świń w bazach i ma- * gazynach żywca w zakładach mięsnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_1/pkt_6",
+       "text": "stosowania odzieży ochronnej i zabiegów dezynfekcyjnych.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "TĘ"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Okręg zagrożony może obejmować całą miejscowość lub jej część, a w wypadku szczególnego zagrożenia także inne miejscowości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Organ weterynarii vznaje zagrodę za wolną od choroby pęcherzykowej świń, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "wszystkie świnie z zapowietrzonej zagrody padły lub zostały usunięte (zabite lub poddane ubojowi) albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "w ciągu 1 miesiąca od usunięcia z zagrody świń chorych bądź w ciągu 3 miesięcy od ostatniego zachorowania nie wystąpił nowy przypadek zachorowania na chorobę pęcherzykową.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Warunkiem uznania zagrody za wolną od choroby pęcherzykowej świń jest stwierdzenie przez organ weterynarii oczyszczenia jej i odkażenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Koszty środków użytych przy stosowaniu zabiegów (§ 2 i 3 oraz § 6 ust. 2) i przeprowadzania odkażania przez ekipy dezynfekcyjne pokrywane są ze Skarbu Państwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Przepisy rozporządzenia dotyczące prezydiów powiatowych rad narodcwych i organów weterynarii tych prezydiów stosuje się również do prezydiów rad narodowych miast stanowiących powiaty oraz do prezydiów dzielnicowych rad narodowych miast wyłączonych z województw i organów weterynarii tych prezydiów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa: J. Okuniewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

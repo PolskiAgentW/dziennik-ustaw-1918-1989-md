@@ -1,0 +1,522 @@
+{
+ "eli": "DU/1971/152",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 2 czerwca 1971 r. w sprawie zmiany granic niektórych miast w województwie olsztyńskim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1971/152/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW >"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 czerwca 1971 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granic niektórych miast w województwie olsztyńskim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. I ustawy z dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje: § 1. W województwie olsztyńskim wyłącza się: 1, w powiecie biskupieckim:"
+  },
+  {
+   "type": "lit",
+   "num": "i",
+   "path": "lit_i",
+   "text": "z miasta Bisztynek tereny o powierzchni 1.511 ha i włącza się je do gromady Bisztynek, z miasta Jeziorany tereny o powierzchni 1.047 ha i włą-",
+   "children": [
+    {
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
+     "text": "— cza się je do gromady Jeziorany, z gromady Jeziorany:"
+    },
+    {
+     "type": "text",
+     "text": "3"
+    },
+    {
+     "type": "text",
+     "text": "—"
+    }
+   ]
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "część obszaru wsi Olszewnik o powierzchni 1,32 ha,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "część obszaru wsi Tłokowo o powierzchni 22, 78 ha i włącza się je do miasta Jeziorany, 4 — z miasta Reszel tereny o powierzchni 448 ha i włącza się je do gromady Reszel, z gromady Reszel:",
+   "children": [
+    {
+     "type": "text",
+     "text": "5"
+    },
+    {
+     "type": "text",
+     "text": "—"
+    }
+   ]
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "część obszaru wsi Robawy o powierzchni 60,50 ha,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "część obszaru wsi Wólka Ryńska o powierzchni 1,96 ha i włącza się je do miasta Reszel;",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "w powiecie braniewskim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "z miasta Frombork:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_4/lit_a",
+       "text": "tereny o powierzchni 112 ha",
+       "children": [
+        {
+         "type": "text",
+         "text": "I włącza się je do gromady Braniewo,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_4/lit_b",
+       "text": "tereny o powierzchni 460 ha i włącza się je do gromady Frombork,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "z miasta Orneta:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_2/lit_a",
+       "text": "tereny o powierzchni 803 ha i włącza się je do gromady Orneta,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_2/lit_b",
+       "text": "tereny o: powierzchni 413 ha i włącza się je do gromady Bażyny,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "z gromady Bażyny część obszaru PGR Karkajny o. powierzchni 26 ha i włącza się je do miasta Orneta;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "w powiecie działdowskim:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "il",
+     "path": "ust_3/lit_il",
+     "text": "z miasta Działdowo:",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_3/lit_a",
+     "text": "tereny o powierzchni 766 ha I włącza się je do gromady Działdowo,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_3/lit_b",
+     "text": "tereny o powierzchni 214 ha i włącza się je do gro- -, mady Burkat,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_3/pkt_2",
+     "text": "z gromady Działdowo część obszaru wsi Księżydwór o powierzchni 32 ha i włącza się ją do miasta Działdowo,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_3/pkt_3",
+     "text": "z gromady Burkat część obszaru wsi Burkat o powierzchni 99 ha i włącza się ją do miasta Działdowo,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_3/pkt_4",
+     "text": "z miasta Lidzbark tereny o powierzchni 1.106 ha i wiqcza się je do gromady Lidzbark,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_3/pkt_5",
+     "text": "z gromady Lidzbark:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_3/pkt_5/lit_a",
+       "text": "część obszaru wsi Wlewsk o powierzchni 122 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_3/pkt_5/lit_b",
+       "text": "część obszaru wsi Jamielnik o powierzchni 6 ha i włącza się je do miasta Lidzbark;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "w powiecie iławskim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_4/pkt_1",
+     "text": "z miasta Prabuty tereny o powierzchni 2.531 ha i włącza się je do gromady Prabuty,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_4/pkt_2",
+     "text": "z miasta Susz tereny o powierzchni 1.089 ha i włącza się je do gromady Susz,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_4/pkt_3",
+     "text": "z gromady Susz część obszaru stanowiącego Państwowy Ośrodek Hodowli Zarodowej w Nipkowiu o powierzchni 7 ha i włącza się go do miasta Susz; :",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "w powiecie lidzbarskim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_5/pkt_1",
+     "text": "z miasta Dobre Miasto tereny o powierzchni 340 ha i włącza się je do gromady Dobre Miasto, z gromady Dobre Miasto:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— 2"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_5/pkt_1/lit_a",
+       "text": "część obszaru PGR Knopin o powierzchni 15 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/pkt_1/lit_b",
+       "text": "część obszaru PGR Kosyń i nadleśnictwa Wichrowo o powierzchni 63 ha i włącza się je do miasta Dobre Miasto;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "6",
+   "path": "ust_6",
+   "text": "w powiecie mrągowskim: z miasta Mikołajki tereny o powierzchni 5.421 ha I włą- — 1 cza się je do gromady Mikołajki, z miasta Mrągowo tereny o powierzchni 1.871 ha włą-",
+   "children": [
+    {
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
+     "text": "= cza się je do gromady Mrągowo, 3"
+    },
+    {
+     "type": "text",
+     "text": "= z gromady Mrągowo część wsi Polska Wieś o powierzchni 15 ha i włącza się ją do miasta Mrągowo;"
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "7",
+   "path": "ust_7",
+   "text": "w powiecie nidzickim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_7/pkt_4",
+     "text": "z miasta Nidzica tereny o powierzchni 1.069,62 ha i włącza się je do gromady Nidzica. 2 z gromady Nidzica:",
+     "children": [
+      {
+       "type": "text",
+       "text": "—"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_7/pkt_4/lit_a",
+       "text": "część obszaru PGR Nidzica o powierzchni 65,82 ha, 1",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_7/pkt_4/lit_b",
+       "text": "część obszaru nadleśnictwa Nidzica o powierzchni 5,58 ha, :",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_7/pkt_4/lit_c",
+       "text": "część obszaru wsi Piątki o powierzchni 36,66 ha i włącza się je do miasta Nidzica;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "z miasta Olsztynek w-powiecie ostródzkim obszar o powierzchni 154,07 ha i włącza się go do gromady Olsztynek;",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "w powiecie pasłęckim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_9/pkt_1",
+     "text": "z miasta Pasłęk:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_9/pkt_1/lit_a",
+       "text": "tereny o powierzchni 580,32 ha i włącza się je do gromady Jelonki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_9/pkt_1/lit_b",
+       "text": "tereny o powierzchni 461,33 ha i włącza się je do gromady Rogajny, z gromady Stegny:",
+       "children": [
+        {
+         "type": "text",
+         "text": "2 - ="
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_9/pkt_1/lit_a",
+       "text": "część obszaru PGR Robiły o powierzchni 46,27 ha, -",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_9/pkt_1/lit_b",
+       "text": "część obszaru wsi Robiły o powierzchni 10,64 ha t włącza się je do miasta Pasłęk;",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "w powiecie piskim: — z miasta Biała Piska tereny o powierzchni 1.493 ha i włą-",
+   "children": [
+    {
+     "type": "text",
+     "text": "1 cza się je do gromady Biała Piska, z miasta Orzysz tereny o powierzchni 467 ha i włącza się"
+    },
+    {
+     "type": "text",
+     "text": "2"
+    },
+    {
+     "type": "text",
+     "text": "— je do gromady Orzysz,"
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_10/pkt_3",
+     "text": "z miasta Ruciane-Nida tereny o powierzchni 1.125 ha i włącza się je do gromady Ciesina,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_10/pkt_4",
+     "text": "z gromady Wejsuny wieś Kowalik, jeziora Guzianka Duża, Guzianka Mała, Koś-Koik, część jeziora Nidzkiego oraz tereny leśne należące do Nadleśnictwa Ruciane o powierzchni 814 ha i włącza się je do miasta Ruciane- Nida,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_10/pkt_5",
+     "text": "z miasta Pisz tereny o powierzchni 396 ha i włącza się je do gromady Pisz,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_10/pkt_6",
+     "text": "z gromady Pisz część obszaru wsi. Jagodne o powierzchni 34 ha i włącza się ją do miasta Pisz.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W województwie olsztyńskim wyłącza się:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "z gromady Górowo Iławeckie w powiecie bartoszyc= kim część obszaru wsi Sołtysowizna o powierzchni 108 ha i włącza się ją do miasta Górowo Iławeckie;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "w powiecie giżyckim z gromady Ryn:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/ust_2/lit_a",
+       "text": "część obszaru miejscowości Ryn-Kolonia o powierzch= ni 20,09 ha, AZ:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/ust_2/lit_b",
+       "text": "część jeziora Ryńskiego o powierzchni 4,75. ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/ust_2/lit_c",
+       "text": "część obszaru PGR Canki o powierzchni 0,27 ha i włącza się je do miasta Ryn.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Szczegółowego określenia granic wymienionych w rozporządzeniu miast dokona w drodze zarządzenia Prezydium Wojewódzkiej Rady Narodowej w Olsztynie, Zarządzenie podlega ogłoszeniu w Dzienniku Urzędowym Wojewódzkiej Rady Narodowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1972 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: P, Jaroszewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

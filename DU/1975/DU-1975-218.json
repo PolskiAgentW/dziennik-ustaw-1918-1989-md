@@ -1,0 +1,2550 @@
+{
+ "eli": "DU/1975/218",
+ "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 29 listopada 1975 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 10 grudnia 1959 r. o Służbie Więziennej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/218/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 listopada 1975 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 10 grudnia 1959 r. o Służbie Więziennej."
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Na podstawie art. 2 ustawy z dnia 12 czerwca 1975 r. zmieniającej ustawę o Służbie Więziennej (Dz. U. Nr 20, poz. 107) ogłasza się w załączniku do .niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 grudnia 1959 r. o Służbie Więziennej (Dz. U. Nr 69, poz. 436), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 czerwca 1975 r. zmieniającą ustawę o Służbie Więziennej i zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu oraz z zastosowaniem ciągłej numeracji rozdziałów, artykułów, ustępów i punktów.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 10 grudnia 1959 r. o Służbie Więziennej nie obejmuje następujących przepisów:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "art. 68 ustawy z dnia 10 grudnia 1959 r. o Służbie Wię- „ziennej (Dz. U. Nr 69, poz. 436) w brzmieniu: „Art 68. Ustawa wchodzi w życie po upływie czternastu dni od dnia ogłoszenia.\";",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "art. 3 ustawy z dnia 12 czerwca 1975 r. zmieniającej ustawę o Służbie Więziennej (Dz. U. Nr 20, poz. 107) w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 3. Ustawa wchodzi w życie z dniem 1 lipca 1975 r.\" i Minister Sprawiedliwości: W. Berutowicz",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Sprawiedliwości z dnia 29 listopada 1975 r. (poz. 218). USTAWA",
+   "body": [
+    {
+     "type": "text",
+     "text": "z dnia 10 grudnia 1959 r."
+    },
+    {
+     "type": "text",
+     "text": "o Służbie Więziennej."
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 1",
+     "text": "Przepisy ogólne."
+    },
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "Służba Więzienna jest powołana do spełniania zadań w zakresie wykonywania kar pozbawienia wolności i postanowień o tymczasowym aresztowaniu.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_2/ust_1",
+       "text": "Służba Więzienna jest formacją jednolitą, uzbrojoną” i umundurowaną.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_2/ust_2",
+       "text": "Minister Sprawiedliwości w porozumieniu z Ministrem Obrony Narodowej określa wzory umundurowania i oznak funkcjonariuszy Służby Więziennej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_3/ust_1",
+       "text": "Stosunek służbowy funkcjonariuszy Służby Więziennej, zwanych dalej „funkcjonariuszami\", powstaje przez mianowanie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_3/ust_2",
+       "text": "Początek służby liczy się od dnia określonego w decyzji o mianowaniu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_4/ust_1",
+       "text": "Mianowanie funkcjonariusza następuje na okres służby przygotowawczej, który trwa 2 lata; po upływie tego okresu funkcjonariusz zostaje mianowany na stałe,",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_4/ust_2",
+       "text": "Okres służby przygołowawczej ma na celu przygotowanie i wyszkolenie kandydata oraz sprawdzenie jego przydatności do służby więziennej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_4/ust_3",
+       "text": "Minister Sprawiedliwości lub upoważniony przez niego przełożony może w przypadkach uzasadnionych szczególnymi kwalifikacjami funkcjonariusza skrócić okres służby przygotowawczej, o którym mowa w ust. 2, a nawet zwolnić funkcjonariusza od odbywania tej służby.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_4/ust_4",
+       "text": "Jeżeli funkcjonariusz otrzymał ujemną: opinię służbową, Minister Sprawiedliwości może mu przedłużyć okres służby przygotowawczej, nie dłużej jednak niż o jeden rok.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_4/ust_5",
+       "text": "Do funkcjonariuszy mianowanych na okres służby przygotowawczej stosuje się przepisy dotyczące funkcjonariuszy mianowanych na stałe, jeżeli ustawa nie stanowi inaczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_5/ust_1",
+       "text": "Funkcjonariuszem może być mianowany obywatel polski o nieskazitelnej przeszłości, posiadający odpowiednie wykształcenie oraz zdolność psychiczną i fizyczną do służby więziennej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_5/ust_2",
+       "text": "Mianowanie może nastąpić po odbyciu przez kandydata zasadniczej służby wojskowej albo po przeniesieniu go do rezerwy bez odbycia tej służby lub po zwolnieniu od obowiązku służby wojskowej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_5/ust_3",
+       "text": "Minister Sprawiedliwości określi wymagania w zakresie wykształcenia, zdolności psychicznej i fizycznej, jakim powinien odpowiadać kandydat na określone stanowisko.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_5/ust_4",
+       "text": "Zdolność psychiczną i fizyczną kandydata do służby ustalają komisje lekarskie służby zdrowia Ministerstwa Spraw Wewnętrznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "Na stanowiska służbowe funkcjonariuszy mianuje, przenosi oraz zwalnia z tych stanowisk, a także zawiesza w czynnościach służbowych Minister Sprawiedliwości lub upoważnieni przez niego przełożeni.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "7",
+     "path": "art_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_7/ust_1",
+       "text": "Przed objęciem służby funkcjonariusz składa ślubowanie. .",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_7/ust_2",
+       "text": "Minister Sprawiedliwości ustali rote ślubowania oraz określi tryb jego składania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "8",
+     "path": "art_8",
+     "text": "Minister Sprawiedliwości określa sposób pełnienia i przebieg służby oraz szczegółowe prawa i obowiązki funkcjonariuszy.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "te"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "1, Funkcjonariusze podlegają służbowemu opiniowaniu.",
+     "children": [
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_9/ust_2",
+       "text": "Funkcjonariusz ma prawo zaznajomienia się z wydaną o nim opinią służbową. Może on w terminie 14 dni od zaznajomienia się z nią wnieść odwołanie. \"3. Zasady i sposób opiniowania funkcjonariuszy, zaznajamiania ich z opinią, tryb wnoszenia odwołań oraz właściwość przełożonych w tych sprawach określa Minister Sprawiedliwości.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Stopnie służbowe."
+    },
+    {
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "Ustanawia się następujące kolejne stopnie służbowe funkcjonariuszy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_10/pkt_1",
+       "text": "szeregowcy Służby Więziennej:",
+       "children": [
+        {
+         "type": "text",
+         "text": "PO"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_10/pkt_1/lit_a",
+         "text": "szeregowiec Służby Więziennej, * b) starszy szeregowiec Służby Więziennej,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_10/pkt_2",
+       "text": "podoficerowie Służby Więziennej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_10/pkt_2/lit_a",
+         "text": "kapral Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_10/pkt_2/lit_b",
+         "text": "starszy kapral Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_10/pkt_2/lit_c",
+         "text": "plutonowy Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_10/pkt_2/lit_d",
+         "text": "sierżant Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_10/pkt_2/lit_e",
+         "text": "starszy sierżant Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "art_10/pkt_2/lit_f",
+         "text": "sierżant sztabowy Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "art_10/pkt_2/lit_g",
+         "text": "starszy sierżant sztabowy Służby Więziennej,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_10/pkt_3",
+       "text": "oficerowie Służby Więziennej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_10/pkt_3/lit_a",
+         "text": "młodsi oficerowie: — podporucznik Służby Więziennej, — porucznik Służby Więziennej, — kapitan Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_10/pkt_3/lit_b",
+         "text": "starsi oficerowie: — major Służby Więziennej, — podpułkownik Służby Więziennej, — pułkownik Służby Więziennej,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_10/pkt_4",
+       "text": "generał Służby Więziennej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "11",
+     "path": "art_11",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_11/ust_1",
+       "text": "Stopień szeregowca funkcjonariusz otrzymuje z chwilą mianowania na stanowisko służbowe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_11/ust_2",
+       "text": "Stopnie starszego szeregowca i podoficera nadają przełożeni określeni przez Ministra Sprawiedliwości. Art 12. 1. Stopnie oficerskie nadaje Minister Sprawiedliwości.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_11/ust_2",
+       "text": "Stopień generała Służby Więziennej nadaje Prezes Rady Ministrów na wniosek Ministra Sprawiedliwości.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "13",
+     "path": "art_13",
+     "text": "Nadanie funkcjonariuszowi stopnia podoficerskiego następuje po ukończeniu szkoły podoficerskiej lub odpowiedniego kursu Służby Więziennej oraz w zależności od opinii służbowej i zajmowanego stanowiska służbowego.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "14",
+     "path": "art_14",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_14/ust_1",
+       "text": "Warunkiem nadania pierwszego stopnia oficerskiego jest ukończenie szkoły oficerskiej Służby Więziennej lub odpowiedniej szkoły wyższej i zdanie egzaminu na oficera.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_14/ust_2",
+       "text": "W szczególnie uzasadnionych przypadkach pierwszy stopień oficerski może być nadany mimo niezachowania warunków określonych w ust. 1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "15",
+     "path": "art_15",
+     "text": "Minister Sprawiedliwości w porozumieniu z Ministrem Oświaty i Wychowania tworzy, przekształca i znosi szkoły Służby Więziennej, określa ich organizację oraz program i czas trwania nauki.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "16",
+     "path": "art_16",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_16/ust_1",
+       "text": "Nadanie oficerowi: Służby Więziennej kolejnego wyższego stopnia następuje stosownie do posiadanych kwalifikacji, w zależności od opinii siużbowej i zajmowanego stanowiska służbowego. Nadanie lego stopnia może nastąpić nie wcześniej niż po przesłużeniu w stopniu: podporucznika — 3 lat, porucznika — 4 lat, kapitana — 5 lat, majora — 4 lat, . podpułkownika — 4 lat.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_16/ust_2",
+       "text": "Okresy wymienione w ust. 1 mogą być skrócone o jeden rok w stosunku do oficerów, którzy ukończyli wyższe studia odpowiadające kwalifikacjom wymaganym na zajmowanym przez funkcjonariusza stanowisku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17",
+     "path": "art_17",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_17/ust_1",
+       "text": "Nadanie funkcjonariuszowi kolejnego wyższego stopnia służbowego może nastąpić w drodze wyróżnienia przed upływem ustalonych okresów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17/ust_2",
+       "text": "W przypadkach wyjątkowych, zasługujących na szczególne uwzględnienie z punktu widzenia potrzeb służ-, by, można nadać funkcjonariuszowi, który posiada szczególne kwalifikacje fachowe lub umiejętności do pełnienia służby na odpowiednim stanowisku służbowym, wyższy stopień mimo niezachowania warunków wymaganych do nadania tego stopnia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "18",
+     "path": "art_18",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_18/ust_1",
+       "text": "Żołnierze i funkcjonariusze Milicji Obywatelskiej przechodzący do Służby Więziennej mogą być mianowani na stopień służbowy równorzędny z posiadanym stopniem wojskowym lub milicyjnym, a jeżeli posiadany stopień wojskowy lub milicyjny nie ma odpowiednika w stopniu Służby Więziennej — na stopień bezpośrednio wyższy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_18/ust_2",
+       "text": "Funkcjonariusz przyjęty ponownie do służby może być mianowany na stopień służbowy posiadany w dniu zwolnienia ze służby.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "19",
+     "path": "art_19",
+     "text": "Minister Sprawiedliwości ustala okresy wysługi w stopniach podoficerskich oraz określa szczegółowe warunki, zasady i tryb nadawania funkcjonariuszom stopni służbowych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 3",
+     "text": "Obowiązki funkcjonariusza."
+    },
+    {
+     "type": "art",
+     "num": "20",
+     "path": "art_20",
+     "text": "Funkcjonariusz obowiązany jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_20/pkt_1",
+       "text": "służyć wiernie Polsce Ludowej, stać na straży ustroju ludowo-demokratycznego oraz ustalonego przez prawo ładu, porządku i bezpieczeństwa publicznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_20/pkt_2",
+       "text": "ściśle przestrzegać dyscypliny służbowej i obowiązki swe wykonywać sumiennie i gorliwie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_20/pkt_3",
+       "text": "podnosić stale poziom swej wiedzy ogólnej i zawodowej oraz swego uświadomienia politycznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_20/pkt_4",
+       "text": "dbać w zakresie swoich czynności o prawidłowe wykonanie kar pozbawienia wolności i postanowień o tymczasowym aresztowaniu zgodnie z zasadami praworządności i wymaganiami polityki peniiencjarnej,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "21",
+     "path": "art_21",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_21/ust_1",
+       "text": "Funkcjonariusz obowiązany jest zachować w tajemnicy wszystkie sprawy, o których powziął wiadomość bezpośrednio lub pośrednio w związku z wykonywaniem obowiązków służbowych, jeżeli sprawy te uzneno za tajne albo gdy utrzymania ich w tajemnicy wymaga dobro publiczne lub względy służbowe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_21/ust_2",
+       "text": "Obowiązek zachowania tajemnicy trwa zarówno w czasie służby, jak i po zwolnieniu ze służby.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_21/ust_3",
+       "text": "Minister Sprawiedliwości lub upoważniony przez niego przełożony może zwolnić funkcjonariusza od obowiązku zachowania tajemnicy w określonym przypadku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22",
+     "path": "art_22",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_22/ust_1",
+       "text": "Funkcjonariusz obowiązany jest do noszenia przepisowego umundurowania i wyposażenia w czasie pełnienia służby.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_22/ust_2",
+       "text": "Funkcjonariusz może nosić ubranie cywilne w czasie pełnienia służby w przypadkach określonych przez przełożonego. Art 23. Podjęcie przez funkcjonariusza pracy zarobkowej poza służbą wymaga zezwolenia przełożonego, określonego przez Ministra Sprawiedliwości.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 4",
+     "text": "rawa funkcjonariusza."
+    },
+    {
+     "type": "art",
+     "num": "24",
+     "path": "art_24",
+     "text": "1.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Funkcjonariusz otrzymuje bezpłatnie umundurowanie."
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_24/ust_2",
+       "text": "Minister Sprawiedliwości określi normy umuncurowania, jak również przypadki i zasady otrzymywania równoważnika pieniężnego w zamian za umundurowanie; wysokość tego równoważnika określa Minister Sprawiediiwości w porozumieniu z Ministrem Finansów.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_24/ust_3",
+       "text": "Funkcjonariusz mianowany na okres służby przygotowawczej zwraca w razie zwolnienia go ze służby odpowiedni równoważnik za umundurowanie, którego okres zużycia nie upłynął.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "25",
+     "path": "art_25",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_25/ust_1",
+       "text": "Funkcjonariusze określonych rodzajów służb otrzymują wyposażenie specjalne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_25/ust_2",
+       "text": "Minister Sprawiedliwości określa rodzaje służb oraz tryb przyznawania wyposażenia specjalnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "26",
+     "path": "art_26",
+     "text": "Minister Sprawiedliwości określi przypadki, w których funkcjonariusz otrzymuje wyżywienie, oraz normy wyżywienia, jak również przypadki otrzymywania równoważnika pieniężnego w zamian za wyżywienie. Wysokość tego równoważnika określa Minister Sprawiedliwości w porozumieniu z Ministrem Finansów.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "27",
+     "path": "art_27",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_27/ust_1",
+       "text": "Funkcjonariuszowi i członkom jego rodziny przysługuje prawo przejazdu na koszt Ministerstwa Sprawiedliwości państwowymi środkami komunikacyjnymi raz w roku do dowolnie obranej miejscowości w kraju ‘iz powrotem.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_27/ust_2",
+       "text": "W razie niewykorzystania przysługującego przejazdu osoba uprawniona otrzymuje równoważnik pieniężny w wysokości odpowiadającej cenie biletu kolejowego na odległość 500 km, przy uwzględnieniu rodzaju i klasy pociągu oraz przysługującej ulgi taryfowej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_27/ust_3",
+       "text": "Minister Sprawiedliwości określa zasady i warunki korzystania z uprawnień, o których mowa w ust. 1 i 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_27/ust_4",
+       "text": "Minister Sprawiedliwości w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych może przyznać osobom wymienionym w ust. 1 także inne świadczenia socjalno-bytowe niż określone w ust. 1 i 2.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_27/ust_5",
+       "text": "Świadczenia, o których mowa w ust. 4, mogą być przyznawane również osobom uprawnionym do zaopatrzenia emerytalnego funkcjonariuszy oraz ich rodzin. Ast. 28. Funkcjonariuszowi i członkom jego rodziny przysługuje prawo do ulg przy przejazdach państwowymi środkami komunikacyjnymi w zakresie i na warunkach ustalonych dla funkcjonariuszy Milicji Obywatelskiej i członków ich rodzin. i",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "29",
+     "path": "art_29",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_29/ust_1",
+       "text": "Funkcjonariusz otrzymuje dla siebie i członków rodziny mieszkanie funkcyjne w miejscowości, w której stale pełni służbę, lub w miejscowości pobliskiej — na zasadach i według norm określonych przez Ministra Sprawiedliwości w porozumieniu z Ministrem Administracji, Gospodarki Terenowej i Ochrony Środowiska,",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_29/ust_2",
+       "text": "W razie braku mieszkania funkcyjnego funkcjonariusz otrzymuje równoważnik pieniężny.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_29/ust_3",
+       "text": "Funkcjonariuszowi przysługuje prawo remontu zajmowanego przez niego mieszkania na koszt Ministerstwa Sprawiedliwości.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_29/ust_4",
+       "text": "Minister Sprawiedliwości w porozumieniu z Ministrami: Finansów oraz Administracji, Gospodarki Terenowej i Ochrony Środowiska określa wysokość i zasady wypłaty równoważnika pieniężnego w razie braku mieszkania funkcyjnego oraz zasady wykonywania remontu mieszkań na koszt Ministerstwa Sprawiedliwości.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "30",
+     "path": "art_30",
+     "text": "Funkcjonariuszowi przysługuje pomoc finansowa na budownictwo mieszkaniowe według zasad określonych przez Radę Ministrów.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "31",
+     "path": "art_31",
+     "text": "Funkcjonariuszowi i członkom jego rodziny przysługuje prawo bezpłatnego korzystania ze świadczeń służby zdrowia Ministerstwa Spraw Wewnętrznych, a ze świadczeń innych zakładów służby zdrowia — na warun- \"kach ustalonych przez Ministra Sprawiedliwości w porozumieniu z zainteresowanymi ministrami.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "32",
+     "path": "art_32",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_32/ust_1",
+       "text": "Minister Sprawiedliwości określa, których członków rodziny funkcjonariusza uważa się za uprawnionych do świadczeń przewidzianych w art. 27 i art. 31.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_32/ust_2",
+       "text": "Minister Sprawiedliwości w porozumieniu z Ministrem Spraw Wewnętrznych może uznać za uprawnione do świadczeń przewidzianych w art. 31 także inne osoby pozostające na utrzymaniu funkcjonariusza,",
+       "children": [
+        {
+         "type": "text",
+         "text": "= Poz. 218"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "33",
+     "path": "art_33",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_33/ust_1",
+       "text": "Funkcjonariusz otrzymuje corocznie urlop wypoczynkowy w wymiarze 26 dni roboczych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_33/ust_2",
+       "text": "Minister Sprawiedliwości może wprowadzić urlopy dodatkowe w wymiarze do 13 dni roboczych rocznie dla funkcjonariuszy, którzy pełnią służbę w warunkach szczególnie uciążliwych i szkodliwych dla zdrowia albo osiągnęli określoną granicę wieku lub staż służby, albo jeżeli jest to uzasadnione innymi szczególnymi właściwościami służby.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_33/ust_3",
+       "text": "Minister Sprawiedliwości określa szczegółowe zasady udzielania funkcjonariuszom urlopów oraz zasady i sposób wykorzystania urlopów dodatkowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "34",
+     "path": "art_34",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_34/ust_1",
+       "text": "Z ważnych względów służbowych udzielenie funkcjonariuszowi urlopu wypoczynkowego może być wstrzymane w części lub w całości, a funkcjonariusz może być z urlopu odwołany. Termin urlopu może być także przesunięty na wniosek funkejonarlasze umotywowany ważnymi względami.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_34/ust_2",
+       "text": "Funkcjonariuszowi odwołanemu z urlopu przysługuje zwrot kosztów przejazdu spowodowanych odwoła=. niem, według norm ustalonych przepisami w sprawie diet i innych należności za czas podróży służbowych na obszarze kraju, jak również zwrot innych kosztów, które określa Minister Sprawiedliwości.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_34/ust_3",
+       "text": "Wstrzymanie lub odwołanie urlopu wymaga zgody Ministra Sprawiedliwości lub upoważnionego przez niego",
+       "children": [
+        {
+         "type": "text",
+         "text": "organu."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_34/ust_4",
+       "text": "Funkcjonariuszowi, któremu wstrzymano udzielenie urlopu wypoczynkowego albo którego odwołano z urlopu, udziela się urlopu w tym samym roku kalendarzowym lub najpóźniej w pierwszych trzech miesiącach następującego roku kalendarzowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "35",
+     "path": "art_35",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_35/ust_1",
+       "text": "Funkcjonariuszowi można udzielić urlopu zdrowotnego, szkoleniowego lub okolicznościowego z innych ważnych przyczyn.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_35/ust_2",
+       "text": "Rada Ministrów określa szczegółowe zasady udzielania urlopów, o których mowa w ust. 1, oraz ich wymiar.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "36",
+     "path": "art_36",
+     "text": "Funkcjonariuszowi-kobiecie przysługują uprawnienia określone w przepisach prawa pracy o ochronie pracy kobiet.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "37",
+     "path": "art_37",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_37/ust_1",
+       "text": "Funkcjonariusze i członkowie ich rodzin mają prawo do świadczeń emerytalnych i rentowych według zasad i na warunkach określonych w przepisach o zaopatrzeniu emerytalnym funkcjonariuszy Milicji Obywatelskiej oraz ich rodzin; przepisy te stosuje się odpowiednio.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_37/ust_2",
+       "text": "Służbę w Milicji Obywatelskiej zalicza się do wysługi lat na równi ze Służbą Więzienną.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 38 Funkcjonariuszowi, który doznał trwałego uszczerbku na zdrowiu wskutek wypadku pozostającego w związku z pełnieniem służby albo wskutek choroby powstałej w związku ze szczególnymi właściwościami lub warunkami służby, jak również rodzinie funkcjonariusza, który zmarł wskutek takiego wypadku lub choroby, przysługuje odszkodowanie określone w przepisach o odszkodowaniach przysługujących w razie wypadków i chorób pozo-_ stających w związku ze służbą w Milicji Obywatelskiejj przepisy te stosuje się odpowiednio."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 5",
+     "text": "Wyróżnienia."
+    },
+    {
+     "type": "art",
+     "num": "39",
+     "path": "art_39",
+     "text": "Funkcjonariuszom, którzy odznaczyli się ofiarnością lub dobrymi wynikami w służbie, udziela się wyróżnień.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "40",
+     "path": "art_40",
+     "text": "Wyróżnienia są następujące:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_40/pkt_1",
+       "text": "pochwała,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_40/pkt_2",
+       "text": "nagroda pieniężna lub rzeczowa, stopnia służbo-",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_40/pkt_3",
+       "text": "przedterminowe nadanie wyższego",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "wego,"
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_40/pkt_4",
+       "text": "nadanie odznaki wzorowego funkcjonariusza Służby Więziennej: brązowej — po dziesięciu, srebrnej — po",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "piętnastu, złotej — po dwudziestu pięciu latach nieprzerwanej i nienagannej służby,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_40/pkt_5",
+       "text": "przedstawienie do odznaczenia państwowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "41",
+     "path": "art_41",
+     "text": "Wzór odznaki wzorowego funkcjonariusza Służby Więziennej ustali Minister Sprawiedliwości.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 6",
+     "text": "Odpowiedzialność dyscyplinarna. Sądy honorowe."
+    },
+    {
+     "type": "art",
+     "num": "42",
+     "path": "art_42",
+     "text": "Funkcjonariusz podlega odpowiedzialności dyscyplinarnej za naruszenie dyscypliny służbowej oraz w innych przypadkach określonych w ustawie. i",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "43",
+     "path": "art_43",
+     "text": "Ustanawia się następujące kary dyscyplinarne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_43/pkt_1",
+       "text": "upomnienie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_43/pkt_2",
+       "text": "nagana,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_43/pkt_3",
+       "text": "surowa nagana,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_43/pkt_4",
+       "text": "ostrzeżenie o niepełnej przydatności na zajmowanym stanowisku służbowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_43/pkt_5",
+       "text": "odroczenie nadania wyższego stopnia podoficerskiego na okres jednego roku, a stopnia oficerskiego — na okres dwóch lat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_43/pkt_6",
+       "text": "przeniesienie na niższe stanowisko służbowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_43/pkt_7",
+       "text": "obniżenie stopnia służbowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_43/pkt_8",
+       "text": "ostrzeżenie o niepełnej przydatności do służby,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_43/pkt_9",
+       "text": "wydalenie ze służby.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "44",
+     "path": "art_44",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_44/ust_1",
+       "text": "Nie można wszcząć postępowania dyscyplinarnego po upływie 90 dni od dnia otrzymania przez przełożonego, o którym mowa w art. 45, wiadomości o popełnionym przewinieniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_44/ust_2",
+       "text": "Nie można wymierzyć funkcjonariuszowi kary dyscyplinarnej po upływie 90 dni od wszczęcia postępowania dyscyplinarnego albo zawiadomienia o odmowie wszczęcia postępowania przygotowawczego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_44/ust_3",
+       "text": "Terminy wymienione w ust. 1 i 2 ulegają zawieszeniu, w razie gdy ukaranie dyscyplinarne zależne jest od wyników postępowania karnego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_44/ust_4",
+       "text": "Nie można wszcząć postępowania dyscyplinarnego ani wymierzyć funkcjonariuszowi kary dyscyplinarnej po upływie dwóch lat od dnia popełnienia przewinienia. Jeżeli jednak przewinienie stanowi przestępstwo, okres ten nie może być krótszy od okresu przedawnienia karalności tego przestępstwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "45",
+     "path": "art_45",
+     "text": "Minister Sprawiedliwości ustali w drodze rozporządzenia regulamin dyscyplinarny określający szczegółowe zasady, tryb i przełożonych właściwych do wymierzania i wykonywania kar dyscyplinarnych oraz okresy, po których następuje zatarcie lub darowanie tych kar.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "46",
+     "path": "art_46",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_46/ust_1",
+       "text": "Za czyny, które naruszają honor i godność funkcjonariusza, szeregowcy, podoficerowie i oficerowie Siużby Więziennej ponoszą odpowiedzialność przed sądami honorowymi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_46/ust_2",
+       "text": "Sądy honorowe są wybieralne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "47",
+     "path": "art_47",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_47/ust_1",
+       "text": "Sądy honorowe orzekają na mocy przekonania opartego na swobodnej ocenie dowodów, kierując się zasadami honoru i godności funkcjonariusza oraz przepisami prawa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_47/ust_2",
+       "text": "Przy orzekaniu członkowie sądów honorowych są niezawiśli.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "48",
+     "path": "art_48",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_48/ust_1",
+       "text": "Sądy honorowe wszczynają postępowanie:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_48/ust_1/pkt_1",
+         "text": "na wniosek właściwego przełożonego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_48/ust_1/pkt_2",
+         "text": "z własnej inicjatywy albo na wniosek kolektywu funkcjonariuszy,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_48/ust_1/pkt_3",
+         "text": "na pisemny wniosek funkcjonariusza albo w związku ze skargą osoby pokrzywdzonej czynem stanowiącym naruszenie honoru i godności funkcjonariusza.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_48/ust_2",
+       "text": "Nie można wszcząć postępowania przed sądem honorowym ani orzec środków wychowawczych po upływie jednego roku od popełnienia czynu naruszającego honor i godność funkcjonariusza.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "49",
+     "path": "art_49",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_49/ust_1",
+       "text": "W razie uznania funkcjonariusza za winnego zarzucanych mu czynów sąd honorowy orzeka w stosunku do niego środki wychowawcze w postaci:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_49/ust_1/pkt_1",
+         "text": "upomnienia,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_49/ust_1/pkt_2",
+         "text": "nagany,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_49/ust_1/pkt_3",
+         "text": "surowej nagany.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_49/ust_2",
+       "text": "Jeżeli według oceny sądu honorowego środki wychowawcze wymienione w ust. 1 są niewspółmierne do wagi popełnionego czynu, sąd orzeka o winie funkcjonariusza i występuje do właściwego przełożonego z wnioskiem o wymierzenie określonej kary dyscyplinarnej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_49/ust_3",
+       "text": "Stosując środek wychowawczy lub występując z wnioskiem o wymierzenie kary dyscyplinarnej, sąd honorowy może ponadto zobowiązać funkcjonariusza do przeproszenia pokrzywdzonego, a także do naprawienia wyrządzonej szkody.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "50",
+     "path": "art_50",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_50/ust_1",
+       "text": "Nadzór nad sądami honorowymi sprawuje Ministęy Sprawiedliwości. 2.- Minister Sprawiedliwości określa w drodze rozporządzenia szczegółową organizację sądów honorowych oraz zasady i tryb postępowania przed tymi sądami.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "51",
+     "path": "art_51",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_51/ust_1",
+       "text": "Za wykroczenia podlegające rozpoznaniu w trybie przepisów Kodeksu posiępowania w sprawach o wykroczenia funkcjonariusze ponoszą odpowiedzialność dyscyplinarną, jeżeli dalsze przepisy nie slanowią inaczej,",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_51/ust_2",
+       "text": "Organy powołane do orzekania w sprawach o wykroczenia, a także inne zainteresowane organy, instytucje lub osoby kierują wnioski o ukaranie funkcjonariusza do właściwych organów Służby Więziennej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_51/ust_3",
+       "text": "Za wykroczenia, za które według przepisów Kodeksu postępowania w sprawach o wykroczenia lub innych przepisów szczególnych właściwe organy określone w tych przepisach mogą nakładać grzywny w drodze mandatu karnego, funkcjonariusze podlegają odpowiedzialności w trybie postępowania mandatowego; kary grzywny w drodze mandatu karnego wymierzają funkcjonariuszom te organy. 4, W razie odmowy przyjęcia mandatu lub nieuiszczenia grzywny w terminie organ upoważniony do nałożenia grzywny w drodze mandatu karnego kieruje wniosek o ukaranie funkcjonariusza do właściwego organu Służby Więziennej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_51/ust_5",
+       "text": "W przypadkach określonych w ust. 2 i 4 ukaranie dyscyplinarne nie może nastąpić po upływie terminu przedawnienia określonego dla danego wykroczenia w Kodeksie wykroczeń.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "52",
+     "path": "art_52",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_52/ust_1",
+       "text": "Za czyny, za które według obowiązujących przepisów włeściwe organy uprawnione są do nakładania kar porządkowych, funkcjonariusze ponoszą wyłącznie odpowiedzialność dyscyplinarną.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_52/ust_2",
+       "text": "Odpowiedzialności dyscyplinarnej podlegają również funkcjonariusze w przypadkach, gdy właściwe organy uprawnione są do stosowania grzywny w celu przymusze-",
+       "children": [
+        {
+         "type": "text",
+         "text": "nią."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_52/ust_3",
+       "text": "Organy, o których mowa w ust. 1 i 2, występują do właściwego organu Służby Więziennej o pociągnięcie funkcjonariusza do odpowiedzialności dyscyplinarnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 7",
+     "text": "Zmiany w stosunku służbowym i zwolnienie ze służby."
+    },
+    {
+     "type": "art",
+     "num": "53",
+     "path": "art_53",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_53/ust_1",
+       "text": "Funkcjonariusz może być z urzędu przeniesiony do innej miejscowości a!bo oddelegowany do czasowego.pełnienia służby poza stałym miejscem służby w przypadkach uzasadnionych ważnymi względami służby.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_53/ust_2",
+       "text": "Funkcjonariusz może być przeniesiony również i na własną prośbę, gdy nie stoją temu na przeszkodzie względy służbowe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_53/ust_3",
+       "text": "Decyzja o przeniesieniu funkcjonariusza, który nie wyraził zgody na przeniesienie, podlega zatwierdzeniu przez wyższego przełożonego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_53/ust_4",
+       "text": "Czas trwania delegacji nie może przekraczać sześciu miesięcy. Minister Sprawiedliwości lub upoważniony przez niego przełożony może czas ten przedłużyć do jednego roku.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "os"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "54",
+     "path": "art_54",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_54/ust_1",
+       "text": "Funkcjonariuszowi może być powierzone czasowe pełnienie obowiązków służbowych na innym stanowisku w tej samej miejscowości na czas nie przekraczający 12 miesięcy, w tym przypadku uposażenie funkcjonariusza nie może być obniżone.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_54/ust_2",
+       "text": "Minister Sprawiedliwości może delegować funkcjonariuszy do pełnienia służby w podległych sobie jednostkach organizacyjnych poza Służbą Więzienną.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "55",
+     "path": "art_55",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_55/ust_1",
+       "text": "Funkcjonariusza przenosi się na niższe stanowisko służbowe w razie wymierzenia kary dyscyplinarnej przeniesienia na niższe stanowisko.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_55/ust_2",
+       "text": "Funkcjonariusz może być przeniesiony na niższe stanowisko w razie:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_55/ust_2/pkt_1",
+         "text": "orzeczenia przez komisję lekarską służby zdrowia Ministerstwa Spraw Wewnętrznych trwałej niezdolności do pełnienia służby na zajmowanym stanowisku, jeżeli nie ma możliwości mianowania go na stanowisko równorzędne,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_55/ust_2/pkt_2",
+         "text": "nieprzydatności na zajmowanym stanowisku, stwierdzonej w opinii służbowej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_55/ust_2/pkt_3",
+         "text": "niewywiązywania się z obowiązków służbowych na zajmowanym stanowisku w okresie odbywania służby stałej, stwierdzonego w dwóch kolejnych opiniach służbowych, między którymi upłynęło co najmniej sześć miesięcy,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_55/ust_2/pkt_4",
+         "text": "likwidacji zajmowanego stanowiska służbowego, jeżeli nie ma możliwości mianowania funkcjonariusza na równorzędne stanowisko.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_55/ust_3",
+       "text": "Funkcjonariusza można na jego prośbę przenieść na niższe stanowisko służbowe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "56",
+     "path": "art_56",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_56/ust_1",
+       "text": "Funkcjonariusza zawiesza się w czynnościach służbowych w razie tymczasowego aresztowania, jak też w. przypadkach, gdy w związku z wszczęciem postępowania karnego lub dyscyplinarnego konieczne jest dla dobra służby niezwłoczne odsunięcie go od pełnienia obowiązków służbowych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_56/ust_2",
+       "text": "Okresu zawieszenia funkcjonariusza w czynnościach służbowych nie zalicza się do wysługi lat, jeżeli został on skazany prawomocnym wyrokiem sądu na karę pozbawienia wolności albo ukarany w postępowaniu dyscyplinarnym karą wydalenia ze służby. Art 57. Funkcjonariusza można — z urzędu lub na jego prośbę — skierować do komisji lekarskiej siużby zdrowia Ministerstwa Spraw Wewnętrznych w celu ustalenia stanu zdrowia oraz stopnia zdolności psychicznej i f.zycznej do służby, jak również w celu ustalenia związku poszczególnych schorzeń ze służbą.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "58",
+     "path": "art_58",
+     "text": "1.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Funkcjonariusza zwalnia się ze służby w przypadkach: ."
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_58/pkt_1",
+       "text": "orzeczenia przez komisję lekarską służby zdrowia Ministerstwa Spraw Wewnętrznych trwałej niezdolności do służby,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_58/pkt_2",
+       "text": "wymierzenia kary dyscyplinarnej wydalenia ze służby,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_58/pkt_3",
+       "text": "niewyrażenia zgody na przeniesienie na niższe stanowisko służbowe z przyczyn określonych w art. 55 ust. 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_58/pkt_4",
+       "text": "skazania prawomocnym wyrokiem sądu na karę pozbawienia wolności, jeżeli wykonanie kary nie zostało warunkowo zawieszone,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_58/pkt_5",
+       "text": "porzucenia służby.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_58/ust_2",
+       "text": "Funkcjonariusza można zwolnić ze służby w przypadkach:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_58/ust_2/pkt_1",
+         "text": "nieprzydatności do siużby stwierdzonej w opinii służbowej w okresie służby przygotowawczej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_58/ust_2/pkt_2",
+         "text": "niewywiązywania się z obowiązków służbowych w okresie odbywania służby stałej, stwierdzonego w dwóch kolejnych opiniach służbowych, między którymi upłynęło co najmniej sześć miesięcy,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_58/ust_2/pkt_3",
+         "text": "przejścia do innego działu służby państwowej lub do pełnienia z wyboru funkcji w organizacji politycznej lub społecznej za jego zgodą — na wniosek erganu władzy lub administracji państwowej albo organizacji politycznej lub społecznej,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_58/ust_2/pkt_4",
+         "text": "na własną prośbę funkcjonariusza; prośba ta powinna być rozpatrzona nie później niż w terminie trzech miesięcy,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_58/ust_2/pkt_5",
+         "text": "skazania prawomocnym wyrokiem sądu na karę pozbawienia wolności z warunkowym zawieszeniem wykonania tej kary,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "art_58/ust_2/pkt_6",
+         "text": "nabycia prawa do emerytury Siużby Więziennej w pełnym wymiarze,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "art_58/ust_2/pkt_7",
+         "text": "likwidacji zajmowanego stanowiska służbowego, jeżeli nie ma możliwości mianowania funkcjonariusza na równorzędne lub niższe stanowisko w tej samej miejscowości, a funkcjonariusz nie wyraża zgody na przeniesienie do innej miejscowości,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "art_58/ust_2/pkt_8",
+         "text": "gdy wymaga tego ważny interes służby.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_58/ust_3",
+       "text": "Zwolnienie funkcjonariusza ze służby z przyczyny określonej w ust. 2 pkt 8 może nastąpić jedynie na podstawie decyzji Ministra Sprawiedliwości. Art 59. W razie uchylenia prawomocnego wyroku skazującego i wydania wyroku uniewinniającego funkcjonariusza albo w razie uchylenia kary dyscyplinarnej przeniesienia na niższe stanowisko służbowe lub kary wydalenia ze służby — ulegają uchyleniu skutki wynikłe .dla funkcjonariusza w związku z przeniesieniem go na niższe stanowisko lub zwolnieniem ze służby w zakresie ustalonym przez Ministra Sprawiedliwości lub upoważnionego przez niego przełożonego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "60",
+     "path": "art_60",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_60/ust_1",
+       "text": "Zwolnienie funkcjonariusza ze służby z przyczyn określonych w art. 58 ust. 1 pkt 1 i 3 oraz ust. 2 pkt 1, 2,6i7 nie może nastąpić w okresie obłożnej choroby przed upływem dwunastu miesięcy od dnia zaprzestania służby z powodu choroby, chyba że funkcjonariusz prosi o zwolnienie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_60/ust_2",
+       "text": "Zwolnienie funkcjonariusza na własną prośbę przed upływem trzech lat od odbycia szkolenia przewidzianego dla podoficerów Służby Więziennej lub sześciu lat od odbycia szkolenia przewidzianego dla oficerów Służby Więziennej wymaga zgody Ministra Sprawiedliwości lub upoważnionego przez niego przełożonego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "61",
+     "path": "art_61",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_61/ust_1",
+       "text": "Funkcjonariusza-kobiety, mianowanej na stałe, nie można zwolnić ze służby w okresie ciąży i w czasie ustawowej przerwy w pracy po porodzie — z wyjątkiem przypadków określonych w art. 58 ust. 1 pkt 2,4i5 oraz ust. 2 pkt 3—5.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_61/ust_2",
+       "text": "Przepisy ust. 1 stosuje się do funkcjonariusza-kobiety, mianowanej na okres służby przygotowawczej, jeżeli pełni ona służbę co najmniej trzy miesiące.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_61/ust_3",
+       "text": "Jeżeli koniec służby przygotowawczej przypada na okres ciąży lub ustawowej przerwy w pracy po porodzie, okres służby przygotowawczej można przedłużyć, nie dłużej jednak niż o sześć miesięcy od dnia zakończenia przerwy w pracy po porodzie. Art 62. 1. Funkcjonariuszowi mianowanemu na stałe, zwolnionemu ze służby z innych przyczyn niż określone w art. 58 ust. 1 pkt 2, 4 i 5 oraz ust. 2 pkt 4 i 5, jak również uprawnionym członkom jego rodziny przysługuje prawo do bezpłatnego korzystania ze świadczeń służby zdrowia Ministerstwa Spraw Wewnętrznych przez okres jednego roku od dnia zwolnienia ze służby, a po upływie tego okresu — z pomocy leczniczej zakładów społecznych służby zdrowia w zakresie i na warunkach przewidzianych dla pracowników, z którymi stosunek pracy został rozwiązany.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_61/ust_2",
+       "text": "Funkcjonariuszowi zwolnionemu ze służby w okresie służby przygotowawczej oraz funkcjonariuszowi mianowanemu na stale, zwolnionemu ze służby z przyczyn określonych w art. 58 ust. 1 pkt 2, 4 i 5 oraz ust. 2 pkt 3—5, jak również członkom jego rodziny przysługuje prawo do pomocy leczniczej zakładów społecznych służby zdrowia na warunkach i w zakresie przewidzianych dla pracowników, z którymi stosunek pracy został rozwiązany.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "ak"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_61/ust_3",
+       "text": "Uprawnienia przewidziane w ust. 1 przysługują również członkom rodziny pozostałym po zmarłym funkcjonariuszu, który był mianowany na stałe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "63",
+     "path": "art_63",
+     "text": "Funkcjonariusz zwolniony ze służby zachowuje prawo do przydzielonego mieszkania funkcyjnego lub do mieszkania zamiennego według powszechnie obowiązujących norm zaludnienia.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "64",
+     "path": "art_64",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_64/ust_1",
+       "text": "Czas pełnienia służby więziennej wlicza się pracownikowi do okresu zatrudnienia w zakresie wszelkich uprawnień związanych z tym zatrudnieniem, jeżeli podjął on zatrudnienie w ciągu jednego roku od dnia zwolnienia ze służby, a jeżeli pełnił służbę przygotowawczą — w ciągu trzech miesięcy od tego dnia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_64/ust_2",
+       "text": "Jeżeli funkcjonariusz nie może podjąć zatrudnienia w terminie określonym w ust. I ze względu na chorobę powodującą niezdolność do pracy lub inwalidztwo, zachowuje on uprawnienia określone w ust. I w razie podjęcia zatrudnienia w ciągu trzech miesięcy od dnia ustania niezdolności do pracy lub inwalidztwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_64/ust_3",
+       "text": "Przepisów ust. 1 i 2 nie stosuje się do funkcjonariuszy zwolnionych ze służby w razie ukarania karą dyscyplinarną wydalenia z tej służby lub w razie porzucenia służby albo skazania prawomocnym wyrokiem sądu. ' Art 65. 1. Funkcjonariuszy zwolnionych ze służby, którzy nie ukończyli: mężczyźni — 55 lat, kobiety — 50 lat i nie zostali zaliczeni do jednej z grup inwalidów, kieruje się na ich wniosek do pracy w uspołecznionych zakładach pracy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_64/ust_2",
+       "text": "Prezes Rady Ministrów określa zasady i tryb kierowania do pracy funkcjonariuszy zwolnionych ze służby oraz właściwość organów w tych sprawach,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 8",
+     "text": "Uposażenie i inne świadczenia pieniężne."
+    },
+    {
+     "type": "art",
+     "num": "66",
+     "path": "art_66",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_66/ust_1",
+       "text": "Funkcjonariusz otrzymuje uposażenie i inne świadczenia pieniężne wolne od podatku od wynagrodzeń.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_66/ust_2",
+       "text": "Minister Finansów w porozumieniu z Ministrem Sprawiedliwości określi zasady stosowania podatku wyrównawczego w odniesieniu do funkcjonariuszy,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "67",
+     "path": "art_67",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_67/ust_1",
+       "text": "Uposażenie funkcjonariusza składa się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_67/ust_1/pkt_1",
+         "text": "z uposażenia zasadniczego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_67/ust_1/pkt_2",
+         "text": "z dodatku za wysługę lat w wysokości: po 2 latach służby — 57% uposażenia zasadniczego, po 5 latach służby — 10% uposażenia zasadniczego, po 10 latach służby — 15%/o uposażenia zasadniczego, po 15 latach służby — 20% uposażenia zasadniczego, po 20 latach służby — 25% uposażenia zasadniczego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_67/ust_1/pkt_3",
+         "text": "z innych dodatków do uposażenia,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_67/ust_2",
+       "text": "Inne świadczenia pieniężne obejmują: * 1) należności za podróże służbowe i przeniesienia,",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_67/ust_2/pkt_2",
+         "text": "nagrody i zapomogi,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_67/ust_2/pkt_3",
+         "text": "należności w związku ze zwolnieniem ze służby,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_67/ust_2/pkt_4",
+         "text": "należności pośmiertne przysiugujące osobom upraws nionym.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "68",
+     "path": "art_68",
+     "text": "Za czynności zlecone, przekraczające zwykłe obowiązki służbowe, funkcjonariusz może otrzymać dodatkowe wynagrodzenie na zasadach ustalonych przez Ministra Sprawiedliwości. Art 69. 1. Uposażenie zasadnicze i dodatki do uposażenia o charakterze stałym płatne są miesięcznie; dodatkami do uposażenia o charakterze stałym są dodatki ustalone w stawkach miesięcznych.",
+     "children": [
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_68/ust_2",
+       "text": "Minister Sprawiedliwości w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych określa terminy wypłaty uposażenia, dodatków do uposażenia i innych świadczeń pieniężnych. \"Art. 70. 1. Prawo do uposażenia powstaje z dniem mianowania funkcjonariusza na stanowisko służbowe; zmiana uposażenia następuje z dniem powstania okoliczności uzasadniających tę zmianę.",
+       "children": [
+        {
+         "type": "text",
+         "text": "m i Poz. 218"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_68/ust_2",
+       "text": "Jeżeli prawo do uposażenia powstało lub zmiana uposażenia nastąpiła w ciągu miesiąca, uposażenie za czas do końca miesiąca oblicza się za każdy dzień w wysokości odpowiadającej Va części miesięcznego uposażenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_68/ust_3",
+       "text": "Prawo do uposażenia wygasa z ostatnim dniem miesiąca, w którym nastąpiło zwolnienie funkcjonariusza ze służby lub powstały inne okoliczności uzasadniające wygaśnięcie tego prawa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "71",
+     "path": "art_71",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_71/ust_1",
+       "text": "Roszczenie z tytułu uposażenia przedawnia się z upływem trzech lat od terminu płatności uposażenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_71/ust_2",
+       "text": "Bieg przedawnienia przerywa się:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_71/ust_2/pkt_1",
+         "text": "przez każdą czynność przed organem Służby Więziennej właściwym do rozpatrywania roszczeń, przedsięwziętą bezpośrednio w celu dochodzenia lub ustalenia „. albo zaspokojenia roszczenia,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_71/ust_2/pkt_2",
+         "text": "przez uznanie roszczenia.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "72",
+     "path": "art_72",
+     "text": "Uposażenie pobrane przez funkcjonariusza, należne mu według zasad obowiązujących w dniu wypłaty, nie podlega zwrotowi; przepis art. 70 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "73",
+     "path": "art_73",
+     "text": "Przepisy dotyczące przedawnienia roszczeń z tytułu uposażenia, jak również zwrotu pobranego uposażenia stosuje się odpowiednio do innych należności pieniężnych, w szczególności określonych w art. 67 ust. 2 oraz należności z tytułu umundurowania. Art 74. 1. Rada Ministrów określa uposażenie zasadnicze i stawki uposażenia przywiązane do typowych stanowisk służbowych.",
+     "children": [
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_73/ust_2",
+       "text": "Minister Sprawiedliwości zalicza poszczególne sta-. nowiska służbowe do odpowiednich stanowisk typowych w zależności od wymaganych kwalifikacji fachowych, zakresu wykonywanych obowiązków służbowych i ponoszonej odpowiedzialności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "75",
+     "path": "art_75",
+     "text": "Minister Sprawiedliwości określa zasady i tryb zaliczania okresów służby (pracy) podlegających uwzględnieniu przy ustalaniu stawek uposażenia oraz dodatku za wysługę lat.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "76",
+     "path": "art_76",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_76/ust_1",
+       "text": "Funkcjonariusze otrzymują następujące dodatki do uposażenia: dodatek rodzinny, dodatek za stopień służbowy oraz dodatki uzasadnione szczególnymi właściwościami lub warunkami służby albo kwalifikacjami.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_76/ust_2",
+       "text": "Minister Sprawiedliwości w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych określa zasady i warunki otrzymywania dodatków do uposażenia oraz ich wysokość. >",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "77",
+     "path": "art_77",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_77/ust_1",
+       "text": "Funkcjonariusz przeniesiony na inne stanowisko służbowe, do którego przywiązane jest uposażenie zasadnicze niższe od pobieranego na poprzednio zajmowanym, zachowuje dotychczasowe uposażenie zasadnicze — do czasu uzyskania uposażenia zasadniczego równego dotychczas pobieranemu lub wyższego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_77/ust_2",
+       "text": "Przepisu ust. 1 nie stosuje się do funkcjonariuszy przeniesionych na niższe stanowisko służbowe:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_77/ust_2/pkt_1",
+         "text": "w trybie dyscyplinarnym,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_77/ust_2/pkt_2",
+         "text": "w razie niewywiązywania się z obowiązków służbowych na zajmowanym stanowisku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_77/ust_2/pkt_3",
+         "text": "w razie stwierdzenia nieprzydatności na zajmowanym stanowisku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_77/ust_2/pkt_4",
+         "text": "na prośbę funkcjonariusza.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "78",
+     "path": "art_78",
+     "text": "Minister Sprawiedliwości określa zasady przyznawania funkcjonariuszom nagród i zapomóg oraz ich wy- SOKoŚĆ,",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "79",
+     "path": "art_79",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_79/ust_1",
+       "text": "Funkcjonariusz zwolniony ze służby z przyczyn określonych w art. 58 ust, 1 ak i 3 oraz ust. 2 pkt 1—4 i 6—8 otrzymuje:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_79/ust_1/pkt_1",
+         "text": "odprawę,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_79/ust_1/pkt_2",
+         "text": "ekwiwalent za urlop wypoczynkowy nie wykorzystany w roku zwolnienia ze służby,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_79/ust_1/pkt_3",
+         "text": "równoważnik pieniężny za przejazd na koszt Ministerstwa Sprawiedliwości nie wykorzystany w roku zwolnienia ze służby,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "mę"
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_79/ust_1/pkt_4",
+         "text": "zwrot kosztów przejazdu do obranego miejsca zamieszkania dla siebie i członków rodziny oraz zwrot kosztów przewozu urządzenia domowego według zasad obowiązujących przy przeniesieniach służbowych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_79/ust_2",
+       "text": "Funkcjonariusz zwolniony ze służby z przyczyny określonej w art. 58 ust. 1 pkt 2 otrzymuje 50% odprawy. \"3. Minister Sprawiedliwości lub upoważniony przez niego przełożony może przyznać funkcjonariuszowi, w przypadkach zasługujących na szczególne uwzględnienie, odprawę w wysokości nie przekraczającej 50%» w razie zwolnienia go ze służby z przyczyn określonych w art. 58 ust. 1 pkt 4i ust. 2 pkt 5.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "60",
+     "path": "art_60",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_60/ust_1",
+       "text": "Wysokość odprawy dla funkcjonariusza w służbie stałej odpowiada wysokości trzymiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym, pobieranego na ostatnio zajmowanym stanowisku służbowym. Odprawę zwiększa się o 20/0 za każdy dalszy pełny rok wysługi ponad pięć lat nieprzerwanej siużby, aż do wysokości pięciomiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym. Okres służby przekraczający sześć miesięcy liczy się jako pełny rok.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_60/ust_2",
+       "text": "Wysokość odprawy dla funkcjonariusza w służbie przygotowawczej odpowiada wysokości uposażenia zasadniczego wraz z dodatkami o charakterze stałym, pobieranego na ostatnio zajmowanym stanowisku siużbowym:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_60/ust_2/pkt_1",
+         "text": "jednomiesięcznego — przy wysłudze do jednego roku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_60/ust_2/pkt_2",
+         "text": "dwumiesięcznego — przy wysłudze do dwóch lat,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_60/ust_2/pkt_3",
+         "text": "trzymiesięcznego — przy wysłudze ponad dwa lata.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "61",
+     "path": "art_61",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_61/ust_1",
+       "text": "Funkcjonariuszowi zwolnionemu ze służby stałej z przyczyn określonych w art. 58 ust. 1 pkt 1 oraz ust. 2 pkt 6—8 wypłaca się co miesiąc przez okres jednego roku po zwolnieniu ze służby świadczenie pieniężne w wysokości odpowiadającej uposażeniu zasadniczemu pobieranemu na ostatnio zajmowanym stanowisku służbowym wraz z dodatkami o charakterze stałym, świadczenie to wypłaca się także funkcjonariuszowi zwolnionemu ze służby stałej na własną prośbę, jeżeli osiągnął wiek: mężczyzna — 55 lat, kobieta — 50 lat.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_61/ust_2",
+       "text": "Świadczenie określone w ust. 1 przysługuje również funkcjonariuszowi zwolnionemu ze służby stałej na skutek niewyrażenia przez niego zgody na przeniesienie na niższe stanowisko służbowe z przyczyn wymienionych w art. 55 ust, 2 pkt 1i4.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_61/ust_3",
+       "text": "Funkcjonariuszowi zwolnionemu ze służby stałej na skutek niewyrażenia przez niego zgody na przeniesienie na niższe stanowisko służbowe z przyczyn wymienionych w art. 55 ust. 2 pkt 3 wypłaca się świadczenie określone w ust. 1 przez okres sześciu miesięcy, jeżeli funkcjonariusz ten posiada co najmniej dziesięć lat nieprzerwanej służby. W wyjątkowych przypadkach Minister Sprawiedliwości może okres ten przedłużyć do jednego roku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_61/ust_4",
+       "text": "Fuakcjonariusżowi uprawnionemu do świadczenia określonego w ust. I, który nabył prawo do zaopatrzenia emerytalnego, przysługuje prawo wyboru jednego z tych świadczeń.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "82",
+     "path": "art_82",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_82/ust_1",
+       "text": "W razie śmierci funkcjonariusza pozostałej po nim rodzinie przysługuje ekwiwalent pieniężny za nie wykorzystany przez niego urlop wypoczynkowy oraz odprawa pieniężne w takiej wysokości, w jakiej przysługiwałaby temu funkcjonariuszowi, gdyby był zwolniony ze służby.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_82/ust_2",
+       "text": "Należności, o których mowa w ust. 1, przysługują żonie funkcjonariusza, która pozostawała z nim we wspólności małżeńskiej, bez względu na jej wiek i zdolność do pracy, a w da'szej kolejności — dzieciom i rodzicom funkcjonariusza, jeżeli pozostawali na jego utrzymaniu we wspólnym gospodarstwie domowym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "83",
+     "path": "art_83",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_83/ust_1",
+       "text": "W razie śmierci funkcjonariusza przystuguje zasiłek na pokrycie kosztów pogrzebu w wysokości:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_83/ust_1/pkt_1",
+         "text": "trzymiesięcznego uposażenia zasadniczego przysługującego na ostatnio zajmowanym stanowisku służbowym wraz z dodatkami o charakterze stałym, jeżeli koszty pogrzebu ponosi małżonek, dzieci, wnuki, rodzeństwo lub rodzice,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_83/ust_1/pkt_2",
+         "text": "kosztów rzeczywiście poniesionych, najwyżej jednak do wysokości określonej w pkt 1, jeżeli koszty pogrzebu ponosi inna osoba.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_83/ust_2",
+       "text": "Jeżeli śmierć funkcjonariusza nastąpiła na skutek wypadku pozostającego w związku ze służbą, koszty pogrzebu pokrywa Ministerstwo Sprawiedliwości. W uzasadnionych przypadkach Minister Sprawiedliwości może wyrazić zgodę na pokrycie przez Ministerstwo Sprawiedliwości kosztów pogrzebu funkcjonariusza zmarłego w związku ze służbą, jeżeli śmierć nie nastąpiła wskutek wypadku. _ 3. W razie pokrycia przez Ministerstwo Sprawiediiwosci kosztów pogrzebu funkcjonariusza małżonkowi, dzieciom lub rodzicom przysługuje połowa zasiłku określonego w ust. 1 pkt 1. 4, W razie śmierci członka rodziny funkcjonariusza przysługuje zasiłek na pokrycie kosztów pogrzebu w wysokości:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_83/ust_2/pkt_1",
+         "text": "dwumiesięcznego uposażenia zasadniczego przysługującego na ostatnio zajmowanym stanowisku służbowym wraz z dodatkami o charakterze stałym — jeżeli kosz- _ ty pogrzebu ponosi funkcjonariusz,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_83/ust_2/pkt_2",
+         "text": "rzeczywistych kosztów, lecz najwyżej do wysokości określonej w pkt 1 — jeżeli ponosi je inna osoba.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_83/ust_5",
+       "text": "Minister Sprawiedliwości określa szczegółowe zasady pokrywania przez Ministerstwo Sprawiedliwości kosztów pogrzebu funkcjonariusza oraz osoby, z tytułu śmierci których przysługuje zasiłek określony w ust. 4.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_83/ust_6",
+       "text": "W razie zbiegu uprawnień do zasiłku na pokrycie kosztów pogrzebu na podstawie ust. 4 oraz na podstawie innych odrębnych przepisów funkcjonariuszowi przysługuje prawo wyboru jednego z tych zasiłków.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "84",
+     "path": "art_84",
+     "text": "Minister Sprawiedliwości w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych określi należności przysługujące funkcjonariuszowi oddelegowanemu lub przeniesionemu służbowo do innej miejscowości oraz ich wysokość.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "85",
+     "path": "art_85",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_85/ust_1",
+       "text": "W okresie choroby, urlopów, zwolnienia od zajęć służbowych oraz w okresie pozostawania bez przydziału służbowego funkcjonariusz otrzymuje uposażenie zasadnicze, dodatki do uposażenia o charakterze stałym i inne należności pieniężne przysługujące mu na ostatnio zajmowanym stanowisku siużbowym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_85/ust_2",
+       "text": "Minister Sprawiedliwości może. ograniczyć w całości lub w części wypłatę niektórych dodatków do uposażenia w okresie choroby lub urlopu zdrowotnego albo w okresie pozostawania funkcjonariusza bez przydziału służbowego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_85/ust_3",
+       "text": "Funkcjonariusz korzystający z urlopu w celu wykonania prac w dziedzinie literackiej lub artystycznej, jak również w celu odbywania studiów lub praktyki albo z innych ważnych przyczyn, nie otrzymuje uposażenia przez czas pozostawania na tym urlopie. Przysługujące funkcjonariuszowi inne należności pieniężne i dodatek rodzinny nie podlegają ograniczeniu. 4, W przypadkach uzasadnionych Minister Sprawiedliwości może przyznać funkcjonariuszowi pozostającemu na urlopie wymienionym w ust. 3 uposażenie w całości lub w części.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "Minister Sprawiedliwości określi uposażenie oraz inne należności pieniężne przysługujące funkcjonariuszowi skierowanemu do szkoły lub na przeszkolenie albo na studia w kraju.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "67",
+     "path": "art_67",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_67/ust_1",
+       "text": "Funkcjonariuszowi zawieszonemu w czynnościach służbowych zawiesza się od najbliższego terminu płatności wypłatę połowy uposażenia zasadniczego oraz dodatki do uposażenia, z wyjątkiem dodatku rodzinnego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_67/ust_2",
+       "text": "W razie uchylenia zawieszenia w czynnościach służbowych wypłaca się funkcjonariuszowi zawieszoną część",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "uposażenia, chyba że został on skazany prawomocnym wyrokiem sądu albo ukarany karą dyscyplinarną wydalenia ze służby. W tych przypadkach funkcjonariusz traci prawo do zawieszonej części uposażenia. - Art. 88. 1. Funkcjonariuszowi tymczasowo aresztowanemu zawiesza się od najbliższego terminu p!atności wypłatę połowy uposażenia zasadniczego, pobieranego na ostatnio zajmowanym stanowisku służbowym, oraz dodatki do uposażenia, z wyjątkiem dodatku rodzinnego."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_67/ust_2",
+       "text": "W razie prawomocnego umorzenia postępowania karnego lub uniewinnienia prawomocnym wyrokiem sądu funkcjonariuszowi wypłaca się zawieszoną część uposażenia, choćby umorzenie lub uniewinnienie nastąpiło po zwolnieniu funkcjonariusza ze służby. W razie skazania prawomocnym wyrokiem sądu funkcjonariusz traci prawo do zawieszonej części uposażenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "89",
+     "path": "art_89",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_89/ust_1",
+       "text": "Funkcjonariuszowi, który samowolnie opuścił miejsce służbowe albo poza nim pozostaje, zawiesza się wypłatę uposażenia od najbliższego terminu płatności. Jeżeli funkcjonariusz pobrał już za czas nieusprawiedliwionej nieobecności uposażenie, potrąca mu się odpowiednią część uposażenia przy najbliższej wypłacie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_89/ust_2",
+       "text": "W razie uznania nieobecności za usprawiedliwioną wypłaca się funkcjonariuszowi zawieszone uposażenie, w przeciwnym razie funkcjonariusz traci za każdy dzień nieusprawiedliwionej nieobecności 4/a część miesięcznego uposażenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_89/ust_3",
+       "text": "Przepisy ust. 1 i 2 stosuje się odpowiednio w razie zawinionej niemożności pełnienia przez funkcjonariusza obowiązków służbowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "90",
+     "path": "art_90",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_90/ust_1",
+       "text": "Z uposażenia funkcjonariuszy mogą być dokonywane potrącenia na podstawie tytuiów wykonawczych sądowych i. administracyjnych oraz na podstawie przepisów szczególnych — na zasadach określonych w przepisach o egzekucji sądowej lub egzekucji administracyjnej świadczeń pieniężnych albo w przepisach szczegóinych — jeżeli dalsze przepisy nie stanowią inaczej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_90/ust_2",
+       "text": "Przy zachowaniu zasad określonych w ust. 1 potrąceń na zaspokojenie świadczeń alimentacyjnych dokonuje się również bez postępowania egzekucyjnego, z wyjątkiem przypadków, gdy świadczenia alimentacyjne mają być potrącane na rzecz kilku wierzycieli, a łączna suma, która może być potrącona, nie wystarcza na pełne pokrycie wszystkich należności alimentacyjnych, albo gdy wynagrodzenie za pracę zostało zajęte w trybie egzekucji sądowej lub administracyjnej. Potrąceń dokonuje się na wniosek wierzyciela na podstawie przediożonego przez niego tytułu wykonawczego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_90/ust_3",
+       "text": "Przez uposażenie, o którym mowa w ust. 1, rozumie się uposażenie zasadnicze, dodatki do uposażenia oraz odprawę określoną w art. 79 ust. 1 pkt 1. Potrąceń nie dokonuje się z dodatku rodzinnego oraz z należności z tytułu zwrotu kosztów przejazdu i przewozu urządzenia domowego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_90/ust_4",
+       "text": "Dodatek rodzinny należny osobom alimentowanym przeznacza się na rzecz tych osób bez zaliczenia go na zobowiązania alimentacyjne. - Art. 91. Przy zbiegu należności z tytułu odpowiedzialności materialnej funkcjonariuszy za szkody wyrządzone jednostce organizacyjnej Służby Więziennej z innymi należnościami, z wyjątkiem należności alimentacyjnych, należnościom z tytułu odpowiedzialności materialnej funkcjonariuszy służy pierwszeństwo zaspokojenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "92",
+     "path": "art_92",
+     "text": "Minister Sprawiedliwości określa organy właściwe do dokonywania potrąceń z uposażenia oraz tryb postępowania w tych sprawach.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "93",
+     "path": "art_93",
+     "text": "Przepisów art. 90 i 91 nie stosuje się do zaliczek pobieranych do rozliczenia, w szczególności na koszty podróży służbowej, delegacji i przeniesienia. Należności te potrąca się z uposażenia w pełnej wysokości niezależnie od potrąceń z innych tytułów.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 9",
+     "text": "Przepisy końcowe i przejściowe."
+    },
+    {
+     "type": "art",
+     "num": "94",
+     "path": "art_94",
+     "text": "Dotychczasowe stopnie służbowe funkcjonariuszy w dniu wejścia w życie ustawy odpowiadają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_94/pkt_1",
+       "text": "funkcjonariuszy młodszych — podoficerom Służby Więziennej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_94/pkt_1/lit_a",
+         "text": "strażnika Służby Więziennej — kapralowi Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_94/pkt_1/lit_b",
+         "text": "starszego strażnika Służby Więziennej — plutonowemu Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_94/pkt_1/lit_c",
+         "text": "przodownika Służby Więziennej — sierżantowi Służby Więziennej, :",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_94/pkt_1/lit_d",
+         "text": "starszego przodownika Służby Więziennej — starszemu sierżantowi Siużby Więziennej,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_94/pkt_2",
+       "text": "funkcjonariuszy starszych — oficerom Służby Więziennej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_94/pkt_2/lit_a",
+         "text": "podinspektora Służby Więziennej — podporucznikowi Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_94/pkt_2/lit_b",
+         "text": "inspektora Służby Więziennej — porucznikowi Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_94/pkt_2/lit_c",
+         "text": "starszego inspektora Służby Więziennej — kapitanowi Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_94/pkt_2/lit_d",
+         "text": "podkomisarza Służby Więziennej — majorowi Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_94/pkt_2/lit_e",
+         "text": "komisarza Służby Więziennej — podpułkownikowi „Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "art_94/pkt_2/lit_f",
+         "text": "starszego komisarza Służby Więziennej — pułkownikowi Służby Więziennej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "art_94/pkt_2/lit_g",
+         "text": "głównego komisarza Służby Więziennej — generałowi Służby Więziennej. Art 95. 1. Sprawy zastrzeżone do właściwości Ministra Spraw Wewnętrznych w ustawie z dnia 31 stycznia 1959 r. o zaopatrzeniu emerytalnym funkcjonariuszy Milicji Obywatelskiej oraz ich rodzin (Dz. U. z 1973 r. Nr 23, poz. 137) oraz w ustawie z dnia 16 grudnia 1972 r. o odszkodowaniach przysługujących w razie wypadków i chorób pozostających w związku ze służbą w Milicji Obywatelskiej (Dz. U. Nr 53, poz. 345) należą — w zakresie zaopatrzenia emerytalnego funkcjonariuszy oraz ich rodzin, a także w zakresie odszkodowań przysługujących w razie wypadków i chorób pozostających w związku ze służbą więzienną —- do właściwości Ministra Sprawiedliwości. Jednakże zaliczanie do wysługi emerytalnej okresów służby w Milicji Obywatelskiej i w byłych organach bezpieczeństwa publicznego, w czasie prowadzenia walki z bandami, następuje na zasadach i w trybie ustalonych dla funkcjonariuszy Milicji Obywatelskiej.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_94/ust_2",
+       "text": "Jeżeli przepisy ustaw wymienionych w ust. 1 ustalają terminy biegnące od dnia wejścia w życie tych ustaw lub od dnia ich ogłoszenia, w stosunku do funkcjonariuszy i ich rodzin terminy te liczą się od dnia wejścia w życie niniejszej ustawy. Art €6. 1. Tracą moc:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_94/ust_2/pkt_1",
+         "text": "dekret z dnia 20 lipca 1954 r. o Służbie Więziennej (Dz. U. Nr 34, poz. 144) oraz",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_94/ust_2/pkt_2",
+         "text": "dekret z dnia 9 listopada 1955 r. o zaopatrzeniu emerytalnym funkcjonariuszów Milicji Obywatelskiej i Służby Więziennej oraz ich rodzin (Dz. U. Nr 43, poz. 273) w zakresie zaopatrzenia funkcjonariuszów Służby Więziennej oraz ich rodzin.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_94/ust_2",
+       "text": "Do czasu wydania przepisów wykonawczych na podstawie niniejszej ustawy zachowują moc dotychczasowe przepisy.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Zakład nr 1, Warszawa, ul. Tamka 3."
+        },
+        {
+         "type": "text",
+         "text": "Zam. 2157."
+        },
+        {
+         "type": "text",
+         "text": "Cena 2,40 zł"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

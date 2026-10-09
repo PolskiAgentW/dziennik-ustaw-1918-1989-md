@@ -1,0 +1,942 @@
+{
+ "eli": "DU/1974/131",
+ "title": "Rozporządzenie Rady Ministrów z dnia 27 maja 1974 r. w sprawie przekazania niektórych spraw z zakresu właściwości organów administracji państwowej wyższego stopnia do właściwości organów administracji państwowej niższego stopnia.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1974/131/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 maja 1974r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie przekazania niektórych spraw z zakresu właściwości organów administracji państwowej wyższego stopni do właściwości organów administracji państwowej niższego stopnia."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 99 ust. 2 ustawy z dnia 25 stycznia 1958 r. o radach narodowych (Dz. U. z 1973 r. Nr 47, poz. 277) oraz na podstawie ustaw i dekretów powołanych w § 2, 4 i 6 niniejszego rozporządzenia zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "SPRAWY PRZEKAZYWANE WOJEWODOM"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Do właściwości wojewodów przechodzą następujące sprawy:",
+   "children": [
+    {
+     "type": "text",
+     "text": "z zakresu działania Ministra Finansów:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "z dekretu z dnia 16 maja 1946 r. o postępowaniu podatkowym (Dz. U. z 1963 r. Nr 11, poz. 60 oraz z 1972r. Nr 49, poz. 317 i Nr 53, poz. 338): przywracanie wszelkich zaniedbanych terminów w sprawach, w których wojewoda jest właściwy do wydania decyzji (art. 64 ust. 5 pkt 3);",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "z zakresu działania Ministra Gospodarki Terenowej i Ochrony Środowiska:"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "z dekretu z dnia 13 czerwca 1956 r. o państwowej służbie geodezyjnej i kartograficznej (Dz. U. Nr 25, poz, 115): wyrażanie na wniosek właściwego ministra zgody na wykonywanie określonego rodzaju robót geodezyjnych przez fachowe jednostki nie wymienione w art. 2 dekretu (art. 7);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "z ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 1972 r. Nr 47, poz. 298): wydawanie zezwoleń na użycie terenu cmentarza na inne cele przed upływem 40 lat w przypadku wyjątkowej potrzeby ze względów użyteczności qublicznej (art. 6 ust. 3);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "z ustawy z dnia 17 lutego 1960 r. o zaopatrywaniu ludności w wodę (Dz. U. z 1960 r. Nr 11, poz. 72, z 1962 r. Nr 34, poz. 158 i z 1965 r. Nr 51, poz. 314): wydawanie zarządzeń wprowadzających kontyngento- \"wanie wody, dostarczanej przez komunalne przedsiębiorstwa (zakłady) wodociągów i kanalizacji na rzecz, jednostek gospodarczych na obszarach, na których występują niedobory w zakresie zaopatrywania w wodę ludności (art. 11 ust. 1);",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "z zakresu działania Ministra Rolnictwa:"
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "z ustawy z dnia 24 stycznia 1968 r. o scalaniu i wymianie gruntów (Dz. U. Nr 3, poz. 13): wskazanie organu właściwego do wydawania decyzji, o których mowa w art. 6 ust. 3 oraz w art. 12 ust. 1 (art. 13 ust. 2); właściwym do wskazania takiego organu jest wojewoda, na którego terenie działania znajduje się większa część gruntów lub w wypadku wymiany gruntów — indywidualne gospodarstwo rolne;",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "z zakresu działania Ministra Leśnictwa i Przemysłu Drzewnego:"
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "z ustawy z dnia 17 czerwca 1959 r. o hodowli, ochronie zwierząt łownych i prawie łowieckim (Dz. U. z 1973 r. Nr 33, poz. 197): i",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "wyrażanie zgody na wydawanie zezwoleń w sprawie wykonywania polowań na terenach nie wchodzących w skład obwodów łowieckich (art. 8),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "wydawanie zezwoleń na chwytanie i przetrzymywanie zwierzyny (art. 22 ust. 1);",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "z zakresu działania Ministra Handlu Wewnętrznego i Usług:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "z dekretu z dnia 2 sierpnia 1951 r. o targach i targowiskach (Dz. U. Nr 41, poz. 312): ustalanie planów sieci targowisk dla poszczególnych województw (art. 2 ust. 1 i 2);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "z ustawy z dnia 31 stycznia 1961 r. o broni, amunicji i materiałach wybuchowych (Dz. U. Nr 6, poz. 43): udzielanie przedsiębiorstwom uspołecznionym pozwoleń na handel bronią i amunicją do niej (art. 17 ust. 1);",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "z zakresu działania Ministra Spraw Wewnętrznych:"
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "z rozporządzenia z dnia 27 października 1932 r. — Prawo o stowarzyszeniach (Dz. U. z 1932 r. Nr 94, poz. 808, z 1946 r. Nr 4, poz. 30, z 1949 r. Nr 41, poz. 293 i Nr 45, poz. 335, z 1950 r. Nr 44, poz. 401, z 1964 r. Nr 41, poz. 276 i z 1972 r. Nr 49, poz. 317): nadzór nad wojewódzkimi oddziałami stowarzyszeń wyższej użyteczności (art. 52 i art. 54);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "z ustawy z dnia 13 kwietnia 1960 r. o ochronie przeciwpożarowej (Dz. U. z 1960 r. Nr 20, poz. 120, z 1971r. Nr 12, poz. 115 i z 1972 r. Nr 49, poz. 317): w wypadkach rażących zaniedbań w zabezpieczeniu przeciwpożarowym, stwarzających szczególne zagrożenie pożarowe — zarządzenie zamknięcia obiektu lub zakazanie użytkowania zakładu pracy albo poszczególnych urządzeń do czasu usunięcia przyczyn tego zagrożenia (art. 2 ust. 4);",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "z zakresu działania przedmiotowo właściwych ministrów:"
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "z ustawy z dnia 25 lutego 1958 r. o uregulowaniu stanu prawnego mienia pozostającego pod zarządem państwowym (Dz. U. z 1958 r. Nr 11, poz. 37 i z 1968 r. Nr 3, poz. 6):",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_11/lit_a",
+       "text": "wydawanie orzeczeń stwierdzających przejście przedsiębiorstwa na własność Państwa (art. 9 ust. 2),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_11/lit_b",
+       "text": "wydawanie orzeczeń o przejściu na rzecz Państwa innego mienia, którego władanie osoby uprawnione utraciły w okresie do dnia 31 grudnia 1954 r. i które pozostaje w faktycznym władaniu państwowych jednostek organizacyjnych (art. 17 pkt 2 lit. b),",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_11/lit_c",
+       "text": "ustalanie odszkodowania za ruchomości (art. 19 ust. 2);",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "z ustawy z dnia 12 marca 1958 r. o zasadach i trybie 12) wywłaszczania nieruchomości (Dz. U. z 1974 r. Nr 10, poz. 64): zatwierdzanie wniosku dotyczącego wywłaszczenia kompleksu nieruchomości o powierzchni ponad 10 ha na inne cele niż płanowa realizacja budownictwa ogólnomiejskiego i zorganizowanego budownictwa mieszkaniowego na obszarze miasta (art. 16 ust. 1);"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "z ustawy z dnia 31 stycznia 1961 r. o broni, amunicji i materiałach wybuchowych (Dz. U. Nr 6, poz. 43): wydawanie pozwoleń zakładom gospodarki uspołecznionej na nabywanie, przechowywanie i używanie materiałów wybuchowych do celów przemysłowych oraz eksploa- ' tacji rolnej i leśnej (art. 24 ust. 1 pkt 1);",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "z ustawy z dnia 27 kwietnia 1972 r. — Karta praw 14) i obowiązków nauczyciela (Dz. U. z 1972 r. Nr 16, poz. 114 i z 1973 r. Nr 12, poz. 89): przenoszenie — po zasięgnięciu opinii właściwego organu Związku Nauczycielstwa Polskiego — mianowanych nauczycieli szkół nie podporządkowanych radom narodowym (art. 89 ust. 3 i art. 106 ust. 3), jeżeli wydatki osobowe tych szkół pokrywane są z budżetów wojewódzkich rad narodowych."
+    },
+    {
+     "type": "text",
+     "text": "§2 W rozporządzeniach Rady Ministrów wprowadza się następujące zmiany:"
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny rolnictwa gospodarki oraz terenowej:"
+    },
+    {
+     "type": "text",
+     "text": "w rozporządzeniu Rady Ministrów z dnia 2 sierpnia 1) 1949 r. w sprawie przekazywania nieruchomości niezbędnych dla realizacji narodowych planów gospodarczych (Dz. U. z 1949 r. Nr 47, poz. 354 i z 1970 r. Nr 28, poz. 225) dotychczasową treść § 2 oznacza się jako ust. 1 i dodaje się nowe ust. 2 i 3 w brzmieniu:"
+    },
+    {
+     "type": "text",
+     "text": "„2. Wynikające z ust. 1 uprawnienia Ministra Rolnictwa należą do wojewody (prezydenta miasta wyłączonego z województwa) w odniesieniu do nieruchomości nie objętych przepisami § 1 rozporządzenia Rady Ministrów z dnia 22 listopada 1968 r. w sprawie przekazywania nieruchomości rolnych i niektórych innych nieruchomości położonych na terenie gromad pomiędzy jednostkami gospodarki uspołecznionej (Dz. U. z 1969 r. Nr 1, poz. 1), stanowiących własność organizacji spółdzielczych lub jednostek społecznych w rozumieniu tegoż rozporządzenia, a przekazywanych na rzecz jednostek państwowych; dotyczy to nieruchomości o łącznym obszarze nie przekraczającym 0,5 ha, nie użytkowanych rolniczo lub użytkowanych na cele produkcji rolnej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Wynikające z ust. 1 uprawnienia Ministra Gospodarki Terenowej i Ochrony Środowiska należą do wojewody w odniesieniu do nieruchomości nierolniczych na wsi stanowiących własność Państwa i przekazywanych na rzecz organizacji spółdzielczych.\";",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny rolnictwa:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "w rozporządzeniu Rady Ministrów z dnia 22 listopada 2) 1968 r. w sprawie przekazywania nieruchomości rolnych i niektórych innych nieruchomości położonych na terenie gromad pomiędzy jednostkami gospodarki uspołecznionej (Dz. U. z 1969 r. Nr 1, poz. 1), wydanym na podstawie ustawy z dnia 12 marca 1958 r. o zasadach i trybie wywłaszczania nieruchomości (Dz. U. z 1974 r. Nr 10, poz. 64) oraz art. 276 Kodeksu cywilnego — w §3:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) w pkt 1 lit. b wyrazy: „w pkt 3 lit. b” zastępuje się wyrazami: „w pkt 2 lit.c',",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) w pkt 2 lit. b skreśla się wyrazy: „do 20 ha” i wyrazy: „lit. b”,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) w pkt 2 dodaje się lit. c w brzmieniu: )",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "wt) na cele o specjalnym znaczeniu państwowym, z wyjątkiem nieruchomości określonych w pkt3',",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) pkt 3 otrzymuje brzmienie:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "„3) Minister Rolnictwa w stosunku do nieruchomości, które mają być przez przejmującego użytkowane na cele rolnicze i na cele nie związane bezpośrednio z produkcją rolniczą oraz na cele o specjalnym znaczeniu państwowym, jeżeli wchodzą w skład przedsiębiorstw gospodarki rolnej lub pomocniczych gospodarstw (zakładów rolnych) objętych planem centralnym.”;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny gospodarki terenowej i ochrony środowiska:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) w rozporządzeniu Rady Ministrów z dnia 13 czerwca 1956 r. w sprawie zakresu działania organów państwowej służby geodezyjnej i kartograficznej (Dz. U. Nr40, poz. 182), wydanym na podstawie dekretu z dnia 13 czerwca 1956 r. o państwowej służbie geodezyjnej i kartograficznej (Dz. U. Nr 25, poz. 115):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) w § 1 skreśla się w ust. 1 pkt 7 i dodaje się ustęp la w brzmieniu:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "„la. Nadzór nad wykonywaniem robót geodezyjnych przez osoby fizyczne i jednostki gospodarki uspołecznionej nie będące organami państwowej służby geodezyjnej i kartograficznej sprawują wojewodowie (prezydenci miast wyłączonych z wojewédztw).\",",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) w § 8 ust. 1 wyrazy: „Centralnym Urzędem\" zastępuje się wyrazami: „wojewodą (prezydentem miasta wyłączonego z województwa)”,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) w § 9 ust. 1 wyrazy: „Centralny Urząd” zastępuje się wyrazami: „wojewoda (prezydent miasta wyłączonego z województwa)”,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) w § 12 wyrazy: „I pkt 7\" zastępuje się wyrazami: nią\";",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny finansów:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) w rozporządzeniu Rady Ministrów z dnia 28 stycznia 1969 r. w sprawie zasad oraz trybu umarzania i udzielania ulg w spłacaniu należności państwowych (Dz. U. z 1969 r. Nr 4, poz. 26 i z 1971 r. Nr 29, poz. 267), wydanym na podstawie dekretu z dnia 16 maja 1956 r. o umarzaniu i udzielaniu ułg w spłacaniu należności państwowych (Dz. U. Nr 17,.poz. 92):",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "__ Poz. 131 Dziennik Ustaw Nr 22 — 237 —",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) w § 24 skreśla się pkt 3, a wyrazy: „właściwego naczelnego organu administracji państwowej” zastępuje się wyrazami: „wojewody (prezydenta miasta wyłączonego z województwa)”,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) po § 24 dodaje się § 24a w brzmieniu: „§ 24a. O umorzeniu należności przekraczającej kwotę 100.000 zł, odroczeniu terminu zapłaty i rozłożeniu na raty należności przekraczającej 250.000 zł lub na okres dłuższy niż lat 5 rozstrzygają wojewodowie (prezydenci miast wyłączonych z województw) — co do należności innych niż wymienione w § 24, jednostek objętych budżetem terenowym lub rozliczających się z tym budżetem.\",",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) w § 25 skreśla się ust. 2 oraz cyfrę ,,1\", oznaczającą ustęp tego paragrafu,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) § 26 ust. 1 otrzymuje brzmienie: „S 26. 1. W wypadkach gospodarczo uzasadnionych lub zasługujących na szczególne uwzględnienie naczelne organy administracji państwowej, a w odniesieniu do należności jednostek objętych budżetem terenowym lub rozliczających się z tym budżetem — wojewodowie (prezydenci miast wyłączonych z województw) — mogą umarzać należności nie przekraczające w stosunku do jednego dłużnika kwoty 500.000 zł mimo braku okoliczności określonych w § 3.\",",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) § 26 ust. 2 otrzymuje brzmienie: „2. Należności przekraczające w stosunku do jednego dłużnika kwotę 500.000 zł może umorzyć w wypadkach określonych w ust. I Minister Finansów na wniosek właściwego naczelnego organu administracji.państwowej, a w odniesieniu do należności jednostek objętych budżetem terenowym lub rozliczających się z tym budżetem — na wniosek wojewody (prezydenta miasta wyłączonego z województwa).\"”,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "f) w § 29 ust. 1 wyrazy: „Ministra Rolnictwa\" zastępuje się wyrazami: „wojewody (prezydenta miasta wyłączonego z województwa)”;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny oświaty i wychowania:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5) w rozporządzeniu Rady Ministrów z dnia 24 sierpnia 1973 r. w sprawie uposażenia pracowników ekonomicznych, administracyjnych i obsługowych szkół (Dz. U. Nr 36, poz. 214), wydanym na podstawie ustawy z dnia 4 lutego 1949 r. o uposażeniu pracowników państwowych (Dz. U. Nr 7, poz. 39): w § 2 ust. 3 wyrazy: „Ministra Oświaty i Wychowania\" zastępuje się wyrazami: „wojewody (prezydenta miasta wyłączonego z województwa)”.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Rozdział 2",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "SPRAWY PRZEKAZYWANE NACZELNIKOM POWIATÓW",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 3.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Do właściwości naczelników powiatów przechodzą następujące sprawy należące dotychczas do mini- „strów (kierowników urzędów centralnych):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z zakresu działania Ministra Finansów:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) z dekretu z dnia 16 maja 1946 r. o postępowaniu podatkowym (Dz. U. z 1963 r. Nr 11, poz. 60 oraz z 1972r. Nr 49, poz. 317 i Nr 53, poz. 338):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) odraczanie w poszczególnych sprawach na wniosek podatnika terminów przewidzianych w dekrecie o postępowaniu podatkowym oraz w innych przepisach podatkowych na okres nie przekraczający 1 roku (art. 64 ust. 4),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) przywracanie wszelkich zaniedbanych terminów w sprawach, w których naczelnik powiatu jest właściwy do wydania decyzji (art. 64 ust. 5 pkt 3),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) zwalnianie poszczególnych podatników od obowiązku prowadzenia Ksiąg handlowych (rach unkowych",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(aś. 101 ust. 5); a9 re { wych",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z zakresu działania Urzędu do Spraw Wyznań:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) z ustawy z dnia 20 marca 1950 r. o przejęciu przez Państwo dóbr martwej ręki, poręczeniu proboszczom posiadania gospodarstw rolnych i utworzeniu Funduszu Kościelnego (Dz. U. z 1950 r. Nr 9, poz. 87 i Nr 10, poz. 111 oraz z 1969 r. Nr 13, poz. 95):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) wyłączanie od przejęcia na własność Państwa miejsc przeznaczonych do wykonywania kultu religijnego, jak również budynków mieszkalnych stanowiących siedzibę klasztorów, kurii biskupich i arcybiskupich, konsystorzy i zarządów innych związków wyznaniowych — choćby budynki te lub miejsca stanowiły część nieruchomości, podlegających przejęciu na własność Państwa (art. 2 ust. 2),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) orzekanie o tym, czy nieruchomość ziemska posiada charakter nieruchomości związku wyznaniowego (art. 4 ust. 4),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) orzekanie o tym, czy nieruchomość stanowi gospodarstwo rolne proboszcza oraz o przejściu na własność Państwa nadwyżki gospodarstwa rolnego proboszcza (art. 4 ust. 5);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z zakresu działania Ministra Spraw Wewnętrznych:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) z rozporządzenia z dnia 27 października 1932 r. — Prawo o stowarzyszeniach (Dz. U. z 1932 r. Nr 94, poz. 808, z 1946 r. Nr'4, poz. 30, z 1949 r. Nr 41, poz. 293 i Nr 45, poz. 335, z 1950 r. Nr 44, poz. 401, z 1964 r. Nr 41, poz. 276 i z 1972 r. Nr 49, poz. 317): nadzór nad powiatowymi oddziałami stowarzyszeń wyższej użyteczności (art. 52 i art. 54).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Do właściwości naczelników powiatów przechodzą następujące sprawy należące dotychczas do wojewodów:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny spraw wewnętrznych:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) z rozporządzenia z dnia 27 października 1932 r. — Prawo o stowarzyszeniach (Dz. U. z 1932r. Nr 94, poz. 808, z 1946 r. Nr 4, poz. 30, z 1949 r. Nr 41, poz. 293 i Nr 45, poz. 335, z 1950 r. Nr 44, poz. 401, z 1964 r. Nr 41, poz. 276 i z 1972 r. Nr 49. poz. 317):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) podejmowanie decyzji w sprawach rejestracji stowarzyszeń (art. 19, 20 i 21), rozwiązywania (art. 24), likwidacji stowarzyszenia (art. 25 i 26), likwidacji majątku stowarzyszenia (art. 27, 38 ust. 2 i art. 39), zmian statutów (art. 28), ustanawiania kuratora (art. 30) oraz uszczuplenia majątku (art. 37), których zasięg działania nie przekracza obszaru powiatu,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) pozbawianie stowarzyszenia prawa korzystania z ofiarności publicznej lub zapomóg (art. 43 lit. c),",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "2) z ustawy z dnia 15 lutego 1962 r. o obywatelstwie polskim (Dz. U. Nr 10, poz. 49):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) wydawanie decyzji o przyjęciu oświadczenia w sprawie nabycia obywatelstwa polskiego przez osobę, dla której rodzice wybrali obywatelstwo obce (art. 6 ust. 3 w związku z art. 17 ust. 2 pkt 1),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "orzekanie w sprawach o uznanie za obywatela polb",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— skiego (art. 9 w związku z art. 17 ust. 1),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "wydawanie decyzji o przyjęciu oświadczenia w",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— c sprawie nabycia obywatelstwa polskiego przez cudzoziemkę, która zawarła związek małżeński z obywatelem polskim (art. 10 w związku z art. 17 ust. 2 pkt 1),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "wydawanie decyzji o przyjęciu oświadczenia w d) sprawie odzyskania obywatelstwa polskiego przez kobietę, która stosownie do prawa polskiego utraciła obywatelstwo polskie przez nabycie obywatelstwa obcego wskutek zawarcia małżeństwa z cudzoziemcem lub w związku z zawarciem takiego małżeństwa (art. 11 w związku z art. 17 ust. 2 pkt 1),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "wydawanie decyzji o przyjęciu oświadczenia w",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— e sprawie utraty obywatelstwa polskiego przez kobietę, która w myśl prawa obcego nabyła obywatelstwo obce wskutek zawarcia małżeństwa z cudzoziemcem lub w związku z zawarciem takiego małżeństwa albo która posiadając obywatelstwo obce nabyła obywatelstwo polskie wskutek zawarcia małżeństwa z obywatelem polskim lub w związku z zawarciem takiego małżeństwa, jeżeli następnie małżeństwo ustało lub zostało unieważnione (art. 14 w związku z art. 17 ust. 2 pkt 1);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny gospodarki terenowej i ochrony środowiska:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) z ustawy z dnia 12 marca 1958 r. o zasadach i trybie wywłaszczania nieruchomości (Dz, U, z 1974 r. Nr 10, poz. 64):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) zgłaszanie wniosków o ujawnienie prawa własności nieruchomości zamiennych w księgach wieczystych (art. 51 ust. 2),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) wydawanie decyzji o rozliczeniu w wypadkach, gdy osobom uprawnionym do otrzymania nieruchomości zamiennej nadana została nieruchomość w trybie i na zasadach określonych w przepisach o przeprowadzeniu reformy rolnej i o osadnictwie rolnym (art. 51 ust. 3);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) z ustawy z dnia 31 stycznia 1959 r. o cmentarzach i chowaniu zmarłych (Dz. U. z 1972 r. Nr 47, poz. 298):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) wyrażanie zgody na założenie lub rozszerzenie cmentarza wyznaniowego przez związek wyznaniowy (art. 1 ust. 3) oraz wydawanie decyzji o zamknięciu cmentarza (art. 1 ust. 4) — po zasięgnięciu opinii powiatowego (miejskiego) inspektora sanitarnego,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "= ustalanie wysokości opłat za korzystanie z cmentarzy i urządzeń cmentarnych w odniesieniu do cmentarzy wyznaniowych (art. 2 ust. 3); nie dotyczy to dzielnic w miastach wyłączonych z województw,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) wydawanie decyzji o przeznaczeniu terenu cmentarnego na inny cel zgodny z planem zagospodarowania przestrzennego (art. 6 ust. 1);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny rolnictwa:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5) z rozporządzenia z dnia 22 sierpnia 1927 r. o zwalczaniu zaraźliwych chorób zwierzęcych (Dz. U. z 1927 r. Nr 77, poz. 673 i Nr 114, poz. 975, z 1928 r. Nr*26, poz. 229, z 1932 r. Nr 26, poz. 229, Nr 60, poz. 573 i Nr 67, poz. 622, z 1934 r. Nr 110, poz. 976, z 1938 r. Nr 27, poz. 245, z 1948 r. Nr 49, poz. 373, z 1951 r. Nr 1, poz. 4 i z 1972 r. Nr 49, poz. 317):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) zarządzanie zabicia zwierząt chorych i podejrzanych o pryszczycę w celu stłumienia zarazy (art. 40 ust. 1), określanie i ogłaszanie pewnych obszarów za. b",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— okręgi zapowietrzone i zagrożone pryszczycą oraz - \"zarządzanie w takich okręgach zakazów lub ograniczeń obrotu zwierzętami, surowcami zwierzęcymi i przedmiotami mogącymi roznosić zarazę (art. 41),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— zarządzanie zabicia zwierząt podejrzanych o nosac ciznę w celu szybkiego stłumienia zarazy (art. 52 ust. 3),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— zarządzanie szczepienia wszystkich owiec zagrożonych zarazą w razie szerzenia się zarazy lub niebezpieczeństwa jej rozniesienia (art. 56 ust. 2),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— zarządzanie oznakowania koni dotkniętych 'zarazą stadniczą oraz wytrzebienia ogierów, u których urzędowo stwierdzono zarazę stadniczą (art. 60),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "f) zarządzanie zabicia świń dotkniętych pomorem lub zarazą oraz podejrzanych w celu stłumienia zarazy (art. 72), i",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— zarządzanie zabicia drobiu dotkniętego zarazą oraz g podejrzanego w celu stłumienia zarazy (art. 74);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "6",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— z ustawy z dnia 22 maja 1958 r. o gospodarowaniu terenami torfowymi (Dz. U. z 1958 r. Nr 31, poz. 137. i z 1972 r. Nr 49, poz. 317): wydawanie zezwoleń na eksploatację złóż torfowych na powierzchni przekraczającej 20 ha (art. 3 ust. 2); :",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny oświaty i wychowania:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "F) z ustawy z dnia 27 kwietnia 1972 r. — Karta praw i obowiązków nauczyciela (Dz. U. z 1972 r. Nr 16, poz. 114 i z 1973 r. Nr 12, poz. 89): przenoszenie w granicach powiatu — po zasięgnięciu opinii właściwego organu Związku Nauczycielstwa Polskiego — mianowanych nauczycieli szkół podporządkowanych radom narodowym (art. 89 ust. 3 i art. 106 ust. 3), jeżeli wy= datki osobowe tych szkół są pokrywane z budżetu powiatowej rady narodowej;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny spraw wyznaniowych:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "8) z dekretu z dnia 24 kwietnia 1952r. o zniesieniu fundacji (Dz. U. z 1952 r. Nr 25, poz. 172 i z 1957 r. Nr 1, poz. 3):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) obejmowanié majątków fundacji podlegających przejęciu na rzecz Państwa (art. 7),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) określanie mienia ruchomego i nieruchomego należącego do poszczególnych fundacji, a podlegającego przejęciu na własność Państwa (art. 8)",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— w odniesieniu do fundacji, których majątki służyły lub miały służyć celom kultu religijnego oraz innym celom związanym z działalnością kościołów, związków wyznaniowych, zakonów i organizacji religijnych.",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "r. ak Poz. 131 Dziennik Ustaw Nr 22 —",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3, Do właściwości prezydentów lub'naczelników miast stanowiących pówiaty, naczelników miast i powiatów oraz naczelników dzielnic w miastach wyłączonych z województw przechodzą następujące sprawy należące dotych- \"czas do wojewodów i prezydentów miast- wyłączonych z. województw, jako organów nadzoru nad urzędami stanu cywilnego:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) z dekretu z dnia 8 czerwca 1955 r. — Prawo o aktach stanu cywilnego (Dz. U. z 1955 r. Nr 25, poz. 151, z 1956 r. Nr 41, poz. 189, z 1958 r. Nr.72, poz. 358, z 1962r. Nr 10, poz. 46, z 1964 r. Nr 9, poz. 60 i Nr 43, poz. 297, z 1971 r. Nr 12, poz. 115 oraz z 1972 r. Nr 49, poz. 317):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) wydawanie zarządzeń w sprawie wynoszenia ksiąg stanu cywilnego poza lokal urzędu stanu cywilnego (art: 10 ust. 1), . b). wydawanie -zarządzeń o 'skreśleniu w akcie stanu \"cywilnego części wpisu, tors nie ‘powinna być wpi-, sana (art. 14 ust. 2,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) udzielanie zgody na odtworżenie całości lub części księgi stanu cywilnego (art. 21 ust. 4),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) wydawanie decyzji o unieważnieniu jednego z dwóch aktów stanu cywilnego stwierdzających to samo zdarzenie (art. 27 ust. 1),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) wydawanie. zezwoleń na uzupełnienie aktu stanucywi!nego fart. 27 ust. 2), '",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "f) wydawanie decyzji o sprostowaniu oczywistego błędu pisarskiego w sporządzonym akcie stanu cywilnego (art. 28),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "g) - wydawanie zezwoleń na zawarcie małżeństwa w ' urzędzie stanu cywilnego, w którego okręgu żaden \"z przyszłych małżónków nie ma miejsca zamieszkania (art. 44),.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "h) wydawanie zarządzeń o.sporządzeniu aktu stanu „cywilnego, jeżeli fakt urodzenia, małżeństwa lub zgonu nastąpił za granicą i nie został zarejestrowany w: zagranicznych księgach stanu cywilnego ve (art. 59 ust. 1), '",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "i) wydawanie zezwoleń na wpisanie: do ksiąg stanu cywilnego aktu. stanu cywilnego sporządzonego za granicą (art. 63 ust. 1),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "j) wydawanie zezwoleń na wpisanie wzmianki: dodatkowej lub dokonanie przypisku w akcie stanu cywilnego na podstawie dokumentu pochodzącego od władzy obcej fart. 63 ust. 3),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "k) udzielanie zezwoleń na wydanie odpisu zupełnego - aktu stanu cywilnego (art. 71 ust. f'zdanie ostatnie),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) wydawanie zezwoleń na przeglądanie ksiąg stanu cywilnego przedstawicielom organizacji spożecznych i instytucji naukowych (art. 77);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) z ustawy.z-dnia 25 lutego 1964 r. — Kodeks rodzinny . i opiekuńczy (Dz. U. z 1964 r. Nr 9, poz. 59 i z 1972r, Nr 49, poz. 317): ;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) wydawanie zezwoleń na zawarcie małżeństwa przed kierownikiem stanu cywiłnego innego urżędu (art. 2), , - b) wydawanie zezwoleń na zawarcie małżeństwa przed upływem miesięcznego terminu od otrzymania zapewnienia o braku okoliczności wylaczajacych, zawarcie tego małżeństwa (art. 4)...",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4, W razie wykonywania czynności kierownika urżę- LJ",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "du stanu cywilnego bezpośrednio przez prezydentów lub \"naczelników miast. stanowiących: powiaty, naczelników miast i powiatów oraz naczelników dzielnie w miastach wyłączońych 2 województw — czynności te wykonują oni we własnym zakresie bez wymaganych aktów. nadzoru, o których mowa w ust. 3 pkt I i 2; nie dotyczy, to zezwoleń określonych w ust. 3 pkt 1 lit. g) i w pkt 2 lit. a).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5. Do właściwości prezydentów lub naczelników miast stanowiących powiaty, naczelników miast i powiatów oraz naczelników dzielnic w miastach wyłączonych z województw przechodzą należące dotychczas do właściwości wojewodów i prezydentów miast wyłączonych z województw, jako organów nadzoru nad urzędami stanu cywilnego, uprawnienia do wystawiania żaświadczeń o zdolności prawnej obywatela polskiego do dokonania czynności stanowiącej podstawę sporządzenia aktu stanu cywilnego za granicą (art. 60 ust. 2 dekretu wymienionego w pkt 1). §4. Ww rozporządzeniach Rady Ministrów wprowadza się następujące zmiany: LR",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny geologii: , a",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) w rozporządzeniu Rady Ministrów z dnia 9 stycznia 1963 r. w sprawie wstępu i czasowego zajmowania nieruchomości dla przeprowadzenia badań geológicznych (Dz. U. Nr 1, poz. 3) wydanym na podstawie ustawy z dnia 16 listopada 1960 r. o prawie geologicznym > (Dz. U. Nr 52, poz. 303) preepis § 1 otrsymuje brzmię- — nie: „8 1. Decyzję o prawie wstępu na nieruchomości oraz decyzję o czasowym zajęciu nieruchomości dla przeprowadzenia badań geologicznych wydaje na wniosek przedsiębiorstwa geologicznego tere- \"nowy organ administracji państwowej stopnia powiatowego. Decyzję w odniesieniu do nieruchomości położonych na terenie portów mor: — \"skich i pasa nadbrzeżnego wydaje się» w porozumieniu z właściwym urzędem morskim.\";",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny zdrowia i-opieki społecznej:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) w rozporządzeniu Rady Ministrów z dnia 12-sierpnia 1968 r. w sprawie ustroju, zakresu działania komisji lekarskich do spraw inwalidztwa i zatrudnienia, trybu odwoławczego oraz nadzoru nad działalnością tych komisji (Dz. U. Nr 31, poz. 206), wydanym na podstawia ustawy z dnia 23 stycznia 1968 r. o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. z 1968 r. Nr 3, poz. 6 oraz z 1972 r. Nr 16, poz. 114 i Nr 53, poz. 342), przepis § 13 ust. 1 o trzy-\" muje brzmienie: wl. Organ administracji RAE stopnia powiało- \" wego właściwy ze względu na siedzibę komisji lekarskiej zapewnia personel lekarski o wymaganych kwalifikacjach, niezbędny do funkcjonowania komisji i — w miarę petrzeby — średni personel medyczny: \"';",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny gospodarki terenowej i ochrony środowiska:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) w rozporządzeniu Rady. Ministrów z dnia 26 lipca \" 1962 r. w sprawie pokrywania kosztów pierwszego urządzenia ulic i placów komunalnych (Dz. U. z-1969 r. Nr 5, poz. 41 iz 1973 r. Nr 35, poz: 208), wydanym na — podstawie ustawy z dnia 14 lipca 1961 r. o gospodarce terenami .w miastach i osiedłach (Dz, U. z 1969 r. Nr 22, poz. 159 i z-1972 r. Nr 27, poz. 193):",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "a) w § 4 ust. 1 wyrazy: „Organy właściwe w sprawach gospodarki terenami prezydiów miejskich rad narodowych w porozumieniu z organami właściwy- \"mi w sprawach rolnictwa prezydiów powiatowych rad narodowych” zastępuje się wyrazami: „Prezydenci lub naczelnicy miast stanowiących powiaty, naczelnicy miast i. powiatów, (naczelnicy dzielnic w * miastach wyłączonych z województw, naczelnicy miast nie stanowiących powiatów”, . — w § 4 ust. 3, w § 7,w § 8 ust. 1, 214 oraz w § 12 b) ust. 4 wyrazy: „organ właściwy w sprawach gospodarki terenami prezydium miejskiej rady narodowej' zastępuje się wyrazami: „prezydent lub naczelnik miasta stanowiącego powiat, naczelnik miasta i powiatu, naczelnik dzielnicy Ww mieście wyłączonym z województwa, naczelnik miasta nie stanowiącego powiatu\".",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Rozdział 3",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "SPRAWY PRZEKAZYWANE NACZELNIKOM GMIN",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "45. 1. Do właściwości naczelników gmin przechodzą następujące sprawy należące dotychczas do Ministra Finansów: z dekretu z dnia 16 maja 1946 r. 0 postępówańii podatkowym (Dz, U. z 1963 r. Nr 11, poz. 60 oraz z 1972r. Nr 49, poz. 317 i Nr 53, poz. 338): przywracanie wszelkich zaniedbanych terminów w sprawach, w których naczelnik gminy jest właściwy do wydania decyzji: (art. 64 ust. 5 pkt 3).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Do właściwości naczelników gmin przechodzą następujące sprawy należące dotychczas do naczelników powiatów:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny rolnictwa i leśnictwa:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) z dekretu z dnia 13 września 1946 r. o rozgraniczeniu nieruchomości (Dz. U. Nr 53, poz. 298): załatwianie spraw dotyczących rozgraniczenia nieruchomości (art. 4 ust. 1 i 2, art. 5, art. 7 ust. 3, art, 8 ust. 1, art. 10 ust. 2, art. 14 ust. 1, art. 17 i art. 21 ust. 2); z dekretu z dnia 21 września 1950 r. o rozgraniczeniu =",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— nieruchomości Skarbu Państwa lub nieruchomości nabywanych dla realizacji narodowych planów gospodarczych (Dz. U. Nr 44, poz. 398): załatwianie spraw dotyczących rozgraniczenia nieruchomości (art. 4 ust. 1, art. 7 ust. 2 i art. 8 ust. 2);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "= z dekretu z dnia 2 lutego 1955 r. o ewidencji gruntów i budynków (Dz. U. Nr 6, poz. 32): poważnie ewidencji gruntów i budynków (art. 9); 4) z ustawy z dnia 13 lipca 1957 r. o zmianie dekretu z dnia 18 kwietnia 1955 r. o uwłaszczeniu i o uregulowaniu innych spraw związanych z reformą relną i osadnictwem rolnym (Dz. U. z 1957 r. Nr 39, poz. 174 i z 1961 r. Nr 32, poz. 161): orzekanie o przejmowaniu na własność Państwa opuszczonego gospodarstwa rolnego lub działki oraz o utrzymaniu ciążących na tym gospodarstwie lub działce służebności gruntowych (art. 2 ust. 2); z ustawy z dnia 31 stycznia 1961 r. o terenach budowlanych na obszarach wsi (Dz. U. z 1969 r. Nr 27, poz. 216 i z 1972 r. Nr 49, poz. 312): wydawanie decyzji o przejęciu na własność Państwa działek w przypadku nierozpoczęcia budowy w ciągu trzech lat od ich nabycia (art. 15 ust. 2);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Poz, 131",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z-ustawy z dnia 16 lutego 1961 r. o ochronie roślin uprawnych przed chorobami, szkodnikami i chwastami (Dz. U. Nr 10, poz. 55): przyznawanie zasiłku właścicielom bądź użytkownikom roślin lub gruntów, którzy przyczynili się do opanowania chorób lub wytępienia szkodników i chwastów, ponosząc przy tym straty go- -'spodarcze (art. 9);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "?",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— z ustawy z dnia 24 stycznia 1968 r. o rentach i innych „świadczeniach dla rolników przekazujących nieruchomości rolne na własność Państwa (Dz. U. z 1968 r. Nr 3, poz. 15, z 1972 r. Nr 49, poz. 317 i z 1973 r. Nr 48, poz. 283): wydawanie decyzji o przejęciu nieruchomości na własność Państwa i utrzymaniu na niej służebności gruntowych (art. 18);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "? z dziedziny spraw wewnętrznych:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "8) z dekretu z dnia 8 czerwca 1955 r, — Prawo o aktach stanu cywilnego (Dz. U. z 1955 r, Nr 25, poz. 151, z 1956 r. Nr 41, poz. 189, z 1958 r. Nr 72, poz. 358, z 1962 r. Nr 10, poz. 46, z 1964 r. Nr 9, poz..60 i Nr 43, poz. 297, z 1971 r. Nr.12, poz. 115 oraz z 1972 r. Nr 49, poz. 317):",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) wydawanie zarządzeń w sprawie wynoszenia ksiąg stanu cywilnego poza lokal urzędu stanu cywilnego (art. 10), wydawanie zarządzeń w sprawie skreślenia w akcie b",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— stanu cywilnego części wpisu, która nie powinna być wpisana (art. 14 ust. 2),",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) wydawanie zezwoleń na przeglądanie ksiąg stanu cywilnego przedstawicielom organizacji społecznych i instytucji naukowych (art. 77).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "W. rażie wykonywania czynności kierownika urzędu stanu cywilnego przez naczelników gmin — czynności te wykonują oni we własnym zakresie bez wymaga< nych aktów nadzoru;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z dziedziny handlu, przemysłu i usług:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "9) z ustawy z dnia 14 kwietnia 1967 r. o godzinach otwarcia placówek handlu detalicznego, zakładów gastrono- / micznych i zakładów usługowych dla ludności .oraz o rozkładzie czasu pracy pracowników w nich zatrud- — nionych (Dz. U. z 1967 r. Nr 13, poz. 56 i z 1972 r. Nr 49, poz. 317): ustalanie godzin otwierania i zamykania w dni powszednie placówek handlu detalicznego, zakładów gastronomicznych i zakładów usługowych innych niż określone w art. 2 ust, 1 (art. 2 ust. 2 pkt 1);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "z ustawy z dnia 8 czerwca 1972 r. o wykonywaniu 10) i organizacji rzemiosła (Dz. U. Nr 23, poz. 164): wyrażanie zgody na wykonywanie rzemiosła na rachunek spadkobierców w wypadku, gdy działalność ma być wykonywana na podstawie potwierdzenia zgłoszenia . (art. 19 ust. 4 w związku z art. 20 ust. 2);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "dziedziny kultury, kultury fizycznej łturystyki: 1 z ustawy z dnia 9 kwietnia 1968 r. o zezwoleniach na publiczną: działalność artystyczną, rozrywkową i sportową (Dz. U. z 1968 r. Nr 12, poz. 64 i z 1972 r. Nr 49, poz. 317): wydawanie zezwoleń na prowadzenie . publicznej działalności sportowej” na obszarze gminy (art. 9). : aj 86 W rozporządzeniach Rady Ministrów wprowadza ~ się następujące zmiany:",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Na stronie 7 PDF jest obraz (np. wzór, rysunek, skan). Jego treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "·t.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": ", ! '",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": ". • J ;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": ". <",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": ". .'",
+     "quoted": true
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

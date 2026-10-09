@@ -1,0 +1,65 @@
+{
+ "eli": "DU/1976/76",
+ "title": "Rozporządzenie Rady Ministrów z dnia 24 marca 1976 r. zmieniające rozporządzenie w sprawie opłaty skarbowej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1976/76/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 marca 1976 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie opłaty skarbowej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 ust. 1 ustawy z dnia 19 grudnia 1975 r. o opłacie skarbowej (Dz. U. Nr 45, poz. 226) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W § 28 rozporządzenia Rady Ministrów z dnia 29 grudnia 1975 r. w sprawie opłaty skarbowej (Dz. U. Nr 46, poz. 241) ust. 3 otrzymuje brzmienie; „3. Opłata skarbowa za pozwolenie na budowę stałego ogrodzenia związanego z obiektem:",
+   "children": [
+    {
+     "type": "text",
+     "text": "1) wykonanego z siatki metalowej na ramach stalowych lub bez takich ram z zastosowaniem słupków stalowych, z tworzyw szticznych, a także. wykonanego z innych materiałów jako ażurowe, z wyłączę- * niem ogrodzeń wykonanych w obróbce kowalskiej : kształtowników metalowych, wy-). oraz z prętów i Tost bóg ee \"m je JA” RAAK A 200 zł;",
+     "quoted": true
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "innego ogrodzenia — od każdego metra bieżącego długości — wykońanego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "jako pełne lub z prętów, kształtowników bądź blach metalowych wynosi. . . . « . 200 zł;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w obróbce kowalskiej wynosi . . . 300 zł”. § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów: w z. M. Jagielski .",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

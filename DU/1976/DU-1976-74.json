@@ -1,0 +1,627 @@
+{
+ "eli": "DU/1976/74",
+ "title": "Rozporządzenie Rady Ministrów z dnia 19 marca 1976 r. w sprawie wykonania przepisów dekretu o ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych oraz ich rodzin.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1976/74/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 marca 1976 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykonania przepisów dekretu o ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych Rz . i spółdzielni kółek rolniczych oraz ich rodzin. ;"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 ust. 1 i ust. 2 pkt 1 dekretu z dnia 4 marca 1976 r. o ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych oraz ich rodzin (Dz. U. Nr 10, poz. 54) zarządza się, co następuje: § 1. Rozporządzenie określa: I) szczegółowe zasady ustalania okresów pracy w spółdzielni wymaganych do uzyskania świadczeń,"
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "zasady ustalania podstawy wymiaru świadczeń z ubezpieczenia oraz szczegółowe zasady obliczania i wypłacania tych świadczeń,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "zasady stosowania przepisów o zawieszaniu lub zmniejszaniu emerytur i rent w razie osiągania dochodów z tytułu pracy w spółdzielni,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "wypadki, w których mimo wycofania gruntów ze spółdzielni nie następuje utrata prawa do emerytury,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "zasady ustalania podstawy wymiaru składek na ubezpieczenie społeczne, wysokość i tryb opłacania składek oraz warunki zwalniania od ich opłacania,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "zasady ubezpieczenia członków spółdzielni, którzy nie wykonując pracy w spółdzielni wytwarzają na jej rzecz produkty rolne w prowadzonych przez siebie gospodarstwach rolnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Użyte w rozporządzeniu określenia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "dekret — oznacza dekret z dnia 4 marca 1976 r. o ubezpieczeniu społecznym członków. rolniczych spół: dzielni produkcyjnych i spółdzielni kółek WPRICHCA oraz ich rodzin (Dz. U. Nr 10, poz. 54), / j",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "spółdzielnia — oznacza \"rolniczą \"spółdzielnię produkcyjną óraz inną spółdziełnię. zrzeszoną w. Centralnym Związku Rolniczych Spółdzielni Produkcyjnych, a także spółdzielnię kółek rolniczych,",
+     "children": [
+      {
+       "type": "text",
+       "text": "A"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "ubezpieczony — oznacza członka spółdzielni oraz osoby pracujące w spółdzielniach i wynagradzane według zasad obowiązujących członków spółdzielni,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "praca w spółdzielni — oznacza pracę w rolniczej spółdzielni produkcyjnej oraz w innej spółdzielni zrzeszonej w Centralnym Związku Rolniczych Spółdzielni Produkcyjnych, a także pracę w zespołowym gospodarstwie rolnym spółdzielni kółek rolniczych, wykonywaną na innej podstawie niż stosunek pracy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "świadczenie — oznacza świadczenie z ubezpieczenia społecznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przy ustalaniu okresu pracy w spółdzielni wymaganego do uzyskania świadczeń:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "w razie przepracowania w ciągu roku obrachunkowego mniejszej liczby dni niż określona w art. 4 pkt 3 dekretu okres pracy ustala się w miesiącach i dniach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "w razie przepracowania w ciągu roku obrachunkowego większej liczby dni pracy niż określona w art. 4 pkt 3 dekretu do okresu pracy zalicza się jeden cały rok pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Podstawę wymiaru świadczeń stanowi przeciętny miesięczny dochód uzyskany z tytułu pracy w spółdzielni, z tym że przy ustalaniu wysokości zasiłków chorobowego i opiekuńczego nie \"uwzględnia się dodatków z tytułu stażu pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Przeciętny miesięczny dochód, o którym mowa w ust. 1, ustala się dzieląc dochód osiągnięty przez członka \"spółdzielni w roku obrachunkowym przez 12 lub przez mniejszą liczbę miesięcy pozostałą.po wyłączeniu miesięcy, w których ubezpieczony nie wykonywał pracy w spółdzielni wskutek:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "choroby,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Pon JĄĆ Dziennik Ustaw Nr 13 ZA 138s."
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "pobierania zasiłków z ubezpieczenia w razie choroby i macierzyństwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "odbywania czynnej służby wojskowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Jeżeli ubezpieczony podjął pracę w: spółdzielni w ciągu roku obrachunkowego lub w ciągu tego roku zaprzestał wykonywania pracy w spółdzielni, podstawę wymiaru świadczeń ustala się dzieląc dochód osiągnięty w roku obrachunkowym przez liczbę miesięcy, w których ubezpieczony faktycznie wykonywał pracę w spółdzielni,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przeciętny miesięczny dochód stanowiący pod- 'stawę wymiaru świadczeń ustala się na podstawie dochodu uzyskariego przez ubezpieczonego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "w, roku obrachunkowym poprzedzającym rok, w którym powstało prawo do świadczeń — w zakresie zasiłków chorobowych, macierzyńskich, opiekuńczych i pogrzebowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "w roku obrachunkowym poprzedzającym rok, w którym powstało prawo do świadczeń, lub kolejnych 2 latach. obrachunkowych dowolnie wybranych z okresu ostatnich 12 lat pracy w spółdzielni — w zakresie emerytur lub rent.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Jeżeli członek spółdzielni przystąpił do niej w roku obrachunkowym poprzedzającym rok, w którym powstało prawo do świadczeń, i wskutek tego nie przepracował całego roku pracy, za podstawę wymiaru świadczeń przyj-- muje się przeciętny miesięczny dochód: przypadający w spółdzielni na jednego ubezpieczonego w poprzednim roku _ obrachunkowym,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Jeżeli ubezpieczony łączył pracę w spółdzielni z pracą na działce przyzagrodowej lub w prowadzonym przez siebie gospodarstwie rolnym, wytwarzając na rzecz tej.spółdzielni produkty rolne, do podstawy wymiaru emerytury lub renty ustalonej w myśl § 4 i 5 dolicza się równowartość pracy wykonanej przy wytworzeniu produktów dostarczonych spółdzielni. _ 2. Doliczeniu w myśl ust. 1 podlega kwota przeciętnego miesięcznego dochodu za pracę wykonaną przy wytworzeniu produktów rolnych dostarczonych spółdzielni, ustalona zgodnie z normami określonymi przez Ministra Rolnictwa po porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych. Przeciętny miesięczny dochód oblicza się z ostatnich 5 lat przed zgłoszeniem wniosku o emeryturę lub rentę albo przed TADEPESŁENIEM pracy w spół- \"dzielni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Doliczeniu podlega dochód w granicach nie przekraczających przeciętnego miesięcznego : dochodu przypadającego w tej spółdzielni na jej stale pracującego członka w roku obrachunkowym poprzedzającym rok, w którym ustala się emeryturę lub rentę.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 37. 1. Przy ustałaniu wysokości zasiłków w razie choroby i macierzyństwa kwotę zasiłku miesięcznego stanowi — z zastrzeżeniem ust. 2 — kwota 100% podstawy wymiaru ustalona w myśl § 4i 5."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Jeżeli ubezpieczony nie jest uprawniony do zasiłku chorobowego w wysokości 100%o podstawy wymiaru — zasiłek miesięczny stanowi 80% lub 75%/9 podstawy wymiaru ustalonej w myśl § 4i 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Wysokość zasiłku dziennego stanowi 1/30 część zasiłku miesięcznego ustalonego w sposób oC ONY w ust. 1 lub 2. §8. 1. Przy ustalaniu wysokości zasiłku. ae stosuje się następujące zasady: i",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "użytkowanie działki ASRS oe w rozmiarze określonym statutem spółdzielni nie wyłącza prawa do zasiłku rodzinnego w wysokości podwyższonej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "przy ustalaniu przeciętnego miesięcznego dochodu przypadającego na. członka rodziny ubezpieczonego uwzględnia się dochód z tytułu pracy w spółdzielni i dochód za dostarczone spółdzielni produkty rolne oraz inne dochody ubezpieczonego i członków jego rodziny określone w przepisach o ubezpieczeniu rodzin- . . nym, osiągnięte w poprzednim roku obrachunkowym,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Zasiłek rodzinny nie przysługuje w wypadkach * 34 określonych przepisami o ubezpieczeniu rodzinnym. ~",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Zasiłku rodzinnego nie wypłaca się za miesiąc, w którym zgodnie z /przepisami o ubezpieczeniu rodzinnym . następuje utrata prawa do zasiłku. ;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Przy stosowaniu przepisów o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin, dotyczących zawieszania lub zmniejszania emerytur i rent w razie osiągania zarobków z tytułu pracy lub dochodów z innych źródeł:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_9/pkt_1",
+     "text": "dochody z tytułu pracy w spółdzielni, nie przekraczające 24.000 zł w roku kalendarzowym, nie powódują zawieszenia prawa do emerytury lub renty ani zmniejszenia tych świadczeń, .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_9/pkt_2",
+     "text": "wynagrodzenia za użytkowanie przez spółdzielnię wkładów członkowskich nie uważa się za dochód powodujący zawieszenie lub zmniejszenie siamo lub renty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Osoba, która uzyskała emeryturę wskutek zali= czenia okresu pracy w gospodarstwie rolnym ha podstawie art. 17 dekretu, nie traci do niej prawa pomimo wycofania gruntów ze spółdzielni, jeżeli:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "wycofane grunty nie przekraczają obszaru 0,5 ha,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "grunty zostały wywłaszczone, -",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_10/pkt_3",
+     "text": "spółdzielnia * uległa likwidacji, a zwrócone grunty przekazane zostały na własność Państwa lub innej jednostki gospodarki uspołecznionej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Składki na ubezpieczenie spółdzielhie opłacają w wysokości 10°/o kwoty stanowiącej podstawę wymiaru składki, jeżeli przeciętny „dochód przypadający na rodzinę członka spółdzielni, prowadzącą wspólne gospodarstwo domowe, wynosi ponad 5.000 zł miesięcznie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Jeżeli dochód, o którym mowa w ust. 1, nie prze- _ kraczą 5.000 zł, składka na ubezpieczenie wynosi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "40/0 podstawy wymiaru — jeżeli dochód ten nie przekracza 3.600 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "6°/o podstawy wymiaru — jeżeli dochód ten wynosi ponad 3.000 zł do 4.000 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "8%% podstawy wymiaru — jeżeli dochód ten wynosi - ponad 4.000 zł do 5.000 zł. § 12. 1. Podstawę wymiaru składki stanowią kwoty wypłacone ubezpieczonym w. roku obrachunkowym - z zi ‘tulu pracy w spółdzielni.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Do podstawy wymiaru składek dolicza się także kwoty, które zgodnie z § 6 wliczane są do podstawy wymiaru emerytury lub renty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Spółdzielnie opłacają składki na ubezpieczenie w miesięcznych ratach stanowiących 1/12 część składki rocznej, zaliczając na poczet tych składek wypłacone w danym miesiącu zasiłki chorobowe, macierzyńskie, porodowe, opiekuńcze i rodzinne oraz zasiłki pogrzebowe z tytułu śmierci ubezpieczonego lub członka jego rodziny. § 14. Od 6płacania składki są zwolnione spółdzielnie nowo zorganizowane w okresie pierwszych dwóch lat dzia-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "łalności. Za pierwszy rok działalności spółdzielni uważa . się rok kalendarzowy, za który spółdzielnia dokonała pierwszego podziału dochodu."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Ubezpieczeniem na podstawie dekretu objęci są „. również członkowie spółdzielni, którzy nie wykonują pracy w spółdzielni, lecz wytwarzają na jej rzecz produkty rołne w prowadzonych przez siebie gospodarstwach, jeżeli zawarli ze spółdzielnią umowę dotyczącą dostarczania jej tych produktów, a liczba dni pracy niezbędna do ich wytworzenia w ciągu roku obrachunkowego wynosi co najmniej 240 dni pracy dla mężczyzny i 150 dni pracy dla kobiety.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Z tytułu ubezpieczenia na podstawie § 15 przy- \"sługują:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "świadczenia lecznicze i położnicze, zaopatrzenie w leki, przedmioty ortopedyczne i środki pomocnicze,",
+     "children": [
+      {
+       "type": "text",
+       "text": "'2) zasiłek porodowy,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_16/pkt_3",
+     "text": "zasiłek-rodzinny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_16/pkt_4",
+     "text": "świadczenia emerytalne: emerytura, renta inwalidzka i renta rodzinna,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_16/pkt_5",
+     "text": "świadczenia z tytułu wypadku przy pracy wykonywanej przez ubezpieczonego na rzecz spółdzielni w prowadzonym przez niego gospodarstwie rolnym lub z tytułu choroby zawodowej: renta inwalidzka i renta rodzinna,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_16/pkt_6",
+     "text": "dodatki do emerytury i renty,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_16/pkt_7",
+     "text": "zasiłek pogrzebowy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_16/pkt_8",
+     "text": "świadczenia w naturze z tytułu pobierania emerytury „lub renty: świadczenia lecznicze i położnicze, zaopatrzenie w leki, przedmioty ortopedyczne, środki opatrunkowe i pomocnicze, przysposobienie. zawodowe oraz prawo do pobytu'w domu rencisty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Świadczenia wymienione w § 16 przysługują na warunkach i w wysokości określonych dekretem, z tym z mj że przy ustalaniu okresu pracy wymaganego do przyznania świadczeń: *",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_1/pkt_1",
+       "text": "okresy pracy, o której mowa w § 15, poczynając od dnia wejścia w życie rozporządzenia — traktuje się na równi z okresami pracy w spółdzielni,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_1/pkt_2",
+       "text": "okresy pracy w prowadzonym przez ubezpieczonego gospodarstwie rolnym przy wytwarzaniu produktów rolnych na rzecz spółdzielni przed dniem wejścia w życie rozporządzenia — traktuje się na równi z okresami zaliczanymi do okresu pracy w spółdzielni (art. 16 de-, krętu).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Członkowie. spółdzielni objęci ubezpieczeniem na podstawie § 15 mają prawo do zasiłku rodzinnego lub renty inwalidzkiej z tytułu wypadku przy pracy w pierwszym roku ubezpieczenia, chociażby nie spełnili warunku posiadania okresu pracy wymaganego do przyznania świadczeń,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Podstawę wymiaru emerytury lub renty d'a członka spółdzielni, który wytwarza na jej rzecz produkty rolne w prowadzonym przez siebie gospodarstwie rolnym, stanowi przeciętny miesięczny dochód ża pracę wykonaną przy wytworzeniu tych produktów, osiągnięty w ostatnich 5 latach przed zgłoszeniem wniosku o emeryturę lub rentę » albo przed zaprzestaniem pracy na rzecz spółdzielni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Dochód, o którym mowa,w ust. 1, ustala się od wartości. produktów rolnych dostarczonych spółdzielni, wedłig a norm okreŚlonych przez Ministra Rolnictwa po porozumieniu z Ministrem Pracy, Płac i Spraw: Socjalnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Podstawa wymiaru emerytury lub renty ustalona w myśl ust. 1 i 2 nie może przekroczyć wysokości przeciętnego miesięcznego dochodu przypadającego w tej spółdzielni na jej stale pracującego członka w roku obrachunkowym poprzedzającym rok, w którym ustala się emeryturę lub rentę.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, Jeżeli ubezpieczony łączył pracę w prowadzonym przez siebie gospodarstwie rolnym z pracą w spółdzielni, do podstawy wymiaru ustalonej stosownie do ust. 1—3 dolicza się kwotę przeciętnego miesięcznego dochodu osiągniętego z tytułu pracy w spółdzielni w ostatnich 5 latach przed zgłoszeniem wniosku o emeryturę lub rentę albo przed zaprzestaniem pracy na rzecz spółdzielni."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Podstawę, wymiaru renty dla ubezpieczonego lub renty rodzinnej przysługującej po ubezpieczonym, który był członkiem spółdzielni przez okres krótszy niż 5 lat, stanowi przeciętny miesięczny dochód przypadający w spółdzielni na jednego ubezpieczonego w roku obrachunkowym poprzedzającym rok, w którym ustala się tę rentę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Liczbę dni pracy w prowadzonym przez ubezpieczonego gospodarstwie rolnym ustala się przez podzielenie uzyskanej w roku obrachunkowym kwoty dochodu za pracę wykonaną przy wytworzeniu produktów rolnych dostarczonych spółdzielni przez przeciętną wysokość dziennego dochodu przypadającego w tej spółdzielni — w poprzednim roku obrachunkowym — na jej stale pracującego członka.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Członkom spółdzielni objętym. ubezpieczeniem na podstawie § 15, którzy łączą pracę w prowadzonym przez siebie gospodarstwie rolnym z pracą w spółdzielni, dolicza się dni pracy w spółdzielni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Przy ustalaniu liczby dni pracy niezbędnej do przyznania świadczeń dolicza się również dni, w których ubezpieczony nie wykonywał pracy wskutek choroby lub odbywania czynnej służby wojskowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Przy ustalaniu okoliczności i przyczyn wypadków przy pracy wykonywanej na rzecz spółdzielni w prowadzonym przez ubezpieczonego gospodarstwie rolnym stosuje się odpowiednio zasady i tryb ustalania okoliczności i przyczyn wypadków przy pracy.w spółdzielni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "O wypadku przy pracy zaistniałym w prowadzonym przez siebie gospodarstwie rolnym ubezpieczony lub członek jego rodziny jest obowiązany niezwłocznie zawiadomić spółdzielnię, a o wypadkach śmiertelnych lub powodujących ciężkie uszkodzenie ciała oraz o wypadkach zbiorowych — również Zakład Ubezpieczeń Społecznych; . przedstawiciel Zakładu Ubezpieczeń Społecznych może uczestniczyć w czynnościach zespołu ustalającego okoliczności i przyczyny tych wypadków.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 22, Przy ustalaniu obowiązku ópłacania składek i ich wysokości, obliczaniu i wypłacaniu świadczeń osobom objętym ubezpieczeniem na podstawie § 15 stosuje się odpowiednio przepisy § 3 i § 8—14 rozporządzenia. ” 3 23. Rozporzączenie wchodzi w ace z dniem 1 maja \"1976. * Prezes Rady Ministrów: P. Jaroszewicz"
+      },
+      {
+       "type": "text",
+       "text": "¥"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

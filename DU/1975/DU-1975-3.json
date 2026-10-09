@@ -1,0 +1,319 @@
+{
+ "eli": "DU/1975/3",
+ "title": "Rozporządzenie Rady Ministrów z dnia 30 grudnia 1974 r. w sprawie jednorazowego podatku majątkowego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/3/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 grudnia 1974 r."
+  },
+  {
+   "type": "text",
+   "text": "w Sprawie jednorazowego podatku majątkowego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 ust. 4 ustawy budżetowej na rok 1975 z dnia 17 grudnia 1974 r. (Dz. U. Nr 48, poz. 293) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Za majątek w rozumieniu ustawy budżetowej na rok 1975 uważa się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "działki budowlane oraz inne gunty wraz z ogrodzeniem nie stanowiące gospodarstwa rolnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "budynki mieszkalne lub ich części, garaże oraz inne urządzenia i zabudowania uboczne nie służące działalności gospodarczej, a także budynki mieszkalne w budowie lub rozbudowie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "samochody osobowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_1/pkt_4",
+       "text": "jachty i łodzie motorowe, z wyjątkiem rybackich.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Za majątek nabyty w okresie od dnia 1 stycznia 1954 r. uważa się również budynki nowo wzniesione lub rozbudowane oddane do użytkowania w tym okresie, chociażby wydatki na budowę lub rozbudowę były częściowo ponoszone przed dniem 1 stycznia 1954 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 2, Przy ustalaniu wartości majątku nie bierze się pod uwagę wartości:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "nieruchomości nabytych w ramach akcji osiedleńczej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "nieruchomości nabytych przez repatriantów za środki pochodzące z repatriacji mienia położonego za granicą lub otrzymanych w zamian tego mienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "nieruchomości otrzymanych w zamian nieruchomości wywłaszczonych lub nabytych za środki uzyskane z tytułu wywłaszczenia lub sprzedaży nieruchomości w trybie przepisów o wywłaszczeniu, jeżeli wywłaszczona lub sprzedana nieruchomość stanowiła własność osoby wywłaszczonej przed dniem 1 stycznia 1954 r., do wysokości kwoty otrzymanego odszkodowania lub kwoty uzyskanej za sprzedaną nieruchomość,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_2/pkt_4",
+       "text": "budynków lub ich części nabytych w trybie przepisów o sprzedaży przez państwo domów i lokali mieszkalnych oraz działek budowlanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_2/pkt_5",
+       "text": "samochodów:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_2/pkt_5/lit_a",
+         "text": "produkcji krajowej i krajów socjalistycznych lub nabytych w ramach eksportu wewnętrznego, chyba że podatnik posiada dwa lub więcej samochodów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_2/pkt_5/lit_b",
+         "text": "przeznaczonych do wykonywania działalności zarobkowej w transporcie osobowym.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Wartość budynków mieszkalnych przyjmuje się w wysokości ustalonej dla celów obowiązkowego ubezpieczenia od ognia, aktualnej na dzień 1 stycznia 1975 r, nie niższej jednak niż koszt nabycia. Jeżeli jednak tak ustalona wartość ze względu na szczególnie kosztowne wyposażenie budynku lub jego położenie jest znacznie niższa od wartości rynkowej, wartość takiego budynku ustala się na podstawie opinii biegłych. Również na podstawie opinii biegłych ustala się wartość kosztownych urzqdzeń związanych z budynkiem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Jeżeli budynek przeznaczony jest częściowo na cele mieszkalne i częściowo służy dział»'- gospodarczej, wartość budynku ustaloną w sposób określony w ust. 1 zmniejsza się o wartość części budynku niezbędnej da wykonywania tej działalności, przyjętą w takim stosunku do wartości całego budynku, w jakim pozostaje kubatura tej części budynku do kubatury całego budynku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Jeżeli podatnik w złożonym zeznaniu nie wska= że wartości innych składników majątku poza budynkiem mieszkalnym lub podana przez podatnika w zeznaniu wartość tych składników nie odpowiada ich wartości rynkowej, terenowy organ administracji państwowej wezwie podatnika do wskazania lub odpowiedniego podwyższenia wartości tych składników, wyznaczając mu termin tygodniowy. Jeżeli złożone oświadczenie nasuwa wątpliwości ca do trafności podanej wartości, terenowy organ administracji państwowej ustali wartość rynkową tych składników na podstawie opinii biegłych. Jeżeli wartość ustalona przez biegłych przekracza wartość podaną przez podatnika co najmniej o 33%, koszty ustalenia wartości poniesie podatnik.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dziennik: Ustaw Nr 1"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Jeżeli podatnik obowiążany do złożenia zeznania nie złożył takiego zeznania lub mię wykazał w złożonym zeznaniu wszystkich składników majątku podlegającego opodatkowaniu, wartość budynku ustala się w sposób określony w § 3, a pozostałych składników majątku na podstawie opinii biegłych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Przy ustalaniu wartości majątku nie bierze się pod uwagę wartości domów czynszowych wielomieszkaniowych nabytych w drodze spadku i położonych w miejscowościach, w których wynajem lokali następuje na podsta-",
+   "children": [
+    {
+     "type": "text",
+     "text": "przy wartości majątku w zł ponad do"
+    },
+    {
+     "type": "text",
+     "text": "700 000 800 000 £00 000 1 000 000 10 000 zł 1 000 000 1 200 060 50 000 zł 1.200 000 1 500 COO 110000 zł 1 500 000 2 000 000 230 000 zł 2 uuu GUO 3 700 000 480 000 zł 3 700 COO —"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Jeżeli majątek został nabyty w drodze spadku, zapisu, darowizny lub zasiedzenia, podatek obliczony według skali określonej w ust. zmniejsza się o podatek od nabycia praw majątkowych w związku z nabyciem tego majątku. §8. 1. Terenowymi organami administracji państwowej właściwymi do ustalenia wysokości i poboru podatku są naczelnicy powiatów * (miast stanowiących powiaty, dzielnic w miastach wyłączonych z województw) oraz prezydenci miast nie wyłączonych z województw, na których terenie osoby obowiązane do zapłacenia podatku miały majątek w dniu 31 grudnia 1974 r. Jeżeli majątek był położony na obszarze działania więcej niż jednego terenowego organu administracji państwowej, właściwy jest ten organ, na którego terenie jest położony majątek stanowiący największą wartość.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Naczelnicy powiatów mogą swoje uprawnienia co do ustalenia wysokości i poboru podatku przekazać naczelnikom gmin i miast nie stanowiących powiatów. § 9. Osoba, na której ciąży obowiązek zapłacenia podatku, obowiązana jest w terminie do dnia 28 lutego 1975r. złożyć zeznanie według ustalonego wzoru.",
+     "children": [
+      {
+       "type": "text",
+       "text": "wie decyzji administracyjnej o przydziale, w części przekraczającej wartość mieszkania zajętego przez podatnika, jego małżonka i dzieci."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Od wartości poszczególnych składników majątku odlicza się pozostające w związku z ich nabyciem lub ulepszeniem długi na rzecz jednostek gospodarki uspołecznionej oraz długi zabezpieczone hipotecznie na nieruchomościach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Podatek ustala się według następującej skali:",
+     "children": [
+      {
+       "type": "text",
+       "text": "podatek wynosi:"
+      },
+      {
+       "type": "text",
+       "text": "10°%o nadwyżki wartości majątku ponad 700000 zł, 20°/o z H Ps . 800 000 zł, 30°/o M n s » 1000000 zł, 400/0 » \" n » 1200000 zł, 500/0 u R 7 » 1.500000 zł, 60°/o 5 » M » 2000000 zł, 50°/o ‘i ‘i 700 000 zł."
+      },
+      {
+       "type": "text",
+       "text": "§-10. Minister Finansów może obniżyć podatek należny od określonych grup podatników lub zwolnić je od podatku."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Podatek jest płatny:",
+     "children": [
+      {
+       "type": "text",
+       "text": "zaliczkowo w wysokości 25%/ podatku należnego od wartości majątku wykazanej w zeznaniu — w termin.e do dnia 31 marca 1975 r.,"
+      },
+      {
+       "type": "text",
+       "text": "w wysokości 250% kwoty ustalonego podatku po potrą-"
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "ceniu zaliczki, o której mowa w pkt 1 — w terminie 14 dni po doręczeniu decyzji ustalającej wysokość podatku,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "po 25% kwoty ustalonego podatku — w terminach do"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "dnia 30 października 1975 r., do dnia 31 maja 1976 r i do dnia 30 października 1976 r.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "W razie wpłaty całego podatku w terminie do końca 1975 r. podatek obniża się o 10%o.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: P. Jaroszewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

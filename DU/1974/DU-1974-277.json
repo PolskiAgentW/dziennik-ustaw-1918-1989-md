@@ -1,0 +1,77 @@
+{
+ "eli": "DU/1974/277",
+ "title": "Rozporządzenie Ministra Finansów z dnia 25 listopada 1974 r. w sprawie przeniesienia na kółka rolnicze i spółdzielnie kółek rolniczych obowiązku podatkowego z tytułu podatku gruntowego od niektórych gruntów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1974/277/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 listopada 1974 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie przeniesienia na kółka rolnicze i spółdzielnie kółek rolniczych obowiązku podatkowego z tytułu podatku gruntowego od niektórych gruntów."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ust. 4 ustawy z dnia 26 października 1971 r. o podatku gruntowym (Dz. U. Nr 27, poz. 254) zarządza się, co następuje: § 1. 1. Przenosi się obowiązek podatkowy z tytułu podatku gruntowego na kółka rolnicze i spółdzielnie kółek rolniczych od gruntów:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "wniesionych w formie wkładów członkowskich rolników,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "dzierżawionych od właścicieli indywidualnych gospodarstw rolnych, jeżeli:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "kółka rolnicze i spółdzielnie kółek rolniczych nie mają możliwości uzyskania gruntów Państwowego Funduszu Ziemi lub obszar, jakość albo położenie tych gruntów, łącznie z gruntami wniesionymi przez członków, nie zapewniają możliwości pełnego wykorzystania siły roboczej i środków produkcji,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "umowa dzierżawy gruntów zawarta jest na okres co najmniej 5 lat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "W wypadkach określonych w ust. 1 obowiązek podatkowy rozpoczyna się z dniem 1 stycznia tego roku, w którym kółko rolnicze lub spółdzielnia kółek rolniczych objęły grunty do zagospodarowania, a jeżeli objęcie nastąpiło po żniwach — z dniem 1 stycznia roku następnego; obowiązek podatkowy wygasa z upływem tego roku, w cią: gu którego grunt został zwrócony właścicielowi, a jeżeli zwrot nastąpił przed żniwami — z końcem roku poprzedniego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1975 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: H. Kisiel"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

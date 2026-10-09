@@ -1,0 +1,268 @@
+{
+ "eli": "DU/1975/156",
+ "title": "Rozporządzenie Ministra Rolnictwa z dnia 19 sierpnia 1975 r. w sprawie organizacji i zakresu działania Inspekcji Nasiennej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/156/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ROLNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 sierpnia 1975 r."
+  },
+  {
+   "type": "text",
+   "text": "w Sprawie organizacji i zakresu dziaiania Inspekcji Nasiennej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. 3 i art. 22 ust. 4 ustawy z dnia 16 lutego 1961 r. o hodowli roślin i nasiennictwie (Dz. U. Nr 10, poz. 54) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Inspekcja Nasienna podlega Ministrowi Rolnictwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Organami Inspekcji Nasiennej są okręgowe inspektoraty w Białymstoku, Bydgoszczy, Gdańsku, Katowicach, Kielcach, Koszalinie, Krakowie, Lublinie, Łodzi, Olsztynie, Opolu, Poznaniu, Rzeszowie, Szczecinie, Warszawie, Wrocławiu oraz w Zielonej Górze, zwane dalej „okręgowymi inspektoratami\".",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Okręgowe inspektoraty są jednostkami budżetowymi, finansowanymi z budżetu centralnego Ministerstwa Rolnictwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Zadaniem Inspekcji Nasiennej jest sprawdzanie i uznawanie materiału siewnego za kwalifikowany lub handlowy oraz kontrolowanie materiału siewnego w produkcji i obrocie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Zasady i tryb sprawdzania i uznawania materiału siewnego za kwalifikowany lub handlowy określają odrębne przepisy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Okręgowe inspektoraty są uprawnione do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "kontroli produkcji, skupu i uszlachetniania materiału siewnego oraz obrotu materiałem siewnym, a w szczególności do:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_4/ust_1/pkt_1/lit_a",
+         "text": "wstępu na grunty, na których produkowany jest \"'. materiał siewny, oraz do miejsc i pomieszczeń, gdzie ten materiał jest przygotowywany i przechowywany, wglądu do dokumentów oraz żądania sporządzania b",
+         "children": [
+          {
+           "type": "text",
+           "text": "> ich odpisów,"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_4/ust_1/pkt_1/lit_c",
+         "text": "sprawdzania tożsamości osób w związku z przeprowadzaną kontrolą,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_4/ust_1/pkt_1/lit_d",
+         "text": "żądania wyjaśnień i zasięgania informacji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_4/ust_1/pkt_1/lit_e",
+         "text": "pobierania próbek do analizy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_4/ust_1/pkt_1/lit_f",
+         "text": "żądania wykonania czynności niezbędnych do umożliwienia prawidłowego przeprowadzenia kontroli,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_4/ust_1/pkt_1/lit_g",
+         "text": "żądania przeważenia lub przeliczenia wskazanych partii materiału siewnego oraz przemierzenia powierzchni plantacji,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "zakwalifikowania lub dyskwalifikowania plantacji nasiennych oraz materiału siewnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "przeklasylikowywania materiału siewnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "wydawania opinii dotyczących jakości materiału siewnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Pracownicy okręgowych inspektoratów przy dokonywaniu czynności, o których mowa w ust. 1 pkt 2i3, nie podlegają kontroli osobistej, jak też nie obowiązują ich przepisy o przepustkach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Kontrola powinna być dokonywana w dniach i godzinach pracy obowiązujących w jednostce kontrolowanej; w razie konieczności kontrola może być przeprowadzana w innych godzinach, jak również w dni ustawowo wolne od pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Pracownicy okręgowych inspektoratów są obowiązani w czasie wykonywania swych czynności kontrolnych do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "legitymowania się dokumentem uprawniającym do wykonywania tych czynności; dokument taki stanowi legitymacja lub upoważnienie wystawione przez dyrektora okręgowego inspektoratu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "przeprowadzania kontroli w obecności przedstawiciela jednostki kontrolowanej odpowiedzialnego za dany dział pracy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "sporządzania protokołów z przeprowadzanej kontroli,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_1/pkt_4",
+       "text": "przedstawiania jednostce kontrolowanej, a w razie potrzeby — jednostce nadrzędnej, odpowiednich wniosków i zaleceń wynikających z kontroli,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "wydawania doraźnych poleceń w razie zagrożenia pogorszeniem jakości materiału siewnego lub jego zniszczeniem,",
+       "children": [
+        {
+         "type": "text",
+         "text": "6). kierowania doniesień o stwierdzonych przekroczeniach do organów Milicji Obywatelskiej, prokuratury bądź do kolegiów do spraw wykroczeń."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Protokół z kontroli podpisuje przeprowadzający kontrolę oraz kierownik jednostki kontrolowanej, który może wnieść do protokołu zastrzeżenia i uwagi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Traci moc rozporządzenie Ministra Rolnictwa z dnia 11 kwietnia 1962 r. w sprawie organizacji i zakresu działania Inspekcji Nasiennej oraz uprawnień, obowiązków i trybu postępowania jej organów (Dz. U. Nr 23, poz. 105),",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": ". Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa: w z. E. Mazurkiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,162 @@
+{
+ "eli": "DU/1971/269",
+ "title": "Rozporządzenie Rady Ministrów z dnia 12 listopada 1971 r. o kosztach postępowania w sprawach o wykroczenia.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1971/269/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 listopada 1971 r."
+  },
+  {
+   "type": "text",
+   "text": "o kosztach postępowania w sprawach o wykroczenia."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. XIII ustawy z dnia 20 maja 1971 r. — Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia (Dz. U. Nr 12, poz. 117) \"Ranga się, co na- \" stępuje: § 1. 1. W sprawach o wykroczenia przed kólegiami do spraw wykroczeń przy prezydiach rad narodowych, urzędach -i-izbach morskich oraz. urzędach. górniczych, zwanymi dalej „kolegiami”, ukarany ponosi koszły postępowania:"
+  },
+  {
+   "type": "lit",
+   "num": "t",
+   "path": "lit_t",
+   "text": "w pierwszej instancji:",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "za postępowanie nakazowe — w wysokości 25 zł,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "za postępowanie przed kolegium — w wysokości 50 zł,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w drugiej instancji tylko w wypadku:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "utrzymania w mocy zaskarżonego przez obwinionego rozstrzygnięcia — w wysokości 100 zł niezależnie od kosztów orzeczonych w I instancji,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "wymierzenia kary dopiero w drugiej instancji — w wysokości 50 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Koszty postępowania w wypadkach nie wymienionych w ust. 1 ponosi organ, przy którym działa kolegium, które wydało rozstrzygnięcie.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Do kosztów postępowania nie zalicza się należności obrońcy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W razie skierowania sprawy, w której orzeczono” zasadniczą karę aresztu lub karę ograniczenia wolności, na drogę postępowania sądowego, koszty postępowania przed kolegium będą uwzględnione w orzeczeniu sądu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Należności z tytułu kosztów postępowania przypadają na rzecz budżetu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "rady narodowej, której organ zgodnie ze swą właściwością wykonał rozstrzygnięcie kolegium,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "organów administracji morskiej albo administracji górniczej właściwych do wykonania rozstrzygnięć wydanych przez powołane przy nich kolegia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "W sprawach dotyczących należności świadków, biegłych i tłumaczy w postępowaniu przed kolegium stosuje się odpowiednio przepisy o należnościach świadków, biegłych i tłumaczy w postępowaniu karnym sądowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Należności świadków, biegłych i tłumaczy przyznaje przewodniczący kolegium, a na rozprawie — przewodniczący składu orzekającego. § 5. Przepisy § 4 stosuje się odpowiednio w postępowaniu wyjaśniającym prowadzonym przez komisję orzecznictwa do spraw wykroczeń przy prezydium wojewódzkiej rady na: ~ rodowej (rady narodowej miasta wyłączonego z wojewódz-",
+     "children": [
+      {
+       "type": "lit",
+       "num": "twa",
+       "path": "par_4/ust_2/lit_twa",
+       "text": "oraz przy prezydium rady narodowej miasta stanowią= cego powiat podzielonego na dzielnice oraz przy Ministrze Żeglugi i Prezesie Wyższego Urzędu Górniczego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Koszty postępowania przed komisjami, o których mowa w § 5, ponosi organ, przy którym komisja działa. § 7. Traci moc rozporządzenie Ministra Spraw Wewnętrznych z dnia 14 marca 1959 r. w sprawie kosztów po= stępowania przed kolegiami karno-administracyjnymi przy prezydiach rad narodowych (Dz. U. z 1959 r. Nr 21, Poz, 133 i Dz. U. z 1967 r. Nr 8, poz. 33). § 8. Rożpóriądzeni wchodzi w życie z dniem 1 stycznia 1972 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: P. Jaroszewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,3467 @@
+{
+ "eli": "DU/1975/48",
+ "title": "Rozporządzenie Ministra Gospodarki Terenowej i Ochrony Środowiska z dnia 20 lutego 1975 r. w sprawie nadzoru urbanistyczno-budowlanego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/48/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GOSPODARKI TERENOWEJ I OCHRONY ŚRODOWISKA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lutego 1975 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nadzoru urbanistyczno-budowlanego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25, art. 28 ust. 4, art. 29 ust. 3, art. 34 ust. 1, art. 42 ust. 4 i art. 57 ust. 3 ustawy z dnia 24 października 1974 r. — Prawo budowlane (Dz. U. Nr 38, poz. 229) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ 1",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "normuje sprawy związane ze sprawowaniem nadzoru urbanistyczno-budowlanego, obejmujące:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_1/pkt_1/lit_a",
+         "text": "ustalanie miejsca i warunków realizacji inwestycji budowlanych, zmiany sposobu wykorzystania terenu oraz sprawy warunków ochrony środowiska w działalności budowlanej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_1/pkt_1/lit_b",
+         "text": "sprawy zagospodarowania terenów objętych działalnością inwestycyjną, rozwiązań urbanistycznoarchitektonicznych obiektów budowlanych, ustanawiania stref ochronnych, warunków rozpoczęcia i prowadzenia robót budowlanych oraz uzytkowania obiektów budowlanych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "określa podstawowe obowiązki inwestorów, projektantów, wykonawców robót budowlanych i osób wykonujących samodzielne funkcje techniczne w budownictwie w zakresie określonym w pkt 1 oraz przy prowadzeniu robót budowlanych i użytkowaniu obiektów budowlanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "określa obowiązki właścicieli i zarządców związane z utrzymaniem i rozbiórką obiektów budowlanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_1/pkt_4",
+       "text": "ustala zakres, zasady i tryb działania terenowych organów administracji państwowej w sprawach nadzoru urbanistyczno-budowlanego i techniczno-budowlanego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Artykuły powołane w rozporządzeniu bez bliższego określenia oznaczają artykuły ustawy z dnia 24 października 1974 r. — Prawo budowiane (Dz. U. Nr 38, poz. 229).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "o „właściwym organie\" — należy przez to rozumieć zgodnie z art. 57 ust. 1:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "w zakresie budownictwa osób fizycznych — organy administracji państwowej w gminach, miastach i dzielnicach miast podzielonych na dzielnice,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "w zakresie pozostałego budownictwa — organy administracji państwowej w powiatach, miastach stanowiących powiaty i dzielnicach miast wyłączonych z województw,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "o „inwestorze\" — należy przez to również rozumieć jednostkę organizacyjną lub osobę upoważnioną do występowania w imieniu inwestora,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "o „mapie” — należy przez to rozumieć mapę lub szkic sytuacyjny, wymagane dla danego rodzaju czynności lub opracowań, określone w przepisach wydanych na podstawie art. 25,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "o „planie realizacyjnym\" — należy przez to rozumieć plan zagospodarowania terenu inwestycji lub plan usytuowania obiektu budowlanego, sporządzony w ramach założeń techniczno-ekonomicznych inwestycji lub w dokumentacji jednostadiowej dla inwestycji realizowanych przez jednostki gospodarki uspołecznionej oraz plan zagospodarowania działki budowlanej, sporządzony dla inwestycji osób fizycznych i jednostek organizacyjnych, nie będących jednostkami gospodarki uspołecznionej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "1, Plan realizacyjny i projekt — wymagane do uzyskania decyzji przewidzianych w rozporządzeniu, powinny być sporządzone zgodnie z obowiązującymi przepisami i normami oraz przedstawione w egzempiarzach oprawionych w okładkę formatu A-4.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Skreślenia, poprawki, uzupełnienia 1 adnotacje wprowadzone na odbitkach planów realizacyjnych i projektów powinny, być wykonane trwałą techniką graficzną, opisane oraz opatrzone podpisem osoby dokonującej tych zmian lub zapisów i datą ich wykonania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Przepisów rozporządzenia nie stosuje się do budownictwa doświadczalnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W odniesieniu do obiektów budowlanych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "objętych nadzorem techniczno-budowlanym, powołanym na podstawie art. 58 — mają zastosowanie wyłącznie przepisy § 1—24, 28—31 i 34—39 rozporządzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "objętych prawem lotniczym oraz ustawami o drogach publicznych, kolejach i łączności — mają zastosowanie wyłącznie przepisy § 1—33, § 35 i 66—69 rozporządzenia,",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Właściwy organ przed wydaniem decyzji obejmującej wymagania, nakazy lub zakazy w sprawach ochrony środowiska w budownictwie powinien porozumieć się z organem albo jednostką organizacyjną, właściwymi w sprawach ochrony środowiska, lub zasięgnąć ich opinii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W razie przystąpienia do aktualizacji miejscowego planu zagospodarowania przestrzennego właściwy organ podejmuje decyzję w sprawie ustalenia miejsca i warunków realizacji inwestycji budowlanej po porozumieniu z organem właściwym do aktualizacji miejscowego planu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Jeżeli sprawy, o których mowa w rozporządzeniu, dotyczą inwestycji lub obiektów budowlanych położonych na obszarze sąsiadujących ze sobą jednostek podziału terytorialnego, decyzję w pierwszej instancji podejmuje ten właściwy organ, do którego wystąpił zainteresowany, w porozumieniu z organem lub organami sąsiednich jednostek podziału terytorialnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Pracownicy organów, wykonujący uprawnienia, o których mowa w art. 55, powinni posiadać imienne upoważnienie wydane przez właściwy organ.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ 2",
+   "text": "Budownictwo jednostek gospodarki uspołecznionej oraz innych jednostek organizacyjnych."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Informacja o terenie."
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Właściwy organ jest obowiązany udzielić informacji o terenie potrzebnej do ustalenia lokalizacji inwestycji oraz prac związanych z przygotowaniem inwestycji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Na żądanie inwestora właściwy organ jest obowiązany udzielić informacji o kilku terenach, na których mogłaby być realizowana inwestycja.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Informacja o terenie wskazuje: położenie i orientacyjną wielkość terenu, na którym 1) inwestycja mogłaby być realizowana, jego funkcję oraz charakterystykę warunków naturalnych i stanu zainwestowania, a także podstawowe dane dotyczące ukształtowania przestrzennego i funkcjonalnego terenu oraz ochrony środowiska, możliwości zaopatrzenia w energię, wodę i odprowa-",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "dzania ścieków oraz ewentualne wnioski co do inwestycji towarzyszących i wspólnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "4, W celu uzyskania informacji o terenie należy przedstawić właściwemu organowi materiały niezbędne do jej udzielenia, jak program, charakterystykę i potrzeby techniczno-użytkowe inwestycji."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Przedstawienie danych dotyczących programu i charakterystyki nie obowiązuje w stosunku do inwestycji związanych z obronnością kraju i bezpieczeństwem wewnętrznym, realizowanych na terenach zamkniętych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Udzielenie informacji o terenie powinno nastąpić w terminie do 21 dni od daty otrzymania od inwestora niezbędnych materiałów; w wypadkach szczególnie skomplikowanych termin ten może być przedłużony do 60 dni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Informacja o terenie traci swą aktualność, jeżeli inwestor w terminie 3 miesięcy od daty uzyskania tej informacji nie przedstawił wniosku o ustalenie miejsca i warunków realizacji inwestycji lub o zatwierdzenie planu realizacyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Termin ustalony w ust. 2 może być przedłużony na wniosek inwestora, wyłącznie jednak w stosunku do jednego terenu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Ustalanie miejsca i warunków realizacji inwestycji budowlanych."
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Inwestor jest obowiązany uzyskać od właściwego organu decyzję o ustaleniu miejsca i warunków realizacji inwestycji budowlanej,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Decyzja o ustaleniu miejsca i warunków realizacji inwestycji budowłanej określa:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "teren (działkę budowlaną), na którym inwestycja może być zrealizowana, jego przeznaczenie oraz w razie potrzeby tereny strefy ochronnej,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "warunki urbanistyczne i architektoniczne realizacji inwestycji na tym terenie, obojmujące w szczególności:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_8/ust_2/pkt_2/lit_a",
+         "text": "główne zasady tunkcjonalnego zagospodarowania terenu i powiązania z układem komunikacyjnym oloczenia oraz wskaźniki wykorzystania terenu, zasady ukształtowania przestrzennego i archilekb) tonicziego zabudowy i zieleni, z okresieniem lini zabudowy, gabarytów obiektów lub dopuszczalnego zakresu oyraniczeń w zagospodarowaniu terenów sąsiednich przy uwzgiędnieniu określonych warun-- ków fizjograficznych 1 stanu zainwestowania, A dopuszczalny stopień i zakres zanieczyszczeń wydaianych do powietrza atmoslerycznego oraz uciążliwości dla terenów otaczejących, warunki zaopatrzenia w energię, wodę i odprowadza- 3) nią ścieków, określone przez odpowiednie jednostki,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_2/pkt_4",
+       "text": "inne warunki i zalecenia mające wpływ na rozwiązania projektowe inwestycji i ewentuainą realizację inwestycji lowarzyszących i wspólnych.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Ustalenia przez właściwy organ miejsca i warunków realizacji inwes.ycji budowlanej wymaga:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "wykonanie i rozbudowa stałych i tymczasowych budynków, wykonanie i rozbudowa budowli stałych służących do",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "celów wypoczynku, rozrywki i sportu, wykonanie stałych budowli mostów i wiaduktów ko-",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "munikacji kolejowej i drogowej o rozpiętości powyżej 15 m oraz dwupoziomowych skrzyżowań obiektów komunikacyjnych, wykonanie stałych sieci lub linii uzbrojenia terenu:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_1/pkt_4",
+       "text": "wodociągowych, kanalizacyjnych, ciep!nych, gazowych, elektroenergetycznych, telekomunikacyjnych i na paliwa płynne, z wyjątkiem sieci i linii uzbrojenia terenu poszczególnych nieruchomości, pasów drogowych, obszarów ko'ejowych i lotnisk, realizacja innych inwestycji budowlanych:",
+       "children": [
+        {
+         "type": "text",
+         "text": "5)"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_1/pkt_4/lit_a",
+         "text": "przewidzianych na terenach użytkowanych dotychczas na inne ce.e lub i",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "których wykonanie mogłoby spowodować wprob) wadzenie, utrwalanie lub zwiększenie istniejących ograniczeń, uciążliwości, pogorszenie warunków ochrony środowiska, sanitarnych albo bezpieczeństwa ludzi lub mienia na terenach sąsiednich."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Przepisów ust. I pkt 5 nie stosuje się do budowli triangulacyjnych i znaków geodezyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Ustalenia miejsca i warunków realizacji inwestycji budowlanej nie wymaga:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_3/pkt_1",
+       "text": "budowa obiektów budowlanych w obrębie zamkniętych terenów związanych z obronnością kraju i bezpieczeństwem wewnętrznym oraz w obrębie portów morskich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_3/pkt_2",
+       "text": "budowa budynków:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_3/pkt_2/lit_a",
+         "text": "państwowych gospodarstw leśnych w obrębie la- Sów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/ust_3/pkt_2/lit_b",
+         "text": "stałych parterowych gospodarczych i inwentarskich, o kubaturze do 1000 m”, w obrębie istniejących ośrodków produkcyjnych państwowych gospodarstw rolnych poza miastami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_9/ust_3/pkt_2/lit_c",
+         "text": "stałych, o kubaturze do 1000 m* — w obrębie zakładów energetycznych, górniczych, przemysłowych oraz na obszarach kolejowych i na lolniskach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_9/ust_3/pkt_2/lit_d",
+         "text": "przewidzianych do czasowego użytku na okres nie przekraczający 5 lat w obrębie zakładów energetycznych, górniczych, przemysłowych, w ośrodkach produkcyjnych państwowych gospodarstw rolnych oraz na obszarach kolejowych i na lotniskach — nie przeznaczonych do zamieszkania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_9/ust_3/pkt_2/lit_e",
+         "text": "przeznaczonych do czasowego użytku inwestora lub wykonawcy na okres realizacji inwestycji budowlanej, w obrębie granic terenu inwestycji,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_3/pkt_3",
+       "text": "ustawianie barakowozów używanych przy wykonywaniu robót budowlanych oraz badań geologicznych — jeżeli nie spowoduje to skutków, o których mowa w ust. 1 pkt 5 lit. b).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Na wniosek inwestora właściwy organ jest obowiązany ustalić miejsce i warunki realizacji inwestycji bu- „ dowlanych, nie objętych przepisami ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "W celu uzyskania decyzji o ustaleniu miejsca i warunków realizacji inwestycji budowlanej inwestor powinien w zależności od rodzaju inwestycji przedstawić właściwemu organowi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "program i charakterystykę techniczno-użytkową inwestycji, dane co do wielkości potrzebnego terenu i szczególne",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "wymagania w tym zakresie, zapotrzebowanie na energię, gaz, ciepło i wodę, ilość",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "i przybliżóny skład ścieków oraz warunki obsługi komunikacyjnej i transportowej, dane co do ilości i przybliżonego składu zanieczysz-",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_1/pkt_4",
+       "text": "czeń wydalanych do atmosfery oraz przewidywany stopień uciążliwości i ograniczeń, które inwestycja spowoduje na terenach otaczających, a w razie potrzeby ustanowienia strefy ochronnej — materiały i dane uzasadniające rozmiary oraz warunki użytkowania terenu tej strefy, mapę obejmującą teren inwestycji (strefy ochronnej),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_1/pkt_5",
+       "text": "z oznaczoną ewentualnie własną propozycją miejsca realizacji inwestycji budowlanej — w dwóch egzemp!arzach,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "kopię (wyrys) mapy ewidencji gruntów dla obszaru objętego mapą, o której mowa w pkt 5, z podaniem granic nieruchomoŚci (władania), jeżeli dane te nie zostały wykazane na mapie, ; ; wykaz właścicieli, użytkowników lub posiadaczy te- 7) renu i ich sąsiadów, jeżeli właściwy organ nie zwolnił inwestora od obowiązku złożenia tych danych,"
+      },
+      {
+       "type": "text",
+       "text": "odpisy wymaganego przepisami szczególnymi porozumienia, pozwolenia lub zgody organów administracji państwowej na wykonanie zamierzonej inwestycji budowlanej, odpis decyzji o lokalizacji inwestycji, jeżeli inwesty-"
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_10/ust_1/pkt_9",
+       "text": "cja wymaga ustalenia lokalizacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Przedstawienie danych, o których mowa w ust. 1. pkt 1, nie obowiązuje w stosunku do inwestycji realizowanych na terenach zamkniętych związanych z obronnością kraju i bezpieczeństwem wewnętrznym oraz w obrębie portów morskich; terenem zamkniętym może być również teren pojedynczego obiektu budowlanego lub jego część.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "W celu uzyskania decyzji o ustaleniu miejsca i warunków realizacji inwestycji liniowych i sieciowych inwestor jest obowiązany przedstawić na mapie (wyrysie) w dwóch egzemplarzach proponowany przebieg linii lub sieci, z oznaczeniem ewentualnego terenu potrzebnego dla obiektów budowlanych z nimi związanych oraz odpisy wymaganego przepisami szczególnymi pozwolenia, porozumienia lub zgody organów administracji państwowej na proponowany przebieg linii lub sieci. W razie zbliżenia obiektów liniowych lub sieciowych do linii i urządzeń teleko-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "tj"
+      },
+      {
+       "type": "text",
+       "text": "é"
+      },
+      {
+       "type": "text",
+       "text": "munikacyjnych albo skrzyżowania z nimi, należy przedstawić dowody uzgodnienia przebiegu tych linii z właściwymi jednostkami resortu łączności."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Właściwy organ może żądać przedstawienia dodatkowych materiałów i danych niezbędnych do wydania decyzji oraz większej ilości egzemplarzy mapy (wyrysu), o której mowa w ust. 3..",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "1, Ustalenie miejsca i warunków realizacji inwestycji budowlanej może nastąpić łącznie z zatwierdzeniem planu realizacyjnego, jeżeli inwestor przedsławi dokumenty wymagane do zatwierdzenia tego planu.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Decyzja o ustaleniu miejsca i warunków realizacji inwestycji zastępuje dowody uzgodnień w zakresie warunków zaopatrzenia w energię i wodę oraz odprowadzania ścieków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Sporządzenie i zatwierdzanie planów realizacyjnych."
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Plan realizacyjny sporządza się dla inwestycji, dla których jest wymagane ustalenie przez właściwy organ miejsca i warunków realizacji inwestycji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Plan realizacyjny powinien być opracowany na aktualnych mapach w skali dostosowanej do rodzaju i wielkości inwestycji, lecz nie mniejszej niż 1:1000 dla terenów zabudowanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Część graficzna planu realizacyjnego, w zależności od rodzaju inwestycji oraz warunków terenowych, powinna zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "granice terenu inwestycji, z podziałem na tereny o różnym przeznaczeniu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "granice strefy ochronnej, w razie obowiązku jej ustanowienia, z określeniem zasad zagospodarowania i użytkowania tej strefy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_1/pkt_3",
+       "text": "granice złóż kopalin lub obszaru górniczego — przy inwestycjach polegających na eksploatacji tych złóż,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_1/pkt_4",
+       "text": "usytuowanie i obrysy oraz układy projektowanych obiektów budowlanych, ze wskazaniem charakterystycznych elementów, wymiarów, rzędnych i wzajem- _ nych odległości tych obiektów oraz ich przeznaczenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_13/ust_1/pkt_5",
+       "text": "układ zieleni wysokiej i niskiej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_13/ust_1/pkt_6",
+       "text": "oznaczenie elementów istniejącego zagospodarowania terenu, podlegających adaptacji stałej, czasowej lub likwidacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_13/ust_1/pkt_7",
+       "text": "rzędne w charakterystycznych punktach projektowanego ukształtowania terenu, a w razie potrzeby charakterystyczne przekroje terenu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_13/ust_1/pkt_8",
+       "text": "w miarę potrzeby widoki ciągów elewacyjnych ulic i placów miejskich, z uwzględnieniem rozwiązań kolorystycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_13/ust_1/pkt_9",
+       "text": "projekty koncepcyjne lub posiadane dokładniejsze opracowania projektowanych indywidualnie obiektów budowlanych, określonych w § 9 ust. 1 pkt 1—3,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_13/ust_1/pkt_10",
+       "text": "niezbędne profile oraz przekroje projektowanych komunikacyjnych obiektów budowlanych oraz sieci uzbrojenia terenu, z oznaczeniem charakterystycznych elementów, wymiarów i rzędnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Jeżeli przy zatwierdzaniu planu realizacyjnego inwestor nie ma możliwości przedstawienia koncepcji rozwiązań obiektów budowlanych projektowanych indywidualnie albo przedstawione koncepcje są niewystarczające do podjęcia decyzji — właściwy organ może określić termin odrębnego ich przedstawienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Część opisowa planu realizacyjnego, w zależności od rodzaju inwestycji i warunków terenowych, powinna zawierać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "określenie przedmiotu i zakresu inwestycji oraz kolejności realizacji poszczególnych obiektów (zadań inwestycyjnych),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "opis istniejącego zagospodarowania terenu, z omówieniem przewidzianych w nim zmian, adaptacji i likwidacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_14/pkt_3",
+     "text": "zestawienie charakterystycznych danych o przydatności gruntów do celów budowy, łącznie z danymi co do spodziewanych wpływów eksploatacji górniczej w granicach obszaru górniczego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_14/pkt_4",
+     "text": "opis rozwiązania układu komunikacyjnego, transportowego, uzbrojenia terenu i ochrony przeciwpożarowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_14/pkt_5",
+     "text": "opis wpływu inwestycji na środowisko (ilości i składu wydalanych zanieczyszczeń, poziomu dźwięków, zasięgu ich wpływów na otoczenie, zmiany stosunków wodnych itp.) oraz zwięzły opis rozwiązania ochrony przed hałasem, ochrony powietrza atmosferycznego, wód i gleby przed zanieczyszczeniem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_14/pkt_6",
+     "text": "opis zagospodarowania strefy ochronnej i ograniczeń w użytkowaniu jej terenów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_14/pkt_7",
+     "text": "bilanse terenu, kubatur i powierzchni obiektów budowlanych oraz zestawienie wskaźników technicznoekonomicznych charakleryzujących zagospodarowanie terenu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_14/pkt_8",
+     "text": "zestawienie zastosowanych projektów typowych z załączonymi kartami katalogowymi oraz projektów powtarzalnych z charakterystycznymi danymi według układu karty katalogowej projekiu typowego, z uzasadnieniem ich doboru i omówieniem zasad adaptacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_14/pkt_9",
+     "text": "określenie powierzchni I objętości wierzchniej warstwy ziemi uprawnej, podlegającej zdjęciu i dostarczeniu we wskazane miejsce stosownie do przepisów o ochronie gruntów rolnych i leśnych oraz rekultywacji gruntów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_14/pkt_10",
+     "text": "opis określający przeznaczenie, konstrukcję i wyposażenie obiektów, o których mowa w § 13 ust. 1 pkt 9 i 10, z podaniem odpowiednio do przeznaczenia obiektu danych co do szkodliwości dla środowiska, stopnia zagrożenia pożarowego i higienicznosanitarnego otoczenia oraz zasady rozwiązania architektonicznego obiektu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Wątpliwości co do zakresu treści planu realizacyjnego, o której mowa w § 13 i 14, rozstrzyga właściwy organ.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Wymagania dotyczące treści planu realizacyjnego nie dotyczą inwestycji związanych z obronnością kraju i bezpieczeństwem wewnętrznym, realizowanych na zamkniętych terenach, oraz inwestycji realizowanych w portach morskich. Dla tych inwestycji treść planu realizacyjnego wymagającego zatwierdzenia powinna być ograniczona do określenia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "granic projektowanego terenu zamkniętego, łącznie z granicami strefy ochronnej, oraz sposobu jej zagospodarowania, jeżeli zachodzi potrzeba jej ustanowienia, z opisem wpływu na środowisko, sposobów ochrony przed zanieczyszczeniem, powietrza atmosferycznego, wody i gleby, a także ochrony przed hałasem, wibracją i promieniowaniem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "linii zabudowy oraz elewacji obiektów budowlanych projektowanych od strony dróg publicznych, ulic i placów, położonych poza granicami portów morskich lub terenów zamkniętych,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_16/pkt_3",
+     "text": "przebiegu i charakterystyki technicznej dróg 1 Hnii komunikacyjnych oraz sieci uzbrojenia terenu, wyprowadzonych poza granice portu lub terenów zamknię= tych, a także podłączeń tych obiektów do sieci użytku publicznego,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Do wniosku o zatwierdzenie planu realizacy}- nego inwestor jest obowiązany dołączyć plan realizacyjny w dwóch egzemplarzach, jeżeli właściwy organ nie zażąda większej ilości tego planu, oraz w jednym egzemplarzu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_1/pkt_1",
+       "text": "odpisy wymaganych przepisami szczególnymi decyzji organów administracji państwowej wyrażających zgodę na zamierzone roboty budowlane,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_1/pkt_2",
+       "text": "dowody zgody właściwych organów w razie potrzeby odstępstwa od przepisów techniczno-budowlanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_1/pkt_3",
+       "text": "dokumentację geologiczną lub kartę rejestracyjną złoża kopalin, których wydobywanie nie podlega prawu górniczemu, przy inwestycjach polegających na eksploatacji tych złóż.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Przy inwestycjach liniowych i sieciowych realizowanych na obszarze dwóch lub więcej powiatów dokumenty, o których mowa w ust. 1, powinny być dołączone do wniosku o zatwierdzenie planu realizacyjnego w kompletach osobnych dla każdego powiatu. ©",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Jeżeli opracowania projektowe pochodzą z importu, do wniosku o zatwierdzenie planu realizacyjnego inwestor jest obowiązany dołączyć ponadto dowód sprawdzenia tych opracowań przez zespół sprawdzający państwowej jednostki projektowania lub przez rzeczoznawców budowlanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "W decyzji o zatwierdzeniu planu realizacyjnego właściwy organ:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "stwierdza zgodność rozwiązań projektowanej inwestycji z ustaleniami miejscowego planu zagospodarowania przestrzennego lub wyznaczenia terenów budowlanych na podstawie przepisów o terenach budowlanych w miastach lub na wsi oraz z warunkami określonymi w decyzji o ustaleniu miejsca I warunków realizacji inwestycji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "rozstrzyga pod względem urbanistycznym i architektonicznym o doborze projektów typowych i powtarzalnych oraz o prawidłowości rozwiązań architektonicznych obiektów budowlanych projektowanych indywidualnie, powiązaniu ich z warunkami naturalnymi terenu inwestycji i z zagospodarowaniem otoczenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_1/pkt_3",
+       "text": "zatwierdza pod względem urbanistycznym i architektonicznym rozwiązania i ustalenia, o których mowa w",
+       "children": [
+        {
+         "type": "text",
+         "text": "§ 13i 14."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "W decyzji, o której mowa w ust. 1, właściwy organ może określić szczegółowe rozwiązania projektowe obiektu budowlanego lub jego części, jakie ze względu na bezpieczeństwo ludzi lub mienia należy przedstawić przy występowaniu o pozwolenie na budowę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Pozwolenia na budowę."
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "1, Uzyskanie pozwolenia na budowę obowiązuje w razie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_19/pkt_1",
+     "text": "inwestycji, dla których zgodnie z przepisami § 9 jest wymagane ustalenie przez właściwy organ miejsca i warunków realizacji inwestycji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_19/pkt_2",
+     "text": "wykonywania w miejscach publicznych pomników, posągów i wodotrysków, stałych urządzeń wpływających na wygląd obiektów budowlanych, jak urządzenia reklamowe I ogłoszeniowe, oraz kapliczek i innych podobnych obiektów kultu religijnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_19/pkt_3",
+     "text": "wykonywania stałych ogrodzeń od strony ulic i placów w miastach i w miejscowościach uznanych za uzdrowiska i o charakterze turystyczno-wypoczynkowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Uzyskania pozwolenia na budowę nie wymaga budowa pomników, posągów, kapliczek i innych podobnych obiektów kultu religijnego na terenach cmentarzy i terenach przykościelnych, związanych z wykonywaniem kultu religijnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Przepisu ust. 1 nie stosuje się do inwestycji związanych z obronnością kraju i bezpieczeństwem wewnętrznym realizowanych na terenach zamkniętych oraz do inwestycji w obrębie portów morskich. § 20. 1. Pozwolenie na budowę może dotyczyć całej inwestycji objętej planem realizacyjnym lub na wniosek inwestora jej części.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Pozwolenie na budowę ustala terminy, do których będą mogły istnieć tymczasowe obiekty budowlane, oraz warunki likwidacji przejściowego zagospodarowania terenu, jak też określa, w zależności od rodzaju zamierzonych robót budowlanych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "warunki prowadzenia robót budowlanych ze względu na bezpieczeństwo ludzi lub mienia oraz ochronę środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "termin rozbiórki istniejącego obiektu budowlanego, stanowiącej warunek wydanego pozwolenia na budowę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_2/pkt_3",
+       "text": "obiekty budowlane, których przekazanie do użytkowania powinno być zgłoszone właściwemu organowi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Przy inwestycjł realizowanej na terenie pozostającym w prawnej dyspozycji inwestora lub której realizacja nie wymaga prawnego przejęcia terenu, pozwolenie na budowę wydaje się łącznie z zatwierdzeniem planu realizacyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_19/ust_4",
+     "text": "Właściwy organ może wydać pozwolenie na budową łącznie z zatwierdzeniem planu realizacyjnego w wypadkach innych aniżeli wymienione w ust. 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Do wniosku o wydanie pozwolenia na budową inwestor jest obowiązany dołączyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_1/pkt_1",
+       "text": "plan realizacyjny w dwóch egzemplarzach wraz z dokumentami określonymi w § 17 lub powołać się na wcześniejszą decyzję o zatwierdzeniu planu realizacyjnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_1/pkt_2",
+       "text": "odpis dokumentu stwierdzającego prawo inwestora do dysponowania nieruchomością przewidzianą pod inwestycję,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_1/pkt_3",
+       "text": "w razie potrzeby dokumenty, o których mowa w-§ 13 ust. 2 i w § 18 ust. 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Właściwy organ określa dokumenty wymagane do uzyskania pozwolenia na budowę pomników, posągów, wodotrysków, urządzeń wpływających na wygląd obiektów budowlanych, obiektów kultu religijnego i ogrodzeń, o których mowa w § 19 ust. 1 pkt 213.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Zmiana sposobu wykorzystania terenu oraz strefy ochronne,"
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Zmiana sposobu wykorzystania terenu bez dokonywania inwestycji budowlanej wymaga uzyskania zgody właściwego organu, jeżeli wpłynęłaby na pogorszenie warunków ochrony środowiska albo bezpieczeństwa ludzi lub mienia na danym terenie lub w jego otoczeniu, a zwłaszcza w razie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_1/pkt_1",
+       "text": "prowadzenia odkrywkowej eksploatacji kopalin,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_1/pkt_2",
+       "text": "urządzenia wysypisk, składowisk, miejsc postojowych, produkcji poligonowej, przeładunku materiałów lub surowców na terenach użytkowanych dotychczas na inne cele.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Do wniosku o wyrażenie zgody, o której mowa w ust. 1, należy dołączyć plan realizacyjny w dwóch egzemplarzach oraz odpisy wymaganych przepisami szczególnymi pozwoleń lub zgody organów administracji państwowej na zmianę sposobu wykorzystania terenu. § 23. 1. Ustanowienie strefy ochronnej następuje w . drodze zatwierdzenia planu realizacyjnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Właściciele, zarządcy lub użytkownicy istniejących obiektów budowlanych, dla których ustanawia się strefę ochronną, są obowiązani dostarczyć właściwemu organowi potrzebne wynik) badeń, materiały i inne dane niezbędne do podjęcia decyzji. § 24. Do planów realizacyjnych, o których mowa w § 22 i 23, stosuje się odpowiednio przepisy § 12—18.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Zgłaszanie rozbiórki obiektów budowlanych."
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Zgłoszenia właściwemu organowi wymaga rozbiórka:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_25/pkt_1",
+     "text": "stałych ścian oporowych oraz budowli ochronnych przeciwlawinowych i przeciwrumowiskowych, zabezpieczających również grunty przyległych nierucho Iności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_25/pkt_2",
+     "text": "zbiorników wodnych przeciwpożarowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_25/pkt_3",
+     "text": "studni publicznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_25/pkt_4",
+     "text": "budynków i budowli znajdujących się w odległości mniejszej niż !/3 wysokości budowli od linii rozgraniczającej tereny użytku publicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_25/pkt_5",
+     "text": "obiektów budowlanych będących zabytkami,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Do zgłoszenia rozbiórki należy dołączyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_26/ust_1/pkt_1",
+       "text": "szkic określający położenie rozbieranego obiektu budowlanego i urządzeń ochronnych związanych z wykonywaniem robót rozbiórkowych, w stosunku do granic nieruchomości, istniejących obiektów budowlanych i innych elementów zagospodarowania terenu, podlegających ochronie przed uszkodzeniem, wraz z opisem tych robót,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_26/ust_1/pkt_2",
+       "text": "dowód zgody właściwego organu na rozbiórkę obiektu, jeżeli przepisy szczególne tego wymagają.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Właściwy organ może zażądać od inwestora, ze względu na bezpieczeństwo ludzi i mienia, przedstawienia dodatkowych danych o obiekcie lub opracowań dotyczących prowadzenia robót rozbiórkowych. § 27. 1. Zgłoszenia rozbiórki właściwemu organowi należy dokonać co najmniej na 7 dni przed zamierzonym terminem rozpoczęcia robót.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Do rozbiórki można przystąpić, jeżeli w terminie 7 dni od doręczenia zgłoszenia rozbiórki właściwy organ nie sprzeciwi się jej rozpoczęciu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "Jeżeli należy niezwłocznie zastosować środki mające na celu usunięcie zagrożenia bezpieczeństwa ludzi i mienia, roboty rozbiórkowe i zabezpieczające, niezbędne do usunięcia doraźnego zagrożenia, mogą być rozpoczęte przed ich zgłoszeniem właściwemu organowi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Prowadzenie robót budowlanych."
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Jednostka „organizacyjna przystępująca do wykonania robót budowlanych (rozbiórkowych) jest obowiązana ustanowić kierownika budowy (rozbiórki), posiadającego przygotowanie zawodowe do pełnienia samodzielnej fuńkcji technicznej, obejmującej kierowanie, nadzór i kontrolę robót budowlanych, oraz prowadzić dziennik budowy (rozbiórki). Obowiązuje to w razie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_28/ust_1/pkt_1",
+       "text": "wykonywania i rozbudowy obiektu budowianego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_28/ust_1/pkt_2",
+       "text": "wykonywania robót budowlanych w istniejącym obiekcie budowlanym, obejmujących zmiany układu konstrukcyjnego lub wymianę elementów konstrukcyjnych na rozwiązania o innych właściwościach technicznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_28/ust_1/pkt_3",
+       "text": "wykonywania stałych instalacji w obiektach budowlanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_28/ust_1/pkt_4",
+       "text": "rozbiórki obiektów budowlanych, wymagającej zgłoszenia właściwemu organowi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "Powołanie kierownika budowy obowiązuje również w wypadkach innych aniżeli wymienione w ust I, jeżeli jest to niezbędne ze względu na zakres lub skomplixowany charakter robót, konieczność zapewnienia bezpieczaństwa ludzi lub mienia, ochronę środowiska i warunków zdrowotnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_28/ust_3",
+     "text": "Na terenie inwestycji budowlanych, obejmujących roboty budowlane określone w ust. I pkt 1, 2i 4, obowiązuje wywieszenie tablicy informacyjnej budowy (rozbiórki).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_28/ust_4",
+     "text": "Wymagania, o których mowa w ust. 1 i 3, nie dotyczą budowy (rózbiórki):",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_28/ust_4/pkt_1",
+       "text": "parterowych budynków gospodarczych o powierzchni zabudowy do 30 m?,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_28/ust_4/pkt_2",
+       "text": "pomników, posągów, wodotrysków i innych obiektów architektury ogrodowej, urządzeń wpływających na wygląd obiektów budowlanych, kapliczek i innych podobnych obiektów kultu religijnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_28/ust_4/pkt_3",
+       "text": "ogrodzeń.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_28/ust_5",
+     "text": "Właściwy organ może:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_28/ust_5/pkt_1",
+       "text": "zwolnić z przewidzianego w ust. 1 obowiązku ustanowienia kierownika budowy (rozbiórki),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_28/ust_5/pkt_2",
+       "text": "ze względu na bezpieczeństwo ludzi lub mienia albo ochronę środowiska zażądać ustanowienia kierownika budowy (rozbiórki) i prowadzenia dziennika budowy (rozbiórki) przy wykonywaniu określonych robót budowlanych nie wymienionych w ust. 1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_28/ust_6",
+     "text": "Jeżeli na budowie są prowadzone roboty budowlaue, do kierowania którymi jest wymagane przygotowanie zawodowe w specjalności techniczno-budowlanej innej niż ma kierownik budowy, obowiązuje ustanowienie kierownika robót w danej specjalności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_28/ust_7",
+     "text": "Przepis ust. 6 stosuje się odpowiednio do innych samodzielnych funkcji technicznych na budowie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Dziennik budowy (rozbiórki) należy prowadzić oddzielnie dla każdego obiektu budowlanego, a w odniesieniu do obiektów liniowych lub sieciowych podzielonych na odcinki robót dla oznaczonego odcinka robót.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "W szczególnych wypadkach właściwy organ może dopuścić prowadzenie odrębnych, odpowiednio oznaczonych tomów dziennika budowy dla poszczególnych rodzajów robót instalacyjnych w obiekcie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_29/ust_3",
+     "text": "Jeżeli przepisy wymagają prowadzenia dla określonych robót budowlanych specjalnego dziennika robót (np. ia fundamentów na palach lub studniach, dla ścianek szczelnych), w dzienniku budowy należy zamieścić adnotację o prowadzeniu specjalnego dziennika robót i dziennik ten należy dołączyć do dziennika budowy po zakończeniu robót.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_29/ust_4",
+     "text": "Za prawidłowe prowadzenie dziennika budowy (róż- \"biórki) jest odpowiedzialny kierownik budowy (rozbiórki), a przy wykonywaniu robót systemem ŚoępoBcez Pm inwestor albo osoba kierująca budową.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— §6 — Dziennik Ustaw Nr 8"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_29/ust_5",
+     "text": "Prawo dokonywania wpisów w dzienniku budowy (rozbiórki) przysługuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_29/ust_5/pkt_1",
+       "text": "osobom sprawującym w imieniu wykonawcy lub inwestora kierownictwo lub nadzór nad budową (rozbiórką), osobom pełniącym nadzór autorski, przedstawicielowi użytkownika, a w zakresie bezpieczeństwa wykonywania robót budowlanych także pracownikom wykonawcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_29/ust_5/pkt_2",
+       "text": "osobom dokonującym czynności geodezyjnych na terenie budowy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_29/ust_5/pkt_3",
+       "text": "przedstawicielom organów upoważnionych do kontroli przestrzegania przepisów na budowie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_29/ust_6",
+     "text": "Osoby, których dotyczy zapis dokonany. w dzienaiku budowy (rozbiórki), są obowiązane potwierdzić podpisem zaznaj. pmienie się z treścią tego zapisu. § 30. Dziennik budowy (rozbiórki) jest wydawany przez właściwy organ za zwrotem kosztów. § 31. Kierownik budowy (rozbiórki), a przy gospodarczym systemie wykonywania robót — inwestor, są obowiązani przez cały okres wykonywania robót przechowywać dokumenty stanowiące podstawę ich wykonywania oraz udostępniać te dokumenty uprawnionym organom na miejscu budowy (rozbiórki).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 8",
+   "text": "Zawiadamianie o oddariu obiektu budowlanego do użytku."
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Zawiadomienie właściwego organu o oddaniu do użytku obiektu budowlanego obowiązuje wyłącznie w zakresie wykonanych na podstawie pozwolenia na budowę:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_32/ust_1/pkt_1",
+       "text": "obiektów budowlanych, których eksploatacja jest uzależniona od oznaczenia w terenie i zagospodarowania strefy ochronnej lub od wykonania urządzeń związanych z ochroną środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_32/ust_1/pkt_2",
+       "text": "budynków z pomieszczeń.ami przeznaczonymi na stały pobyt ludzi, z wyjątkiem budynków objętych prawem lotniczym i ustawą o kolejach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_32/ust_1/pkt_3",
+       "text": "obiektów budowlanych nie wymienionych w pkt 1 i 2, co do których w pozwoleniu na budowę nałożono obowiązek zawiadomienia o oddaniu do użytku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Inwestor jest obowiązany w terminie 7 dni od przekazania do użytku całości lub części obiektu budowlanego, określonego w ust. 1, zawiadomić o tym właściwy organ, załączając:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_32/ust_2/pkt_1",
+       "text": "oświadczenie osoby kierującej budową, że obiekt budowlany został wykonany zgodnie z pozwoleniem na budowę, z przepisami i normami oraz że doprowadzono do należytego stanu i porządku teren budowy, a także ulicę, sąsiednią nieruchomość, budynek lub lokal sąsiada w razie korzystania z nich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_32/ust_2/pkt_2",
+       "text": "określenie ewentualnych zmian dokonywanych w trakcie wykonywania robót w stosunku do ustaleń pozwolenia na budowę, a ponadto",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_32/ust_2/pkt_3",
+       "text": "w odniesieniu do obiektów budowlanych, o których mowa w ust. 1 pkt 1, oświadczenie o wyznaczeniu strefy ochronnej i właściwym jej zagospodarowaniu, a także o wykonaniu urządzeń niezbędnych do zapewnienia ochrony środowiska i 6 stanie ich gotowości do eksploatacji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_32/ust_2/pkt_4",
+       "text": "w odniesieniu do obiektu będącego zakładem pracy — oświadczenie o zajętym przez inspektora pracy stanowisku co do zgodności wybudowanego obiektu lub jego części z ustalonymi w projekcie wymaganiami bezpieczeństwa i higieny pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Przepisów ust. I i 2 nie stosuje się do obiektów budowlanych czasowo użytkowanych przez wykonawców robót lub inwestora w okresie realizacji inwestycji budowlanej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 9",
+   "text": "Pozwolenia na użytkowanie."
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "W wypadkach określonych w art. 42 inwestor występuje o udzielenie pozwolenia na użytkowanie obiektu budowlanego po wykonaniu całości robót budowlanych, zamierzonych i nakazanych, po przeprowadzeniu wymaganych przepisami badań i sprawdzeń oraz po doprowadzeniu terenu działki do stanu zgodnego z przepisami, dołączając do wniosku dokumenty wymagane przez właściwy organ.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Właściwy organ może w uzasadnionych wypadkach wyrazić zgodę na wykonanie robót w częściach, ustalając warunki i terminy wykonania całości robót.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "Zdatność do użytku wykonanego obiektu budowlanego stwierdza właściwy organ, korzystając w miarę po» trzeby z uprawnień przewidzianych w art. 56.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 10",
+   "text": "Utrzymanie obiektów budowlenych."
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Właściciel lub zarządca obiektu budowlanego jest obowiązany użytkować obiekt zgodnie z jego przeznaczeniem i utrzymywać go zgodnie z przepisami art. 5, art. 13 i art. 43 oraz, jeżeli wymagają tego przepisy szczególne, wyposażać obiekt w nowoczesne urządzenia i instalacje podnoszące warunki bezpieczeństwa ludzi lub mienia, walory użytkowe i eksploatacyjne obiektu oraz z mniej. szające jego uciążliwość dla otoczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "Właściciel lub zarządca obiektu budowlanego ma obowiązek przechowywania przez okres istnienia obiektu planu realizacyjnego i projektu ze wszystkimi rysunkami zamiennymi lub naniesionymi zmianami, wprowadzonymi w toku wykonywania robót budowlanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "Właściciel lub zarządca jest obowiązany założyć dla każdego budynku książkę obiektu budowlanego, stanowiącą dokument przeznaczony do zapisów dotyczących przeprowadzanych badań stanu technicznego, remontów i przebudowy w okresie użytkowania obiektu budowlanego, w terminie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_1/pkt_1",
+       "text": "do jednego miesiąca od dnia przekazania do użytkowania nowo wybudowanego lub przebudowanego budynku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_1/pkt_2",
+       "text": "do końca 1980 r. dla istniejących budynków.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Właściwy organ może nałożyć obowiązek prowadzenia książki obiektu budowlanego dla innych aniżeli wymienione w ust. 1 obiektów budowlanych albo zwolnić z obowiązku określonego w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "Książka obiektu budowlanego jest wydawana przez właściwy organ za zwrotem kosztów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_35/ust_4",
+     "text": "Protokoły i ekspertyzy dotyczące stanu technicznego obiektu budowlanego powinny być dołączone do książki obiektu budowlanego jako załączniki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_35/ust_5",
+     "text": "Właściciel lub zarządca jest obowiązany przechowywać łącznie z książką obiektu budowlanego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_35/ust_5/pkt_1",
+       "text": "materiały, o których mowa w § 34 ust. 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_35/ust_5/pkt_2",
+       "text": "dziennik budowy i protokoły badań oraz sprawdzeń wymaganych przez przepisy szczególne, instrukcję obsługi oraz instrukcję eksploatacyjną obiektu lub instalacji i urządzeń związanych z obiektem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_35/ust_5/pkt_3",
+       "text": "komplety opracowań projektowych i dokumentów technicznych robót budowlanych wykonanych w obiekcie w trakcie jego użytkowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_35/ust_6",
+     "text": "Właściciel lub zarządca obiektu budowlanego jest",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "obowiązany udostępnić książkę obiektu budowlanego przedstawicielom organów i osobom przeprowadzającym kontrolę utrzymania obiektu budowlanego we właściwym stanie technicznym oraz przedstawicielom innych upoważnionych jednostek."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Podstawą decyzji wydanej w wykonaniu art. 47 powinien być protokół oględzin obiektu budowlanego, przeprowadzonych przez przedstawiciela właściwego organu oraz przedstawicieli innych organów administracji państwowej, stosownie do wymagań przepisów szczególnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Protokół oględzin powinien zawierać w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_36/ust_2/pkt_1",
+       "text": "opis stanu technicznego budynku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_36/ust_2/pkt_2",
+       "text": "przyczyny powstania uszkodzenia lub zniszczenia obiektu budowlanego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_36/ust_2/pkt_3",
+       "text": "określenie stanu zagrożenia bezpieczeństwa ludzi lub mienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_36/ust_2/pkt_4",
+       "text": "uzasadnienie konieczności rozbiórki. § 37. W razie stwierdzenia przez właściwy organ potrzeby opróżnienia w całości lub w części budynku przeznaczonego na pobyt ludzi, grożącego bezpośrednio zawaleniem, organ ten jest obowiązany:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_36/ust_2/pkt_1",
+       "text": "wydać właścicielowi lub zarządcy obiektu budowlanego nakaz opróżnienia albo wyłączenia w określonym terminie całości lub części budynku z użytkowania, na podstawie protokołu oględzin budynku stwierdza jącego sian zagrożenia bezpieczeństwa ludzi lub mienia i konieczność opróżnienia w całości lub w części na stałe lub do czasu wykonania niezbędnych robót budowlanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_36/ust_2/pkt_2",
+       "text": "przesłać protokół, o którym mowa w pkt 1, organowi (jednostce) właściwemu do spraw przydziału lokali w tym budynku w celu wydania nakazu opróżnienia budynku lub jego części, jeżeli nie jest sam właściwy do wydania tej decyzji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_36/ust_2/pkt_3",
+       "text": "zarządzić:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_36/ust_2/pkt_3/lit_a",
+         "text": "umieszczenie na budynku zawiadomienia o stanie zagrożenia bezpieczeństwa ludzi lub mienia oraz o zakazie użytkowania budynku,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_36/ust_2/pkt_3/lit_b",
+         "text": "wykonanie doraźnych zabezpieczeń i usunięcie zagrożenia bezpieczeństwa ludzi lub mienia, z określeniem technicznie uzasadnionych terminów wykonania.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Właściwy organ może zażądać od właściciela lub zarządcy, z uwzględnieniem przepisów szczególnych, usunięcia przeszkód, jeżeli powodują zagrożenie bezpieczeństwa ludzi lub mienia w istniejących obiektach budowlanych albo ograniczenia dopływu światła dziennego do pomieszczeń przeznaczonych na pobyt ludzi w stopniu nie dopuszczonym przez przepisy techniczno-budowlane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "Usunięcie drzewostanu w wypadkach, o których mowa w ust. 1, jest dopuszczalne tylko wówczas, gdy w inny sposób nie można zapewnić bezpieczeństwa ludzi lub mienia albo wymagań zdrowotnych. Decyzja w sprawie usunięcia drzewostanu może być podjęta po zapoznaniu się z opinią w tej sprawie samorządu mieszkańców i jednostki właściwej do spraw zieleni. § 39. Właściwy organ zawiadamia Państwowy Zakład Ubezpieczeń o wydaniu nakazu rozbiórki obiektu budowlanego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rozdział il"
+      },
+      {
+       "type": "text",
+       "text": "Przeprowadzanie kontroli stanu technicznego obiektów budowlanych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_40/ust_1",
+     "text": "Obiekty budowlane powinny być w czasie ich użytkowania poddawane;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_40/ust_1/pkt_1",
+       "text": "kontroli okresowej, dokonywanej co najmniej raz na rok, jeżeli instrukcja eksploatacyjna dla danego obiektu budowlanego nie stanowi inaczej, polegającej na kontroli stanu technicznego elementów budynku, budowli i instalacji, narażonych na szkodiiwe wpływy atmosferyczne i niszczące działanie czynników powstających podczas użytkowania obiektu, oraz na kontroli instalacji i urządzeń służących ochronie środowiska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_40/ust_1/pkt_2",
+       "text": "przeglądowi stanu sprawności technicznej i wartości użytkowej całego obiektu budowlanego, przeprowadzanemu co najmniej raz na 5 lat; przeg!ad ten zastępuje kontrolę okresawą w danym roku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_40/ust_2",
+     "text": "Kontrola lub przegląd, o których mowa w ust. 1, mogą być dokonywane przez osoby posiadające przygotowanie zawodowe wymagane do pełnienia funkcji kierownika budowy lub robót przy budowie analogicznego obiektu budowianego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_40/ust_3",
+     "text": "Kontrolę stanu technicznego instalacji elektrycznych i piorunochronnych oraz gazowych powinny przeprowadzać osoby posiadające kwalifikacje wymagane przy wykonywaniu dozoru lub usług w zakresie naprawy i konserwacji odpowiednich urządzeń energetycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_40/ust_4",
+     "text": "Właściwy organ, ze wzgiędu na bezpieczeństwo ludzi lub mienia, może skrócić określone w ust. I terminy w stosunku do poszczególnych obiektów budowlanych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Właściciel lub zarządca oraz użytkownik w zakresie napraw należących do nich w myśl przepisów szczególnych są obowiązani w czasie lub bezpośrednio pa przeprowadzonej kontroli lub przeglądzie stanu technicznego obiektu budowlanego lub jego części usunąć wszystkie stwierdzone uszkodzenia i usterki oraz uzupełnić braki, które mogłyby spowodować zagrożenie bezpieczeństwa ludzi lub mienia i zagrożenie środowiska, a w szczególności pożar, wybuch, porażenie prądem elektrycznym albo zatrucie gazem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Jeżeli w obiektach budowlanych budownictwa ogólnego zachodzi potrzeba wykonania robót budowlanych, obejmujących wymianę fundamentów, stropów, siupów lub ścian nośnych na rozwiązania o innych właściwościach technicznych albo przebudowę elewacji obiektu, właściciel lub zarządca jest obowiązany zawiadomić właściwy organ na 7 dni przed terminem o przystąpieniu do wykonania zamierzonych robót budowlanych oraz o rodzaju, zakresie i sposowe wykonania tych robót.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_41/ust_3",
+     "text": "Właściwy organ może zażądać od właściciela lub zarządcy, ze względu na bezpieczeństwo ludzi lub mienia albo walory architektoniczne obiektu budowlanego, przedstawienia określonych danych o tym obiekcie lub opracowań dotyczących prowadzenia i wykonania robót, o których mowa w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 12",
+   "text": "Zmiana sposobu użytkowania obiektu budowlanego,"
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_42/ust_1",
+     "text": "Wniosek o wyrażenie zgody na zmianę sposobu użytkowania obiektu budowlanego lub jego części, o której mowa w art. 44 i 45 ust. l, powinien zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_42/ust_1/pkt_1",
+       "text": "opis lub rysunek określający usytuowanie obiektu budowlanego w stosunku do granic nieruchomości i innych obiektów budowlanych, z oznaczeniem części obiektu, w której zamierza się dokonać zmiany sposobu użytkowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_42/ust_1/pkt_2",
+       "text": "zwięzły opis techniczny, określający rodzaj i charakterystykę obiektu budowlanego, jego konstrukcję, opis stanu technicznego podsławowych elementów bezpieczeństwa ludzi lub mienia w obiekcie budowlanym, jego dotychczasowe i przewidywane przeznaczenie, z",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "określeniem, na czym będzie polegała zmiana przezna- -czenia,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_42/ust_1/pkt_3",
+       "text": "dowody uzyskania wymaganych przepisami szczególnymi zgody, porozumienia lub pozwolenia innych organów administracji państwowej, dotyczących objętej wnioskiem zmiany sposobu użytkowania obiektu budów!anego lub jego części,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_42/ust_2",
+     "text": "W razie przeznaczania do zbiorowego użytku publicznego pomieszczeń mających uprzednio inne przeznaczenie, do wniosku, o którym mowa w ust. 1, powinny być dołączone ponadto dane techniczno-użytkowe tych po-. mieszczeń oraz projekt ich adaptacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_42/ust_3",
+     "text": "Jeżeli wniosek o wyrażenie zgody na zmianę sposobu użytkowania składa użytkownik, należy dołączyć do wniosku dowód zgody właścicieia lub zarządcy na proponowaną zmianę sposobu użytkowania obiektu budowlanego lub jego części.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ 3",
+   "text": "Budownictwo osób fizycznych."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Pozwolenie na budowę."
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "Pozwolenie na budowę rozstrzyga o zgodncsci budowy z miejscowym planem zagospodarowania przesirzennego lub z wyznaczeniem terenów budowlanych na podstawie przepisów o terenach budowlanych w miastach lub na obszarach wsi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Pozwolenie na budowę:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_2/pkt_1",
+       "text": "określa położenie i granice działki budowlanej, łącznie ze strefą ochronną w wypadkach wriyjaijcych ustanowienia tej strefy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_2/pkt_2",
+       "text": "ustala zasady i warunki prawidłowej zabudowy działki bądź tylko usytuowanie zamierzonych obiektów budowlanych w nawiązaniu do istniejącej i projektowanej zabudowy otoczenia działki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_43/ust_2/pkt_3",
+       "text": "rozstrzyga pod względem urbanistycznym i architektonicznym o prawidłowości doboru projektów typowych (powtarzalnych| oraz rozwiązań obiektów budowlanych projektowanych indywidualnie, a także o warunkach budowy i użytkowania obiektów budowlanych, wynikających z wymagań ochrony środowiska lub warunków eksploatacji górniczej w granicach obszarów górniczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_43/ust_2/pkt_4",
+       "text": "ustala terminy, do których będą mogły istnieć wbiekty budowlane realizowane jako tymczasowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_43/ust_2/pkt_5",
+       "text": "określa w razie potrzeby:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_43/ust_2/pkt_5/lit_a",
+         "text": "warunki prowadzenia robót budowlanych ze względu na bezpieczeństwo ludzi lub mienia na terenach przyległych do budowy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_43/ust_2/pkt_5/lit_b",
+         "text": "termin rozbiórki istniejącego obiektu budowlanego, stanowiącej warunek realizacji inwestycji,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_43/ust_2/pkt_5/lit_c",
+         "text": "obiekty budowlane, których przekazanie do użytkowania powinno być zgłoszone właściwemu organowi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_43/ust_2/pkt_5/lit_d",
+         "text": "zakres dopuszczonych czasowo odstępstw od przepisów techniczno-budowlanych w związku z istniejącą i zamierzoną zabudową działki i jej otoczenia,",
+         "children": [
+          {
+           "type": "text",
+           "text": "§ 44, 1. Pozwolenia na budowę wymaga:"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_2/pkt_1",
+       "text": "wykonanie i rozbudowa stałych i tymczasowych budynków,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_2/pkt_2",
+       "text": "wykonanie robót budowlanych w istniejącym budynku, obejmujących wymianę fundamentów, słupów lub ścian nośnych na rozwiązania o innych właściwościach technicznych atbo zabezpieczenie budynku przed wpływami eksploatacji górniczej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_43/ust_2/pkt_3",
+       "text": "wykonanie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "zi Poz. 48"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_43/ust_2/pkt_3/lit_a",
+         "text": "stałych ścian oporowych o wysokości powyżej 1 m,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_43/ust_2/pkt_3/lit_b",
+         "text": "stałych instalacji gazowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_43/ust_2/pkt_3/lit_c",
+         "text": "stałych ogrodzeń od strony ulic i piaców w miastach i w miejscowościach uznanych za uzdrowiska i o charakterze turystyczno-wypoczynsowym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_43/ust_2/pkt_3/lit_d",
+         "text": "w miejscach publicznych pomników, posągów i wodotrysków, slalych urządzeń wpływających na wyglad obiektów budowlanych, jak urządzenia reklainowe i ogłoszeniowe, oraz kapliczek i innych podobnych obiektów kultu religijne go,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_43/ust_2/pkt_4",
+       "text": "wykonanie innych inwestycji budów:anych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_43/ust_2/pkt_4/lit_a",
+         "text": "poza terenami i siniejącej zagrody (siedliska) albo poza terenem istniejącej, częściowo już zagospodarowanej działki budowlanej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_43/ust_2/pkt_4/lit_b",
+         "text": "poza terenem działki wydzielonej geodezyjnie, zgodnie z przepisami o wyznaczeniu terenów budowlanych w miastach lub na obszarach wsi,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_43/ust_2/pkt_4/lit_c",
+         "text": "w obiektach zabytkowych oraz w ich otoczeniu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_43/ust_2/pkt_4/lit_d",
+         "text": "mogących wprowadzić lub zwiększyć uciążliwości pogarszające warunki sanitarne, bezpieczeństwa ludzi lub mienia albo warunki wykorzystania terenów sąsiednich.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Pozwolenia na budowę nie wymaga budowa:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_2/pkt_1",
+       "text": "altanek nie przystosowanych do stałego zamieszkania na działkach w pracowniczych ogrodach działkowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_2/pkt_2",
+       "text": "pomników, posągów, kapliczek i innych podobnych obiektów kultu religijnego — na terenach cmentarzy oraz na terenach przykościelnych, związanych z wykonywaniem kultu religijnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_43/ust_3",
+     "text": "Właściwy organ może zwolnić z obowiązku uzyskania pozwolenia na budowę położonego na obszarze wsi budynku gospodarczego i inwentarskiego, wznoszonego według projektu typowego lub powtarzalnego na terenie istniejącej zagrody z zachowaniem warunków określonych w § 46 ust. 1 pkt 4, jeżeli budynek ten nie będzie naruszał warunków technicznych, jakim powinny odpowiadać obiekty budowlane, a zwłaszcza ze względu na odległość od granic sąsiednich nieruchomości nie będzie naruszał zasad zagospodarowania terenu, wymagań ochrony środowiska i bezpieczeństwa ludzi lub mienia. © § 45. 1. Na wniosek inwestora właściwy organ jest obowiązany przed udzieleniem pozwolenia na budowę rozstrzygnąć podstawowe problemy urbanistyczne i architektoniczne oraz ochrony środowiska zamierzonej inwestycji budowlanej, w drodze wydania oddzielnej decyzji o ustaleniu miejsca i warunków realizacji inwestycji lub o zatwierdzeniu planu zagospodarowania działki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "W decyzji, o której mowa w ust. 1, następują rozstrzygnięcia określone w § 43 ust. 2 pkt li 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_43/ust_3",
+     "text": "Na wniosek inwestora właściwy organ jest obowiązany:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_3/pkt_1",
+       "text": "przekazać informację o możliwościach i warunkach realizacji inwestycji na terenie proponowanym przez inwestora lub wskazanym przez organ albo zmiany sposobu wykorzystania tego terenu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_3/pkt_2",
+       "text": "w razie nieprzyjęcia propozycji inwestora — wydać odpowiednią decyzję, zawierającą faktyczne i prawne uzasadnienie nieprzyjęcia tej propozycji.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_46/ust_1",
+     "text": "Do wniosku o wydanie pozwolenia na budowę należy dołączyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_46/ust_1/pkt_1",
+       "text": "plan zagospodarowania działki budowlanej albo powołanie się na wcześniej uzyskaną decyzję o zatwierdzeniu planu zagospodarowania działki w wypadkach, o których mowa w § 45 ust. 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_46/ust_1/pkt_2",
+       "text": "w wypadku projektowanego indywidualnie obiektu budowlanego, objętego obowiązkiem uzyskania pozwolenia na budowę:",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "SS lisa"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_46/ust_1/pkt_2/lit_a",
+         "text": "charakterystyczne rzuty poziome, przekroje i elewacje budynku lub budowli albo odpowiednie rysunki niezbędne do wykonania zamierzonych robót budowlanych, określające ich położenie, zakres i rodzaj oraz zasady rozwiązania architektonicznobudowlanego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_46/ust_1/pkt_2/lit_b",
+         "text": "krótki opis określający przeznaczenie, wyposażenie i wykończenie obiektu budowlanego, z podaniem odpowiednio do rodzaju obiektu — danych o stopniu zagrożenia pożarowego i sanitarnego otoczenia,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_46/ust_1/pkt_3",
+       "text": "dowody wymaganych przepisami szczególnymi zgody, porozumienia lub pozwolenia innych organów administracji państwowej, dotyczących wykonywania zamierzonych robót budowlanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_46/ust_1/pkt_4",
+       "text": "dowód własności, wieczystego użytkowania działki budowlanej, a na obszarach wsi również dowód samoistnego posiadania lub inny dowód dysponowania nieruchomością, określony w odrębnych przepisach. Opracowania i dokumenty określone w pkt 1 i 2 dołącza się w dwóch egzemplarzach, a określone w pkt 3 i 4 w jednym egzemplarzu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_46/ust_2",
+     "text": "Przepis ust. 1 pkt 2 nie dotyczy objętych obowiązkiem uzyskania pozwolenia na budowę parterowych budynków bez palenisk i o powierzchni zabudowy do 30 m*, z wyjątkiem garaży w miastach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_46/ust_3",
+     "text": "Właściwy organ może zażądać, ze względu na bezpieczeństwo ludzi lub mienia, przedstawienia niezbędnych obliczeń i rysunków każdego obiektu budowlanego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_46/ust_4",
+     "text": "Do wniosku o wydanie pozwolenia na budowę obiektu budowlanego, przewidzianego do wykonania według projektu typowego lub powtarzalnego, inwestor może, zamiast planu zagospodarowania działki, dołączyć dwa egzemplarze mapy (dopuszczonego przepisami szkicu sytuacyjnego), wymaganej do sporządzenia tego planu oraz jeden egzemplarz projektu, jeżeli obiekt będzie budowany:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_46/ust_4/pkt_1",
+       "text": "na terenie istniejącej zagrody,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_46/ust_4/pkt_2",
+       "text": "na działce częściowo zabudowanej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_46/ust_4/pkt_3",
+       "text": "na działce nie zabudowanej, wydzielonej geodezyjnia zgodnie z przepisami o wyznaczeniu terenów budowlanych w miastach oraz na obszarze wsi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_46/ust_5",
+     "text": "Projekt typowy lub powtarzalny powinien mieć naniesione zmiany wyłącznie w razie zamierzonej rozbudowy lub przebudowy określonej w § 44 ust. 1 pkt 1i 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_46/ust_6",
+     "text": "W wypadkach określonych w ust. 4 właściwy organ udzielający pozwolenia na budowę określa na mapie (szkicu sytuacyjnym) usytuowanie obiektu budowlanego, uwzględniając prawidłowość doboru projektu typowego i warunki bezpieczeństwa ludzi i mienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_46/ust_7",
+     "text": "Jeżeli wniosek o wydanie pozwolenia na budowę dotyczy zagrody, do której uporządkowania i modernizacji są niezbędne czasowe odstępstwa od przepisów techniczno= budowianych, we wniosku należy wykazać możliwość prawidłowej zabudowy działek lub zagród sąsiednich przy zamierzonej zabudowie zagrody objętej wnioskiem, uzgodnio= ną z właścicielami lub użytkownikami tych działek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_46/ust_8",
+     "text": "Jeżeli kilku inwestorów zamierza podjąć zespołowo budowę obiektów budowlanych, mogą oni wystąpić wspólnie lub przez pełnomocnika o zatwierdzenie planu zagospodarowania działek oraz o wydanie pozwolenia na budowę dla sąsiadujących działek budowlanych. We wniosku należy podać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_46/ust_8/pkt_1",
+       "text": "numery działek z ewidencji gruntów oraz oznaczenie obiektów budowlanych lub ich segmentów należących do poszczególnych inwestorów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_46/ust_8/pkt_2",
+       "text": "imię i nazwisko, adres osoby uprawnionej do odbioru i przechowywania wydanych decyzji wraz z załącznikami.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_46/ust_9",
+     "text": "W razie inwestycji, o których mowa w ust. 8, jeżeli mają być budowane co najmniej dwa identyczne budynki na podstawie tego samego projektu typowego lub powtarzalnego, przedstawia się wymagane opracowania projektowe tylko jednego budynku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_46/ust_10",
+     "text": "Właściwy organ określa dokumenty wymagane do uzyskania pozwolenia na budowę obiektów lub urządzeń, o których mowa w § 44 ust. 1 pkt 3 lit. d). § 47. 1. Plan zagospodarowania działki budowlanej należy sporządzić na aktualnej mapie (dopuszczonym przez przepisy szkicu sytuacyjnym), w skali nie mniejszej niż 1 : 500.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_46/ust_2",
+     "text": "Plan zagospodarowania działki budowlanej powinien zawierać elementy niezbędne do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_46/ust_2/pkt_1",
+       "text": "ustalenia granic działki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_46/ust_2/pkt_2",
+       "text": "usytuowania i wykonania projektowanych obiektów budowlanych, w szczególności określające:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_46/ust_2/pkt_2/lit_a",
+         "text": "obrysy projektowanych obiektów budowlanych, ich przeznaczenie, charakterystyczne wymiary, wzajemne odległości, wyjazdy i wejścia, sposób przewidzianej realizacji — według rodzaju projektu (typowego, powtarzalnego lub opracowanego indywidualnie),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_46/ust_2/pkt_2/lit_b",
+         "text": "zmiany wprowadzane w istniejącym zagospodarowaniu działki i w drzewostanie.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "Pozwolenie na budowę jest wydawane dla całości inwestycji lub jej części, w zakresie objętym opracowaniami projektowymi dołączonymi do wniosku o wydanie pozwolenia na budowę.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Zgłaszanie rozbiórki obiektu budowlanego."
+  },
+  {
+   "type": "text",
+   "text": "4 49. 1. Zgłoszenia właściwemu organowi wymaga rozbłórka:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "budynków znajdujących się w odległości mniejszej niż 1/4 wysokości budynku od linii rozgraniczającej tereny użytku publicznego oraz innych budynków o wysokości powyżej 8 m,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "stałych ścian oporowych, zabezpieczających również grunty przyległe,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "obiektów zabytkowych.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "W zgłoszeniu rozbiórki inwestor jest obowiązany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "określić położenie na działce i rodzaj rozbieranega obiektu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "w odniesieniu do obiektów zabytkowych przedstawić dowód zgody właściwego organu na rozbiórkę obiektu,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Zgłoszenia rozbiórki właściwemu organowi należy dokonać co najmniej na 7 dni przed zamierzonym terminem rozpoczęcia robót.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "Do rozbiórki można przystąpić, jeżeli w terminie 7 dni od doręczenia zgłoszenia rozbiórki właściwy organ jej się nie sprzeciwi.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "Roboty rozbiórkowe i zabezpieczające, niezbędne do usunięcia doraźnego zagrożenia bezpieczeństwa ludzi i mienia, mogą być rozpoczęte przed ich zgłoszeniem właściwemu organowi.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Zmiana sposobu wykorzystania terenu."
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Na dokónanie zmiany sposobu wykorzysta= nią terenu, polegającej na tworzeniu wysypiska, składowi: ska, miejsc postojowych i produkcji poligonowej oraz wy» robiska odkrywkowego kopalin jest niezbędne uzyskanie zgody właściwego organu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "Do wniosku o wyrażenie zgody, o której mowa w ust. 1, należy dołączyć szkic określający położenie wysypiska lub wyrobiska, wymaganą przepisami szczególnymi",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dziennik Ustaw Nr B AR"
+      },
+      {
+       "type": "text",
+       "text": "kartę rejestracyjną złoża kopalin, krótką charakterystykę dokonywanej zmiany sposobu wykorzystania terenu i następstw dla środowiska oraz dowód własności, wieczystego użytkowania, a na obszarach wsi również dowód samoistnego posiadania terenu objętego wnioskiem,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Prowadzenie robót budowłanych."
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_51/ust_1",
+     "text": "Przystępujący do wykonania robót budowlanych, wymagających uzyskania pozwolenia na budowę lub zgłoszenia rozbiórki właściwemu organowi, jest obowiązany:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_51/ust_1/pkt_1",
+       "text": "powierzyć kierownictwo budowy, rozbiórki lub określonych robót budowlanych osobie posiadającej wymagane przygotowanie zawodowe, określone w przepisach w sprawie samodzielnych funkcji technicznych w budownictwie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_51/ust_1/pkt_2",
+       "text": "prowadzić dziennik budowy (rozbiórki),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_51/ust_1/pkt_3",
+       "text": "umieścić na budowie prowadzonej w mieście w widocznym miejscu tablicę informacyjną budowy (rozbiórki).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_51/ust_2",
+     "text": "Przepisu ust. 1 nie stosuje się do budowy (rozbiór-",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_51/ust_2/pkt_1",
+       "text": "parterowych budynków o powierzchni do 30 m?",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_51/ust_2/pkt_2",
+       "text": "instalacji gazowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_51/ust_2/pkt_3",
+       "text": "ogrodzeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_51/ust_2/pkt_4",
+       "text": "pomników, posągów, wodotrysków, urządzeń wpływających na wygląd obiektów budowianych, kapliczek i innych podobnych obiektów kultu religijnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_51/ust_3",
+     "text": "Włeściwy organ może zwolnić z obowiązku powołania kierownika budowy (rozbiórki lub robót) albo prowadzenia dziennika budowy (rozbiórki) w wypadkach innych robót budowlanych aniżeli wymienione w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_52/ust_1",
+     "text": "Dziennik budowy (rozbiórki) należy prowadzić oddzielnie dla każdego obiektu budowlanego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_52/ust_2",
+     "text": "Za prawidłowe prowadzenie dziennika budowy (rozbiórki) jest odpowiedzialna osoba kierująca robotami budów!anymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_52/ust_3",
+     "text": "Prawo dokonywania wpisów w dzienniku budowy (rozbiórki) przysługuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_52/ust_3/pkt_1",
+       "text": "inwestorowi, osobom sprawującym kierownictwo robót budowianych, wykonawcom oraz projektantom,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_52/ust_3/pkt_2",
+       "text": "przedstawicielom organów upoważnionych do kontroli przestrzegania przepisów na budowie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_52/ust_4",
+     "text": "Osoby, których dotyczy zapis dokonany w dzienniku budowy (rozbiórki), są obowiązane potwierdzić podpisem zaznajomienie się z treścią tego zapisu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_52/ust_5",
+     "text": "Dziennik budowy (rozbiórki) i tablica informacyjna są wydawane przez właściwy organ za zwrotem kosztów. § 53. Inwestor jest obowiązany przez cały okres prowadzenia robót przechowywać dokumenty stanowiące podstawę ich wykonania oraz udostępniać te dokumenty i dziennik budowy uprawnionym organom,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Zawiadamianie o oddawaniu do użytku i utrzymanie obiektów budowlanych."
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "Budujący jest obowiązany w terminie 7 dni od przystąpienia do użytkowania całości lub części stałego budynku zawiadomić o tym właściwy organ, załączając wymagane przepisami dziennik budowy oraz protokoły badań i sprawdzeń. § 55. Właściciel lub zarządca obiektu budowlanego jest obowiązany użytkować obiekt zgodnie z jego przeznaczeniem oraz utrzymywać go w należytym stanie technicz-",
+   "children": [
+    {
+     "type": "text",
+     "text": "ARG WWO Poz. 48"
+    },
+    {
+     "type": "text",
+     "text": "nym, a w szczególności wypełniać obowiązki określone w"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "1. Instalacje elektryczne i piorunochronne oraz gazowe w obiektach budowlanych powinny być w czasie ich użytkowania poddawane co najmniej raz na 8 lat przeglądowi polegającemu na badaniu stanu sprawności technicznej połączeń, osprzętu, zabezpieczeń i środków ochrony od porażeń, rezystancji (oporności) izolacji przewodów i uziemień instalacji i aparatów lub — odpowiednio — szczelności przewodów i aparatów gazowych.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_56/ust_2",
+     "text": "Badania stanu technicznego instalacji, o których mowa w ust. 1, należy powierzać osobom posiadającym kwalifikacje wymagane od osób wykonujących dozór lub usługi w zakresie naprawy i konserwacji odpowiednich urządzeń energetycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_56/ust_3",
+     "text": "Protokoły 2 przeglądów instalacji elektrycznych, piorunochronnych i gazowych, o których mowa w ust. 1, powinny być przechowywane przez właściciela (zarządcę) obiektu budowlanego i udostępniane organom i jednostkom upoważnionym do kontroli przestrzegania przepisów w budownictwie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_56/ust_4",
+     "text": "Właściwy organ może nakazać ze względu na bezpieczeństwo ludzi lub mienia przeprowadzenie w wyznaczonym terminie przeglądu stanu technicznego obiektu budowlanego lub jego części.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_57/ust_1",
+     "text": "Właściciel lub zarządca, a użytkownik w zakresie napraw do niego należących w myśl przepisów szczególnych, jest obowiązany, w czasie lub bezpośrednio po przeprowadzonym przeglądzie stanu technicznego obiektu budowlanego lub jego części, usunąć wszystkie stwierdzone uszkodzenia i usterki, których pozostawienie mogłoby spowodować zagrożenie bezpieczeństwa ludzi lub mienia bądź środowiska, a w szczególności katastrofę budowlaną, pożar lub wybuch, porażenie prądem elektrycznym lub zatrucie gazem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_57/ust_2",
+     "text": "W odniesieniu do obiektów budowlanych będących własnością osób fizycznych stosuje się także przepisy",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 36—39. § 58. 1. Wniosek o wyrażenie zgody na zmianę sposobu użytkowania obiektu budowlanego (jego części), o której mowa w art. 44 i 45 ust. 1, powinien zawierać:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_57/ust_2/pkt_1",
+       "text": "opis lub rysunek określający usytuowanie obiektu budowlanego w stosunku do granic działki i innych obiektów budowianych, z oznaczeniem części obiektu, w której zamierza się dokonać zmiany sposobu użytkowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_57/ust_2/pkt_2",
+       "text": "zwięzły opis techniczny określający rodzaj i charakterystykę obiektu budowlanego, opis jego konstrukcji i stanu technicznego podstawowych elementów zapewniających bezpieczeństwo ludzi lub mienia, jego dotychczasowe i przewidywane przeznaczenie, z określeniem, na czym będzie polegała zmiana przeznaczenia, * 2. Jeżeli wniosek, o którym mowa w ust. 1, składa użytkownik, obowiązuje dołączenie dowodu zgody właściciela lub zarządcy na proponowaną zmianę sposobu użytkowania obiektu budowlanego lub jego części.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_57/ust_3",
+     "text": "Właściwy organ może zażądać przedstawienia dodatkowych wyjaśnień i opracowań technicznych nie wymienionych w ust. 1, jeżeli jest to niezbędne do wydania decyzji, oraz innych dokumentów wymaganych przepisami szczególnymi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Pozwolenia na użytkowanie."
+  },
+  {
+   "type": "par",
+   "num": "59",
+   "path": "par_59",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_59/ust_1",
+     "text": "W wypadkach określonych w art. 42 inwestor występuje o udzielenie pozwolenia na użytkowanie obiektu budowlanego po wykonaniu w całości robót budowlanych, zamierzonych i nakazanych, po przeprowadzeniu wymaga-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nych przepisami badań i sprawdzeń oraz po doprowadzeniu terenu działki do stanu zgodnego z przepisami, dołączając do wniosku dokumenty budowy wymagane przez właściwy organ."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_59/ust_2",
+     "text": "Właściwy organ może w uzasadnionych wypadkach wyrazić zgodę na wykonanie robót w częściach, ustalając warunki i terminy wykonania całości robót.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_59/ust_3",
+     "text": "Zdatność do użytku wykonanego obiektu stwierdza właściwy organ, korzystając w miarę potrzeby z uprawnień przewidzianych w art. 56.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ 4",
+   "text": "Postępowanie w sprawach katastrof budowlanych."
+  },
+  {
+   "type": "par",
+   "num": "60",
+   "path": "par_60",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_60/ust_1",
+     "text": "Katastrofą budowlaną w rozumieniu rozporządzenia jest nie zamierzone, gwałtowne zniszczenie obiektu budowlanego lub jego części, a także konstrukcyjnych elementów rusztowań, ścianek szczelnych i obudowy wykopów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_60/ust_2",
+     "text": "Nie stanowi katastrofy budowlanej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_60/ust_2/pkt_1",
+       "text": "uszkodzenie elementu wbudowanego w obiekt budowlany, nadającego się do naprawy lub wymiany,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_60/ust_2/pkt_2",
+       "text": "awaria terenowych urządzeń budowlanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_60/ust_2/pkt_3",
+       "text": "awaria instalacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_60/ust_3",
+     "text": "Przez terenowe urządzenia budowlane należy rozumieć związane z obiektami budowlanymi dojazdy, przejścia, placyki postojowe, placyki pod śmietniki i trzepaki, podwórka i ukształtowanie terenu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_60/ust_4",
+     "text": "Postępowanie wyjaśniające w sprawie katastrofy budowlanej prowadzi właściwy organ, z wyłączeniem postępowania w sprawie wypadku z ludźmi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "61",
+   "path": "par_61",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_61/ust_1",
+     "text": "W razie katastrofy budowlanej w budowanym (rozbieranym) obiekcie budowlanym kierownik budowy (robót) jest obowiązany:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_61/ust_1/pkt_1",
+       "text": "zorganizować doraźną pomoc poszkodowanym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_61/ust_1/pkt_2",
+       "text": "zabezpieczyć miejsce katastrofy przed zmianą stanu, jaki powstał w związku z katastrofą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_61/ust_1/pkt_3",
+       "text": "niezwłocznie zawiadomić o katastrofie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_61/ust_1/pkt_3/lit_a",
+         "text": "właściwy organ,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_61/ust_1/pkt_3/lit_b",
+         "text": "właściwego prokuratora lub właściwy organ Milicji Obywatelskiej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_61/ust_1/pkt_3/lit_c",
+         "text": "inwestora, dyrekcję wykonawcy i jednostkę nadrzędną wykonawcy, :",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_61/ust_1/pkt_3/lit_d",
+         "text": "inne organy zainteresowane przyczynami i skutkami katastrofy budowlanej z mocy przepisów szczególnych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_61/ust_2",
+     "text": "Przepisu ust. 1 pkt 2 nie stosuje się, gdy wprowadzenie zmiany jest konieczne w celu ratowania życia lub zabezpieczenia przed rozszerzaniem się skulków katastrofy; w tym wypadku obowiązuje szczegółowe opisanie stanu faktycznego po katastrofie oraz wprowadzonych zmian, z oznaczeniem tych stanów na szkicach i w miarę możności na fotografiach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_61/ust_3",
+     "text": "Obowiązki, o których mowa w ust. 1, w odniesieniu do obiektów budowlanych, których wykonanie nie wyma- \"ga ustanowienia kierownika budowy, obciążają inwestora, a w odniesieniu do obiektów istniejących — właściciela lub zarządcę. § 62, 1. Właściwy organ po otrzymaniu zawiadomienia o katastrofie budowlanej jest obowiązany:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_61/ust_3/pkt_1",
+       "text": "niezwłocznie powołać komisję mającą na celu protokolarne ustalenie okoliczności i przyczyn katastrofy oraz określenie podstawowych czynności niezbędnych do likwidacji zagrożenia bezpieczeństwa ludzi lub mienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_61/ust_3/pkt_2",
+       "text": "przesłać niezwłocznie do organu administracji państwowej stopnia wojewódzkiego oraz do Ministerstwa Gospodarki Terenowej i Ochrony Środowiska a Poz. 48",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "zawiadomienie o katastrofie budowlanej większych rozmiarów lub w wyniku której nastąpił wypadek z ludźmi."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_61/ust_2",
+     "text": "W skład komisji ustalającej okoliczności i przyczyny katastrofy budowianej wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_61/ust_2/pkt_1",
+       "text": "przedstawiciel właściwego organu, jako przewodniczący komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_61/ust_2/pkt_2",
+       "text": "przedstawiciele innych organów zainteresowanych, jak służby ochrony zabytków, ochrony przeciwpożarowej oraz organów dozoru technicznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_61/ust_2/pkt_3",
+       "text": "w miarę potrzeby — odpowiedni rzeczoznawcy lub osoby posiadające przygotowanie. zawodowe do wykonywania samudzielnych funkcji technicznych. w budownictwie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_61/ust_3",
+     "text": "Do obecności przy pracach komisji mogą być wezwani:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_61/ust_3/pkt_1",
+       "text": "osoby kierownictwa i nadzoru oraz kontroli wykonywanych robót budowlanych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_61/ust_3/pkt_2",
+       "text": "inwestor, właściciel. zarządca lub użytkownik,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_61/ust_3/pkt_3",
+       "text": "przedstawiciele zainteresowanych wykonawców na budowie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_61/ust_3/pkt_4",
+       "text": "projektant i przedstawiciel producenta materiałów budowlanych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_61/ust_4",
+     "text": "Nieobecność którejkolwiek z osób wymienionych w ust. 2 pkt 2 i w ust. 3 nie wstrzymuje prac komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_61/ust_5",
+     "text": "Po zakończeniu prac komisji właściwy organ jest obowiązany niezwłocznie wydać decyzję określającą obowiązek i termin wykonania niezbędnych robót, związanych z uporządkowaniem terenu katastrofy i zabezpieczeniem obiektu budowlanego do czasu wykonania robót doprowadzających obiekt do stanu właściwego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_61/ust_6",
+     "text": "Właściwy organ może żądać od inwestora, wykonawcy, właściciela lub zarządcy obiektu budowlanego dostarczenia ekspertyz dotyczących projektu obiektu budowlanego, materiałów, elementów i robót, a także stanu technicznego obiektu budowianego po katastrofie, jeżeli jest to niezbędne ze względu na bezpieczeństwo ludzi lub mienia albo do wydania decyzji bądź do ustalenia przyczyn katastrofy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "63",
+   "path": "par_63",
+   "text": "Wykonawca, inwestor, właściciel lub zarządca obiektu budowlanego po zakończeniu postępowania, o którym mowa w § 62, jest obowiązany podjąć niezwłocznie działanie niezbędne do usunięcia skutków katastrofy budowlanej. T gam",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ 8",
+   "text": "Nadzór nad wykonywaniem samodzielnych funkcji technicznych w budownictwie."
+  },
+  {
+   "type": "par",
+   "num": "64",
+   "path": "par_64",
+   "text": "W ramach nadzoru nad wykonywaniem samodzielnych funkcji technicznych w budownictwie właściwy organ może w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_64/pkt_1",
+     "text": "sprawdzać, czy osoba, której powierzono pełnienie samodzielnej funkcji technicznej w budownictwie, ma wymagane przygotowanie zawodowe,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_64/pkt_2",
+     "text": "badać zgodność wykonywania samodzielnych funkcji technicznych w budownictwie z przepisami art. 3—5, 13—17 i 19.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "65",
+   "path": "par_65",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_65/ust_1",
+     "text": "Właściwy organ jest obowiązany nakazać zmianę osoby pełniącej samodzielną funkcję techniczną w budownictwie, jeżeli stwierdzi, że osoba ta:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_65/ust_1/pkt_1",
+       "text": "nie posiada wymaganego przygotowania zawodowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_65/ust_1/pkt_2",
+       "text": "nie wywiązuje się ze swoich obowiązków, a wynikające stąd uchybienia mogą spowodować zagrożenie bezpieczeństwa ludzi lub mienia, naruszenie wymagań ochrony środowiska albo możliwość katastrofy budowlanej — a fakty te zostały stwierdzone protokolarnie. e",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_65/ust_2",
+     "text": "Zmiana, o której mowa w ust. 1, powinna nastąpić w ciągu 14 dni od doręczenia żądania właściwego organu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_65/ust_3",
+     "text": "W razie niewykonania nakazu, o którym mowa w ust. 1, właściwy organ wdraża w stosunku do osoby zobowiązanej do dokonania zmiany postępowanie egzekucyjne w administracji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "66",
+   "path": "par_66",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_66/ust_1",
+     "text": "Przewidziane w art. 62 i 64 środki w związku x odpowiedzialnością zawodową osób wykonujących samodzielne funkcje techniczne w budownictwie stosuje się w szczególności, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_66/ust_1/pkt_1",
+       "text": "nastąpiła katastrofa budowlana w wyniku wad w projekcie obiektu budowlanego albo wydania lub uchylenia się od wydania decyzji przez właściwą osobę wbrew jej obowiązkom,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_66/ust_1/pkt_2",
+       "text": "powstało zagrożenie bezpieczeństwa ludzi lub mienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_66/ust_1/pkt_3",
+       "text": "powstało naruszenie warunków ochrony środowiska lub wymagań art. 4,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_66/ust_1/pkt_4",
+       "text": "nastąpiła samowola budowlana, która wywołała działania właściwego organu, o których mowa w art. 36, 37, 40 lub 42,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_66/ust_1/pkt_5",
+       "text": "po raz drugi w okresie ostatnich pięciu lat właściwy organ zażądał zmiany tej samej osoby, pełniącej samodzielną funkcję techniczną w budownictwie, z przyczyn, o których mowa w § 65 ust. 1 pkt 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_66/ust_2",
+     "text": "Przed zastosowaniem środków z tytułu odpowiedzialności zawodowej właściwy organ jest obowiązany:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_66/ust_2/pkt_1",
+       "text": "ustalić protokolarnie okoliczności popełnienia czynu skutkującego odpowiedzialność zawodową, określić zarzuty, wskazać osobę odpowiedzialną i współodpowiedzialną oraz rodzaj proponowanych środków,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_66/ust_2/pkt_2",
+       "text": "zapoznać sironę z ustaleniami i wnioskami, o których mowa w pkt I, w celu umożliwienia jej ustosunkowania się i udzielenia wyjaśnień.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "67",
+   "path": "par_67",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_67/ust_1",
+     "text": "W razie nałożenia na podstawie art. 63 ust. 2 lub art. 64 ust. 1 na osobę wykonującą samodzielną funkcję techniczną w budownictwie obowiązku złożenia egzaminu ze znajomości przepisów i norm, egzamin ten przeprowadza komisja egzaminacyjna, powołana zgodnie z art. 63 ust. 2 przez organ administracji państwowej stopnia wojewódzkiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_67/ust_2",
+     "text": "W skład komisji egzaminacyjnej wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_67/ust_2/pkt_1",
+       "text": "przedstawiciel właściwego organu, jako przewodniczący,.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_67/ust_2/pkt_2",
+       "text": "przedstawicieie stowarzyszeń naukowo-technicznych, właściwych w sprawach poszczególnych specjalności techniczno-budowlanych, w których będą przeprowadzane egzaminy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_67/ust_2/pkt_3",
+       "text": "osoby posiadające wyższe wykształcenie techniczne i przygotowanie zawodowe, wymagane do pełnienia samodzielnych funkcji technicznych w budownictwie w tych specjalnościach techniczno-budowlanych, w których będą przeprowadzone egzaminy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_67/ust_2/pkt_4",
+       "text": "osoby z wyższym wykształceniem prawniczym i praktyką w budownictwie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_67/ust_2/pkt_5",
+       "text": "sekretarz komisji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_67/ust_3",
+     "text": "Komisja przeprowadza egzaminy ustne w zespołach powołanych. przez przewodniczącego komisji dla specjalności techniczno-budowlanych, w których będą przeprowadzane egzaminy, w składzie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_67/ust_3/pkt_1",
+       "text": "przewodniczący zespołu, którym może być przewodniczący komisji lub jego zastępca,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_67/ust_3/pkt_2",
+       "text": "dwóch*egzaminatorów z odpowiednim przygotowaniem zawodowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_67/ust_3/pkt_3",
+       "text": "jeden egzaminator z wykształceniem prawniczym. 4, Wynik egzaminu ustala zespół w protokole i przedstawia go organowi, przy którym komisja działa, stronie, która zdała egzamin z wynikiem zadowalającym, organ ten wydaje odpowiednie zaświadczenie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_67/ust_5",
+     "text": "Termin, miejsce i zakres egzaminu wyznacza prze wodniczący komisji w wykonaniu decyzji właściwego orga* nu, nakładającej obowiązek złożenia egzaminu, zawiada* miając o tym stronę na 14 dni przed egzaminem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_67/ust_6",
+     "text": "W razie niepomyślnego wyniku egzaminu przewodniczący komisji wyznacza stronie następny termin egzaminu, po upływie co najmniej 2 miesięcy od dnia przeprowadzonego egzaminu. i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_67/ust_7",
+     "text": "Do czasu zdania egzaminu osoba objęta obowiązkiem złożenia egzaminu nie może wykonywać samodzielnych funkcji technicznych w budownictwie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "68",
+   "path": "par_68",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_68/ust_1",
+     "text": "Obsługę administracyjną komisji egzaminacyjnej zapewnia organ, przy którym działa komisja.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_68/ust_2",
+     "text": "Wydatki komisji egzaminacyjnej są pokrywane z budżetu właściwej rady narodowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_68/ust_3",
+     "text": "Na pokrycie kosztów egzaminu zdający jest obowiązany wpłacić 200 zł na konto budżetu właściwej rady narodowej. § 69. 1. Właściwe organy są obowiązane przesłać odpisy prawomocnych decyzji z tytułu odpowiedzialności zawodowej oraz zaświadczeń o złożeniu egzaminu, o którym mowa w § 67, do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_68/ust_3/pkt_1",
+       "text": "pracodawcy osoby pociągniętej do odpowiedzialności i do właściwego stowarzyszenia naukowo-technicz= nego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_68/ust_3/pkt_2",
+       "text": "organu, który wydał decyzję z tytułu odpowiedzialności zawodowej w pierwszej instancji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_68/ust_3/pkt_3",
+       "text": "Ministerstwa Gospodarki Terenowej i Ochrony Środowiska do rejestru decyzji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_68/ust_2",
+     "text": "Ministerstwo Gospodarki Terenowej i Ochrony Środowiska prowadzi rejestr wydanych decyzji z tytułu odpowiedzialności zawodowej, obejmujący osoby wykonujące samodzielne funkcje techniczne w budownictwie, które zostały pociągnięte do odpowiedzialności zawodowej przewidzianej w art. 62 i 64.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_68/ust_3",
+     "text": "Skreślenie z rejestru, o którym mowa w ust. 2, następuje po upływie 5 lat od daty uprawomocnienia się decyzji w sprawie upomnienia, a w razie zakazu wykonywania samodzielnej funkcji technicznej w budownictwie — od daty przywrócenia prawa wykonywania tych funkcji,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ 6",
+   "text": "Przepisy końcowe."
+  },
+  {
+   "type": "par",
+   "num": "70",
+   "path": "par_70",
+   "text": "Traci moc rozporządzenie Ministra Gospodarki Terenowej i Ochrony Środowiska z dnia 20 stycznia 1973r. w sprawie ustalania miejsca realizacji inwestycji budowianych oraz państwowego nadzoru budowlanego nad budownictwem powszechnym (Dz. U. Nr 4, poz. 29). § 71. Rozporządzenie wchodzi w życie z dniem 1 kwietnia 1975 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Terenowej i Qchrony Środowiska: J. Kusiak"
+  },
+  {
+   "type": "text",
+   "text": "ES"
+  },
+  {
+   "type": "text",
+   "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakledach Graficznych „Tamka”, Zakład or 1, Warszawa, nl Tamka 3."
+  },
+  {
+   "type": "text",
+   "text": "Zam. 398."
+  },
+  {
+   "type": "text",
+   "text": "Cena 7,20 zł"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

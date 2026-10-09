@@ -1,0 +1,460 @@
+{
+ "eli": "DU/1972/318",
+ "title": "Rozporządzenie Rady Ministrów z dnia 30 listopada 1972 r. w sprawie zasad organizacji, zadań i wynagradzania gminnej służby rolnej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1972/318/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 listopada 1972 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad organizacji, zadań 1 wynagradzania gminnej służby rolnej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 103 ust. 1 pkt 2 i 3 ustawy z dnia 25 stycznia 1958 r. o radach: narodowych (Dz. U. z 1972 r. Nr 49, poz. 314) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "1, Gminną służbę rolną stanowią zatrudnieni w urzędzie gminy starsi instruktorzy, mam i młodsi instruktorzy:",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "*1) rolni,"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wiejskiego gospodarstwa domowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "budownictwa wiejskiego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "melioracji i łąkarstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Prezydia powiatowych rad narodowych określają liczbę stanowisk, o których mowa w ust. 1, oraz urzędy gmin, w których mogą być zatrudnieni młodsi instruktorzy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "W zależności od specjalizacji produkcji rolnej naczelnik gminy może zatrudnić na stanowiskach instruktorów inmych specjalistów z zakresu sadownictwa, warzywnictwa, chowu trzody chlewnej, bydła i innych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_1/ust_4",
+     "text": "Naczelnik gminy powołuje kierownika służby rolnej spośród instruktorów rolnych w porozumieniu z kierownikiem wydziału rolnictwa i leśnictwa prezydium powiatowej rady narodowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Do zadań gminnej służby rolnej należy w szczególności: .",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "organizowanie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_1/lit_a",
+         "text": "rozwoju produkcji rolniczej, a zwłaszcza produkcji zwierzęcej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_1/lit_b",
+         "text": "racjonalnego wykorzystania środków produkcji i właściwego użytkowania gruntów, z uwzględnieniem zespołowych form gospodarowania, «) intensywnej gospodarki na trwałych użytkach zielonych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "prowadzenie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_2/lit_a",
+         "text": "instruktażu i doradztwa dla rolników, zwłaszcza podejmujących specjalizację w zakresie produkcji roślinnej i zwierzęcej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_2/lit_b",
+         "text": "poradnictwa i udzielanie pomocy techniczno-organizacyjnej związanej z budową i unowocześnianiem mieszkalnych i gospodarczych obiektów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_2/lit_c",
+         "text": "spraw związanych z konserwacją i eksploatacją urządzeń melioracyjnych oraz działalnością spółek wodnych,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "upowszechnianie wiedzy i postępu w rolnictwie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Szczegółowy zakres działania gminnej służby rolnej określa naczelnik gminy na podstawie ustaleń prezydium powiatowej rady narodowej wydanych w oparciu o wytyczne Ministra Rolnictwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Gminna służba rolna powierzone jej zadania wykonuje w ścisłej współpracy z kółkami rolniczymi, udziela im fachowej pomocy w ustalaniu i realizowaniu zadań produkcyjnych i szkoleniowych, rozwijaniu usług rolniczych i prawidłowym zagospodarowaniu użytków rolnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Gminna służba rołna współpracuje ze spółdzielczymi organizacjami wiejskimi, spółkami wodnymi i innymi organizacjami obsługującymi rolnictwo.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Kierownik gminnej służby rolnej wykonuje zadania zlecone przez naczelnika gminy w zakresie kontroli prac innych. służb specjalistycznych i jednostek organizacyjnych działających w sposób skoordynowany przez naczelnika gminy w zakresie produkcji rolnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Pracownikom gminnej służby rolnej przysługuje wynagrodzenie zasadnicze według następującej tabeli:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wymagane kwalifikacje"
+      },
+      {
+       "type": "text",
+       "text": "Stanowisko"
+      },
+      {
+       "type": "text",
+       "text": "wykształcenie"
+      },
+      {
+       "type": "text",
+       "text": "Starszy instruktor wyższe średnie"
+      },
+      {
+       "type": "text",
+       "text": "Instruktor wyższe „| średnie"
+      },
+      {
+       "type": "text",
+       "text": "Młodszy instruktor średnie"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Kierownikowi gminnej służby rolnej przysługuje dodatek w wysokości 500 zł miesięcznie za kierowanie pracą instruktorów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Pracownikom gminnej służby rolnej przysługuje dodatek w wysokości 10% wynagrodzenia zasadniczego za nieprzerwaną pracę co najmniej przez 5 lat w gminnej służbie rolnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Zatrudnienie w gromadzkiej służbie rolnej zalicza się do okresu pracy, o którym mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Dodatek, o którym mowa w ust. 1, przysługuje także w razie podjęcia pracy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "w drodze porozumienia zakładów pracy w sprawie przejścia pracownika za jego zgodą do pracy w gminnej służbie rolnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "z zachowaniem ciągłości pracy wymaganej dla nabycia uprawnień do świadczeń z ubezpieczenia rodzinnego, je-",
+       "children": [
+        {
+         "type": "text",
+         "text": "Miesięczne wynazawodowe grodzenie zasadnicze w stawkach liczba lat pracy od — do w złotych zawodowej"
+        },
+        {
+         "type": "text",
+         "text": "po stażu pracy po rocznej pracy w gminnej służbie rolnej"
+        },
+        {
+         "type": "text",
+         "text": "po stażu pracy"
+        },
+        {
+         "type": "text",
+         "text": "żeli pracownik był zatrudniony w zawodzie wymaganym do wykonywania pracy na stanowiskach określonych w § 1 ust. 1. >"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Pracownicy gminnej służby rolnej zatrudnieni na terenie gmin o szczególnie trudnych warunkach pracy otrzymują dodatek za pracę w trudnych warunkach w wysokości 10/0 miesięcznego wynagrodzenia zasadniczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Minister Rolnictwa określi zasady przyznawania dodatku, o którym mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Wynagrodzenie pracowników gminnej służby rolnej wolne jest od podatku od wynagrodzeń i potrąceń na składkę emerytalną. :",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Twerzy się fundusz premiowy w wysokości do 30°%o rocznego funduszu płac zasadniczych pracowników gminnej służby rolnej i naczelnika gminy.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Fundusz premiowy określony w ust. 1 przeznacza się dla pracowników gminnej służby rolnej i naczelnika gminy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Minister Rolnictwa w porozumieniu z Ministrem Prą- „cy, Płac i Spraw Socjalnych oraz Zarządem. Centralnego Związku Kółek Rolniczych ustali wzorcowy. wykaz zadań dla gminnej służby rolnej oraz zasady premiowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Pracownicy gminnej służby rolnej otrzymują ryczałt miesięczny w wysokości od 300 do 500 zł na pokrycie kosztów podróży, diet i noclegów na terenie powiatu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Zasady przyznawania ryczałtu określi Minister Rolnictwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Pracownikom gminnej służby rolnej przysługują bezpłatnie lokale mieszkalne i użytkowe oraz pomieszczenia gospodarcze i inwentarskie w agronomówkach. i wodomistrzówkach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Pracownicy gminnej służby rolnej, którzy nie otrzymali lokali mieszkalnych i pomieszczeń wymienionych w ust. 1, a zamieszkują na terenie gminy, otrzymują ekwiwalent w wysokości:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "200 zł miesięcznie pracownicy samotni,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "400 zł miesięcznie pracownicy posiadający rodziny.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Ekwiwalent ten nie przysługuje w razie rezygnacji z przydzielonego lokalu mieszkalnego i pomieszczeń, wymienionych w ust. 1."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Pracownicy gminnej służby rolnej mogą bezpłatnie korzystać z działki gruntu o powierzchni do 0,5 ha, wydzielonej z gruntów Państwowego Funduszu Ziemi,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz. 318 1 319"
+      },
+      {
+       "type": "text",
+       "text": "4, Ekwiwalent i działka gruntu ckreślone w ust. 2 i 3 przysługują pracownikom gminnej służby rolnej, jeżeli nie są właścicielami lub użytkownikami gospodarstw M położonych na terenie danej gminy. § 12. 1. Przepisy rozporządzenia z wyjątkiem $§ 101 11 mają odpowiednie zastosowanie do pracowników służby rolnej zatrudnionych przez organy do spraw rolnych prezydiów miejskich i dzielnicowych rad narodowych w celu wykonywania na terenie miast zadań określonych dla gminnej służby rolnej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Na terenie miast, w których są miejskie środki lokomocji, pracownicy określeni w ust. mogą otrzymać bezpłatnie bilet miesięczny. W uzasadnionych wypadkach na pokrycie kosztów przejazdu może być przyznany ryczałt w wysokości 200 zł miesięcznie. § 13. Traci moc uchwała nr 187 Rady Ministrów z dnia 3 września 1971 r. w sprawie organizacji, zasad wymagracaje nią i premiowania gromadzkiej służby rolnej. § 14. W sprawach uregulowanych niniejszym rozporządzeniem nie mają zastosowania przepisy uchwały Rady. Ministrów i Centralnej Rady Związków Zawodowych z dnia 30 grudnia 1970 r. w sprawie podwyżki najniższych płac, wprowadzenia dodatków do płac dla niektórych grup pracowników, podwyżki zasiłków rodzinnych oraz niektórych emerytur i rent (Monitor Polski Nr 44, poz. 352). § 15. Rozporządzenie wchodzi w życie z dniem 1 stycznia 1973 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: P. Jaroszewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

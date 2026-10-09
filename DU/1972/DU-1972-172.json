@@ -1,0 +1,216 @@
+{
+ "eli": "DU/1972/172",
+ "title": "Rozporządzenie Rady Ministrów z dnia 15 czerwca 1972 r. w sprawie utworzenia Instytutu Kształcenia Nauczycieli.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1972/172/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 czerwca 1972 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia Instytutu Kształcenia Nauczycieli."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 8 ust. 7 ustawy z dnia 5 listopada 1958 r. o szkolnictwie wyższym (Dz. U. z 1969 r. Nr 4, poz. 31) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Tworzy się Instytut Kształcenia Nauczycieli, zwany w dalszym ciągu „Instytutem”, jako samodzielną placówkę typu naukowo-dydaktycznego bezpośrednio podległą Ministrowi Oświaty i Wychowania. § 2. Siedzibą Instytutu jest miasto stołeczne Warszawa. Instytut może posiadać oddziały terenowe.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Przedmiotem działania Instytutu jest kształcenie i doskonalenie nauczycieli, innych pracowników szkół i placówek oświatowo-wychowawczych podległych Ministrowi Oświaty i Wychowania oraz prowadzenie badań naukowych w zakresie kształcenia nauczycieli.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W szczególności do zakresu działania Instytutu należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "opracowywanie treści, form, metod kształcenia, doskona= lenia i samokształcenia nauczycieli i innych pracowników pedagogicznych szkolnictwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "określanie zasad i kryteriów kierowania nauczycieli na kursy i studia podyplomowe, =",
+       "children": [
+        {
+         "type": "text",
+         "text": "3"
+        },
+        {
+         "type": "text",
+         "text": "= badanie efektywności procesów kształcenia, doskonalemia i samokształcenia, programowanie treści wydawnictw i innych pomocy nau- 4"
+        },
+        {
+         "type": "text",
+         "text": "— kowych dla potrzeb kształcenia, doskonalenia i samokształcenia nauczycieli."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Instytut realizuje sweje zadania przez: — opracowywanie programów kształcenia i doskonalenia",
+   "children": [
+    {
+     "type": "text",
+     "text": "— nauczycieli oraz innych pracowników oświaty,"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "analizowanie przydatności programów kształcenia nauczycieli realizowanych przez szkoły wyższe,",
+     "children": [
+      {
+       "type": "text",
+       "text": "3"
+      },
+      {
+       "type": "text",
+       "text": "— prowadzenie systemem zaocznym kształcenia czynnych nauczycieli mających ukończone liceum pedagogiczne,"
+      },
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "— wydawanie czasopism przedmiotowo-metodycznych oraz publikacji pedagogicznych,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "prowadzenie wyspecjalizowanych ośrodków doskonalenia nauczycieli, kadr kierowniczych szkolnictwa oraz innych pracowników oświaty, prowadzenie badań nad: 6",
+     "children": [
+      {
+       "type": "text",
+       "text": "—"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_5/lit_a",
+       "text": "poziomem kwalifikacji nauczycieli i kadr kierowniczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_5/lit_b",
+       "text": "procesami selekcji do zawodu nauczycielskiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_4/pkt_5/lit_c",
+       "text": "strukturami programowo-metodycznymi kształcenia i doskonalenia nauczycieli,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_4/pkt_5/lit_d",
+       "text": "efektywnością stosowanych metod i form w ksztalces — niu i doskonaleniu nauczycieli,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_4/pkt_5/lit_e",
+       "text": "procesami adaptacji zawodowej nauczycieli rozpoczynających pracę,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_4/pkt_7",
+     "text": "prowadzenie zakładów i ośrodków eksperymentalnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_4/pkt_8",
+     "text": "opracowywanie dokumentacji i informacji naukowo-dydaktycznej w zakresie tematyki prac Instytutu, 9). współdziałanie z instytutami naukowo-badawczymi, wydawnictwami oraz innymi instytucjami współdziałającymi w zakresie kształcenia, doskonalenia i samokształ- _ €enia nauczycieli,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_4/pkt_10",
+     "text": "wymianę doświadczeń i informacji naukowej z instytucjami zagranicznymi w zakresie kszałcenia i doskonalenia nauczycieli,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_4/pkt_11",
+     "text": "prowadzenie kursów dla nauczycieli szkół z polskim językiem nauczania za granicą oraz kierowanie nauczycieli polskich na staże i kursy za granicę. § 5. Wydatki i dochody Instytutu objęte są budżetem Państwa w części dotyczącej Ministerstwa Oświaty i Wychowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Organizację i szczegółowy zakres działania Instytutu określa statut nadany przez Ministra Oświaty i Wychowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Wykonanie rozporządzenia porucza się Ministrowi Oświaty i Wychowania. _ § 8 Rozporządzenie wchodzi w życie z dniem ogłosze= nią.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: P. Jaroszewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

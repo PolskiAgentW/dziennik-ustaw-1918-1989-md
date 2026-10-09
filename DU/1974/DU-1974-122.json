@@ -1,0 +1,287 @@
+{
+ "eli": "DU/1974/122",
+ "title": "Rozporządzenie Rady Ministrów z dnia 31 maja 1974 r. w sprawie najniższych emerytur i rent.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1974/122/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 maja 1974 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie najniższych emerytur i rent."
+  },
+  {
+   "type": "text",
+   "text": "Rządowy program realizacji postanowień I Krajowej Konferencji Polskiej Zjednoczonej Partii Robotniczej, akceptowany uchwałą Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 19 stycznia 1974 r., wśród postanowień zmierzających do polepszenia warunków życia emerytów i rencistów zakłada podwyższenie emerytur i rent najniższych. W celu wykonania tych założeń Rada Ministrów na podstawie art. 18 ustawy z dnia 23 stycznia 1968 r. o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. Nr 3, poz. 6 z późniejszymi zmianami), art. 5 ustawy z dnia 31 stycznia 1959 r. o zaopatrzeniu emerytalnym funkcjonariuszy Milicji Obywatelskiej oraz ich rodzin (Dz. U. z 1973 r. Nr 23, poz. 137) oraz art. 5 ustawy z dnia 16 grudnia 1972 r. o zaopatrzeniu emerytalnym żołnierzy zawodowych i ich rodzin (Dz. U. Nr 53, poz. 341) zarządza, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się następujące kwoty najniższych emerytur i rent: »",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "emerytura — 1.100 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "renta inwalidzka dla inwalidy:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Ii II grupy — 1.050 zł,"
+      },
+      {
+       "type": "text",
+       "text": "— III grupy — 850 zł,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "renta rodzinna dla:",
+     "children": [
+      {
+       "type": "text",
+       "text": "— 1 osoby — 90 zł,"
+      },
+      {
+       "type": "text",
+       "text": "— 2 osób — 1.000 zł,"
+      },
+      {
+       "type": "text",
+       "text": "— 3 lub więcej osób — 1.100 zł."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Jeżeli podstawę wymiaru emerytury pracownika zatrudnionego dorywczo lub w niepełnyni wymiarze czasu pracy stanowi zarobek niższy od kwoty określonej w § 1 pkt 1, wysokość emerytury równa się kwocie podstawy jej wymiaru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przepis ust. 1 stosuje się odpowiednio do rent inwalidzkich i rodzinnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Emerytury i renty w kwotach określonych w § 1 fu i 2 nie obejmują:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "dodatków rodzinnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "dodatku z tytułu odznaczeń państwowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "dodatku z tytułu zaliczenia do I grupy inwalidów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "dodatku z tytułu pracy nauczycielskiej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "wzrostu emerytury z tytułu pracy przez okres ponad 10 lat w Polsce Ludowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "wzrostu renty inwalidzkiej z tytułu inwalidztwa spowodowanego wypadkiem w zatrudnieniu lub chorobą zawodową,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_3/pkt_7",
+     "text": "15-procentowego dodatku dla emerytów wojskowych i milicyjnych, którzy są inwalidami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Emerytury i renty przyznane przed dniem wejścia w życie rozporządzenia w kwotach niższych niż określone w § 1 podwyższa się do tych kwot; podwyżka nie może wynosić jednak mniej niż 125 zł miesięcznie.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "== 1990) = Dziennik Ustaw Nr 21"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Emerytury i renty przyznane przed dniem wejścia w życie rozporządzenia osobom, o których. mowa .w § 2, podwyższa 'się o 100 zł miesięcznie,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Ekwiwalent za wzrost czynszu mieszkaniowego przysługujący do emerytur i rent w dniu wejścia w życie rozporządzenia wypłaca się nadal w dotychczasowej wysokości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Osobom uprawnionym do emerytur i rent inwalidzkich, o których mowa w § 1 i 2, przyznaje się dodatek w kwocie 60 zł miesięcznie, jeżeli mają one na wyłącznym utrzymaniu współmałżonka,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Dodatek określony w ust. 1 przysługuje również do emerytur i rent inwalidzkich wyższych niż określone w",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 1i 2, jednak nie przekraczających kwoty 1.500 zł, przy czym przy ustalaniu wysokości emerytury lub renty, od której zależą uprawnienia do tego dodatku, nie uwzględnia się dodatków rodzinnych i dodatku z tytułu zaliczenia do I grupy inwalidów."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Przepisy rozporządzenia stosuje się odpowiednio do emerytur i rent określonych w przepisach:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "ustawy z dnia 28 maja 1957 r. o zaopatrzeniu emerytalnym górników i ich rodzin (Dz. U. z 1968 r. Nr 3, poz. 19i z 1972 r. Nr 53, poz. 341), /",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "ustawy z dnia 10 grudnia 1959 r. o Służbie Więziennej (Dz. U. Nr 69, poz. 436),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "ustawy z dnia 23 stycznia 1968 r. o świadczeniach pieniężnych przysługujących w razie wypadków przy pracy (Dz. U. z 1968 r. Nr 3, poz. 8 i z 1972 r. Nr 27, poz. 191),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "ustawy z dnia 23 stycznia 1958 r. o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin (Dz.U. Nr 3, poz. 10),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_6/pkt_5",
+     "text": "ustawy z dnia 26 października 1971 r. o ubezpieczeniu społecznym członków rolniczych spółdzielni produkcyjnych i ich rodzin (Dz. U. Nr 27, poz. 255).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Traci moc rozporządzenie Rady Ministrów z dnia 25 stycznia 1968 r. w sprawie najniższych emerytur i rent (Dz. U. Nr 3, poz. 17).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 sierpnia 1974 r. Prezes Rady Ministrów: P. Jaroszewicz.",
+   "children": [
+    {
+     "type": "text",
+     "text": "‘"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

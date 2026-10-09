@@ -1,0 +1,488 @@
+{
+ "eli": "DU/1973/110",
+ "title": "Rozporządzenie Rady Ministrów z dnia 13 kwietnia 1973 r. w sprawie zasad postępowania ze środkami spożywczymi i używkami o niewłaściwej jakości zdrowotnej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1973/110/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 kwielnia 1973 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad postępowania ze środkami spożywczymi j używkami o niewłaściwej jakości zdrowotnej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 28 ust. 1 pkt 1 ustawy z dnia 25 listopada 1970 r. o warunkach zdrowctnych żywności i żywienia (Dz. U. z 1970 r. Nr 29, poz. 245 i z 1971 r. Nr 12, poz. 115) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Środkami spożywczymi o niewłaściwej jakości zdrowotnej są środki spożywcze, k:óre nie odpowiadają wymaganiom ustalonym w przepisach o warunkach zdrowotnych żywności i żywienia lub wymaganiom określonym w Polskich Normach? lub w normach branżowych, a jeżeli odpowiednie Polskie Normy albo normy branżowe nie zostały ustanowione — w normach zakładowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Środkami o niewłaściwej jakości są w szczególności środki spożywcze:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "szkodliwe dla zdrowia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "zepsute,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "wykazujące zmiany organoleptyczne w stopniu uniemoż!liwiającym ich spożycie lub użycie do produkcji innych środków spożywczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_2/pkt_4",
+       "text": "zawierające żywe szkodniki magazynowe lub substancje obce niedozwolone,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_2/pkt_5",
+       "text": "zawierające w ilościach większych niż dopuszczalne w myśl obowiązujących przepisów lub norm martwe szkodniki magazynowe, zanieczyszczenia przypadkowe, drobnonstroje niechorobotwórcze lub substancje obce dozwoline,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/ust_2/pkt_6",
+       "text": "wyprodukowane lub wprowadzone do obrotu z naruszeniem decyzji Ministra Zdrowia i Opieki Społecznej",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "wydanej na podstawie art. 13 powołanej na wstępie ustawy,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_1/ust_2/pkt_7",
+       "text": "nie odpowiadające warunkom określonym w zezwoleniu, jeżeli zezwolenie takie jest wymagane dla produkcji lub wprowadzenia do obrotu określonego środka spożywczego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_1/ust_2/pkt_8",
+       "text": "pochodzące od zwierząt lub ze zwierząt, którym w celach hodowlanych podawano substancje o działaniu hormonalnym lub antybiotyki bez zachowania odpowiednich warunków, takich jak przestrzeganie okresów karencji, odpowiednie dawki itp.,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_1/ust_2/pkt_9",
+       "text": "wyprodukowane w zakładzie, w którym używano wody nie odpowiadającej pod względem składu bakteriologicznego wymaganiom dla wody do picia i potrzeb gospodarczych, chyba że woda nie odpowiadająca tym wymaganiom jest przeznaczona wyłącznie do celów gospodarczo-technicznych (np. zasilanie kotłowni, do celów przeciwpożarowych) i pochodzi z wyodrębnionego obiegu obejmującego przewody oznaczone innym kolorem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_1/ust_2/pkt_10",
+       "text": "którym termin przydatności do spożycia upłynął.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "W odniesieniu do ziarna zbóż w zakresie przewidzianym ust. 2 pkt 4 i 5 obowiązują Polskie Normy i normy branżowe. 4.Za środek spożywczy o niewłaściwej jakości zdrowotnej uważa się również: taki środek, na którego powierzchni znajdują się substancje określone w ust. 2 pkt 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_1/ust_5",
+     "text": "Środek spożywczy może być uznany za środek spożywczy o niewłaściwej jakości zdrowotnej, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_5/pkt_1",
+       "text": "zostanie. stwierdzone, że przy pracach wymagających bezpośredniego stykania z danym środkiem lub z urządzeniem wodnym danego zakładu był zatrudniony pracownik chory na chorobę zakaźną lub będący nosicielem zarazków choroby zakaźnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_5/pkt_2",
+       "text": "urządzenia, aparaty, sprzęt, narzędzia, opakowania i inne materiały stykające się ze środkami spożywczymi w produkcji lub obrocie zawierają składniki, - które w razie przenikania do środka spożywczego mogą powodować ujemne skutki dla zdrowia lub zmiany organoleptyczne w stopniu uniemożliwiającym ich spożycie, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_5/pkt_3",
+       "text": "na bezpośrednim opakowaniu znajdują się zanieczyszczenia przypadkowe, które mogą przenikać do środków spożywczych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_1/ust_6",
+     "text": "Wymagania jakości zdrowotnej dotyczące przedmiotów wymienionych w ust. 5 pkt 2 określi Minister Zdrowia i Opieki Społecznej w porozumieniu z zainteresowanymi ministrami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Organ właściwy do wykonywania nadzoru nad zdrowotną jakością środków spożywczych w razie powzięcia uzasadnionego podejrzenia, że środek spożywczy jest niewiaściwej jakości zdrowotnej, nakazuje zabezpieczenie takiego środka spożywczego do czasu przeprowadzenia potrzebnych badań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Zabezpieczenie środków spożywczych powinno obejmować stosownie do okoliczności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "określenie wielkości zakwestionowanej partii środka (środków) spożywczego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "pobranie próbki w celu przeprowadzenia odpowiednich badań, a także ustalenie innych okoliczności istotnych dla oceny jakości zdrowotnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "zakaz używania środka spożywczego do produkcji innych środków spożywczych lub wprowadzenia go do obrotu do czasu ustalenia jakości zdrowotnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "ustalenie sposobu przechowania i oznaczenia zabezpieczonego środka spożywczego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_2/pkt_5",
+       "text": "zabezpieczenie dokumentów dotyczących wewnętrznej kontroli jakości, a w miarę potrzeby również innych dokumentów. . i",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Nakaz zabezpieczenia powinien być wydany na piśmie i zawierać termin ważności nie przekraczający dwóch tygodni od daty wydania nakazu. Ustalenie dłuższego lerminu wymaga zgody organu nadrzędnego nad organem nadzoru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Jeżeli zostanie stwierdzone, że środek spożywczy objęty nakazem odpowiada obowiązującym wymaganiom zdrowotnym, to organ nadzoru uchyla nakaz zabezpieczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Organem właściwym do wykonania nadzoru nad zdrowotną jakością środków spożywczych, zwanym dalej „organem nadzoru”, jest organ Państwowej Inspekcji Sanitarnej lub organ administracji państwowej nadzorowany przez Ministra Rolnictwa, określony w rozporządzeniu Ministrów Zdrowia i Opieki Społecznej oraz Rolnictwa z dnia 12 września 1972 r. w sprawie wykonania niektórych przepisów ustawy o warunkach zdrowotnych żywności i żywienia (Dz. U. Nr 40, poz. 261).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W razie stwierdzenia, że środek spożywczy nie odpowiada wymaganiom jakości zdrowotnej, organ nadzoru w zależności od czynników dyskwalifikujących — wydaje decyzje o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "nieprzydatności środka spożywczego dla żywienia ludzi, przy zachowaniu warunków określonych w § 4,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "przeznaczeniu na inne cele lub zniszczeniu środka spożywczego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Organ nadzoru na wniosek zainteresowanej jedno-. stki organizacyjnej może wydać decyzję o przydatności środka spożywczego dla żywienia ludzi wyłącznie przy zachowaniu określonych warunków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "W decyzji o nieprzydatności środka spożywczego dla żywienia ludzi jednostka produkująca lub wprowadzająca do obrotu taki środek może być zobowiązana do jego skażenia w sposób uniemożliwiający spożywanie lub używanie tego środka do produkcji innych środków spożywczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "W razie stwierdzenia, że znajdujący się w obrocie środek spożywczy jest sfałszowany, ale nie wykazuje cech szkodliwych dla zdrowia, organ nadzoru zawiadamia o tym inne właściwe organy i przekazuje im wyniki badań.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Organ nadzoru, który wydał decyzję określoną w § 3 ust. I pkt 1, na wniosek jednostki zainteresowanej wydaje opinię o braku przeciwwskazań zdrowotnych co do wykorzystania danego środka spożywczego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "zgodnie z przeznaczeniem po poddaniu środka spożywczego określonym procesom uzdatniającym, wskazanym we wniosku, lub",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "do produkcji określonych we wniosku artykułów nie będących środkami spożywczymi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Środek spożywczy poddany procesom uzdatniającym, stosownie do ust. 1 pkt 1, może być wprowadzony do obrotu lub użyty do produkcji innych środków spożywczych po stwierdzeniu przez organ nadzoru przydatności danego środka spożywczego dla żywienia ludzi. \"3. Odpis dokumentu o przekazaniu środka spożywczego niewłaściwej jakości do innych celów niż do żywienia ludzi należy przekazać organowi nadzoru,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Wydanie decyzji określonej w § 3 ust. 1 i 2 powinno być oparte na wynikach badań laboratoryjnych pobranych próbek, chyba że cechy dyskwalifikujące dany środek spożywczy mogą być ustalone bez takich badań,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Przy pobieraniu próbek środka spożywczego oraz przy badaniach i ocenie jakości zdrowotnej tego środka stosuje się zasady określone w odpowiednich przepisach lub normach, a w razie ich braku zasady ustalone przez Głównego Inspektora Sanitarnego. Zasady te w odniesieniu do środków spożywczych, których zdrowotna jakość pozostaje pod nadzorem organów administracji państwowej nadzorowanych przez Ministra Rolnictwa, ustala Główny Inspektor w porozumieniu z tym Ministrem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Organ nadzoru wydaje decyzję o zniszczeniu środka spożywczego (§ 3 ust. 1 pkt 2) jeżeli zostanie ustalone, że jest on szkodliwy dla zdrowia i dalsze jego przechowywanie może stanowić niebezpieczeństwo zagrożenia zdrowia ludności.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Środek spożywczy, którego dotyczy decyzja oxreSlona w § 3 ust 1, powinien być usunięty z pomieszczeń zakładu produkującego lub wprowadzającego do obrotu takie środki, a na żądanie organu nadzoru niezwiocznie zniszczony lub skażceny w obecności przedstawiciela organu nadzoru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Pomieszczenia, urządzenia i narzędzia, z którymi stykał się taki środek, powinny być natychmiast oczyszczone i w miarę potrzeby wydezynfekowane lub dezynsekowane. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Odpis protokołu zniszczenia należy przekazać organowi nadzoru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "W razie stwierdzenia okoliczności uzasadniających wydanie decyzji określonej w § 3 ust. 1 organ nadzoru powinien przeprowadzić postępowanie niezbędne do ustalenia przyczyn powstania tych okoliczności. W wypadku stwierdzenia uchybień w zakładzie produkującym dany środek spożywczy organ nadzoru wyda zakaz produkcji do czasu usunięcia stwierdzonych uchybień.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W razie stwierdzenia, że środek spożywczy nie odpowiadający wymaganiom jakości zdrowotnej znajduje się w obrocie lub może być wprowadzony do obrotu, organ nadzoru:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_2/pkt_1",
+       "text": "wydaje zakaz wprowadzania do obrotu danego środka na obszarze swego działania oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_2/pkt_2",
+       "text": "zawiadamia o tym inne organy nadzoru właściwe do wydania takiego zakazu, jeżeli dany środek znajduje się również poza obszarem działania organu prowadzącego postępowanie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Organami właściwymi w myśl ust. 2 pkt 2 są:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_3/pkt_1",
+       "text": "organy stopnia powiatowego, jeżeli chodzi o środek spożywczy znajdujący się na obszarze powtatu (miasta stanowiącego powiat, dzielnicy miasta wyłączonego z województwa),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_3/pkt_2",
+       "text": "organy stopnia wojewódzkiego, jeżeli chodzi o środek spożywczy, który znajduje się na obszarze dwóch lub więcej powiatów (miast stanowiących powiaty, dzielnic miasta wyłączonego z województwa),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_3/pkt_3",
+       "text": "odpowiednio Główny Inspektor Sanitarny lub Minister Rolnictwa, jeżeli chodzi o środek spożywczy, który znajduje się w obrocie na obszarze dwóch lub więcej województw (miast wyłączonych z województw) lub z innych szczególnie uzasadnionych względów.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie dotyczy również używek i substancji dodatkowych dozwolonych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Wykonanie rozporządzenia porucza się Ministrowi Zdrowia i Opieki Społecznej, Ministrowi Rolnictwa oraz innym zainteresowanym ministrom,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: P. Jaroszewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

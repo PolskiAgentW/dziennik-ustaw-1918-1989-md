@@ -1,0 +1,124 @@
+{
+ "eli": "DU/1973/236",
+ "title": "Rozporządzenie Rady Ministrów z dnia 28 września 1973 r. w sprawie zmiany granic niektórych powiatów w województwach katowickim, lubelskim, łódzkim, warszawskim i wrocławskim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1973/236/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 września 1973 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granic niektórych powiatów w województwach katowickim, ' lubelskim, łódzkim, warszawskim i wrocławskim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 i art. 5 ust. 1 ustawy z dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje: § 1. W województwie katowickim wyłącza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "z gminy Żarki w powiecie myszkowskim obszar sołectwa Góra Włodowska i włącza się go do gminy Włodowice w powiecie zawierciańskim;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "z gminy Bobrowniki w powiecie będzińskim obszar sołectwa Celiny i włącza się go do gminy Tąpkowice w powiecie tarnogórskim,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W województwie lubelskim wyłącza się z gminy Stara Wieś w powiecie bychawskim obszary sołectw Rudnik Drugi i Rudnik Pierwszy i włącza się je do gminy Zakrzówek w powiecie kraśnickim,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W województwie łódzkim wyłącza się z gminy Czarnocin w powiecie łódzkim obszar sołectwa Podolin i włącza się go do gminy Moszczenica w powiecie piotrkowskim.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 4 W województwie warszawskim wyłącza się:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "z powiatu płońskiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "z gminy Czerwińsk nad Wisłą obszar sołectwa Smoszewo i włącza się go do gminy Zakroczym w powiecie nowodworskim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "z gminy Gralewo obszar sołectwa Kiniki i włącza się go do gminy Raciąż w powiecie sierpeckim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "z gminy Mokobody w powiecie siedleckim obszar sołectwa Dmochy-Mingosy i włącza się go do gminy Bielany w powiecie sokołowskim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "z gminy Korytnica w powiecie węgrowskim obszary sołectw Marysin, Szamocin i Wiktoria i włącza się je do gminy Strachówka w powiecie wołomińskim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "z gminy Halinów w powiecie mińskim obszar miejscowości Długa Szlachecka i włącza się go do miasta Sulejówek w powiecie otwockim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W województwie wrocławskim wyłącza się z gminy Marciszów w powiecie kamiennogórskim obszar sołectwa Gostków i włącza się go do gminy Stare Bogaczowice w powiecie wałbrzyskim. :",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie z dniem 9 grudnia 1973 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: P. Jaroszewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

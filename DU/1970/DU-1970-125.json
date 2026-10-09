@@ -1,0 +1,987 @@
+{
+ "eli": "DU/1970/125",
+ "title": "Rozporządzenie Ministra Górnictwa i Energetyki z dnia 9 maja 1970 r. w sprawie bezpieczeństwa i higieny pracy w zakładach energetycznych oraz w innych zakładach przy urządzeniach elektroenergetycznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1970/125/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GÓRNICTWA I ENERGETYKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 maja 1970 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie bezpieczeństwa i higieny pracy w zakładach energetycznych oraz w innych zakładach przy urządzeniach elektroenergetycznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 ust. 3 ustawy z dnia 30 marca 1965 r. o bezpieczeństwie i higienie pracy (Dz. U. Nr 13, poz. 91) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy wstępne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie normuje sprawy bezpieczeństwa i higieny pracy w: — elektrowniach, — elektrociepłowniach, — ciepłowniach (kotłowniach), — zakładach przesyłających i rozdzielających energię elektryczną, — zakładach przesyłających i rozdzielających energię cieplną, zwanych dalej „zakładami energetycznymi\".",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Rozporządzenie stosuje się ponadto w jednostkach gospodarki uspołecznionej nie wymienionych w ust. 1 w zakresie pracy przy urządzeniach elektroenergetycznych o napięciu 110 V i wyższym, z wyjątkiem urządzeń w podziemiach kopalń, urządzeń jednostek pływających, statków powietrznych, pojazdów mechanicznych, taboru i sieci trakcji miejskiej i kolejowej oraz urządzeń telekomunikacyjnych. §2. 1. Użyte w rozporządzeniu określenia oznaczają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "osoby kierownictwa i dozoru — osoby określone w 'przepisach wydanych na podstawie art. 9 ustawy z dnia 30 maja 1962 r. o gospodarce paliwowo-energetycznej (Dz. U. Nr 32, poz. 150),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "pracownicy obsługi urządzeń energetycznych — osoby określone w przepisach wydanych na podstawie art. 10 ustawy o gospodarce paliwowo-energetycznej, 3 pracownicy bez bliższego określenia — osoby zatrudnio-",
+       "children": [
+        {
+         "type": "text",
+         "text": "= ne w zakładach energetycznych (§ 1 ust. 1) oraz w innych zakładach przy pracach wymienionych w § 1 ust. 2, w tym także osoby objęte przepisami rozporządzenia Rady Ministrów z dnia 18 sierpnia 1967 r. w sprawie stosowania przepisów ustawy o bezpieczeństwie i higienie pracy do osób stale wykonujących pracę na innej podstawie niż stosunek pracy (Dz. U. Nr 35, poz. 177),"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_2/pkt_4",
+       "text": "upoważnieni pracownicy — pracowników, którzy w ramach swych czynności służbowych lub na podstawie polecenia mają obowiązek stałego lub doraźnego wykonywania określonych prac (czynności),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/ust_2/pkt_5",
+       "text": "instrukcja o eksploatacji — instrukcje wydane zgodnie z zarządzeniem Ministra Górnictwa i Energetyki z dnia 1 września 1967 r. w sprawie ogólnych zasad eksploatacji urządzeń energetycznych (Monitor Polski Nr 51, poz. 254), - pomieszczenia ruchu elektrycznego — wydzielone po- 6",
+       "children": [
+        {
+         "type": "text",
+         "text": "= mieszczenia lub części pomieszczeń albo przestrzenie w budynkach lub poza budynkami, w których zainstalowane są urządzenia elektroenergetyczne i które są dostępne tylko dla upoważnionych pracowników, pomieszczenia zagrożone pożarem lub wybuchem —"
+        },
+        {
+         "type": "text",
+         "text": "7"
+        },
+        {
+         "type": "text",
+         "text": "— obiekty, pomieszczenia, strefy i przestrzenie zewnętrzne, zaliczone do jednej z pięciu kategorii niebezpieczeństwa pożarowego (I—V) lub jednej z pięciu kategorii zagrożenia wybuchem (WI=WV) na podstawie przepisów rozporządzenia Ministra Spraw Wewnętrznych z dnia 28 lutego 1967 r. w sprawie klasyfikacji obiektów budowlanych i zakładów pracy pod względem niebezpieczeństwa pożarowego i zagrożenia wybuchem (Dz. U. Nr 8, poz. 34), urządzenie bez bliższega określenia — urządzenie zńaj- 8"
+        },
+        {
+         "type": "text",
+         "text": "= dujące się w zakładzie energetycznym oraz urządzenie określone w § 1 ust. 2."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "text",
+   "text": "'8 3. 1. Trasy ruchu kołowego, przejścia dla pieszych oraz drogi pożarowe na terenie zakładu powinny być oznaczone, zabezpieczone i należycie utrzymane, a ruch pojazdów zorganizowany w sposób nie powodujący kolizji."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przy rozbudowie zakładu należy oddzielić ogrodzeniem część zakładu znajdującą się w eksploatacji od części. nowo budowanej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 4, 1. Otwarte kanały, studzienki, zbiorniki, wykopy lub inne podobne wgłębienia w miejscach dostępnych dla ludzi na terenie zakładu powinny być w sposób widoczny oznaczone znakami ostrzegawczymi, a miejsca szczególnie niebezpieczne — ogrodzone."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Znaki ostrzegawcze i ogrodzenia (ust. 1) powinny być od zmierzchu do świtu i w razie ograniczonej widoczności oświetlone lampami ostrzegawczymi.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Otwarte kanały i zbiorniki wodne powinny być wyposażone w odpowiedni sprzęt i urządzenia ratunkowe (koła",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "ratunkowe, kłamry i poręcze chwytowe, zejścia) w miejscach wymagających takich zabezpieczeń. 4"
+    },
+    {
+     "type": "text",
+     "text": "§ 5 1. Komory podziemne studzienki rewizyjne, kanały kablowe, wentylacyjne i inne pomieszczenia podziemne powinny być należycie zabezpieczone przed zalaniem wodą opadową i gruntową oraz powinny mieć zapewnioną należytą wentylację."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Pokrywy 1 włazy do pomieszczeń, o których mowa w ust. 1, powinny mieć odpowiednie zamknięcia, uniemożliwiające dostęp do tych pomieszczeń osobom nie upoważnionym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Przed przystąpieniem do robót ziemnych powinny być rozpoznane i oznaczone na terenie przyszłych robót przewody i urządzenia uzbrojenia podziemnego, a w szczególmości sieci elektroenergetyczne, cieplne, gazowe, wodne i inne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Prace w wykopach ziemnych powinny być odpowiednio zabezpieczone.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Urządzenia pracujące przy temperaturze czynnika wyższej od 60°C powinny mieć izolację tak utrzymaną, aby ich temperatura zewnętrzna w miejscach dostępnych nie przekraczała 60°C. e",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 8 1. Obiekty z zainstalowanymi urządzeniami, których ruch stwarza zagrożenie dla zdrowia i życia ludzkiego, powinny być oznaczone znakami ostrzegawczymi i tablicami z zakazem wstępu osobom nie upoważnionym."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Pomieszczenia ruchu elektrycznego powinny być zamknięte i dostępne tylko dla upoważnionych pracowników, „89.1. Urządzenia powinny być uruchamiane tylko przez upoważnionych pracowników z zachowaniem kolejności czynności określonych w instrukcji o eksploatacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Urządzenia, których ruch stwarza zagrożenie dla zdrowia i życia ludzkiego, można uruchamiać dopiero po uprzednim ostrzeżeniu osób znajdujących się w bezpośrednim sąsiedztwie o zamierzonym uruchomieniu urządzeń, § 10. Prace na wysokości mogą być wykonywane tylko przy zastosowaniu odpowiednich urządzeń (rusztowania, pomosty, podnośniki) lub innych właściwych dla tego rodzaju pracy ochron, zabezpieczeń oraz sprzętu. § 11. Miejsca pracy powinny być oznaczone i odpowiednio zabezpieczone. § 12. 1. Urządzenia lub ich części, które mają być poddane pracom konserwacyjnym lub remontowym, powinny ibyć wyłączone z ruchu oraz skutecznie zabezpieczone przed nieprzewidzianym ich włączeniem do ruchu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Urządzenie, które znajduje się w pobliżu miejsca wykonywania prac określonych w ust. 1, a którego ruch może zagrażać bezpieczeństwu wykonywania prac, powinno być wyłączone z ruchu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "W uzasadnionych wypadkach prace, o których mowa w ust. 1 i 2, mogą być zabezpieczone innymi środkami, przy zastosowaniu jednak trybu postępowania przewidzianego w § 17.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Zabrania się wykonywania przez osoby nie upoważnione zmian osłon, ochron i innych istniejących zabezpieczeń urządzeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "W czasie ruchu urządzenia zabrania się zdejmowania osłon z części ruchomych. § 14. 1. Przy pracach wewnątrz pomieszczeń lub urządzeń o szczególnym zagrożeniu porażeniem prądem elektrycznym można używać tylko przenośnego sprzętu oświetleniowego i narzędzi zasilanych napięciem znamionowym mię wyższym niż 24 V,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Zezwala się na stosowanie w warunkach określonych w ust, 1 narzędzi z napędem elektrycznym na napięcie znamionowe wyższe niż 24 V w wykonaniu specjalnym, dopuszczonych do pracy w tych warunkach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Prace w kotłach oraz w komorach i kanałach sieci cieplnych mogą być wykonywane po usunięciu znajdujących się w nich gazów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Zabrania się sprawdzania obecności gazów w pomieszczeniach, o których mowa w ust. 1, za pomocą otwartego ognia. \"38. Przy wykonywaniu prac spawalniczych w pomieszczeniach, o których mowa w ust. 1, butle z acetylenem i tlenem nie mogą się znajdować wewnątrz tych pomieszczeń, § 16. 1. Prace w pomieszczeniach, o których mowa w § 15 ust. 1, nie mogą być wykonywane w temperaturze powyżej 30°C,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Wykonywanie prac, o których mowa w ust. 1, w temperaturze do 50°C jest dozwolone pod warunkiem zastosowania:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_2/pkt_1",
+       "text": "środków chłodzących i obmiżających temperaturę powietrza otaczającego bezpośrednio pracownika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_2/pkt_2",
+       "text": "ubioru ochronnego, >",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_2/pkt_3",
+       "text": "przerw w pracy i odpoczynku na zewnątrz pomieszczenia.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Prace w warunkach szczególnego zagrożenia dla zdrowia i życia ludzkiego mogą być wykonywane przy zastosowaniu odpowiednich środków całkowicie zabezpieczających zdrowie i życie ludzkie oraz na podstawie polecenia pisemnego, wydanego przez osobę kierownictwa lub dozoru, upoważnioną przez kierownika zakładu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Polecenie pisemne, o którym mowa w ust. 1, powinno określać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_2/pkt_1",
+       "text": "zakres, rodzaj, miejsce i termin wykonania pracy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_2/pkt_2",
+       "text": "środki, za pomocą których praca ma być wykonana,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_2/pkt_3",
+       "text": "pracowników wyznaczonych do przygotowania miejsca pracy i dopuszczenia do pracy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_17/ust_2/pkt_4",
+       "text": "pracowników wyznaczonych do kierowania pracami lub do nadzorowania pracy. § 18. Do prac wykonywanych w warunkach szczególnego zagrożenia dla zdrowia i życia ludzkiego (§ 17) zalicza się w szczególności prace:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_2/pkt_1",
+       "text": "wewnątrz komór paleniskowych kotłów, kanałów spalin, elektrofilirów i walczaków kotłów, wewnątrz zasobników węgla, pyłu węglowego, żużla:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_2/pkt_2",
+       "text": "i popiołu oraz innych zbiorników i pomieszczeń, w których mogą znajdować się gazy lub ciecze trujące, żrące, duszące, palne lub wybuchowe, . w obiegach przygotowywania pyłu węglowego, wewnątrz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_2/pkt_3",
+       "text": "młynów węglowych, przy wentylatorach młynowych, cyklonach i separatorach, wymagające odkrycia kadłubów turbin, wyjęcia wirni-",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_17/ust_2/pkt_4",
+       "text": "ków turbiny i generatora oraz naprawy i wyważania tych wirników, ń",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_17/ust_2/pkt_5",
+       "text": "w obiegach wody w elektrowniach parowych i wodnych, wymagające wejścia do kanałów, rurociągów, rur ssawnych i zbiorników, jak również prace na ujęciach i zrzutach wody wykonywane z pomostów, łodzi lub barek oraz prace prowadzone pod powierzchnią wody, 6) przy zastosowaniu spawania oraz inne prace wymagające posługiwania się otwartym źródłem ognia, wykonywane w pomieszczeniach zagrożonych niebezpieczeństwem pożaru lub zagrożone wybuchem, 7) konserwacyjne lub remontowe przy urządzeniach elektroenergetycznych znajdujących się całkowicie lub częściowo pod napięciem, z wyjątkiem prac polegających na wymianie w obwodach o napięciu do 1 kV bezpieczników i żarówek (świetlówek) o nie uszkodzonej obudowie i oprawach, wykonywane w pobliżu nie osłoniętych urządzeń elek-",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_17/ust_2/pkt_8",
+       "text": "troenergetycznych lub ich części, znajdujących się pod napięciem,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_17/ust_2/pkt_9",
+       "text": "przy wyłączonym spod napięcia torze dwutorowej elektroenergetycznej linii napowietrznej o napięciu 1: kV i powyżej, jeżeli drugi tor linii pozostaje pod napięciem, przy wyłączonych spod napięcia elektroenergetycznych 10) liniach napowietrznych, które krzyżują się z liniami znajdującymi się pod napięciem, przy wykonywaniu prób i pomiarów z wyłączeniem prac 11) wykonywanych stale przez wyznaczonych pracowników w ustalonych miejscach pracy (laboratoria, stacje prób), przy jonizatorach radioaktywnych i wysokonapięcio- 12) wych stosowanych do neutralizacji ładunków elektrostatycznych. i § 19. 1. Wykonywanie prac może być powierzone tylko pracownikom, którzy posiadają wymagane kwalifikacje.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Prace w zakresie dozoru, obsługi oraz samodzielnych napraw i konserwacji urządzeń energetycznych mogą wykonywać tylko pracownicy, którzy posiadają wymagane zaświadczenia kwalifikacy jne. § 20. W każdym miejscu pracy, w którym zatrudniony jest zespół złożony co najmniej z dwóch pracowników, powinien być wyznaczony spośród nich pracownik kierujący zespołem. § 21. Zabrania się powierzania pracownikowi o zmniejszonej sprawności fizycznej. lub psychicznej wykonywania prac w warunkach szczególnego zagrożenia dla zdrowia i życia ludzkiego, jak również prac, w których wyniku mogłoby powstać takie zagrożenie (czynności łączeniowe). § 22. Zakład powinien wyposażyć pracowników w niezbędne narzędzia pracy, sprzęt ochrony osobistej i odzież ochronną, dostosowane do warunków i rodzaju wykonywanych robót. § 23. Narzędzia pracy i sprzęt ochrony osobistej należy przechowywać w miejscach do tego celu przeznaczonych oraz wydawać po sprawdzeniu ich stanu technicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Urządzenia kontrolno-pomiarowe i sygnalizacyjne oraz narzędzia pracy i sprzęt ochrony osobistej powinny być utrzymane w należytym stanie technicznym gwarantującym pełne bezpieczeństwo zdrowia i życia ludzkiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Zabrania się używania uszkodzonych lub niesprawnych urządzeń i sprzętu, o których mowa w ust. 1. § 25. Wskaźniki aparatury kontrolno-pomiarowej powinny być oświetlone i utrzymane w stanie umożliwiającym odczytywanie ich wskazań. § 26. Osoby dozoru technicznego powinny okresowo sprawdzać: :",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_2/pkt_1",
+       "text": "posiadanie i używanie sprawnych narzędzi pracy i sprzętu ochrony osobistej oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_2/pkt_2",
+       "text": "stan techniczny urządzeń zainstalowanych dla ochrony zdrowia i życia łudzkiego. § 27. 1. Szczegółowe wskazówki z zakresu bezpieczeństwa i higieny pracy dla poszczególnych stanowisk roboczych powinny być doręczone pracownikom za pokwitowaniem.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "W miejscach widocznych i dostępnych należy wywiesić informację zawierającą wskazówki w sprawie postępowania w razie wypadku (awarii, pożaru, wybuchu, porażemia prądem elektrycznym) oraz wyciągi z odpowiednich przepisów bezpieczeństwa i higieny pracy określających podsta- „wowe zasady bezpiecznych i higienicznych warunków pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Przepisy dodatkowe dla niektórych oddziałów zakładu energetycznego."
+  },
+  {
+   "type": "text",
+   "text": "Składowanie paliwa. 8 28. Zasady obsługi składowiska, a w szczególności zasady pobierania węgla, napełniania i obsługi zasobników, kontroli składowanego węgla i zapobiegania pożarom i wybuchom, powinny być szczegółowo określone w. instrukcji, o której mowa w § 56. § 29. 1. Zabrania się wchodzenia i przechodzenia przez urządzenia ładunkowe (wywrotnice wagonowe, przenośniki taśmowe, czerpakowe) w czasie ruchu lub chwilowego po-. słoju tych. urządzeń."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przepis ust. 1 nie dotyczy stałych pomostów i innych wyznaczonych przejść nad urządzeniami przeładunkowymi, § 30. 1. Paliwa płynne i gazowe można magazynować tylko w specjalnie do tego przystosowanych pomieszczeniach i zbiornikach.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Pomieszczenia dystrybucyjne i kontrolno-pomiarowe bez stałej obsługi oraz komory podziemnych sieci paliw płynnych i gazowych powinny być dostępne tylko dla upóważnionych pracowników.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 31, 1. Pomieszczenia magazynowe paliw płynnych i gazowych powinny mieć skuteczną wentylację. ; |; 2, Kierownik zakładu powinien wprowadzić obowiązek okresowego kontrolowania koncentracji gazów w. pomieszczeniach magazynowych paliw płynnych i gazowych."
+    },
+    {
+     "type": "text",
+     "text": "Urządzenia do nawęglania."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "1, Urządzenia kruszące, młyny i inne urządzenia do nawęglania powinny. być utrzymane w takim stanie technicznym, aby uniemożliwione było przekroczenie dopuszczalnych stężeń zapylenia.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Urządzenia do mechanicznego transportu pyłu oraz zbiorniki pyłu powinny mieć sprawnie działającą instalację odpowietrzającą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Szczelność i sprawność działania urządzeń, o których mowa w ust. 1 i 2, powinny być okresowo sprawdzane. § 33. Stanówiska pracy pracowników obsługi kotłów oraz pracowników obsługi urządzeń do nawęglania powinny mieć należytą łączność oraz powinny być wyposażone w urządzenia umożliwiające awaryjne wstrzymanie ruchu urzą” dzeń do nawęglania. § 34. 1. Klapy przeciwwybuchowe młynów powinny być tak rozmieszczone, aby wykluczały możliwość wypadku z ludźmi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "W razie wybuchu w urządzeniach młynów, powodującego otwarcie klap przeciwwybuchowych, ponowne uruchomienie młynów może nastąpić tylko po całkowitej likwi- - dacji przyczyn i skutków wybuchu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Gazy spalinowe lub powietrze nośne, wydalane z urządzeń młynów na zewnątrz, powinny być odpylane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_32/ust_4",
+     "text": "Z pomieszczeń, w których znajdują się przewody i inne elementy urządzeń młynów, należy systematycznie usuwać gromadzący się pył.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "Prące wewnątrz zasobników węgla, młynów, wentylatorów, separatorów, cyklonów oraz innych urządzeń do nawęglania mogą być wykonywane po ich opróżnieniu z. paliwa, oczyszczeniu z pyłu węglowego i przewietrzeniu, po wyłączeniu z ruchu przenośników oraz innych urządzeń - podających i odbierających paliwa, a także po trwałym odcięciu od współpracujących urządzeń, .z których mogłyby dostać się spaliny, gorące powietrze lub para wodna.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Wykonywanie prac wewnątrz zasobników węgla podczas ruchu urządzenia jest dozwolone pod warunkiem zamknięcia zsypu węgla i po zastosowaniu odpowiednich środków zabezpieczających.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kotłownie oraz składowanie żużla i popiołu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Pomieszczenia kotłowni powinny mieć skutecznie działającą wentylację nawiewno*wywiewną.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "JARA Poz. 125 Dziennik Ustaw Nr 14 a"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "W kotłowniach o grawitacyjnym ciągu spalin zabrania się instalowania urządzeń mechanicznej wentylacji wywiewnej. § 37. Urządzenia kotłowni, a w szczególności zawory bezpieczeństwa, urządzenia zasilające, spustowe, przelewo- ‘we, wydmuchowe, osłony i izolacje, poręcze i schody, powinny być utrzymywane w należytym stanie technicznym, zapewniającym bezpieczeństwo obsługi i otoczenia. § 38. W pomieszczeniach kotłowni należy zapewnić zastępcze źródło światła, umożliwiające bezpieczną pracę w razie wyłączenia oświetlenia podstawowego. § 39. 1. Urządzenia do odżużlania i odpopielania nie mogą powodować w pomieszczeniach kotłowni przekroczenia dopuszczalnych stężeń zapylenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Prace przy usuwaniu żużla i popiołu należy wykonywać 'po zastosowaniu należytego zabezpieczenia pracowników przed poparzeniem i szkodliwym działaniem pyłów lub gazów oraz po odpowiednim zabezpieczeniu pomieszczeń i otoczenia przed skutkami działania rozżarzonego żużla.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_36/ust_3",
+     "text": "Gaszenie żużla i popiołu powinno być dokonywane w specjalnie do tego przeznaczonych pomieszczeniach lub przestrzeniach. § 40. Otwieranie włazów i inych otworów komory Żużlowej może być dokonywane tylko w czasie ustabilizowanej pracy kotła i za zgodą pracowników obsługi kotła. \"841. 1. Prace wewnątrz kotłów mogą być wykonywane tylko po:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_36/ust_3/pkt_1",
+       "text": "odłączeniu i zabezpieczeniu zaślepkami dostosowanymi do ciśnienia w kotle w czasie jego ruchu wszystkich połączeń kotła z instalacjami lub urządzeniami, które mogą być źródłem zagrożenia dla pracowników,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_36/ust_3/pkt_2",
+       "text": "usunięciu nawisów, żużla, wypadających cegieł ze ścian i sklepienia oraz popiołu z lejów i zsypów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Włazy do walczaka kotła mogą. być otwarte dopiero po stwierdzeniu, że w walczaku nie ma pary lub wody pod ciśnieniem. 4",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_36/ust_3",
+     "text": "Zabrania się jednoczesnego wykonywania prac wewnątrz kotłów i lejów zsypowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_42/ust_1",
+     "text": "Zasady składowania żużla i popiołu oraz eksploatacji urządzeń na składowiskach powinny być szczegółowo - ustalone w instrukcji, o której mowa w § 56.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_42/ust_2",
+     "text": "Składowisko żużla i popiołu powinno być zabezpieczone przed rozpylaniem popiołu do otoczenia oraz oznaczone odpowiednimi tablicami ostrzegawczymi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sieci cieplne."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "Komory i kanały przechodnie podziemnych sieci cieplnych powinny być wyposażone w niezbędną ilość włazów odpowiednio rozmieszczonych i zaopatrzonych w dobrze utrzymane drabiny lub klamry.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Wejścia do komór i kanałów nie mogą być zastawiane przedmiotami utrudniającymi swobodny dostęp do nich lub ograniczającymi swobodę ruchów w komorze. § 44, 1. Zabrania się wykonywania prac remontowych przy rurociągach znajdujących się pod crore czynnika lub napełnionych wodą. cieplnych",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "Prace remontowe przy rurociągach sieci mogą być wykonywane po:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_2/pkt_1",
+       "text": "odłączeniu odcinków remontowanych od sieci znajdujących się pod ciśnieniem czynnika i po zabezpieczeniu połączeń zaślepkami dostosowanymi do ciśnienia w sieci w czasie ruchu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_2/pkt_2",
+       "text": "otwarciu zaworów spustowych, odwadniających i odipowietrzających.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Urządzenia gazownicze. § 45. 1. Urządzenia do spalania paliw gazowych powinny być wyposażone w aparaturę i instalacje do utrzymania stałego ciśnienia gazu przed palnikami oraz zabezpieczające przed wzrostem ciśnienia w instalacji."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "W razie zgaśnięcia płomienia i spadku ciśnienia w urządzeniach (instalacjach), o których mowa w ust. 1, po- „winno nastąpić samoczynne odcięcie gazu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_43/ust_3",
+     "text": "Urządzenia, o których mowa w ust. 1, powinny mieć zdalnie sterowaną instalację odcinającą w razie potrzeby dopływ gazu. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_43/ust_4",
+     "text": "Palnik gazowy powinien być wyposażony w urządzemia zabezpieczające przed cofnięciem się płomienia do instalacji lub oderwaniem się płomienia. § 46. Do przedmuchiwania instalacji gazowej. należy stosować parę wodną lub gazy obojętne, nie tworzące mieszanek wybuchowych (azot, dwutlenek węgla, spaliny). § 47. Zakład, w którym użytkowane są paliwa gazowe, powinien mieć odpowiednio w tym zakresie przeszkolony personel służby eksploatacyjnej oraz powinien być wyposażony w niezbędny sprzęt ratunkowy, higieniczno-sanitarny oraz w wykrywacze gazu. § 48. W zakresie prac przy urządzeniach gazowniczych oraz dla zapewnienia warunków bezpieczeństwa w pomieszczeniach, w których znajdują się te urządzenia, należy stosować odpowiednio przepisy $§ 5, 6, 7, 9, 11, 18, 20, 21, 81, 83, 84 i 92 rozporządzenia Ministra Górnictwa i Energetyki z dnia 23 września 1968 r. w sprawie bezpieczeństwa i higieny pracy w zakładach przemysłu gazowniczego (Dz. U. Nr 38, poz. 272).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepisy dodatkowe dla urządzeń elektroenergetycznych. § 49. 1. Prace przy urządzeniach elektroenergetycznych należy wykonywać po wyłączeniu urządzeń spod napięcia."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Bez wyłączenia napięcia zezwala się na wykonywanie prac:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "polegających na wymianie w obwodach o napięciu do 1 kV wkładek bezpiecznikowych i żarówek (świetlówek) o nie uszkodzonej obudowie i oprawie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "przy wykonywaniu prób i pomiarów w sposób określony w instrukcjach o eksploatacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "w innych wypadkach nie określonych w pkt 1 i 2 wyłącznie przy zastosowaniu specjalnych środków przewidzianych w instrukcjach o eksploatacji, które zapewnią bezpieczne wykonanie pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Wyłączenia urządzeń spod napięcia należy dokonać w taki sposób, aby uzyskać widoczną przerwę w obwodach zasilających urządzenia. Nie jest konieczne, aby przerwa ta była widoczna z miejsca wykonywania prac.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "Za widoczną przerwę izolacyjną uważa się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_50/ust_2/pkt_1",
+       "text": "widoczne otwarcie zestyków łącznika na odległość bezpieczną,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_50/ust_2/pkt_2",
+       "text": "wyjęcie wkładek bezpiecznikowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_50/ust_2/pkt_3",
+       "text": "zdemontowanie części obwodu zasilającego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_51/ust_1",
+     "text": "Przed rozpoczęciem prac przy urządzeniach wyłączonych spod napięcia należy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_51/ust_1/pkt_1",
+       "text": "zastosować odpowiednie zabezpieczenia przed przypadkowym załączeniem napięcia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_51/ust_1/pkt_2",
+       "text": "sprawdzić brak napięcia w wyłączonym obwodzie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_51/ust_1/pkt_3",
+       "text": "uziemić wyłączone urządzenie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_51/ust_1/pkt_4",
+       "text": "wywiesić odpowiednie tablice ostrzegawcze.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_51/ust_2",
+     "text": "Odpowiednim zabezpieczeniem przed przypadkowym załączeniem napięcia (ust. 1 pkt 1) jest w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_51/ust_2/pkt_1",
+       "text": "w urządzeniach o napięciu do 1 kV — wstawienie wkładek izolujących między otwarte styki łączników; nie jest konieczne stosowanie wkładek izolujących w razie dokonania wyłączenia przez wyjęcie wkładek bezpiecznikowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_51/ust_2/pkt_2",
+       "text": "w urządzeniach o napięciu powyżej i kV — unieruchomienie (zablokowanie) łącznika.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "aż"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_51/ust_3",
+     "text": "Jeżeli spełnienie wymagań, o których mowa w ust. 2, jest niemożliwe, należy wyznaczyć pracownika zobowiązanego do nieprzerwanego czuwania, aby nie dopuścić do załączenia łącznika. 4, Uziemienia (ust. 1 pkt 3) należy wykonać po obu stronach miejsca pracy, przy czym co najmniej jedno uziemienie powinno być widoczne z miejsca pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_51/ust_5",
+     "text": "Dopuszcza się odstępstwa od wymagań przewidzianych w ust. 1 pkt 3, jeżeli zastosuje się inne skuteczne środki ochrony przeciwporażeniowej, które zapewnią bezpieczne wykonanie pracy. § 52. Przed rozpoczęciem prac przy elektroenergetycznych liniach napowietrznych, które krzyżują się z liniami znajdującymi się pod napięciem łub które znajdują się w pobliżu takich linii, nałeży sąsiednie linie wyłączyć spod napięcia i uziemić, jeżeli jest to niezbędne dla bezpiecznego wykonywania pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "Zabrania się wykonywania czynności łączeniowych, jeżeli w pobliżu miejsca łączenia urządzeń przebywają osoby do tych czynności nie upoważnione. § 54, 1. Prace porządkowe w pomieszczeniach ruchu elektrycznego mogą być wykonywane przez osoby nie nałeżące do stałej obsługi w tych pomieszczeniach tylko pod stałym nadzorem upoważnionych pracowników.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_53/ust_2",
+     "text": "Oględziny czynnych urządzeń elektroenergetycznych 'w pomieszczeniach ruchu elektrycznego powinny być doko-- mywane w obecności pracowników obsługi tych urządzeń, Kierownik zakładu może upoważnić osobę kierownictwa lub dozoru do jednoosobowego przeprowadzenia oględzin.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_55/ust_1",
+     "text": "Porażonego prądem elektrycznym należy natychmiast uwolnić spod działania prądu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 Uwolnienia porażonego spod działania prądu elektrycznego należy dokonać w sposób bezpieczny, zależny od warunków,-w których nastąpiło porażenie:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_55/ust_1/pkt_1",
+       "text": "przez spowodowanie wyłączenia napięcia właściwego obwodu elektrycznego albo znajdują=",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_55/ust_1/pkt_2",
+       "text": "przez odciągnięcie porażonego od urządzeń cych się pod napięciem, a",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_55/ust_1/pkt_3",
+       "text": "w razie porażenia prądem elektrycznym o napięciu do 1 kV — przez odizolowanie porażonego, uniemożliwiające przepływ prądu przez jego ciało.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_55/ust_3",
+     "text": "Po uwolnieniu porażonego spod działania prądu elektrycznego należy zapewnić udzielenie porażonemu pomocy lekarskiej, a do czasu przybycia lekarza prowadzić wszełką dostępną akcję ratowniczą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Przepisy przejściowe i końcowe."
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "Zakłady pracy wydadzą szczegółowe instrukcje i wskazówki dotyczące bezpieczeństwa i higieny pracy na poszczególnych stanowiskach roboczych na podstawie przepisów niniejszego rozporządzenia w okresie 6 miesięcy od dnia jego ogłoszenia. § 57. Tracą moc „Przepisy <kspiażtacji elektrowni i sieci\", zatwierdzone przez Ministra Górnictwa i Energetyki dnia 16 grudnia 1959 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "58",
+   "path": "par_58",
+   "text": "Rozporządzenie wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Górnictwa i Energetyki: J. Mitręga"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

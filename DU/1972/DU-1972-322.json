@@ -1,0 +1,129 @@
+{
+ "eli": "DU/1972/322",
+ "title": "Rozporządzenie Rady Ministrów z dnia 30 listopada 1972 r. w sprawie zmiany granic niektórych województw.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1972/322/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 listopada 1972 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granic niektórych województw."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 1 ust. 3-i art. 5 ust. 1 ustawy z dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Z powiatu kolneńskiego w województwie białostockim wyłącza się obszary sołectw Brzozowa i Czarnia i włącza się je do powiatu ostrołęckiego w województwie warszawskim.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Z powiatu radziejowskiego w województwie bydgoskim wyłącza się obszary sołectw Bliny, Brzezie, Marcinkowo, Marcjanki, Ośno Górne, Sompolinek i Wierzbie i włącza się je do powiatu kolskiego w województwie poznańskim.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Z powiatu człuchowskiego w województwie koszalińskim wyłącza się część obszaru sołectwa Sąpolno stanowiącą miejscowość Korne i włącza się ją do powiatu chojnickiego w województwie bydgoskim.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Z powiatu łęczyckiego w województwie łódzkim wyłącza się obszary sołectw Podgajew i Rycerzew i włącza się je do powiatu kolskiego w województwie poznańskim.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W województwie olsztyńskim wyłącza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "z powiatu giżyckiego obszary miejscowości Nowe Krzywe, Stare Krzywe i Płowce i włącza się je do powiatu ełckiego w województwie białostockim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "z powiatu piskiego obszary miejscowości Borki, Bzury, Ciernie, Czyprki, Dybowo, Guty Różyńskie, Jebramki, Kosinowo, Krzywińskie, Nowaki, Olszewo, Różyńsk Ma- . ły, Różyńsk Wielki, Taczki i Wojlele i włącza- się je do. powiatu grajewskiego w województwie białostockim;",
+     "children": [
+      {
+       "type": "text",
+       "text": "—"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "z powiatu szczycieńskiego obszary sołectw Macice i Opaleniec i włącza się je do powiatu przasnyskiego w województwie warszawskim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Z fowiatu nowotomyskiego w województwie ‘ po- ' znańskim wyłącza się część obszaru miejscowości Trzciel- Odbudowa o powierzchni 30,61 ha i włącza się ją do miasta Trzciel w powiecie międzyrzeckim, województwie zielonogórskim; nowa granica m. Trzciel biegnie od punktu zetknięcia się drogi oznaczonej nr 12/3 z granicą toru kolejowego w kierunku północnym wschodnim skrajem toru kolejowego do przecięcia się z południową granicą rowu oznaczonego nr 85, następnie południową granicą tego rowu do wschodniego skraju drogi oznaczonej nr 72, skrajem tej drogi do zetknięcia się z granicą parceli nr 94, południową i wschodnią granicą tej parceli do drogi oznaczonej nr 91, południowym skrajem tej drogi do rowu oznaczonego nr 303/3, następnie południowo-zachodnią granicą projektowanej szosy objazdowej E-8 do toru kolejowego, granicą tego toru do zetknięcia się z brzegiem drogi Stary Folwark-Trzciel i tym brzegiem drogi do dotychczasowej granicy województw.",
+   "children": [
+    {
+     "type": "text",
+     "text": "\"87. Z województwa warszawskiego wyłącza się:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "z powiatu sierpeckiego obszar' sołectwa Źródła i włącza się go do powiatu lipnowskiego w województwie bydgoskim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "z powiatu żuromińskiego obszar sołectwa Zalesie i włą- \" cza się go do powiatu działdowskiego w województwie olsztyńskim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1973 r. \" .",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: P, Jaroszewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

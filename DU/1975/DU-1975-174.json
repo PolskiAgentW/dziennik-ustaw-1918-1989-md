@@ -1,0 +1,234 @@
+{
+ "eli": "DU/1975/174",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 25 września 1975 r. w sprawie ustalenia miejscowości, w których stosuje się postępowanie przyspieszone.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/174/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 września 1975 r. ft w sprawie ustalenia miejscowości, w których stosuje się postępowanie przyspieszone."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 454 Kodeksu postępowania karnego zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Postępowanie przyspieszone określone w rozdziale 45 Kodeksu postępowania karnego stosuje się w następujących miejscowościach:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w województwie stołecznym warszawskim — na obszarze województwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w województwie białostockim — w mieście Białymstoku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w województwie bielskim — w mieście Bielsku-Białej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w województwie częstochowskim — w mieście Częstochowie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w województwie elbląskim — w mieście Elblągu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "w województwie gdańskim — w miastach Gdańsku, Gdyni, Pruszczu Gdańskim, Redzie, Rumii, Sopocie i Wejherowie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "w województwie gorzowskim — w mieście: Gorzowie Wielkopolskim,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "w województwie katowickim — w miastach Dąbrowie Górniczej, Jastrzębiu-Zdroju, Katowicach i Wodzisławiu Śląskim,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "w województwie kieleckim — w miastach Kielcach, Ostrowcu Świętokrzyskim i Starachowicach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "w województwie miejskim krakowskim — na obszarze województwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "w województwie legnickim — w mieście Legnicy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "w województwie lubelskim — na obszarze właściwości Sądu Rejonowego w Lublinie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "w województwie miejskim łódzkim — w mieście Łodzi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_1/pkt_14",
+     "text": "w województwie nowosądeckim — w mieście Zakopanem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_1/pkt_15",
+     "text": "w województwie opolskim — na obszarze właściwości Sądu Rejonowego w Brzegu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_1/pkt_16",
+     "text": "w województwie piotrkowskim — w mieście Tomaszowie Mazowieckim,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "par_1/pkt_17",
+     "text": "w województwie płockim — w miastach Kutnie i Płocku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_1/pkt_18",
+     "text": "w województwie radomskim — w mieście Radomiu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_1/pkt_19",
+     "text": "w województwie siedleckim — w mieście Siedlcach oraz na obszarze właściwości Sądu Rejonowego w Mińsku Mazowieckim,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_1/pkt_20",
+     "text": "w województwie słupskim — w miastach Łebie i Lęborku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_1/pkt_21",
+     "text": "w województwie szczecińskim — w miastach Stargardzie Szczecińskim, Szczecinie i Świnoujściu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_1/pkt_22",
+     "text": "w województwie tarnobrzeskim — w miastach Sandomierzu, Stalowej Woli i Tarnobrzegu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "par_1/pkt_23",
+     "text": "w województwie tarnowskim — w mieście Tarnowie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "par_1/pkt_24",
+     "text": "w województwie wałbrzyskim — w miastach Świdnicy i Wałbrzychu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "par_1/pkt_25",
+     "text": "w mieście Wrocławiu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "par_1/pkt_26",
+     "text": "w województwie zielonogórskim — w mieście Zielonej Górze.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Traci moc rozporządzenie Ministra Sprawiedliwości z dnia 11 stycznia 1973 r. w sprawie ustalenia miejscowości, w których stosuje się postępowanie przyspieszone (Dz. U. Nr 2, poz. 14),",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem oqło= szenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: W. Berutowicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

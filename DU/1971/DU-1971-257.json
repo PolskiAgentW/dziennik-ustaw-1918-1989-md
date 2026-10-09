@@ -1,0 +1,275 @@
+{
+ "eli": "DU/1971/257",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 7 października 1971 r. w sprawie zmiany granic niektórych miast w województwie koszalińskim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1971/257/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 października 1971 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granic niektórych miast w województwie koszalińskim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 ustawy z-dnia 4 lutego 1950r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje: 81 W województwie koszalińskim wyłącza A"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "w powiecie białogardzkim:",
+   "children": [
+    {
+     "type": "text",
+     "text": "4"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_1/pkt_1",
+     "text": "z miasta Białogard tereny o powierzchni ee ha - i włącza się je do gromady Białogard,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_1/pkt_2",
+     "text": "z miasta Karlino tereny o powierzchni 959 ha i mę cza się je do gromady Karlino,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_1/pkt_3",
+     "text": "z gromady Karlino część obszaru. wsi: Daszewo o po: wierzchni 90 ha i włącza się ją do miasta Karlino, -",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "w powiecie drawskim: z miasta Kalisz Pomorski: \"a) tereny o powierzchni 1.764 ha i włącza się je do gromady Kalisz Pomorski,",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "tereny o powierzchni 252 ha i włącza się je do gromady Poźrzadło Wielkie;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "w powiecie kołobrzeskim: ' + 1) z miasta Kołobrzeg:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_3/lit_a",
+     "text": "tereny o powierzchni 1.254 ha i włącza się je do gromady Ustrohie Morskie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_3/lit_b",
+     "text": "tereny o powierzchni 13 ha i włącza się je do gromady Kołobrzeg,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_3/pkt_2",
+     "text": "z gromady Kołobrzeg część obrębu nr 7 o powierzchni 15 ha oraz część obrębu nr 12 o powierzchni 85 ha i włącza się je do miasta Kołobrzeg;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "w powiecie koszalińskim z miasta Bobolice tereny o powierzchni 868 ha i włącza się je do gromady Bobolice;",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "5",
+   "path": "ust_5",
+   "text": "w powiecie miasteckim z miasta Biały Bór tereny o powierzchni 4.860 ha i włącza się je do gromady Biały Bór; \"6. w powiecie sławieńskim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_5/pkt_1",
+     "text": "z miasta Sławno tereny o powierzchni 1.098 ha i włącza się je do gromady Sławno,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_5/pkt_2",
+     "text": "z gromady Sławno:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_5/pkt_2/lit_a",
+       "text": "część obszaru wsi Warszkowo o powierzchni 19 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_5/pkt_2/lit_b",
+       "text": "część obszaru wsi Bobrowiczki o powierzchni 66 ha i włącza się je do miasta Sławno; 7.. w powiecie szczecineckim:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_5/pkt_1",
+     "text": "z miasta Barwice tereny o powierzchni 1.024 ha i włącza się je do gromady Barwice,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_5/pkt_2",
+     "text": "z gromady Barwice część obrębu Przypkowo o powierzchni 27 ha oraz część obrębu Łęknica o powierzchni 27 ha i włącza się je do miasta Barwice;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "8",
+   "path": "ust_8",
+   "text": "w powiecie świdwińskim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_8/pkt_1",
+     "text": "z miasta Połczyn-Zdrój tereny o powierzchni 1.969 ha i włącza się je do gromady Połczyn-Zdrój, j",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_8/pkt_2",
+     "text": "z miasta Świdwin tereny o powierzchni 1.356 ha i włącza się je do gromady Świdwin; +",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "9",
+   "path": "ust_9",
+   "text": "w powiecie wałeckim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_9/pkt_1",
+     "text": "z miasta Człopa tereny o powierzchni 2.212 ha i włącza się je do gromady Człopa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_9/pkt_2",
+     "text": "z miasta Mirosławiec tereny o powierzchni 3.121 ha i włącza się je do gromady Mirosławiec,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_9/pkt_3",
+     "text": "z miasta Tuczno tereny o powierzchni 2.141 ha i włącza się je do gromady Tuczno,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_9/pkt_4",
+     "text": "z miasta Wałcz tereny o powierzchni 4.156 ha i włącza się je do gromady Wałcz,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_9/pkt_5",
+     "text": "z gromady Wałcz część obszaru wsi Strączno o powierzchni 15.ha i włącza się ją do miasta: Wałcz;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "10",
+   "path": "ust_10",
+   "text": "w powiecie złotowskim:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_10/pkt_1",
+     "text": "z miasta Złotów tereny o powierzchni 2.582 ha i włącza się je do gromady Złotów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_10/pkt_2",
+     "text": "z gromady Złotów część obszaru .wsi Błękwit o powierzchni 130 ha i włącza się ją do miasta Złotów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Szczegółowego określenia granic miast wymienionych w rozporządzeniu dokona w drodze zarządzenia Prezydium Wojewódzkiej Rady Narodowej w Koszalinie. Zarządzenie podlega ogłoszeniu w Dzienniku Urzędowym Wojewódzkiej Rady Narodowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1972 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: P. Jaroszewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
