@@ -1,0 +1,113 @@
+{
+ "eli": "DU/1946/9",
+ "title": "Dekret z dnia 23 listopada 1945 r. o organizacji szkolnictwa w okresie przejściowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/9/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23. listopada 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "o organizacji szkolnictwa w okresie przejściowym."
+  },
+  {
+   "type": "text",
+   "text": ". Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "(1) W celu przyśpieszenia likwidacji skutków wojny w zakresie szkolnictwa może * Minister Oświaty tworzyć lub żezwalać na utworzenie szkół i kursów, nie przewidzianych w ustawie z dnia 11 marca 1932 r. o ustroju szkol- -nictwa (Dz. U. R. P. Nr 38, poz. 389), lub. skra- 'cać czas nauki w szkołach, przewidzianych w tej ustawie. —",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Minister Oświaty ustali program i organizację tych szkół i kursów, warunki przyjmowania i ukończenia oraz uprawnienia absolwentów."
+    },
+    {
+     "type": "text",
+     "text": "Art. 2, W ustawie z dnia 11 marca 1952r. o ustroju szkolnictwa (Dz. U. R. P. Nr 38, poz."
+    },
+    {
+     "type": "pkt",
+     "num": "389",
+     "path": "art_1/pkt_389",
+     "text": "wprowadza się zmiany następujące:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_389/lit_a",
+       "text": "uchyla się art. 11 ust. (2) i art. 12;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_389/lit_b",
+       "text": "w art. 52 ust. (1) otrzymuje brzmienie:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„W szkołach wyższych studiować mogą w charakterze studentów zwyczajnych:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) osoby, które uzyskały świadectwa z ukończenia liceów ogólnokształcących, liceów dla wychowawczyń przedszkoli, liceów pedagogicznych oraz szkół zawodowych stopnia licealnego;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) osoby, które uzyskały takież świadectwa na podstawie egzaminu;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "c) osoby, które ukończyły zakład kształcenia kandydatów na nauczycieli szkół: powszechnych albo zdały równowartościowy egzamin i uzyskały dyplom na nauczyciela szkół powszechnych”. . Art. 3. Mogą być tworzone obwody publicznych szkół powszechnych, w których droga z domu do szkoły uczniów, uczęszczających do klasy piątej i wyżsżych, wynosi do 4 kilometrów.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "(1) W okresie przejściowym, jednak nie dłużej niż w ciągu sześciu lat od dnia wejścia w życie niniejszego dekretu, mogą być po” woływane na stanowiska nauczycielskie w szko” łach państwowych, publicznych i prywatnych, z wyłątkiem szkół wyższych, oraz na stanowiska wychowawczyń przedszkoli osoby, nie posiadające przepisanych kwalifikacyj zawodowych. \" (2) Minister Oświaty określi zasady zatrudnienia tych osób oraz termin i tryb osiągnięcia przez nie przepisanych kwalifikacyj zawodowych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Wykonanie niniejszego dekretu po” rucza się Ministrowi Oświaty. * Art. 6. Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Prezydent Krajowej Rady Narodowej: Bolesław Bierut",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: : Edward Osóbka - Morawski w/z Minister Oświaty: Bronisław Biedowicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,272 @@
+{
+ "eli": "DU/1944/86",
+ "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 22 grudnia 1944 r. o zmianie ustawy o opłatach rejestracyjnych dla przedsiębiorstw i zajęć.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/86/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET POLSKIEGO KOMITETU WYZWOLENIA NARODOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 grudnia 1944 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie ustawy o opłatach rejestracyjnych dla przedsiębiorstw i zajęć."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy Krajowej Rady Narodowej z dnia 15 sierpnia 1944 r. o tymczasowym trybie wydawania dekretów z mocą ustawy (Dz.U. R. P. Nri, poz. 3) — Polski Komitet Wyzwolenia Narodowego postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie z dnia 25 kwietnia 1938 r. o opłatach rejestracyjnych od przedsiębiorstw i zajęć (Dz. U. R. P. Nr34, poz. 293) wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "W ust. 1 art. 13 słowo „dwóch' zastępuje się słowem „trzech.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "W ust. 2 art. 13 skreśla się końcową kropkę ‘i dodaje słowa „oraz jeden egzemplarz właściwej izbie przemysłowo-handlowej'.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "Po art. 28 dodaje się nowy artykuł, jako art. 28a. o następującym brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Upoważnia się Kierownika Resortu Administracji Publicznej do przenoszenia w drodze rozporządzeń wydanych w porozumieniu z Kierownikami Resortów Aprowizacji i Handlu, Przemysłu oraz Skarbu, miejscowości wymienionych w części II załącznika do art. 7 ustawy z dnia 25 kwietnia 1938 r. z klasy, do której miejscowość ta jest zaliczona, do klasy innej."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "Część trzecia załącznika do art. 7 otrzymuje następujące brzmienie:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ III",
+   "text": "Ceny kart rejestracyjnych. EEE nne Dział Oznaczenie zakładów przedsiębiorstw i zajęć i"
+  },
+  {
+   "type": "text",
+   "text": "I Zakłady i przedsiębiorstwa handlowe, za wyjątkiem przedsiębiorstw handlu jarmarcznego, obnośnego 'i rozwożnego 'prowadzone 'przez"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "kupców rejestrowanych rocznie zł.",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "pozostałych płatników II Zakłady przemysłowe, zakłady górnicze z wyjątkiem kopalń nafty i gazów ziemnych, przedsiębiorstwa wyrębu 'lasu, samoistne przedsiębiorstwa wykonywania umów o robotę oraz przedsiębiorstwa rzemieślnicze prowadzone przez",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "kupców rejestrowanych oraz zakłady spółdzielni o obrocie rocznym powyżej 1.000.000.—- zł .",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "spółdzielnie z wyjątkiem spółdzielni pracy i mleczarskich oraz płatników nie będących kupeami rejestrowymi o obrocie rocznym 500.000.— zł.",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "e",
+   "path": "lit_e",
+   "text": "pozostałych płatników II Kopalnie nafty lub gazów ziemnych IV * Przedsiębiorstwa handlu 'a) rozwoźnego .",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "obnośnego",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "jarmarcznego Vv Składy należące do przedsiębiorstw oraz filie i kantory wydawnictw . VI Wydawnictwa",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "pism codziennych",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "innych pism periodycznych VII |: Zajęcia przemysłowe pośredników giełdowych (maklerów) VIII |. Zajęcia przemysłowe pośredników handlowych Ę IX Zajęcia przemysłowe przewozowo -ekspedycyjne *",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "dorożkarzy, furmanów i właścicieli taksówek, jeżeli wykonują swe czynności . osobiście lub przy udziale najwyżej jednego członka najbliższej rodziny",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "wykonywujących zajęcie pod a) wymienione, w większym zakresie, _€) ekspedytorów międzymiastowycd i celnych x Zajęcia przemysłowe pomocników podróżujących (komiwojażerów) XI Wszelkie inne przedsiębiorstwa, nie utrzymujące zakładów oraz pozostałe zajęcia przemysłowe klan ale. W miejscowościach 7 A sos goa",
+   "children": [
+    {
+     "type": "text",
+     "text": "|scowościach I If III rv"
+    },
+    {
+     "type": "text",
+     "text": "3.000 2.500 2.000 1.500 1.500 1.200 - 500 150 ©"
+    },
+    {
+     "type": "text",
+     "text": "3.000"
+    },
+    {
+     "type": "text",
+     "text": "I : 1.500 1.200 - 800 400 ~ 250 200 150 100"
+    },
+    {
+     "type": "text",
+     "text": "1.000"
+    },
+    {
+     "type": "text",
+     "text": "; 1.000 500 1.000"
+    },
+    {
+     "type": "text",
+     "text": "„ 400",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": ": - 4.000 3.000 2.000 2.000 750 600 250 250",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2.500",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3.000 2.500 1.500 1.000",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1.000 800 500 300",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "- 1.500 1.200 800 400",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3.000",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1.000",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "100",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "7 — 130 — e *_ Dziennik Ustaw Nr 15",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza Przewodniczący Polskiego Komitetu się Kierownikowi Resortu Administracji Publicz- Wyzwolenia Narodowego: nej w porozumieniu z Kierownikami Resortów: Przemysłu, Handlu i Aprowizacji oraz Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życiez dniem ogłoszenia i obowiązuje od dnia 1 stycznia 1945 r. Przewodniczący Krajowej Rady Narodowej: Bolesław Bierut",
+   "children": [
+    {
+     "type": "text",
+     "text": "Edward Osóbka-Morawski"
+    },
+    {
+     "type": "text",
+     "text": "i ;"
+    },
+    {
+     "type": "text",
+     "text": "_W/2 Kierownik Resortu Administracji Publicznej : _ Mgr Adam Ostrowski"
+    },
+    {
+     "type": "text",
+     "text": "."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

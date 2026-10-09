@@ -1,0 +1,99 @@
+{
+ "eli": "DU/1945/46",
+ "title": "Dekret z dnia 14 marca 1945 r. o zmianie prawa o ustroju sądów powszechnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/46/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "‘42 dnia 14 marea 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie prawa o ustroju sądów powszechnych,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1)—Rada Ministrów postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W prawie o ustroju sądów powszechnych z dnia 6 lutego 1928 r. (Dz.U.lt.P. Nr 102, poz. 863, z 1932 r.), zmienionym ustawą z dnia 14 kwietnia 1937 r. (Dz. U. R. P. Nr 30, poz. 220) i dekretami Polskiego Komite-",
+   "children": [
+    {
+     "type": "text",
+     "text": "ye tu Wyzwolenia Narodowego z dnia 4 listopada 1944 r. (Dz.U.R.P. Nr 11, poz. 56) oraz z dnia 12 grudnia 1944 r. (Dz U.R.P. Nr 15, poz. 84), wprowadza się zmiany: następujące:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "art. 121 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 121. Sędzia powinien w służbie i poza służbą strzec powagi sądu i unikać wszystkiego, co mogłoby przynieść ujmę god- Nie wolno mu brać udziału ności sędziego.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "GU ama",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 2, Wykonanie niniejszego dekreiu w takich wystąpieniach, które mogłyby osła- — biać zaufanie do jego bezstronności albo wierności względem ustroju lub władz demokratycznego Państwa Polskiego.*",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 271 do §3 dodaje się ustęp drugi o brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Rozpoznanie i zatwierdzenie aktów notarialnych i czynności hipotecznych należy zamiast do zwierzchności hipotecznej, do sędziego oddziału (wydziału) hipotecznego na zasadach przewidzianych dla zwierzchności hipotecznej”, porucza się Ministrowi Sprawiedliwości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 5. Dekret niniejszy wchodzi w ży- 'cie z dniem ogłoszenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Prezydent Krajowej Rady Narodowej: c Bolesław Brerut"
+      },
+      {
+       "type": "text",
+       "text": "Prezes Rady Ministrów: Edward Osdbka-Morawsri"
+      },
+      {
+       "type": "text",
+       "text": "Minister Sprawiedliwości: Fdmuid Zalewski"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

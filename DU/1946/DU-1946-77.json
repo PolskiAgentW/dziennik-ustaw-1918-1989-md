@@ -1,0 +1,267 @@
+{
+ "eli": "DU/1946/77",
+ "title": "Dekret z dnia 20 marca 1946 r. o Banku Komunalnym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/77/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 marca 1946 r."
+  },
+  {
+   "type": "text",
+   "text": "o Banku Komunalnym."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Tworzy się Bank Komunalny, nazywany w dalszych przepisach „Bankiem”.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Bank jest osobą prawną prawa publicznego li jest uprawniony do używania pieczęci z godłem państwowym."
+    },
+    {
+     "type": "text",
+     "text": "Siedzibą Banku jest m. st. Warszawa. Bank może otwierać oddziały w kraju."
+    },
+    {
+     "type": "text",
+     "text": "Władzą nadzorczą Banku jest Minister Skar-"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Dzłennik Ustaw Nr 12 —"
+    },
+    {
+     "type": "text",
+     "text": "bu, działający w porozumieniu z Ministrem Administracji Publicznej."
+    },
+    {
+     "type": "text",
+     "text": "Działalność Banku rozciąga się na obszar całego Państwa."
+    },
+    {
+     "type": "text",
+     "text": "Bank rządzi się statutem, wydanym przez władzę nadzorczą w drodze rozporządzenia,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Kapitał zakładowy Banku składa się z nieograniczonej ilości nie podlegających wycofaniu udziałów Skarbu Państwa, związków samorządowych i komunalnych kas oszczędności. Wysokość jednego udziału wynosi zł 50.000 (złotych pięćdziesiąt tysięcy).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Ilość udziałów Skarbu Państwa wyznacza Rada Ministrów na wniosek Ministra Skarbu, złożony w porozumieniu z Ministrem Administracji Publicznej."
+    },
+    {
+     "type": "text",
+     "text": "Ilość wnoszonych udziałów przez poszczególne związki samorządowe i komunalne kasy oszczędności oraz termin ich wniesienia ustala władza nadzorcza Banku."
+    },
+    {
+     "type": "text",
+     "text": "Warunki tworzenia funduszów rezerwowych i innych funduszów specjalnych określi statut Banku."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Zadaniem Banku jest finansowanie i obsługa bankowa związków samorządowych oraz ich przedsiębiorstw i komunalnych kas oszczędności, jak również administrowanie wszelkimi funduszami specjalnymi, przeznaczonymi na kredyty i dotacje dla związków samorządowych, ich przedsiębiorstw i komunalnych kas oszczędności.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Bank jest centralą żyrową, lokacyjną i inkasową dla związków samorządowych. ich przedsiębiorstw i komunalnych kas oszczędności."
+    },
+    {
+     "type": "text",
+     "text": "Bank jest uprawniony, do wykonywania wszystkich zwykłych czynności bankowych oraz w zakresie wymienionym w ust. 1 artykułu niniejszego — do emisji obligacyj."
+    },
+    {
+     "type": "text",
+     "text": "Szczegółowy zakres czynności Banku ustali statut."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Wszystkie dotacie i fundusze specjalne, przeznaczone dla związków samorządowych, ich przedsiębiorstw oraz komunalnych kas oszczędności, muszą być lokowane w Banku, który nimi administruje oraz przeprowadza ich rozdział na podstawie decyzii komisyi svecjalnych, przewidzianych dla tych dotacyj i funduszów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Związki samorządowe mogą lokować swoje fundusze jedynie w Banku lub w komunalnych kasach oszczędności. Obowiązek ten nie dotyczy gmin wiejskich oraz tych miast niewydzielonych, w których nie ma komunalnych kas oszczędności.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Ograniczenie zawarte w ust. 1 artykułu niniejszego nie dotyczy rachunków żyrowych w Narodowym Banku Polskim i rachunków czekowych w Poćztowej Kasie Oszczędności."
+    },
+    {
+     "type": "text",
+     "text": "Władza nadzorcza Banku może ustalić, jaki odsetek funduszów wolnych komunalne kasy oszczędności obowiązane są lokować w Banku."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Skarb Państwa udziela poręki za obligacje Banku do wysokości jednego miliarda złotych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Ogólna suma znajdvjących się w obiegu obligacyj Banku nie może przekraczać sumy niespłaconych wierzytelności Banku, be- . dących podstawą emisji tych obligacyj.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Ogólna suma obligacyj nie może przekraczać dziesięciokrotnej wysokości kapitału zakładowego Banku."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Za pożyczki, udzielone przez Bank związkom samorządowym i ich przedsiębiorstwom, odpowiadają związki samorządowe całym swoim majątkiem, a w szczególności wszystkimi dochodami.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Obligacje Banku są papierami wartościowymi, posiadającymi bezpieczeństwo prawne (pupilarne).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Organami Banku są:"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_10/pkt_1",
+     "text": "Zgromadzenie udziałowców,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_10/pkt_2",
+     "text": "Rada Banku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_10/pkt_3",
+     "text": "Zarząd,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_10/pkt_4",
+     "text": "Komisja Rewizyjna.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Skład, sposób powoływania oraz szczegółowy zakres czynności organów Banku ustali statut.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Celem stałego nadzoru nad działalnością Banku władza nadzorcza Banku mianuje na jego koszt komisarza rządowego i jego zastępcę, określi ich uprawnienia i obowiązki oraz wyznaczy ich wynagrodzenie.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Księgi Banku oraz wyciągi z nich, uwierzytelnione przez Bank, mają moc dowodową dokumentów publicznych, a dokumenty stwierdzające zobowiązania z oświadczeniem Banku, iż oparte na nich roszczenie jest wykonalne i prawnie doirzało do egzekucji, mają moc tytułów egzekucyjnych. Klauzulę wykonalności nadaje tym tytułom właściwy sąd grodzki według przepisów kodeksu postępowania cywilnego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Termin rozpoczęcia działalności Banku wyznaczy władza nadzorcza zarządzeniem ogłoszonym w Monitorze Polskim.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Wszystkie aktywa i pasywa -Polskiego Banku Komunalnego Spółki Akcyjnej i Komunalnego Banku Kredytowego w Poznaniu w rachunku polskim (w rozumieniu rozporządzenia Kierownika Resortu Gospodarki Narodowej i Finansów z dnia 5 października 1944 r. o czynnościach bankowych na obszarach wyzwolonych spod okupacji — Dz. U. R. P. Nr 7, poz. 38) przejmuje Bank Komunalny. Przejęcie to wolne jest od wszelkich podatków, opłat stemplowych, sądowych i innych należności, pobieranych od przeniesień majątkowych oraz od zwrotu kapitału udziałowego. Z chwilą rozpoczęcia działalności Banku Polski Bank Komunalny Spółka Akcyjna, Ko- , munalny Bank Kredytowy w Poznaniu i Wojejewódzki Bank Pożyczkowy w Poznaniu przechodzą w stan likwidacji z zachowaniem przepisów ustępu poprzedzającego."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Skarbu w porozumieniu z Ministrem Administracji Publicznej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. . Prezydent Krajowej Rady Narodowej: Bolesław Bierut",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Konstanty Dąbrowski Minister Administracji Publicznej: Władysław Kiernik"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

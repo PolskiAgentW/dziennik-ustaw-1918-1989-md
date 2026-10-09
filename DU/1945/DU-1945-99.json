@@ -1,0 +1,44 @@
+{
+ "eli": "DU/1945/99",
+ "title": "Dekret z dnia 7 maja 1945 r. o przedłużeniu moratorium lokalowego dla spółdzielni.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/99/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET p z dnia 7 maja. 1945 r. o przedłużeniu moratorium lokalowego. dla sęołóackił. Na podhtawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) — Rada Ministrów postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Wymieniony w art. 1 dekretu z dnia 6 lutego 1945 r. o moratorium lokalowym dla spółdzielni (Dz. U. R. P. Nr 6, poz. 21) termin wstrzymania z mocy samego prawa wykonania orzeczonych eksmisyj spółdzielni z lokali handlowych i przemysłowych przedłuża się do dnia 1 lipca 1945 r.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi-w życie: 'z dniem ogłoszenia. Prezydent Krajowej Rady Narodowej: Bolesław Bierut ' Prezes Rady Ministrów: Edward Osóbka - Morawski Minister Sprawiedliwości: Henryk Świątkowski",
+   "children": [
+    {
+     "type": "text",
+     "text": "z _"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

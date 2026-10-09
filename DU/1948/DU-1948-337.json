@@ -1,0 +1,311 @@
+{
+ "eli": "DU/1948/337",
+ "title": "Rozporządzenie Ministrów Administracji Publicznej i Ziem Odzyskanych z dnia 24 września 1948 r. wydane w porozumieniu z Ministrami Skarbu oraz Rolnictwa i Reform Rolnych o zmianie rozporządzenia z dnia 20 czerwca 1947 r. w sprawie wykonania dekretu o podatkach komunalnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/337/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRÓW ADMINISTRACJI PUBLICZNEJ I ZIEM ODZYSKANYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 września 1948 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrem Skarbu w sprawie obowiązku wpłacania zaliczek na podatek od nieruchomości. z"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 23 ust. 2 dekretu z dnia 20 marca 1946 r. o podatkach komunalnych (Dz. U. R. P. z 1947 r. Nr 40, poz. 198 oraz z 1948 r. Nr 21, poz. 142 i Nr 41, poz. 297) zarządza się, co następuje: § 1. 1. Podatnicy podatku od nieruchomości obowiązani są do wpłacania w ciągu roku zaliczek miesięcznych na podatek od nieruchomości, przypadający na następny rok podatkowy."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Obowiązek wpłacania zaliczek nie dotyczy tych miesięcy, w których nieruchomość lub jej część, składająca się z lokali mieszkalnych lub użytkowych, nie była oddana w najem lub dzierżawę ani też nie była używana lub użytkowana, chociaż była zdatna do użytku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Za podstawę do ustalenia wysokości zaliczek przyjmuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "dla nieruchomości lub ich części, oddanych w najem lub dzierżawę — czynsz z tytułu najmu lub dzierżawy, należny za miesiąc kalendarzowy, bezpośrednio poprzedzający miesiąc płatności zaliczki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "dla budynków lub ich części, składających się z lokali mieszkalnych, zajmowanych przez właściciela bądź użytkownika budynku albo oddanych „bezpłatnie do używania lub użytkowania — miesięczną wartość czynszową, odpowiadającą kwocie czynszu, jaki by osoba, zajmująca lokal opłacała w miesiącu poprzedzającym miesiąc płatności zaliczki, gdyby była najemcą lub dzierżawcą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "dla nie objętych przepisami pkt 1) i 2) nieruchomości lub ich części — podstawę opodatkowania podatkiem od nieruchomości za ubiegły rok podatkowy, obliczoną w stosunku miesięcznym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Jeżeli czynsz z tytułu najmu nieruchomości lub jej części płatny jest za inne okresy niż mię-- sięczne, podstawę ustalenia wysokości zaliczki stanowi taka część ostatniego okresu płatności, jaka stosunkowo wypada za jeden miesiąc kalendarzowy. § 3. Zaliczka miesięczna wynosi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "250/56 podstawy do ustalenia wysokości zaliczek (§ 2) w stosunku do tych budynków mieszkalnych lub ich części, za które czynsz pobiera się albo których wartość czynszową ustala się według nowych stawek czynszowych na podstawie dekretu z dnia 28 lipca 1948 r. o najmie lokali (Dz.U.R.P. Nr 36, poz. 259),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "w stosunku do nieruchomości lub ich części, nie objętych przepisem pkt 1):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_2/pkt_2/lit_a",
+         "text": "20%/0 podstawy do ustalenia wysokości zaliczek (§ 2), jeżeli czyńsz z tytułu najmu lub dzierżawy, należny za ubiegły rok podatkowy, nie przekracza kwoty 2.000 zł;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_2/pkt_2/lit_b",
+         "text": "300/, podstawy, jeżeli czynsz z tytułu najmu lub dzierżawy, należny za ubiegły: rok podatkowy, przekracza powyższą kwotę.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Podatnicy obowiązani są wpłacać zaliczki na podatek od nieruchomości bez wezwania władzy podatkowej w terminie do dnia 10 każdego miesiąca kalendarzowego i równocześnie składać deklaracje według ustalonego wzoru.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "W roku 1948 obowiązek wpłacania zaliczek na podatek od nieruchomości odnosi się tylko do tych budynków lub ich części, za które czynsz bądź wartość czynszową ustala się według nowych stawek czynszowych na podstawie dekretu z dnia 28 lipca 1948 r. o najmie lokali.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Przy wpłacaniu zaliczek w roku 1948 podatnikom służy prawo zmniejszenia wpłacanych zaliczek o 1/12 część kwoty wymierzonego na ten rok podatkowy podatku od nieruchomości, przypadającej stosunkowo na budynki lub ich części, o których mowa w ustępie poprzedzającym. § 6. Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 września 1948 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Administracji Publicznej: w z. Władysław Wolski"
+      },
+      {
+       "type": "text",
+       "text": "Minister Ziem Odzyskanych: w z. Józef Dubiel"
+      },
+      {
+       "type": "text",
+       "text": "Minister Skarbu: w z. Wincenty Jastrzębski"
+      },
+      {
+       "type": "text",
+       "text": "337, pd ROZPORZĄDZENIE MINISTRÓW ADMINISTRACJI PUBLICZNEJ I ZIEM ODZYSKANYCH"
+      },
+      {
+       "type": "text",
+       "text": "z dnia 24 września 1948 r."
+      },
+      {
+       "type": "text",
+       "text": "wydane w porozumieniu z Ministrami Skarbu oraz Rolnictwa i Reform Relnych o zmianie rozporządzenia z dnia 20 czerwca 1947 r. w sprawie wykonania dekretu o podatkach komunalnych."
+      },
+      {
+       "type": "text",
+       "text": "Na podstawie: art. 21 ust. 2 i art. 49 dekretu z dnia 20 marca 1946 r. o podatkach komunalnych (Dz. U. R. P. z 1947r. Nr 40, poz. 198 oraz z 1948r."
+      },
+      {
+       "type": "text",
+       "text": "Nr 21, poz. 142 i Nr 41, poz. 297) zarządza się, co następuje: . EJ § 1. W rozporządzeniu Ministrów Administra-"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "cji Publicznej i Ziem Odzyskanych z dnia 20 czerwca 1947 r., wydanym w porozumieniu z Ministrami Skarbu oraz Rolnictwa i Reform Rolnych, a co do $§ 12—24 nadto w porozumieniu z Ministrem Aprowizacji w sprawie wykonania dekretu z dnia 20 marca 1946 r. o podatkach komunalnych (Dz. U. R. P. Nr'51, poz. 258), wprowadza się zmiany następujące:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "Dotychczasowy tekst § 66 oznacza się jako ustęp cyfrą 4, a przed tym tekstem dodaje się nowe ustępy treści następującej:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„l. Wartość czynszową mieszkalnej części budynku, zajmowanej przez podatnika bądź oddanej do bezpłatnego używania lub użytkowania, stanowi czynsz, jaki by na podstawie dekretu z dnia 28 lipca 1948 r. o najmie lokali (Dz. U. R. P. Nr 36, poz. 259), opłacały w charakterze najemców osoby zajmujące lokale w tej części budynku.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Dla mieszkalnej części budynku, nadającej się do użytku, a nie używanej ani nie oddanej w najem lub dzierżawę, przyjmuje się jako wartość czynszową:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) w. miejscowościach, w których oddanie w najem lokalu lub w dzierżawę nieruchomości może nastąpić bez trudności i bezzwłocznie — kwotę w wysokości do 50°/o czynszu, ustalonego w myśl art. 2, a ewentualnie także art. 8 dekretu z dnia 28 lipca 1948 r. o najmie lokali;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) w miejscowościach, w których oddanie w najem lokalu lub w dzierżawę nieruchomości połączone jest z trudnościami, wynikającymi z ograniczeń ustawowych bądź z ilości wolnych lokali — kwotę do wysokości czynszu, który byłby płacony według przepisów obowiązujących przed wejściem w życie powołanego dekretu o najmie lokali.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Dla niemieszkalnej części budynku, stanowiącej lokale użytkowe, nadającej się do użytku, a nie użytkowanej ani nie oddanej w najem lub dzierżawę, przyjmuje się jako wartość czynszową:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) w miejscowościach, w Których oddanie w najem lokalu lub w dzierżawę budynku rhoże nastąpić bez trudności i bezzwłocznie — 1000/ czynszu, jaki by był płacony na podstawie art. 2, a ewentualnie także art. 8 dekretu z dnia 28 lipca 1948 r. o najmie lokali, gdyby część niemieszkalna budynku była wynajeta na mieszkania;",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) w miejscowościach, w których oddanie w najem lokalu lub w dzierżawę budynku połączone jest z trudnościami, o których mowa w pkt b) ustępu poprzedzającego — kwotę w wysokości do 50/9 czynszu, jaki by był płacony na podstawie art. 2, a ewentualnie także art. 8 dekretu z dnia 28 lipca 1948 r. o najmie lokali, gdyby część niemieszkalna budynku była wynaje< ta na mieszkania'.",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "W § 73 po wyrazach „lokator główny, lecz także”, dodaje się wyrazy ,,podnajemcy, oraz“, skreśla się zaś wyrazy końcowe „administracji domu\".",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_2/pkt_3",
+       "text": "Przed tekstem § 74 wyrazy „Do art. 26 ust. 3“ zastępuje się wyrazami ,,Do art. 26 ust. 4*, a w tekście skreśla się w końcu zdania wyrazy „czy też na podstawie umowy podnajmu\".",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_2/pkt_4",
+       "text": "Po § 78 wprowadza się nowy § 78a w następującym brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Do art. 3la ust. 1.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 78a.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Zmianę wysokości podatku, wynika< jaca z zastosowania przepisu art. 3la ust. 1, stosu< je się w miesiącu kalendarzowym bezpośrednio następującym po miesiącu, w którym nastąpiła zmiana wysokości czynszu (art. 27 ust. 3).",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Doręczenie podatnikowi nakazu płatniczes czego na podatek od lokali na rok 1948 nie zwalnia od obowiązku wpłacania podatku w wysokości i terminach, określonych w art. 3la ust. 1.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Jeżeli przed powstaniem obowiązku wpłacania podatku na podstawie art. 3la ust. 1 podatek w całości lub jego rata miesięczna została już zapłacona z góry, dokonane wpłaty podlegają zarachowaniu na podatek, jaki na podstawie art. 3la ust. 1 przypada do zapłacenia.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4, Zmiany w wysokości czynszu za najem lokalu, powstałe wskutek obliczenia powierzchni lokalu zgodnie z dekretem z dnia 28 lipca 1948 r. o najmie lokali, podatnik jest obowiązany uwzględnić w ustawowym terminie najbliższej płatności podatku od lokali, w odniesieniu do całego okresu, do ktérego#odnosi się zmieniona wysokość czynszu”.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Najbliższy termin płatności podatku od lokali, opartego na przepisie art. 3la ust. 1 dekretu z dnia 20 marca 1946 r. o podatkach komunał- - nych, upływa z dniem 8 października 1948 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w zy< cie z dniem ogłoszenia z mocą obowiązującą od dnia 1 września 1948 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Administracji Publicznej: w z. Władysław Wolski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Ziem Odzyskanych:"
+    },
+    {
+     "type": "text",
+     "text": "w z. Józeł Dubiel"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: w z. Wincenty JastrzębsFi"
+    },
+    {
+     "type": "text",
+     "text": "Minister Rolnictwa i Reform Rolnych! Jan Dqb-Kocioł Go m 0,1 HOGA~AP+p? {O.cCVcVc.rIL/YWwt.’vtTCY'-YX™™”’\",rnrn wn Opp PA Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Min, Sprawiedl. w Warszawie, ul, 6-go Sierpnia 6. 35000 1042. Cena 24 rl."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,128 @@
+{
+ "eli": "DU/1947/31",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 9 stycznia 1947 r. o dodatkach przejściowych do zaopatrzeń emerytalnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/31/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 stycznia 1947 r."
+  },
+  {
+   "type": "text",
+   "text": "o dodatkach przejściowych do zaopatrzeń emerytalnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ust. 1 pkt 2 i ust. 2 dekretu z dnia 10 grudnia 1946 r. o zmianie niektórych przepisów o zaopatrzeniu emerytalnym funkcjonariuszów państwowych i zawodowych wojskowych (Dz. U. R. P. z 1947 r. Nr 2, poz. 2) zarządzam, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Do zaopatrzeń emerytalnych wymierzonych w punktach oraz do zaopatrzeń emerytalnych wymierzonych w kwotach złotowych, według stawek ustalonych w przepisach uposażeniowych na dzień 1 lutego 1934 r., ustanawia się dodatek przejściowy, który będzie wypłacany według następujących zasad:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "przy uposażeniu emerytalnym, nie przekraczającym 200 zł miesięcznie — w takiej wysokości, ażeby łączna kwota uposażenia emerytalnego wraz z dodatkiem wynosiła 1.200 zł miesięcznie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "przy uposażeniu emerytalnym, wynoszącym ponad 200 zł miesięcznie — w kwocie 1.000 zł miesięcznie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "przy pensji wdowiej, nie przekraczającej 100 zł miesięcznie — w takiej wysokości, ażeby łączna kwota pensji wdowiej wraz z dodatkiem wynosiła 800 zł miesięcznie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_1/lit_d",
+     "text": "przy pensji wdowiej, wynoszącej ponad 100 zł miesięcznie — w kwocie 700 zł miesięcznie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_1/lit_e",
+     "text": "przy pensji sierocej, wynoszącej 1/4 pensji wdowiej — w kwocie 300 zł miesięcznie dla każdej sieroty;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_1/lit_f",
+     "text": "przy pensji sierocej wynoszącej 1/2 pensji wdowiej — w kwocie 400 zł miesięcznie dla każdej sieroty;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "par_1/lit_g",
+     "text": "przy pensji sierocej wynoszącej 2/3 pensji wdowiej — w kwocie 600 zł miesięcznie dla każdej sieroty;",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 2, Do zaopatrzeń emerytalnych wymierzonych przy uwzględnieniu zmian, wprowadzonych w kwotach uposażeń służbowych po dniu 30 września 1945 r. — o ile zaopatrzenia te miałyby wynosić mniej aniżeli:"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "aj dla emeryta 1.200 zł mies."
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "„ wdowy 800 „ m",
+     "children": [
+      {
+       "type": "text",
+       "text": "AN ibs TR w dg Pops 1/4 pensji wdowiej 325 , 7 j",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) „ sieroty, pobierającej pensję w wysokości 1/2 pensji wdowiej, 450, „",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ", oo,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) „ sieroty, pobierającej pensję w wysokości * 2/3 pensji wdowiej, 700, 4 — ustanawia się dodatek przejściowy w kwo- i cie, która uzupełnia odpowiednio zaopatrzenie do wysokości, określenej pod lit. a) do e).",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,125 @@
+{
+ "eli": "DU/1947/75",
+ "title": "Dekret z dnia 28 stycznia 1947 r. w sprawie zmiany ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/75/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 stycznia 1947 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia . 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Art. 3 ust. (1) ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa (Dz. U. R. P. z 1946 r. Nr 14, poz. 103) otrzymuje brzmienie: i „(1) Wysokość podatku, spożywczego ustala się, jak następuje:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "od pierwszych 2.000 hektolitrów piwa wszystkich gatunków łącznie, wydanych do obrotu w ciągu roku obrachunkowego, podatek wynosi:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "od piwa lekkiego o zawartości do 100/9 ekstraktu w brzeczce podstawowej — 800 zł od 1 hektolitra,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "od piwa pełnego o zawartości 10.— 150/ ekstraktu w brzeczce podstawowej — 1.200 zł od 1 hektolitra,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_1/lit_c",
+       "text": "od piwa mocnego o zawartości powyżej 15%) ekstraktu w brzeczce podstawowej — 1.600 zt od 1 hektolitra.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "od następnych 8.000 hektolitrów piwa płaci się podatek o 50/9 wyższy, a od dalszych ilości piwa oraz od piwa sprowadzonego z zagranicy o 10% wyższy od norm ustalonych w pkt 1\",",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, 2 „Zapasy piwa, jakie w dniu wejścia w Życie niniejszego dekretu będą się znajdowały poza browarami na składach w hurtowniach i w rozlewniach piwa, podlegają dodatkowemu opodatkowaniu w wysokości:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "400 zł od 1 hektolitra piwa lekkiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "600 zł od 1 hektolitra piwa pełnego t",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_2/lit_c",
+       "text": "800 zł od 1 hektolitra piwa mocnego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Przedsiębiorcy hurtowni i rozlewni obowiązani są zgłosić zapasy piwa, o których mowa w ust. 1, do dodatkowego opodatkowania pisemnie w dwóch egzemplarzach kontroli akcyzowej w ciągu 10 dni po wejściu w życie niniejszego dekretu i uiścić dodatkowy podatek w ciągu 20 dni po wejściu w życie niniejszego dekretu."
+        },
+        {
+         "type": "text",
+         "text": "Art. 33 Wykonanie niniejszego dekretu porucza się Ministrowi Skarbu."
+        },
+        {
+         "type": "text",
+         "text": "_ Art. 4. Dekret niniejszy wchodzi w życie z dniem ogłoszenia."
+        },
+        {
+         "type": "text",
+         "text": "Prezydent Krajowej Rady Narodowej: Bolesław Bierut —"
+        },
+        {
+         "type": "text",
+         "text": ". Prezes Rady Ministrów: Edward Osóbka-Morawski"
+        },
+        {
+         "type": "text",
+         "text": "Minister Skarbu: Konstanty Dąbrowski"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,89 @@
+{
+ "eli": "DU/1945/18",
+ "title": "Dekret z dnia 5 lutego 1945 r. o rozciągnięciu mocy obowiązującej niektórych postanowień dekretu z dnia 6 stycznia 1945 r. o deponowaniu i wymianie banknotów Banku Emisyjnego w Polsce na obszary Rzeczypospolitej Polskiej, wyzwolone po dniu 6 stycznia 1945 r.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/18/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 lutego 1945 r. o rozciągnięciu mocy obowiązującej niektórych postanowień dekretu z dnia 6 stycznia 1945 r. o deponowaniu i wymianie banknotów Banku Emisyjnego w Polsce na obszary Rzeczypospolitej Polskiej, wyzwolone po dniu 6 stycznia 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) Rada Ministrów postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "(1) Moc obowiązującą postanowień zawartych w art. 3 ust. (1), pkt e) ust.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) i (4) dekretu z dnia 6 stycznia 1945 r. o deponowaniu i wymianie banknotów Banku Emisyjnego w Polsce (Dz. U. R. P. Nr 1, poz."
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "rozciąga się na obszary wyzwolone po dniu 6 stycznia 1945 r. w stosunku do wszystkich osób fizycznych tam zamieszkałych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Osoby fizyczne będące właścicielami przedsiębiorstw i zakładów. objętych postanowieniami art. 3 ust. (1). lit. c) i d) naterenach wyzwolonych po 6 stycznia 1945 r. mają prawo wymiany tylko do wysokości 500 zł."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "(1) Wymiana na rzecz Osób prawnych nie będzie dokonywana.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Upowaznia się Ministra Skarbu w wypadkach wyjątkowych i gospodarczo uzasadnionych do zezwolenia na wymianę na rzecz instytucji o charakterze publiczno-prawnym, użyteczności publicznej i społecznych."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia z' mocą obowiązującą od dnia 16 stycznia 1945 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "i Prezes Rady Ministrów: Edward Osóbka- Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Konstanty Dąbrowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

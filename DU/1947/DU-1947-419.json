@@ -1,0 +1,85 @@
+{
+ "eli": "DU/1947/419",
+ "title": "Rozporządzenie Ministra Aprowizacji z dnia 2 października 1947 r. wydane w porozumieniu z Ministrami: Przemysłu i Handlu, Rolnictwa i Reform Rolnych, Administracji Publicznej, Ziem Odzyskanych oraz Skarbu o zmianie rozporządzenia Ministra Aprowizacji z dnia 2 maja 1947 r. o opłatach przemiałowych na cele zaopatrzenia reglamentowanego i o przemiale zbóż.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/419/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA APROWIZACJI z dnia 2 października 1947 r. wydane w porozumieniu z Ministrami: Przemysłu i Handłu, Rolnictwa i Reform Rolnych, Administracji Publicznej, Ziem Odzyskanych oraz Skarbu o zmianie rozporządzenia Ministra Aprowizacji z dnia 2 maja 1947 r. o opłatach przemiałowych na cele zaopatrzenia reglamentowanego i o przemiale zbóż. Na podstawie art. 2 dekretu z dnia 27 czerwca 1946 r. o reglamentowanym zaopatrywaniu ludności .w przedmioty powszedniego użytku (Dz. U. R. Ps Nr 35, poz. 217) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Aprowizacji z dnia 2 maja 1947 r. wydanym w porozumieniu z Ministrami: Przemysłu i Handlu, Rolnictwa i Reform Rolnych, Administracji Publicznej, Ziem Odzyskanych oraz Skarbu o opłatach przemiałowych na cele zaopatrzenia reglamentowanego i o przemiale zbóż (Dz. U. R. P. Nr 39, poz. 193) wprowadza się zmiany następujące:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "§ 2 otrzymuje brzmienie: „§ 2. r. Ustala się następujące najniższe dopuszczalne wysokości procentowe przemiału:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "dla żyta — 80%",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "dla pszenicy — 70%",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "dla jęczmienia — 65% i dopuszcza się do obrotu make i kasze tylko z powyższych przemiałów, z wyjątkiem przypadków przewidzianych w ust. 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Minister Aprowizacji może:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "zezwolić w określonych młynach na przemiał procentowo niższy, niż wskazany w ust. I, Żyta i pszenicy dla celów wyżywienia dzieci i chorych tub potrzeb religijnych oraz jęczmienia w przypadku stosowania mąki jęczmiennej jako domieszki do wypieku pieczywa;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "ust_2/lit_b",
+     "text": "określić uprawnionych do sprzedaży mąki, pochodzącej z takiego przemiału.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "Dodaje się po § 2 nowy paragraf 2a w brzmieniu: „§ 2a. Minister Aprowizacji może zobowiązać młyny do stosowania domieszek dla otrzymania mąki określonego typu'. niniejsze wchodzi § 2. Rozporządzenie w życie z dniem ogłoszenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Aprowizacji: Włodzimierz Lechowicz"
+      },
+      {
+       "type": "text",
+       "text": "Minister Przemysłu i Handlu: . Hilary Minc Minister Rolnictwa i Reform Rolnych: Jan Dąb-Kocioł Minister Administracji Publicznej: Edward Osóbka-Morawski Minister Ziem Odzyskanych: Władysław Gomułka Minister Skarbu: a Konstanty Dąbrowski"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

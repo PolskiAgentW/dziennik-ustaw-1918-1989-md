@@ -1,0 +1,543 @@
+{
+ "eli": "DU/1948/210",
+ "title": "Obwieszczenie Ministra Skarbu z dnia 24 czerwca 1948 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 2 czerwca 1947 r. o obywatelskich komisjach podatkowych i lustratorach społecznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/210/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 czerwca 1948 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 2 czerwca 1947 r. o obywatelskich komisjach podatkowych i lustratorach społecznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 dekretu z dnia 21 kwietnia 1948 r. o zmianie ustawy z dnia 2 czerwca 1947 r. o obywatelskich komisjach podatkowych i lustratorach społecznych (Dz. U. R. P. Nr 23, poz. 156) ogłaszam w załączeniu jednolity tekst ustawy z dnia 2 czerwca 1947 r. o obywatelskich komisjach podatkowych i lustratorach społecznych (Dz. U. R. P. Nr 43, poz. 219) z uwzględnieniem zmian, wprowadzonych dekretem z dnia 21 kwietnia 1948 r. (Dz. U. R. P. Nr 23, poz. 156) i z zastosowaniem nowej numeracji artykułów i ustępów."
+  },
+  {
+   "type": "text",
+   "text": "Podany w załączniku do obwieszczenia niniejszego jednolity tekst ustawy z dnia 2 czerwca 1947 r. o obywatelskich komisjach podatkowych i lustratorach społecznych nie obejmuje przepisu art. 2 dekretu z dnia 21 kwietnia 1948 r. (Dz. U. R. P. Nr 23, poz. 156), którego brzmienie jest następujące;"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "„Art. 2. Wojewódzkie rady narodowe (Rady",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Narodowe m. st. Warszawy i m. Łodzi) obowią-",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "zane są powołać okręgowych lustratorów społecznych i ich zastępców w terminie dwutygodniowym po ogłoszeniu niniejszego dekretu‘. Minister Skarbu: w. z. Wincenty Jastrzębski",
+   "quoted": true
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Skarbu z dnia 24 czerwca 1948 r. (poz, 210).",
+   "body": [
+    {
+     "type": "text",
+     "text": "USTAWA"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 2 czerwca 1947 r."
+    },
+    {
+     "type": "text",
+     "text": "o obywatelskich komisjach podatkowych i lustratorach społecznych."
+    },
+    {
+     "type": "heading",
+     "label": "Dział 1",
+     "text": "Obywatelskie komisje podatkowe."
+    },
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "Tworzy się obywatelskie komisje podatkowe.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_2/ust_1",
+       "text": "Obywatelska komisja podatkowa składa się: z przewodniczącego, z zastępcy przewodniczącego, 12 ławników i tyluż zastępców, powołanych przez właściwe terytorialnie powiatowe (miejskie) rady narodowe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_2/ust_2",
+       "text": "Sposób i tryb powoływania obywatelskich komisyj podatkowych ustali uchwała Rady Państwa na wniosek Rady Ministrów. Rada Państwa ustali, ilu ławników i ich zastępców powołanych będzie spośród kandydatów, przedstawionych przez organizacje zawodowe, zrzeszające podatników. _",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_2/ust_3",
+       "text": "Nadzór nad działalnością obywatelskich komisyj podatkowych w zakresie organizacyjnym i porządkowym wykonuje okręgowy lustrator społeczny (art. 10).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_2/ust_4",
+       "text": "Okręgowemu lustratorowi społecznemu służy prawo składania umotywowanych wniosków do właściwej rady narodowej o odwołanie przewodniczącego, jego zastępcy, poszczególnych ławników lub zastępców ławników obywatelskiej komisji podatkowej. W przypadku uwzględnienia tego wniosku rada naroddwa powołuje innego przewodniczącego, zastępcę przewodniczącego, ławnika lub zastępcę ławnika; w przypadku nieuwzględnienia wniosku okręgowego lustratora społecznego rada narodowa przedstawia sprawę wraz ze swoją opinią do decyzji radzie narodowej hierarchicznie wyższego stopnia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "Właściwość miejscowa obywatelskich komisji podatkowych pokrywa się z właściwością miejscową urzędów skarbowych (rewizyjnych).",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_4/ust_1",
+       "text": "Obywatelska komisja podatkowa orzeka w komplecie, składającym się z przewodniczącego lub jego zastępcy oraz wyznaczonych przez przewodniczącego lub jego zastępcę 4 ławników. W posiedzeniach obywatelskich komisji podatkowych uczestniczy przedstawiciel zespołu lustratorów społecznych z głosem doradczym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_4/ust_2",
+       "text": "Do prawomocności orzeczenia obywatelskiej komisji podatkowej wymagana jest obecność przewodniczącego lub jego zastępcy oraz co najmniej trzech ławników. W razie równości głosów rozstrzyga głos przewodniczącego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "Siedzibą obywatelskiej komisji podatkowej jest urząd skarbowy (rewizyjny). Czynności biurowe obywatelskiej komisji podatkowej załatwia urząd skarbowy (rewizyjny).",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_6/ust_1",
+       "text": "Obywatelska komisja podatkowa powołana jest do orzekania o wysokości podstawy opodatkowania w zakresie podatków bezpośrednich i danin, pobieranych na rzecz Skarbu Państwa, w sprawach, przekazanych jej przez urząd skarbowy (rewizyjny).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_6/ust_2",
+       "text": "Obywatelska komisja podatkowa orzeka według swobodnego uznania na podstawie posia< danego materiału wymiarowego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_6/ust_3",
+       "text": "Urząd skarbowy (rewizyjny) przekazuje obywatelskiej komisji podatkowej sprawy w przypadkach:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_6/ust_3/pkt_1",
+         "text": "gdy księgi handlowe, uproszczone lub podatkowe, zeznania podatkowe, wykazy, deklara= cje, bądź inne materiały, służące do ustalenia podstawy opodatkowania, nie obejmują według uzasadnionego przekonania urzędu całości obrotu lub dochodu podatnika, a urząd nie rozporządza danymi, uprawniającymi do pominięcia tych materiałów, i gdy podatnik mimo wezwania nie skorygował zeznania do wysokości, uznanej przez urząd skarbowy za słuszną,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_6/ust_3/pkt_2",
+         "text": "gdy zachodzi przypadek, o którym mowa w art. 12.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_6/ust_4",
+       "text": "Przekazując sprawę obywatelskiej komisji podatkowej urząd skarbowy (rewizyjny) zgłosi wniosek co do ustalenia przez komisję wysokości podstawy opodatkowania. \"5. Nie podlegają przekazaniu sprawy o usta= lenie rocznego wymiaru podatku, w których do< ręczono podatnikowi nakaz płatniczy, chyba że zachodzą okoliczności, uzasadniające wznowienie postępowania zgodnie z dekretem z dnia 16 maja 1946 r. o postępowaniu podatkowym (Dz. U. R. P. Nr 27, poz. 174).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "7",
+     "path": "art_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_7/ust_1",
+       "text": "Obywatelska komisja podatkowa powinna wydać orzeczenie najdalej w terminie dwu tygedni od daty otrzymania sprawy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_7/ust_2",
+       "text": "Obywatelska komisja podatkowa przed wy-~ daniem orzeczenia może zwrócić się do urzędu",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "skarbowego (rewizyjnego) z wnioskiem o zbadanie pewnych, konkretnych okoliczności również przez lustratorów społecznych i wydelegować swego przedstawiciela do udziału w czynnościach lustratorów społecznych, związanych z tym badaniem."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_7/ust_3",
+       "text": "Na podstawie orzeczenia obywatelskiej komisji podatkowej urząd skarbowy ustali wysokość zobowiązania podatkowego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_7/ust_4",
+       "text": "Przed wydaniem decyzji, ustalającej zobowiązanie podatkowe na podstawie orzeczenia obywatelskiej komisji podatkowej, urząd skarbowy (rewizyjny) może — umotywowanym wnioskiem— przekazać sprawę ponownie obywatelskiej komisji podatkowej do rozpatrzenia, jeżeli orzeczenie obywatelskiej komisji podatkowej — zdaniem urzędu — jest niezgodne z materiałem przekazanym jej przez urząd albo też ujawnionym w związku z postępowaniem przed obywatelską komisją podatkową i przynosi szkodę Skarbowi Państwa. W tych. przypadkach przewodniczący obywatelskiej komisji podatkowej może przydzielić sprawę do ponownego rozpoznania innemu kompletowi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "8",
+     "path": "art_8",
+     "text": "Od decyzji urzędu skarbowego (rewizyjnego), wydanej na podstawie orzeczenia obywatelskiej komisji podatkowej, ustalającej wysokość zobowiązania podatkowego, służy podatnikowi odwołanie do właściwej terytorialnie komisji odwoławczej przy izbie skarbowej, która rozstrzyga ostatecznie według swobodnego uznania.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_9/ust_1",
+       "text": "Przy wydawaniu orzeczeń obywatelska komisja podatkowa oraz komisja odwoławczą nie są związane w zakresie ustalenia wysokości zobowiązań podatkowych przepisami dekretu z dnia 16 maja 1946 r. o postępowaniu podatkowym (Dz. U. R. P. Nr 27, poz. 174).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_9/ust_2",
+       "text": "Do trybu i sposobu postępowania przed obywatelskimi komisjami podatkowymi stosuje się odpowiednie przepisy o komisjach odwoławczych przy izbach skarbowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Dział 2",
+     "text": "Lustratorzy społeczni."
+    },
+    {
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_10/ust_1",
+       "text": "Powołuje się lustratorów społecznych przy urzędach skarbowych i rewizyjnych oraz okręgowych lustratorów społecznych i zastępców okręgowych lustratorów społecznych przy izbach skarbowych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_10/ust_2",
+       "text": "Właściwe terytorialnie powiatowe (miejskie) rady narodowe — w terminie miesięcznym po ogłoszeniu w Monitorze Polskim zarządzenia Ministra Skarbu, o którym mowa w ust. 5 — powołają lustratorów społecznych przy urzędach skarbowych (rewizyjnych) po wysłuchaniu opinii okręgowego lustratora społecznego. W miejscowościach, będących siedzibą kilku urzędów skarbowych (rewizyjnych), lustratorów społecznych, powołanych przez powiatową (miejską) radę narodową, dyrektor izby skarbowej — po wysłuchaniu opinii okręgowego lustratora społecznego— przydziela w odpowiedniej ilości do poszczególnych urzędów skarbowych (rewizyjnych) w danej miejscowości na określony czas lub w celu dokonania pewnych, oznaczonych czynności.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_10/ust_3",
+       "text": "Lustratorzy społeczni pracują pod nadzorem naczelnika urzędu skarbowego, w ramach jego ogólnych instrukcyj, w zespołach, pod kierownictwem jednego z lustratorów społecznych. Kierownika zespołu wyznacza dyrektor izby skarbowej na wniosek okręgowego lustratora społecznego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_10/ust_4",
+       "text": "Wojewódzkie rady narodowe (Rady Narodowe m. st. Warszawy i m. Łodzi) powołują — po wysłuchaniu opinii dyrektora izby skarbowej— i delegują do właściwej izby skarbowej okręgowych lustratorów społecznych i zastępców okręgowych lustratorów społecznych. Okręgowy lustrator społeczny (zastępca) podlega dyrektorowi izby skarbowej i obowiązany jest stosować się do udzielanych mu instrukcyj i wskazówek.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_10/ust_5",
+       "text": "Zarządzenie Ministra Skarbu ustali liczbę lustratorów społecznych przy poszczególnych urzędach skarbowych (rewizyjnych) lub w poszczególnych miejscowościach.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_10/ust_6",
+       "text": "Okręgowemu lustratorowi społecznemu służy prawo składania umotywowanych wniosków do właściwej rady narodowej o odwołanie lustratora społecznego. W przypadku uwzględnienia tego wniosku rada narodowa powołuje bezzwłocznie innego lustratora społecznego, z zachowaniem warunków określonych w ust. 2; w przypadku nieuwzględnienia wniosku okręgowego lustratora społecznego rada narodowa przedstawia sprawę wraz ze swoją opinią do decyzji radzie narodowej hierarchicznie wyższego stopnia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "art_10/ust_7",
+       "text": "Dyrektorowi izby skarbowej służy prawo składania umotywowanych wniosków do wojewódzkiej rady narodowej (Rady Narodowej m. st. Warszawy i m. Łodzi) o odwołanie okręgowego lustratora społecznego lub jego zastępcy. W przypadku uwzględnienia tego wniosku rada narodowa powołuje bezzwłocznie innego okręgowego lustratora społecznego lub jego zastępcę — po wysłuchaniu opinii dyrektora izby skarbowej; w przypadku nieuwzględnienia wniosku dyrektora izby skarbowej rada narodowa przedstawia sprawę wraz ze swoją opinią do decyzji Radzie Państwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "11",
+     "path": "art_11",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_11/ust_1",
+       "text": "Zadaniem lustratorów społecznych jest:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_11/ust_1/pkt_1",
+         "text": "współdziałanie z urzędami skarbowymi (rewizyjnymi) i ochroną skarbową w ujawnianiu osób, uchylających się od opodatkowania lub . trudniących się nielegalnymi procederami zarobkowymi,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_11/ust_1/pkt_2",
+         "text": "współdziałanie z urzędami skarbowymi (rewizyjnymi) w poborze podatków i danin,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_11/ust_1/pkt_3",
+         "text": "zbieranie i komunikowanie pisemne urzędowi skarbowemu (rewizyjnemu) wszelkich danych, mogących mieć wpływ na ustalenie obowiązku podatkowego, rozmiaru tego obowiązku oraz na pobór ustalonych zobowiązań podatkowych.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_11/ust_2",
+       "text": "Lustratorzy społeczni korzystają z uprawnień, przysługujących władzom skarbowym na",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "= Sl — Dziennik Ustaw Nr 31"
+        },
+        {
+         "type": "text",
+         "text": "mocy rozdziału 5 dział XI dekretu z dnia 16 maja 1946 r. o postępowaniu podatkowym (Dz. U. R. P. Nr 27, poz. 174) oraz uprawnień, przysługujących organom ochrony skarbowej. Rozporządzenie Ministra Skarbu, wydane na podstawie ustawy niniejszej, ustali szczegółowo zakres działania oraz uprawnienia lustratorów społecznych, wynikające z niniejszego artykułu."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_11/ust_3",
+       "text": "Zadaniem okręgowych lustratorów społecznych jest:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_11/ust_3/pkt_1",
+         "text": "czuwanie nad właściwym składem zespołów lustratorów społecznych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_11/ust_3/pkt_2",
+         "text": "szkolenie i instruowanie lustratorów społecznych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_11/ust_3/pkt_3",
+         "text": "nadzór nad działalnością lustratorów* społecznych i koordynowanie ich pracy z działalnością władz skarbowych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_11/ust_3/pkt_4",
+         "text": "inspekcja pracy zespołów lustratorów społecznych i składanie miesięcznych sprawozdań dyrektorowi izby skarbowej o ich działalności i jej wynikach, - 5) nadzór nad działalnością obywatelskich komisyj podatkowych w zakresie, określonym w art. 2 ust. 3 i 4.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_11/ust_4",
+       "text": "Okręgowy lustrator społeczny nie ma prawa wydawania zarządzeń, instrukcyj i poleceń władzom skarbowym ani przeprowadzania inspekcji tych władz.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "12",
+     "path": "art_12",
+     "text": "Urząd skarbowy (rewizyjny) obowiązany jest wykorzystać materiał faktyczny, dostarczony przez lustratora społecznego. Jeżeli materiał ten nie jest zdaniem urzędu skarbowego (rewizyjnego) wystarczający do ustalenia wysokości zobowiązań podatkowych zgodnie z pisemnym wnioskiem lustratora społecznego, urząd skarbowy obowiązany jest w terminie dni 14 od dnia otrzymania wniosku przekazać sprawę obywatelskiej komisji podatkowej do rozstrzygnięcia.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "13",
+     "path": "art_13",
+     "text": "Naczelnikowi urzędu skarbowego (rewizyjnego) służy prawo zwoływania konferencji lustratorów społecznych, działających w jego okręgu, udzielania im instrukcyj i zlecenia opracowywania — w zakresie określonym w art. 11 — końkretnych spraw.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "14",
+     "path": "art_14",
+     "text": "Właściciele (administratorzy) budynków w gminach miejskich oraz zarządy gmin wiejskich obowiązane są bezzwłocznie zawiadamiać właściwe terytorialnie urzędy skarbowe o przypadkach podjęcia przez najemców lokali lub mieszkańców gminy działalności, z którą związany jest obowiązek podatkowy w zakresie podatków bezpośrednich.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Dział 3",
+     "text": "Przepisy wspólne. *"
+    },
+    {
+     "type": "art",
+     "num": "15",
+     "path": "art_15",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_15/ust_1",
+       "text": "Przewodniczący obywatelskiej komisji podatkowej i jego zastępca oraz ławnicy otrzymują zwrot kosztów podróży oraz wynagrodzenie za posiedzenia w wysokości diet członków odpowiedniej terytorialnie rady narodowej. Wynagrodzenia przewodniczących i ich zastępców mogą być zryczałtowane przez Ministra Skarbu w drodze zarządzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_15/ust_2",
+       "text": "Wynagrodzenie lustratorów społecznych oraz okręgowego lustratora społecznego i jego zastępcy określi zarządzenie Ministra Skarbu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_15/ust_3",
+       "text": "Lustratorzy społeczni, okręgowi lustratorzy społeczni oraz zastępcy okręgowych lustratorów społecznych, delegowani przez właściwe rady narodowe, korzystają z uprawnień kontraktowych pracowników samorządowych. Z tytułu wykony-~ wanych funkcji podlegają oni obowiązkowi ubezpieczenia społecznego na zasadach ogólnych w zakresie przewidzianym dla pracowników danego samorządu; do zgłoszenia do ubezpieczenia i opłaty składek ubezpieczeniowych obowiązane są prezydia właściwych rad narodowych, którym izby skarbowe zwracają koszty wpłaconych składek. Lustratorzy społeczni, okręgowi lustratorzy społeczni oraz ich zastępcy mogą korzystać w okresie, na który zostali powołani, z uprawnień pracowników administracji skarbowej w zakresie wyżywienia oraz przysługujących im ulg w podatku od wynagrodzeń i ulg kolejowych. Jeżeli ' powołany przez radę narodową lustrator społeczny, okręgowy lustrator społeczny lub jego zastępca pozostaje w stosunku pracy, pracodawca obowiązany jest udzielić mu bezpłatnego urlopu na okres, na który został powołany do pełnienia obowiązków lustratora społecznego. Przerwa w pracy, spowodowana bezpłatnym urlopem, nie ogranicza praw pracownika po powrocie na dawne miejsce pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "16",
+     "path": "art_16",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_16/ust_1",
+       "text": "Przewodniczący obywatelskich komisyj podatkowych, zastępcy przewcdniczących, ławnicy oraz lustratorzy społeczni winni nadużycia władzy urzędowej, jeżeli czyn popełniony został z chęci zysku (art. 286—291 k. k.) — podlegają karze więzienia do lat 15. Do orżekania powołane są sądy okręgowe.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_16/ust_2",
+       "text": "Naruszenie obowiązków, wynikających z art. 14 niniejszej ustawy, stanowi wykroczenie skatbowe podlegające ukaraniu na zasadzie art. 142 prawa karnego skarbowego (Dz. U. R. P. z 1947 r. Nr 32, poz. 140 i z 1948 r. Nr 18, pęz. 123).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Dział 4",
+     "text": "Przepisy końcowe."
+    },
+    {
+     "type": "art",
+     "num": "17",
+     "path": "art_17",
+     "text": "Wykonanie ustawy niniejszej porucza się Ministrom Skarbu i Sprawiedliwości.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "18",
+     "path": "art_18",
+     "text": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 lipca 1947 r. do dnia 31 grudnia 1949 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Min. Sprawiedl, w Warszawie, ul. 6-50 Sierpnia 6 zzz AE ZA z Z KAZ E 35.000 444 , Cena 36 zł."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

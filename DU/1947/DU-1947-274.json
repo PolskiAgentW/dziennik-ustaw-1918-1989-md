@@ -1,0 +1,191 @@
+{
+ "eli": "DU/1947/274",
+ "title": "Rozporządzenie Ministra Oświaty z dnia 21 kwietnia 1947 r. wydane w porozumieniu z Ministrami: Administracji Publicznej i Ziem Odzyskanych o rejestrach tworów przyrody, uznanych za podlegające ochronie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/274/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OŚWIATY"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 kwietnia 1947 r. wydane w porozumieniu z Ministrami: Administracji Publicznej i Ziem Odzyskanych o rejestrach tworów przyrody, uznanych za podlegające ochronie. *"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 § 3 ustawy z dnia „lejności wpływu. Do księgi inwentarzowej na- 10 marca 1934 r. o ochronie przyrody (Dz. U. R. P. Nr 31, poz. 274) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wprowadza się następujące rejestry tworów przyrody, które władza państwowa uznała za podlegające ochronie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "rejestr centralny, obejmujący twory przyrody na całym obszarze państwa,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "rejestry wojewódzkie, obejmujące twory przyrody, znajdujące się na obszarze poszczególnych województw.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rejestr centralny prowadzony jest przez Delegata Ministra Oświaty do Spraw Ochrony Przyrody, rejestry wojewódzkie — przez poszczególne urzędy wojewódzkie (Zarządy Miejskie m. st. Warszawy i m. Łodzi).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rejestr centralny dzieli się na działy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "rezerwaty,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "pomniki przyrody. Rejestr centralny prowadzi się systemem kartotekowym z podziałem na województwa, powiaty i gminy. Rejestr wojewódzki prowadzi się w formie księgi inwentarzowej. Księga inwentarzowa powinna być oprawiona i strony jej ponumerowane. Wpisy do rejestrów wojewódzkich należy dokonywać według chronologicznej koleży założyć skorowidz alfabetyczny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rejestr centralny i rejestry wojewódzkie zawierają następujące rubryki:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "numer porządkowy rejestru wojewódzkiego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "date i numer prawomocnego zarządzenia o uznaniu tworu przyrody za podlegający ochronie oraz nazwę władzy, która zarządzenie wydała,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "określenie tworu przyrody oraz ewentualnie jego nazwę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "określenie położenia tworu przyrody (województwo, powiat, gmina, gromada, miejscowość, bliższe określenie położenia, liczba parceli katastralnej, numer mapy hipotecznej; na obszarze lasów państwowych: nadleśnictwo, leśnictwo i numer oddziału lasu),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "opis tworu przyrody, nadto jego obszar, wymiary, stan zachowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "imię, nazwisko i adres właściciela — przyrody (ewent. własność państwowa),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_4/pkt_7",
+     "text": "spis literatury, dotyczącej tworu przyrody,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_4/pkt_8",
+     "text": "uwagi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Wszelkie zmiany, dotyczące danego tworu przyrody, notuje się w odpowiednich rubrykach rejestru.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "840 Dziennik Ustaw Nr 52"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Wpis do rejestru nasiępuje po uprawomocnieniu się zarządzenia, uznającego dany przedmiot za twór przyrody podlegający ochronie. Skreślenie z rejestru następuje na podstawie zarządzenia uchylającego ochronę, wydanego po wysłuchaniu opinii Państwowej Rady Ochrony Przyrody.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Każdy wpis lub skreślenie w rejestrze wojewódzkim powinno być w przeciągu 7 dni przesłane w odpisie do rejestru centralnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "- Minister Oświaty: Stanisław Skrzeszewski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Administracji Publicznej: Edward Osóbka-Morawski"
+    },
+    {
+     "type": "text",
+     "text": "‘Minister Ziem Odzyskanych: Władysław Gomułka"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

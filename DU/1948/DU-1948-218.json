@@ -1,0 +1,174 @@
+{
+ "eli": "DU/1948/218",
+ "title": "Rozporządzenie Ministra Oświaty z dnia 17 czerwca 1948 r. w sprawie zwinięcia, utworzenia i przemianowania katedr i oddziałów w szkołach akademickich.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/218/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OŚWIATY"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 czerwca 1948 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zwinięcia, utworzenia i przemianowania"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 dekretu z dnia 28 października 1947 r. o organizacji nauki i szkolnictwa wyższego (Dz. U. R. P. Nr 66, poz. 415) zarządzam, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W Politechnice Łódzkiej na Wydziale Mechanicznym zwija się katedrę aerodynamiki wraz Z połączonym z nią zakładem naukowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W Politechnice Warszawskiej:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "na Wydziale Mechanicznym przemianowuje się katedrę geometrii wykreślnej wraz z połączonym z nią zakładem naukowym na katedrę matematyki stosowanej i tworzy się katedry:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "silników lotniczych i b) technologii lotniczej wraz z połączonymi z nimi zakładami naukowymi;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "na Wydziale Inżynierii zwija się oddział dróg i mostów i tworzy się oddziały: a) budowy mostów i b) komunikacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W Uniwersytecie Jagiellońskim w Krakowie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "katedr i oddziałów w szkołach akademickich."
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "na Wydziale Humanistycznym przemianowuje się katedrę sanskrytu i filologii indyjskiej wraz z połączonym z nią zakładem naukowym na katedrę językoznawstwa ogólnego oraz tworzy się katedrę historii ruchów społecznych wraz z połączonym znią zakładem naukowym;",
+     "children": [
+      {
+       "type": "text",
+       "text": "2; na Wydziale Lekarskim przemianowuje, się I klinikę chirurgiczną na klinikę chirurgiczną im. prof. dr Maksymiliana Rutkowskiego;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "na Wydziale Matematyczno-Przyrodniczym przemianowuje się zakład anatomii porównawczej na Zakład Anatomii Porównawczej im. prof. dr Henryka Hoyera;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "na Wydziale Prawa zwija się katedrę prawa rzymskiego II wraz z połączonym z nią zakładem naukowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W Uniwersytecie Warszawskim na Wydziale Matematyczno-Przyrodniczym przemianowuje się:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_4/lit_a",
+     "text": "katedrę anatomii porównawczej wraz z połączonym z nią zakładem naukowym na katedrę zoologii ogólnej,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_4/lit_b",
+     "text": "katedrę zoologii systematycznej i morfologii wraz z połączonym z nią zakładem naukowym na katedrę zoologii systematycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W Uniwersytecie Łódzkim na Wydziale Matematyczno-Przyrodniczym przemianowuje się:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_5/lit_a",
+     "text": "katedrę matematyki stosowanej na katedrę matematyki III,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_5/lit_b",
+     "text": "katedrę fizyki teoretycznej II na katedrę fizyki eksperymentalnej II.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Oświaty:"
+    },
+    {
+     "type": "text",
+     "text": "w z. Eugenia Krossowska"
+    },
+    {
+     "type": "text",
+     "text": "4"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

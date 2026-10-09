@@ -1,0 +1,86 @@
+{
+ "eli": "DU/1947/3",
+ "title": "Dekret z dnia 13 grudnia 1946 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 listopada 1927 r. o ubezpieczeniu pracowników umysłowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/3/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 grudnia 1946. o uułaiie rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 listopada 1927 Pp. o ubezpieczeniu pracowników umysłowych. INa podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, ce następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W rezporządzeniu Prezydenta Rzepospolitej z dnia 24 listopada 1927 r. e ubezpieczeniu pracówników umysłowych (Dz. U. R. P. Nr 106, poz. 911) z późniejszymi zmianami (Dz. U. R. P. z 1928 r. Nr 26, poz. 231, z 1933 r. Nr 27, poz. 229, Nr 51, poz. 396, Nr 102, poz. 704, z 1934 r. Nr 39, poz. 347, Nr 95, poz. 855, z 19039 r. Nr 71, poz. 476, z 1945 r. Nr 43, fpoz. 240 i z 1946 r. Nr 4, poz. 29) wprowadza się zmiany następujące: „ 1) w art. 15 lit. B pkt 7 otrzymuje brzmienić: \\ ,,7) zapomoga pośmiertna (art. 30-a).“",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 16 ust. 1 wyrazy „zasiłku pogrzebowego\" zastępuje się wyrazami „zapomogi pośmiertnej'';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "art. 30-a otrzymuje brzmienie: „Art. 30-a. Rodzinie, pozostałej po ubezpieczonym lub pobierającym rentę inwalidzką albo starczą, przysługuje w razie jego śmierci prawo do jednorazowej zapomogi pośmiertnej w. wysokości miesięcznego zarobku, na podsta: wie którego zmarły był ostatnio ubezpieczony.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Co do kolejności osób, uprawnionych do otrzymania jednorazowej zapemogi pośmiertnej, mają odpowiednie zastesewanie przepisy art. 150 ust. 2 ustawy o ukezpieczeniu społecznym.'';"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "art. 44-a skreśla się;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "po art. 55 dodaje się art. 55-a w następującym brzmieniu: „Art. 55-a. Przy zbiegu praw do jednorazowej zapomogi pośmiertnej z art. 30-a rozporządzenia niniejszego-i art. 150 ustawy o ubezpieczeniu. społecznym wypłaca się jedynie zapomogę z art. 150 ustawy o ubezpieczeniu społecznym.''",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie ameb. dekretu popieki Społecz- -rucza się Ministrowi Pracy i nej,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 października 1946 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bałestaw Bierut *"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: a Edward Osóbka - Morawski Minister Pracy i Opieki Spółecznej: Adam Kuryłowicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

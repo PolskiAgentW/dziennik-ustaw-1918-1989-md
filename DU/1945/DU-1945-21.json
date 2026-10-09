@@ -1,0 +1,64 @@
+{
+ "eli": "DU/1945/21",
+ "title": "Dekret z dnia 6 lutego 1945 r. o moratorium lokalowym dla spółdzielni.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/21/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 lutego 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "o moratorium lokalowym dia spółdzielni."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia"
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Dekret niniejszy wchodai w ży- 1945 r. ożtrybie wydawania dekretów z mocą cie z dniem ogłoszenia. ustawy (Dz. U. R. P. Nr 1, poz. 1)—Rada Ministrów postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W okresie czasu do dnia 1 kwietnia 1945 r. wstrzymuje się z mocy samego prawa wykonanie orzeczonych w postępowaniu sądowym eksmisji spółdzielni z lokali handlowyc I przemysłowych,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrewi Sprawiedliwości.",
+   "children": [
+    {
+     "type": "text",
+     "text": "ERZYRBNE Bape BAG RRGAEW Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "w/z Prezes Rady Ministrów : Stanisław Januss"
+    },
+    {
+     "type": "text",
+     "text": "Minister Sprawiedliwości: Edmund Zalewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

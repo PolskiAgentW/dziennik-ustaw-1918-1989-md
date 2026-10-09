@@ -1,0 +1,60 @@
+{
+ "eli": "DU/1945/158",
+ "title": "Dekret z dnia 26 czerwca 1945 r. o zniesieniu cenzury korespondencji.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/158/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET - z dnia 26 czerwca 1945 r. ~ _ o zniesieniu cenzury korespondencji. Na podstawie ustawy” z dnia 3 stycznia 1945 r. o trybie wydawania dekretów .z mocą ustawy (Dz..U..R. P. Nr 1, poz. 1) Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Znosi się cenzurę korespondencji, przesyłek pocztowych, telegramów oraz rozmów telefonicznych, wprowadzoną dekretem z dnia 28 grudnia 1944 r. o wprowadzeniu wojennej cenzury korespondencji (Dz. U. R. P. Nr 17, poz. 93). \\",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Przepis art. 1 nie ma zastosowania do korespondencji kierowanej do jednostek wojskowych iz jednostek wojskowych oraz do korespondencji zagranicznej, radiotelegramów i rozmów radiowych. s Art. 3, Wykonanie niniejszego dekretu porucza się Ministrom Obrony Narodowej, Bezpieczeństwa Publicznego oraz Poczt i Telegrafów. *",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ógłoszenia. ©",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: - Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "w/z Prezes Rady Ministrów Stanisław Janusz ey eae Obi IE - w/z Minister brony Narodowej: Strażeński"
+    },
+    {
+     "type": "text",
+     "text": "Minister Bezpieczeństwa Publicznego: 5 Stanislas Radbiswics"
+    },
+    {
+     "type": "text",
+     "text": "_ Minister Poczt i Telegrafów: m : ."
+    },
+    {
+     "type": "text",
+     "text": ". Tadeusz Kapeliński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

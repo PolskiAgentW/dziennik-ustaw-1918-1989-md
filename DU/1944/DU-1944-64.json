@@ -1,0 +1,97 @@
+{
+ "eli": "DU/1944/64",
+ "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 20 listopada 1944 r. o zmianie ustawy o opodatkowaniu cukru.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/64/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OE „ PĘRREM POLSKIEGO KOMITETU WYZWOLENIA NARODOWEGO z dnia 20 listopada 1944 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie ustawy o opodatkowaniu cukru."
+  },
+  {
+   "type": "text",
+   "text": ". Na podstawie ustawy Krajowej Rady Narodowej z dnia 15 sierpnia 1944 r. o tymczasowym trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nril, poz. 3) — Polski Komitet Wyzwolenia Narodowego postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 13 września 1927 r., o opodatkowaniu cukru (Dz. U. R. P. Nr81, poz. 700) wraz z późniejszymi zmianami, wprowadza się zmiany następujące: F 1)w artl skreśla się słowa. „tudzież cukier sprowadzony z zagranicy i z Wolnego Miasta Gdańska\",",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "art. 2 otrzymuje brzmienie następujące: „Podatek spożywczy wynosi: 1)300 zł. od 100 kg. wagi netto cukru przeznaczonego dla ludności cywilnej w kraju, 2)200 zł. od 100 kg. wagi netto cukru przeznaczonego na eksport. Podatek spożywczy od cukru w głowach, kostkach i kawałkach, opakowanego w drobne paczki papierowe, pobiera się od. wagi brutto. łącznie z papierem i sznurem!",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "art.5 ust. 1 pkt. 1) otrzymuje brzmienie: „Cukier przeznaczony na potrzeby Wojska Polskiego i Armii Sprzymie- . rzonych“,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "uchyla się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_4/lit_a",
+       "text": "w art. 5 ust. 1 pkt. 2) “b) art. 6",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_4/lit_c",
+       "text": "w art. 8 ust. 2.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu. porucza się Kierownikowi Resortu CZORT Narodowej i Finansów. .",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 22 października 1944 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Polskiego Komitetu Wyzwolenia Narodowego: Edward Osóbka-M wanie"
+    },
+    {
+     "type": "text",
+     "text": "Kierownik Resortu Gospodarki Narodowej i Finansów: Jan Stefan Haneman -"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

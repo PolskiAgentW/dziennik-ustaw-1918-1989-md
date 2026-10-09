@@ -1,0 +1,92 @@
+{
+ "eli": "DU/1948/31",
+ "title": "Rozporządzenie Ministra Pracy i Opieki Społecznej z dnia 16 stycznia 1948 r. o wysokości zasiłku rodzinnego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/31/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA PRACY I OPIEKI SPOŁECZNEJ z dnia 16 stycznia 1948 r. o wysokości zasiłku rodzinnego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 ust. 1 dekretu z dnia 28 października 1947 r. o ubezpieczeniu rodzin* nym (Dz. U. R. P. Nr 66, poz. 414) zarządzam, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Zasiłek rodzinny wynosi miesięcznie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/ust_1/lit_a",
+       "text": "na jedno dziecko, na które przysługuje zasiłek . A é 650 zł",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/ust_1/lit_b",
+       "text": "na dwoje dzieci, na ktére przysługuje zasiłek . 1.450 45",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/ust_1/lit_c",
+       "text": "na każde następne dziecko, ha które przysługuje zasiłek, poczynając od trzeciego |. 1.000 ;,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/ust_1/lit_d",
+       "text": "na Zone (męża niezdolnego do zarobkowania), jeżeli przy sluguje zasiłek na dzieci . 500 zl",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/ust_1/lit_e",
+       "text": "na żonę (męża niezdolnego do zarobkowania), jeżeli nie przysługuje zasiłek na dzieci . + 300 yy",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Przepisy ust. 1 lit. a), b) i c) stosuje się odpowiednio do sierot.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 stycznia 1948 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Pracy i Opieki Społecznej: Kazimierz, Rusinek"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

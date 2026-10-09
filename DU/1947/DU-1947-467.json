@@ -1,0 +1,80 @@
+{
+ "eli": "DU/1947/467",
+ "title": "Obwieszczenie Prezydenta Rzeczypospolitej z dnia 6 listopada 1947 r. o sprostowaniu błędu w ustawie z dnia 3 lipca 1947 r. o popieraniu budownictwa.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/467/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE PREZYDENTA RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 listopada 1947 r."
+  },
+  {
+   "type": "text",
+   "text": "o sprostowaniu błędu w ustawie z dnia 3 lipca 1947 r. o popieraniu budownictwa."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 pkt 1 dekretu Prezydenta Rzeczypospolitej z dnia 6 września 1935 r. © wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej (Dz. U. R. P. Nr 68, poz. 423 i z 1945 r. Nr 55, poz. 305) prostuje się w ustawie z dnia 3 lipca 1947 r. o popie raniu budownictwa (Dz. U. R. P. Nr 52, poz."
+  },
+  {
+   "type": "text",
+   "text": "dzonych wskutek wojny z dnia 26 października 1945 r. w brzmieniu obwieszczenia Ministra Odbudowy z dnia 26 kwietnia 1947 r. (Dz. U. R. P. Nr 37, poz. 181), jeśli zawierać będą mieszkania o powierzchni użytkowej, nie przekraczającej w przypadkach,"
+  },
+  {
+   "type": "pkt",
+   "num": "270",
+   "path": "pkt_270",
+   "text": "następujące błędy: określonych w lit. a) — 80 m? a w lit. b) — I) w art. 17 ust. 2 w wierszu 6 zamiast wyrazów „dekretu niniejszego\" winny być wyrazy „ustawy niniejszej *;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "art. I8 ust. r winien brzmieć: „I. Z poparcia Państwa w zakresie, przewidzianym przepisami art. 6, 8 i 9 ustawy niniejszej, korzystać będą ponadto:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "budowle rozbudowywane, nadbudowywane (w odniesieniu do części nowych) oraz budowle niemieszkalne, przebudowane na cele mieszkalne (w odniesieniu do części przebudowanych),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "budowle poddane naprawie na podstawie przepisów dekretu o rozbiórce i naprawie budynków zniszczonych i uszko-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prezydent Rzeczypospolitej: Bolesław Bierut"
+      },
+      {
+       "type": "text",
+       "text": "Prezes Rady Ministrów: Józef Cyrai'xiewicz Minister Odbudowy: Michał Kaczoiowski"
+      },
+      {
+       "type": "text",
+       "text": "Minister Skarbu: . Konstanty Dąbrowski Minister Administracji Publicznej: Edward Osébka-Morawski"
+      },
+      {
+       "type": "text",
+       "text": "Minister Ziem Odzyskanych: , „Władysław Gomułka"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

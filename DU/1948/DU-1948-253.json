@@ -1,0 +1,84 @@
+{
+ "eli": "DU/1948/253",
+ "title": "Dekret z dnia 28 lipca 1948 r. w sprawie postępowania oddłużeniowego spółdzielni rolniczych i ich central.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/253/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 lipca 1948 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie pesiępewania cddłużeniowego spółdzielni relniczych i ich central."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej i ustawy z dnia 25 czerwca 1948 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 33, poz. 223) — Rada Ministrów postanawia, a Rada Państwa zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Postępowanie wszczęte układowe, na podstawie dekretu Prezydenta Rzeczypospolitej z dnia 14 stycznia 1956 r. o ulgach w spłacie zobowiązań spółdzielni rolniczych i ich central (Dz. U. R. P. Nr 3, poz. 23) i nie ukończone przed dniem 1 września 1989 r., będzie prowadzone nadal na podstawie prawa o postępowaniu układowym (Dz. U. R. P. z 1934 r. Nr 93, poz. 836) z następującymi zmianami:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "zamiast odnośnych przepisów prawa o postępowaniu układowym będą stosowane przepisy art. 4 i 5 dekretu z dnia 14 stycznia 1936 r. o ulgach w spłacie zobowiązań spółdzielni rolniczych i ich central;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "jeżeli układ będzie przewidywał całkowite lub częściowe zwolnienie z zobowiązań poręczycieli lub współzobowiązanych, wówczas w układzie tym winny być przewidziane również:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "całkowity lub częściowy zwrot tytułów gwarancyjnych udzielonych przez poręczycieli lub współzobowiązanych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "wykreślenie wpisów hipotecznych ciążących na nieruchomościach poręczycieli lub współzobowiązanych. saa ać AE, eH po 3 A. geile",
+       "children": [
+        {
+         "type": "text",
+         "text": "* a"
+        },
+        {
+         "type": "text",
+         "text": "Mrt. 3. Dekret niniejszy wchodzi w życie Z dniem ogłoszenia."
+        },
+        {
+         "type": "text",
+         "text": "Prezydent Rzeczypospolitej: Bolesław Bierut Pp AE rezes Rady Ministrów: m Józef Cyrankiewicz"
+        },
+        {
+         "type": "text",
+         "text": "Minister Sprawiedliwości: w z. Leon Chajn"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

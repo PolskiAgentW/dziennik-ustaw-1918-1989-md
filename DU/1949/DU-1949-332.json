@@ -1,0 +1,770 @@
+{
+ "eli": "DU/1949/332",
+ "title": "Dekret z dnia 27 lipca 1949 r. o zaciąganiu nowych i określaniu wysokości nie umorzonych zobowiązań pieniężnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/332/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 lipca 1949 r. o zaciąganiu nowych i określaniu wysokości nie umerzenych zobowiązań pieniężnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej i ustawy z dnia 2 lipca 1949 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 41, poz. 302) — Rada Ministrów postanawia, a Rada Państwa zatwierdza, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Zaciąganie zobowiązań pieniężnych."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Osoba, mająca zamieszkanie lub siedzibę na obszarze Państwa Polskiego, może zaciągnąć zobowiązanie pieniężne, płatne na tym obszarze, tylko w walucie polskiej. ,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Zobowiązanie zaciągnięte sprzecznie z przepisem ust. 1 jest nieważne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Przepis artykułu poprzedzającego nie ma zastosowania, jeżeli zobowiązanie pieniężne zaciąga:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/ust_1/lit_a",
+       "text": "Skarb Państwa,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/ust_1/lit_b",
+       "text": "Narodowy Bank Polski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_2/ust_1/lit_c",
+       "text": "bank, który uzyskał od Ministra Skarbu odpowiednie uprawnienie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Minister Skarbu może w gospodarczo uzasadnionych przypadkach zezwolić osobom fizycznym lub prawnym, innym niż wymienione w ustępie poprzedzającym, na zaciągnięcie zobowiązania wyrażonego w obcej walucie. .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Świadczenie pieniężne może być określone według innego niż pieniądz miernika wartości:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/ust_1/lit_a",
+       "text": "w przypadkach, gdy przepisy ustaw szczególnych tak stanowią,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/ust_1/lit_b",
+       "text": "w umowach dzierżawy, o pracę i o rentę dożywotnią, jeżeli taki sposób określenia świadczenia jest zwyczajowo stosowany.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "W umowach zawieranych z podmiotami, będącymi wykonawcami narodowych planów gospodarczych w rozumieniu dekretu z dnia 26 kwietnia 1949 r. o nabywaniu i przekazywaniu nieruchomości niezbędnych dla realizacji narodowych planów gospodarczych (Dz. U. R. P. Nr 27, poz. 197), świadczenie może być określone według równowartości części pożytków z przedmiotu umowy,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "OkreŚlanie wysokości należności z nie umorzonych zobowiązań pieniężnych. >"
+  },
+  {
+   "type": "text",
+   "text": "A. PRZEPISY OGÓLNE."
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Spłata należności z zobowiązań pieniężnych, powstałych z jakiegokolwiek tytułu publiczno- lub prywatno-prawnego przed dniem wejścia w życie niniejszego dekretu, a do dnia tego nie umorzonych, może nastąpić tylko w aa polskim.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Zmiana siły nabywczej pieniądza w czasie pomię dzy powstaniem zobowiązania a jego wymagalnością lub wykonaniem nie stanowi podstawy do zmiany wysokości świadczenia. albo sposobu wykonania lub rozwiązania umowy.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Spłata należności, określonych w myśl dekretu niniejszego w walucie polskiej, następuje w biletach Narodowego Banku Polskiego według ich wartości nominalnej, równej nominalnej wartości biletów bankowych lub innych środków płatniczych, które opiewały na złote i miały obieg na obszarze Państwa Polskiego lub jego części przed wprowadzeniem do obiegu biletów Narodowego Banku Polskiego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Dla ustalenia wysokości świadczeń pieniężnych, określonych w myśl dekretu niniejszego w walucie polskiej, jest bez znaczenia, jaki środek płatniczy opiewający na złote miał obieg w chwili powstania zobowiązania.",
+     "children": [
+      {
+       "type": "text",
+       "text": "B. OKREŚLANIE WYSOKOŚCI NALEŻNOŚCI Z ZOBOWIĄZAŃ PIENIĘŻNYCH, >"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Wysokość należności z zobowiązań wyrażonych w złotych określa suma złotych, na którą zobowiązanie opiewa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "W zobowiązaniach wyrażonych w złotych w złocie liczy się jeden zloty za jednego złotego w złocie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Przepisy ust. 1 i 2 stosuje się również do należności, które zostały przerachowane na walutę polską z mocy ustaw szczególnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Zawarte w zobowiązaniach pieniężnych zastrzeżenia o walucie lub walutach obcych, mających alternatywnie z walutą polską stanowić środek zapłaty, uważa się za nie istniejące. W zobowiązaniach, zawierających takie zastrzeżenia, wysokość należności określa wyłącznie suma wyrażona w walucie polskiej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Wysokość należności z zobowiązań pieniężnych wyrażonych w obcej walucie — lub zawierających zastrzeżenie zapłaty według równowartości (kur-",
+     "children": [
+      {
+       "type": "lit",
+       "num": "su",
+       "path": "art_8/ust_1/lit_su",
+       "text": "zagranicznej jednostki pieniężnej, oblicza się w złotych:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_8/ust_1/lit_a",
+       "text": "dla zobowiązań powstałych przed dniem 1 września 1939 r. — według estatniego oficjalnego kursu danej jednostki pieniężnej, notowanego przed dniem 1 września 1939 r.,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_8/ust_1/lit_b",
+       "text": "dla zobowiązań powstałych po dniu 16 grudnia 1945 r. — według stawek przeliczeniowych, stosowanych w dniu powstania zobowiązania przez",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "©ziennik Ustaw Nr 45 — 954 — : Poz. 332"
+        },
+        {
+         "type": "text",
+         "text": "Narodowy Bank Polski dia danej jednostki obcej waluty przy rozrachunkach z tytułu zagranicznych obrotów towarowyci. jysokość należności z zobowiązań pieniężnych zawie etaidey ch zastrzeżenie zapłaty zagranicznymi moneitami złotymi lub według równowartości złota w zagranicznej jednostce pieniężnej oblicza się w złotych:"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_8/ust_1/lit_a",
+       "text": "dla zobowiązań powstałych przed dniem 1 września 1939 r. — według stawek ostatniego kursu (równowartość) kruszcu złotego, notowanego przed dniem 1 września 1939 r.,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_8/ust_1/lit_b",
+       "text": "ala zobowiązań powstałych po dniu 16 grudnia 1945 r. — według stawki równowartości kruszcu złotego stosowanej przez Narodowy Bank Polski w dniu powstania zobowiązania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Przepis ustępu poprzedzającego stosuje się tylko wówczas, jeżeli obowiązujące w dniu zapłaty prawo kraju, którego waluta wymieniona jest w zastrzeżeniu, uznaje ważność takiego zastrzeżenia, W razie przeciwnym stosuje się przepis ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Minister Skarbu ogłosi w Monitorze Polskim wysokość oficjalnych kursów walut obcych i kruszcu, notowanych ostatnio przed dniem 1 września 1939 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Zobowiązania pieniężne, przerachowane wskutek zarządzenia obcej władzy z waluty polskiej na obcą, wprowadzoną podczas wojny jako środek obiegowy na obszarach wchodzących obecnie w skład Pań- \"stwa Polskiego, ulegają przywróceniu do stanu poprzedniego przez przerachowanie ich na walutę polską z uwzględnieniem dokonanych spłat, o ile prawo polskie «z naje te spłaty za ważne. Przerachowanie następuje w tym samym stosunku, w jakim nastąpiło poprzednie przerachowanie z waluty polskiej na obcą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Zobowiezania pieniężne, przerachowane wskutek zarządzenia obcej wiadzy podczas wojny z waluty zagranicznej na walutę obcą, posiadającą w czasie przerachowania obieg na obszarze, wchodzącym obecnie w skład Państwa Polskiego, ulegają przywróceniu do stanu poprzedniego, a następnie przerachowaniu na walutę polską (art. 8).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "Zobowiązania pieniężne, powstałe na obszarach wchodzących okecnie w skład Państwa Polskiego, a wyrażone w walucie obcej, stanowiącej w dniu powstania zobowiązań obiegowy środek płatniczy na tych obszarach, przerachowane będą na złote w stosunku: 1 złoty za jednostkę waluty obcej, na którą zobowiązanie opiewa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "Jednakże zobowiązania pieniężne, wyrażone w markach niemieckich, powstałe po dniu 1 września 1939 r. na tej części obszaru Państwa Polskiego, na której władze okupacyjne wprowadziły markę niemiecką jako obiegowy środek płatniczy, będą przerachowane na złote w stosunku 1 marka równa się 2 złote.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Wysokość należności z zobowiązań, ckreślonych według innego niż pieniądz miernika wartości, przelicza się na złote na podstawie przeciętnej ceny rynkowej za dobro przyjęte jako miernik wartości, w czasie i miejscu powstania zobowiązania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Jeżeli dobrem przyjętym jako miernik wartości jest kruszec złoty, stosuje się przepis art. 8 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Przepisu ust. 1 nie stosuje się w przypadkach wymienionych w art. 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Sąd orzeknie na wniosek wierzyciela prócz obowiązku zapłaty należności według zasad okreś- *lonych w art. 6 — 11 obowiązek dopłaty w przypadku, gdy zobowiązanie pieniężne opiera się na tytule prywatno-prawnym i powstało przed wprowadzeniem do obiegu biletów Narodowego Banku Polskiego, a wierzycieł w chwili powstania zobowiązania i w chwili wystąpienia z wnioskiem o dopłatę czerpał swe dochody wy-",
+   "children": [
+    {
+     "type": "text",
+     "text": "."
+    },
+    {
+     "type": "text",
+     "text": "łącznie bądź z prowadzenia gospodarstwa mało lub średnio-rolnego, bądź z wynagrodzenia za pracę, nie przekraczającego kwoty, której wysokość określi rozporządzenie Rady Ministrów."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Obowiązex dopłaty nie może se orzeczony w przypadzach, gdy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_12/ust_2/lit_a",
+       "text": "zobowiązany czerpie swoje dochody wyłącznie z wynagrodzenia za pracę nie przekraczającego kwoty, określonej na podstawie ust. 1, lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_12/ust_2/lit_b",
+       "text": "zobowiązany jest wykonawcą narodowych planów gospodarczych w rozumieniu dekretu z dnia 26 kwietnia 1949 r. o nabywaniu i przekazywaniu nieruchomości niezbędnych dla realizacji narodowych planów gospodarczych (Dz. U. R. P. Nr 27, poz. 197) lub ©) wierzyciel maby wierzytelnosé w drodze przelewu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Sąd ustala wysokość dopłaty według zasad słuszności uwzględniając materialne położenie obu stron, z tym, że dopłata do każdego złotego nie może przewyższać równowartości 1,75 kg żyta obliczonej w chwili ustalenia dopłaty. Przy zobowiązaniach powstałych w czasie od 1 września 1939 r. do wprowadzenia w obieg biletów Narodowego Banku Polskiego, sąd, ustalając wysokość dopłaty, uwzględni ponadto ewentualną zwyżkę ceny żyta w miejscu i w chwili powstania zobowiązania w stosunku do ceny z dnia 31 sierpnia 1939 r. i obniży wysokość dopłaty w tym samym stosunku, w jakim cena ta uległa podwyżce.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "Jeżeli zobowiązanie wyrażone jest w złotych w złocie lub w obcej walucie, podstawą obliczenia wysokości dopłaty jest suma dłużna w złotych, określona według art. 8.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_12/ust_5",
+     "text": "Wierzyciel winien udowodnić, że tak w chwili powstania zobowiązania, jak i w chwili wystąpienia z wnioskiem o dopłatę czerpał swoje dochody ze źródeł wymienionych w ust. 1. Dla prowadzących gospodarstwa mało- lub średnio-rolne okoliczność tę stwierdza komisja działająca w gminie zamieszkania wierzyciela. Skład tej komisji, sposób powoływania i tryb postępowania określi rozporządzenie Ministra Administracji Publicznej, wydane w porozumieniu z Ministrem Rolnictwa i Reform Rolnych. Wysokość pobieranego wynagrodzenia za pracę w chwili wystąpienia z wnioskiem o dopłatę stwierdza właściwa władza skarbowa. *",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_12/ust_6",
+     "text": "Z wnioskiem o orzeczenie dopłaty nie można wystąpić po upływie lat dwóch od dnia wejścia w życie niniejszego dekretu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_12/ust_7",
+     "text": "O obowiązku dopłaty orzeka sąd w postępowaniu spornym. Jeżeli jednak zobowiązanie pieniężne jest przedmiotem innego postępowania, sąd orzeka o obowiązku dopłaty w tym postępowaniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Sąd określi na wniosek osoby zainteresowanej wysokość okresowych świadczeń pieniężnych z tytułu alimentów i rent dożywotnich, ustalonych przed dniem wejścia w życie niniejszego dekretu w drodze umowy, wyroku lub ugody sądowej, uwzględniając sytuację majątkową dłużnika i cel świadczenia, jednakże w kwotach nie przewyższających przeciętnych kosztów utrzymania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Określenie wysokości świadczeń w myśl ust. 1 może dotyczyć tylko świadczeń należnych za okres czasu biegnący od dnia, w którym osoba uprawniona, po dniu wejścia w życie dekretu niniejszego bądź wystąpiła do sądu z wnioskiem o ponowne ustalenie tych roszczeń, bądź wezwała dłużnika do określenia tej wysokości w drodze dobrowolnego porozumienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Ponowne ustalenie wysokości świadczeń jest niedopuszczalne w przypadku, gdy okresowe świadczenia, wymienione w ust. 1, zostały skapitalizowane. Jeżeli",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "z —_"
+      },
+      {
+       "type": "text",
+       "text": "wierzyciel nie pobrał skapitalizowanego świadczenia lub pobrał je tylko częściowo, może zrzec się tego świadczenia i odzyskać uprawnienie do świadczeń okresowych oraz domagać się ponownego ustalenia ich wysokości w zakresie przewidzianym w ust. 1. W przypadku częściowego pobrania skapitalizowanego Świadczenia ponownie ustalona wysokość okresowych świadczeń będzie \"zmniejszona w stosunku, w jakim pozostaje całość skapitalizowanego świadczenia do części już pobranej, chyba że zmniejszenie to sprzeciwia się względom słuszności."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Umowa zawarta przez Państwo, po dniu wejścia w życie niniejszego dekretu, może przewidzieć ustalenie należności w sposób odmienny niż przepisany w art. 7i8, jeżeli tak w czasie powstania, jak i w czasie wymagalności: zobowiązania wierzyciel jest cudzoziemcem w rozumieniu art. 1 ust. 3 dekretu Prezydenta Rzeczypospolitej z dnia 26 kwietnia 1936 r. w sprawie obrotu pieniężnego z zagranicą oraz obrotu zagranicznymi i krajowymi środkami płatniczymi (Dz. U. R. P. z 1938 r. Nr 86, poz. 584).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Ust. 1 stosuje się również do umów zawartych przez inne podmioty prawa publicznego i prywatnego za zgodą lub z upoważnienia Ministra Skarbu, C. NALEŻNOŚCI Z OBLIGACJI I LISTÓW ZASTAW- NYCH ORAZ ZABEZPIECZAJĄCYCH JE WIERZY- TELNOŚCI.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Wysokość należności z obligacji i listów zastawnych emitowanych przez banki, instytucje kredytu długoterminowego oraz inne przedsiębiorstwa oblicza się według zasad zawartych w art. 6, 7 i 8.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Przepis art. 14 stosuje się również do należności z obiigeeli i listów zastawnych, opiewających na walutę obcą jako bądź wyłączny, bądź alternatywny z walutą polską środek zapłaty (art. 7 i 8), jeżeli papiery te znajdują się w posiadaniu cudzoziemców.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Wysokość należności z kuponów od obligacji i listów zastawnych (art. 15) oblicza się według zasad, określających wysokość należności z obligacji i listów zastawnych, o ile przepisy ustaw szczególnych nie przewidują umorzenia kuponów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Wysokość wierzytelności zabezpieczających obligacje i listy zastawne oblicza się według zasad, określających wysokość należności z obligacji i listów zastawnych. Jeżeli wysokość należności z obligacji i listów zastawnych zostanie określona w drodze umowy (art. 15 ust. 2), zasady umownego określenia wysokości należności stosuje się również do wierzytelności zabezpieczających obligacje i listy zastawne objęte umową bez względu na to, jaka część tych obligacji i listów zastawnych znajduje się w posiadaniu cudzoziemców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Gwarancja Państwa udzielona obligacjom i listom zastawnym zostaje utrzymana w mocy do wysokości należności z tych obligacji i listów zastawnych, określonej przepisami dekretu niniejszego lub umowy (art. 15 ust. 2).. D. SZCZEGÓLNE PRZEPISY O ZOBOWIĄZANIACH SKARBU PAŃSTWA, ZAKŁADÓW, FUNDUSZÓW, MONOPOLI I PRZEDSIĘBIORSTW PAŃSTWOWYCH ORAZ ZWIĄZKÓW SAMORZĄDU TERYTORIALNEGO.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Przepisy rozdziału II stosuje się również do zobowiązań Skarbu Państwa, zakładów, funduszów, monopoli i przedsiębiorstw oraz związków samorządu terytorialnego z uwzględnieniem następujących przepi-",
+   "children": [
+    {
+     "type": "text",
+     "text": "sów."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Nieżrealizowane do dnia wejścia w życie niniejszego dekretu obligacje pożyczek państwowych, emitowane w latach 1918 — 1922 i opiewające na marki polskie, korony austriackie i ruble rosyjskie (carskie) oraz wszelkie inne tytuły dłużne na okaziciela wypuszczone w tym okresie przez Państwo i opiewające na wymienione waluty — tracą moc prawną.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Rada Ministrów może na wniosek Ministra Skarbu wydać w drodze rozporządzeń przepisy w sprawie przedterminowego wykupu, konwersji lub konsolidacji wszystkich albo niektórych papierów wartościowych (obligacji pożyczek) emitowanych przez podmioty wymienione w art. 17. Przepisy te określą w szczególności warunki i terminy wykupu albo konwersji lub konsolidacji oraz skutki prawne niezgłoszenia ich w terminie do wykupu albo konwersji lub konsolidacji.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział III",
+   "text": "Przepisy o spłatach dokonanych oraz o należnościach ustalonych wyrckiem lub ugodą sądową."
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Spłaty zobowiązań pieniężnych, dokonane przed dniem wejścia w życie niniejszego dekretu, nie mogą być zakwestionowane z tej przyczyny, że wysokość należności została określona w sposób odmienny od przepisów dekretu niniejszego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Jeżeli przed wejściem w życie niniejszego dekretu uiszczona została spłata na poczet należności, przepisy dekretu mają zastosowanie do nieumorzonej reszty. Jeżeli przy uiszczaniu spłaty na poczet należności strony oznaczyły procentowo lub ułamkowo część należności, która ulega umorzeniu przez spłatę, lub jeżeli z okoliczności towarzyszących wynika, że zamiarem stron było umorzenie oznaczonej części należności, obowiązek spłaty według przepisów dekretu niniejszego dotyczy nieumorzonej części, bez względu na wysokość uiszczonej kwoty. Jeżeli strony nie dokonały takiego oznaczenia, przyjmuje się, że należność została umorzona w części, równej kwocie dokonanej spłaty.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_22/ust_1",
+     "text": "Jeżeli przed dniem wejścia w życie niniejszego dekretu należność została ustalona prawomocnym wyrokiem lub ugodą sądową na innych zasadach niż przewidziane w art. 6-11, przepisy tych artykułów oraz art. 12 miają zastosowanie w przypadku, gdy zobowiązanie nie zostało umorzone. W razie częściowego umorzenia zobowiązania stosuje się przepis artykułu 21.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_22/ust_2",
+     "text": "Przerachowania w przypadkach wskazanych w ust. 1 dokonuje na wniosek dłużnika lub wierzyciela sąd, w którym sprawa była rozpatrywana w I instancii, stosując przepisy postępowania niespornego. Na postanowienie sądu II instancji nie służy skarga kasacyjna. Do czasu rozstrzygnięcia sprawy o przerachowanie postępowanie egzekucyjne będące. w toku ulega zawieszeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_22/ust_3",
+     "text": "Jeżeli prawomocnym wyrokiem lub ugodą przyznano wierzycielowi określonemu w art. 12 ust. 1 sumę wyższą od chociażby najwyższej sumy dopłaty, dopuszczalnej według art. 12 ust. 3 — nie może nastąpić zmiana sumy dłużnej ustalonej wyrokiem lub ugodą, chyba że dłużnikiem jest osoba, wymieniona w art. 12 ust. 2 lit. a). .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "Przepisy końcowe."
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Umowy zawarte po dniu 22 lipca 1944 r. przez Państwo bądź z jego upoważnienia lub za jego zgodą, określające w sposób odmienny od przepisów dekretu niniejszego wysokość należności z zobowiązań pieniężnych powstałych przed dniem jego wejścia w życie — pozostają w mocy.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_24/ust_1",
+     "text": "Przepisy niniejszego dekretu, z wyjątkiem art. 12, uwzględnia sąd z urzędu w każdym stanie postępowania, także w sprawach toczących się w dniu wejścia w życie niniejszego dekretu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_24/ust_2",
+     "text": "Wniosek o orzeczenie dopłaty (art. 12) może wierzyciel zgłosić w sprawach toczących się w dniu wejścia w Życie niniejszego dekretu również w postępowaniu \"przed sądem II instancji.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "Przepisy nińiejszego dekretu nie naruszają przepisów ustaw szczególych w przedmiocie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_25/lit_a",
+     "text": "określania wysokości i sposobu spłaty podatków i danin publicznych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_25/lit_b",
+     "text": "określania wysokości i sposobu spłaty za ziemię nadaną w związku. z przebudową ustroju rolnego i osadnictwem,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_25/lit_c",
+     "text": "obrotu pieniężnego z zagranicą oraz obrotu zagranicznymi i krajowymi środkami płatniczymi,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_25/lit_d",
+     "text": "przyjmowania wierzytelności i zobowiązań pieniężnych do bilansu otwarcia likwidacji i listy wierzytelności według dekretu z dnia 25 października 1948 r. o zasadach i trybie likwidacji : niektórych przedsiębiorstw bankowych (Dz. U. R. P. Nr 52, poz. 410) i dekretu z dnia 25 października 1948 r. o zasadach i trybie likwidacji niektórych instytucyj kredytu długoterminowego (Dz. U. R. P. Nr 52, poz. 411).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Przepisy dekretu niniejszego nie dotyczą określenia wysokości wierzytelności i długów przedsiębiorstw podpadających pod przepisy ustawy z dnia 3 stycznia 1946 r. o przejęciu na własność Państwa podstawowych gałęzi gospodarki narodowej (Dz. U. R.P. Nr 8, poz. 17). Sprawę określenia wysokości tych . wierzytelności i długów uregulują oddzielne przepisy. Jednakże co do wierzytelności tych przedsiębiorstw, przysługujących im wobec instytucji bankowych i kredytowych, zachowują moc obowiązującą przepisy dekretów, powołanych w art. 25 pkt d). Axt. 27. Przepisy dekretu Prezydenta Rzeczypospolitej z dnia 2 września 1939 r. w sprawie zawieszenia na czas trwania stanu wojennego mocy obowiązującej niextórych przepisów rozporządzenia Prezydenta Rzeczypospolitej z dnia 12 czerwca 1934 r. o wierzytelnościach w walutach zagranicznych (Dz. U. R. P. Nr 87, poz. 552) zachowują moc prawną, o ile dotyczą sposobu spłaty oraz ważności zaciągania zobowiązań w czasie trwania stanu wojennego. .",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 13 października 1927 r. o stabilizacji złotego (Dz. U. R. P. Nr 88, poz. 790) i w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 5 listopada 1927 r. w Sprawie zmiany ustroju pieniężnego (Dz. U. R..P. Nr 97, poz. 855), zmienionym rozporządzeniem Prezydenta Rzeczypospolitej z dnia 27 sierpnia 1932 r. (Dz. U. R. P. Nr 74, poz. 668) wyrazy „Bank Polski' zastępuje się wyrazami „Narodowy Bank Polski‘ w odpowiednim przypadku.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Z dniem wejścia w życie niniejszego dekretu tracą moc obowiązująca wszelkie przepisy z nim Sprzeczne, a w szczególności:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_28/lit_a",
+     "text": "art. 211 i 437 kodeksu zobowiązań,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_28/lit_b",
+     "text": "art. 15 i 16 rozporządzenia Prezydenta Rzeczypospolitej z dnia 5 listopada 1927 r. w sprawie . zmiany uStroju pieniężnego (Dz. U. R. P. Nr 97, poz. 855),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_28/lit_c",
+     "text": "rozporządzenia ' Prezydenta _ Rzeczypospolitej z dnia 12 czerwca 1934 r. o wierzytelnościach 'w walutach zagranicznych (Dz. U. R. P. Nr 59, poz. 509),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_28/lit_d",
+     "text": "art. 3 ustawy z dnia 7 kwietnia 1937 r. o konwersji i zamianie papierów emisyjnych państwowych, samorządowych i gwarantowanych przez Skarb Państwa, wypuszczonych w walutach cbcych (Dz. U. R. P. Nr 28, poz. 207).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "39",
+   "path": "art_39",
+   "text": "Wykonanie niniejszego dekretu porucza się Prezesowi Rady Ministrów i Ministrom: Skarbu, Spraw Zagranicznych, Administracji Publicznej, Sprawiedliwości oraz Rolnictwa i Reform Rolnych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. °",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: B. Bierut Prezes Rady Ministrów: J. Cyrankiewicz Minister Skarbu: K. Dąbrowski Minister Spraw Zagranicznych: w z. S. Wierbłowski Minister Administracji Publicznej: Wł. Wolski Minister Sprawiedliwości: H. Świątkowski Minister Rolnictwa i Reform Rolnych: J. Dąb - Kocioł"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

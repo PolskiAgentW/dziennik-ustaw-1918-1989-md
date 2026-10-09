@@ -1,0 +1,79 @@
+{
+ "eli": "DU/1945/71",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 14 kwietnia 1945 r. o cenach soli.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/71/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU z-dnia 14 kwietnia 1945 r. o cenach soli."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie 'art. 11 rozporządzenia Prezydenta Rzeczypospolitej z dnia 21 czerwca 1932 r. o przedsiębiorstwie „Połski Monopol Solny” (Dz. U. R. P. Nr 52, poz. 497) zarządzam, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ustala się następujące ceny soli:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "sól jadalna: a) biała (warzonka) zł 1 gr 50 za 1-kg, :",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "szara mielona i w kruchach zł 1 za 1 kg,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "sob skazona-przeznaczona do celów przemysłowych i do celów hodowlano-rolniczych zł 1 za 1 kg.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Ceny wymienione w poprzednim paragrafie rozumieją się loco kopalnia (warzelnia) bez opakowania. W cenie tej mieści się 10%, prowizji dla hurtownika i 10°/, dla detalisty.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 16 kwietnia 1945 r. Równocześnie traci moc obowiązującą rozporządzenie Ministra Skarbu z dnia 7 kwietnia 1939 r. o cenach soli i solanki (Dz. U. R. P. Nr 37, poz. 244).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Konstanty Dąbrowski"
+    },
+    {
+     "type": "text",
+     "text": "Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Ministerstwa Sprawiedliwości w Łodzi, ul. Kilińskiego 93 Ćw z r eS A Zgłoszenia na prenumeratę przyjmuje się w Administracji Dziennika Ustaw R. P. w Łodzi, ul. Kilińskiego 86 Prenumeratę należy wpłacać z góry. Wysyłkę wykonuje się po uprzednim wpłaceniu zaliczki miesięcznej dla władz, urzędów, zakładów i instytucyj państwowych i samorządowych w kwocie zł 20, dla innych- prenumeratorów w kwocie zł 50. Pojedyńcze numery są do nabycia: w Ministerstwie Sprawiedliwości — Warszawa, ul. Wileńska 2/4, w Administracji Dziennika Ustaw R. P. w Łodzi, Kilińskiego 86, oraz w Kasach Sądów Okręgowych: w Lublinie, ul. Krak.-Przedmieście 76 i w Łodzi, Pl. Dąbrowskiego 5"
+    },
+    {
+     "type": "text",
+     "text": "Cena 8-zł."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

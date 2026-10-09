@@ -1,0 +1,106 @@
+{
+ "eli": "DU/1945/246",
+ "title": "Rozporządzenie Ministra Oświaty z dnia 7 września 1945 r. w sprawie utworzenia katedr wraz ze związanymi z nimi zakładami na Wydziale Architektury Politechniki Warszawskiej oraz przemianowania istniejących katedr.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/246/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA OŚWIATY ="
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 września 1945 r. w sprawie utworzenia katedr wraz ze związanymi z nimi zakładami na Wydziale Architektury Politechniki Warszawskiej oraz przemianowania istniejących katedr. Na podstawie art 3 ust. 1 ustawy o szkołach akademickich z dnia 15 marca 1933 r. (Dz. U.R.P. z 1938 r. Nr 1, poz. 6) zarządzam, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Na Wydziale Architektury Politechniki Warszawskiej:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "tworzy się następujące katedry: _a) historii architektury i sztuki średniowiecznej z zakładem historii architektury i sztuki,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "projektowania ogólnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "budownictwa wiejskiego, *",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "konstrukcyj żelazobetonowych i stalowych; - z",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "zmienia się nazwy następujących katedr:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "rysunku odręcznego na katedrę rysunku,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "architektury polskiej i historii sztuki na katedrę architektury polskiej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "projektowania monumentalnego na ka-",
+       "children": [
+        {
+         "type": "text",
+         "text": "_ i tedrę projektowania gmachów użyteczności publicznej. § 2. Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 7 września 1945 r."
+        },
+        {
+         "type": "text",
+         "text": "Minister Oświaty: Czesław Wycech"
+        },
+        {
+         "type": "text",
+         "text": "zyk"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

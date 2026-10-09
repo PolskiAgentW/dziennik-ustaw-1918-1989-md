@@ -1,0 +1,475 @@
+{
+ "eli": "DU/1946/119",
+ "title": "Dekret z dnia 16 kwietnia 1946 r. o zwalczaniu chorób wenerycznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/119/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 kwietnia 1946 r."
+  },
+  {
+   "type": "text",
+   "text": "o zwalczaniu chorób wenerycznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Przepis wstępny.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Chorobami wenerycznymi w rozumieniu dekretu niniejszego są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "kiła (przymiot, syfilis),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "wiewiór (rzeżączka, tryper),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "wrzód weneryczny (wrzód miękki).",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "ll. Obowiązki chorego."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Osoby dotknięte chorobą weneryczną powinny zgłosić się osobiście do lekarza i spełniać jego zarządzenia lecznicze.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Zabrania się dotkniętym chorobą weneryczną w okresie zakaźnym choroby dokonywania jakichkolwiek czynności lub przedsiębrania działań, które umożliwiają lub mogą spowodować *zakażenie innych osób, a w szczególności: a) wstępowania w związki małżeńskie,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/ust_1/lit_b",
+       "text": "obcowania płciowego, c) wykonywania zajęć, które stwarzają warunki szerzenia się chorób wenerycznych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Minister Zdrowia określi w drodze rozporządzenia zajęcia, których wykonywanie jest zabronione dotkniętym chorobą weneryczną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "W razie zmiany lekarza w toku leczenia chory powinien w ciągu dni 7, licząc od dnia wyznaczonego do ponownego zgłoszenia się, zawiadomić o tej zmianie lekarza, u którego leczył się dotychczas, przez dostarczenie mu pisemnego oświadczenia lekarza, pod którego opiekę udaje się, o przyjęciu chorego do leczenia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Nad stosowaniem się nieletnich i ubezwłasnowolnionych dotkniętych chorobą weneryczną do przepisów art. 2, 3 i 4 obowiązane są czuwać osoby, które sprawują nad nimi prawną lub faktyczną opiekę. III. Obowiązki lekarza.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Lekarz, który przy wykonywaniu swego zawodu stwierdzi przypadek choroby wenerycznej, jest obowiązany uświadomić chorego co do zarażliwości choroby, co do jego obowiązków, co do skutków niewykonywania przez niego tych obowiązków oraz co do karalności zarażenia, jak również narażenia na zarażenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Obowiązek ten ciąży na lekarzu również w stosunku do osób, sprawujących prawną lub faktyczną opiekę nad chorymi nieletnimi i ubezwłasnowolnionymi, jeżeli osoby te zgłosiły się do lekarza z chorym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Lekarz, który stwierdzi lub poweźmie uzasadnione podejrzenie, że chory we-",
+   "children": [
+    {
+     "type": "text",
+     "text": "neryczny:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_7/pkt_1",
+     "text": "przerwał samowolnie leczenie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_7/pkt_2",
+     "text": "nie zgłasza się do lekarza w czasie przez niego wyznaczonym, nie uczyniwszy zadość przepisowi art. 5, lub",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_7/pkt_3",
+     "text": "nie przestrzega przepisów art. 3, powinien niezwłocznie zgłosić chorego do powiatowej władzy administracji ogólnej (lekarza powiatowego lub miejskiego).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Lekarze powinni prowadzić wykazy pozostających pod ich opieka osób wenerycznie chorych oraz udzielać powiatowym władzom administracji ogólnej (lekarzom powiatowym, miejskim) na ich żądanie danych statystycznych, jak również wiadomości co do źródeł szerzenia się chorób wenerycznych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Personel pomocniczy jest obowiązany do zachowania tajemnicy na równi z lekarzami.",
+   "children": [
+    {
+     "type": "text",
+     "text": "IV. Uprawnienia i obowiązki władz administracji ogólnej."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Powiatowa władza administracji ogólnej (lekarz powiatowy, miejski) obowiązana jest żądać od osób, co do których poweźmie uzasadnione podejrzenie o szerzeniu choroby wenerycznej, przedkładania świadectw lekarskich o stanie ich zdrowia. Świadectwo takie może wystawić lekarz z wyboru chorego. W przypadkach wyjątkowych powiatowa władza administracji ogólnej (lekarz powiatowy, miejski) może zażądać złożenia świadectwa lekarza ubezpieczalni społecznej lub lekarza urzędowego, jak również nakazać zbadanie danej osoby z urzędu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "W miejscowościach o znacznym nasileniu chorób wenerycznych Minister Zdrowia może zarządzić badanie lekarskie skupień ludności. Nie podlegają badaniu osoby, które złożą świadectwa lekarskie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_10/ust_3",
+     "text": "Rozporządzenie Ministra Zdrowia w porozumieniu z Ministrem Administracji Publicznej określi sposób wykonywania nadzoru sanitarnego nad osobami uprawiającymi nierząd w sposób zarobkowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "W razie stwierdzenia choroby wenerycznej na podstawie zgłoszenia (art. 7), złożonego świadectwa lub wyniku badania z urzędu (art. 10) powiatowa władza administracji ogólnej (lekarz powiatowy, miejski) wyda odpowiednie zarządzenia zabezpieczające ścisłe wykonanie przepisów art. 2 i 3, w szczególności może:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_11/ust_1/pkt_1",
+       "text": "pozwolić choremu na korzystanie z pomocy lekarskiej według wolnego wyboru.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/ust_1/pkt_2",
+       "text": "skierować chorego do instytucji obowiązanej do udzielania świadczeń leczniczych na podstawie szczególnych przepisów prawnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_11/ust_1/pkt_3",
+       "text": "skierować chorego do przychodni przeciwwenerycznej, a w razie jej braku do lekarza przez siebie wskazanego, albo wreszcie,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "= Per. 119 bziennik Ustaw Nr 18"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_11/ust_1/pkt_4",
+       "text": "jeżeli zachodzi konieczna potrzeba, skierować chorego do szpitala. W razie oporu chorego stosuje się przepisy o postępowaniu przymusowym: w administracji. __",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "O ukończeniu leczenia osób skierowanych przez powiatową władzę administracji ogólnej (lekarza powiatowego, miejskiego) lekarz lub kierownik przychodni bądź szpitala jest obowiązany zawiadomić tę władzę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Jeżeli wśród osób zamieszkałych lub zatrudnionych w jakimkolwiek zakładzie lub instytucji występują liczne albo zagrażające szerzeniem przypadki choroby wenerycznej, powiatowa władza administracji ogólnej (lekarz powiatowy, miejski) jest obowiązana zbadać warunki powodujące lub ułatwiające zakażenie oraz wydać potrzebne zarządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Kierownicy zakładów i instytucyj są obowiązani udzielić powiatowej władzy administracji ogólnej (lekarzowi powiatowemu, miejskiemu) wszelkich żądanych wyjaśnień oraz ułatwiać przeprowadzenie badań i wykonywać wydane przez tę władzę zarządzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Obowiązki związków samorządowych i instytucyj publicznych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Miasta wydzielone z powiatowego związku samorządowego mają obowiązek zakładania, utrzymywania i prowadzenia przychodni przeciwwenerycznych w ośrodkach zdrowia, a w braku ośrodków zdrowia przychodni bądź samodzielnych, bądź w związku ze szpitalami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Obowiązek zakładania, utrzymywania i prowadzenia przychodni przeciwwenerycznych dla pozostałych gmin bądź dla grup tych gmin ciąży na właściwych powiatowych związkach samorządowych tylko w razie szerzenia się chorób wenerycznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "O obowiązku i czasie założenia przez związek samorządowy przychodni przeciwwenerycznej orzeka wojewódzka rada narodowa, kierując się rozmiarami szerzenia 'się chorób wenerycznych oraz stanem finansowym danego związku samorządowego. W stosunku do m. st. Warszawy i m. Łodzi w sprawach tych orzeka Minister Zdrowia w porozumieniu z Ministrem Administracji Publicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Do wojewódzkiej władzy administracji ogólnej należy uzgadnianie na podległym jej obszarze działalności wszelkich organizacyj w zakresie zwalczania chorób wenerycznych, w szczę” gólności w zakresie zakładania i prowadzenia przychodni i szpitali przeciwwenerycznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Przychodnie i szpitale pozostają w zakresie przepisów dekretu niniejszego pod nadzorem właściwych powiatowych władz administracji ogólnej (lekarzy powiatowych, miejskich). Kierownicy tych zakładów są obowiązani dostarczać lekarzom powiatowym (miejskim) na żądanie wszelkich wiadomości, dotyczących ich działalności w zakresie zwalczania chorób wenerycznych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Minister Zdrowia w porozumieniu z Ministrami Administracji Publicznej i Skarbu ustali w drodze rozporządzenia zasady pobierania opłat i zwolnień od nich za korzystanie z przychodni przeciwwenerycznych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Państwo w granicach kredytów przewidzianych w budżecie państwowym udziela związkom samorządowym i organizacjom społecznym nie posiadającym odpowiednich środków zapomóg na walkę z chorobami wenerycznymi oraz ponosi koszty leczenia chorych wenerycznie, wynikające z umów międzynarodowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "VI. Przepisy karne."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_18/ust_1",
+     "text": "Kto, będąc dotknięty chorobą weneryczną, uchyla się od obowiązku zgłoszenia się do lekarza, podlega karze aresztu do miesiąca i grzywny do 10.000 zł albo jednej z tych kar. 2 Tej samej karze podlega, kto nie wypełni obowiązku wynikającego z art. 4 niniejszego dekretu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Kto, sprawując prawną lub faktyczną opiekę nad nieletnim lub ubezwłasnowolnionym dotknigtym chorobą weneryczną, umyślnie nie dopełnia obowiązku zgłoszenia, wynikającego z art. 5 niniejszego dekretu, podlega karze aresztu do miesiąca i grzywny do 10.000 zł albo jednej z tych kar.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Do orzekania w sprawach przewidzianych w art. 18 i 19 powołane są władze administracji ogólnej I instancji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "VII. Przepisy końcowe."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_21/ust_1",
+     "text": "Wszelkie zgłoszenia oraz inne korespondencje, dotyczące chorych wenerycznych, należy przesyłać w kopercie zamkniętej jako ściśle tajne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_21/ust_2",
+     "text": "Przesyłanie urzędom, władzom i instytucjom rachunków za leczenie osób chorych wenerycznie należy dokonywać z zachowaniem tajemnicy co do rodzaju choroby.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Zasady współdziałania poszczególnych władz, instytucyj państwowych, samorządowych, ubezpieczalni społecznych i ianych instytucyj społecznych w zakresie zwalczania chorób wenerycznych określi rozporządzenie Ministra Zdrowia wydane w porozumieniu z właściwymi ministrami,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Zdrowia w porozumieniu z właściwymi ministrami oraz innym ministrom, każdemu we właściwym mu zakresie działania.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka- Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Zdrowia: i Franciszek Litwin"
+    },
+    {
+     "type": "text",
+     "text": "Minister Administracji Publicznej: Władysław Kiernik Minister Skarbu: Konstanty Dąbrowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,759 @@
+{
+ "eli": "DU/1945/277",
+ "title": "Rozporządzenie Ministra Administracji Publicznej wydane w porozumieniu z Ministrami: Obrony Narodowej, Pracy i Opieki Społecznej oraz Skarbu z dnia 31 października 1945 r. w sprawie wykonania dekretu z dnia 18 lipca 1945 r. o pomocy i zasiłkach dla rodzin żołnierzy Wojska Polskiego oraz dla zdemobilizowanych żołnierzy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/277/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ADMINISTRACJI PUBLICZNEJ WYDANE W POROZUMIENIU Z MINISTRAMI: OBRONY NARODOWEJ, PRACY I OPIEKI SPOŁECZNEJ ORĄZ SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "6 z dnia 31 października 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykonania dekretu z dnia 18 lipca 1945 r. o pomocy i zasiłkach dla rodzin żołnierzy Wojska Polskiego oraz dla zdemobilizowanych żołnierzy."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21 ust. 2 i art. 30 dekretu z dnia 18 lipca 1945 r. o pomocy i zasiłkach dla rodzin żołnierzy Wojska Polskiego oraz dla zdemobilizowanych żołnierzy (Dz. U.R.P. Nr 34, poz. 202) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Artykuły powołane w niniejszym róż* porządzeniu bez bliższego określenia ozn:czają artykuły dekretu z dnia i8 lipca 1945 r. o pomocy i zasiłkach dla rodzin żołnierzy Wojska, Polskiego oraz dla zdemobilizowanych żołnierzy",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "(Dz. U. R. P. Nr 34, poz. 202), paragrafy zaś powołane bez bliższego określenia oznaczają paragrafy niniejszego rozporządzenia: 3 2. Służbą wojskową pełnioną niezawodowo, uprawniającą rodziny żołnierzy do pomocy i zasiłków, jest:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "zasadnicza służba wojskowa pełniona z poboru lub ochotniczo;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "służba wojskowa w rezerwie polegająca na odbywaniu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "przeszkolenia wojskowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "ćwiczeń wojskowych: zwyczajnych, doraźnych, okresowych i dodatkowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "czynnej służby wojskowej w razie mobilizacji i w czasie wojny;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "służba wojskowa w pospolitym ruszeniu, polegająca na odbywaniu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "przeszkolenia wojskowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "ćwiczeń wojskowych: zwyczajnych, doraźnych i okresowych, s",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_3/lit_c",
+       "text": "czynnej służby wojskowej w razie mobilizacji i w czasie wojny;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "pomocnicza służba wojskowa, polegająca na odbywaniu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "przeszkolenia wojskowego w cela przysposobienia do pełnienia pomocniczej służby wojskowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "czynnej służby wojskowej w razie mobilizacji i w czasie wojny;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "uzupełniająca służba wojskowa w czasie ćwiczeń przygotowawczych i doskonalących. § 3. Urzędy zatrudnienia wydają osobom, wymienionym w art. 2 § 1 lit. a i b, które zgłosiły się do rejestracji, przewidzianej w § 2 tego artykułu, zaświadczenia stwierdzające fakt i datę wypełnienia obowiązku rejestracji (załącznik Nr 1), a z chwilą zaofiarowania tym osobom pracy zawiadamiają o tym, z podaniem wysokości zaofiarowanego wynagrodzenia, zarządy gmin, właściwe dla miejsca zamieszkania tych osób (załącznik Nr 2). § 4. Na pojęcie „bytu”, o którym mowa w art. 3, składa się nie tylko mieszkanie, pożywienie, odzienie i inne nieodzowne potrzeby życiowe, ale także koszty leczenia i pielęgnacji, jeżeli zaś chodzi o dzieci, także koszty wycho- \"wania. Rozmiar potrzeb danej rodziny należy oceniać w zależności od ogólnego poziomu jej stałego środowiska. § 5. Za znaczae zmniejszenie dochodu, o którym mowa w art. 3, nalęży uważać takie zmniejszenie dochodu, które powoduje niemoz- - ność pokrycia wydatków niezbędnych dla zapewnienia bytu rodzinie w pojęciu ustalonym w § 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "(1) Osobom wymienionym w art. 2 § 1 nie przysługuje prawo do pomocy i zasiłków jeżeli:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_6/lit_a",
+     "text": "osoby te posiadają wystarczające Środki utrzymania ze źródeł niezależnych od pracy zarobkowej żołnierza,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_6/lit_b",
+     "text": "żołnierz otrzymuje nadal od pracodawcy swoją płacę lub zarobek albo dotychczasowe zaopatrzenie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_6/lit_c",
+     "text": "żołnierz nie doznaje przez czas służby ' wojskowej istotnego uszczerbku w swoich dochodach.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Czasowa niemożność pracy lub zarobkowania ze strony żołnierza bezpośrednio przed jego odejściem do służby wojskowej, wywołana chorobą lub brakiem pracy, nie wyłącza prawa jego rodziny (art.2 § 1) do zasiłku. § 7. (1) Uprawnieni do zaopatrzenia na. podstawie art. 6 otrzymują karty zaopatrzenia tej samej kategorii, jakie otrzymują członkowie rodzin pracowników państwowych. ."
+      },
+      {
+       "type": "text",
+       "text": "(2) Uprawnieni do zaopatrzenia na podstawie art. 17 § 2 otrzymują karty zaopatrzenia tej samej kategorii, jakie otrzymują pracownicy państwowi. i § 8. Datę zwolnienia z wojska (art. 14§1) ustala się na podstawie dokumentów wojskowych. Datę zwolnienia spod władzy nieprzyjaciela lub rozwiązania organizacji (art. 14 § 2) ustala się na podstawie posiadanych. wiarogodnych dowodów pisemnych lub w braku tychże na podstawie przesłuchania świadków. § 9. (1) Zgłoszenie prawa do pomocy i zasiłku powinno być dokonane na formularzu sporządzanym według załączonych wzorów Nr 3 bądź 4."
+      },
+      {
+       "type": "text",
+       "text": "(2) Osoby, wymienione w art. 2 § 1 składają zgłoszenia według wzoru, podanego jako załącznik Nr 3, a żołnierze zdemobilizowani, wymienieni w art. 14, według wzoru podanego jako załącznik Nr 4. § 10. Zarządy gmin powinny niezwłocznie po otrzymaniu zgłoszenia sprawdzić dane, wyszczególnione w formularzu, i przeprowadzić potrzebne dochodzenia celem stwierdzenia:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "gdy o pomoc i zasiłek ubiegają się osoby wymienione w art. 2 § 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_1/lit_a",
+       "text": "czy nastąpiło powołanie do pełnienia któregokolwiek z rodzajów służby wymienionej w § 2 lub też w razie mobilizacji lub w czasie wojny, czy żołnierz pełni służbę wojskową zawodowo,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/pkt_1/lit_b",
+       "text": "czy nie upłynął termin. przewidziany w art. 22 § 3,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/pkt_1/lit_c",
+       "text": "czy byt rodziny żołnierza był istotnie zależny od jego pracy i zarobku oraz czy nastąpiła utrata lub znaczne zmniejszenie dochodów wskutek jego odejścia lub okoliczności wynikłych podczas pełnienia służby wojskowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_6/pkt_1/lit_d",
+       "text": "czy nie zachodzą warunki określone \" w art. 4 § 1,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_6/pkt_1/lit_e",
+       "text": "czy wszyscy zgłoszeni członkowie rodziny żołnierza odpowiadają warunkom art. 2 § 1, ;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_6/pkt_1/lit_f",
+       "text": "czy osoby (art. 2 § 1) ubiegające się o pomoc i zasiłek dopełniły obowiązku przewidzianego w art. 2 § 2, czy też w. myśl przepisów § 3 tegoż artykułu są od tego obowiązku zwolnione;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "gdy o pomoc i zasiłek ubiegają się zdemobilizowani żołnierze:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "‘ a) kiedy żołnierz został zwolniony z wojska (zdemobilizowany) i kiedy upływa okres sześciomiesięczny przewidziany w art. 14 § 1,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/pkt_2/lit_b",
+       "text": "czy nie upłynął termin przewidziany w art. 22 § 3,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/pkt_2/lit_c",
+       "text": "czy zdemobilizowany żołńierz nie ma dochodów przewyższających kwotę przysługującego zasiłku.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "(1) Dowodem zgłoszenia się do służby wojskowej jest zaświadczenie (załącznik Nr 5) wydane przez władze wojskowe. . (2) Władze wojskowe będą wydawały zaświadczenia przewidziane w ust. 1 niniejszego paragrafu zasadniczo co miesiąc z dołu. Przy powoływaniu do służby czynnej periodycznie na bardzo krótkie terminy (np. na 1 dzień w ty: godniu) zaświadczenia mogą być wydawane i rzadziej, a nawet co kwartał z dołu z zsumowaniem dni odbytej służby czynnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "(1) Po ukończeniu dochodzeń i w zależności od ich wyniku zarząd gminy wydaje orzeczenie o przyznaniu lub odmowie pomocy i zasiłku i doręcza je osobie zgłaszającej uprawnienie do pomocy i zasiłku.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Orzeczenie o przyznaniu pomocy i zasiłku (załącznik Nr 6) jest jednocześnie:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "zawiadomieniem o wysokości przyznanego zasiłku i terminie jego wypłaty, 2.,dowodem, którym mają się posługiwać osoby zainteresowane przy ubieganiu się o pomoc przewidzianą w art. 6, 8, 11 i 17.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Wymierzenie wysokości przyznanych zasiłków następuje według norm, określonych rozporządzeniem Ministra Administracji Publicznej wydanym w porozumieniu z Ministrami: Obrony Narodowej, Pracy i Opieki Społecznej ‘oraz Skarbu z dnia 31 października 1945 r. w sprawie norm dziennych zasiłku dla rodzin żołaierzy oraz dla zdemobilizowanych żołnierzy (Dz. U. R. P. Nr 49, poz. 276). § 14. Stronom służy prawo odwołania się w ciągu 14 dni od dnia doręczenia im orzeczenia, a mianowicie od orzeczeń:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_13/lit_a",
+     "text": "zarządów gmin wiejskich i zarządów gmin miejskich riewydzielonych z powiatowych związków samorządowych — do właściwych starostów powiatowych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_13/lit_b",
+     "text": "zarządów gmin miejskich wydzielonych z 'powiatowych związków samorządowych z wyjątkiem m. Warszawy i Łodzi — do właściwych wojewodów, —. :",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_13/lit_c",
+     "text": "zarządów miejskich miast Warszawy i Łodzi — do Ministra Administracji Publicznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "(1) W orzeczeniu, przyznającym prawo do pomocy i zasiłku należy wyszczególnić: dla jakich osób (zdemobilizowany żołnierz, członkowie rodziny żołnierza) pomoc i zasiłek zostały przyznane, według jakiej normy obliczono wysokość zasiłku i do czyich rąk zasiłek ma być wypłacony.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Poz. 277 ."
+    },
+    {
+     "type": "text",
+     "text": "(2) Jeżeli w zgłoszeniu wskazano kilka osób uprawnionych do odbioru zasiłku, należy w orzeczeniu wymienić wszystkie te osoby, określając zarazem, jaka część zasiłku będzie wypłacana poszczególnym osobom. ."
+    },
+    {
+     "type": "text",
+     "text": "(3) Jeżeli pomiędzy uprawnionymi do zasitka członkami rodziny znajduje się żona sądownie rozłączona (separowana), wówczas przypadająca jej część zasiłku, nie przekraczająca wysokości orzeczonych wyrokiem sądowym alimentów, wypłacona jej będzie oddzielnie."
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "par_15/ust_16",
+     "text": "Prawomocne orzeczenia o przyznaniu zasiłku zarządy gmin wpisują pod nazwiskiem żołnierza do listy wypłat zasiłków (załącznik Nr 7), którą sporządza się w trzech egzempla: rżach. § 17. Wypłaty zasiłków dokonują zarządy gmin do rąk osoby wskazanej w zgłoszeniu bądź bezpośrednio, bądź też za pośrednictwem urzędu pocztowego. § 18. Dowody doręczenia kwot przechowywuje się w aktach zasiłkowych. § 19.(1) W czasie trwania uprawnienia do zasiłków zarządy gmin obowiązane są sprawdzać przed każdą wypłatą, ćzy warunki, które posłużyły do przyznania zasiłków w ustalonym wymiarze nie uległy zmianom.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) W przypadku stwierdzenia zmian warunków, które wpływają na zmianę wymiaru zasiłków, należy wydać nowe orzeczenie'i doręczyć je zainteresowanym osobom."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Przed każdą wypłatą zasiłków na- My zażądać od stron złożenia pod odpowiedzialnością, wynikającą z ert. 26 i 27, oświadczenia co do istnienia uprawnienia do pomocy i zasiłków w ustalonym wymiarze. § 21.(1) Zapotrzebowanie sum na wypłatę zasiłków zarządy gmin wiejskich i miast niewydzielonych z powiatowych związków samorządowych kierują do właściwych starostów powiatowych, zarządy miejskie miast wydzielonych z powiatowych związków samorzącowych — do właściwych województw, a zarządy miejskie m. Warszawy i Łodzi — do Ministra Administracji Publicznej. Przy ze potrzebowaniu należy przesłać dwa egzemplarze listy wypłat zasiłków.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Potrzebne sumy asygnują zarządom gmin te władze, do których są kierowane zapotrzebowania (ust. 1)."
+    },
+    {
+     "type": "text",
+     "text": "(3) Asygnowane kwoty podejmują przełożeni gmin lub upoważnione przez nich osoby. § 22. Rornorządzenie niniejsze wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 19 października 1945 r. Minister Administracji Publicznej: Władysław: Kiernik Minister Obrony Narodowej: i chał Żymierski Marszałek Polski, w/z Minister Pracy i Opieki Społecznej: Feliks Mantel Minister Skarbu: Konstanty Dąbrowski"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "a Załączniki do rozporządzenia z dnia 31 października 1945 r. (poz. 277)."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik Nr 1 z RA (Nazwa urz. zatrudnienia)"
+    },
+    {
+     "type": "text",
+     "text": "Fe: eames 194.......r Zaświadczenie Niniejszym eS Wie Te SIĘ; ŻÓ ara ONO ROEE zarejestrował(a) się (imię i nazwisko) w dniu... 1940. w tutejszym urzędzie zatrudnienia w celu uzyskania pracy. Niaiejsze. capirtalevauts służy jako dowód przy ubieganiu się o zasiłek dla rodzin żołnierzy. Pieczęć okrągła"
+    },
+    {
+     "type": "text",
+     "text": "Podpis naczelnika urzędu"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik Nr 2",
+   "body": [
+    {
+     "type": "text",
+     "text": "RC WENERA (Nazwa urz. zatrudnienia) Do my ANIA es MDA..."
+    },
+    {
+     "type": "text",
+     "text": "Zarządu gminnego*) miejskiego *) W. ZAWIAdAMIAM ;: ŻE wiwa cee ke została zaofiarowana (nazwisko i imię) WON aa oco wiza OE 194.....r. praca z wynagrodzeniem miesięcznym w kwocie 2} ....................... gr. Wyżej wymieniona pracę tę przyjęła -— nie przyjęła”). *) Niepotrzebne skreślić."
+    },
+    {
+     "type": "text",
+     "text": "Podpis naczelnika urzędu"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik Nr 3 MIEJSCÓWOBĆ u O AA Gmina Powiat ON Zgłoszenie roszczenia o pomoc i zasiłek przez członka « rodziny żołnierza. Na podstawie § 9 rozporządzenia Ministra „Administracji Publicznej, wydanego w porozumieniu z Ministrami: Obrony Narodowej, Pracy i Opieki Społecznej oraz Skarbu z dnia 31 października 1945 r. (Dz. U. R. P. Nr 49, poz. 277) zgłaszam pod odpowiedzialnością wynikającą z art. 26 i 27 dekretu z dnia 18 lipca 1945 r. o pomocy i zasiłkach dla rodzin żołnierzy Wojska Polskiego oraz dla zdemobilizowanych żołnierzy, co następuje:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Nazwisko i imię żołnierza, którego rodzina jest uprawniona. do pomocy i zasiłku .....................",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "R.K.U., do której żołnierz ewidencyjnie należy ——...-- ZAC,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Data zgłoszenia się żołnierza do służby ........",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Miejsce zamieszkania żołnierza w chwili jego powołania (miejscowość, gmina, powiat) -.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Zawód cywilny żołnierza i jego stanowisko w tym zawodzie",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Wysokość zarobków żołnierza z pracy najemnej lub wysokość uposażenia, wynagrodzenia ze stosunku służbowego (dzienny, tygodniowy, wojskowej...",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "miesięczny) przed powołaniem do służby"
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Wysokość dochodów żołnierza z innych. źródeł (stałe uboczne. zarobki, dochód z . przedsiębiorstw handlowych lub przemyślewych dochód z gruntu it. p.) przed powołaniem do Sashy \" wojskowej...........",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "Czy żołnierz. pobiera przez czas służby wojskowej płacę od pracodawcy lub. otrzymuje inne duchódy 1 w jakiej WYSGKOŚCI rea ZY AYO",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "Czy żołnierz prócz płacy pobierał przed powołaniem do służby wojskowej dla siebie lub dla swej rodziny świadczenia w naturze (mieszkanie, opał, światło, ordynaria, ubranie) i w jakim PORUNIAD Fetes cece Z ORO zz WOLI",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "Czy w czasie pełnienia przez żołnierza służby wojskowej rodzina jego Kóręyśia ze świadczeń, wymienionych w pkt 9) i w jakim rozmiarze n-memmmemerrezezrzeeeezrez ae emer",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "x Czy żołnierz lub jego rodzina pore majątek nieruchomy, pozie, p i I jakiej wartości vn"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "Czy żołnierz gokdara ała śwopatrzenić Giustytalnie, inwalidzkie: i t. Pp skąd i i w w jakiej * wy* sO ości ama O w O a m m mw mm WO WA POZZO POZA 000 Pawa POOR EA seeeeedseursesecrscsesmssescassascassascascasesceeserscsenesercesess",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "pkt_13",
+     "text": "Czy spośród rodziny żsłnierza powołano do służby ono inne osoby żyjące we wspó nym gospodarstwie i które (nazwisko i imię powołanych) ....................",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "pkt_14",
+     "text": "Czy ktoś z członków rodziny żołnierza, żyjący we wspólnym gospodarstwie, korzysta z ee róczenia służby wojskowej jako jedyny żywiciel min NOA",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "pkt_15",
+     "text": "Do czyich rąk ma być zasiłek wypłacony ... sią",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "pkt_16",
+     "text": "Wykaz członków rodziny ubiegających się o pomoc i „znailek:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr Stosunek j „Miejsce kol. Nazwisko i imię pokre- Wiek zamiewieństwa szkania"
+      },
+      {
+       "type": "text",
+       "text": "1 2 3 4 5"
+      },
+      {
+       "type": "text",
+       "text": ". . Dnia aoc zkni zc OH cc,"
+      },
+      {
+       "type": "text",
+       "text": "Źródło Zawód Zaopa- Czy zgłautrzymania i trzenie szano już w chwili wysokość renty iich roszczenie Uwagi powołania o zasiłek żołnierza zarobku |wysokość| ; gdzie 6 7 8 9 10"
+      },
+      {
+       "type": "text",
+       "text": "Podpis i adres osoby zgłaszającej roszczenie o zasiłek 3"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik Nr 4 Miejscowość. uz waz eee Gomi WN Powiat"
+      },
+      {
+       "type": "text",
+       "text": "Zgłoszenie roszczenia o pomoc i zasiłek przez zdemobilizowanego żołnierza. Na podstawie § 9 rozporządzenia Ministra Administracji Publicznej wydanego w porozumieniu z Ministrami: Obrony Narodowej, Pracy i Opieki Społecznej oraz Skarbu z dnia 31 paź- „dziernika 1945 r. (Dz. U. R. P. Nr 49, poz. 277) zgłaszam pod odpowiedzialnością wynikającą z art. 26 i 27 dekretu z dnia 18 lipca 1945 r. o pomocy i zasiłkach dla rodzia żołnierzy Wojska Polskiego oraz dla zdemobilizowanych żołnierzy, co następuje:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Nazwisko i imię zdemobilizowanego żołnierza",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "R.K.U. do której żołnierz ewidencyjnie eee",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Data zwolnienia z wojska... R RIESI uprawnionego do pomocy i zasiłku....",
+     "children": [
+      {
+       "type": "text",
+       "text": "GE LE ea erties coy sagi : eee eee"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Miejsce zamieszkania żołalarza (miejscowość, gmina, powiat) Sk ENEA",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Zawód cywilny żołnierza i jego stanowisko w tym zawodzie si",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Czy żołnierz pracuje obecnie zarobkowo, a w razie stwierdzającym, ka: jest \"wamedkożć jego zarobków z pracy najemnej lub wysokość sposaiania lub wynagrodzenia (dziennie, tygodniowo, miesięcznie) ............",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "pkt_7",
+     "text": "Wysokość dokąd: Holibarza : z łnsch śródał (stałe shame e zarobki, dochód z przedsiębiorstw handlowych lub przemysłowych, dochód z gruntu it. p.) ... seta",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "pkt_8",
+     "text": "Czy żołnierz oprócz płacy pobiera świadczenia w naturze (mieszkanie, opał światło, ordy. naria, ubranie it. p.) i w jakim rozmiarze. = . = A:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "pkt_9",
+     "text": "Czy żołnierz posiada majątek nieruchomy, udzia, jakii i faking wartości...",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "pkt_10",
+     "text": "Czy żołnierz pobiera stałe zaopatrzenie emerytalne, inwalidzkie i te. A ‘gia ś iw v jakiej wy- BOMGSCR.ceescceccocccste ll poz EEEE erences eee aren REY OZAWY ZZA *' 11) Do czyich rąk ma być wypłacony zasiłek — i nent",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "pkt_12",
+     "text": "Wykaz członków rodziny żołnierza ubiegającego się o zasiłek:",
+     "children": [
+      {
+       "type": "text",
+       "text": "k Mial"
+      },
+      {
+       "type": "text",
+       "text": "Nr , KE Stosunek, : 1ej3c8 Nazwisko i imię pokre- Wiek zamiekol. SE , wieństwa szkania 1 12 i 3"
+      },
+      {
+       "type": "text",
+       "text": "JD). |- ACHA (* 1 NE 2"
+      },
+      {
+       "type": "text",
+       "text": "Zaopa- Czy zgła- Źródło i trzenie S7ano już 2 2 =e an roszczenie Uwagi utrzymania |wysokość|renty iich R ey) 9 Pomoc zarobków|wysokość| ; zasiłek 9 _10__"
+      },
+      {
+       "type": "text",
+       "text": "Podpis i adres żołnierza zgłaszającego roszczenie o pomoc i zasiłek"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik Nr 5",
+   "body": [
+    {
+     "type": "text",
+     "text": "\"(Nazwa jednostki organizacyjnej wojska)"
+    },
+    {
+     "type": "text",
+     "text": "OCR 194...r."
+    },
+    {
+     "type": "text",
+     "text": "Zaświadczenie Da ACRE) ŻE ccc di Kia ; Sa AE (imię i nazwisko żołnierza) (imiona rodziców) POWOLNE CA: dAloowaicccaczycwwzyc zeczy JoodBycia 5 Giro iii GE \"na podstawie art................... ustawy z dn. 9 kwietnia 1938 r. o powszechnym obowiązku wojskowym (Dz. U. R. P. Nr 25, poz. 220) zgłosił się w jednostce w dniu... i pełnił służbę do dnia dzisiejszego — został zwolniony w dniu................ EEEEROI. |, Pieczęć okrągła i UWAGA: *) Niepotrzebne skreślić,"
+    },
+    {
+     "type": "text",
+     "text": "Podpis dowódcy U"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik Nr 6 Ssę WE zgryz AE nramae (Nazwa zarządu gminy wiejskiej lub miejskiej) Do"
+    },
+    {
+     "type": "text",
+     "text": "Na zgłoszenie z dnia"
+    },
+    {
+     "type": "text",
+     "text": "* SE: CWE bs SĘ ."
+    },
+    {
+     "type": "text",
+     "text": "................... sza Na zasadzie § 12 rozporządzenia Ministra Administracji Publicznej, wydanego w porożu-_ mieniu z Ministrami: Obrony Narodowej, Pracy i Opieki Społecznej oraz Skarbu z dnia 31 października 1945 r. (Dz. U. R. P. Nr 49, poz. 277) Zarząd gminny (miejski) *) przyznaje osobom wymienionym niżej prawo do pomocy i zasiłków dla rodzin żołnierza—żołnierza zdemobilizowanego*). . Zasiłki będą wypłacane za CZaS Od une m, oe PEACE w następującym wymiarze: __ (miejsce wypłat) (data wypłaty) ATU ś"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Dla zdemobilizowanego żołnierza ........... mmm pO złotych................. dziennie. (nazwisko i imię)",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Dla rodziny żołnierza .... aaa eaceeeeneencwy A MANOWICIE: (nazwisko i imię) ai Nazwisko i imię członka rodziny Stopień pokrewieństwa ka 2 m 3 __4 5",
+     "children": [
+      {
+       "type": "text",
+       "text": "To jest łącznie za czas wymieniony wyżej złotych Kwota ta będzie wypłacona na ręce następującym osobom spośród uprawnionych do zasiłków RENO: RE + RA"
+      },
+      {
+       "type": "text",
+       "text": "Od powyższego orzeczenia co do ee wymiaru zasiłku przysługuje prawo odwołania do starosty powiatowego w 5 WOJEWOJY W away Ministers Administracji Publicznej *) w terminie 14 dni od dnia doręczenia niniejszego orzeczenia. Pieczęć *) Niepotrzebne skreślić."
+      },
+      {
+       "type": "text",
+       "text": "Podpis przełożonego gminy"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik Nr 7 zę IAW tee (Nazwa zarządu gminy wiejskiej lub miejskiej) oneness dnia .194......r j"
+      },
+      {
+       "type": "text",
+       "text": "Lista wypłat zasiłków"
+      },
+      {
+       "type": "text",
+       "text": "Miejsce Nr Nazwisko i imię zamieszkol. żołnierza Kiś: SBIR 1 4"
+      },
+      {
+       "type": "text",
+       "text": "Pieczęć"
+      },
+      {
+       "type": "text",
+       "text": "Data i Nr Dzienna \"eni aot te Kwota Pokwitowaorzeczenia norma u \"z kk ee zasiłku sis przyznające- tk znano być wy- ge dbiogu* go zasiłek 795\"™\" zasiłek płacony “YP aty 2 odbiorą*) 5 6 7 8 9 10"
+      },
+      {
+       "type": "text",
+       "text": "Podpis przełożonego gminy *) UWAGA: Pokwitowanie należy brać na jednym egzemplarzu listy w chwili wypłaty zasiłków"
+      },
+      {
+       "type": "text",
+       "text": "Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Ministerstwa Sprawiedliwości w Łodzi, ul. Kilińskiego 93 Zgłoszenia na prenumeratę przyjmuje się w Administracji Dziennika Ustaw R. P. w Łodzi, ul. Piotrkowska 49. Prenumeratę należy wpłacać z góry. Wysyłkę wykonuje się po uprzednim wpłaceniu zaliczki kwartalnej dla władz, urzędów, zakładów i instytucyj państwowych i samorządowych w kwocie zł 60, dla innych lai w kwocie zł 150. Konto czekowe w P.K.O. w Łodzi VII—134. Pojedyncze numery są do nabycia: w Biurze Sprzedaży — WAŁEK, ul. Targowa 59, w Administracji Dziennika Ustaw R. P. w Łodzi, Piokkowaka 49 oraz w Kasach Sądów Okręgowych w Lublinie, ul. Krak.-Przedmieście 76, Krakowie, Katowicach i Poznaniu. Cema 8 sił."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

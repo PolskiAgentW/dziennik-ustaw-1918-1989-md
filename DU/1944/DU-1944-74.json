@@ -1,0 +1,654 @@
+{
+ "eli": "DU/1944/74",
+ "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 23 listopada 1944 r. o organizacji i zakresie działania samorządu terytorialnego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/74/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET POLSKIEGO KOMITETU WYZWOLENIA NARODOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 listopada 1944 r."
+  },
+  {
+   "type": "text",
+   "text": "o organizacji i zakresie działania samorządu terytoriałnego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy Krajowej Rady Narodowej z dnia 15 sierpnia 1944 r. o tymczasowym trybie wydawania dekretów z mocą ustawy (Dz. U.R.P. Nr 1, poz. 3) — Polski Komitet Wyzwolenia Narodowego postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "I. Zakres zadań samorządu terytorialnego."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Do zakresu działania samorządu terytorialnego należą sprawy publiczne o znaczeniu lokalnym, o ile nie są wyraźnie zastrzeżone do kompetencji władz państwowych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do zakresu działania samorządu terytorialnego nie należą sprawy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "zagraniczne i handlu zagranicznego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "wojskowe,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "wymiaru sprawiedliwości,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "lasów,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_2/lit_e",
+     "text": "górnictwa,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_2/lit_f",
+     "text": "lotnictwa, kolei, dróg kołowych państwowych i wojewódzkich oraz dróg wodnych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_2/lit_g",
+     "text": "poczty i telekomunikacji,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "art_2/lit_h",
+     "text": "waluty i ubezpieczeń,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "art_2/lit_i",
+     "text": "państwowych podatków, opłat, ceł, akcyz i monopoli.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Samorząd terytorialny reprezentowany: przez terenową radę narodową stanowi korporację prawa publicznego i posiada osobowość prawną.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Ustawy wojewódzkie, przewidziane w art. 29 ustawy z.dnia 11 września 1944 r. o organizacji i zakresie działania rad narodowych (Dz. U.R.P. Nr 5, poz. 22), nabierają mocy obowiązującej na obszarze województwa po zatwierdzeniu przez Przewodniczącego Krajowej Rady Narodowej z kontrasygnatą Przewodniczącego Polskiego Komitetu Wyzwolenia Narodowego i właściwego kierownika resortu, oraz po ogłoszeniu w dzienniku urzędowym województwa.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_5/par_1",
+     "text": "Każdą rada narodowa niższego stopnia podlega bezpośredniemu nadzorowi rady narodowej wyższego stopnia. ae",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_5/par_2",
+     "text": "Wszystkie uchwały rad narodowych: wojewódzkiej, powiatowej, miejskiej i gminnej dotyczące:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/par_2/lit_a",
+       "text": "budżetu i planu świadczeń w naturze,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/par_2/lit_b",
+       "text": "wprowadzenia i pobierania podatków i opłat,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/par_2/lit_c",
+       "text": "zaciągnięcia pożyczki lub objęcia zobowiązania,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_5/par_2/lit_d",
+       "text": "nabywania, pozbywania i PEDIA majątku nieruchomego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_5/par_2/lit_e",
+       "text": "lokaty kapitału wymagają zatwierdzenia prezydium rady narodowej wyższego stopnia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_5/par_3",
+     "text": "Zatwierdzeniu podlegają również wszystkie uchwały, które w myśl dotychczas obowiązujących przepisów dla samorządów, podlegały zatwierdzeniu władz nadzorczych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Prezydium rady narodowej właściwej do zatwierdzenia uchwał wyszczególnionych w art. 5",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 2 i 3 poweźmie decyzję w przeciągu dni 30 od _ dnia zawiadomienia o uchwale. W tym przedmiocie stosuje się postanowienia zawarte w art. 39 ustawy z dnia 11 sierpnia 1923 r. o tymczasowym uregulowaniu finansów komunalnych w brzmieniu obwieszczenia Ministra Spraw Wewn. z dnia 26 czerwca 1936 r. (Dz. U. R.P. Nr 62, poz. 454)."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_7/par_1",
+     "text": "Prezydium każdej hierarchicznie wyższej rady narodowej ma prawo z urzędu lub na wniosek wstrzymać w ciągu 14 dni od dnia zawiadomienia wykonanie każdej uchwały rady hierarchicznie niższej oraz uchwały organu wykonawczego, którą uważa za niezgodną z prawem, niecelową lub niezgodną z zasadniczą linią działalności Krajowej Rady Narodowej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_7/par_2",
+     "text": "Rada narodowa lub organ wykonawczy, którego uchwała została zakwestionowana, ma prawo w ciągu dni 7 od otrzymania o tym wiadomości powziąć reasumpcję zakwestionowanej uchwały.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_7/par_3",
+     "text": "W wypadku wstrzymania wykonania uchwały rady narodowej zakwestionowana uchwała winna być bezzwłocznie przedłożona Krajowej Radzie Narodowej, zaś w wypadku wstrzymania wykonania uchwały organu wykonawczego radzie narodowej hierarchicznie wyższej, o ile rada narodowa lub jej organ wykonawczy nie KAMA z uprawnień zawartych w § 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Rada narodowa wyższego stopnia ma prawo kontroli i inspekcji działalności rady narodowej niższego stopnia i jej organu wykonawczego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "II. Organy wykonawcze samorządu wojewódzkiego i powiatowego."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Zwierzchni nadzór państwowy nad działalnością wojewódzkich i powiatowych samorządowych organów wykonawczych sprawuje Kierownik Resortu Administracji Publicznej.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Organem wykonawczym wojewódzkiej rady natodowej jest wydział wojewódzki.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Wydział wojewódzki składa się z 6 członków wybranych przez wojewódzką radę narodową spośród jej członków lub też spośród mieszkańców danego województwa. Za wybranych uważa się tych, którzy otrzymali BOJEJRE największą ilość głosów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_12/par_1",
+     "text": "Członkami wydziału scjawdśikiae mogą być osoby, które mają przynajmniej 5-letnią pracę w dziedzinie państwowej, samorządowej lub społecznej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_12/par_2",
+     "text": "Pracownicy państwowi i samorządowi wybrani na członków wydziału wojewódzkiego w razie przyjęcia wyboru otrzymują na czas pełnienia tych funkcji bezpłatny urlop, zaliczalny do widać gi emerytalnej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "\"83. Członkowie wydziału wojewódzkiego otrzymują diety w wysokości ustalonej rozporządzeniem Kierownika Resortu Administracji Publicznej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Przewodniczącym wydziału wojewódzkiego jest z urzędu wojewoda lub jego zastępca.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Wszystkie czynności biurowe wydziału wojewódzkiego załatwia właściwy urząd wojewódzki.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Wydział wojewódzki zwołuje przewodniczący przynajmniej raz na dwa tygodnie. Wydział musi być zwołany jeżeli tego zażąda dwóch jego członków.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Do powzięcia uchwał wydziału wojewódzkiego wymagana jest obecność przewodniczącego i przynajmniej trzech członków wydziału. Uchwały zapadają zwykłą większością głosów, w razie równości głosów rozstrzyga głos przewodniczącego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Wydział wojewódzki: s",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_17/lit_a",
+     "text": "przygotowuje sprawy mające wejść pod obrady wojewódzkiej rady narodowej lub jej prezydium; e r",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_17/lit_b",
+     "text": "decyduje we wszystkich sprawach niezastrzeżonych do decyzji rady lub jej prezydium;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_17/lit_c",
+     "text": "wykonuje uchwały rady lub jej prezydium;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_17/lit_d",
+     "text": "wykonuje na zlecenie rady lub jej prezydium kontrolę nad działalnością organów wykonawczych samorządu niższego stopnia oraz organów administracji państwowej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_17/lit_e",
+     "text": "sprawuje władzę porządkową nad prezyden- ' tami, wiceprezydentami, członkami zarządów miast wydzielonych oraz członkami wydziałów powiatowych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_17/lit_f",
+     "text": "wykonuje inne czynności poruczone mu przez ustawy; i",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_17/lit_g",
+     "text": "składa sprawozdanie ze swej działalności pre- * zydium właściwej rady narodowej, przynajmniej raz na miesiąc.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "W wypadkach niecierpiących zwłoki przewodniczący wydziału wojewódzkiego samodzielnie wydaje niezbędne zarządzenia w sprawach należących do zakresu działania wydziału, obowiązany jest wszakże wyjednać na najbliższym .po- - siedzeniu wydziału zabwierdzenie dla tych czynności.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Kary porządkowe są asstępujące:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_19/lit_a",
+     "text": "upomnienie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_19/lit_b",
+     "text": "nagana.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_20/par_1",
+     "text": "Władzę dyscyplinarną nad prezyczłonkami zarządów _ dentami, wiceprezydentami, miast wydzielonych oraz członkami wydziałów powiatowych, sprawuje komisja dyscyplinarna, złożona z 7-miu członków wybranych przez wojewódzką radę narodową. § 2. Kary dyscyplinarne są następujące:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_20/par_1/lit_a",
+       "text": "grzywna do 5.000 zł.,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_20/par_1/lit_b",
+       "text": "złożenie z urzędu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_20/par_3",
+     "text": "Osobie ukaranej służy prawo odwołania się w ciągu 7miu dni od orzeczenia nakładającego karę porządkową do Kierownika Resortu Administracji Publicznej, zaś od orzeczenia nakładającego karę dyscyplinarną — do Prezydium Krajowej Rady Narodowej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "art_20/par_4",
+     "text": "Sposób powoływania i tryb postępowania komisji dyscyplinarnej określi rozporządzenie Kierownika Resortu Administracji Publicznej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "\"Art. 21. § 1. W wypadkach powtarzających się wykroczeń porządkowych oraz w wypadkach niecierpiących zwłoki, gdy działalność organów wymienionych w art. 17 pkt. e) — naraża lub może narazić interes publiczny na oczywistą szkodę, wydział wojewódzki może cały organ lub poszcześólnych jego członków zawiesić w urzędowaniu, zawiadamiając równocześnie o dokonanym zawieszeniu Kierownika Resortu Administracji Publicznej z podaniem motywów zawieszenia."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_20/par_2",
+     "text": "W wypadku zawieszenia w urzędowaniu całego organu wykonawczego funkcje wykonawcze sprawuje tymczasowo prezydium właściwej rady narodowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Organem wykonawczym powiatowej rady narodowej jest wydział powiatowy.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Postanowienia zawarte w art. 11—21 mają odpowiednie zastosowanie do wydziałów powiatowych z tym, że wydział powiatowy jest władzą porządkową dla burmistrzów, wójtów, sołty= sów oraz członków zarządów gmin wiejskich i miast niewydzielonych.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "W sprawach kar porządkowych służy odwołanie do wojewody, a w sprawach dyscyplinarnych do prezydium rady narodowej. -"
+    },
+    {
+     "type": "text",
+     "text": "III. Organy wykonawcze samorządu miejskieg i gminnego. NEM"
+    },
+    {
+     "type": "text",
+     "text": "„Art. 24. Organem wykonawczym miejskiej rady",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Dziennik Ustaw Nr 14",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 2. Wybór wójta i podwójciego wymaga zatwier-. dzenia przez właściwego starostę.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 32.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 1. Wójtowi, dla celów administracji gromad, podlegają sołtysi i podsołtysi (po jednym sołtysie i podsołtysie dla każdej: gromady) wybrani. przez ogólne zebranie mieszkańców gromady. § 2. Sołtysi lub podsołtysi biorą udział w posiedzeriach zarządu gminnego z głosem doradczym .jedynie w wypadku, gdy przedmiotem obrad są narodowej jest zarząd miejski.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 25.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 1. Zarząd miejski składa się: w miastach wydzielonych z prezydenta i wiceprezydenta, w miastach niewydzielonych z burmistrza i wiceburmistrza, a ponadto we wszystkich miastach z 3—6 członków zarządu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "- § 2. W miastach liczących ponad 50.000 mieszkańców rada narodowa może powiększyć liczbę wiceprezydentów do dwóch, wyjątkowo zaś do trzech, jeżeli wymaga tego większy rozwój gospodarki miejskiej. Uchwała o powiększeniu ilości stanowisk wiceprezydentów wymaga zatwierdzenia właściwej wojewódzkiej rady narodowej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 26.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 1. Prezydenta i wiceprezydentów oraz, burmistrza i wieeburmistrza wybiera właściwa miejska rada narodowa zwykłą większością głosów obecnych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 2. Wybór prezydenta i wiceprezydentów wymaga zatwierdzenia Kierownika Resortu Administracji Publicznej, po wysłuchaniu opinii prezydium wojewódzkiej rady narodowej, zaś wybór burmistrza i wiceburmistrza wymaga zatwierdzenia wojewody, po wysłuchaniu opinii prezydium powiatowej rady narodowej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 27. Liezbę członków zarządu miejskiego ustala miejska rada narodowa. Odnośna uchwała wymaga zatwierdzenia prezydium rady narodowej hierarchicznie wyższej. >",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 28. Członków zarządu miejskiego wybiera miejska rada narodowa. Za wybranych uważa się tych, którzy otrzymali kolejno największą liczbę. głosów. ob",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 29. Prezydenci miast pełnią zarazem funkcje starostów grodzkich i w tym zakresie służbowo podlegają wojewodzie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 30. Organem wykonawczym gminnej rady narodowej jest zarząd gminny.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 31.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 1. Zarząd gminny składa się z wójta, podwójciego i trzech członków zarządu wybieranych przez gminną radę narodową w sposób przewidziany dla burmistrzów i członków zarządów. miejskich. i sprawy dotyczące danej gromady.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "7",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 33. Zakres działania miejskich oraz gminnych rad narodowych, i ich organów wykonawczych określają postanowienia art. 43-48 ustawy z dnia 23 marca 1933 r. o częściowej zmianie ustroju samorządu terytorialnego (Dz. U.R.P. Nr 35, poz. 294) — z wyjątkiem postanowień zawartych w art. 43 ust. (1) pkt. c, d — zdanie ostatnie, e, f, g oraz ust. (2), art. 44 ust. (1) pkt e, ust. (4), zdanie 1 i 2 ust. (5), art. 45, art. 46 ust. (3) i (4), zdanie ostatnie ust. (6) oraz w art. 47 ust. (1), — które nie mają zastosowa-",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "nią.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 34.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 1. Wybory członków organów wykonawczych rad narodowych są tajne. 5.2. W razie opróżnienia stanowiska członka organu wykonawczego z jakichkolwiek przyczyn, właściwa rada narodowa obowiązana jest w przeciągu miesiąca dokonać wyborów uzupełniających.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "IV. Przepisy ogólne.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 35.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 1. Organy wykonawcze rad narodowych mogą być rozwiązane przez rady narodowe wyższego stopnia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 2. Przeciw decyzji rozwiązującej organ wykonawczy służy radzie narodowej, która odnośny orgah wybrała, prawo odwołania się do rady narodowej wyższego stopnia od rady rozwiązującej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 36. Dekret niniejszy nie ma zastosowania do miasta stołecznego Warszawy i Łodzi.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 37. Wykonanie niniejszego dekretu porucza się Kierownikowi Resortu Administracji Publicznej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 38. Dekretniniejszy wchodzi w życie z dniem ogłoszenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Krajowej i Rady Narodowej: Bolesław Bierut",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Polskiego Komitetu Wyzwolenia Narodowego: Edward Osóbka-Morawski",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "w/z Kierownik Resortu Administracji Publicznej: Mgr Adam Ostrowski",
+     "quoted": true
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

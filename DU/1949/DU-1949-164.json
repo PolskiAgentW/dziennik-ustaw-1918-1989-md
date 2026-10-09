@@ -1,0 +1,724 @@
+{
+ "eli": "DU/1949/164",
+ "title": "Rozporządzenie Ministra Handlu Wewnętrznego z dnia 30 marca 1949 r. wydane w porozumieniu z Ministrem Sprawiedliwości - Regulamin sądów rozjemczych giełd zbożowo-towarowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/164/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA HANDLU WEWNĘTRZNEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 marca 1949 r."
+  },
+  {
+   "type": "text",
+   "text": "wydańe w porozumieniu z Ministrem Sprawiedliwości. Regulamin sądów rozjemczych giełd zhozowe-tewarowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie § 30 rozporządzenia Prezydenta Rzeczypospolitej z dnia 28 grudnia 1924 r. o organizacji giełd (Dz. U. R. P. z 1930 r. Nr 23, poz. 209 i z 1935 r. Nr 24, poz. 163) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Regulamin niniejszy okowiązuje przy rozstrzyganiu przez sądy rozjemcze giełd zbożowo-towarowych sporów, wynikających z transakcji giełdowych, zawartych na giełdach zbożowo-towarowych, oraz spo- \"rów, wynikających z transakcji niegiełdowych między członkami, członkami i uczestnikami lub między uczestnikami giełd, jeżeli przedmiotem sporu są wartości dopuszczone do obrotu na giełdach zbożowo-towarowych lub należności będące w związku z tym obrotem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Sąd rozjemczy giełdy zbożowo-towarowej jest wyłącznie właściwy do rozstrzygania sporów wymienionych w § 1, jeżeli strony na piśmie inaczej się nie umówiły.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Rozstrzygnięciu sądu rozjemczego giełdy zbożowo-towarowej podlegają również spory. wymienione w § 1 nawet w tym przypadku, gdy obie lub jedna ze stron nie są członkami lub uczestnikami giełdy, jeżeli strony w pisemnym układzie lub przez wymianę \"listów poddadzą się orzecznictwu tego sądu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W sporach wynikłych z transakcji giełdowych, jeżeli strony nie wskazały w umowie innego sądu rozjemczego, właściwy jest sąd rozjemczy giełdy, na której transakcję zawarto.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W sporach z transakcji niegiełdowych, jeżeli strony nie umówiły się inaczej, właściwy do rozstrzygania sporu jest sąd rozjemczy giełdy, w której okręgu transakcję zawarto.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Sędziów sądu rozjemczego ustanawiają strony spośród członków komisji rozjemczej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Wniesienie pozwu do sądu rozjemczego następuje pisemnie przy równoczesnym złożeniu opłat.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Pozew winien zawierać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/ust_2/lit_a",
+       "text": "imiona i nazwiska (firmę) oraz adresy stron,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/ust_2/lit_b",
+       "text": "żądanie z określeniem wartości przedmiotu sporu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_5/ust_2/lit_c",
+       "text": "przytoczenie okoliczności uzasadniających żądanie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_5/ust_2/lit_d",
+       "text": "wskazanie sędziego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_5/ust_2/lit_e",
+       "text": "datę oraz podpis wnoszącego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Ponadto pozew może zawierać. wniosek o przeprowadzenie rozprawy w nieobecności powoda.",
+     "children": [
+      {
+       "type": "text",
+       "text": "odpis dla strony"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Do pozwu należy dołączyć przeciwnej. i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_5/ust_5",
+     "text": "Jeżeli pozew nie może otrzymać biegu wskutek niezachowania warunków, wskazanych wyżej lub z powodu niezłożenia należytych opłat, prezes komisji rozjemczej wzywa stronę pod rygorem zwrócenia pozwu do stosownego poprawienia lub uzupełnienia go w terminie tygodniowym, a po bezskutecznym upływie terminu zwraca pozew stronie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Biuro giełdy winno w ciągu 3 dni od daty wpływu pozwu przesłać odpis pozwu stronie pozwanej, wzywając ją do „wskazania sędziego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Jeżeli jedna ze stron wskaże .dwóch sędziów, biuro giełdy wezwię stronę przeciwną do wskazania również dwóch sędziów bądź drugiego sędziego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Jeżeli strona nie wskaże sędziego (sędziów) w zakreślonym terminie, prezes komisji rozjemczej lub jego zastępca wyznaczy sędziego (sędziów) z urzędu, o czym strony należy uprzedzić w wezwaniu do wskazania sędziego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "W ciągu 5 dni po wyborze albo wyznaczeniu sędziów rozjemczych prezes komisji rozjemczej lub jego zastępca wzywa ich do wyboru przewodniczącego sądu rozjemczego spośród członków komisji rozjemczej. W braku porozumienia, przewodniczącego wyznaczy prezes komisji rozjemczej lub jego zastępca.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "O wyborze bądź o wyznaczeniu przewodni- 'czącego sądu rozjemczego oraz sędziów biuro giełdy zawiadamia strony.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 8 1. W ciągu 3 dni od zawiadomienia o składzie sądu strona może zgłosić do prezydium komisji rozjemczej żądanie wyłączenia przewodniczącego lub sędziego sądu rozjemczego, jeżeli między nim a stroną lub jej pełnomocnikiem zachodzą stosunki osobiste tego rodzaju, że mogłyby wywołać uzasadnioną wątpliwość co do bezstronności przewodniczącego lub sędziego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W przypadku uznania przez prezydium komisji rozjemczej wniosku o wyłączenie przewodniczącego lub sędziego za uzasadniony, prezes komisji rozjemczej wyznaczy stronie trzydniowy termin do wskazania innego sędziego, a sędziom do wyboru innego przewodniczącego. Przepisy $§ 6 i 7 mają tu odpowiednie zastosowanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Przewodniczący sądu rozjemczego wyznacza termin rozprawy, o którym biuro giełdy zawiadamia strony listem poleconym, co najmniej na 7 dni przed rozprawą.",
+   "children": [
+    {
+     "type": "text",
+     "text": "\"810. 1. Sąd zawiesza postępowanie w przypadku niestawiennictwa powoda, który nie żądał rozpoznania sprawy w swej nieobecności."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Sąd umorzy postępowanie zawieszone, jeżeli wniosek o podjęcie postępowania nie został zgłoszony w ciągu 30 dni od zawieszenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Sąd rozjemczy z urzędu lub na wniosek stron przeprowadza dowody zmierzające do NASZE wyjaśnienia sprawy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Koszty przeprowadzenia dowodu ponosi początkowo strona, która powołała się na dowód lub na którą sąd włożył ciężar kosztów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Sąd rozjemczy nie może od stron, świadków i biegłych odbierać przysięgi ani stosować środków przymusowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "O wykonanie czynności, wymienionych w poprzednim ustępie, sąd rozjemczy zwraca się do sądu grodzkiego, w którego okręgu czynność ma być wykonana.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Najpóźniej na pierwszej rozprawie strona pozwana może wnieść pozew wzajemny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "W każdym stanie sprawy strony mogą zawrzeć ugodę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Osnowa ugody, zawartej ustnie przed sądem, powinna być wciągnięta do protokółu rozprawy i stwierdzona podpisami stron i zespołu orzekającego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Przewodniczący sądu diwiera, kieruje i zamyka rozprawę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Z przebiegu rozprawy spisuje się zwięzły protokół, który podpisują przewodniczący i protokolant.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Przewodniczący zamyka rozprawę, gdy sąd po wysłuchaniu stron uzna sprawę za dostatecznie wyją« śnioną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "W postępowaniu przed sądem strona może działać przez pełnomocnika. .Peinomocnictwo winno być sporządzone na piśmie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Pełnomocnikiem może być obywatel polski, posiadający zdolność do działań prawnych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Sad wyda wyrok zaoczny w przypadku nie-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "niestawiennictwa pozwanego na usprawiedliwionego",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "rozprawie. O skutkach niestawiennictwa sąd uprzedzi pozwanego w wezwaniu."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Wyrok sądu rozjemczego zapada większością głosów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Wyrok sądu rozjemczego winien zawierać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_16/ust_2/lit_a",
+       "text": "sąd, miejsce i datę wydania wyroku,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_16/ust_2/lit_b",
+       "text": "imiona i nazwiska sędziów, stron i protokolanta,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_16/ust_2/lit_c",
+       "text": "rozstrzygnięcie o żądaniach stron,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_16/ust_2/lit_d",
+       "text": "uzasadnienie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Na wniosek stron sąd może odstąpić od uzasadnienia wyroku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Wyrok podpisują przewodniczący oraz wszyscy sędziowie. Jeżeli którykolwiek z sędziów odmówi podpisu, pozostali zaznaczą to na samym wyroku. Sędzia odmawiający złożenia podpisu na wyroku winien odmowę swoją uzasadnić.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "W wyroku sąd rozjemczy rozstrzygnie również o kosztach postępowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Strona przegrywająca sprawę ponosi niezbędne koszty postępowania. W razie częściowego tylko uwzględnienia żądań, koszty będą wzajemnie zniesione lub stosunkowo rozdzielone.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Wyrok sądu rozjemczego podlega ogłoszeniu w dniu zamknięcia rozprawy. W sprawie za-* wiłej sąd może odroczyć ogłoszenie wyroku do dwóch tygodni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Na żądanie strony biuro giełdy wyda odpis wyroku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Od wyroku sądu rozjemczego nie ma odwołania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Wyrok sądu rozjemczego ma moc prawną na równi z wyrokiem sądu państwowego, takież samo znaczenie ma ugoda, zawarta przed sądem rozjemczym, jeżeli podpisały ją strony i wszyscy sędziowie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Wyrok sądu rozjemczego winien być wykonany w ciągu 7 dni od jego ogłoszenia, o ile w samym wyroku nie wskazano innego terminu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "W razie niewykonania wyroku w terminie przysługuje stronie -prawo złożenia zażalenia do rady giełdowej, co nie uchybia prawom strony do żądania wykonania wyroku w myśl kodeksu postępowania cywilnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "1.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Powód przy wniesieniu pozwu, a pozwany przy wniesieniu pozwu wzajemnego winien uiścić w biurze giełdy opłaty w wysokości:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_22/lit_a",
+     "text": "3% od wartości przedmiotu sporu przy kompiecie 3 sędziów,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_22/lit_b",
+     "text": "4% od wartości przedmiotu sporu przy komplecie 5 sędziów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Każde rozpoczęte 1.000 zł liczy się za pełne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "Najniższa opłata wynosi 2.500 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_22/ust_4",
+     "text": "Opłaty podwyższa się o 50% w stosunku do powoda nie będącego członkiem giełdy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_22/ust_5",
+     "text": "Członek giełdy, który przegrał sprawę, nie może ponosić wyższych kosztów z tej przyczyny, że strona przeciwna nie jest członkiem giełdy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "W przypadku wycofania pozwu przed rozprawą, opłaty podlegają zwrotowi z potrąceniem rzeczywistych wydatków giełdy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Członek sądu ma prawo do wynagrodzenia za swe czynności. Wynagrodzenie to wypłaca się z uiszczonej opiaty (§ 22). Wysokość wynagrodzenia ustala prezydium rady giełdowej w porozumieniu z komisarzem giełdowym.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ -25. 1. Członków komisji rozjemczej wybiera ogólne zgromadzenie członków giełdy według zasad ustalonych w statucie giełdy dla wyboru. członków rady giełdowej oraz w ilości przez statut określonej."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Kadencja komisji rozjemczej trwa jeden rok.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Dla dokonania wyboru prezesa i dwóch wiceprezesów komisji rozjemczej, stanowiących prezydium komisji, prezes rady giełdowej zwołuje zgromadzenie członków komisji rozjemczej w ciągu miesiąca od chwili wyboru komisji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Zgromadzeniu temu przewodniczy najstarszy wiekiem członek komisji rozjemczej,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "Do powzięcia uchwał zgromadzenia wymagana jest obecność przynajmniej połowy członków komisji rozjemczej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Ogólny nadzór nad działalnością sądów rozjemczych sprawuje prezes komisji rozjemczej lub zastępujący go wiceprezes.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Osoby sprawujące nadzór mogą być obecne na rozprawie toczącej się przy drzwiach zamkniętych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_27/ust_3",
+     "text": "Nadzór nie może wkraczać w dziedzinę niezawisłości członka sądu przy wydawaniu wyroków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Członkowie komisji rozjemczej składają wobec prezesa rady giełdowej ślubowanie następującej treści:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Ślubuję, że obowiązki członka sądu rozjemczego giełdy zbożowo-towarowej w...... spełniać będę sumiennie, kierując się bezstronnością oraz najlepszą wiedzą, a o przebiegu narad zachowam ścisłą tajemnicę\".",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Treść złożonego ślubowania winna być podpisana.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 29. W kwestiach nie unormowanych niniejszym regulaminem będą miały odpowiednie zastosowanie przepisy kodeksu postępowania cywilnego o sądach polubownych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 30. Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "\"Minister Handlu Wewnętrznego: T. Dietrich",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: H. Świątkowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

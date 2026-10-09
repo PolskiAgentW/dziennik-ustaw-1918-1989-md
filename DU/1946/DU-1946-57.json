@@ -1,0 +1,214 @@
+{
+ "eli": "DU/1946/57",
+ "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 20 lutego 1946 r. o sprostowaniu błędów w dekrecie o zmianie i uzupełnieniu ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społecznym, w rozporządzeniu w sprawie wykonania prawa o aktach stanu cywilnego oraz przepisów wprowadzających to prawo i w regulaminie wewnętrznego urzędowania sądów apelacyjnych, okręgowych i grodzkich w sprawach niespornych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/57/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SPRAWIEDLIWOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lutego 1946 r."
+  },
+  {
+   "type": "text",
+   "text": "o sprostowaniu błędów w dekrecie o zmianie i uzupełnieniu ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społecznym, w rozporządzeniu w sprawie wykonania prawa o aktach stanu cywilnego oraz przepisów wprowadzających to prawo i w regulaminie wewnętrznego urzędowania sądów apelacyjnych, okręgowych i grodzkich w sprawach niespornych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 pkt 5 dekretu Prezydenta Rzeczypospolitej z dnia 6 września 1935 r.o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej (Dz. U. R. P. Nr 68, poz. 423 i z 1945 r. Nr 55, poz. 305) prostuje się następujące błędy:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w dekrecie z dnia 8 stycznia 1946 r. o zmianie i uzupełnieniu ustawy z dnia 28 marca 1933 r. o ubezpieczeniu społecznym (Dz. U. R. P. Nr 4, P> 28) w art. 12 zamiast „art. 1 pkt 1), 2), 6), 14), 15), 16) i 25)\", powinno być „art. 1 pkt 1), 3), 6), 14), 15), 16) i 25)\";",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w rozporządzeniu Ministrów Administracji Publicznej i Sprawiedliwości z dnia 24 listopada 1945 r. w sprawie wykonania prawa o aktach stanu cywilnego oraz przepisów wprowadzających to prawo (Dz. U. R. P. Nr 54, poz. 304): )w § 12 ust. (2) zamiast „(8 16)\" powinno być „(okręgowego — § 16)*;",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "w § 13 zamiast „skorzy- i stała\" powinno być „skorzystała;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "w § 21 ust. (3) zamiast „a użyte\" powinno być „użyte'';",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "w § 26 pkt 1) zamiast »Sprostowanie“ powinno być ,,sprostowania‘;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_2/lit_e",
+     "text": "w § 28 ust. (1) pkt 1) zamiast „wpisów* powinno być „wypisów *';",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_2/lit_f",
+     "text": "w § 42 ust. (1) powinien brzmieć: „(1) Księgi miejscowe urodzeń, małżeństw i zgonów prowadzi się według wzorów, podanych w załącznikach Nr 1, 2 i 3 do niniejszego rozporządzenia. Na rubrykę „uwagi* mależy pozostawić w druku tyle miejsca, by zapewnić pomieszczenie w niej odpowiednich treści.'*",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_2/lit_g",
+     "text": "§ 51 uzupełnia się opuszczonym ustępem (5) w brzmieniu: „(5) Akta zbiorowe pozostają w urzędzie stanu cywilnego przez lat pięć, po czym odsyła się je do sądu, przechowywującego odpowiednie księgi wtóropisów.'';",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_2/lit_h",
+     "text": "w § 75 ust. (1) powinien brzmieć:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„(1) Odpis skrócony aktu małżeństwa wydaje się według wzoru Nr 11. Jeżeli małżeństwo zostało rozwiązane przez rozwód lub unieważnione, należy umieścić w tym odpisie datę orzeczenia sądowego.*;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "i) w § 76 ust. (2) zamiast „unieważnienie“ powinno być „unieważnione;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "j) przed § 85 zamiast „Do art. 52 ust.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "(2) i (3) powinno być „Do art. 52 BAJ (8 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "k) w § 95 zamiast „art. 10 pkt 2) po winno być „art. 10 § 1 pkt 2‘;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "I) przed § 101 zamiast ,,Do art. 73“ po winno być ,,Do art. 72\";",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "m) w § 111 ust. (1) i (2) zamiast „Sąd grodzki* powinno być „Sąd grodzki (okręgowy)“;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "n) w § 123 zamiast „SR 50 i 60° powinno być „S§ 58 i 59”;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) w regulaminie wewnętrznego urzędowania sądów apelacyjnych, okręgowych i grodzkich w sprawach niespornych, wydanym rozporządzeniem Ministra Sprawiedliwości z dnia 4 grudnia 1945 r. (Dz. U. R. P. Nr 57, poz. 333):",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) we wzorze Nr 1 (Repertorium Ns) w rubryce 13 zamiast „otrzymanie powinno być ,,otrzymania“, a w rubryce 14 zamiast ,,odesłanie‘‘ powinno być „odesłania‘;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) we wzorze Nr 2 (Repertorium Zg) w napisie nad rubrykami 8—12 zamiast „Data postępowania* powinno być „Data postanowienia”, w rubryce 14 zamiast „przesłanie\" powinno być „przesłania, w rubryce 15 zamiast „otrzymanie'* powinno być ,,otrzymania“, a w rubryce 16 zamiast „odesłanie* powinno być „odesłania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "w/z Minister Sprawiedliwości:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Leon Chajn",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "DO P. TT PRENUMERATORÓW",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W związku z licznymi zamówieniami na poszczególne numery Dziennika Ustaw R.P. z lat 1944 i 1945 podajemy poniżej ceny wszystkich wydanych w tych latach numerów. Ponieważ zamówione numery będą wysyłane dopiero po ich opłaceniu, prosimy zamawiać je na odcinkach czekowych (P. K. O. Łódź VII — 134) w miejscu przeznaczonym na korespondencję, a nie w osobnych pismach. W korespondencji, kierowanej do Administracji, prosimy używać stale tej samej nazwy prenumeratora oraz podawać dokładny adres z wymienieniem urzędu pocztowego, powiatu oraz województwa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "CE N N I K",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rok 1944 Nr zł Nr Zł",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1 4 1 3 2 2 2 2 3 6 3 10 4 6 4 8 5 6 5 4 6 24 6 8 7 12 7 8 8 wycofany 8 8 9 6 9 10 10 4 10 8 11 6 11 8 12 4 12 8 13 4 13 8 14 6 14 8 15 6 15 16 16 20 16 2 17 4 17 10 18 4 18 10 19 4 19 2 skorowidz 8 20 10",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1 Nr Zł Nr Zł",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "21 16 39 2 skorowidz 40 12 za I półr. 8 41 12 22 16 42 12 23 16 43 8 24 8 44 10 25 16 45 2 26 2 46 6 27 10 47 6 28 4 48 24 29 4 49 8 30 4 50 16 31 8 51 4 32 2 52 16 33 12 53 12 34 8 54 24 35 4 55 12 36 24 56 10 37 20 37 12 38 4 58 8 skorowidz za II półr. 16",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "WSZYSTKIE WYMIENIONE NUMERY SA DO NABYCIA",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Prenumeratę za II kwartał należy wpłacić przed 15 marca 1946 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Reklamacje z powodu nieotrzymania numeru należy zgłaszać we właściwym urzędzie pocztowym natychmiast po otrzymaniu następnego kolejnego numeru. Reklamacje kierowane do Administracji pozostaną bez odpowiedzi. Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Ministerstwa Sprawiedliwości w Łodzi, ul. Kilińskiego 93 Zgłoszenia na prenumeratę przyjmuje się w Administracji Dziennika Ustaw R. P. w Łodzi, ul. Piotrkowska 49. Prenumeratę należy wpłacać z góry. Wysyłkę wykonuje się po uprzednim wpłaceniu prenumeraty kwartalnej dla władz, urzędów, zakładów i instytucyj państwowych i samorządowych w kwocie zł 100, dla innych prenumeratorów w kwocie zł 200. Konto czekowe w P.K.O. w Łodzi VII—134. Pojedyncze numery są do nabycia: w Biurze Sprzedaży w Warszawie, ul. Targowa 59, w Administracji Dziennika Ustaw R. P. w Łodzi, ul. Piotrkowska 49 oraz w Kasach Sądów Okręgowych w Lublinie, Krakowie, Katowicach i Poznaniu. Cena zł 16.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

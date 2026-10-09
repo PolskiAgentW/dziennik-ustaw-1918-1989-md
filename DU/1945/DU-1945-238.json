@@ -1,0 +1,69 @@
+{
+ "eli": "DU/1945/238",
+ "title": "Dekret z dnia 29 września 1945 r. o zmianie ustawy z dnia 16 maja 1922 r. o urlopach dla pracowników, zatrudnionych w przemyśle i handlu.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/238/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET l j SE” dnia 29 września 1945 r. o zmianie a stawy z dnia 16 maja 1922 r. o urlopach dla pracowników, zatrudnionych w przemyśle i handlu. ‘Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej satwinrdes, to następaje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie z dnia 16 maja 1922 r. o urlopach dla pracowników, zatrudnionych w przemyśle i handlu, (Dz. U. R.P. z 1933 r. Nr 94, poz. 735) wprowadza się zmiany następującet",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "Ustęp drugi art. 2 otrzymuje brzmienie następujące: „Przez dni ńrlopowa: należy rozumieć dni robocze; do dni urlopowych nie wlicza się dni niedzielnych i świątecznych”.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "W art. 4 zdanie pierwsze otrzymuje brzmienie następujące:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Urlopowany otrzymuje za każdy ited urlopu wynagrodzenie takie, jakie otrzymałby, gdyby w tym dniu był zatrudniony”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Pracy i Opieki. Społecznej . w porozumieniu z właściwymi Ministrami.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Prezydent Krajowej Rady Ńarodowej: Bolesław Bierut",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski Minister Pracy i Opieki Społecznej: m"
+    },
+    {
+     "type": "text",
+     "text": ",, Jan Stańczyk"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

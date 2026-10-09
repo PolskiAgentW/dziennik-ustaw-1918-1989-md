@@ -1,0 +1,90 @@
+{
+ "eli": "DU/1944/13",
+ "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 31 sierpnia 1944 r. o ustanowieniu przysięgi dla Wojska Polskiego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/13/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET POLSKIEGO KOMITETU WYZWOLENIA NARODOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 s ierpnia 1944 r."
+  },
+  {
+   "type": "text",
+   "text": "o ustanowieniu przysięgi dla Wojska Polskiego."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy ustawy Krajowej Rady Narodowej z dnia 15 sierpnia 1944r. o tymczasowym trybie wydawania dekretów z mocą ustawy (Dz. U.R.P. Nr 1, poz. 3.) Polski Komitet Wyzwolenia Narodowego postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Ustanawia się dla Wojska Polskiego przysięgę w następującej rocie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Przysięgam uroczyście skrwawionej Ziemi Polskiej i Narodowi Polskiemu walczyć z niemieckim najeźdźcą o wyzwolenie Ojczyzny oraz utrwalenie wolności, niepodległości i potęgi Rzeczypospolitej Polskiej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Przysięgam rzetelnie i sumiennie wypełniać, obowiązki żołnierza polskiego, wiernie wykonywać wydane mi rozkazy i ściśle przestrzegać tajemnicy wojskowej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Przysięgam wiernie służyć Rzeczypospolitej i nigdy nie skalać imienia Polaka.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Przysięgam dochować wierności Krajowej Radzie Narodowej, Władzy Naczelnej Narodu Polskiego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Przysięgam nieugięcie stać na straży praw Narodu Polskiego, mieć wszystkich obywateli w równym poszanowaniu oraz niezłomnie bronić swobód demokratycznych. TAK MI DOPOMÓŻ BOG!‘",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Kierownikowi Resortu Obrony Narodowej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Polskiego Komitetu Wyzwolenia Narodowego: Edward Bolesław Osóbka-Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Kierownik Resortu Obrony Narodowej: Michał Rola-Żymierski generał broni"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

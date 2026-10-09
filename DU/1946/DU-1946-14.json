@@ -1,0 +1,904 @@
+{
+ "eli": "DU/1946/14",
+ "title": "Dekret z dnia 8 stycznia 1946 r. o podatku dochodowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/14/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "2 dnia 8 stycznia 1946 r."
+  },
+  {
+   "type": "text",
+   "text": "o podatku dochodowym."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia \"1945 r. o trybie wydawania dekretów z mocą ustawy. (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Dział |."
+  },
+  {
+   "type": "text",
+   "text": "Obowiązek podatkowy."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "(1) Obowiązkowi podatkowemu podlegają osoby fizyczne, prawne oraz spadki wakujące (nieobjęte).",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Przedsiębiorstwa państwowe i samorządówe podlegają obowiązkowi podatkowemu a mianowicie każde przedsiębiorstwo oddzielnie niezależnie od tego, czy ma odrębną osobowość prawną."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "(1) Przedsiębiorstwa państwowe i związków samorządu terytorialnego oraz przed- _siebiorstwa i majątki pozostające pod zarządem państwowym lub-związków samorządu terytoriali nego, nie objęte planem gospodarczym Państwa (art. 34), a nadto spółdzielnie należące do związku rewizyjnego, podlegają opodatkowaniu według przepisów dział: II. d",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Objęte planem kodach Państwa przedsiębiorstwa państwowe i związków samo\" rządu terytorialnego oraz przedsiębiorstwa i majątki pozostające pod zarządem państwowym lub związków samorządu terytorialnego podlegają opodatkowaniu według przepisów działu IV."
+    },
+    {
+     "type": "text",
+     "text": "(3) Podatnicy, poza wymienionymi w ust."
+    },
+    {
+     "type": "text",
+     "text": "(1) i (2), podlegają opodatkowaniu według przepisów działu Il od d dochodu, a „nadto według przepisów działu II._"
+    },
+    {
+     "type": "text",
+     "text": "(4) Upoważnia się Ministra Śkażbu: do pociągania od ' najbliższego roku podatkowego ' do obowiązku podatkowego według przepisów działu IV nieobjętych planem gospodarczym Państwa przedsiębiorstw państwowych i związków. samorządu terytorialnego oraz przedsiębiorstw i majątków pozostających pod zarządem państwowym lub związków samorządu terytorialnego, jak również przedsiębiorstw o mieszanym kapitale: państwowym, spółdzielczym lub związków samorządu terytorialnego."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "' (1) Obowiązek podatkowy jest nieograniczony lub ograniczony.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Nieograniczony obowiązek podatkowy obejmuje dochód ze wszystkich źródeł (art. 8) bez względu na miejsce ich położenia."
+    },
+    {
+     "type": "text",
+     "text": "(3) Ograniczony obowiązek podatkowy obej- - muje dochód ze źródeł wymienionych w ust. (5)."
+    },
+    {
+     "type": "text",
+     "text": "(4) Nieograniczonemu obowiązkowi podlegają: -"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "osoby fizyczne, mające na obszarze Rze= czypospolitej miejsce zamieszkania lub miejsce pobytu, #8",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "spadki wakujące (nieobjęte) po osobach wymienionych w punkcie poprzednim, 3)-osoby prawne, których siedziba lub zarząd znajduje się na obszarze Rzeczypospolitej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_3/pkt_4",
+     "text": "nie objęte plańem gospodarczym Państwa * przedsiębiorstwa państwowe i samorządowe oraz przedsiębiorstwa i majątki pozostające pod zarządem „państwowym lub samorżądowym.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_3/pkt_5",
+     "text": "Ograniczonemu dbowieżkiowi podatkowemu podlegają: * ~ - 1) osoby fizyczne, nie mające na obszarze Rzeczypospolitej miejsca zamieszkania lub miejsca pobytu, spadki wakujące (nieobjęte) po tych osobach fizycznych oraz osoby prawne, których ani siedziba ani zarząd nie znajdują się na obszarze Rze» czypospolitej, od dochodu, osiąganego na obszarze Rzeczypospolitej z następujących źródeł przychodów:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/pkt_5/lit_a",
+       "text": "z nieruchomości óraz z wierzytelności zabezpieczonych na nieruchomościach,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/pkt_5/lit_b",
+       "text": "z wykonywania świadczeń rzeczy lub usług, podlegających podatkowi obrotowemu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_3/pkt_5/lit_c",
+       "text": "z opłat za korzystanie .z patentów na wynalazki, wynalazków specjalnych metod produkcji itp. (opłaty licencyjne); osoby fizyczne przybyłe do Rzeczypospo- — 2 litej na pobyt czasowy w rozmiarze i w warunkach przewidzianych w art. 14 ust. (4).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "(1) Obowiązek podatkowy rozpo= czyna się z chwilą osiągnięcia przychodów ze źródeł wymienionych w art. 8 i w art. 3 ust. (5) pkt -1).",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Dla podatników wymienionych w art. 14 ust. (4) obowiązek podatkowy rozpoczyna się z chwilą osiągnięcia przychodów z ezynnosci zarobkowych."
+    },
+    {
+     "type": "text",
+     "text": "(3) Obowiązek podatkowy kończy się z upływem roku podatkowego, w ciągu którego ustał przychód ze źródeł wymienionych w art. 8 i w art. 3 ust. (5) pkt 1)."
+    },
+    {
+     "type": "text",
+     "text": "(4) W razie śmierci podatnika podatek wymierza się na imię zmarłego „podatnika od dochodu uzyskanego przed śmiercią."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Art 5. Dochód osób fizycznych i spadków wakujących (nieobjętych) wymienionych w art. 3 ust. (4) pkt 1) i 2): ze źródeł wyszczególnionych w art. 3 ust. (5) pkt 1), znajdujących się poza obszarem Rzeczypospolitej, wyłącza się od opodatkowania, jeżeli będzie udowodnione, że podlegają one tam. podatkowi tego samego rodzaju i jeżeli właściwe obce państwo postępuje. według zasad wzajemności co do takich samych dochodów ze źródeł położonych na obszarze Rzeczypospolitej."
+    },
+    {
+     "type": "text",
+     "text": "Zwolnienia podmiotowe. ,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Od podatku dochodowego wolne są;",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_6/pkt_1",
+     "text": "Skarb Państwa oraz instytucje i związki * samorządowe z wyjątkiem przedsiębiorstw państwowych i samorządowych oraz przedsiębiorstw i majątków pozostających pod zarządem państwowym lub samorządowym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_6/pkt_2",
+     "text": "przedsiębiorstwa państwowe i związków „samorządu terytorialnego oraz przedsię” biorstwa i majątki pozostające pod zarzą” dem państwowym lub związków samorządu terytorialnego, jeżeli prowadzone są wyłącznie na potrzeby administracji państwowej.albo związków samorządu terytorialnego, przedsiębiórstwa państwowe, rozliczające 3) się centralnie ze Skarbem Państwa w ramach budżetu państwowego i wyszczegól-. nione w zarządzeniu Ministra Skarbu, ogłoszonym w Monitorze Polskim,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_6/pkt_4",
+     "text": "przedsiębiorstwa związków samorządu terytorialnego, rozliczające się centralnie ze związkiem samorządowym w ramach budżetu danego związku samorządu terytorialnego i wyszczególnione w zarządzeniu Ministra Skarbu wydanym w porozumieniu z Ministrem Administracji Publicznej i ogłoszonym w Monitorze Polskim,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_6/pkt_5",
+     "text": "osoby uwierzytelnione przy Rządzie Rzeczypospolitej jako przedstawiciele. dyplomatyczni lub konsularni państw obcych oraz przydzieleni im urzędnicy i osoby pozostające w ich służbie, jeżeli są cudzoziemcami, a także inne osoby, którym na podstawie układów międzynarodowych lub według zasad prawa międzynarodowego ~ służy przywilej zwolnienia od podatku dochodowego — od dochodu osiąganego ze źródeł położonych za granicą,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_6/pkt_6",
+     "text": "osoby prawne; których dochód zgodnie",
+     "children": [
+      {
+       "type": "text",
+       "text": "— ze statutem jest obracany w całości na cele ogólnej użyteczności, naukowe, oświatowe, kulturalne, sportowe, wyznaniowe, opieki społecznej i dobroczynne; osoby te podlegają jednak: obowiązkowi podatkowemu z tej części dochodu, którą uzyskały z przedsiębiorstw obliczonych na zysk,"
+      },
+      {
+       "type": "text",
+       "text": "%"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_6/pkt_7",
+     "text": "związki zawodowe, których dochody osią* gane z działalności statutowej obracane są „ w całości na cele przewidziane w statucie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_6/pkt_8",
+     "text": "osoby, podlegające podatkowi gruntowemu, jeżeli obok gospodarstwa rolnego bądź wcale nie mają innych źródeł przychodów, wymienionych w art. 8, bądź też jeżeli dochód roczny z tych źródeł nie przekracza kwoty dochodu zwolaionej od podatku ' w myśl art. 14.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział IL",
+   "text": "Przedmiot opodatkowania."
+  },
+  {
+   "type": "text",
+   "text": "(1) Przedmiotem opodatkowania"
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "jest dochód.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Dochodem jest suma nadwyżek z poszczególnych źródeł przychodów po potrąceniu niedoborów z pozostałych źródeł (art. 8) z wyjątkiem niedoborów ze sprzedaży przedmiotów i praw majątkowych (art. 8 ust. (2) pkt 6) i po odliczeniu wydatków. szczególnych (art. 12)."
+    },
+    {
+     "type": "text",
+     "text": "(3) Za dochód osób podlegających ograniczonemu obowiązkowi podatkowemu (art. 3 ust. (5) pkt 1) z wierzytelności, zabezpieczonych na nieruchomościach uważa się 65°/, przychodu z tych wierzytelności."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "(1) Nadwyżką lub niedoborem ze źródła przychodów jest różnica między sumą przychodów z tego żródła (art. 9) a kosztami ich uzyskania (art. 10).",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Źródłami przychodów są: gospodarstwa rolne, niezwolnione od -po- 1) datku na podstawie art. 6 pkt 8), inne nieruchomości, ,"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_8/pkt_2",
+     "text": "przedsiębiorstwa, 3) zajęcia zawodowe i wszelkie inne zatrud- 4) nienia o celach zarobkowych z wyjątkiem wynagrodzeń za pracę, kapitały pieniężne i prawa majątkowe, 5) sprzedaż przedmiotów i praw majątkowych, 6) inne źródła niewymienione w punktach 7) poprzedzających.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(3) Nadwyżkę: z gospodarstwa rolnego ustala się w stosunku do przychodu przyjętego za podstawę przy wymiarze podatku gruntowego na podstawie normy. procentowej określonej rozporządzeniem Ministra Skarbu."
+      },
+      {
+       "type": "text",
+       "text": "(4) Zasady szacowania różnicy cen sprzedaży i zakupu przedmiotów i praw majątkowych ustala Minister Skarbu w drodze rozporządzenia. \"Art, 9. (1) Przychodami są pieniądze lub wartości pieniężne rzeczywiście otrzymane z jednego ze źródeł przychodów” określonych w art. 8 i w art. 3 ust. (5) pkt 1), jak również wartość użytkowa tych źródeł lub ich części, jeżeli są użytkowane przez podatnika lub członków jego rodziny. w przypadku łącznego opodatkowania (art. 15). - - a"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "2 U podatoi ków, prowadzących księgi handłowe, należy się kierować zasadami księgowości; t.j.-brać w rachubę również takie zaksięgowane przychody, które: mają dopiero wpłynąć, oraz takie koszty, które zostały już zarachowane, chociaż ich jeszcze nie poniesiono, jeżeli odnoszą - się do danego roku rachunkowego."
+      },
+      {
+       "type": "text",
+       "text": "(3) Wartość pieniężną przychodów w na” turze cblicza się według przeciętnych cen rynkowych z okresu opodatkowania w miejscu, w którym znajduje się źródło tych przychodów. . Art. 10. (1) Kosztami uzyskania przychodów z poszczególnego Źródła są wszeikie koszty ponoszone w celu osiągnięcia, zachowania lub zabezpieczenia przychodów z wyjątkiem kosztów, wymienionych w art. 11. Sa przeto rów- /mież kosztami uzyskania:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_8/pkt_1",
+     "text": "prawidłowe coroczne odpisy na zużycie; <eo do terminowych praw majątkowych nabytych odpłatnie odpisy te powinny być obliczane w stosunku do wartości i czasu korzystania; wartość przedmiotów podlegających zużyciu należy przyjąć dla celów obliczenia wysokości odpisów na zużycie według norm ustalonych w tym celu przez , Ministra Skarbu w drodze rozporządzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_8/pkt_2",
+     "text": "straty częściowe lub całkowite na przedmiotach majątkowych, służących do osiągnięcia, zachowania lub zabezpieczenia przychodów, ~ 3) składki na rzecz związków zawodowych lub grup gospodarczych, do których podatnik należy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_8/pkt_4",
+     "text": "odsetki od długów i oparte na szczegół- „ nych tytułach prawnych renty i trwałe ciężary,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_8/pkt_5",
+     "text": "podatki i inne daniny publiczne wraz z dodatkami za zwłokę z wyłączeniem kosztów egzekucyjnych oraz składki ubezpieczę= niowe, przypadające z danego źródła przychodów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Koszty uzyskania a potrącalne tylko w tym roku podatkowym, w którym zostały poniesione. Prowadzący księgi handlowe mogą jednak jednorazowo odpisać całkowitą wartość przedmiotów, których zwykły okres zużycia nie przekracza lat pięciu lub których koszt naby- |. cia nie przekracza 5.000 zł. Odpisania te mogą być dokonane wyłącznie w tym roku podatkowym, w którym przedmioty zostały nabyte. -"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Nie uważa się za koszty uzyskania przychodów: p",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_11/pkt_1",
+     "text": "wydatków na -nabycie, powiększenie lub ulepszenie źródła przychodów; wydatki te jednak należy uwzględnić przy ustalaniu nadwyżki ze sprzedaży przedmiotów majątkowych, i to bez względu na czas ich poniesięnia,",
+     "children": [
+      {
+       "type": "text",
+       "text": "15 —"
+      },
+      {
+       "type": "text",
+       "text": "2)"
+      },
+      {
+       "type": "text",
+       "text": "3)"
+      },
+      {
+       "type": "text",
+       "text": "4 et"
+      },
+      {
+       "type": "text",
+       "text": "5)"
+      },
+      {
+       "type": "text",
+       "text": "6)"
+      },
+      {
+       "type": "text",
+       "text": "9)"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_11/pkt_10",
+     "text": "11)",
+     "children": [
+      {
+       "type": "text",
+       "text": "1)"
+      },
+      {
+       "type": "text",
+       "text": "Poz. 14"
+      },
+      {
+       "type": "text",
+       "text": "wydatków na umorzenie długów oraz kapitałów włożonych w źródło przychodów przez osoby z niego korzystające, wydatków na Ak w ję gospodarsiwa domowego podatnika - na utrzymanie czionków jego rodziny, chyba że są stale zatrudnieni w gospodarstwie rolnym pos datnika albo też w jego przedsiębiorstwie, procentów od własnego kapitału włożonego przez podatnika w źródło przychodów, kwot rozdzielonych przez osobę prawną między udziałowców i akcjonariuszów tytułem: a) udziału w zyskach lub dywidend,"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_11/pkt_10/lit_b",
+       "text": "procentów i wynagrodzeń za udzielone pożyczki lub Gddais do .uzytkowaria wkłady niepieniężne, jeżeli te procenty i wynagrodzenia przekraczają normy, jakie będą w tym względzie określone w rozporządzeniu Ministra Skarbu, kosztów uzyskania przychodów ze źródeł znajdujących się na obszarze Rzeczypospolitej lub za granicą, jeżeli dochody z tych źródeł w ogóle nie podlegają opodatkowaniu albo są zwolnione od podatku z mocy niniejszego dekretu lub przepisów szczególnych, wydatków na podatek dochodowy, nadzwyczajny podatek od wzbogacenia wojennego, podatek od spadków i darowizn i innych podatków osobistych wraz z nas leżnościami ubocznymi i kosztami egzekucyjnymi, grzywien i kar pieniężnych wraz z należnościami ubocznymi i kosztami egzekucyjnymi, j nadwyżek kwot pensyj i wszelkiego rodzaju wynagrodzeń osób, które biorą udział w zarządzie przedsiębiorstwa bądź należą do składu rady nadzorczej, komitetu dyskontowego i komisji rewizyjnej lub działają z ich ramienia, bądź są upoważnione do samodzielnego prowadzenia przedsię: biorstwa, jak również innych pracowników umysłowych na stanowiskach kierowniczych ie normy, które ustali rozporządzenie inistra Skarbu z uwzględnieniem rodzaju i rozmiaru przedsiębiorstw, wysokości kapitału i obrotu, ofiar wszelkiego rodzaju, funduszów rezerwowych wszelkiego ro* dzaju z wyiątkiem wymienionych w art. 13 pkt 9) i 10).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "(1) Wydatkami szczególnymi sa: oparte na tytułach prawnych renty i trwałe ciężary — jeżeli nie są kosztami uzyskania (art. 10) — z wyjątkiem świadczeń na pokrycie kosztów utrzymania wolnych od podatku w myśl art. 13 pkt 2,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_12/pkt_2",
+     "text": "opłaty z tytułu ubezpieczenia osobowego podatnika i będących na jego utrzymaniu małżonka i dzieci do wysokości 3.000 zł rocznie za każdą ubezpieczoną osobę, jeżeli opłaty te zostały uiszczone polskim zakładom ubezpieczeniowym lub zagranicznym dopuszczonym do działalności na obszarze Rzeczypospolitej. (2)-Wydatków szczególnych nie odlicza się przy ustalaniu dochodu podatników, podlegających ograniczonemu obowiązkowi podatkowemu (art. 3 ust. (5). =",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zwolnienia przedmiotowe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Wolne od podatku są: = udziały w zyskach lub dywidendy (art. 11 pkt 5 lit. a), jeżeli są wypłacane przez osobę prawną, której siedziba lub zarząd znajduje się na obszarze Rzeczypospolitej, przychody na pokrycie kosztów utrzymania 2) otrzymane od zamieszkałych na' obszarze Rzeczypospolitej osób fizycznych, ' wygrane loteryjne i losowe, z- wyjątkiem — 3 wygranych uzyskanych na losy niesprzedane przez osoby trudniące się sprzedażą losów loteryjnych, i zapomogi z funduszów publicznych i zrze-",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_13/pkt_4",
+     "text": "szeń zawodowych na popieranie nauki, - kultury i sztuki,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_13/pkt_5",
+     "text": "stypendia dla młodzieży kształcącej się",
+     "children": [
+      {
+       "type": "text",
+       "text": "— w zakładach naukowych,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_13/pkt_6",
+     "text": "nadzwyczajne przychody w postaci spad- - ków, legatów, darowizn i posagów, ‘7) kwoty otrzymane z tytułu ubezpieczenia na życie, kwoty otrzymane z tytułu spłaty wierzy- - -8) telności, OE w zakładach ubezpieczeń przelewy na re- 9) zerwy techniczno-ubezpieczeniowe w zakresie potrzebnym dla: świadczeń z umów ubezpieczeniówych aktualnych w dniu bilansowym, : 10) u podatników, prowadzących księgi handlowe, zyski księgowe, powstające przez to, że podatnik uzyskał od wierzycieli całkowity lub częściowy opust z długów w celu uzdrowienia stosunków majątkowych, nadwyrężonych przez poniesione straty, oraz: rezerwy przeznaczone na pokrycie należności, których nieściągalność została udowodniona lub uprawdopodobniona. Warunki, pod którymi wspomniane . zyski i rezerwy są wolne od podatku, określi rozporządzenie Ministra Skarbu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "'Podstawa opodatkowania."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "(1) Opodatkowaniu podlega dochód (art. 7) przekraczający -12.000 zł, a osiągnięty w ciągu roku podatkowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Rokiem podatkowym jest rok kalendarzowy lub rachunkowy, w którym dochód został osiągnięty."
+    },
+    {
+     "type": "text",
+     "text": "="
+    },
+    {
+     "type": "text",
+     "text": "(3) Jeżeli okres rachunkowy nie pokrywa ~ się z rokiem kalendarzowym, opodatkowaniu podlega dochód osiągnięty w okresie rachunkowym. Okres rachunkowy winien obejmować dwanaście miesięcy."
+    },
+    {
+     "type": "text",
+     "text": "(4) U osób, które przybyły do Rzeczypospolitej na pobyt czasowy, z góry określony co do czasu. trwania, nieprzekraczający jednak sześciu miesięcy, w Celu wykonywania przesiebiorstwa, zajęcia zawodowego lub- jakiegokolwiek innego zatrudnienia zarobkowego, przyjmuje się za podstawę opodatkowania dochód osiągnięty w okresie wykonywania tych czynności i stosuje do niego stopę podatku odpowiadającą temu dochodowi, obliczonemu w stosunku rocznym. Jeżeli z góry przewiduje się pobyt dłuższy niż sześć miesięcy, osoby te podlegają . nieograni= czonemu obowiązkowi podatkowemu (art. 3 ust. (4)."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "(1) Do dochodu małżonka dolicza się dochód drugiego małżonka sądownie nierozłączonego. Wymiaru dokonuje się w tym przypadku na imię męża. : .",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Dochody krewnych zstępnych dolicza się do dochodu Lawnege wstępnego, jeżeli mu służy prawo pobierania pożytków ze źródeł przychodów .tych zstępnych."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "(1) Dochody z udziału w spółce jawnej, wspólnej własności, wspólnym posiadaniu: lub wspólnym użytkowaniu opódatkowuje się. osobno dla każdego uczestnika w stosunku do jego udziału. W braku przeciwnego dowodu przyjmuje się, że udziały są równe.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Dochody komandytariusza i cichego spólnika uważa się za dochód z przedsiębiorstwa, \"Art. 17. (1) Jeżeli podatnik, pozostający w bezpośrednim lub pośrednim związku gospodarczym z osobą, mającą siedzibę lub miejsce zamieszkania za granicą, tak układa bieg swych interesów, że dzięki temu związkowi uzależniającemu go od tej-drugiej osoby lub będącemu szczególnie korzystnym dla osoby, mającej siedzibę lub miejsce zamieszkania za granicą, wcale nie wykazuje dochodu albo też wykazuje dochód „mniejszy od tego, jakiegoby należało oczekiwać, gdyby wspomniany związek nie istniał, wówczas dochód danego podatnika należy ustalić bez uwzględnienia obciążeń szczególnych, wynikających z powyższego. związku."
+    },
+    {
+     "type": "text",
+     "text": "(2) Jeżeli przewidziane w-ust. (1) ustalenie kwoty dochodu na podstawie ksiąg handlowych natrafia na trudności, wówczas dochód będzie ustalony na podstawie innych dowodów."
+    },
+    {
+     "type": "text",
+     "text": "(3) Przepisy dwu ustępów poprzedzających należy odpowiednio stosować również i wówczas, gdy podatnik wykorzystując swój związek gespoarczy z osobą, której przysługują szczegó!ne ulgi w podatku dochodowym albo też, dokonu'ąc tranzakcji z innym podatnikiem na warunkach \"rażąco korzystniejszych i odbiegających od stoso"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Dzionnik Ustaw Nr 2 a"
+    },
+    {
+     "type": "text",
+     "text": "wanych ogólnie norm w czasie i miejscu dokonywania tranzakcji, przerzuca całość lub część swego dochodu bądź na osobę korzystającą z ulg, bądź na innego podatnika i wskutek tego nie wykazuje dochodu w takiej wysokości, jakiej należałoby oczekiwać, gdyby wspomniany związek nie istniał lub gdyby wspomniana tranzakcja nie została zawarta. ~ - . Wysokość podatku."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "(1) Podatek wymierza się według następującej skali: :",
+   "children": [
+    {
+     "type": "text",
+     "text": "a5 Kwota dochodu © Stopa SE Złotych z__| podatku as ponad do \"la. :"
+    },
+    {
+     "type": "text",
+     "text": "1 12.000 18.000 4 2 18.000 24.000 1;5 3 24.000 30.000 2 4 30.000 36.000 2,5 5 36.000 42.000 8 6 42.000 |. 48.000 4 7 48.000 |\" - 54.000 5 8 54.000 > - 60.000 6 9 60.000 70.000 7 10 70.000 80.000 8 11 - — 80.000 90.000 9 12 \"90.000 100.000 10 13 100.000 110.000 11 14 - 110.000 120.000 12 15 120.000 130.000: 13- 16 130.000 140.000 -15 17 140.000 160.000 17: 18 |- 160.000 180,000 19 19 180.000 \"200.000 2 20 200.000 240.060 23 21 240.000 280.000 25 22 280.080 320.000 . 27 23 320.000 360.000 * 29 24 360.000 400.000. 31 25 - 400.000 450.000. , 33 26 450.000 500.000 35 27 500.000 550.600 37. 28 550.000 600.000 39 - 29 600.000 760.000 - 41 30 700.000 800.000 43 31 |- 800.000 900.000 45 32 900.000 1.000.000 47 33 1.000.000 1.200.000 50 34 1.200.000 1.400.000 53 35 1.400.000 1.600.000 56 - 36 . 1.600.000 1.800.000 59 37 1.800.000 2.000.000 62 38 2.000.000 - 65"
+    },
+    {
+     "type": "text",
+     "text": "Poz. 14 wę nn wn"
+    },
+    {
+     "type": "text",
+     "text": "_ (2) Podatek należy jednak wymierzać w ten sposób, aby 'z dochodu wyższego stopnia po potrąceniu podatku nie pozostało mniej niż zo” staje z najwyższego dochodu bezpośrednio niż= szego stopnia po potrąceniu podatku, na ten stopień pzzypadającego."
+    },
+    {
+     "type": "text",
+     "text": "(3) Jeżeli - po potrąceniu przypadającej. |kwoty podatkowej pozostaje z dochodu ustalo= nego do wymiaru podatku. mniej niż wynosi najwyższy dochód wolny od podatku, należy podatek wymierzyć tylko w wysokości nadwyżki dochodu ponad kwotę najwyższego dochodu wolnego od. podatku."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "(1) Spółdzielnie o znaczeniu ogólno\" gospodarczym, z wyjątkiem. spółdzielni kredy= towych, należące do związku rewizyjnego, opłacają podatek o 25°/, niższy od podatku przypadającego wedłu$ skali z art. 18 jednak nie przekraczający 331/3%/, dochodu. Wykaz tych spółdzielni .ustala Minister Skarbu i ogłasza w Dzienniku Urzędowym Ministerstwa Skarbu. _ (2) Instytucje kredytowe opłacają podatek w wysokości przypadającej według skali z art. 18, jednak nie przekraczający 50°/, dochodu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Minister Skarbu może na poszczególne lata podatkowe obniżać w drodze rozporządzeń stopę podatku ustaloną w art. 18 oraz . podwyższać kwotę dochodu wolnego od opo\" datkowania.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "(1) jeżeli podatnik ma na utrzymaniu więcej niż dwoje dzieci, podatek obniża _| sig o 25°/,, jeżeli ma więcej niż czworo dzieci podatek obniża się o 50°/,. Całkowite zwolnienie od podatku następuje wtenczas, jeżeli podatnik ma więcej niż 6-cioro dzieci na utrzymaniu. ; 5",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Zniżka, o której mowa w ust. (1), od: nosi się tylko do tych podatników, których do= chód nie przekracza 120.000 zł rocznie, z wyłączeniem podatników, o których mowa w art. 14 ust. (4)."
+    },
+    {
+     "type": "text",
+     "text": "(3) Za dzieci uważa się nieletnie dzieci ślubne, nieślubne, przysposobione i pasierbów do lat 18, jeżeli nie posiadają własnych Źródeł dochodu. , z"
+    },
+    {
+     "type": "text",
+     "text": "(4) Ta sama zniżka przysługuje: również na dzieci starsze, pobierające naukę lub odby= wające praktykę zawodową, do ukończenia przez nie 24 roku życia, jeżeli nie posiadają własnych źródeł dochodu."
+    },
+    {
+     "type": "text",
+     "text": "(5) Jeżeli podatnikiem jest kobieta, ulga, o której mowa w ustępach poprzedzających, następuje: w rozmiarze 25°/,, gdy ma na utrzymaniu więcej niż jedno dziecko, w rozmiarze 50°/,, gdy ma na utrzymaniu więcej niż troje dzieci. Całkowite zwolnienie następuje, gdy ma na utrzymaniu więcej niż czworo dzieci."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Podatek podwyższa się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_22/pkt_1",
+     "text": "o 20%, dla podatników w wieku ponad 18 lat, nieżonatych lub niezamężnych, nie mających na utrzymaniu dzieci i osiągających dochód ponad 60.000 zł rocznie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_22/pkt_2",
+     "text": "o 10°/, dla podatników żonatych lub zamężnych od lat przeszło dwóch, lecz nie mających na utrzymaniu dzieci, jeżeli podatnicy ci osiągają dochód ponad 80.000 zł.rocznie. ~",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Nadzwyczajne „okoliczności osłabiające zdolność płatniczą podatnika np. długotrwała choroba, nieszczęśliwy wypadek, śmierć pozostającego na utrzymaniu podatnika członka rodziny, koszty związane z urodzeniem dziecka itp. mogą być podstawą do zmniejszenia podatku i zaliczek na podatek. Władza skarbowa (wymiarowa lub odwoławcza) na wniosek podatnika może w tym przypadku odliczyć z dochodu = kwotę faktycznie z tego tytułu poniesionych wydatków, jeżeli uzna, że podatnik tej ulgi potrzebuje.",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Płatność podatku. .",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "(1) Upoważnia się Ministra Skarbu do wprowadzenia w drodze rozporządzenia obowiązku wpłacania zaliczek na podatek dochodowy dla wszystkich lub niektórych grup podatników. Rozporządzenie to określi sposób obliezania zaliczek i terminy ich płatności.",
+   "children": [
+    {
+     "type": "text",
+     "text": "_, (2) Podatnicy, którzy w terminie składania zezaań podatkowych o dochodzie zeznania te złożyli, powinai w tymże terminie uiścić dalszą zaliczkę na podatek w wysokości różnicy pomiędzy kwotą podatku przypadającego ód zeznanego dochodu, a sumą zaliczek należnych w myśl ust. (1); podatnicy, którzy jednak mimo ciążącego na nich obowiązku zezniń podatkowych nie złożyli, obowiązani są uiścić w tym terminie kwotę równającą się podatkowi wymierzonemu za poprzedni rok podatkowy, również po potrąceniu zaliczek należnych w myśl ust. (19."
+    },
+    {
+     "type": "text",
+     "text": "(3) Różnica pomiędzy kwotą podatku usta- _ loną przez władzę wymiarową za rok podatkowy, a kwotą przypadającą w myśl ust. (2) płatna jest w ciągu miesiąca od dnia doręczenia decyzii. - ;"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "Upoważnia się -Ministra Skarbu do zarządzenia poboru podatku dochodowego od niektórych grup podatników w formie ryczałtu bez ustalania kwoty dochodu w każdym poszczególnym przypadku. Rozporządzenie Ministra Skarbu ustali sposób zryczałtowania podatku oraz tevminy płatności.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Dział IIL",
+   "text": "~"
+  },
+  {
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "(1) Podatek dochodowy według przepisów działu niniejszego potiera się od dochodu osiągniętego z przedsiębiorstw (art. 8 ust. (2) pkt 3), jeżeli ustalona według przepisów działu II nadwyżka lub suma nadwyżek z tego Źródła sprostowana w myśl art. 27 przekracza w stosunku rocznym 400.000 zł.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Jeżeli księgami handlowymi przedsiębiorstw objęte są również i inne Źródła przychodów, wyniki wykazane w księgach uważa się za uzyskane z przedsiębiorstw. ,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "W celu ustalenia podstawy opo” datkowania według przepisów działu niniejszego od wyprowadzonej według przepisów działu Il nadwyżki.z przedsiębiorstw odlicza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_27/pkt_1",
+     "text": "ofiary na cele naukowe, kulturalne, oświatowe, sportowe, wyznaniowe, opieki społecznej, dobroczynne i ogólnej użyteczności;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_27/pkt_2",
+     "text": "podatek dochodowy obliczony według skali art. 18 od nadwyżki lub sumy nadwyżek z przedsiębiorstw.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "(1) Podatek wymierza się według następującej skali: 20°/, od pierwszych zaczętych 100.000 — zł ponad 400.000 — zł 300/, „skolei następnych,, 100.000—,, „ . 400.000 — ,, 40°/, m \" LL) m iły RU LU) . ” LL) 50*/a LL m o” Ly [U B p » mn ” m 60%, m ” ” o ” mmo * » o \" 70/4 LL » LL LU \"m LL) \" » . LEJ 80%/, od reszty dochodu. . :",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Podatek pobierany według przepisów działu niniejszego wraz z podatkiem przypadającym według przepisów działu II na nadwyżkę z przedsiębiorstw nie może przekroczyć 80°, nadwyżki z przedsiębiorstw stanowiącej. podstawę opodatkowania.."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "Podatek według przepisów działu niniejszego nie zostanie pobrany, a pobrany zo= stanie zwrócony, jeżeli podatnik przedstawi władzy skarbowej zaświadczenie właściwej władzy przemysłowej, że w roku podatkowym wykonał . zalecenia wynikające z planu gospodarczego „Państwa w szczególności zaś, ze dokonał inwestycyi zgodnych z planem gospodarczym Państwa.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "39",
+   "path": "art_39",
+   "text": "(1) Podatek d&chodowy według przepisów działu niniejszego płatny jest w terminie wyznaczonym do składania zeznań.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Różnica pomiędzy kwotą podatku ustaloną przez władzę wymiarową za rok podatkowy a kwotą przypadającą do zapłaty w myśl ust. (1) płatna jest w ciągu miesiąca od dnia doręczenia decyzji."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział IV",
+   "text": ""
+  },
+  {
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "(1) Przedsiębiorstwa państwowe i związków samorządu terytorialnego oraz przedsiębiorstwa i majątki pozostające pod zarządem państwowym lub związków samorządu terytorialnego niezależnie od tego, czy mają odrębną oso\" bowość prawną, jeżeli objęte są planem gospo” darczym Państwa, opłacają podatek w wysokości określonej odrębnymi przepisami, które normują zasady podziału ich zysków.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "(2) Podatek nie może być w każdym razie niższy niż:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_31/lit_a",
+     "text": "10°/, przy dochodzie rocznym „poka czającym \"ea zł,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_31/lit_b",
+     "text": "1%/, do 10% przy dochodzie rocznym nie przekraczającym 100: 000 zł, ato według skali -art. 18 ust. (1).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "Pudetnieys wymienieni w art. 31, _ obowiązani są do dnia 15 każdego miesiąca do uiszczania zaliczek miesięcznych na podatek: dochodowy w wysokości ustalonej ptzez Ministra Skarbu. - Art. 33. Upoważnia się Ministra Skiba do ustalenia w drodze rozporządzenia sposobu zbilansowania zysków, osiągniętych ze sprzedaży surowców, półfabrykatów i wyrobów gotowych, pochodzących z remanentów oszacowanych do bilansu otwarcia w 1945 r. po cenach niższych od rynkowych. ;",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "34",
+   "path": "art_34",
+   "text": "Minister Skarbu w porozumieniu z Prezesem . Centralnego Urzędu Planowania określa, które przedsiębiorstwa objęte zostały planem gospodarczym Państwa. '",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "35",
+   "path": "art_35",
+   "text": "(1) Podatek dochodowy według przepisów działu niniejszego płatny jest w terminie wyznaczonym do składania zeznań. . (2) Różnica pomiędzy kwotą podatku ustaloną przez władzę w wymiarową za rok podatkowy, a kwotą przypadającą „do zapłaty według zeznania, po potrąceniu uiszczonych zaliczek miesięcznych (art. 32), płatna jest w ciągu miesiąca od dnia doręczenia decyzji.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Dział V",
+   "text": "."
+  },
+  {
+   "type": "art",
+   "num": "36",
+   "path": "art_36",
+   "text": "(1) Z dniem wejścia w życie niniejszego dekretu tracą moc wszelkie przepisy",
+   "children": [
+    {
+     "type": "text",
+     "text": "= Poz. 14 i 15"
+    },
+    {
+     "type": "text",
+     "text": "w przedmiotach nim gabkmowinich, w szczególe ności:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_36/pkt_1",
+     "text": "przepisy art. 1—19, 21—40 i 46— 48. ustawy o EKG podatku dochodo= wym (Dz. U. R. P. z 1936 r. Nr 2, poz. 6) wraz z późniejszymi zmianami;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_36/pkt_2",
+     "text": "dekret z dnia 14 stycznia 1945r. o pobórze 50%, dodatku wojennego do państwowego podatku dochodowego- (Dz. U. R. P. Nr3, poz. 8);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_36/pkt_3",
+     "text": "przepisy ustaw szczególnych w częściach dotyczących podmiotowych zwolnień od podatku.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Przepisy wymienione w ust. (1) stosuje się jednak do podatku dochodowego, przypadającego za czas do dnia.31 grudnia 1945 r."
+      },
+      {
+       "type": "text",
+       "text": "(3) Upoważnia się Ministra Skarbu do zastosowania przepisów działu IV niniejszego dekretu do dochodów osiągniętych w roku podat= kowym 1945 r. (art. 14 ust. (2) przez podatale kéw, wymienionych w art. 2 ust. (2) i (4)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "37",
+   "path": "art_37",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "38",
+   "path": "art_38",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 stycznia 1946 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: - Bolesiaw Bierut i Prezes Rady Ministrów: - . Edward Osóbka- Morawski'"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: - Konstanty Hiwadi"
+    },
+    {
+     "type": "text",
+     "text": "15 DB.K RET"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 8 stycznia 1946 r. o zmianie prawa górniczego. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. . P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje: ."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W art. 1 ust. (1) prawa górniczego (Dz. U. R. P. z 1930 r. Nr 85, poz. 654), w brzmieniu dekretu Prezydenta Rzeczypospolitej z dnia 22 listopada 1938 r. (Dz. U. R.P. Nr 91, poz. 627). dodaje się nowy pkt 3) w brzmieniu: „3) na całym obszarze Państwa: a) glinki, o ile nadają się do wyrobów ogniotrwałych, kwasoodpornych i ceramicznych z wyjątkiem wyrobów cegielnianych oraz b) kwere \"1 kwarcyty, łupki ogniotrwałe i kwarcytowe.",
+   "children": [
+    {
+     "type": "text",
+     "text": "kaoliny, bauksyty, magnezyty i i piaski og= niotrwałe”."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu po” rucza się Ministrowi Przemysłu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie po upiywie 14 dni od dnia ogłoszenia. * Prezydent Krajowej Rady Narodowej: Bolesław Bierut Prezes Rady Ministrów: ' Edward Osóbka - Morawski w/z Minister Przemysiu: Wacław Ciszewski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

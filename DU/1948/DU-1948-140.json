@@ -1,0 +1,401 @@
+{
+ "eli": "DU/1948/140",
+ "title": "Dekret z dnia 14 kwietnia 1948 r. o zmianie dekretu z dnia 3 lutego 1947 r. o rejestracji i umarzaniu niektórych dokumentów na okaziciela, emitowanych przed 1 września 1939 r.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/140/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 kwietnia 1948 r."
+  },
+  {
+   "type": "text",
+   "text": "© zmianie dekretu z dnia 3 lutego 1947 r. o rejestracji i umarzaniu niektórych dokumentów na okaziciela, emitowanych przed 1 września 1939 r."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej oraz ustawy z dnia 9 marca 1948 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 15, poz. 107) — Rada Ministrów postanawia, a Rada Państwa zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W dekrecie z dnia 3 lutego 1947 r. b rejestracji i umarzaniu niektórych dokumentów na okaziciela emitowanych przed dniem 1 września 1939 r. (Dz. U. R. P. Nr 22, poz. 88) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 1 ust. 1 otrzymuje brzmienie: „l. Posiadacze dokumentów na okaziciela, emitowanych przed dniem 1 września 1939 r, a w dniu tym nie przedawnionych, obowiązani są przedstawić je do rejestracji w terminie do dnia 31 marca 1949 r.';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 2 wprowadza się następujące zmiany:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_2/lit_a",
+       "text": "ust. 2 otrzymuje brzmienie: „2. Zaświadczenia mogą być wydawane tylko na podstawie zachowanych ksiąg lub innych pisemnych dowodów wystawiającego zaświadczenie, z których wynika, że dokumenty znajdowały się w chwili ich utraty w posiadaniu lub dzierżeniu osób, upoważnionych w myśl ust. 1 do wydawania zaświadczeń. Zaświadczenie winno zawierać kolejny numer spisu wydanych zaświadczeń, imię i nazwisko lub nazwę osoby uprawnionej, jej miejsce zamieszkania lub siedzibę oraz dokładne określenie utraconych dokumentów ze wskazaniem ich serii, numerów, jak również powołanie się na księgi lub inne pisemne dowody, które stanowiły podstawę wydania zaświadczenia, oraz, w miarę możności, czas ich utraty. Pod podpisami należy w sposób czytelny podać imiona, nazwiska i stanowiska osób podpisanych. Wraz z zaświadczeniem wydaje się jego poświadczony odpis, który winien posiadać wszystkie wyżej wymienione cechy zaświadczenia. ';",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "dodaje się nowe ust. 3 1 4 w brzmieniu: „3. Instytucje, uprawnione w myśl ust. 1 do wydawania zaświadczeń, są obowiązane do prowadzenia szczegółowego spisu wydanych zaświadczeń.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "Wystawca oraz wszystkie placówki rejestracyjne uprawnione są do badania prawidłowości wydanych zaświadczeń.';",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/ust_4/pkt_3",
+       "text": "w art. 3 wprowadza się następujące zmiany:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_1/ust_4/pkt_3/lit_a",
+         "text": "w ust. 1 dodaje się na końcu dwa nowe zdania w brzmieniu:",
+         "children": [
+          {
+           "type": "text",
+           "text": "„Wystawcy obowiązani są do dnia 31 maja 1948 r. złożyć instytucji, która sprawuje z ramienia Ministra Skarbu nadzór nad rejestracją, wykaz swoich placówek rejestracyjnych z podaniem ich adresów. Instytucja sprawująca nadzór ogłosi do dnia 30 czerwca 1948 r. w Monitorze Polskim wykaz placówek rejestracyjnych, zgłoszonych przez wystawców ze wskazaniem ich adresów. ';",
+           "quoted": true
+          },
+          {
+           "type": "text",
+           "text": "b) ust. 2 otrzymuje brzmienie: „2. Rejestrację dokumentów emitowanych przez wystawców, których placówki rejestracyjne nie zostały umieszczone w wykazie, przeprowadzi na żądanie posiadacza dokumentu izba przemysłowo-handlowa, właściwa według ostatniej siedziby wystawcy, a w braku takiej izby w kraju Izba Przemysłowo-Handlowa w Warszawie.';",
+           "quoted": true
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_1/ust_4/pkt_4",
+       "text": "art. 4 otrzymuje brzmienie: „l. Rejestrację dokumentów znajdujących się za granicą przeprowadzą polskie urzędy konsularne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "O rozpoczęciu rejestracji urząd konsularny winien ogłosić w sposób przyjęty w kraju, na który działalność urzędu się rozciąga.\";",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_1/ust_2/pkt_5",
+       "text": "w art. 5 wprowadza się następujące zmiany:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_1/ust_2/pkt_5/lit_a",
+         "text": "w ust.",
+         "children": [
+          {
+           "type": "text",
+           "text": "1 dodaje się na końcu zdanie w brzmieniu: » Gdy rejestracja dokonywana jest na pod« stawie zaświadczenia (art. 2), posiadacz tego za+ świadczenia obowiązany jest złożyć jego zaświad< czony odpis dla dołączenia do protokółu. ';"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_1/ust_2/pkt_5/lit_b",
+         "text": "ust. 3 otrzymuje brzmienie: „3. Wykazy, sporządzone przez polskie urzędy, konsularne wraz z protokółami rejestracyjnymi, winny być niezwłocznie po zakończeniu rejestra< cji przesłane za pośrednictwem instytucji sprawującej nadzór nad rejestracją wystawcom dokumentów lub zgodnie ż art. 3 właściwym izbom przemysłowo-handlowym.“;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_1/ust_2/pkt_5/lit_c",
+         "text": "po ust. 3 dodaje się nowy ustęp, który oznacza się jako ust. 4, w brzmieniu: „4. Wystawcy i izby przemysłowo-handlowe obowiązani są w terminie do dnia 1 lipca 1949 r. przesłać instytucji, sprawującej nadzór nad reje~ stracją, ogólne zestawienie wyników rejestracji. '£",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_1/ust_2/pkt_5/lit_d",
+         "text": "dotychczasowemu ust. 4, który oznacza się jako ust. 5, nadaje się brzmienie: „5. Nadzór nad rejestracją sprawuje Minister Skarbu za pośrednictwem wyznaczonej przez~siebie instytucji.“;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_1/ust_2/pkt_6",
+       "text": "w art. 7 wprowadza się następujące zmia-",
+       "children": [
+        {
+         "type": "text",
+         "text": "ny:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_1/ust_2/pkt_6/lit_a",
+         "text": "ust. 1 i 2 otrzymują brzmienie: „l. Po upływie terminu rejestracji wystawca po uprzednim uzyskaniu zezwolenia Ministra Skarbu obowiązany jest wydać osobie uprawnionej duplikaty lub świadectwa tymczasowe w zamian dokumentów zarejestrowanych na podstawie zaświadczeń. :",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "W przypadku zbiegu rejestracji (kilkakrotnego zarejestrowania) lub zbiegu wniosku 0 umorzenie dokumentu z jego rejestracją, wystawca wyda duplikat lub świadectwo tymczasowe zgodnie z orzeczeniem sądowym. *;",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_2/lit_b",
+       "text": "dodaje się ust. 3 w brzmieniu: „3. Wydawanie duplikatów i świadectw tymczasowych przez izby przemysłowo-handlowe w zamian dokumentów zarejestrowanych ureguluje rozporządzenie Ministra Skarbu wydane w porozumieniu z Ministrami Sprawiedliwości oraz Przemysłu i Handlu.';",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_1/ust_2/pkt_7",
+       "text": "art. 8 otrzymuje brzmienie: „Art. 8. Koszty rejestracji ponosi wystawca. W przypadkach przewidzianych w art. 3 ust. 2 oraz innych zasługujących na uwzględnienie Minister Skarbu jest upoważniony do tymczasowego pokrywania kosztów rejestracji na rachunek wystawców w granicach sum przewidzianych w budżecie.\";",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_1/ust_2/pkt_8",
+       "text": "w art. 9 wprowadza się następujące zmia-",
+       "children": [
+        {
+         "type": "text",
+         "text": "ny:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_1/ust_2/pkt_8/lit_a",
+         "text": "ust. 1 otrzymuje brzmienie: _ „l. Kto w czasie od 1 września 1939 r. do dnia 17 grudnia 1945 r. utracił dokument 'na okaziciela wskutek zniszczenia, zagubienia lub bezprawnego zaboru, może, o ile dokument ten nie został na jego żądanie zarejestrowany na podstawie zaświadczenia (art. 2), złożyć wniosek o umorzenie dokumentu w sądzie miejsca, w którym ma siedzibę wystawca lub właściwa do przeprowadzenia rejestracji izba przemysłowo-handlowa.\";",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_1/ust_2/pkt_8/lit_b",
+         "text": "w ust. 3 po wyrazach „wskazać jego nu- ' mer“ dodaje się wyrazy „i inne cechy';",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_1/ust_2/pkt_9",
+       "text": "art. 10 otrzymuje brzmienie: „Art. 10. L. Wystawcy (izby przemysłowo-handlowe) obowiązani są na podstawie doręczonych im odpisów wniosków o umorzenie prowadzić wykaz dokumentów, zgłoszonych do umorzenia. Dla każdego rodzaju dokumentów winien być prowadzony oddzielny wykaz.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Wystawcy (izby przemysłowo-handlowe) obowiązani są w ciągu 2 miesięcy po ukończeniu rejestracji przedstawić właściwym sądom wykazy zarejestrowanych dokumentów. ';",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_1/ust_2/pkt_10",
+       "text": "w art. 12 ust. 1 po wyrazie „sąd* dodaje się wyrazy: „po otrzymaniu wykazów wymienionych w art. 10';",
+       "children": [
+        {
+         "type": "text",
+         "text": "Il) w art. 18 ust. 1 otrzymuje brzmienie: „l. Przepisów niniejszego dekretu nie stosuje się do: -"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/ust_2/pkt_1",
+       "text": "dokumentów na okaziciela, emitowanych przez Państwo, -",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/ust_2/pkt_2",
+       "text": "dokumentów emitowanych za granicą,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/ust_2/pkt_3",
+       "text": "kuponów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_1/ust_2/pkt_4",
+       "text": "banknotów i innych dokumentów płatnych za okazaniem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_1/ust_2/pkt_5",
+       "text": "dokumentów z zastrzeżeniem nieumarzalno- Sci.“;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "art_1/ust_2/pkt_12",
+       "text": "w art. 19 wprowadza się następujące zmiany:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_1/ust_2/pkt_12/lit_a",
+         "text": "w ust. 1 po wyrazach „zgłosić wystawcy dodaje się wyrazy „w siedzibie jego zakładu centralnego lub, o ile ma zastosowanie ust. 2 art. 3, we właściwej izbie przemysłowo-handlowej‘;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_1/ust_2/pkt_12/lit_b",
+         "text": "ust. 3 nadaje się brzmienie: „3. Uprawnienia osób, które zgłosiły utratę dokumentów, określi rozporządzenie Ministra Skarbu, wydane w porozumieniu z Ministrami Sprawiedliwości oraz Przemysłu i Handlu.';",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "art_1/ust_2/pkt_13",
+       "text": "art. 20 otrzymuje brzmienie: „Art. 20. 1. Sprawy z wniosków o umorzenie dokumentów na okaziciela, podlegających przepisom niniejszego dekretu, wszczęte przed dniem jego wejścia w życie, mogą być na wniosek osoby uprawnionej rozpoznawane według dotychczasowych przepisów lub na podstawie przepisów niniejszego dekretu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Zgłoszenie wniosku o umorzenie dokumentu przed wejściem w życie niniejszego dekretu nie stoi na przeszkodzie do zarejestrowania dokumentu na podstawie zaświadczenia przewidzianego w art. 2. Zarejestrowanie, dokumentu powoduje umorzenie postępowania sądowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Prawomocne postanowienia sądu o umorzeniu dokumentów, „wydane na podstawie dotychczasowych przepisów, podaje się do publicznej wiadomości przez wywieszenie w lokalu 'sądu.';",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "art_1/ust_3/pkt_14",
+       "text": "po art. 20 dodaje się nowy artykuł, który oznacza się jako art. 21, w brzmieniu: „Art. 21. Osoby uprawniona do działania w imieniu wystawcy, które nie dopełniły obowiązku zgłoszenia swoich placówek rejestracyjnych i ich adresów (art. 3, ust. 1), podlegają karze grzywny do 390.000 zł. Do orzekania właściwe są powiatowe władze administracji ogólnej.';",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "art_1/ust_3/pkt_15",
+       "text": "art. 21, który oznacza się numerem kolejnym 22, otrzymuje następujące brzmienie: 22, otrzymuje następujące brzmienie: „Art. 22. Wykonanie niniejszego dekretu porucza się Ministrom: Sprawiedliwości, Skarbu, Spraw Zagranicznych oraz Przemysłu i Handlu.“;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "art_1/ust_3/pkt_16",
+       "text": "art. 22 otrzymitje kolejny numer 23.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "W przypadkach wyznaczenia przedstawiciela przez sąd rejestrowy, zgodnie z dotychczasowym brzmieniem art. 3 dekretu z dnia 3 lutego 1947 r., przedstawiciel ten przekaże wszelkie akta i dokumenty dotyczące rejestracji właściwej izbie przemysłowo-handlowej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Czynności dokonane zgodnie z przepisami dekretu z dnia 3 lutego 1947 r. o rejestracji i umarzaniu niektórych dokumentów na okaziciela, emitowanych przed dniem 1 września 1939 r., do dnia wejścia w życie niniejszego dekretu, pozostają w mocy.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrom: Sprawiedliwości, Skarbu, Spraw Zagranicznych oraz Przemysłu i Handlu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Upoważnia się Ministra Skarbu do ogłoszenia w Dzienniku Ustaw Rzeczypospolitej Polskiej jednolitego tekstu dekretu z dnia 3 lutego 1947 r. o rejestracji i umarzaniu niektórych dokumentów na okaziciela emitowanych przed dniem 1 września 1939 r. (Dz. U. R. P. Nr 22, poz. 88), z uwzględnieniem zmian wprowadzonych niniejszym dekretem.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Dekret niniejszy wchodzi w życie z dniem 1 maja 1948 r. „« Prezydent Rzeczypospolitej: Bolesław Bierut",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Józef Cyrankiewicz Minister Sprawiedliwości: Henryk Świątkowski Minister Skarbu: Konstanty Dąbrowski Minister Spraw Zagranicznych: Zygmunt Modzelewski Minister Przemysłu i Handlu: Hilary Mine"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

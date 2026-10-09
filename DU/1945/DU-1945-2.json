@@ -1,0 +1,193 @@
+{
+ "eli": "DU/1945/2",
+ "title": "Dekret z dnia 6 stycznia 1945 r. o deponowaniu i wymianie banknotów Banku Emisyjnego w Polsce.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/2/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET z dnia 6 stycznia 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "o deponowaniu i wymianie banknotów Banku Emisyjnego w Polsce."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Bilety złotowe Banku Emisyjnego w Polsce emitowane przez okupanta, nazywane poniżej banknotami „krakowskimi”, przestają być obiegowym środkiem płatniczym na obszarze Państwa Polskiego z dniem 10 stycznia 1945 r.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "W czasokresie od 10 stycznia 1945 r. do. 28 lutego 1945 r. każdy posiadacz banknotów „krakowskich” obowiązany jest: złożyć je jednorazowo w całości w urzędzie skarbowym lub przedsiębiorstwie bankowym, określonym przez Ministra Skarbu. w",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "(1) Złożone banknoty „krakowskie” będą wymienione na bilety skarbowe z napisem „Narodowy Bank Polski” po kursie jeden do jednego na rzecz:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_3/lit_a",
+     "text": "przedsiębiorstw bankowych, osób prawnych prawa publicznego, przedsiębiorstw państwowych lub będących pod zarządem państwowym, przedsiębiorstw stanowiących „własność związków samorządowych— w: wysokości, którą określi Minister Skarbu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_3/lit_b",
+     "text": "instytucyj samorządowych, społecznych, religijnych, kulturalnych, oświatowych, związków „i stowarzyszeń dobroczynnych oraz wydawnictw — w wysokości, którą określi komisarz wojewódzki po zasięgnięciu opinii właściwego wojewody; od decyzji komisarza wojewódzkiego służy zainteresowanym odwołanie do - Ministra Skarbu w, terminie 7-dniowym od dnia zawiadomienia o decyzji;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_3/lit_c",
+     "text": "zakładów rzemieślniczych, zatrudniają cych oprócz członków rodziny nie więcej niż ' jednego pracownika i przedsiębiorstw prywatnych posiadających karty rejestracyjne na rok 1944 według działów: le, Ile, Vabe, VII, VII, X i XI — nie więcei niż po zł 2.000.— na zakład - lub przedsiębiorstwo;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_3/lit_d",
+     "text": "zakładów rzemieślniczych, zatrudniających oprócz członków rodziny więcej niż jednego - pracownika, spółdzielni oraz wszystkich innych. przedsiębiorstw",
+     "children": [
+      {
+       "type": "text",
+       "text": "\\ lab zakładów ' nieobjętych lit. a — e — w wysokości, którą określi komisja dla. spraw wymiany banknotów „kra- ' kowskich” przy urzędzie skarbowym;"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_3/lit_e",
+     "text": "wszystkich osób fizycznych nie będą- . cych właścicielami przedsiębiorstw lub zakładów objętych lit. c i d — nie więcej niż po zł 500.—",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Prawo do wymiany przysługuje osobom fizycznym, które w dniu złożenia banknotów „krakowskich” mają ukończonych 18 lat."
+      },
+      {
+       "type": "text",
+       "text": "(3) Osobom wojskowym w'służbie czynnej, wymiany banknotów „krakowskich” dokona jednorazowo. płatnik jednostki wojskowej, do której wojskowy przynależy — w granicach złożonej kwoty w banknotach „krakowskich”, nie więcej jednak niż w wysokości jednomiesięcznej pensji. '"
+      },
+      {
+       "type": "text",
+       "text": "(4) Część kwoty złożonej, która nie uległa wymianie, pozostaje w depozycie."
+      },
+      {
+       "type": "text",
+       "text": "(5) Wymiana banknotów '„krakowskich” nastąpi jedynie na rzecz osób fizycznych i prawhych, mających zamieszkanie, względnie siedzibę na obszarze wyzwolonym do dnia ogłoszenia . niniejszego dekretu, o ile na tym obszarze banknoty „krakowskie” były dopuszczone do obiegu jako środek płatniczy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "(1) Przy każdym urzędżie skarbowym tworzy się komisję dla spraw wymiany banknotów „krakowskich” (art. 3 ust. (1) lit. d). ; Skład komisji jest następujący:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_4/lit_a",
+     "text": "naczelnik urzędu skarbowego jako prze-_ wodniczący,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_4/lit_b",
+     "text": "przedstawiciel właściwej rady narodo-. wej,",
+     "children": [
+      {
+       "type": "text",
+       "text": "- - €) przedstawiciel referatu przemysłowo-bandlowego przy starostwie powiatowym, a-'w miastach wydzielonych przedstawiciel wydziału przemysłowo - handlowego - urzędu wojewódzkiego."
+      },
+      {
+       "type": "text",
+       "text": "(2) Od decyzji komisji służy strónie w terminie 7 -dniowym od dnia zawiadomienia o decyzji \"odwołanie do komisarza wojewódzkiego wyzna- _ezonego pr?ez Ministra Skarbu. (3), Podjęcie sumy z wymiany oznacza zrzeczenie się prawa odwołania:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "‘Minister Skarbu może w wyjątkowych wypadkach gospodarczo -uzasadnionych zezwolić na dokonanie wymiany banknotów",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "„krakowskich” do pełnej wysokości kępa: wanej sumy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "© Art. 6. (1) Kto wykracza przeciw prze- „pisom niniejszego dekretu lub rozporządzeń i zarządzeń na jego podstawie wydanych, pod-. lega karze grzywny do jednego miliona złotych."
+    },
+    {
+     "type": "text",
+     "text": "(2) Nadto sąd orzeknie przepadek za- . kwestionowanych banknotów na rzecz Skarbu Państwa."
+    },
+    {
+     "type": "text",
+     "text": "(3) Do orzekania o przestępstwach przewidzianych w 'ust. (1) są właściwe sądy grodzkie."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Wykonanie. niniejszego dekretu porucza się Ministrowi Skarbu w porozumieniu z Ministrami: Obrony Narodowej, Administracji Publicznej i Sprawiedliwości. .",
+   "children": [
+    {
+     "type": "text",
+     "text": "— . Poz. Żi 3"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Dekret niniejszy wchodzi w życie z dniem 10 stycznia 1945 r. Prezydent Kajeya Rady Narodowej: „Bołesław Bierut Prezes Rady Ministrów : Edward Osóbka - Morawski Minister Obrony Narodowej: Michał Rola-Żymierski generał broni „Minister Administracji Publicznej: Józef Maślanka Minister Skarbu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Konstanty Dąbrowski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Sprawiedliwości: Edmund Zalewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

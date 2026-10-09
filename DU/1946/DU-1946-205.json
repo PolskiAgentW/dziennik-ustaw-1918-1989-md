@@ -1,0 +1,90 @@
+{
+ "eli": "DU/1946/205",
+ "title": "Dekret z dnia 25 czerwca 1946 r. o dodatku przejściowym do zaopatrzeń weteranów powstań narodowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/205/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 czerwca 1946 r."
+  },
+  {
+   "type": "text",
+   "text": "o dodatku przejściowym do zaopatrzeń weterenów powstań narodowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Do zaopatrzeń, wypłacanych na podstawie ustawy z dnia 23 marca 1922 r. w przedmiocie zaonatrzenia weteranów powstań narodowych z 1831 r., 1848 r. i 1863 r. sz wdów po nich (Dz. U. R. P. Nr 26, poz. 212) z późniejszymi zmianami (Dz. U. R.P. z 1927r. Nr 88, poz. 791 i Dz. U.R.P. z 1938 r. Nr 25, poz. 221). ustanawia się dodatek przejściowy, który będzie wypłacany do czasu unormowania stosunków gospodarczych. Dodatek ten wynosi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "dla weterana samotnego 800 zł mies.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": ", i żonatego 1.275, „",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "„ wdowy po weteranie 675, .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 stycznia 1946 r. Prezydent Krajowej Rady Narodowej: Bolesław Bierut",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka-Morawski"
+    },
+    {
+     "type": "text",
+     "text": "w/z Minister Skarbu: Leon Kurowski"
+    },
+    {
+     "type": "text",
+     "text": "Tłoczomo z polecenia Ministra Sprawiedliwości w Drukerni Ministerstwa Sprawiedliwości w Łodzi, ul. Kilińskiego 93."
+    },
+    {
+     "type": "text",
+     "text": "Cena si 8."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,74 @@
+{
+ "eli": "DU/1945/63",
+ "title": "Dekret z dnia 11 kwietnia 1945 r. o podziale Ministerstwa Pracy, Opieki Społecznej i Zdrowia, utworzonego ustawą z dnia 31 grudnia 1944 r. (DZ.U.R.P. nr 19, poz. 99).",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/63/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET = z dnia 11 kwietnia 1945 r. _© podziale Ministerstwa Pracy, Opieki Społecznej i Zdrowia, utworzonego ustawą z dnia 31 grudnia 1944 r. (Dz. U. R. P. Nr 19, poz. 99). Na podstawie ustawy z dnia 3 stycznia"
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Wykonanie niniejszego dekretu po- 1945 r. o trybie wydawania dekretów, z mocą rucza się Prezesowi Rady Ministrów. ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia a Prezydium Krajowej Rady",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Narodowej zatwierdza, co następuje:",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Znosi się dotychczasowe Ministerstwo Pracy, Opieki Społecznej i Zdrowia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Tworzy się następujące Ministerstwa:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "Pracy i Opieki Społecznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "Zdrowia. ~",
+     "children": [
+      {
+       "type": "text",
+       "text": ". : Rady Naród ."
+      },
+      {
+       "type": "text",
+       "text": "Prezydent Krajowej Rady e owej Bolesław Bierut"
+      },
+      {
+       "type": "text",
+       "text": "Prezes Rady. Ministrów: Edward Osóbka- Morawski"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,105 @@
+{
+ "eli": "DU/1945/282",
+ "title": "Dekret z dnia 26 października 1945 r. o uzupełnieniu przepisów prawa lotniczego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/282/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 października 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "o uzupełnieniu przepisów prawa lotniczego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W rozporządzeniu Prezydenta Rzeczypospolitej Polskiej z dnia 14 marca 1928 r. o prawie lotniczym (Dz. U. R.P. z 1935 r. Nr 69, poz. 437) dodaje się po art. 73 nowy art. 73a o brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Art. 73a. (1) Kto",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) przez zaoranie lub w inny sposób samowolnie przekształca w całości lub w części teren lotniska, albo",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) uszkadza lub czyni niezdatnym do użytku znajdujące się na lotnisku urządzenia pomocnicze dla potrzeb lotnictwa, podlega karze więzienia do lat 5 lub aresztu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(2) Jeżeli czyn, określony w ust. (1), spo” wodował wielką szkodę dla Państwa, sprawca podlega karze więzienia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "(3) Jeżeli sprawca działa nieumyślnie, podlega karze aresztu do 2 lat lub grzywny do 100.000 zi“."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Mipistrom: Obrony Narodowej, Komunikacji, Sprawiedliwości i Administracji Publicznej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski Minister Obrony Narodowej: Michał Żymierski Marszałek Polski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Komunikacji: Jan Rabanowski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Sprawiedliwości:"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Henryk Świątkowski",
+     "children": [
+      {
+       "type": "text",
+       "text": "w/z Minister Administracji Publicznej: Władysław Wolski"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

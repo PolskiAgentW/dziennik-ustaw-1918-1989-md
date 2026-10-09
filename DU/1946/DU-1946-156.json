@@ -1,0 +1,410 @@
+{
+ "eli": "DU/1946/156",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 10 maja 1946 r. o przemiale zbóż i o opłatach przemiałowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/156/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 maja 1946 r."
+  },
+  {
+   "type": "text",
+   "text": "o przemiale zbóż i o opłatach przemiałowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 dekretu Polskiego Komitetu Wyzwolenia Narodowego z dnia 25 października 1944 r. o zwalczaniu spekulacji i lichwy wojennej (Dz. U. R. P. Nr9, poz. 49), zmienionego dekretem Polskiego Komitetu Wyzwolenia Narodowego z dnia 20 listopada 1944 r. (Dz. U. R.P. Nr 12, poz. 63), zarządzam, co następuje: § 1. Przemiał zbóż może odbywać się wyłącznie na zasadach podanych w niniejszym rozporządzeniu. § 2. 1. Ustala się następującą najniższą dopuszczalną wysokość procentową przemiału:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "dla żyta — 90°/,,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "dla pszenicy — 80°/,,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "dla jęczmienia i innych zbóż na kasze — 70°/,.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Minister Aprowizacji i Handlu może:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "ust_2/lit_a",
+     "text": "zezwolić na przemiał procentowo niższy, aniżeli wskazany w ust. 1; przemiał ten będzie dokonywany w określonych młynach i dla ściśle określonych celów (wyżywienie dzieci, chorych itp.), + b) określić uprawnionych do sprzedaży mąki pochodzącej z takiego przemiału.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozkurz wraz z doczyszczeniem zboża nie może. być wyższy niż 4°/, przemielonego zboża.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Wszelkie produkty uboczne, pochodzące z przemiału, jak otręby, łuski i inne odpadki, podlegają wraz z produktami głównymi przemiału wydaniu właścicielowi zboża, oddanego do przemiału, z zastrzeżeniem przepisów $§ 5 i 6.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Produkty główne i uboczne, pochodzące z przemiału zboża na zlecenie państwowych władz aprowizacyjnych, stanowią własność Pań- \" stwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przedsiębiorstwa młynarskie pobierają za przemiał (przemiał zwykły) opłaty tylko w naturze (miarki) i w wysokości:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/ust_1/lit_a",
+       "text": "od 100 kg przemielonego żyta — 14 kg ziarna,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/ust_1/lit_b",
+       "text": "od 100 kg innego zboża — 16 kg ziarna.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Przedsiębiorstwa młynarskie obowiązane są odstąpić na rzecz Państwa do dyspozycii Ministerstwa Aprowizacji i Handlu po cenach urzędowych :",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/ust_2/lit_a",
+       "text": "z każdych pobranych 14 kg (ust. 1 pkt a) — 4 kg,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/ust_2/lit_b",
+       "text": "z PÓZ pobranyeh 16 kg (ust. pkt b) — 6 kg.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Resztę deb pochodzącego z opłat w naturze, po przekazaniu części należnej Państwu (ust. 2), obowiązane są przedsiębiorstwa . młynarskie odstąpić do dyspozycji Ministerstwa Aprowizacji i Handlu po cenach wolnorynkowych, ustalonych przez wojewódzkie komisje notowań cen.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Rolnikom (posiadaczom gospodarstw rolnych) służy prawo przemiału ulgowego na podstawie zezwolenia właściwego zarządu gminnego w wysokości 100 kg zboża na jedno gospodarstwo miesięcznie lub 300 kg jednorazowo kwartalnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Zarząd gminny prowadzi rejestr wydanych zezwoleń na przemiał ulgowy z załączonymi do niego odpisami udzielonych zezwoleń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Opłaty w naturze (miarki) » za . przemiał ulgowy wynoszą:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/ust_3/lit_a",
+       "text": "od 100 kg żyta — 11 kg ziarna,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/ust_3/lit_b",
+       "text": "od 100 kg innego zboża — 13 kg ziarna.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Przedsiębiorstwa młynarskie obowiązane są odstąpić na rzecz Państwa do dyspozycji Ministerstwa Aprowizacji i Handlu po cenach urzędowych :",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/ust_4/lit_a",
+       "text": "z każdych pobranych 11 kg (ust. 3 pkt a) — 4 kg ziarna,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/ust_4/lit_b",
+       "text": "z każdych pobranych 13 kg (ust. 3 pkt b)—6' kg ziarna.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Przepis § 5 ust. 3 co do reszty zboża pochodzącego z miarek należnych przedsiębiorstwu młynarskiemu stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Najwyższe dopuszczalne opłaty za przemiał zboża na zlecenie władz aprowizacyjnych (przemiał urzędowy) wynoszą:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/ust_1/lit_a",
+       "text": "od 100 kg żyta lub pszenicy przy przemiale na mąkę razową 96°/, — zł 80,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/ust_1/lit_b",
+       "text": "od 100 kg żyta przy przemiale na mąkę 90% i 6 kg otrąb — zł 80,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_7/ust_1/lit_c",
+       "text": "od 100 kg jęczmienia lub innego zboża przy przemiale na kaszę 10*/o i 26 kg otrąb — zł 80,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_7/ust_1/lit_d",
+       "text": "od 100 kg żyta lub pszenicy przy przemiale na mąkę pytlową 80%, i 16 kg otrąb — zł 80.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przedsiębiorstwa młynarskie obowiązane są w pierwszej kolejności do przemiału zboża na zlecenie władz aprowizaeyjnych.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Minister Aprowizacji i Handlu może wyżej wymienioną opłatę za przemiał obniżyć dla poszczególnych kategorii młynów, które ze względu na wysoki stopień zmechanizowania produkcji bądź inne warunki lokalne mają niższą rzeczywistą kalkulację kosztów przemiału. § 8. Minister Aprowizacji i Handlu ustala:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "tryb zgłaszania i zakupywania niwiek oraz zapłaty za nie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "tryb przyjmowania do przemiała zboża od władz wojskowych i sposób rozrachunku z tymi władzami.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Przedsiębiorstwa młynarskie obowiązane są prowadzić prawidłowe księgi handlowe oraz specjalne księgi przemiału z uwidocznieniem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_9/ust_1/lit_a",
+       "text": "nazwiska i adresu osób, które oddały zboże do przemiału,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_9/ust_1/lit_b",
+       "text": "rodzaju zbóż i procentu przemiału,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_9/ust_1/lit_c",
+       "text": "ilości zboża przyjętego do zwykłego (§ 5), ulgowego (§ 6) i urzędowego (§ 7) przemiału,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_9/ust_1/lit_d",
+       "text": "ilości zboża przyjętego do przemiału od wojska,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_9/ust_1/lit_e",
+       "text": "kwoty BYE opłat przemiałowych w gotówce (§ 7",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_9/ust_1/lit_f",
+       "text": "opłat pobranych w naturze z podziałem na części miarek pobranych na rzecz Państwa oraz na rzecz młyna,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_9/ust_1/lit_g",
+       "text": "rozkurzu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_9/ust_1/lit_h",
+       "text": "ilości wytworzonych produktów głównych i ubocznych, stanowiących własność Państwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Przedsiębiorstwa młynarskie obowiązane są przechowywać dowody, uzasadniające księgowanie pozycji księgowych, wskazanych w ust.1 lit. c",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poe. 156 i 157,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Kontrolę nad wykonaniem niniejszego rozporządzenia i zarządzeń wydanych na jego podstawie przeprowadzają urzędy wojewódzkie przez swych kontrolerów i przez obywatelskie komisje kontrolne, których tryb powoływania ustali Minister Aprowizacji i Handlu. § 11. Minister Aprowizacji i Handlu może ustalić co do przedsiębiorstw młynarskich nie prowadzących ksiąg handlowych lub przemiałowych prawidłowo lub rzetelnie ryczałtową ilość zboża, która ma być zdawana miesięcznie, jako część miarek przypadającą na rzecz Państwa po cenach urzędowych. Uprawnienia swoje wynikające z powyższego przepisu Minister A prowizacji i Handlu może przekazać władzom podległym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Upoważnia się Ministra Aprowizacji i Handlu do wprowadzenia ograniczeń przemiału, jeżeli tego będzie wymagała akcja ściągania świadczeń rzeczowych zbóż. § 13. Kto wykracza przeciw przepisom niniejszego rozporządzenia lub zarządzeń wydanych na jego podstawie, podlega karze z art. 11 dekretu Polskiego Komitetu Wyzwolenia Narodowego z dnia 25 października 1944 r. o zwalczaniu spekulacji i lichwy wojennej (Dz. U. R.P. Nr 9, poz. 49 i Nr 12, poz. 63). § 14. Uchyla się rozporządzenia Prezesa Rady Ministrów wydane przed dniem wejścia w życie niniejszego rozporządzenia w przedmiocie przemiału zbóż. § 15. Do czasu wydania wykonawczych zarządzeń na podstawie niniejszego rozporzą” dzenia utrzymuje się w mocy zarządzenia Ministra Aprowizacji i Handlu wydane na podstawie rozporządzeń Prezesa Rady Ministrów w sprawie przemiału zbóż.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Rozporządzenie niniejsze . wchodzi w życie z dniem ogłoszenia. Prezes Rady Ministrów: Edward Osóbka - Morawski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

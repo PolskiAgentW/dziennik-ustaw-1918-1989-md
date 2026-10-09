@@ -1,0 +1,207 @@
+{
+ "eli": "DU/1945/23",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 9 lutego 1945 r. o obowiązkowych dostawach zbóż, gryki, prosa, ziemniaków, siana, słomy, nasion oleistych, strączkowych i strączkowych pastewnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/23/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 lutego 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "© obowiązkowych dostawach zbóż, gryki, prosa, ziemniaków, siana, słomy, nasion oleistych, strączkowych i strączkowych pastewnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 1, 3, 46, 49 i 65 ustawy z dnia 30 marca 1939 r. o powszechnym obowiązku Świadczeń rzeczowych (Dz. U. R.P. Nr 30, poz. 200), $§ 111—118 i 161—164 rozporządzenia Ministrów: Spraw Wojskowych, Spraw Wewnętrznych, Spraw Zagranicznych, Skarbu, Wyznań Religijnych i Oświecenia Publicznego, Rolnictwa i Reform Rolnych, Przemysłu i Handlu, Komunikacji, Opieki Społecznej oraz Poczt i Telegrafów z dnia 26 sierpnia 1939 r. w sprawie wykonania ustawy o powszechnym obowiązku Świadczeń rzeczowych (Dz. U. R. P. Nr 81, poz. 529) zarządza się, co następuje : 7"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Na terenach województw: pomorskiego, poznańskiego, łódzkiego, śląskiego oraz nowowyzwolonych części warszawskiego, krakowskiego i kieleckiego podlegają zajęciu dla celów świadezeń rzeczowych żyto, pszenica, jęczinień, owies, gryka, proso, siano, słoma, ziemniaki, nasiona oleiste, strączkówe i strączkowe pastewne ze skutkami, przewidzianymi w art. 48 ust. (3) i art. 49 wyżej powołanej ustawy o powszechnym obowiązku świadczeń rzeczowych, wobec czego te ziemiopłody zostają wyłączone z obrotu i nie mogą być przerabiane ani przenoszone na inne miejsce.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Minister Aprowizacji i Handlu ustali w drodze zarządzenia:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "wysokość obowiązkowych dostaw, przy: padającą na poszczególne województwa,",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "oraz"
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "ceny, płacone za nie przez organizacje, przyjmujące z ramienia Państwa obowiązkowe dostawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozdziału dostaw dokonuje na poszczególne :",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "powiaty — wojewódzka rada narodowa,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "gminy — powiatowa rada narodowa,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_3/lit_c",
+     "text": "gromady — gminna rada narodowa, biorąc pod uwagę powierzchnię zasiewów danych kultur w województwie, powiecie i gminie z uwzględnieniem jakości gleby. Rozdziału dostaw na poszczególne gospodarstwa w gromadzie dokonuje gromadzka komisja dosinwowa, składająca się dwóch £ członków, wybranych przez radę gromadzką oraz sołtysa. Wybory do gromadzkich komisyj dostawowych odbyć się winny najpóźniej w ciągu pięciu dni od daty ogłoszenia niniejszego rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przy rozdziale dostaw na poszczególne gospodarstwa komisje dostawowe kierują się następującymi zasadami: „. a) gospodarstwa powyżej 50 ha dokonują dostawy całkowitego zbioru ziemiopłodów, określonych w § 1 z wyłączeniem ilości, niezbędnej do zaopatrzenia pracowników i robotników majątku do końca roku gospodarczego, wyżywienia inwentarza oraz na zasiew, :",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_4/lit_b",
+     "text": "gospodarstwa rolne poniżej 2 ha użytków rolnych mogą być całkowicie zwolnione od dostaw obowiązkowych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_4/lit_e",
+     "text": "gospodarstwa rolne, będące własnością osób narodowości niemieckiej oddają całkowity zbiór ziemiopłodów, określonego w § 1 bez względu na obszar gospodarstwa. Do chwili zdania całkowitych zbiorów właściwe rady narodowe obowiązane są zabezpieczyć produkty przed ukryciem, zniszczeniem lub sprzedażą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Zobowiązani do dostaw mają dostarezaé ziemiopłody własnymi Środkami transportowymi do składów, magazynów lub stacji, wyznaczonych dla każdej gminy przez powiatową radę narodową.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Dostawy dokonane przez gospodarstwa bezpośrednio dla Wojska Polskiego lub Armii Czerwonej zostają zaliczone na poczet obowiązkowych dostaw. Jako dowód dokona nią dostaw służą pokwitowane przez jednostki wojskowe dowody „zapotrzebowania lub tak zwane „nariady”,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Skarb Państwa udzieli za pośrednictwem instytucji finansowych organizacjom rolniczym, dokonywującym skupu ziemopłodów, kredytów dla przeprowadzenia operacji skupowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Uospodarstwa, które wykonają całkowicie obowiązkowe dostawy, otrzymają pre- (mię w artykułach przemysłowych po cenach",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Dziennik Ustaw Nr 6 — 82"
+    },
+    {
+     "type": "text",
+     "text": "urzędowych. Zasady premiowania ustali zarządzenie Ministra Aprowizacji i Handlu, wydane w porozumieniu z Ministrem Przemysłu."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Terminy rozdziału dostaw, przewidzianego w § 3, ustali Minister Aprowizacji i Handlu. M",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Dostawy obowiązkowe winny być wykonane w terminie do dnia 15 kwietnia 1945 r. Minister Aprowizacji i Handlu może przedłużyć ten termin.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Minister Aprowizacji i Handlu może zezwolić na zastąpienie dostaw pewnych ziemiopłodów innymi, na warunkach przez siebie ustalonych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Zakazuje się używania na cele konsumcyjne ziemiopłodów siewnych: zboża —elity, superelity, oryginału I i II odsiewu, sadzeniaków (elity uznanej i handlowej). Zboże siewne winno być odstawione w całości i zmagazynowane w składach organizacji, której zostanie powierzony skup ziemiopłodów z dostaw obowiązkowych, z zastrzeżeniem przepisów § 4 pkt. a).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Prawo wolnej sprzedaży poszczególnych ziemiopłodów nabywa rolnik wtedy, gdy powiat w całości wywiąże się z dostawy obowiązkowej danego gatunku ziemiopłodów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "\"8 14. Naruszenie przepisów niniejszego rozporządzenia lub zarządzeń, wydanych na jego podstawie, będzie karane z mocy art. 10 dekretu o ochronie Państwa z dnia 30 października 1944r. (Dz. U. R. P. Nr 10, poz. 50)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "w/z Prezes Rady Ministrów: Stanisław Janusz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

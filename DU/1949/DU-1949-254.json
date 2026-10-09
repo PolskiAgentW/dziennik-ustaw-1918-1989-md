@@ -1,0 +1,548 @@
+{
+ "eli": "DU/1949/254",
+ "title": "Obwieszczenie Ministra Administracji Publicznej z dnia 10 maja 1949 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 14 lipca 1936 r. o paszportach.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/254/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA ADMINISTRACJI PUBLICZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 maja 1949 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 14 lipca 1936 r. o paszportach."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ustawy z dnia 7 kwietnia 1949 r. o zmianie ustawy o paszportach (Dz. U. R. P. Nr 23, poz."
+  },
+  {
+   "type": "pkt",
+   "num": "153",
+   "path": "pkt_153",
+   "text": "ogłaszam w załączeniu jednolity tekst ustawy z dnia 14 lipca 1936 r. o paszportach (Dz. U. R. P. Nr 56, poz. 404) z uwzględnieniem zmian, wprowadzonych ustawą z dnia 7 kwietnia 19°) r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Administracji Publicznej; Wi Wolski"
+    }
+   ]
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Administracji Publicznej z dnia 10 maja 1949 r (poz, 254).",
+   "body": [
+    {
+     "type": "text",
+     "text": "USTAWA"
+    },
+    {
+     "type": "text",
+     "text": "si z dnia 14 lipca 1936 r. o paszportach."
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział I",
+     "text": "Przepisy ogólne."
+    },
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "(1) Opuszczenie obszaru Państwa Polskiego przez obywateli poiskich, jak również powrót ich na ten obszar, może nastąpić, jeżeli przepisy szczególne nie stanowią inaczej, tylko na podstawie ważnych paszportów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Ustala się następujące rodzaje paszportów:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/pkt_1",
+       "text": "paszporty zwyczajne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/pkt_2",
+       "text": "paszporty służbowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/pkt_3",
+       "text": "paszporty dyplomatyczne i",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_1/pkt_4",
+       "text": "paszporty zbiorowe.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(3) Wzory wymienionych rodzajów paszportów ustala Minister Administracji Publicznej w porozumieniu z Ministrem Spraw Zagranicznych."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział II",
+     "text": "Uzyskiwanie paszportów."
+    },
+    {
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "(1) Warunkiem uzyskania paszportu jest:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/pkt_1",
+       "text": "obywatelstwo polskie, i",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/pkt_2",
+       "text": "zezwolenie władz wojskowych, jeżeli w myśl obowiązujących przepisów zezwolenie takie jest wyma-",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "gane,"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_2/pkt_3",
+       "text": "zaświadczenie, przewidziane w przepisach o emigracji, jeżeli wyjazd następuje w celach emigracyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_2/pkt_4",
+       "text": "zezwolenie rodziców, opiekunów bądź kuratorów, jeżeli chodzi o osoby niepełnoletnie lub niewłasnowolne.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Warunki, wymienione w ust. (1), nie dotyczą osób, otrzymujących paszporty dyplomatyczne, a wymienione w ust. (1) pkt 2), 3) i 4) osób, otrzymujących paszporty służbowe."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "(1) Władza odmówi wydania paszportu, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_3/pkt_1",
+       "text": "osoba, ubiegająca się o paszport, nie odpowiada warunkom, wymienionym w art. 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_3/pkt_2",
+       "text": "wydanie paszportu może narazić na szkodę ważny interes państwowy lub zagrozić bezpieczeństwu, spokojowi lub porządkowi publicznemu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_3/pkt_3",
+       "text": "przeciwko osobie, ubiegającej się o paszport, toczy się postępowanie karne o zbrodnię lub występek, a właściwa władza sądowa nie wyrazi zgody na wydanie paszportu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_3/pkt_4",
+       "text": "osoba, ubiegająca się o paszport, opiekuje się innymi osobami, a istnieje obawa, że w razie jej wyjazdu „. osoby te pózostałyby bez należytej opieki.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Ocena, czy zachodzą okoliczności, o których mowa w ust. (1) pkt 2) i 4), pozostawiona jest uznaniu władzy."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "Paszport zwyczajny może otrzymać każdy, kto odpowiada warunkom, wymienionym w art. 2, jeżeli nie zachodzą przeszkody, przewidziane w art: 3.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "Kategorie osób, otrzymujących paszporty służbowe i dyplomatyczne, ustala Rada Ministrów.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "Paszporty zbiorowe mogą otrzymywać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_6/pkt_1",
+       "text": "uczestnicy wycieczek szkolnych, naukowo-badawczych i dydaktycznych, a także wycieczek morskich, organizowanych na podstawie zezwolenia Ministra Administracji Publicznej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_6/pkt_2",
+       "text": "członkowie organizacyj (związków, stowarzyszeń itp.), wyjeżdżający zbiorowo na podstawie zezwolenia Ministra Administracji Publicznej, oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_6/pkt_3",
+       "text": "zamieszkali za granicą obywatele polscy, uczestniczący zbiorowo w wycieczkach,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "7",
+     "path": "art_7",
+     "text": "Posiadanie paszportu jednego rodzaju nie wyłącza możności uzyskania paszportu innego rodzaju. Art, 8. Paszporty zwyczajne, służbowe i dyplomatyczne są jednoosobowe; jednakże w paszporcie męża może być wpisana zofia, a w paszporcie jednego lub obojga rocziców albo opiekuna — dzieci do lat 13, jeżeli zaś chodzi o rodziny emigrantów — także dzieci powyżej lat 13.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "Rada Ministrów może na wniosek Ministra Administracji Publicznej lub Ministra Spraw Zagranicznych wstrzymać lub ograniczyć wydawanie paszportów zwyczajnych i zbiorowych na okres nie dłuższy, niż roczny, jeżeli będą wymagały tego względy na dobro Państwa. W czasie zarządzonych ograniczeń wydawanie tych paszportów można uzależni¢ od innych jeszcze warunków, aniżeli przewidziane w art. 2.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział III",
+     "text": "Ważność paszportów."
+    },
+    {
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "(1) Paszporty zwyczajne, służbowe i dyplomatyczne można wydawać na okres do lat 3. Ważność paszportu można przedłużać, jednak łączny okres ważności, licząc od dnia wystawienia paszportu, nie może przekraczać lat 5.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Paszporty, wymienione w ust. (1), uprawniają da wielokrotnych wyjazdów i powrotów, jeżeli władza nie ograniczy ich ilości."
+      },
+      {
+       "type": "text",
+       "text": "(3) Paszporty zbiorowe można wydawać na okres do 3 miesięcy; uprawniają one do jednorazowego wyjazdu i powrotu."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": ", SR"
+      },
+      {
+       "type": "text",
+       "text": "(4) Paszport bez względu na jego ważność należy w przeciągu jednego tygodnia po powrocie z zagranicy zwrócie władzy krajowej, właściwej do wydawania paszportów; za granicą paszport, który utraci ważność, należy najpóźniej w dniu utraty ważności przedłożyć właściwemu konsulatowi polskiemu."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "11",
+     "path": "art_11",
+     "text": "Paszporty są ważne na wszystkie kraje zagraniczne, jeżeli władza nie uczyni ograniczeń.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IV",
+     "text": "Opłaty paszportowe."
+    },
+    {
+     "type": "art",
+     "num": "12",
+     "path": "art_12",
+     "text": "(1) Paszporty zwyczajne i zbiorowe, wydawane w kraju, podlegają opłatom, które ustala w drodze rozporządzenia Minister Administracji Publicznej w porozumieniu z Ministrem Skarbu. Za podstawę przy ustalaniu opłat przyjęte będą miesięczne okresy ważności paszportów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Paszporty służbowe i dyplomatyczne nie podlegają opłatom paszportowym. Art, 13. (1) Nie podlegają opłatom paszportowym paszporty, wydawane w kraju osobom:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_12/pkt_1",
+       "text": "wyjeżdżającym jako emigranci;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_12/pkt_2",
+       "text": "niezamożnym, jeżeli wykażą, że wyjazd ich jest konieczny, a uiszczenie opłaty naraziłoby je na doikliwy uszczerbek majątkowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_12/pkt_3",
+       "text": "którym pizyznano na wyjazd zasiłek z funduszów publicznych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_12/pkt_4",
+       "text": "nie mającym ukończonych lat 13, jeżeli są wpisane w paszporcie ojca, matki lub opiekuna.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Osoby, wyjeżdżające w celu kształcenia się lub odbycia praktyki zawodowej, oraz osoby, tórych zawód nie może być wykonywany w inny sposób, jak tylko przez częste wyjazdy (komiwojażerzy, obsługa przedsiębiorstw, służących komunikacji międzynarodowej itp.), otrzymują paszporty ważne na rok za opłatą, ustaloną dla okresu miesięcznego."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "14",
+     "path": "art_14",
+     "text": "(1) Minister Administracji Publicznej może przyznawać ulgi w opłatach paszportowych oraz całkowicie zwalniać od tych opłat w: przypadkach:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_14/pkt_1",
+       "text": "wyjazdu do państw, z którymi: Państwo Polskie zawarło umowy w sprawie ułatwień paszportowych — na czas trwania tych umów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_14/pkt_2",
+       "text": "wyjazdu w ważnych sprawach rodzinnych;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_14/pkt_3",
+       "text": "wyjazdu w sprawach handlowych lub przemysłowych, których konieczność zaświadczy odnośny samorząd gospodarczy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_14/pkt_4",
+       "text": "uzasadnionych stanowiskiem osób wyjeżdżających albo charakterem lub celem ich wyjazdu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_14/pkt_5",
+       "text": "wyjazdu w ważnych sprawach naukowych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Uprawnienia, przewidziane w ust. (1) pkt 2),"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_14/pkt_3",
+       "text": "i 5), Minister Administracji Publicznej może w całości lub w części przekazać władzom sobie podległym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "15",
+     "path": "art_15",
+     "text": "Za przedłużanie ważności paszportów, wydanych w kraju, pobiera się takie same opłaty, jakim . podlegają paszporty, wydawane w kraju.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "16",
+     "path": "art_16",
+     "text": "Nieskorzystanie z paszportu nie uprawnia do żądania zwrotu opłaty paszportowej.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "17",
+     "path": "art_17",
+     "text": "(1) Opłaty za paszporty, wydawane przez polskie urzędy konsularne (dyplomatyczne), oraz opłaty za przedłużanie tych paszportów reguluje taryfa opłat konsularnych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Za przedłużanie w kraju ważności paszportów, wymienionych w ust. (1), pobiera się opłaty, odpowiadające stawkom, ustalonym w taryfie konsularnej. e ZZ A ZZOZ O OZ ZZ A"
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "18",
+     "path": "art_18",
+     "text": "Za inne dokumenty, które w myśl przepisów szczególnych uprawniają do opuszczenia obszaru Państwa Polskiego i powrotu na ten obszar, pobiera się — jeżeli przepisy te nie stanowią inaczej — opłaty, przewidziane w przepisach o opłatach skarbowych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział V",
+     "text": "Władze."
+    },
+    {
+     "type": "art",
+     "num": "19",
+     "path": "art_19",
+     "text": "(1) Paszporty zwyczajne i zbiorowe wydaje w kraju Minister Administracji Publicznej, a za granicą — polskie urzędy konsularne (dyplomatyczne).",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Paszporty służbowe dla pracowników, podległych Ministrowi Spraw Zagranicznych, i osób przez niego delegowanych wydaje Minister Spraw Zagranicznych."
+      },
+      {
+       "type": "text",
+       "text": "(3) Paszporty służbowę dlaoséb, nie wymienionych w ust. (2), wydaje WE PPolicznej."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "20",
+     "path": "art_20",
+     "text": "Ifószporty zWhczajne i zbiorowe na wyjazd za granicę w sprawach publicznych oraz paszporty, służbowe, które wydaje Minister Administracji Publicznej, wystawia się po zasięgnięciu opinii Ministra Spraw Zagranicznych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "21",
+     "path": "art_21",
+     "text": "Paszporty dyplomatyczne wydaje Minister Spraw Zagranicznych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "22",
+     "path": "art_22",
+     "text": "Władza unieważni paszport i zarządzi jego odebranie, jeżeli wyjdą na jaw okoliczności, które uzasadniają odmowę wydania paszportu, Decyzja ta jest natychmiast wykonalna.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VI",
+     "text": "Przepisy karne."
+    },
+    {
+     "type": "art",
+     "num": "22a",
+     "path": "art_22a",
+     "text": "(1) Kto wykracza przeciwko przepisom art. 10 ust. (4) — podlega karze grzywny do 50.000 złotych. Ściganie następuje również w przypadku popełnienia przestępstwa za granicą,",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Do orzekania powołane są powiatowe władze administracji ogólnej."
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VII",
+     "text": "Przepisy przejściowe i końcowe."
+    },
+    {
+     "type": "art",
+     "num": "23",
+     "path": "art_23",
+     "text": "Paszporty, wydane na podstawie przepisów, obowiązujących przed dniem wejścia w życie ustawy niniejszej, zachowują ważność do końca okresów, na które zostały wydane.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "24",
+     "path": "art_24",
+     "text": "W art. 2 w ust. 3 rozporządzenia Prezydenta Rzeczypospolitej z dnia 23 grudnia 1927 r. o granicach Państwa (Dz. U. R. P. Nr 117, poz. 996) skreśla się wyrazy: „Rodzaje, formę, treść i sposób wystawiania dokumentów, upoważniających do przekraczania granicy, warunki, od których zależy ich uzyskanie, i“.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "25",
+     "path": "art_25",
+     "text": "Ustawa niniejsza nie narusza przepisów o wyjeździe za granicę osób, będących w czynnej służbie wojskowej, jak również podlegających powszechnemu obowiązkowi wojskowemu, oraz przepisów o emigracji.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "26",
+     "path": "art_26",
+     "text": "Wykonanie ustawy niniejszej porucza się Ministrowi Administracji Publicznej w porozumieniu z interesowanymi ministrami.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "27",
+     "path": "art_27",
+     "text": "(1) Ustawa niniejsza wchodzi w życie po upływie trzydziestu dni od dnia ogłoszenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Jednocześnie uchyla się wszelkie przepisy w sprawach, uregulowanych ustawą niniejszą, a w szczegélności rozporządzenie Prezydenta Rzeczypospolitej z dnia 30 kwietnia 1932 r. w sprawie opłat za paszporty na wyjazd za granicę (Dz. U. R. P. Nr 38, poz. 394)."
+      },
+      {
+       "type": "text",
+       "text": "Tłoczono z połecenia Ministra Sprawiedliwości w Drukarni Min. Sprawiedl. w Warszawie, ul, 6-go Sierpnia 6."
+      },
+      {
+       "type": "text",
+       "text": "35000 346"
+      },
+      {
+       "type": "text",
+       "text": "A) Cena 48 zł ©"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

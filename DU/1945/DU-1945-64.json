@@ -1,0 +1,129 @@
+{
+ "eli": "DU/1945/64",
+ "title": "Dekret z dnia 11 kwietnia 1945 r. o ustroju władz administracji skarbowej oraz skarbowych organów wykonawczych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/64/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 kwietnia 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "o ustroju władz administracji skarbowej oraz skarbowych organów wykonawczych. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U.R.P. Nr 1, poz. 1) — Rada Ministrów postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Naczelne kierownictwo i nadzór nad administracją skarbową należy do Ministra Skarbu. Organami administracji skarbo-",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "wej są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "izby skarbowe oraz izby akcyzowo-celne jako władze II instancji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "podporządkowane:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/pkt_2/lit_a",
+       "text": "izbom skarbowym — urzędy skarbowe oraz urzędy rewizyjne,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/pkt_2/lit_b",
+       "text": "izbom akcyzowo-celnym — urzędy akcyzowe oraz urzędy celne — jako władze I instancji,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "Inspektoraty karno - skarbowe oraz podległe im brygady karno - skarbowe, jako karne organa wykonawcze władz skarbowych, Ponadto organami wykonawczymi są: w zakresie akcyzowym — placówki akcyzowe podległe urzędom akcyzowym, w zakresie celnym — placówki celne podległe urzędom celnym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Organizację, zakres działania, granice okręgów oraz siedziby organów, wymienionych w art. 2, określi Minister Skarbu w drodze rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Minister Skarbu w porozumieniu z właściwymi ministrami może poruczać organom skarbowym, wymienionym w art. 2, także czynności urzędowe, należące do zakresu działania innych władz państwowych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Równocześnie tracą moc obowiązującą wszelkie przepisy, normujące odmiennie przedmiot niniejszego dekretu w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_6/pkt_1",
+     "text": "ustawa z dnia 31 lipca 1919 r. o organizacjj władz i urzędów skarbowych w brzmieniu obwieszczenia Ministra Skarbu z dnia 12 października 1935 r. (Dz. U. R. P. Nr 80, poz. 499),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_6/pkt_2",
+     "text": "art. 6 ust. 3 i 4 oraz art. 7 i 8 rozpo” rządzenia Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. o prawie - celnym (Dz. U. R. P. Nr 84, poz. 610). Prezydent Krajowej Rady Narodowej: Bolesław Bierut",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski"
+      },
+      {
+       "type": "text",
+       "text": "Minister Skarbu: Konstanty Dąbrowski"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

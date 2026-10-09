@@ -1,0 +1,117 @@
+{
+ "eli": "DU/1946/44",
+ "title": "Dekret z dnia 8 stycznia 1946 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o dozorze nad artykułami żywności i przedmiotami użytku.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/44/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 stycznia 1946 r. ‘ o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o dozorze nad artykułami żywności i przedmiotami użytku."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o dozorze nad artykułami żywności i przedmiotami użytku (Dz.U.R.P. Nr 36, poz. 343), zmienionym rozporządzeniem Prezydenta Rzeczypospolitej z dnia 28 grudnia 1934 r. (Dz.U. R. P. Nr 110, poz. 977) oraz art. 14 ustawy z dnia 15 czerwca 1939 r. (Dz. U.R.P. Nr 54, poz. 342), wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 11 lit. d) skreśla się wyrazy: „oraz komunalnych pracowni badawczych”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "skreśla się art. 15 i 16;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 20 ust. 1 w zdani« pierwszym skreśla się wyrazy: „lub w pracowni kcmunalnej (art. 15116)”, a w zdaniu drugim wyrazy: „lub w pracowni komunalnej”;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 21 ust. 1 skreśla się wyrazy: „lub w pracowni komunalnej (art. 15 i 16)”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Majątek ruchomy komunalnych zakładów badania żywności i przedmiotów użytku, istniejących w dniu wejścia w życie dekretu niniejszego, przechodzi na rzecz Państwowego Zakładu Higieny za odszkodowaniem, którego wysokość ustala komisja powołana w tym celu, złożona z przedstawiciela właściwego związku samorządowego oraz Ministerstw: Zdrowia i Administracji Publicznej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Fachowi funkcjonariusze komunalnych zakładów badania żywności i przed-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "miotów użytku, istniejących w dniu wejścia w życie niniejszego dekretu, przechodzą na etat Państwowego Zakładu Higieny. Minister Zdrowia w zależności od lat służby samorządowej i kwalifikacji funkcjonariusza przyjętego na etat Państwowego Zakładu Higieny ustali charakter jego stosunku służbowego, zaliczy go do właściwej kategorii i zaszereguje do odpowiedniej grupy uposażenia."
+    },
+    {
+     "type": "text",
+     "text": "Art. 4, Wykonanie niniejszego dekretu porucza się Ministrom: Zdrowia i Administracji Publicznej."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Zdrowia:"
+    },
+    {
+     "type": "text",
+     "text": "Franciszek Litwin"
+    },
+    {
+     "type": "text",
+     "text": "wiz Minister Administracji Publicznej: Aleksander Zaruk-Michalski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

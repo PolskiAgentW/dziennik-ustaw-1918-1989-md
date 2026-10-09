@@ -1,0 +1,61 @@
+{
+ "eli": "DU/1945/188",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 10 sierpnia 1945 r. wydane w porozumieniu z Ministrem Przemysłu oraz Ministrem Aprowizacji i Handlu w sprawie cen drożdży.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/188/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SKARBU % dnia 10 sierpnia 1945 r. wydane w porozumieniu z Ministrem Prze mysłu oraz Ministrem Aprowizacji i Handla w sprawie cen drożdży."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 57 ust. 6 rozporządzenia Prezydenta Rzeczypospolitej z dnia tl lipca 1932 r. o mo- * nopolu spirytusowym, opodatkowaniu kwasu octowego i drożdży oraz sprzedaży 'napojów alkoholowych (Dz. U. R. P. Nr 63, póz. 586), w brzmieniu nadanym temu artykułowi dekretem z dnia 2 sierpnia 1945 r. (Dz. U. R. P. Nr 31, poz. 185), zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Fabryczną cenę drożdży wraz z podatkiem spożywczym ustala się na:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "1.000 zł za-1 kg drożdży, podlegających podatkowi spożywczemu w pełnej wysokości,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "50 zł za kg drożdży, podlegających zniżonemu podatkowi spożywczemu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "- §2. Sprzedawcy mogą doliczać do ceny drożdży, określonej w $ pkt. a) — 100/,, w tym 30/4 dla hurtownika, zaś 70/4 dla detalisty, a do ceny, określonej w § I pkt b) — 20%, w tym 50/5 dla hurtownika, zaś 15% dla detalisty."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie po saa 7 dal od date łac.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Konstanty Dąbrowski Minister Przemysłu: ~ Hilary Mine Minister Aprowizacji i Handlu: Jerzy Sztachelski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

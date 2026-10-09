@@ -1,0 +1,499 @@
+{
+ "eli": "DU/1946/103",
+ "title": "Obwieszczenie Ministra Skarbu z dnia 14 marca 1946 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/103/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA SKARBU"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 marca 1946 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 22 października 1931 r. |. 6 opodatkowaniu piwa. Na podstawie art. 2 dekretu z dnia 13 listopada 1945 r. o zmianie ustawy z dnia 22 . października 1931 r. o opodatkowaniu piwa (Dz. U. R. P. Nr 50, poz. 291) ogłaszam w załączeniu jednolity tekst ustawy z dnia 22 października 1931 r. o opodatkowaniu piwa (Dz. U. R. P. Nr 99, poz. 762) z uwzględnieniem zmian wprowadzonych ustawą karną skarbową z dnia 18 marca 1932 r. (Dz. U. R. P. Nr 34, poz. 355) i dekretem z dnia 13 listopada 1945 r. (Dz. U. R. P. Nr 50, poz. 291) z zastosowaniem nowej numeracji artykułów i ustępów. Minister Skarbu: Konstanty Dabrewski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Skarbu z dnia 14 marca 1946 r. (poz. 103). USTAWA",
+   "body": [
+    {
+     "type": "text",
+     "text": "z dnia 22 października 1931 r. o opodatkowaniu piwa. o Przedmiot podatku od piwa."
+    },
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "(1) Piwo zarówno wyrobione w kraju jak i sprowadzone z zagranicy podlega podatkowi spożywczemu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Za piwo podlegające opodatkowaniu uważa się napój, otrzymany w drodze fermentacji alkoholowej za pomocą drożdży ze słodu z dodatkiem albo samego chmielu albo chmielu i kukurydzy lub innego zboża, wszelkiego rodzaju cukru i substancyj barwiących."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "(1) Wolne jest od podatku piwo:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/lit_a",
+       "text": "wywożone pod kontrolą skarbową za granicę, .",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/lit_b",
+       "text": "wydane pracownikom brov-zru iako deputat w ilości nieprzekraczającej 1 litra na jednego pracownika dziennie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_2/lit_c",
+       "text": "przeznaczone do dalszej przeróbki we własnym lub innym browarze,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_2/lit_d",
+       "text": "pobierane do badań w ilości nieprzekraczającej każdorazowo 1 litra.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Warunki stosowania przepisów ust. (1) ustala Minister Skarbu w drodze rozporządzenia."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "(1) Wysokość podatku spożywczego ustala się, jak następuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_3/pkt_1",
+       "text": "od pierwszych 2.000 hektolitrów piwa wszystkich gatunków łącznie wydanych do",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "obrotu w ciągu roku obrachunkowego podatek wynosi:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_3/pkt_1/lit_a",
+         "text": "od piwa lekkiego o zawartości ekstraktu 7—10*%/ w brzeczce podstawowej 400 zł od 1 hektolitra,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_3/pkt_1/lit_b",
+         "text": "od piwa pełnego o zawartości ekstraktu 10—15°/, w brzeczce podstawowej 600 zł od 1 hektolitra,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_3/pkt_1/lit_c",
+         "text": "od piwa mocnego o zawartości ekstraktu powyżej 15°/, w brzeczce podstawowej 800 zł od 1 hektolitra,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_3/pkt_2",
+       "text": "od następnych 8.000 hektolitrów piwa płaci się podatek o 5°/, wyższy, a od dalszych ilości piwa oraz od piwa, sprowadzonego z zagranicy o 10°/, wyższy od norm, ustalonych w pkt 1. :",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Wyrób piwa o zawartości ekstraktu poniżej 7°/, w podstawowej brzeczce wymaga zezwolenia Ministra Skarbu."
+        },
+        {
+         "type": "text",
+         "text": "(3) Sposób stwierdzania zawartości ekstraktu w brzeczce podstawowej oraz dopuszczalne wahania przy stwierdzaniu tej zawartości ustala Minister Skarbu."
+        },
+        {
+         "type": "text",
+         "text": "(4) Minister Skarbu uprawniony jest do obniżania określonej w ust. (1) stopy podatku spożywczego od piwa."
+        },
+        {
+         "type": "text",
+         "text": "Odpowiedzialność rzeczowa za podatek."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "Piwo, podlegające opodatkowaniu w myśl niniejszej ustawy, może władza skarbowa w razie nieuiszczenia podatku zająć bez względu na prawa osób trzecich celem pokrycia należności podatkowej. Przepisu tego nie stosuje się, gdy osoby trzecie nabyły swe prawa w dobrej wierze.",
+     "children": [
+      {
+       "type": "text",
+       "text": "« Osobisty obowiązek uiszczenia podatku."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "(1) Do uiszczenia podatku od piwa obowiązany jest ten, kto piwo wyrabia lub na swój rachunek poleca wyrabiać, a przy przy- \" wozie piwa z zagranicy — osoba uprawniona do rozporządzania towarem w rozumieniu obowiązujących*przepisów celnych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Obowiązek uiszczenia podatku powstaje w chwili, gdy piwo zostaje wydane z browaru. Minister Skarbu może dla piwa barwiącego zezwalać na wyjątki od tego przepisu. Przy przywozie piwa z zagranicy obowiązek uiszczenia podatku powstaje w chwili odprawy celnej."
+      },
+      {
+       "type": "text",
+       "text": "(3) Ściągnięcie nieuiszczonego w terminie ' podatku od piwa wraz z odsetkami od zaległości następuje w trybie administracyjnym przez władze skarbowe w drodze zajęcia i sprzedaży znajdujących się w browarze zapasów gotowego piwa bez względu na jakiekolwiek prawa osób trzecich oraz w drodze zajęcia i sprzedaży wszelkiego innego majątku przedsiębiorcy, obowiązanego do uiszczenia podatku."
+      },
+      {
+       "type": "text",
+       "text": "'Poz. 103"
+      },
+      {
+       "type": "text",
+       "text": "(4) Minister Skarbu uprawniony jest do umarzania nieściągalnych należności z tytułu podatku od piwa."
+      },
+      {
+       "type": "text",
+       "text": "llość piwa podlegającego opodatkowaniu."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "Ilość piwa, od którego ma się uiścić podatek, oznacza się według pojemności naczyń (beczek, flaszek it. p.), w których piwo wydaje się z browaru do spożycia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Termin płatności, zwrot podatku i kredyt."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "7",
+     "path": "art_7",
+     "text": "(1) Od piwa, codo którego obowiązek uiszczenia podatku powstał w ciągu pierwszej połowy miesiąca, podatek jest płatny w dniu 15-go tego miesiąca, a uiścić go należy najpóźniej 22-go tego samego miesiąca. Od piwa, co do .którego obowiązek uiszczenia podatku ‘powstał w drugiej połowie miesiąca, podatek jest płatny w ostatnim dniu tego miesiąca, a uiścić go należy najpóźniej w 7-mym dniu następrego miesiąca.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) W razie powtarzania się zwłoki w uiszczaniu podatku lub obawy, że podatek nie będzie zapłacony, może władza skarbowa żądać uiszczenia podatku przed wydaniem piwa z browaru."
+      },
+      {
+       "type": "text",
+       "text": "(3) Minister Skarbu ustala warunki kredytowania podatku od piwa."
+      },
+      {
+       "type": "text",
+       "text": "(4) Przy przywozie piwa z zagranicy podatek płatny jest jednocześnie z należnościami celnymi."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "8",
+     "path": "art_8",
+     "text": "(1) W wypadkach zwrotu do browaru w Stanie niezmienionym opodatkowanego piwa, pozostałego z rozwózkowej sprzedaży, pobrany podatek może być zwrócony.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Bliższe postanowienia w tej sprawie wyda Minister Skarbu."
+      },
+      {
+       "type": "text",
+       "text": "Przedawnienie."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "(1) Prawo żądania zwrotu podatku nienależnie pobranego przedawnia się z upływem jednego roku, licząc od dnia uiszczenia podatku.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Prawo żądania należnego Państwu podatku bez względu na to, czy jego wymiar został dokonany, czy przez zatajenie wstrzymany, przedawnia się z upływem 5-ciu lat, licząc od dnia powstania obowiązku podatkowego. Przedawnienie prawa żądania zapłaty podatku przerywa każda czynność, podjęta przez władzę skarbową w celu ściągnięcia należności podatku _wymierzonego lub zatajonego."
+      },
+      {
+       "type": "text",
+       "text": "„Właściwość władz.",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "Orzekanie o należności z tytułu podatku od piwa i wymiar tego podatku należą do właściwości władz skarbowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wyrób piwa."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "11",
+     "path": "art_11",
+     "text": "(1) Do wyrobu piwa dolnej fermentacji wolno używać tylko słodu jęczmień-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nego — albo słodu jęczmiennego z dodatkiem kukurydzy lub innego zboża — oraz chmielu, drożdży i wody."
+      },
+      {
+       "type": "text",
+       "text": "(2) Przy wyrobie piwa górnej fermentacji wolno używać nadto cukru technicznie czystego, sacharozy, cukru przemienionego i skrobiowego. Minister Skarbu określi w drodze rozporządzenia warunki wyrobu piwa przy użyciu cukru."
+      },
+      {
+       "type": "text",
+       "text": "(3) Barwnik oraz piwo barwiące do wyrobu piwa dolnej fermentacji powinny być sporządzone z surowców, wyszczególnionych w ust. (1), a do wyrobu piwa górnej fermentacji — z surowców, wyszczególnionych w ust. (1) lub (2)."
+      },
+      {
+       "type": "text",
+       "text": "(4) Wyrób, sprzedaż i kupno piwa barwiącego są dozwolone pod warunkiem i ograniczeniami, przewidzianymi w obowiązujących przepisach o przeciwdziałaniu produkcji i sprzedaży artykułów żywności szkodliwych dla zdrowia."
+      },
+      {
+       "type": "text",
+       "text": "(5) Przez słód rozumie się każde zboże sztucznie kiełkowane."
+      },
+      {
+       "type": "text",
+       "text": "(6) Przy wyrobie poszczególnych gatunków piwa, jak również piwa przeznaczonego na wywóz za granicę, Minister Skarbu może zezwalać na wyjątki od przepisów zawartych w ust. (1)—(3)."
+      },
+      {
+       "type": "text",
+       "text": "(7) Do piwa gotowego i brzeczki nie wolno dodawać wody od chwili, gdy zawartość ekstraktu w brzeczce podstawowej (ochłodzonej), z której piwo pochodzi, została stwierdzona. Na wyjątki zezwalać może Minister Skarbu."
+      },
+      {
+       "type": "text",
+       "text": "(8) Bliższe przepisy co do sposobu prowadzenia fermentacji wyda Minister Skarbu w drodze rozporządzenia."
+      },
+      {
+       "type": "text",
+       "text": "Cena piwa."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "12",
+     "path": "art_12",
+     "text": "Minister Skarbu w porozumieniu z Ministrami Rolnictwa i Reform Rolnych oraz Aprowizacji i Handlu jest uprawniony do określania w drodze rozporządzeń ceny piwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Obrót handlowy piwem."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "13",
+     "path": "art_13",
+     "text": "(1) Nazwy „piwo” wolno używać w obrocie handlowym tylko do oznaczenia takich napojów, które przeszły ferimentację i które odpowiadają przepisom art. 11 ust. (1)—(4).",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Pod nazwą „piwo pełne” lub „mocne” albo innym określeniem, mogącym wywołać wrażenie, że piwo jest mocniejsze niż piwo lekkie bądź pełne, wolno wydawać do obrotu tylko takie piwo, którego brzeczka pod względem zawartości ekstraktu jest mocniejsza niż brzeczka, określona dla piwa lekkiego bądź pełnego."
+      },
+      {
+       "type": "text",
+       "text": "Zastępca przedsiębiorcy, pracownicy browaru."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "14",
+     "path": "art_14",
+     "text": "(1) Przedsiębiorcy, których zakłady podlegają według niniejszej ustawy nadzorowi skarbowemu, winni są wypełniać obowiązki, które na nich nakłada ustawa bądź osobiście, bądź przez odpowiedniego zastępcę.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Ustanowienie zastępcy musi nastąpić wówczas, gdy przedsiębiorca obowiązków swoich w tym względzie dopełnić nie może."
+      },
+      {
+       "type": "text",
+       "text": "(3) O ustanowieniu zastępcy należy donieść władzy skarbowej, która orzeka, czy proponowana osoba może być dopuszczona do zastępstwa."
+      },
+      {
+       "type": "text",
+       "text": "(4) Władza skarbowa może zażądać usunięcia pracownika, który popełnił defraudację podatkową lub w popełnieniu jej współdziałał."
+      },
+      {
+       "type": "text",
+       "text": "(5) Jeżeli na żądanie władzy skarbowej ustanowienie zastępcy lub usunięcie pracownika nie nastąpi w ciągu 14-tu dni, może być zarzą: dzone wstrzymanie ruchu w browarze."
+      },
+      {
+       "type": "text",
+       "text": "Kontrola."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "15",
+     "path": "art_15",
+     "text": "Kto wchodzi w posiadanie przedsiębiorstwa, podlegającego według ustawy niniejszej nadzorowi skarbowemu, obowiązany jest donieść o tym władzy skarbowej w ciągu 8-miu dni po objęciu przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "16",
+     "path": "art_16",
+     "text": "Uruchomienie browaru przedsiębiorca powinien zgłosić władzom skarbowym \"stosownie do przepisów, wydanych w tym względzie przez Ministra Skarbu.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "17",
+     "path": "art_17",
+     "text": "Przepisy o urządzeniu browaru i zmianach tego urządzenia, o oznaczaniu i przemiarze naczyń, służących do produkcji i do przewozu piwa, o zgłaszaniu warek, prowadzeniu ksiąg kontrolnych oraz o sposobie wykonywania nadzoru skarbowego nad produkcją, przechowywaniem, rozlewaniem i wywozem piwa wyda Minister Skarbu.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "18",
+     "path": "art_18",
+     "text": "(1) W razie niezastosowania się przedsiębiorcy do przepisów o urządzeniu browarów, władza skarbowa może zarządzić wstrzymanie ruchu browaru.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Władza skarbowa może w wypadku ujawnienia nadużyć zarządzić stały nadzór browaru. W tym wypadku przedsiębiorca browaru powinien dostarczyć bezpłatnie do użytku urzędników skarbowych, powołanych do wykonywania stałego nadzoru, mieszkań, położonych w obrębie browaru lub w najbliższym jego otoczeniu, wraz z opałem i oświetleniem. Nadto przedsiębiorca obowiązany jest dostarczyć wymienionym urzędnikom dla użytku służbowego odpowiedniego pomieszczenia, znajdującego się w obrębie browaru, zaopatrzonego w niezbędne urządzenie i przybory, potrzebne do załatwiania czynności kancelaryjnych."
+      },
+      {
+       "type": "text",
+       "text": "(3) Dla urzędników skarbowych, przybywających celem wykonania czynności rewizyjnych w browarze, przedsiębiorca obowiązany"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ki —"
+      },
+      {
+       "type": "text",
+       "text": "jest dostarczyć bezpłatnie odpowiednio urządzonego pomieszczenia."
+      },
+      {
+       "type": "text",
+       "text": "(4) O ilości i stosowności pomieszczeń (ust. 2 i 3) orzeka władza skarbowa."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "19",
+     "path": "art_19",
+     "text": "(1) Dla każdego browaru ustala się corocznie normę dopuszczalnych zaników, licząc od brzeczki gorącej, w granicach ustalanych przez Ministra Skarbu. Sposób określenia zaników wskaże rozporządzenie wykonawcze.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) W browarze przeprowadzać się będzie w sposób, podany w rozporządzeniu Ministra Skarbu, badanie zapasów piwa. Za braki piwa, które się przy tym okażą w porównaniu z prowadzonymi w browarze książkami, należy uiścić podatek, o ile nie udowodni się, że powstały z przyczyn, które nie uzasadniają żądania podatku."
+      },
+      {
+       "type": "text",
+       "text": "= Poz. 103"
+      },
+      {
+       "type": "text",
+       "text": "Opodatkowanie ekstraktów."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "20",
+     "path": "art_20",
+     "text": "Upoważnia się Ministra Skarbu do opodatkowania ekstraktów, służących do wyrobu piwa domowym sposobem. Wysokość podatku odpowiadać powinna podatkowi spożywczemu od piwa według najwyższej stawki, określonej dla piwa lekkiego, obliczonego od tej ilości piwa, jaką można otrzymać z ekstraktu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Postanowienia końcowe."
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "21",
+     "path": "art_21",
+     "text": "Wykonanie niniejszej ustawy porucza się Ministrowi Skarbu.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "22",
+     "path": "art_22",
+     "text": "(1) Ustawa niniejsza wchodzi w życie z dniem ogłoszenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Z tą chwilą traci moc obowiązującą ustawa z dnia 12 czerwca 1924 r. o opodatkowaniu piwa (Dz. U. R. P. Nr 65, poz. 635)."
+      },
+      {
+       "type": "text",
+       "text": "Reklamacje z powodu nieotrzymania numeru należy zgłaszać we właściwym urzędzie pocztowym natychmiast po otrzymaniu następnego kolejnego numeru. Reklamacje kierowane do Administracji pozostaną bez odpowiedzi."
+      },
+      {
+       "type": "text",
+       "text": "Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Ministerstwa Sprawiedliwości w Łodzi, ul. Kilińskiego 93."
+      },
+      {
+       "type": "text",
+       "text": "Zgłoszenia na prenumeratę przyjmuje się w Administracji Dziennika Ustaw R. P. w Łodzi, ul. Piotrkowska 49. Prenumeratę należy wpłacać z góry. Wysyłkę wykonuje się po uprzednim wpłaceniu prenumeraty kwartalnej dla władz, urzędów, zakładów i instytucyj państwowych i samorządowych w kwocie zł 100, dla innych prenumeratorów w kwocie zł 200. Konto czekowe w P.K.O. w Łodzi VII—134. Pojedyncze numery są do nabycia: w Biurze Sprzedaży w Warszawie, ul. Targowa 59, w Administracji Dziennika Ustaw R. P. w Łodzi, ul. Piotrkowska 49 oraz w Kasach Sądów Okręgowych w Lublinie, Krakowie, Katowicach i Poznaniu."
+      },
+      {
+       "type": "text",
+       "text": "Cena zł 8."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,52 @@
+{
+ "eli": "DU/1945/284",
+ "title": "Dekret z dnia 26 października 1945 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu przymusowym w administracji.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/284/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET z dnia 26 października 1945 r. o zmianie rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu przymusowym w administracji. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W rozporządzeniu Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o postępowaniu przymusowym w administracji (Dz. U.R.P. Nr 36, poz. 324), zmienionym rozporządzeniem Prezydenta Rzeczypospolitej z dnia 27 października 1933 r. (Dz. U. R. P. Nr 84, poz. 624) i rozporządzeniem Prezydenta Rzeczypospolitej z dnia 28 grudnia 1934 r. (Dz. U.R.P. Nr 110, poz. 976) przepis art. 48 otrzymuje brzmienie: „Art. 48. 1) Kara pieniężna celem przymuszenia może być stosowana kilkakrotnie w tym samym lub coraz wyższym wymiarze, nie może jednak każdorazowy wymiar przekraczać sumy 500 zł bądź 5 dni aresztu na przypadek niemożności zapłacenia kary.",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "O wykonanie kary zastępczego aresztu, nałożonej na osobę wojskową należy zwrócić się do władz wojskowych\".",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Administracji Publicznej w porozumieniu z zainteresowanymi Ministrami.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Prezydent Krajowej Rady Narodowej: Bolesław Bierut Prezes Rady Ministrów: Edward Osóbka - Morawski w/z Minister Administracji Publicznej: Władysław Wolski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Obrony Narodowej: Michał Żymierski Marszałek Polski Minister Skarbu : Konstanty Dąbrowski Minister Oświaty: Czesław W ycech Minister Przemysłu: Hilary Minc Minister Komunikacji: Jan Rabanowski w/z Minister Pracy i Opieki Społecznej: Feliks Mantel Minister Bezpieczeństwa Publicznego: Stanisław Radkiewicz w/z Minister Spraw Zagranicznych: Zygmunt Modzelewski Minister Sprawiedliwości: Henryk Świątkowski w/z Minister Rolnictwa i Reform Rolnych: Stanisław Bieniek Minister Aprowizacji i Handlu: Jerzy Sztachelski Minister Odbudowy: Michał Kaczorowski Minister Poczt i Telegrafów: Tadeusz Kapeliński"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

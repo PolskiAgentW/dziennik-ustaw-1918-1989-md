@@ -1,0 +1,758 @@
+{
+ "eli": "DU/1945/14",
+ "title": "Dekret z dnia 15 stycznia 1945 r. o Narodowym Banku Polskim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/14/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 stycznia 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "o Narodowym Banku Polskim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 38 stycznia 1945 r. (Dz. U. R. P. Nr 1, poz. 1) o trybie wydawania dekretów z mocą ustawy, Rada are a” A : „e"
+  },
+  {
+   "type": "text",
+   "text": "Ministrów postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "I, Przepisy ogólne."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Celem uregulowania obiegu pieniężnego i kredytu, powołuje się do życia in- „Narodowy stytucję państwową pod nazwą Bank Polski”, wyposażoną przez Państwo w przywilej emisji biletów bankowych i nazywaną w niniejszym dekrecie Bankiem.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Bank jest osobą prawną i ma prawo używania pieczęci z godłem państwowym i napisem w otoku „Narodowy",
+   "children": [
+    {
+     "type": "text",
+     "text": "Bank Polski*."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Siedzibą Banku jest siedziba naczelnych władz Rżeczypospolitej Polskiej. Działalnością swą obejmuje Bank obszar całego Państwa Polskiego. Bank może za zgodą Ministra Skarbu otwierać i zwijać oddziały i zastępstwa (placówki inkasowe).",
+   "children": [
+    {
+     "type": "text",
+     "text": "II."
+    },
+    {
+     "type": "text",
+     "text": "Kapitał zakładowy."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Kapitał zakładowy Banku stanowi niewycofalna dotacja",
+   "children": [
+    {
+     "type": "text",
+     "text": "Skarbu Państwa w kwocie 250 milionów złotych."
+    },
+    {
+     "type": "text",
+     "text": "Kapitał zakładowy Banku może być podwyższony na podstawie uehwaly Rady Ministrów."
+    },
+    {
+     "type": "text",
+     "text": "III. Władze Banku:"
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_4/ust_5",
+     "text": "(1) Rada Banku nadaje ogólny",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art, kierunek działalności"
+      },
+      {
+       "type": "text",
+       "text": "Banku oraz sprawuje kontrolę nad działalnością Banku nadzór i |i czynnościami jego organów wykonawczych."
+      },
+      {
+       "type": "text",
+       "text": "(2) W szezególności do obowiązków Rady należy:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_5/lit_a",
+       "text": "mianowanie na wniosek zarządu człon- — ków Komitetów Dyskontowych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_5/lit_b",
+       "text": "zatwierdzanie budżetu wydatków Banku, przedstawionego przez Zarząd;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_4/ust_5/lit_c",
+       "text": "przedkładanie Ministrowi Skarbu wniosków co do wysokości stopy dyskontowej oraz stawek procentowych i prowizyjnych Banku;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_5/lit_a",
+       "text": "decydowanie o nabywaniu i pozbywaniu nieruchomości (art. 22);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_4/ust_5/lit_e",
+       "text": "składanie rocznych sprawozdań Ministrowi Skarbu do zatwierdzenia;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_4/ust_5/lit_f",
+       "text": "przeprowadzanie rewizji poszczególnych czynności Banku, przeglądanie ksiąg i dowodów Banku.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "(1) Rada Banku składa się z Prezesa Banku i 10-ciu członków, powoływanych i odwoływanych uchwałą Rady Ministrów na wniosek Ministra Skarbu w połowie z przedstawicieli ministerstw zainteresowanych w gospodarce Banku, a w połowie spośród przedstawicieli sfer gospodarczych oraz ruchu spółdzielczego.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "(2) Członkowie Rady otrzymują wynagrodzenie za udział w posiedzeniach w wysokości ustalonej przez Ministra Skarbu."
+    },
+    {
+     "type": "text",
+     "text": "(8) Radę zwołuje Prezes Banku przynaj- Na żądanie 3-ch członmniej raz na miesiąc. ków Rada winna być zwołana w ciągu tygodnia."
+    },
+    {
+     "type": "text",
+     "text": "W razie nieobecności Prezesa Banku (4) na posiedzeniach Rady przewodniczy członek Rady wyznaczony przez Ministra Skarbu."
+    },
+    {
+     "type": "text",
+     "text": "(5) Uchwały Rady zapadają zwykłą większością głosów, w razie równości głosów decyduje głos Prezesa Banku."
+    },
+    {
+     "type": "text",
+     "text": "(6) Rada Banku ustala, jakie osoby i w jaki sposób podpisują zobowiązania, dokumenty i korespondencję Banku."
+    },
+    {
+     "type": "text",
+     "text": "nd Art. 7."
+    },
+    {
+     "type": "text",
+     "text": "Prezesa Banku mianuje i odwołuje Prezydent Krajowej Rady Narodowej na wniosek Ministra Skarbu."
+    },
+    {
+     "type": "text",
+     "text": "uchwalony przez Radę Ministrów..."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Prezes Banku otrzymuje z funduszów Banku stałe uposażenie ustalone przez Ministra Skarbn. Za udział w posiedzeniach Rady Prezes Banku nie otrzymuje oddzielnego wynagrodzenia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Prezes Banku przewodniczy Radzie banku, czuwa nad wykonaniem jej uchwał i sprawuje ogólne kierownictwo Banku.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Do zakresu działania Zarządu Banku należy techniczne kierownictwo Banku oraz załatwianie wszystkich spraw, które nie zostałv zastrzeżone dla Rady i Prezesa Banku.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "(1) Zarząd Banku w składzie Naczelnego Dyrektora i 2-ch jego zastępeów mianuje i odwołuje Rada Ministrów na wniosek Ministra Skarbu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Ze stanowiskami Prezesu Banku, Naczelnego Dyrektora i jego zastępców nie wolno łączyć stanowisk: i"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_11/lit_a",
+     "text": "funkejonariusza państwowego lub samorządowego;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_11/lit_b",
+     "text": "w przedsiębiorstwie przemysłowym lub handłowym. choćby ono stanowiło w całości lub części własność jego lub jego rodziny:",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_11/lit_c",
+     "text": "we władzach kas oszczędności, banków lub spółdzielni.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(3) Minister Skarbu może Prezesowi Banku i członkom Zarządu zezwolić na objęcie stanowiska we władzach spółdzielni, jeżeli ono jest bezpłatne i obsadzone z wyboru."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Naczelny Dyrektor Banku i jego zastępcy otrzymują z funduszów Banku uposażenie, ustalone przez Ministra Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "(1) Zwierzchni nadzór nad działalnością Banku wykonuje Minister Skarbu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "[5 = Dziennik Ustaw Nr 4"
+    },
+    {
+     "type": "text",
+     "text": "(2) Dia utrzymania łączności Ministerstwa Skarbu z Bankiem, Ministrowi Skarbu przysługuje prawo mianowania spośród urzędników państwowych Komisarza Banku. Komisarz Banku otrzymuje stałe uposażenie „„ funduszów Banku, ustalone przez Ministra Skarbu."
+    },
+    {
+     "type": "text",
+     "text": "IV. Przywilej emisji biletów Banku."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "(1) Bank posiada wyłączne prawo wypuszczania biletów bankowych na obszarze Państwa Polskiego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Wysokość emisji określa Rada Ministrów na wniosek Ministra Skarbu."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Emitowane bilety bankowe są zabezpieczone całym majątkiem państwowym i wszystkimi dochodami Skarbu Państwa.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Bilety bankowe mogą być wypuszczane w odcinkach, których wysokość ustali Rada Banku za zgodą Ministra Skarbu. Każdorazowo przed wypuszczeniem nowych odcinków winien być w gazecie urzędowej ogłoszony dokładny ich opis.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "(i) Wycofanie z obiegu poszczególnych odcinków lub też wszystkich kategorii biletów bankowych, zarządza Rada Banku za zgodą Ministra Skarbu. Terminy wymiany, po upływie których wycofane bilety zostają umorzone, ogłaszane będą w gazecie urzędowej i nie mogą być krótsze, niż 6 miesięcy od daty ich ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Równowartość nie przedstawionych w terminie do wymiany biletów bankowych przelewa się na dobro Skarbu Państwa."
+    },
+    {
+     "type": "text",
+     "text": "(3) Bank ma obowiązek wymiany biletów uszkodzonych."
+    },
+    {
+     "type": "text",
+     "text": "Art, 18. Podrabianie, przechowywanie lub puszczanie w obieg podrobionych biletów Banku podlega karom przewidzianym w kodeksie karnym."
+    },
+    {
+     "type": "text",
+     "text": "Art, 19. Łączna kwota znajdujących się w obiegu biletów bankowych i natychmiast płatnych zobowiązań winna być pokryta w całości następującymi aktywami:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_17/pkt_1",
+     "text": "złotem w monetach i sztabach;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_17/pkt_2",
+     "text": "pieniędzmi zagranicznymi i dewizami płatnymi najdalej w ciągu 6-ciu miesięcy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_17/pkt_3",
+     "text": "innymi aktvwami Banku.",
+     "children": [
+      {
+       "type": "text",
+       "text": "V -Czynności bankowe."
+      },
+      {
+       "type": "text",
+       "text": "Art. 20,"
+      },
+      {
+       "type": "text",
+       "text": "(1) Do zakresu działania Banku należy: ."
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_17/pkt_3/lit_a",
+       "text": "dyskont weksli i kuponów od papierów wartościowych (art. 28);",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_17/pkt_3/lit_b",
+       "text": "udzielanie pożyczek i otwieranie kredytów pod zastaw wartości wyszczególnionych w art. 26;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_17/pkt_3/lit_c",
+       "text": "kupno i sprzedaż papierów procentowych, komunalnych i hipotecznych, w granicach określonych przez Ministra Skarbu:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_17/pkt_3/lit_d",
+       "text": "otwieranie rachunków żyrowych i przyjmowanie wkładów;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_17/pkt_3/lit_e",
+       "text": "kupno i sprzedaż pieniędzy zagranicznych, złota i srebra oraz dewiz, utrzymywanie zagranicą rachunków oraz korzystanie z kredytów potrzebnych do wykonywania tych czynności, przy czym Bank ma prawo oddać w zastaw 4 swój portfel wekslowy oraz inne wartości i redyskontować weksle krajowe i zagraniczne.",
+       "children": [
+        {
+         "type": "text",
+         "text": "- Bank może korzystać z kredytów zagranicą tylko na podstawie uchwały Rady Ministrów;"
+        },
+        {
+         "type": "text",
+         "text": "f"
+        },
+        {
+         "type": "text",
+         "text": "— sprzedaż przekazów i wypłat na własne oddziały;"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "art_17/pkt_3/lit_g",
+       "text": "przyjmowane weksli i innych dokumęntów do inkasa:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_17/pkt_3/lit_h",
+       "text": "przyjmowanie depozytów na przechowanie i do administracji:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_17/pkt_3/lit_i",
+       "text": "załatwianie wszelkich zleceń komisowych z dziedziny bankowej:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "art_17/pkt_3/lit_j",
+       "text": "udzielanie kredytów pod zastaw obligów Skarbu Państwa i przez Państwo poręczonych — w granicach uchwał Rady Ministrów.",
+       "children": [
+        {
+         "type": "text",
+         "text": "(2) Do dewiz w myśl ust. (1), pkt. e) zalicza się wierzytelności w bankach zagranicz- . nych, czeki i przekazy na banki zagraniczne oraz weksle, akceptowane przez firmy” zagraniczne i płatne najdalej w ciągu 6 miesięcy."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Bank nie może nabywać na własność nieruchomości, o ile nie są potrzebne na pomieszczenia Banku i jego pracowników.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 22, (1) Bank może nabywać m właspość nieruchomości i przejmować wierzytelności hipoteczne i inne prawa rzeczowe, w drodze świadczenia zamiast zapłaty lub w drodze przelewu albo egzekucji tylko na pokrycie lub zabezpieczenie swoich należności wątpliwych lub niezapłaconych w terminie. Bank obowiązany jest zbyć te prawa najpóź- „niej w ciągu roku od daty nabycia."
+    },
+    {
+     "type": "text",
+     "text": "(2) Przedłużenie terminu zbycia może nastąpić jedynie na podstawie uchwały Rady Banku."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "(1) Bank dyskontuje w granicach ustalonych zezwoleniem : Ministra Skarbu weksle powstałe z dokonanych obrotów gospodarczych, płatne w ciągu 3-ch miesięcy w miejseowościach, w których Bank ma swoje oddziały lub zastępstwa, przy czym Wéksle winny być opatrzone zasadniczo 3-ma, a wyjątkowo tylko 2-ma podpisami firm lub osób zasługujących na zaufanie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Weksle rolnicze i przemysłu rolniczego winny być płatne najdalej w ciągu 9 miesięcy."
+    },
+    {
+     "type": "text",
+     "text": "(3) Kupony od papierów procentowych przedstawione do dyskontu winny być płatne najdalej w terminie 3 miesięcy od dnia zdyskontowania."
+    },
+    {
+     "type": "text",
+     "text": "Za weksle wykupione przed terminem płatności Bank odsetek dyskontowych nie ZWTAGA."
+    },
+    {
+     "type": "text",
+     "text": "Art, 24. (1) Dla oceny weksli i innych wartości powołuje się przy centrali oraz oddziałach Banku Komitety Dyskontowe, które rozstrzygają większością głosów o przyjęciu weksli do dyskonta w granicach kredytów, przyznanych poszczególnym podawcom."
+    },
+    {
+     "type": "text",
+     "text": "(2) Przewodniczącym Komitetu Dyskontowego centrali jest Kierownik Wydziału, wyznaczony przez Naczelnego Dyrektora, przewodniezącymi zaś Komitetów Dyskontowych oddziałów są kierownicy tychże."
+    },
+    {
+     "type": "text",
+     "text": "(3) Przewodniczący Komitetu Dyskontowego może odmówić przyjęcia weksli zaaprobowanych prze» większość Komitetu, jednak na żądanie Komitetu przekazuje te sprawy do rozstrzygnięcia Zarządowi."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "25",
+   "path": "art_25",
+   "text": "Członków Komitetów Dyskontowych powołuje i odwołuje Rada Banku na wniosek Zarządu Banku spośród osób, posiadzjących znajomość stosunków rolniczych, przemysłowych i handlowych, a wskazanych przez organizacje gospodarcze danego okręgu. Obowiązki swe pełnią członkowie Komitetów Dyskontowych bezpłatnie.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "26",
+   "path": "art_26",
+   "text": "Bank udzielu pożyczek i otwiera kredyty w granicach ustalonych zezwoleniem Ministra Skarbu na przeciąg czasu nie dłuższy niż 3 miesiące pod zastaw:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_26/pkt_1",
+     "text": "papierów wartościowych o stałym oprocentowaniu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_26/pkt_2",
+     "text": "weksli, odpowiadających warunkom",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "art. 23,"
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_26/pkt_3",
+     "text": "dewiz, odpowiadających warunkom art. 20 ust. (2),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_26/pkt_4",
+     "text": "towarów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_26/pkt_5",
+     "text": "skryptów dłużnych z poręką bankową.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "(1) Jeżeli pożyczka zabezpieczona zastawem nie została spłacona w ciągu 10-ciu dni po ustalonym terminie, wówczas Bank ma prawo sprzedać przedmiot zasławu bez stawiania dłużnika w zwłoce i bez zawiadomienia go o sprzedaży. SE",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Bank może dokonać sprzedaży na giełdzie, w drodze licytacji publicznej lub skupić przedmiot zastawu na własny rachunek po kursie giełdowym, obliczonym według średniej ceny dnia, w którym Bank wyśle zastawcy zawiadomienie o dokonanym skupie."
+    },
+    {
+     "type": "text",
+     "text": "(3) Termin, w którym Bank może sprzedać przedmiot zastawu, zależy od uznania Banku."
+    },
+    {
+     "type": "text",
+     "text": "(4) Nadwyżkę powstałą po potrąceniu należności Banku z tytułu pożyczki i kosztów sprzedaży zastawu zwraca się dłużnikowi."
+    },
+    {
+     "type": "text",
+     "text": "(5) Bank ma prawo zwrócić się bezpośrednio do dłużnika z żądaniem zwrotu długu, niespłaconego w terminie, niezależnie od tego, czy skorzystał z praw ciążących na zastawionym przedmiocie."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Przyjęte na zabezpieczenie Banku zastawy nie podlegają zajęciu w poszukiwaniu jakichkolwiek należności prywatnych, skarbowych czy innych, a w razie upadłości dłużnika nie mogą być przekazane do masy upadłościowej przed całkowitym zaspokojeniem przypadającej Bankowi należności z tytułu udzielonej pod ich zastaw pożyczki w .kapitale, procentach i kosztach. Skutkiem tego sprzedaż zastawu na pokrycie należności Banku zarządzona na mocy art. 27 nie może być wstrzymana przez żadne czynności prawne.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "Bank może przyjmować pieniądze krajowe na rachunki żyrowe nieoprocentowane; posiadaczami rachunków .żyrowych mogą być instytucje państwowe i samorządowe oraz firmy i osoby prywatne. Bank może bez podania powodów odmówić otwarcia rachunku żyrowego osobom i firmom prywatnym, jak również otwarty rachunek zamknąć.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "Bank przyjmuje na przechowanie złoto, gotówkę i dowody nieopieczętowane, a papiery wartościowe na przechowanie i do administracji. /",
+   "children": [
+    {
+     "type": "text",
+     "text": ": Art. 31, Wystawione przez Bank kwity depozytowe są przenośne w drodze cesji, o ile inny tryb postępowania nie został ustalony przy złożeniu depozytu. Bank może żądać sądowego lub notarialnego uwierzytelnienia"
+    },
+    {
+     "type": "text",
+     "text": "cesji."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "52",
+   "path": "art_52",
+   "text": "Skarb Państwa korzysta w Banku z kredytu w rachunku otwartym w granicach ustalonych uchwałą Rady Ministrów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Bank obowiązany jest na żądanie Ministra Skarbu przyjmować bezpłatnie wpłaty na rachunek Skarbu Państwa i dokonywać bezpłatnie wypłat z tego rachunku; ponadto zaś może załatwiać komisowo wszelkie operacje na rachunek Skarbu Państwa."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "33",
+   "path": "art_33",
+   "text": "Przy czynnościach bankowych Bank kieruje się postanowieniami niniejszego dekretu, a w razie braku ich stosuje przepisy prawa obowiązującego. Zakres oraz sposoby wykonania czynności bankowych niniejszym dekretem dozwolonych, ustala Zarząd.",
+   "children": [
+    {
+     "type": "text",
+     "text": "VI. Sprawozdanie i bilans."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "34",
+   "path": "art_34",
+   "text": "(1) Rokiem operacyjnym Banku jest rok kalendarzowy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Papiery wartościowe, będące własnością Banku, wstawia się do bilansu po kursie giełdowym transakcyjnym z dnia 31 grudnia, w razie braku notowań w tym dniu, po ostatnim w ciągu roku kalendarzowego zanotowanym kursie transakcyjnym, a w razie braku notowań giełdowych w ciągu całego roku kalendarzowego, po przeciętnym kursie zakupu z całego okresu rocznego."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "55",
+   "path": "art_55",
+   "text": "Z całego czystego zysku przeznacza się 10%, na fundusz zapasowy do czasu, gdy fundusz ten osiągaie wysokość połowy kapitału zakładowego; resztę czystego zysku przelewa się na rachunek Ministerstwa Skarbu jako dochód Skarbu Państwa.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "56",
+   "path": "art_56",
+   "text": "Fundusz zapasowy jest przeznaczony na pokrycie strat i odpisów nie dających się pokryć z rocznych zysków.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "57",
+   "path": "art_57",
+   "text": "W przypadku, gdy poniesione straty przewyższą istniejący fundusz zapasowy, różnicę pokryje Skarb Państwa.",
+   "children": [
+    {
+     "type": "text",
+     "text": "VII. Szczególne uprawnienia Banku."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "38",
+   "path": "art_38",
+   "text": "Narodowy Bank Polski jest wolny od wszelkich podatków państwowych i samorządowych jako też od wszelkich opłat stemplowych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "39",
+   "path": "art_39",
+   "text": "Wszelkie dowody wystawione przez Bank są wolne od opłat stemplowych.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "21"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "40",
+   "path": "art_40",
+   "text": "Księgi Banku i inne zapiski, wchodzące w skład księgowości Banku oraz , wyciągi z nich uwierzytelnione przez Bank, mają moc dowodową dokumentów publicznych, a dokumenty, stwierdzające zobowiązania z oświadczeniem Banku, że oparte na nich rosz-",
+   "children": [
+    {
+     "type": "text",
+     "text": "VIII."
+    },
+    {
+     "type": "text",
+     "text": "Przepisy końcowe."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "53",
+   "path": "art_53",
+   "text": "Wykonanie niniejszego dekretu porueza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "44",
+   "path": "art_44",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Równocześnie tracą moce obowiązującą przepisy zawarte w art. 46 czenie jest wykonalne i prawnię dojrzałe do ,— 50 statutu Banku Polskiego (obwieszenie egzekucji, mają moc tytułów egzekucyjnych. Ministra Skarbu z dnia 2 maja 1989 r. (Dz.U. Klauzule wykonalności tym tytułom nadaje , R. P. Nr 46, poz. 296) zaś w art. 1 tego statutu właściwy sąd grodzki według przepisów kodeksu postępowania cywilnego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "41",
+   "path": "art_41",
+   "text": "Bank nie podlega wpisowi do rejestru handlowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "42",
+   "path": "art_42",
+   "text": "Pozwy przeciwko Bankowi można wnieść tylko przed właściwym sądem siedziby Banku (art. 3).",
+   "children": [
+    {
+     "type": "text",
+     "text": "skreśla się słowa „wyposażone przez Państwo w przywilej emisji biletów państwowych*."
+    },
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady. Narodowej: Bolesław Bierut Prezes Rady Ministrów : Edward Osóbka- Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Konstanty Dąbrowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

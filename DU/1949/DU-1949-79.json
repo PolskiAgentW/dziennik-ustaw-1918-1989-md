@@ -1,0 +1,81 @@
+{
+ "eli": "DU/1949/79",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 3 marca 1949 r. wydane w porozumieniu z Ministrem Oświaty o utworzeniu katedr, zakładów naukowych i klinik w Akademiach Lekarskich w Bytomiu i Szczecinie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/79/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "EOZPORZĄDZENIE MINISTRA ZDROWIA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 marca 1949 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrem Oświaty o utworzeniu katedr, zakładów naukowych i klinik w Akademiach Lekarskich w Bytomiu i Szczecinie."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 16 i 20 dekretu z dnia 28 października 1947 r. o organizacji nauki i szkolnictwa wyższego (Dz. U. R. P. Nr 66, poz. 415) zarządza się, co następuje: § 1. W Akademii Lekarskiej w Bytomiu tworzy się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "na Wydziale Lekarskim:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "następujące katedry wraz z połączonymi z nimi klinikami: chorób wewnętrznych, chirurgii, stomatologii, pediatrii; ,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "następujące katedry wraz z połączonymi z nimi zakładami naukowymi: anatomii prawidłowej i topograficznej, histologii i embriologii ogólnej, chemii ogólnej, fizyki, nauk społecznych, fizjologii, chemii fizjologicznej, biologii, anatomii patologicznej, patologii ogólnej, farmakologii, higieny;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "na Oddziale Stomatologicznym Wydziału Lekarskiego — katedry: protetyki dentystycznej, dentystyki zachowawczej, chirurgii stomatologicznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W Akademii Lekarskiej w Szczecinie na Wydziale Lekarskim tworzy się następujące katedry wraz z połączonymi z nimi klinikami: chorób wewnętrznych, chirurgii, położnictwa i chorób kobiecych, chorób dzieci, chorób nerwowych, chorób psychicznych, chorób gardła, nosa i uszu, chorób skórnych i wenerycznych, chorób oczu, stomatologii, radiologii i radioterapii, anatomii patologicznej, mikrobiologii, higieny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: T. Michejda"
+  },
+  {
+   "type": "text",
+   "text": "Minister Oświaty: St Skrzeszewski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

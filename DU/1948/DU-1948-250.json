@@ -1,0 +1,105 @@
+{
+ "eli": "DU/1948/250",
+ "title": "Dekret z dnia 28 lipca 1948 r. w sprawie zmiany ustawy o zbiórkach publicznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/250/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 lipca 1948 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany ustawy o zbiórkach publicznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej 1) w art. 2: z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej i ustawy z dnia 25 czerwca 1948 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 33, poz. 223) — Rada Ministrów postanawia, a Rada Państwa zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie z dnia 15 marca 1933 r. o zbiórkach publicznych (Dz. U. R. P. Nr 22, poz.",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "162",
+     "path": "art_1/pkt_162",
+     "text": "wprowadza się następujące zmiany:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_162/lit_a",
+       "text": "w ust. 1 dodaje się punkt e) o brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„€) Minister Administracji Publicznej, a na obszarze Ziem Odzyskanych — Minister Ziem Odzyskanych — jeżeli zbiórka ma być przepro=, wadzona na obszarze obejmującym więcej niż jedno województwo”;",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_162/lit_b",
+       "text": "skreśla się ust. 2;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 18 skreśla się pkt b), a pkt ©), d), e) i f) oznacza się odpowiednio jako punkty: b), c), d) i e).",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrom Administracji Publicznej i Ziem Odzyskanych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie w 14 dni po dniu ogłoszenia. Prezydent Bzeczyposrólijej; Bolesław Bierut",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Jśzeł Cyrankiewicz"
+    },
+    {
+     "type": "text",
+     "text": "Minister Administracji Publicznej: Edward Osóbka-Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Ziem Odzyskanych: w z. Józef Dubiel"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

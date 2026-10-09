@@ -1,0 +1,60 @@
+{
+ "eli": "DU/1945/166",
+ "title": "Dekret z dnia 7 lipca 1945 r. o uchyleniu niektórych przepisów prawa karnego skarbowego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/166/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": ". z dnia 7 lipca 1945 r. * _Q uchyleniu niektórych przepisów prawa karnego skarbowego. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą \"ustawy (Dz.U. R. P. Nr 1, poz. 1) —Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Uchyla się moc obowiązującą rozdziału szesnastego — naruszenie przepisów o opodatkowaniu olejów mineralnych (artykuły 169—",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "176",
+     "path": "art_1/pkt_176",
+     "text": "dekretu Prezydenta Rzeczypospolitej z dnia 3 listopada 1936 r., zawierającego prawo karne - skarbowe (Dz.-U. R. P. Nr 84, poz. 581).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu po- _rucza się Ministrom: Skarbu i Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Prezydent Krajowej Rady Naródowej: Bolesław . Bierut Prezes Rady Ministrów : . Edward: Osóbka - Morawski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Konstanty Dąbrowski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Sprawiedliwości: Henryk Świątkowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

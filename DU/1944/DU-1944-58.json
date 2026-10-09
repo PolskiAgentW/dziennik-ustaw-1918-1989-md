@@ -1,0 +1,93 @@
+{
+ "eli": "DU/1944/58",
+ "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 4 listopada 1944 r. o upoważnieniu do tworzenia sądów oraz zmiany ich okręgów, a ponadto do przenoszenia sędziów na inne miejsce służbowe.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/58/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET POLSKIEGO KOMITETU WYZWOLENIA NARODOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 listopada 1944 r."
+  },
+  {
+   "type": "text",
+   "text": "o upoważnieniu do tworzenia sądów oraz zmiany ich okręgów, a ponadto do przenoszenia sędziów na inne miejsce służbowe."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy Krajowej Rady Narodowej z dnia 15 sierpnia 1944 r. o tymczasowym trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 3) — Polski Komitet Wyzwolenia Narodowego postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Do czasu wytyczenia nowych granic okręgów sądowych na terenie całego Państwa, Kierownik Resortu Sprawiedliwości może zarządzić w drodze rozporządzenia tworzenie i znoszenie sądów grodzkich, okręgowych i apelacyjnych, ustalanie nowych siedzib sądów i zmianę granic ich okręgów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "W czasokresie wskazanym w art. 1:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "władza mianująca może przenosić sędziów bez ich zgody do innego równorzędnego sądu. Prezesów lub wiceprezesów sądów można mianować bez ich zgody na stanowiska sędziów w sądach równorzędnych lub wyższych, przyczym otrzymują oni w tym wypadku tylko uposażenie związane z nowym stanowiskiem.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "przepis art. 91—96 prawa o ustroju sądów powszechnych w brzmieniu ustalonym obwieszczeniem Ministra Sprawiedliwości z dnia 15 listopada 1932 r. (Dz. U. R.P. Nr 102, poz.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "863",
+     "path": "art_2/pkt_863",
+     "text": "z uwzględnieniem zmian ustawy z dnia 19 kwietnia 1937 r. (Dz. U. R.P. Nr.30, poz. -220) o przedstawianiu przez kolegia administracyjne kandydatów na stanowiska sędziowskie nie mają zastosowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Wykonanie niniejszego dekretu porucza się Kierownikowi Resortu Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Polskiego Komitetu Wyzwolenia Narodowego: Edward Osóbka-Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Kierownik Resortu Sprawiedliwości: Jan Czechówski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

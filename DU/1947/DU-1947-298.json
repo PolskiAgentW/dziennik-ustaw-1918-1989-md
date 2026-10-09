@@ -1,0 +1,134 @@
+{
+ "eli": "DU/1947/298",
+ "title": "Rozporządzenie Ministra Aprowizacji z dnia 20 czerwca 1947 r. wydane w porozumieniu z Ministrami Rolnictwa i Reform Rolnych, Administracji Publicznej, Ziem Odzyskanych i Skarbu w sprawie unormowania obrotu zbożem i produktami przemiału.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/298/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA APROWIZACJI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 czerwca 1947 r. Pa wydane w porozumieniu z Ministrami Rolnictwa i Reform Rolnych, Administracji Publicznej, Ziem Odzyskanych i Skarbu w sprawie unormowania obrotu zbożem i produktami przemiału."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 1, 2, 5 i 6 dekretu z dnia 27 czerwca 1946 r: o reglamentowanym zaopatrywaniu ludności w przedmioty powszed- _ niego użytku (Dz. U. R. P. Ń r 35, poz. 217) zarządza się, co następuje:"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Minister Aprowizacji może nało-",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "żyć:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "na przedsiębiorstwa handlu zbożem lub produktami: przemiału istniejące w chwili ogłoszenia niniejszego rozpo-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "rządzenia do czasu uzyskania przez nie zezwoleń „A” lub ,,B\" obowiązki przewidziane w § 6 ust. 6 rozporządzenia Ministra Aprowizacji i Handlu z dnia 11 listopada 1946 r. w sprawie unormowania obrotu zbożem i produktami przemiału (Dz. U. R. P. Nr 68, poz. 375);"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "na młyny handlowe istniejące w chwili ogłoszenia niniejszego. rozporządzenia do. czasu uzyskania przez nie zezwolenia „C' oraz na młyny gospodarcze do czasu ich rejestracji obowiązki przewidziane § 10 ust. 3 rozporządzenia powołanego w pkt a).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zakupy przewidziane w ust. 1 dokonywane będą po cenach wolnorynkowych § 2. Minister Aprowizacji określi w dródze zarządzenia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/ust_2/lit_a",
+       "text": "ilość zakupów zboża i produktów przemiału na zlecenie i rachunek Państwa, przypadających na poszczególne przedsiębiorstwa i młyny z uwzględnieiniem ich rozmiarów;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/ust_2/lit_b",
+       "text": "warunki, na których dokonywane będą zakupy zboża i produktów przemiału na rachunek i zlecenie Państwa,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Poz. 298 i 299"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W powołanym w § 1 rozporządzeniu Ministra Aprowizacji i Handlu z dmia 11 listopada 1946 r. ust. 3. § 10 otrzymuje brzmienie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "» 3. Młyny handlowe mają obowiązek:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "dokonywania na rachunek i zlecenie Państwa zakupów zboża oraz przemiału;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "magazynowania zboża i produktów przemiału na zlecenie Państwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem. ogłoszenia. EE Minister Aprowizacji: Włodzimierz Lechowicz",
+   "children": [
+    {
+     "type": "text",
+     "text": "w/z Minister Rolnictwa i Reform Rolnych: Stanisław Tkaczów Minister Administracji Publicznej: Edward Osóbka-Morawski"
+    },
+    {
+     "type": "text",
+     "text": "„w/z Minister Ziem Odzyskanych: Władysław Czajkowski Minister Skarbu: Konstanty Dąbrowski",
+     "quoted": true
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

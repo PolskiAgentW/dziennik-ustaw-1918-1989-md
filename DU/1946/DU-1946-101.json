@@ -1,0 +1,100 @@
+{
+ "eli": "DU/1946/101",
+ "title": "Dekret z dnia 5 kwietnia 1946 r. o dodatku przejściowym do zaopatrzeń byłych skazańców politycznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/101/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 kwietnia 1946 r."
+  },
+  {
+   "type": "text",
+   "text": "o dodatku przejściowym do zaopatrzeń byłych skazańców politycznych. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą poz. 1) — Rada ustawy (Dz. U.R.P. Nr 1, Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Do zaopatrzeń, wypłacanych na podstawie rozporządzenia Prezydenta Rzeczy: pospolitej z dnia 6 marca 1928 r. o zaopatrzeniu byłych skazańców politycznych (Dz. U.R.P. z 1931 r. Nr 47, poz. 406) z późniejszymi zmianami (Dz. U. R.P. z 1935 r. Nr 85, poz. 523 i z 1936 r. Nr 41, poz. 303), ustanawia się dodatek przejściowy, który będzie wypłacany do czasu unormowania stosunków gospodarczych. Dodatek ten wynosi miesięcznie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "dla b, skazańca politycznego, który pobiera zaopatrzenie w wymiarze dla samotnych . 275 zł",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "dla b. skazańca politycznego, który pobiera _ zaopatrzenie w wymiarze dla żonatych. . . 350zł",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "dla wdowy . . . . . se 250 zł",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_1/lit_d",
+     "text": "dla każdej deroly, której BIBER pobiera zaopatrzenie 80 zt",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_1/lit_e",
+     "text": "dla każdej sieroty, której matka nie żyje lub nie pobiera zaopatrzenia oraz dla każdego z rodziców sw os w s w 6 w M20zh",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 stycznia 1946 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bolesław Bierut \\"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu:"
+    },
+    {
+     "type": "text",
+     "text": "Konstanty Dąbrowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

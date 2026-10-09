@@ -1,0 +1,99 @@
+{
+ "eli": "DU/1944/42",
+ "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 23 października 1944 r. o utworzeniu Uniwersytetu Marii Curie-Skłodowskiej w Lublinie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/42/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET POLSKIEGO KOMITETU WYZWOLENIA NARODOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 października 1944 r."
+  },
+  {
+   "type": "text",
+   "text": "e utworzeniu Uniwersytetu Marii Curie Skłodowskiej w Lublinie."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy Krajowej Rady Narodowej z dnia 15 sierpnia 1944 r. o tymczasowym trybie wydawania dekretów z mocą ustawy (Dz.U.R.P. Nr 1, poz. 3) — Polski Komitet Wyzwolenia Narodowego postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Tworzy się Uniwersytet Marii Curie Skłodowskiej z siedzibą w Lublinie, nazywany w dalszych artykułach Uniwersytetem.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uniwersytet ma na celu:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "kształcenie sił naukowych i specjalistów we wszystkich działach nauki;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "prowadzenie prac naukowych i badawczych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "W chwili powołania do życia Uniwersytet dzieli się na cztery wydziały: lekarski, przyrodniczy, rolny i weterynaryjny. Kierownik Resortu Oświaty może powołać do życia dalsze wydziały.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Uniwersytet jest państwową szkołą akademicką. °",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Pierwszego rektora i profesorów Uniwersytetu mianuje Przewodniczący Rady Narodowej na wniosek Kierownika Resortu Oświaty. We wniosku swoim wskaże Kierownik Resortu Oświaty szczegółowo kwalifikacje naukowe kandydatów na stanowiska rektora lub profesora.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Wykonanie niniejszego dekretu porucza się Kierownikowi Resortu Oświaty.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Krajowej Rady Narodowej: Bolesłuw Bierut Przewodniczący Polskiego Komitetu Wyzwolenia Narodowego: Edward Bolesław Osóbka-Morawski Kierownik Resortu omiaty: * dr Stanisław Skrzeszewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

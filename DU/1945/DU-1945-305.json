@@ -1,0 +1,107 @@
+{
+ "eli": "DU/1945/305",
+ "title": "Dekret z dnia 29 września 1945 r. o zmianie i uzupełnieniu przepisów o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/305/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 września 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie i uzupełnieniu przepisów o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W dekrecie Prezydenta Rzeczypospolitej z dnia 6 września 1935 r. o wydawaniu Dziennika Ustaw Rzeczynospolitej Polskiej (Dz. U. R. P. Nr 68, poz. 423) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 1 ust. 1 otrzymuje brzmienie: „Art. 1. (1) W Dzienniku Ustaw Rzeczypospolitej Polskiej ogłaszać należy:"
+    },
+    {
+     "type": "text",
+     "text": "1) akty ustawodawcze,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) umowy z innymi państwami,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) rozporządzenia Prezydenta Rzeczypospolite], Rady Ministrów, Prezesa Rady Ministrów i Ministrów, wydane celem wykonania aktów ustawodawczych i z powołaniem się na nie,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) oświadczenia rządowe, stwierdzające spełnienie się warunków, od których zależy moc obowiązująca umów z innymi państwami, oraz oświadczenia rządowe o przystąpieniu państw obcych do u wów zawartych przez Rzeczpospolitą Polską i o dokonanych ratyfikacjach”.",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "W Dzienniku Ustaw Rzeczypospolitej Polskiej ogłaszać należy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "rozporządzenia wykonawcze Prezydenta Krajowej Rady Narodowej i Prezydium Krajowej Rady Narodowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "obwieszczenia Ministra Sprawiedliwości o utracie mocy obowiązującej dekretów bądź wskutek nie przedłożenia ich na najbliższym plenarnym posiedzeniu Krajowej Rady Narodowej bądź też wskutek odmowy zatwierdzenia ich przez Krajową Radę Narodową (art. 1 pkt c ustawy z dnia 15 sierpnia 1944 r. o tymczasowym trybie wydawania dekretów z mocą ustawy — Dz. U. R. P. Nr 1, poz. 3).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 7 maja 1945 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Sprawiedliwości: Henryk Świątkowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

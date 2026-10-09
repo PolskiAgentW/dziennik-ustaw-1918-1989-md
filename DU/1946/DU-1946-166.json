@@ -1,0 +1,112 @@
+{
+ "eli": "DU/1946/166",
+ "title": "Dekret z dnia 14 czerwca 1946 r. w przedmiocie uzupełnienia ustawy z dnia 28 kwietnia 1946 r. o przeprowadzeniu głosowania ludowego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/166/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 czerwca 1946 r."
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie uzupełnienia ustawy z dnia 28 kwietnia 1946 r. o przeprowadzeniu głosowania ludowego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie z dnia 28 kwietnia 1946 r. o przeprowadzeniu głosowania ludowego (Dz. U. R. P. Nr 15, poz. 105) wprowadza się następujące uzupełnienia: © 4) W art. 1 wyraz „kończy” zastępuje się wyrazami: „będzie miał ukończonych”.",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "Po art. 11 dodaje się art.",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "lla o brzmieniu:"
+    },
+    {
+     "type": "text",
+     "text": "„Art. 11a: Generalny Komisarz Głosowania Ludowego ustali:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) podział kraju na obwody głosowania dla żołnierzy Wojska Polskiego i Korpusu Bezpieczeństwa Wewnętrznego, skład obwodowych komisyj głosowania ludowego dla żołnierzy, tryb sporządzania spisów żołnierzy uprawnionych do głosowania oraz tryb ustalania wyniku głosowania żołnierzy Wojska Polskiego i Korpusu Bezpieczeństwa Wewnętrznego;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) tryb głosowania osób, znajdujących się w dniu głosowania w delegacji służbo-",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "wej, pełniących służbę poza swym obwodem głosowania, pozostających w dniu głosowania na leczeniu w szpitalach lub pozbawionych możności oddania głosu w swym obwodzie głosowania z innych ważnych przyczyn;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) zasady oraz szczegółowe wyjaśnienia, niezbędne dla umożliwienia wykonania prawa głosowania, wynikającego z ustawy, tym wszystkim osobom, które z powodu wydarzeń siły wyższej lub innych wyjątkowych a nie przewidzianych przyczyn nie mają możności oddania głosu w trybie przez ustawę ustalonym, z zachowaniem jednak przepisów o tajności głosowania oraz przepisu art. 26 ust. 1”.",
+     "quoted": true
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "W art. 22 ust. 3 otrzymuje brzmienie: „3. Głosowanie trwa od godziny 7-ej do 21- -ej bez przerwy, może być jednak zamknięte wcześniej, jeżeli wszyscy uprawnieni do głosowania w danym obwodzie oddali swe głosy”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Prezesowi Rady Ministrów w porozumieniu z Ministrami: Administracji Publicznej, Ziem Odzyskanych, Skarbu oraz Bezpieczeństwa Publicznego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawskt Minister Administracji Publicznej: Władysław Kiernik Minister Ziem Odzyskanych: Władysław Gomułka Minister Skarbu:"
+    },
+    {
+     "type": "text",
+     "text": "Konstanty Dąbrowski Minister Bezpieczeństwa Publicznego: Stanisław Radkiewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

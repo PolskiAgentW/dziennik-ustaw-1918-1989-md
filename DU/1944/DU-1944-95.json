@@ -1,0 +1,66 @@
+{
+ "eli": "DU/1944/95",
+ "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 28 grudnia 1944 r. o zmianie ustawy z dnia 18 marca 1935 r. o opodatkowaniu cukru skrobiowego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/95/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET POLSKIEGO KOMITETU WYZWOLENIA NARODOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z. dnia 28 grudnia 1944 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie ustawy z dnia 18 marca 1935 r. o opodatkowaniu cukru skrobiowego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy Krajowej Rady Narodowej z dnia 15 sierpnia 1944 r. o tymczasowym trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 3) — Polski Komitet Wyzwolenia Narodowego a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Art. 3 ust. 1 ustawy z dnia 18 marca 1935 r. o opodatkowaniu cukru skrobiowego (Dz. U. R. P. Nr 25, poz. 170) otrzymuje brzmienie następujące:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„art. 3 Podatek od cukru skrobiowego wynosi 200 zł od 100 kg\".",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Kierownikowi Resortu Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Polskiego Komitetu Wyzwolenia Narodowego: Edward Osóbka- Morawski Kierownik Resortu Skarbu: Jan Stefan Haneman"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,62 @@
+{
+ "eli": "DU/1945/165",
+ "title": "Dekret z dnia 7 lipca 1945 r. o zniesieniu podatku od olejów mineralnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/165/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 lipca 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "* , _ © zniesieniu podatku od olejów mineralnych. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1,-poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje: „ Art. 1. Uchyla się moc obowiązującą rozporządzenia Prezydenta Rzeczypospolitej z dnia 7 marca 1928 r. o podatku od olejów mineralnych (Dz. U. R. P. Nr 27, poz. 252) wraz z późniejszymi zmianami."
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu po” rucza się Ministrowi Skarbu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "~~"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi - w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 sierpnia 1944 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej:"
+    },
+    {
+     "type": "text",
+     "text": "Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Konstanty Dybróweki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

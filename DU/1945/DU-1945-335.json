@@ -1,0 +1,56 @@
+{
+ "eli": "DU/1945/335",
+ "title": "Dekret z dnia 4 grudnia 1945 r. o nadaniu Narodowemu Bankowi Polskiemu uprawnień w zakresie obrotu pieniężnego z zagranicą.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/335/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET z dnia 4 grudnia 1945 r. o nadaniu Narodowemu Bankowi Polskiemu uprawnięń w zakresie obrotu pieniężnego z zagranicą. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R.P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Przenosi się na Narodowy Bank Polski uprawnienia Banku Polskiego, ustalone dekretem Prezydenta Rzeczypospolitej z dnia 26 kwietnia 1936 r. w sprawie obrotu pieniężnego z zagranicą oraz obrotu zagranicznymi i krajowymi środkami płatniczymi (Dz. U. R.P. z r. 1938 Nr 86, poz. 584), w brzmieniu dekretu Prezydenta Rzeczypospolitej z dnia 2 września 1939 r. (Dz. U. R. P. Nr 87, poz. 549), oraz wydanymi na podstawie tego dekretu rozporządzeniami, -",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: i Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów:"
+    },
+    {
+     "type": "text",
+     "text": "Edward Osóbka - Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: , Konstanty Dąbrowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

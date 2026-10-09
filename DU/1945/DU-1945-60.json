@@ -1,0 +1,134 @@
+{
+ "eli": "DU/1945/60",
+ "title": "Dekret z dnia 30 marca 1945 r. o utworzeniu Państwowego Przedsiębiorstwa Traktorów i Maszyn Rolniczych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/60/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 marca 1945 r. o utworzeniu Państwowego Przedsiębiorstwa Traktorów i Maszyn Rolniczych. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje: Tworzy się Państwowe Przedsię-"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "biorstwo pod nazwą „Państwowe Przedsiębiorstwo Traktorów i Maszyn Rolniczych* zwane w dalszych artykułach Przedsiębiorstwem.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Siedzibą Przedsiębiorstwa jest siedziba Naczelnych Władz Rzeczypospolitej Polskiej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Celem Przedsiębiorstwa jest:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_3/lit_a",
+     "text": "obsługiwanie gospodarstw rolnych przez tworzenie stacji traktorów i maszyn rolniczych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_3/lit_b",
+     "text": "szkolenie obsługi traktorów oraz maszyn i narzędzi rolniczych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_3/lit_c",
+     "text": "zakładanie i prowadzenie warsztatów reparacyjnych traktorów i narzędzi rolniczych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_3/lit_d",
+     "text": "prowadzenie badań naukowych nad ulepszeniem maszyn i narzędzi rolniczych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Przedsiębiorstwo posiada osobowość prawną i jest wołne od wpisu do rejestru handlowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Przedsiębiorstwo stanowi odrębną jednostkę gospodarczą, prowadzoną wedle zasad handlowych z uwzględnieniem potrzeb gospodarczych rolnictwa. Przedsiębiorstwo pokrywa wszelkie wydatki z własnych dochodów i dotacji Skarbu Państwa. Przedsiębiorstwo prowadzi gospodarkę na podstawie rocznych planów finansowo-gospodarczych, podlegających zatwierdzeniu Ministra Rolnictwa i Reform Rolnych w porozumieniu z Ministrem Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Przedsiębiorstwo będzie użytkować i zarządzać warsztatami reparacyjnymi, tudzież traktorami i maszynami rolniczymi znajdującymi się w rozporządzeniu Państwa oraz z majątków ziemskich, przejętych na cele reformy rolnej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Na czele Przedsiębiorstwa stoi dyrektor oraz 2-ch zastępców, których mianuje i zwalnia Minister Rolnictwa i Reform Rolnych. Dyrektor odpowiedzialny jest za prawidłowe i celowe prowadzenie Przedsiębiorstwa w myśl statutu i wskazań Ministra Rolnictwa i Reform Rolnych. Dyrektor zastępuje Przedsiębiorstwo wobec władz sądowych, administracyjnych i osób trzecich.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Przedsiębiorstwo działa na podstawie statutu zatwierdzonego przez Radę Ministrów na wniosek Ministra Rolnictwa i Reform Rolnych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Minister Rolnictwa i Reform Rolnych sprawuje nadzór nad prawidłową i dostosowaną do potrzeb rolnictwa gospodarką Przedsiębiorstwa. „Art. 10. Wykonanie niniejszego dekretu porucza się Ministrowi Rolnictwa i Reform Rolnych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Rolnictwa i Reform Rolnych: Edward Bertold"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

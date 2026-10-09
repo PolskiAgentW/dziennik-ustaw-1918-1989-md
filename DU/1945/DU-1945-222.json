@@ -1,0 +1,46 @@
+{
+ "eli": "DU/1945/222",
+ "title": "Dekret z dnia 24 sierpnia 1945 r. o dalszym przedłużeniu moratorium lokalowego dla spółdzielni.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/222/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET z dnia 24 sierpnia 1945 r. o dalszym przedłużeniu moratorium lokalowego dla spółdzielni. Na podstawie ustawy z dnia 3 stycznla 1945 r. o trybie wydawania dekretów z mocą ustawy. (Dz.U.R.P. Nr 1, poz. 1) — Rada Ministrów pastanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Termin wstrzymania z mocy samego prawa wykonania orzeozonych eksmisyj spółdzielni z lokali handlowych i przemysłowych, ustalony de-- kretem z dnia 6 lutego 1945 r. o moratorium lokalowym dła spółdzielni (Dz.U.R.P. Nr 6, poz. 21), a przedłużony . dekretem z dnia 7 maja 1945 r. (Dz.U.R.P. Nr 18, poz. 99), przedłuża się do dnia 31 grudnia 1945 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 2 Wykonanie nieniejszego dekretu porucza się Ministrowi Sprawiedliwości."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w dele z dniem: ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowef}: Bolesław Bierut."
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka-M orawski Minister Sprawiedliwości: Henryk Świątkowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

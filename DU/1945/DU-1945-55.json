@@ -1,0 +1,239 @@
+{
+ "eli": "DU/1945/55",
+ "title": "Dekret z dnia 22 marca 1945 r. o częściowej mobilizacji do służby wojskowej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/55/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 marca 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "o częściowej mobilizacji do służby wojskowej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U.R.P. Nr 1, poz. 1) — Rada Ministrów postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Na terenach Rzeczypospolitej Polskiej, całkowicie wyzwolonych spod okupacji niemieckiej powołuje się do czynnej służby wojskowej:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "mężczyzn urodzonych w latach 1925, 1924, 1923, 1922 i 1921;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "podoficerów rezerwy i pospolitego ruszenia, podoficerów byłych tajnych organizacyj wojskowych, podoficerów w stanie spoczynku do lat 40 włącznie, podoficerów zawodowych do lat 45 włącznie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "oficerów rezerwy i pospolitego ruszenia, oficerów byłych tajnych organizacyj wojskowych, oficerów w stanie spoczynku i urzędników wojskowych do lat 45 włącznie, a oficerów zawodowych do lat 50 włącznie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_1/lit_d",
+     "text": "lekarzy, lekarzy dentystów, dentystów, techników dentystycznych, lekarzy weterynarii, magistrów farmacji i farmaceutów, prowizorów farmacji, felczerów, felczerów weterynaryjnych i pielęgniarzy do lat 50 włącznie, byłych słuchaczy i słuchaczki wydziałów: lekarskiego, weterynaryjnego i farmacji wyższych uczelni zarówno krajowych jak i zagranicznych oraz słuchaczy i słuchaczki Akademii Stomatologicznej i wydziałów dentystycznych wyższych uczelni zagranicznych, do lat 35 włącznie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_1/lit_e",
+     "text": "szoferów, specjalistów samochodowych, specjalistów lotnictwa i broni pancernej do lat 40 włącznie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_1/lit_f",
+     "text": "kobiety: lekarzy, lekarzy-dentystów, dentystów, techników dentystycznych, lekarzy weterynarii, magistrów farmacji i farmaceutki, prowizorów farmacji, felczerki i pielęgniarki do lat 40 włącznie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": ".Nie podlegają powołaniu do czynnej służby wojskowej:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "członkowie Milicji Obywatelskiej, funkcjonariusze bezpieczeństwa publicznego w służbie czynnej; *",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "pracownicy Polskich Kolei Państwowych w służbie czynnej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "osoby uznane za zupełnie niezdolne do służby wojskowej w myśl art. 49 ust. 2 pkt. e) ustawy z dnia 9 kwietnia 1938 r. o powszechnym obowiązku wojskowym (Dz. U. R.P. Nr 25, poz. 220);",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "duchowni i zakonnicy prawnie uznanych wyznań;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_2/lit_e",
+     "text": "kobiety wymienione w art. 1 pkt. d) i f) o ile posiadają choćby jedno dziecko poniżej lat 16-tu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_3/par_1",
+     "text": "Od powołania do czynnej służby wojskowej mogą być zwolnieni na czas pełnienia niżej wyszczególnionych czynności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/par_1/lit_a",
+       "text": "na wniosek właściwej władzy przełożonej — wysoko wykwalifikowani urzędnicy: państwowi i samorządowi oraz urzędnicy i pracownicy przedsiębiorstw państwowych;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/par_1/lit_b",
+       "text": "na wniosek właściwych Dyrekcyj — inżynierowie, pracownicy techniczni i wysoko wykwalifikowani robotnicy: Poczt i Telegrafów oraz Dróg Wodnych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_3/par_1/lit_c",
+       "text": "na wniosek Ministra Oświaty — profesorowie, docenci i asystenci szkół wyższych oraz pracownicy zakładów i laboratoriów naukowych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_3/par_1/lit_d",
+       "text": "na wniosek właściwych kuratorów okręgów szkolnych — nauczyciele szkół powszechnych powyżej lat 38 oraz nauczyciele szkół średnich; — na podstawie zaświadczenia przewodniczącego wojewódzkiej rady narodówej — kierownicy przedsiębiorstw przemysłowych o ile przedsiębiorstwa te zatrudniają co najmniej 50 osób, a na podstawie zaświadczenia Ministerstwa Rolnictwa i Reform Rolnych — administratorzy państwowych przedsiębiorstw rolnych oraz lekarze weterynarii;",
+       "children": [
+        {
+         "type": "text",
+         "text": "|-"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_3/par_1/lit_f",
+       "text": "na wniosek Ministra Pracy, Opieki Społecznej i Zdrowia — lekarze, dentyści i magistrzy farmacji, na stanowiskach niezbędnych dla prawidłowego funkcjonowania służby zdrowia, a na wniosek naczelnika wojewódzkiego wydziału zdrowia w wyjątkowych wypadkach dezynfektorzy i pielęgniarki dla szpitali epidemicznych; na podstawie zaświadczenia właściwych prezesów sądów apelacyjnych — aplikanci .sądowi, którzy do dnia 1 czerwca 1945 r. przystąpią do złożenia egzaminu sędziowskiego;",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "g)"
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_3/par_1/lit_h",
+       "text": "na podstawie zaświadczenia właściwej władzy administracji ogólnej I instancji — ojcowie jako jedyni żywiciele nieletnich dzieci poniżej lat 16, bez matki, o ile ojcowie ci: 1) nie są oficerami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_3/par_1/pkt_2",
+       "text": "nie posiadają w swojej rodzinie nikogo zdolnego do pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_3/par_2",
+     "text": "Spośród wymienionych w § 1 pkt. a), b) i e) zwolnieniu od powołania do czynnej służby wojskowej nie podlegają: oficerowie zawodowi i podoficerowie zawodowi, oficerowie, podoficerowie i szeregowi rezerwy — służby zdrowia oraz następujących rodzajów broni: artylerii, czołgów, lotnictwa, łączności, saperów i saperów kolejowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Uchylający się od poboru i wcielenia do służby wojskowej podlegają odpowiedzialności w myśl Kodeksu Karnego Wojska Polskiego przed sądami wojskowymi.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Obrony Narodowej w porozumieniu z Ministrem Administracji Publicznej i Ministrem Bezpieczeństwa Publicznego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski Minister Obrony: Narodowej: Michał Żymierski generał broni Minister Administracji Publicznej: Józef Maślanka Minister Bezpieczeństwa Publicznego: Stanisław Radkiewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,368 @@
+{
+ "eli": "DU/1944/47",
+ "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 23 października 1944 r. o powoływaniu i ukonstytuowaniu ławy przysięgłych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/47/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET POLSKIEGO KOMITETU WYZWOLENIA NARODOWEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 października 1944 r. o powoływaniu i ukonstytuowaniu ławy przysięgłych. Na podstawie ustawy Krajowej Rady Narodowej z dnia 15 sierpnia 1944 r. o tymczasowym trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 3) — Polski Komitet Wyzwolenia Narodowego postanawia a Prezydium Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Do sprawowania obowiązków przysięgłego powołuje się osoby płci obojga, które:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "posiadają obywatelstwo polskie i korzystają w pełni z praw cywilnych i obywatelskich,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "w dniu 1 stycznia tego roku, w którym układa się listę pierwotną ukończyły nie mniej niż 21 lat,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "umieją czytać i pisać po polsku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Nie powołuje się do sprawowania obowiązków przysięgłego:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "pozostających w czynnej służbie sędziów, prokuratorów, urzędników sekretariatu sądowego i prokuratorskiego oraz komorników sądowych, Milicji Obywatelskiej",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "funkcjonariuszów w służbie czynnej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "wojskowych w służbie czynnej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "duchownych i zakonników.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Nie mogą być przysięgłymi osoby, które:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_3/lit_a",
+     "text": "skazane zostały za zbrodnie pospolite lub występek z chęci zysku, jak również osoby, przeciw którym toczy się postępowanie sądowe o taki czyn,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_3/lit_b",
+     "text": "odbywają kary pozbawienia wolności lub są aresztowane na mocy postanowienia sądu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_3/lit_c",
+     "text": "z powodu wady umysłowej lub fizycznej nie mogą pełnić obowiązków przysięgłego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Zwalnia się od obowiązków przysięgłego, w razie zgłoszonego żądania osoby:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_4/lit_a",
+     "text": "którym stan zdrowia lub wiek nie pozwala na pełnienie tych obowiązków, lub",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_4/lit_b",
+     "text": "co do których ważny interes społeczny lub państwowy ze względu na wykonywany przez te osoby zawód zwolnienia tego wymaga.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Żądanie zwolnienia winna zgłosić osoba zainteresowana do właściwego sądu okręgowego nie później jednak niż do chwili ottzymania wezwania sądu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "(1) Każda powiatowa lub w miastach wydzielonych, miejska rada narodowa, ułoży w terminie wyznaczonym przez prezesa sądu okręgowego listę pierwotną osób, które w myśl art. 1, 2, 3 można powóływać do sprawowania obowiązków. przysięgłych i prześle ją temuż prezesowi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Lista winna być ułożona w perządku alfabetycznym, zawierać imię i nazwisko, miejsce za- \"mieszkania, wiek, zajęcie i stopień wykształcenia. Przy układaniu-tej listy należy dążyć, aby wszystkie gminy wchodzące w skład danego powiatu były równomiernie reprezentowane."
+    },
+    {
+     "type": "text",
+     "text": "(3) Zarządzenie Kierownika Resortu Sprawiedliwości w porozumieniu z Kierownikiem Resortu Administracji Publicznej ustali ilość osób, które poszczególne rady narodowe umieszczą na liście pierwotnej w myśl pkt. 1."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "W ciągu 7 dni od otrzymania list pierwotnych komisja okręgowa sądu ułoży listę roczną, główną. oraz dodatkową.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Lista roczna główna winna zawierać 200 nazwisk, a dodatkowa 50 nazwisk. Na listę dodatkową wciąga się tylko osoby zamieszkałe w siedzibie sądu w promieniu 5 km."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Na listy roczne wciąga się z list pierwotnych osoby, które ze względu na nieskazitelny charakter oraz doświadczenie życiowe są szczególnie uzdolnione do sprawowania obowiązków przysięgłych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "W skład komisji okręgowej wchodzą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_8/lit_a",
+     "text": "prezes sądu okręgowego, jako przewodniczący,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_8/lit_b",
+     "text": "dwaj sędziowie sądu okręgowego, wyznaczeni * przez prezesa, -",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dziennik U: Ustaw. Nr 9."
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_8/lit_c",
+     "text": "dwaj przedstawiciele istniejącej w siedzibie „sądu okręgowego rady związków zawodowych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_8/lit_d",
+     "text": "prokurator sądu. okręgowego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_8/lit_e",
+     "text": "przedstawiciel izby adwokackiej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_8/lit_f",
+     "text": "przedstawiciel wojewódzkiej rady narodowej, delegowany przez jej przewodniczącego, powiatowej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_8/lit_g",
+     "text": "po jednym delegacie każdej a w miastach wydzielonych, miejskiej rady narodowej, wchodzącej w skład okręgu sądu okręgowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Uchwały komisji zapadają «większością głosów, przy czym każdy delegat powiatowej i miejskiej rady narodowej głosuje tylko przy rozpoznaniu list pierwotnych ze swego powiatu lub miasta. W razie równości głosów POZEWAŻA głos przewodniczącego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Kierownik Resortu Bphawiedlivcsel: może w drodze rozporządzenia:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_10/lit_a",
+     "text": "połączyć w jeden okręg sądu przysięgłych okręgi kilku sądów okręgowych, należących do jednego. sądu apelacyjnego oraz oznaczyć, w którym z tych sądów okręgowych mają się odbywać posiedzenia sądu przysięgłych. Tak oznaczony sąd okręgowy spełniać będzie dla całego okręgu sądu przysięgłych wszelkie czynności związane z układaniem list oraz. tworzeniem ławy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_10/lit_b",
+     "text": "oznaczyć na obszarze sądu okręgowego, poza jego siedzibą miejscowości, w których mają się odbywać roki sądu przysięgłych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Na dni 30 przed rozpoczęciem każdych srokéw, prezes sądu okręgowego w obecnóści dwóch sędziów tego sądu, prokuratora, przedstawiciela izby adwokackiej oraz protokólanta wylosuje 30 przysięgłych z listy głównej i 10 z listy dodatkowej, o czym niezwłocznie zawiadamia wylosowanych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_12/pkt_1",
+     "text": "Przysięgli pełnią swe obowiązki bezpłatnie.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_12/pkt_2",
+     "text": "Przysięgli utrzymujący się z dziennego zarobku otrzymują odszkodowanie za utracony zarobek. Przysięgli zamiejscowi otrzymują diety oraz zwrot kosztów przejazdu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_13/pkt_1",
+     "text": "Przysięgłego, który nie stawił się do sądu bez usprawiedliwienia sąd skazuje na ~ grzywnę do 1000 zł.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_13/pkt_2",
+     "text": "Co do usprawiedliwienia przyczyny niesta- , wiennictwa, zwolnienia od grzywny oraz zaskarżenia postanowień sądu stosuje się odpowiednie przepisy kodeksu postępowania karnego dotyczące świadków. Odległość zamieszkahia w granicach okręgu sądu przysięgłych nie stanowi przyczyny usprawiedliwiającej niestawiennictwo.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Uchyla się przepisy art. 25—30, 214 do 230 prawa o ustroju sądów powszechnych w brzmieniu ustalonym obwieszczeniem Ministra Sprawiedliwości z dnia 15 listopada 1932 r. (Dz.-U. R. P. Nr. 102, poz. 863).",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Zarządzenie Kierowników Resortów Sprawiedliwości i Administracji Publicznej ustali termin rozpoczęcia działalności sądów przysięgłych dla poszczególnych okręgów tych sądów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Sprawy, w których przed dniem wprowadzenia sądów przysięgłych w danym okręgu sądu okręgowego rozpoczęto rozprawę główną w pierwszej instancji, toczą się do końca według dotychczasowych przepisów chyba, że rozprawę odroczono albo uchylono lub unieważniono wyrok sądu okręgowego albo wznowiono postępowanie.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Wykonanie niniejszego dekretu porucza się Kierownikowi Resortu Sprawiedliwości i Kierownikowi Resortu Administracji Publicznej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Krajowej Rady Narodowej: Bolesław Bierut Przewodniczący Polskiego Komitetu Wyzwolenia Narodowego: Edward Bolesław Osóbka-Morawski"
+    },
+    {
+     "type": "text",
+     "text": "*Kierownik Resortu Sprawiedliwości: Jan Czechowski Kierownik Resortu Administracji Publicznej: Stanisław Kotek-Agroszewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

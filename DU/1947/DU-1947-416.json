@@ -1,0 +1,689 @@
+{
+ "eli": "DU/1947/416",
+ "title": "Dekret z dnia 28 października 1947 r. o mleczarstwie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/416/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z ania 28 października 1947 r."
+  },
+  {
+   "type": "text",
+   "text": "o mleczarstwie. ."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczvpospolitej Polskiej i ustawy z dnia 4 pca 1947 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 49, poz. 252) — Rada Ministrów postanawia, a Rada Państwa zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Przepisy dekretu niniejszego dotyczą: wszelkich zakładów mleczarskich, a w szczególności głównych zakładów mleczarskich, jak mleczarni, maślarni, serowni, kazeiniarni oraz pomoeniczych zakładów mleczarskich, jak śmietańczarni i zlewni oraz obrotu mlekiem i jego przetworami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Zakładem mleczarskim w rozumieniu niniejszego dekretu jest zakład odbierający lub przerabiający mleko i jego przetwory na produkty spożywczo-nabiałowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Minister Przemysłu i Handlu może w drodze rozporządzeń w porozumieniu z Ministrem Rolnictwa i Reform Rolnych wyłączyć w Całości lub częściowo spod działania niniej-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "= 1146 Dziennik Ustaw Nr 67"
+      },
+      {
+       "type": "text",
+       "text": "szego dekretu zakłady mleczarskie na określonym terenie, na oznaczony okres czasu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Mimster Przemysłu i Handlu ustala w drodze rozporządzeń wydanych w porozumieniu z Ministrem Rolnictwa i Reform Rolnych i Ministrem Aprowizacji:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_1/pkt_1",
+       "text": "teren działalności głównych zakładów mleczarskich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_1/pkt_2",
+       "text": "zasady obliczania cen za dostarczone zakładom mleczarskim mleko w stosunku do jego jakości i zawartości tłuszczu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_2/ust_1/pkt_3",
+       "text": "sprawozdawczość zakładów mleczarskich, a w szczególności wykazy surowców oraz przerobu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Minister Przemysłu i Handlu ustala w drodze rozporządzeń wymagania, jakim powinny odpowiadać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_2/pkt_1",
+       "text": "pomieszczenia i urządzenia zakładów mleczarskich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_2/pkt_2",
+       "text": "stosowane przez zakłady mleczarskie metody techniczne wytwarzania poszczególnych rodzajów przetworów mleczarskich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_2/ust_2/pkt_3",
+       "text": "surowce przeznaczone do przetwórstwa.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_2/ust_3",
+     "text": "Nadto Minister Przemysłu i Handlu w «porozumieniu z Ministrem Oświaty i Ministrem Rolnictwa i Reform Rolnych usiali w drodze rozporządzenia wymagania, jakim powinno odpowiadać zawodowe przyqotowanie technicznych kierowników zakładów mleczarskich oraz warunki i tryb ich zatwierdza-",
+     "children": [
+      {
+       "type": "text",
+       "text": "nią."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Dla wykonania czynności, przewidzianych w niniejszym dekrecie, tworzy się Insne'«ioratv Mleczarskie przy wł.dzach lub instytucjach: określonych przez Ministra Przemysłu i Handlu w drodze rozporządzenia, które jednocześnie ustali zakres działania, organizację, uprawnienia oraz tryb pobierania opłat. , 2. Za czynności związane z działalnością Inspektoratów Mleczarskich Minister Przemysłu i Handlu ustali specjalne opłaty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Minister Przemysłu i Handlu ustala tryb i sposób prowadzenia rejestrów mleczarskich. ;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Przed uruchomieniem zakład mleczarski winien być zarejestrowany w Inspektoracie Mleczarskim, który wpisze zakład do rejestru, jeżeli odpowiada on wymaganiom określonym w rozporządzeniu wykonawczym wydanym na podstawie art. 2 ust, 1 pkt 1, ust, 2 pkt 1 i ust. 3, „",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Właściciele zakładów mleczarskich, istniejących w dniu wejścia w życie niniejszego dekretu, jeżeli zamierzają prowadzić je nadal, powinni w ciągu sześciu miesięcy od dnia wejścia w życie rozporządzenia wydanego na podstawie art. 2 wystąpić do wiasciwego Inspektoratu Mleczarskiego o zarejestrowanie zakiadu lub, jeżeli tego nie uczynią, zamknąć zakład w tym terminie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Inspektorat Mleczarski zarejestruje zakład określony w ust. 1, jeżeli jest on urządzony zgodnie z wymaganiami ustalonymi na podstawie art. 2 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Jeżeli zakład mleczarski nie jest urządzony zgodnie z wymaganiami ustalonymi na podstawie art. 2, Inspektorat Mleczarski zarejestruje go, wyznaczając termin dostosowania do tych wymagań, pod rygorem wykreślenia zakładu z rejestru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_5/ust_4",
+     "text": "Przed. powzięciem decyzji o wykreśleniu z rejestru zakładów mleczarskich, które korzystają z kredvtu na cele inwestycyjne, Insnektoraty Mleczarskie zasięgną opinii instytucji wierzycielskiej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Jeżeli zakład mleczarski zostanie unieruchomiony i pomimo wezwania Inspektoratu Mleczarskiego nie zostanie uruchomiony w oznaczonym terminie lub jeżeli zakład jest prowadzony niezgodnie z przepisami dekretu niniejszeqo oraz rozporządzeń na jeso podstawie wydanych, Inspektorat Mleczarski może wykreślić zakład. z rejestru.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Zakłady Mleczarskie, którym odmówiono zarejestrowania z powodu niezgodności urządzeń zakładu z wymaganiami ustalonymi na podstawie art. 2, oraz zakłady, które zostały wykreślone z rejestru, powinny ulec zlikwidowaniu w ciągu trzech miesięcy od daty doręczenia orzeczenia ostatecznego w administracyjnym toku instancji. O odmowie rejestracji lub wykreśleniu z rejestru Inspektorat Mleczarski powiadomi ludność danej miejscowości w sposób w tejże miejscowości przyjęty.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 8. 1. Nadzór nad zakładami mleczarskimi w zakresie ustalonym w dekrecie niniejszym sprawuje Minister Przemysłu i Handlu za pośrednictwem Inspektoratów Mleczarskich."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Przy wykonywaniu nadzoru Inspektoraty Mleczarskie mają prawo:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/ust_2/pkt_1",
+       "text": "kontroli pomieszczeń zaktadéw,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_7/ust_2/pkt_2",
+       "text": "przeglądania ksiąg handlowych, gospodarczych i innych dokumentów i zapisków oraz dokonywania z nich odpisów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_7/ust_2/pkt_3",
+       "text": "badania mleka i przetworów mleczarskich oraz bezpłatnego pobierania z nich próbek niezbędnych do przeprowadzenia kontroli w rozmiarach, które zostaną ustalone dla mleka i poszczególnych rodzajów przetworów mleczarskich przez Ministra Przemysłu i Handlu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Kierownictwo zakładów . mleczarskich obowiązane jest ułatwiać wykonywanie czynności nadzorczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Wiadomości uzyskane przy wykonywaniu nadzoru należy traktować jako tejemnieę handlową. 5, Nadzór nad przestrzeganiem wymagań, ustalonych na podstawie art. 2 w gtosunku do zakładów mleczarskich prowadzonych przez szkoty 'publiczne, wykonują właściwe władze szkolne.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— Dziennik Ustaw Nr 67 _. a>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Minister Przemysłu i Handlu ustala w drodze rozporządzeń: organizację przeprowadzania ocen przetworów mleczarskich, sposób badania i wielkość pobieranych próbek oraz rodzaj zakładów, których przetwory będą podlegały ocenom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Zakłady mleczarskie, określone w rozporządzeniu wydanym stosownie do przepisu ust. 1, obowiązane są do bezpłatnego dostarczania organom oceniającym próbek przetworów mleczarskich.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Minister Przemysłu i Handlu w drodze rozporządzeń:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_10/ust_1/pkt_1",
+       "text": "ustala wymagania, jakim powinny odpowiadać poszczególne rodzaje przeliworów mleczarskich, wywożonych za granicę, ustala podział tych przetworów na typy (standarty) oraz określa tryb zaliczania, tych przetworów do ustalonych typów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_10/ust_1/pkt_2",
+       "text": "określa warunki wywozu za granicę, dotyczące w szczególności opakowania przetworów mleczarskich i znakowania, przechowywania oraz przewozu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_10/ust_1/pkt_3",
+       "text": "może uzależnić uprawnienia do wywożenia przetworów mleczarskich za granicę od wpisania zakładu mleczarskiego do odpowiedniego rejestru oraz może ustalić warunki rejestracji i zasady prowadzenia tych rejestrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "Minister Przemysłu i Handlu w drodze zarządzeń wydanych w porozumieniu z Ministrem Skarbu ustala miejsca odprawy celnej, miejsca kontroli oraz punkty graniczne dla wywozu poszczególnych rodzajów, przetworów mleczarskich.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Minister Przemysłu i Handlu może w drodze rozporządzeń ustalić, że do wywozu za granicę będą dopuszczone tylko przetwory z zakładów mleczarskich, odpowiadających pod względem pomieszczeń, urządzeń i rozmiarów wytwórczości wymaganiom szczególnvm, określonym w rozporządzeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "W razie wydania rozporządzenia na podstawie poprzedzającego ustępu Inspektoraty Mleczarskie „a wniosek właścicieli zakładów mleczarskich będą stwierdzały, czy zakłady te- odpowiadają wymaganiom przewidzianym w rozporządzeniu, oraz będą prowadziły rejestry zakładów odpowiadających tym wy- „maganiom (zakłady mleczarskie wywozowe).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "O wpisaniu zakładu do rejestru zakładów mleczarskich wywozowych lub wykreślę<' niu z rejestru Inspektoraty Mleczarskie zawiadomią właściciela zakładu i ogłoszą na jego koszt w Monitorze Polskim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Nadzór nad wykonaniem przepisów niniejszego dekrétu oraz rozporządzeń i zarządzeń wydanych na jego podstawie o wywozie przetworów mleczarskich za granicę sprawuje Minister Przemysłu i Handlu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Zasady wykonywania bezpośrednieqo nadzoru oraz organy wykonywujące czynności nadzoru określi w drodze rozporządzenia Minister Przemysłu i Handlu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Organy wykonywujące czynności nadzoru mają prawo: i",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_12/ust_3/pkt_1",
+       "text": "wykonywania czynności nadzorczych we wszelkich _ pomieszczeniach przedsiębiorstw wywozowych, w miejscach załadowania przetworów oraz w punktach granicznych, a w przypadkach wyjątkowych — w czasie przewozu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_12/ust_3/pkt_2",
+       "text": "przetlądania księg handlewych, gospodarczych i innych dokumeniów, dowodów i rachunków oraz dokonywania z nich odpisów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_12/ust_3/pkt_3",
+       "text": "pobierania bezpłatnych próbek niezbędnych do przeprowadzania kontroli w rozmiarach, które zostaną ustalone dla poszczególnych rodzajów przetworów mleczarskich przez Ministra Przemysłu i Handlu. 4, Kierownictwo przedsiębiorstw obowiązane jest ułatwić organom nadzorczym przeprowadzanie czynności nadzoru.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_12/ust_5",
+     "text": "Wiadomości uzyskane przy wykonywaniu nadzoru należy traktować jako tajemnicę handlową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_12/ust_6",
+     "text": "Za kontrolę przetworów mleczarskich wywożonych Za granicę mogą być pobierane opłaty w wysokości ustalonej przez Ministra Przemysłu i Handlu. - __",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Minister Przemysłu i Handlu w porozumieniu z Ministrem Rolnictwa i Reform Rolnych ustali w drodze rozporządzenia wymagania, jakim powinno odpowiadać mleko i jego przetwory przeznaczone na sprzedaż oraz sposób przerobu mleka przeznaczonego do przetwórstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Minister Przemysłu i Handlu może w drodze rozporządzenia ustalić organizację i zasady obrotu mlekiem i jego przetworami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_13/ust_3",
+     "text": "Minister Przemysłu i Handlu w porozumieniu z Ministrem Oświaty powoła w drodze rozporządzenia Instytut Mleczarski celem przeprowadzenia badań nad zastosowaniem zdobyczy naukowych w zakresie techniki przetwórstwa mleczarskiego, podniesienia jakości przetworów mleczarskich oraz ustalania ich typów (standartów).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Do postępowania przy wykonywaniu dekretu niniejszego stosuje się przepisy o postępowaniu administracyjnym, o ile nie wynika inaczej z przepisów niniejszego dekretu lub rozporządzeń na jego podstawie wydanych. A",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Od orzeczeń Inspektoratów Mleczarskich służy odwołanie do Ministra Przemysłu i Handlu:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Orzekanie w sprawach odwołań od erzeczen Inspektoratów Mleczarskich Minister Przemysłu i Handlu może przekazać w drodze rozporządzeń wojewodom.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Kto: >",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_15/ust_1/pkt_1",
+       "text": "prowadzi zakład mleczarski niezgłoszony do rejestru wbrew przepisom art. 4 ust. 2 \"lub art. 5 ust. 1 albo prowadzi zakład,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "= 1148 = Dziennik Ustaw Nr 67"
+        },
+        {
+         "type": "text",
+         "text": "którego zarejestrowania Inspektorat Mle- * czarski odmówił, lub też prowadzi zakład skreślony z rejestru (art. 7),"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_15/ust_1/pkt_2",
+       "text": "wywozi za granicę przetwory mleczarskie nie odpowiadające wymaganiom, ustalonym na podstawie art. 10 ust. 1 pkt 1,.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_15/ust_1/pkt_3",
+       "text": "wywozi za granicę przetwory mleczarskie, nie będąc do tego uprawnionym w myśl przepisów wydanych na podstawie art. 10 ust. 1 pkt 3, —",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_15/ust_1/pkt_4",
+       "text": "wywozi za granicę przetwory mleczarskie, pochodzące z zakładów mleczarskich, nie uznanych za zakłady mleczarskie wywozowe (art. 11), . podlega karze aresztu do trzech mię sięcy lub grzywny do 300.000 zł.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Kto:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_15/ust_2/pkt_1",
+       "text": "nie dostarczy próbek przetworów mleczarskich orqanom oceniającym, będąc do tego obowiązanym w myśl przepisów wydanych na podstawie art. 9, '2) utrudnia wykonanie czynności nadzorczych wbrew przepisom art. 8 i 12,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_15/ust_2/pkt_3",
+       "text": "wywozi za qranice przetwory mleczarskie bez zachowania warunków ustalonych na podstawie art. 10 ust. 1 pkt 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_15/ust_2/pkt_4",
+       "text": "sprzedaje mleko z gospodarstwa rolnego lub jego przetwory bez zachowania warunków ustalonych w przepisach wydanych na podstawie art, 13 ust. 1, skupuje lub sprzedaje mleko i jego prze-",
+       "children": [
+        {
+         "type": "text",
+         "text": "5"
+        },
+        {
+         "type": "text",
+         "text": "— twory niezgodnie z przepisami wydanymi na podstawie art. 13 ust. 2, podlega karze aresztu do czternastu dni lub grzywny do 50.000 zł."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "W sprawach o czyny karalne przewidziane w dekrecie niniejszym orzekają powiatowe władze administracji ogólnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Niezależnie od ograniczeń wynika:ących z niniejszeqo dekretu prowadzenie zakładów mleczarskich podlesa innym ograniczeniom wynikającym ze szczególnych przepisów prawa. .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "Dekret niniejszy nie narusza przepisów rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r., o dozorze nad artykułami żywności i przedmiotami użytku (Dz. U. R. P. Nr 36, poz. 343).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Jeżeli dekret niniejszy przewiduje wydanie przez Ministra Przemysłu i Handlu rozporządzeń w zakresie uprawnień Ministra Zdrowia, wynikających z przepisów o dozorze nad artykułami żywności i przedmiotami użytku, rozporządzenia te wydadzą obaj Ministrowie łącznie,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_16/ust_4",
+     "text": "Przepisy dekretu niniejszego nie naruszają w niczym uprawnień wypływających z umów .międzynarodowych:",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Przemysłu i Handlu oraz innym zainteresowanym ministrom.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Równocześnie traci mec \"obowiązującą ustawa z dnia 22 kwietnia 1936 r. o mleczarstwie (Dz. U. R. P. Nr 35, poz. 272). Prezydent Rzeczypospolitej: : Bolesław Bierut Prezes Rady Ministrów: Józef Cyrankiewicz Minister Przemysłu i Handlu: Hilary Minc Minister Administracji Publicznej: Edward Osóbka-Morawski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Ziem Odzyskanych: :"
+    },
+    {
+     "type": "text",
+     "text": "Minister"
+    },
+    {
+     "type": "text",
+     "text": "Władysław Gomułka Minister Skarbu: Konstanty Dąbrowski Sprawiedliwości:"
+    },
+    {
+     "type": "text",
+     "text": "Minister _ Henryk Świątkowski Oświaty: : Minister Stanisław Skrzeszewsk 4"
+    },
+    {
+     "type": "text",
+     "text": "Minister Rolnictwa i Reform Rolnych: w z. Stanisław Kowalewski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Zdrowia: w z. Bogusław Kożusznik Minister Aprowizacji: Włodzimierz Lechowicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

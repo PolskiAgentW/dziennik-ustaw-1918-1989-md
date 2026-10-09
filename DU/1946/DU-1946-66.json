@@ -1,0 +1,120 @@
+{
+ "eli": "DU/1946/66",
+ "title": "Dekret z dnia 22 lutego 1946 r. o utworzeniu i zakresie działania Instytutu Gospodarstwa Narodowego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/66/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 lutege 1946 r. o utworzeniu i zakresie działania Instytutu Gospodarstwa Narodowego. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Tworzy się Instytut Gospodarstwa Narodowego przy Prezesie Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Zadaniem Instytutn jest naukowe badanie życia gospodarczego, a przede wszysikim zagadnień związanych z bieżącą polityką gospodarczą, w szczególności:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "opracowywanie sprawozdań z bieżącej sytuacji gospodarczej w kraju,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "śledzenie i informowanie o rozwoju sy\" tuacji gospodarczej i polityki gospodarczej za granicą,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_2/lit_c",
+     "text": "opracowywanie wielkości i zmian dochodu społecznego oraz badanie struktury gospodarki kraju,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_2/lit_d",
+     "text": "opracowywanie zasadniczych wskaźników rozwoju gospodarczego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_2/lit_e",
+     "text": "wykonywanie prac specjalnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Instytut Gospodarstwa Narodowego podlega Prezesowi Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Na czele Instytutu stoi Prezes, którego mianuje i odwołuje Prezes Rady Ministrów za zgodą Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Budżet Instytutu Gospodarstwa Narodowego stanowi odrębny dział budżetu Pre zydium Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Statut organizacyjny Instytutu Gospodarstwa Narodowego nada Prezes Rady Ministrów w drodze zarządzenia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Wykonanie niniejszego dekretu porucza się Prezesowi Rady Ministrów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 8, Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Jednocześnie traci moc obowiązującą rozporządzenie Prezydenta Rzeczypospolitej z dnia 15 lutego 1928 r. o ustanowieniu Instytutu Badania Koniunktur Gospodarczych i Cen (Dz. U. R. P. Nr 17, poz. 144). -"
+    },
+    {
+     "type": "text",
+     "text": "w/z Prezydent Krajowej Rady Narodowej: Stanisław Szwalbe"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka- Morawski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

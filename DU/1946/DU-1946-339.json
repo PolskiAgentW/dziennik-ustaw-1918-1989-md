@@ -1,0 +1,68 @@
+{
+ "eli": "DU/1946/339",
+ "title": "Dekret z dnia 13 września 1946 r. o zmianie niektórych przepisów ustawy z dnia 14 kwietnia 1937 r. o układach zbiorowych pracy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/339/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET ."
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 września 1946 r. o zmianie niektórych przepisów ustawy z dnia 14 kwietnia 1957 r. o układach zbiorowych"
+  },
+  {
+   "type": "text",
+   "text": "pracy."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1045 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada «Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie z dnia 14 kwietnia 1937 r. o układach zbiorowych pracy (Dz. U. R. P. Nr 31, poz. 242) wprowadza się zmiany następujące: 1). skreśła się ust. (3) art. 2 oraz art. 28,",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 21 w. ust. (2) dodaje się nowe zdanie w brzmieniu: „Układowi zbiorowemu pracy, który ma objąć gospodarstwa rolne, nadaje moc wszechnie obowiązującą Mini» ster Pracy i Opieki Społecznej w porozumieniu z Ministrem Rolnictwa i Reform Rolnych\".",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Pracy i Opieki Społecz nej w porozumieniu z Ministrami Sprawiedliwości oraz Rolnictwa i Reform Rolnych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Prezydent Krajowej Rady Narodowej: Bolesław Bierut Prezes Rady Ministrów: Edward Osóbka-Morawski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Pracy i Opieki Społecznej: Adam Kuryłowicz w/z Minister Sprawiedliwości: Tadeusz Rek"
+    },
+    {
+     "type": "text",
+     "text": "Minister Rolnictwa i Reform Rolnych: Stanisław Mikołajczyk"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

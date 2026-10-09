@@ -1,0 +1,337 @@
+{
+ "eli": "DU/1945/74",
+ "title": "Dekret z dnia 13 kwietnia 1945 r. o podatku wojskowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/74/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 kwietnia 1945 r."
+  },
+  {
+   "type": "text",
+   "text": "o podatku wojskowym. ."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W okresie, gdy walczące na froncie Wojsko Polskie ponosi daninę krwi na rzecz całości i niepodległości Rzeczypospolitej Polskiej, resztę obywateli obciąża się daniną pieniężną w formie podatku wojskowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Podatkowi wojskowemu podlegają zamieszkali na terenie Rzeczypospolitej obywatele polscy płci męskiej w wieku od 18 do 55 lat. Od podatku wojskowego są zwul-",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "nieni:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_3/lit_a",
+     "text": "pozostający w czynnej służbie wojskowej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_3/lit_b",
+     "text": "członkowie Milicji Obywatelskiej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_3/lit_c",
+     "text": "funkcjonariusze służby bezpieczeństwa, pozostający w czynnej służbie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_3/lit_d",
+     "text": "zmilitaryzowani - pracownicy państwowi w okresie militaryzacji,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_3/lit_e",
+     "text": "inwalidzi wojenni i wojskowi,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_3/lit_f",
+     "text": "pozostający na. utrzymaniu samorządu gminnego lub dobroczynności publicznej, uznani za niezdolnych do służby wojskowej ze skreśleniem z rejestru i niezdolni zarazem do pracy zarobkowej, jeżeli nie osiągają dochodu, podlegającego państwowemu podatkowi dochodowemu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "art_3/lit_h",
+     "text": "zakonnicy i duchowni prawnie uznanych wyznań religijnych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "art_3/lit_i",
+     "text": "uczniowie wszelkiego rodzaju zakładów naukowych i oświatowych oraz osoby, odbywające praktykę zawodową, o ile nie posiadają samodzielnych źródeł dochodu, w o. bezrobotni, o ile się wykażą zaświadczeniem właściwego urzędu, że są zarejestrowani jako bezrobotni.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "a"
+      },
+      {
+       "type": "text",
+       "text": "= za, . »Poz. 34 92"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "W poszczególnym roku podatkowym od opłacania podatku wojskowego zwolnione są osoby, które w danym roku odbywały służbę wojskową.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Podatek wojskowy wynosi rocznie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_5/pkt_1",
+     "text": "od właściciela, dzierżawcy lub użytkownika gospodarstwa wiejskiego o obszarze:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/pkt_1/lit_a",
+       "text": "do 5 ha . . . . toe 50 zł",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/pkt_1/lit_b",
+       "text": "ponad 5 ha do 10 ha -.. 100,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/pkt_1/lit_c",
+       "text": "ponad 10 ha do 20 ha . . . 200,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_5/pkt_1/lit_d",
+       "text": "ponad 20 ha . . . . . 500 , W tej samej wysokości Sata podatek każdy członek rodziny właściciela, dzierżawcy lub użytkownika gospodarstwa wiejskiego, podlegający opodatkowaniu w myśl art.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_5/pkt_2",
+     "text": "od osoby pozostającej w stosunku służbowym lub stosunku najmu pracy — 1% wynagrodzenia brutto,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_5/pkt_3",
+     "text": "od osoby trudniącej się wyłącznie pracą fizyczną, której celem nie jest wytwarzanie lub przetwarzanie i która też nie jest rzemiosłem w rozumieniu prawa przemysłowego, o ile nie odpowiada warunkom wymienionym w punkcie 2) — 50 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_5/pkt_4",
+     "text": "od osoby trudniącej się pracą naukową, oświatową, artystyczną, literacką i publicystyczną, nie połączoną z prowadzeniem odpowiedniego przedsiębiorstwa, o ile osoba ta nie odpowiada warunkom wymienionym w punkcie 2) — 100 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_5/pkt_5",
+     "text": "od płatnika nie wymienionego w punkcie 1), 2), 3) i 4) — 500 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Obowiązek opłacania podatku wojskowego powstaje z dniem 1 stycznia następnego roku:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_6/lit_a",
+     "text": "po ukończeniu 18 lat życia (art. 2 niniejszego dekretu),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_6/lit_b",
+     "text": "po wygaśnięciu podstawy do zwolnienia na zasadzie postanowień art. 3 niniejszego dekretu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Obowiązek opłacania podatku wojskowego ustaje:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_7/lit_a",
+     "text": "z chwilą śmierci lub z chwilą uzyskania prawa do zwolnienia na mocy art. 3 dekretu, b). z końcem roku kalendarzowego, w którym osoby wymienione w art. 2 dekretu niniejszego osiągną 55 lat życia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Wymiar i pobór podatku wojskowego przekazuje się gminom miejskim i wiejskim.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Wpływ z podatku wojskowego przeznacza się na komunalny fundusz pozyczkowo-zapo-"
+    },
+    {
+     "type": "text",
+     "text": "mogowy."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "(1) Władzami, powołanymi do wymiaru i poboru podatku wojskowego w myśl art. 5 pkt 1) oraz 3)—5), są zarządy gmin miejskich i wiejskich, na terenie których płatnik miał miejsce zamieszkania lub miejsce pobytu w dniu 15 grudnia roku, poprzedzającego rok podatkowy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Władzami, powołanymi do wymiaru i poboru podatku wojskowego w myśl art. 5 pkt 2), są zarządy gmin miejskich lub wiejskich, na których terenie mieści się instytucja, zakład lub przedsiębiorstwo, wypłacające wynagrodzenie."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "(1) Nakazy płatnicze na podatek wojskowy od osób, o których mowa w art. 5 pkt 1) oraz 3)—5), powinny być rozesłane do dnia 15 maja, przy czym podatek jest płatny do dnia 1 czerwca każdego roku podatkowego. W wypadku doręczenia nakazu płatniczego po . dniu 15 maja, termin płatności podatku przypada w ciągu 30 dni po doręczeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Od osób, o których mowa w art. 5 pkt 2), podatek wojskowy pobiera się w drodze potrącenia przy wypłacie wynagrodzenia."
+    },
+    {
+     "type": "text",
+     "text": "Pracodawcy obowiązani są potrącić podatek wojskowy i wpłacić do kasy właściwej gminy w terminie 7 dni po upływie miesiąca, w którym nastąpiła wypłata wynagrodzenia. (3), Należnościom z tytułu podatku wojskowego przysługuje prawo egzekucji administracyjnej."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Do postępowania w sprawach podatku wojskowego ma zastosowanie ustawa z dnia 11 sierpnia 1923 r. o tymczasowym uregulowaniu finansów komunalnych (Dz. U.R.P. Nr 62, poz. 454 z 1936 r.).",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Wykonanie niniejszego dekretu powierza się Ministrowi Administracji Publicznej w porozumieniu z Ministrem Skarbu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 stycznia 1945 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej:"
+    },
+    {
+     "type": "text",
+     "text": "Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: ."
+    },
+    {
+     "type": "text",
+     "text": "Edward Osóbka - Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Administracji Publicznej:"
+    },
+    {
+     "type": "text",
+     "text": "Edward Ochab"
+    },
+    {
+     "type": "text",
+     "text": "“Minister Skarbu:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Konstanty Dąbrowski",
+     "quoted": true
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

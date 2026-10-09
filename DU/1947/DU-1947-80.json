@@ -1,0 +1,123 @@
+{
+ "eli": "DU/1947/80",
+ "title": "Dekret z dnia 16 stycznia 1947 r. w sprawie zmiany dekretu z dnia 16 kwietnia 1946 r. o zwalczaniu chorób wenerycznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/80/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 stycznia 1947 r. w sprawie zmiany dekretu z dnia 16 kwietnia 1946 r. o zwałczaniu chorób wenerycznych. Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W dekrecie z dnia 16 kwietnia 1946 r. o zwalczaniu chorób wenerycznych (Dz. U. R. P. Nr 18, poz. 119) wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "Art. 7 pkt 2 otrzymuje brzmienie: „2) nie zgłasza się do lekarza w czasie przez niego wyznaczonym, nie uczyniwszy zadość przepisowi art. 4 lub\".",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "Art. 10 ust. 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Rozporządzenie Ministra Zdrowia w porozumieniu z Ministrem Administracji Publicznej i Ministrem -Ziem Odzyskanych określi sposób wykonywania nadzoru sanitarnego nad osobami zagrażającymi szerzeniem chorób wenerycznych”\",",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "W art. 11 ust. 1 skreśla się w pkt 4 zdanie: „W razie oporu chorego stosuje się przepisy o postępowaniu przymusowym w administracji.\" oraz dodaje się nowy ust. 2 w następującym brzmieniu: „2. W razie niezastosowania się choregc do zarządzeń przewidzianych w ust. 1 stosuje się do niego przepisy o postę: powaniu przymusowym w administracii\".",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "\" Dotychczasowy ust. 2 oznacza się jako ustęp 3."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "W art. 16 po wyrazach „z Ministrami Administracji Publicznej” dodaje się przecinek oraz wyrazy „Ziem Odzyskanych\".",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "Skreśla się cały dział „VI. Przepisy karne\".",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Zdrowia w porozumieniu z właściwymi ministrami.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej: Bołesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka-Morawski"
+    },
+    {
+     "type": "text",
+     "text": "w/z Minister Ztlrowia:"
+    },
+    {
+     "type": "text",
+     "text": "Bogusław Kożusznik"
+    },
+    {
+     "type": "text",
+     "text": "Minister Administracji Publicznej: Władysław Kiernih"
+    },
+    {
+     "type": "text",
+     "text": "Minister Ziem Odzyskanych: Władysław Gomułka"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: « Konstanty Dąbrowski."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

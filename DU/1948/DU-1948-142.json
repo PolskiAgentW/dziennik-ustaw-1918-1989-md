@@ -1,0 +1,205 @@
+{
+ "eli": "DU/1948/142",
+ "title": "Dekret z dnia 14 kwietnia 1948 r. o zmianie dekretu z dnia 20 marca 1946 r. o podatkach komunalnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/142/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 kwietnia 1948 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie dekretu z dnia 20 marca 1946 r. o podatkach komunalnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej i ustawy z dnia 9 marca, 1948 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 15, poz. 107) — Rada Ministrów postanawia, a Rada Państwa zatwier- „dza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W dekrecie z dnia 20 marca 1946 r. o podatkach komunalnych (Dz. U. R. P. z 1947 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nr 40, poz. 198) wprowadza się zmiany następujące:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 9:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "w pkt 11 kropkę po wyrazach końcowych zastepuje się przecinkiem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "dodaje się nowe pkt 12) i 18) w brzmieniu: »12) grunty zryte w czasie wojny 1939 — 1945 r. (okopy, rowy przeciwczołgowe) — na okres lat 2, licząc od roku następnego po ich zniwelowaniu (zasypaniu),",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_1/pkt_13",
+     "text": "ogrody działkowe odpowiadające warunkom określonym w dekrecie z dnia 25 czerwca 1946 r. o ogrodach działkowych (Dz. U. R. P. Nr 34, poz. 208).“;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 10 ust. 1 otrzymuje brzmienie: „l. Podatek, poza przypadkami określonymi w ust. 2 i 8, wynosi od podstawy opodatkowania (art. 7) przeliczonej na równowartość:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "do 10 kwintali żyta — 3%0 podstawy opodat- „kowania, i",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "ponad 10 do 20 kwintali żyta — 5°/o podstawy opodatkowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "ponad 20 do 30 kwintali żyta — 60/9 podstawy opodatkowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "ponad 30 do 40 kwintali żyta — 80/9 podstawy opodatkowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "ponad 40 do 50 kwintali żyta — 10°/o podstawy opodatkowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "ponad 50 do 100 kwintali żyta — 12°/o podstawy opodatkowania.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "ponad 100 do 130 kwintali żyta — 14/9 podstawy opodatkowania, ,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_1/pkt_8",
+     "text": "ponad 130 do 150 kwintali żyta — 159/06 podstawy opodatkowania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "ponad 150 do 180 kwintali żyta — 16°/o podstawy opodatkowania, ponad 180 do 250 kwintali żyta — 17°/o podsta- 10) wy opodatkowania, ponad 250 kwintali żyta — 189/06 podstawy 11) opodatkowania. Jeżeli podatnik posiada gospodarstwa rolne w dwu lub więcej gminach na obszarze jednego powiatu, podatek oblicza się według stopy procentowej przypadającej od łącznej podstawy opodatkowania, ustalonej dla każdego z tych gospodarstw. Równowartość określa się według ceny ustalonej w trybie art. 7 ust. 3.';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "w art. 12 ust. 1 otrzymuje brzmienie: „l. Nadzwyczajne okoliczności istotnie osłabiające zdolność płatniczą podatnika, np. klęski żywiołowe, długotrwała choroba, nieszczęśliwy wypadek, mogą być podstawą do zmniejszenia przez władzę wymiarową z urzędu lub na wniosek podatnika podatku najwyżej o 50% w tym roku podatkowym, w którym okoliczności te zaszły. W wyjątkowych, gospodarczo uzasadnionych przypadkach i może nastąpić nawet całkowite zwolnienie od podatku.“;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "art. 13 otrzymuje bremienie: . „Art. 13. 1. Podatek płatny jest w dwóch równych ratach do dnia 1 kwietnia i do dnia 1 listopada każdego roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "W przypadku nieotrzymania nakazu płatniczego do dnia 1 marca roku podatkowego, podatnik obowiązany jest wpłacić do dnia 1 kwietnia roku podatkowego zaliczkę na podatek w wysokości połowy podatku, wymierzonego za rok ubiegły.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "W przypadku uiszczenia tytułem zaliczki na podatek (ust. 2) kwoty niższej niż wymieniona w nakazie płatniczym jako pierwsza rata, podatnik winien uiścić różnicę w, ciągu miesiąca od „dnia doręczenia nakazu piatniczego.'\".",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrom: Administracji Publicznej i Ziem Odzyskanych w porozumieniu z Ministrami: Skarbu oraz Rolnictwa i Reform Rolnych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 stycznia 1948 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Józef Cyrankiewicz Minister Administracji Publicznej: Edward Osóbka-Morawski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Ziem Odzyskanych: Władysław Gomułka"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Konstanty Dąbrowski Minister Rolnictwa i Reform Rolnych: w z. Stanisław Kowalewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

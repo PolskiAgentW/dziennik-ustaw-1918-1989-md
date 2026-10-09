@@ -1,0 +1,512 @@
+{
+ "eli": "DU/1946/45",
+ "title": "Dekret z dnia 22 stycznia 1946 r. o Najwyższym Trybunale Narodowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/45/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 stycznia 1946 r."
+  },
+  {
+   "type": "text",
+   "text": "o Najwyższym Trybunale Narodowym."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie ustawy z dnia 3 stycznia 1945 r. o trybie wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 1, poz. 1) — Rada Ministrów postanawia, a Prezydium Krajowej Rady Narodowej zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Tworzy się Najwyższy Trybunał Narodowy oraz Prokuraturę Najwyższego Trybunału Nsrodowego z siedzibą w miejscu siedziby Sądu Najwyższego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Najwyższy Trybunał Narodowy składa się z Prezesa i sędziów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Prokuratura Najwyższego Trybunału Narodowego składa się z Pierwszego Prokuratora i prokuratorów Najwyższego Trybunału Narodowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Najwyższy Trybunał Narodowy orzeka w składzie 3. sędziów mianowanych w myśl art. 4 ust. 2 oraz 4 ławników powołanych w trybie art. 4 ust. 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Ławnicy w sprawowaniu swego urzędu są niezawiśli i podlegają tylko ustawom.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Prezesem Najwyższego Trybunału Narodowego jest Pierwszy Prezes Sądu Najwyższego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Prezydium Krajowej Rady Narodowej na wniosek Ministra Sprawiedliwości powołuje spośród osób posiadających kwalifikacje sędziowskie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/ust_2/lit_a",
+       "text": "sędziów Najwyższego Trybunału Narodowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/ust_2/lit_b",
+       "text": "Pierwszego Prokuratora i prokuratorów Najwyższego Trybunału Narodowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Sprawowanie funkcji sędziego, orzekającęgo w sądach powszechnych iub specjalnych, nie jest przeszkodą do powcłania na stanowisko sędziego Najwyższego Trybunału Narodowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_4/ust_4",
+     "text": "Sprawowanie funkcji prokuratorskich w sądownictwie powszechnym lub specjalnym nie jest przeszkodą do sprawowania funkcyj prokuratorskich w Najwyższym Trybunale Narodowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_4/ust_5",
+     "text": "Listę ławników ustala Prezydium Krajowej Rady Narodowej spośród posłów Krajowej Rady Narodowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Prezes, sędziowie, Pierwszy Prokurator i prokuratorzy Najwyższego Trybunału Narodowego zrównani są w prawach i obowiązkach z Pierwszym Prezesem, sędziami, Pierwszym Prokuratorem i prekuratorami Sądu Najwyższego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Postępowanie przed Najwyższym Trybunałem Narodowym odbywa się według przepisów kodeksu postępowania karnego, o ile przepisy dalsze nie stanowią inaczej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "W sprawach podlegających właściwości Naiwyższego Trybunału Narodowego prokurator Naiwyższego Trybunału Narodowego może zarządzić tymczasowe aresztowanie. 29 Art. 164, 165, 168, 169 i 171 kodeksu postępowania karnego nie mają w tych przy” padkach zastosowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "Prokurator Najwyższego Trybunału Narodowego może przeprowadzić dochodzenie bezpośrednio, bądź za pośrednictwem bądź prokuratora sądu specjalnego lub prokuratora sądu okręgowego, orgarów bezpieczeństwa publicznego lub Milicji Obywatelskiej, bądź też zwrócić się o dokonanie poszczególnych czynności sądowych do sędziów śledczych lub sądów grodzkich.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Na wniosek prokuratora Najwyższego Trybunału Narodowego prowadzi się śledztwo. Wniosek prokuratora Najwyższego Trybunału Narodowego wiąże sędziego śledczego. Na postanowienie sędziego śledczego w przedmiocie wszczęcia śledztwa nie służy zażalenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_7/ust_5",
+     "text": "Na postanowienie prokuratora, umarzające dochodzeń'e, lub sędziego śledczego, umarzające śledztwo, pokrzywdzonemu nie służy zażalenie.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_7/ust_6",
+     "text": "Prokurator może w toku dochodzenia lub śledztwa zarządzić zajęcie w części lub w całości mienia podejrzanego, jego małżonka i dzieci, z wyjątkiem mienia tych ostatnich, pochodzącego z ich dorobku własnego. ' Zażalenie na postanowienie prokuratora w przedmiocie",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz.. 45"
+      },
+      {
+       "type": "text",
+       "text": "sprawy Ministrowi Sprawiedliwości celem przedstawienia do decyzji Prezydentowi Krajowej Rady Narodowej, załączając opinię Najwyższego Trybunału Narodowego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "Do właściwości Najwyższego Trybunału Narodowego należą: zajęcia rozstrzyga Najwyższy Trybunał Narodowy na posiedzeniu niejawnym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Przepisów art. 74—78 kodeksu postępowania karnego nie stosuje się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Termin przewidziany w art. 296 kodeksu postępowania karnego wynosi 5 dni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Sprzeciw przeciwko aktowi oskarżenia jest niedopuszczalny.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Udział obrońcy w rozprawie"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "1.",
+   "children": [
+    {
+     "type": "text",
+     "text": "głównej jest konieczny. Jeżeli oskarżony nie ma obrońcy z wyboru, Prezes Najwyższego Trybunału Narodowego wyznacza mu obrońcę z urzędu."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Obrońcą z wyboru może być każdy obywatel polski dopuszczony w tym charakterze przez Prezesa Najwyższego Trybunału Narodo-",
+     "children": [
+      {
+       "type": "text",
+       "text": "wego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Wolno odczytać na rozprawie zapiski dochodzenia oraz wszelkie pisma prywatne i urzędowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_10/ust_1",
+     "text": "Nieujęcis oskarżonego nie stoi na przeszkodzie wniesieniu aktu oskarżenia i rozpoznaniu sprawy pod jego nieobecność. Zapadłego wyroku nie uważa się za zaoczny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_10/ust_2",
+     "text": "W przypadku określonym w ust. 1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_10/ust_2/lit_a",
+       "text": "prawo wyboru obrońcy służy także ojcu, matce, opiekunowi, małżonkowi, dzieciom i rodzeństwu oskarżonego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_10/ust_2/lit_b",
+       "text": "wznowienie postępowania zakończonego prawomocnym wyrokiem może nastąpić na korzyść oskarżonego również w przypadku przytoczenia takich nowych faktów i dowodów nieznanych przedtem sądowi, które bądź same, bądź w związku z innymi stwierdzają, że oskarżony jest niewinny albo że skazano go za przestępstwo cięższe niż to, które pepełnił.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Sąd zawsze sporządza na piśmie wyrok z uzasadnieniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Ogłoszenie sentencji wyroku następuje po sporządzeniu na piśmie wyroku z uzasadnię- Termin przewidziany w art. 367 kodeksu niem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "postępowania karnego wynosi 7 dni."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Wyroki i postanowienia Najwyższego Trybunału Narodowego są ostateczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Skazanemu przysługuje prawo wniesienia prośby o ułaskawienie do Prezydenta Krajowej Rady Narodowej, a w sprawach, w których zapadł wyrok śmierci, Prezes Najwyższego Trybunału Narodowego przesyła niezwłocznie akta",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_12/ust_2/pkt_1",
+       "text": "sprawy o przestępstwa osób, które zgodnie z deklaracją moskiewską trzech mocarstw sprzymierzonych: Stanów Zjednoczonych Ameryki Północnej, Związku Socjalistycznych Republik Rad i Wielkiej Brytanii o odpowiedzią!ności hitlerowców za popełnione bestialstwa oddane będą do dyspozycji organom prokuratury Rzeczypospolitej Polskiej za zbrodnie dokonane na obszarze Państwa Polskiego w czasie okupacji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_12/ust_2/pkt_2",
+       "text": "sprawy o przestępstwa przewidziane w dekrecie z dnia 22 stycznia 1946 r. o odpowiedzialności za klęskę wrześniową i faszyzację życia państwowego (Dz. U. R. P. Nr 5, poz. 46).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Prokurator Najwyższego Trybunału Narodowego może każdą sprawę wszczętą w prokuraturze specjalnego sądu karnego lub toczącą się w specjalnym sądzie karnym w zakresie właściwości tego sądu przekazać Najwyższemu Trybunałowi Narodowemu; w tym przypadku prokurator Najwyższego Trybunału Narodowego składa nowy akt oskarżenia i zawiedamia o tym właściwy sąd i prokuraturę. Wnioski prokuratora Najwyższego Trybunału Narodowego są wiążące.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Uprawnienia specjalnego sądu karnego i prokuratury specjalnego sądu karnego przewidziane w art. 19 dekretu z dnia 6 maja (1945 r.o wyłączeniu ze społeczeństwa polskiego wrogich elementów (Dz. U. R. P. Nr 17, poz. 96) przysługują także Najwyższemu Trybunałowi Narodowemu i prokuratorowi Najwyższego Trybunału Narodowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "W razie rozstrzygnięcia sprawy przez Najwyższy Tybunał Narodowy ponownego rozpoznania w trybie art. 19 ustawy z dnia 6 maja 1945 r. o wyłączeniu ze społeczeństwa polskiego wrogich elementów może żądać tylko prokurator Najwyższego Trybunału Narodowego. .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Pierwszy Prokurator Najwyższego Trybunału Narodowego może w ciągu 3 miesięcy od dnia wydania wyroku zaskarżyć każdy wyrok specjalaego sądu karnego, o ile zachodzą podstawy kasacji przewidziane w art. 510, 514, 515 i 516 kodeksu postępowania karnego lub jeżeli zachodzą podstawy do wznowienia postępowania (art. 600 i 602 kodeksu postępowania karnego). Przepisy art. 608 kodeksu postępowania karnego stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Najwyższy Trybunał Narodowy rozpoznaje kasację założoną w myśl ust. 1 na po-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "siedzeniu niejawnym; udział obrońcy na posiedzeniu jest dopuszczalny."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Uwzględniając kasację, określoną w ust. 1, Najwyższy Trybunał Narodowy uchyla z askar- Żony wyrok. W tym przypadku postępowanie toczy się od początku przed Najwyższym Trybunałem Narodowym według przepisów przewidzianych w dekrecie niniejszym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Najwyższy Trybunał Narodowy i prokuratura Najwyższego Trybunału Narodowego sprawują nadzór nad specjalnymi sądami karaymi i prokuraturą specjalnych sądów karnych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "O wznowieniu postępowania w sprawach, w „których Najwyższy Trybunał Narodowy wydał wyrok co do istoty sprawy, orzeka tenże Trybunał.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 18, Trzymiesięczny termin przewidziany w art. 15 ust. 1 liczy się co do wyroków specjalnych sądów karnych wydanych przed wejściem w życie dekretu niniejszego od dnia ogłoszenia niniejszego dekretu."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Wykonanie niniejszego dekretu porucza się Ministrom: Sprawiedliwości i Bezpieczeństwa Publicznego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Krajowej Rady Narodowej:"
+    },
+    {
+     "type": "text",
+     "text": "Bolesław Bierut"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Edward Osóbka - Morawski Minister Sprawiedliwości: Henryk Świątkowski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Bezpieczeństwa Publicznego:"
+    },
+    {
+     "type": "text",
+     "text": "Stanisław Radkiewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
