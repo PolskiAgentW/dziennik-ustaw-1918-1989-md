@@ -1,0 +1,55 @@
+{
+ "eli": "DU/1921/290",
+ "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 14 marca 1921 r. wydane w porozumieniu z Ministrem Skarbu w sprawie podwyższenia opłat probierczych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/290/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 14 marca 1921 roku wydane w porozumieniu z Ministrem Skarbu w sprawie podwyższenia opłat probierczych."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy art. 1,2i4ustawy z dnia 16 lipca 1920r. o upoważnieniu Ministra Przemysłu i Handlu do wydawania zarządzeń w zakresie nadzoru nad przemysłem złotniczym i handlem wyrobami złotniczemi oraz organizacji urzędów probierczych na obszarach b. zaborów austrjackiego i rosyjskiego (Dz. U. R. P. 1920 r. Ne 70, poz. 470) zarządza się w porozumieniu z Ministrem Skarbu co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Art. 17 rozporządzenia Ministra Przemysłu i Handlu z dnia 9 sierpnia 1920 r. wydanego w porozumieniu z Ministrem Skarbu w sprawie zmian do ustaw probierczych, obowiązujących na terenie b. zaboru rosyjskiego (Dz. U. R.P. z 1920 r., Ne 85, poz. 566) otrzymuje następujące brzmienie: „Za czynności, nie połączone ze stemplowaniem, urzędy pobierająnastępujące opłaty:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "za każdą próbę złota . . . . . . . . . . . . 30 mk. Że ś „. srebra drogą ogniową . . . . . . 10 , de tg ii 4 H ii mokrą . . . . . . 50 , CE » Stopu złota i srebra drogą ogniową. 40 ,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_1/ust_5",
+     "text": "„ stopienie złota i srebra różnych prób wagi 100 gr. 40 , za następne każde 100 gr. . . . .",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 2. Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia w Dzienniku staw Rzeczypospolitej Polskiej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Minister Przemysłu i Handlu: S. Przanowski Minister Skarbu: Słeczkowski",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,514 @@
+{
+ "eli": "DU/1927/3",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 14 grudnia 1926 r. w sprawie uprawy tytoniu w roku 1927.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/3/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Skarbu"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 grudnia 1926 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie uprawy tytoniu w roku 1927."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6, 7 i 62 ustawy z dnia 1 czerwca 1922 r. o monopolu tytoniowym (Dz. U. R. P. Ne 47 poz. 409) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Do uprawy tytoniu wymagane jest zezwolenie Dyrekcji Polskiego Monopolu Tytoniowego względnie upoważnionych przez nią podległych jej urzędów i zakładów. Zezwolenie to mogą otrzymać rolnicy, którzy zobowiążą się:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "uprawiać tytoń na przestrzeni gruntu, obejmującej najmniej 500 mtr.* w jednej nierozdzielonej całości;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "użyć do uprawy tytoniu nasienia, które dostarczyła, lub na użycie którego zezwoliła Dyrekcja Polskiego Monopolu Tytoniowego;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "stosować się do przepisów, wydanych w przedmiocie uprawy tytoniu, oraz do pouczeń i wskazówek, udzielanych przez organa, powołane do wykonywania nadzoru nad uprawą tytoniu, w sprawie uprawy rośliny tytoniowej, zbioru, suszenia i sortowania liści tytoniowych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_1/lit_d",
+     "text": "odsprzedać cały zapas wyprodukowanego surowca tytoniowego Skarbowi Państwa w wyznaczonym terminie po cenach taryfowych, które ustanowi Minister Skarbu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Pozwolenie na uprawę tytoniu może być udzielone tylko tym rolnikom, którzy wedle obowiązujących ustaw mogą zawierać ważne umowy i których rozporządzenie niniejsze od uprawy tytoniu nie wyklucza. Od uprawy tytoniu wykluczone są osoby skazane prawomocnie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "za przemytnictwo, względnie naruszenie przepisów w przedmiocie opłat celnych i obrotu towarowego z zagranicą, *",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "za naruszenie przepisów w przedmiocie monopolu tytoniowego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_2/lit_c",
+     "text": "za naruszenie przepisów obrotu towarowego z Wolnem Miastem Gdańskiem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ponadto mogą być wykluczone od uprawy tytoniu osoby, które w poprzednich latach nie zastosowały się do przepisów o uprawie tytoniu lub do zarządzeń, wydanych przez Dyrekcję Polskiego Monopolu Tytoniowego albo podległe jej urzędy, zakłady j organa w przedmiocie uprawv tytoniu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Uprawa tytoniu dozwolona jest w następujących rejonach:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "w rejonie małopolskim, obejmującym powiaty:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "w województwie stanisławowskiem: horodeński, kołomyjski, kosowski, peczeniżyński, rohatyński, śniatyński, stanisławowski i tłumacki;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "w województwie tarnopolskiem: borszczowski, buczacki, czortkowski, husiatyński, podhajecki, skałacki, tarnopolski, trembowelski, zaleszczycki i zbaraski;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "w rejonie wołyńskim, obejmującym powiaty województwa wołyńskiego: krzemieniecki, dubieński, zdołbunowski, równieński, południową część powiatu łuckiego po linje kolei Kowel-Zdołbunów, horochowski i włodzimiersko-wołyński;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "w rejonie grodzieńskim, obejmującym powiaty: grodzieński, wołkowyski i augustowski w województwie białostockiem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "w rejonie pomorskim, obejmującym powiat grudziądzki w województwie pomorskiem;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "w rejonie śląskim, obejmującym powiat rybnicki w województwie śląskiem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Na obszarach Państwa poza rejonami uprawy tytoniu, wymienionemi w § 3, uprawa tytoniu jest zakazana z wyjątkiem województwa lubelskiego, w którem Dyrekcja Polskiego Monopolu Tytoniowego może według swego uznania zezwolić na tę uprawę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Dla celów doświadczalnych może Dyrekcja Polskiego Monopolu Tytoniowego udzielać pozwolenia na uprawę tytoniu według swego uznania na całym obszarze Państwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Do udzielenia pozwoleń na uprawę tytoniu powołane są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "dla rejonu małopolskiego—Inspektorat Uprawy Tytoniu w Zabłotowie, względnie (lrząd Wykupu",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Tytoniu w Borszczowie i Państwowe Fabryki Wyrobów Tytoniowych w Jagielnicy i Monasterzyskach;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "dla rejonu wołyńskiego — Urząd Wykupu Tytoniu w Krzemieńcu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "dla rejonu grodzieńskiego—Państwowa Fabryka Wyrobów Tytoniowych w Grodnie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "dla rejonu pomorskiego — Państwowa Fabryka Wyrobów Tytoniowych w Grudziądzu; dla rejonu śląskiego — Państwowa Fabryka Wyrobów Tytoniowych w Wodzisławiu.",
+     "children": [
+      {
+       "type": "text",
+       "text": ", 8 7. Zgłoszenia o pozwolenia na uprawę tytoniu w rejonach uprawy tytoniu, oznaczonych w § 3, należy składać w urzędach względnie zakładach Monopolu Tytoniowego, wymienionych w § 6, wprost lub za pośrednictwem właściwych zarządów gminnych najpóźniej do dnia 31 marca 1927 roku. Zgłoszenia o pozwolenia na uprawę tytoniu na obszarze województwa lubelskiego należy składać w Dyrekcji Polskiego Monopolu Tytoniowego w War- „szawie do dnia 31 stycznia 1927 roku. Zgłoszenie ma zawierać:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_4/lit_a",
+       "text": "imię i nazwisko zgłaszającego się;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/pkt_4/lit_b",
+       "text": "miejscowość, gminę, powiat;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/pkt_4/lit_c",
+       "text": "przestrzeń gruntu, przeznaczoną pod uprawę;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_6/pkt_4/lit_d",
+       "text": "dokładne określenie położenia gruntu, przeznaczonego pod uprawę;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_6/pkt_4/lit_e",
+       "text": "pochodzenie nasienia, które ma być użyte do uprawy tytoniu, ewentualnie żądanie dostarczenia nasienia przez zarząd monopolu tytoniowego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_6/pkt_4/lit_f",
+       "text": "oświadczenie zgłaszającego się, że zobowiazuje się stosować do przepisów i zarządzeń, dotyczących uprawy tytoniu, oraz poddaje się rygorom, ustalonym w niniejszem rozporządzeniu, tudzież zobowiązuje się odsprzedać całą ilość zebranego tytoniu Skarbowi Państwa w wyznaczonym terminie, po cenach taryfowych, które ustanowi Minister Skarbu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Wójtowie (naczelnicy gmin) obowiązani są złożone do zarządu gminy zgłoszenia o pozwolenia na uprawę. tytoniu przedłożyć łącznie z każdej gminy urzędom względnie zakładom monopolu tytoniowego, powołanym do wydawania pozwoleń na uprawę tytoniu, w terminie oznaczonym w § 7.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Urzędy względnie zakłady monopolu tytoniowego, powołane do wydawania pozwoleń na uprawę tytoniu, winny:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_9/lit_a",
+     "text": "jeżeli przeciw udzieleniu pozwolenia nie zachodzi żadna przeszkoda lub wątpliwość, wydać je jaknajrychlej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_9/lit_b",
+     "text": "jeżeli przeciw udzieleniu pozwolenia zachodzą przeszkody, załatwić natychmiat zgłoszenie odmownie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_9/lit_c",
+     "text": "jeżeli zachodzą wątpliwości, czy nie istnieją przeszkody przeciw udzieleniu pozwolenia, bezzwłocznie przeprowadzić odpowiednie dochodzenia w porozumieniu z właściwym organem kontroli skarbowej i stosownie do wyników tych dochodzeń załatwić zgłoszenie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Urzędy i zakłady monopolowe, powołane do udzielania pozwoleń na uprawę tytoniu, mogą odmówić wydania tych pozwoleń dla gmin, w których pod uprawę tytoniu zgłoszono mniej niż 2 ha gruntu,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Wydanie pozwolenia na uprawę tytoniu względnie odmowne załatwienie zgłoszenia winno nastąpić bezwarunkowo tak, żeby zgłaszający otrzymał odpowiedź na zgłoszenie najpóźniej do dnia 15 maja 1927 roku. Odpowiedź na zgłoszenia należy doręczać za pośrednictwem wójtów (naczelników gmin), sołtysów, lub przez organa Dyrekcji Polskiego Monopolu Tytoniowego. Urzędy i zakłady monopolu tytoniowego powołane do wydawania pozwoleń na uprawę, zawiadomią terytorjalnie właściwe urzędy skarbowe akcyz i monopolów państwowych o udzieleniu pozwolenia na uprawę tytoniu imiennemi wykazami, zestawionemi według poszczególnych powiatów, do dnia 31 maja 1927 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Pożwolenie na uprawę tytoniu ważne jest tylko dla tej osoby, na której nazwisko opiewa, i tylko dla gruntu i przestrzeni, oznaczonych w pozwoleniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Pozwolenie na uprawę tytoniu może być wyjątkowo przeniesione na inną osobę w następujących wypadkach:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_13/lit_a",
+     "text": "gdy podczas uprawy zajdzie zmiana w osobie użytkowcy gruntu, na którym tytoń jest uprawiany, a to wskutek sprzedaży, wydzierżawienia i t. p., natenczas osoba, która pozwolenie otrzymała, obowiązana jest o zaszłej zmianie donieść do dni 8-miu organowi Dyrekcji Polskiego Monopolu Tytoniowego, powołanemu do nadzorowania uprawy tytoniu. Organ ten uwidoczni w pozwoleniu zmianę w osobie plantatora. Przez przyjęcie pozwolenia przez nowego użytkowcę gruntu, przechodzą na niego wszytkie prawa i obowiązki, połączone z posiadaniem pozwolenia;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_13/lit_b",
+     "text": "gdy posiadacz pozwolenia umrze, pozwolenie przechodzi na jego spadkobiercę lub następcę prawnego. W tym wypadku nie jest wymagane doniesienie o zmianie w osobie plantatora.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Gdy plantator zmienia grunt, zgłoszony pod uprawę, na inny, obowiązany jest o tem donieść najpóźniej do dnia 15 czerwca 1927 r. organowi Dyrekcji Polskiego Monopolu Tytoniowego, powołanemu do nadzoru plantacji. Organ ten uwidoczni tę zmianę w pozwoleniu na uprawę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Gdy plantator zwiększa lub zmniejsza przestrzeń gruntu w pozwoleniu oznaczoną, obowiązany jest zawiadomić o tem najpóźniej do dnia 15 czerwca 1927 r. organ Dyrekcji Polskiego Monopolu Tytoniowego, powołany do nadzoru plantacji, a organ ten uwidoczni zmianę w pozwoleniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Zmniejszenie przestrzeni gruntu do uprawy zgłoszonej poniżej najmniejszego wymiaru, oznaczo* nego w § 1 lit. a, pociągnie za sobą, o ile nie zostanie usprawiedliwione, karę w wysokości:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_16/lit_a",
+     "text": "35°%/o ceny wykupna za dostawiony surowiec tytoniowy, jeżeli tytoń zasadzono na przestrzeni mniejszej niż 250 mtr.”",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_16/lit_b",
+     "text": "25°/o ceny wykupna za dostawiony surowiec tytoniowy, jeżeli plantacja tytoniowa obejmuje przestrzeń od 250 do 400 mtr.*;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "A A w"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_16/lit_c",
+     "text": "15%, ceny wykupna za dostawiony surowiec, jeżeli plantacja tytoniowa obejmuje przestrzeń od 400 do 500 mtr. *. Nadto nieusprawiedliwione zmniejszenie przestrzeni gruntu, zgłoszonej do uprawy, poniżej najmniejszego dozwolonego wymiaru może pociągnąć za sobą wykluczenie plantatora od uprawy tytoniu w roku następnym. . Jako usprawiedliwienie niedotrzymania najmniejszej przepisanej przestrzeni będzie uważane przedstawienie przez plantatora dowodu, że poczyniono przygotowania do uprawy tytoniu w zgłoszonym rozmiarze, że jednak nie można było przeprowadzić uprawy w tym rozmiarze wskutek wydarzeń, którym plantator nie mógł zapobiec, np. posuchy, powodzi i t. p. © tych wypadkach obowiązany jest plantator donieść w przeciągu 3 dni organdwi Dyrekcji Polskiego Monopolu Tytoniowego, powołanemu do dozoru plantacji, a organ ten usprawiedliwienie to po sprawdzeniu zanotuje w pozwoleniu na uprawę tygonlu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Osoba, która zrzeka się pozwolenia na uprawę tytoniu, obowiązana jest to pozwolenie najdalej do 30 czerwca 1927 r. zwrócić organowi Dyrekcji Polskiego Monopolu Tytoniowego, powołanemu do nadzoru plantacji lub wprost urzędowi względnie zakładowi monopolu tytoniowego, który to pozwolenie wydał.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Plantator jest obowiązany do czasu odstawienia zbioru tytoniu Skarbowi Państwa o każdem elementarnem lub innem bez winy jego powstałem zdarzeniu, które spowodowało zniszczenie lub uszkodzenie uprawianego przez niego tytoniu, donieść w ciągu 3-ch dni organowi Dyrekcji Polskiego Monopolu Tytoniowego, powołanemu do nadzoru plantacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Osobom, które otrzymały pozwolenie na uprawę tytoniu, wydają urzędy i zakłady monopolu tytoniowego nasienie do uprawy tytoniu bezpłatnie. 4 Wspomniane osoby obowiązane są użyć do uprawy tytoniu nasienia, otrzymanego z urzędu względnie zakładu monopolu tytoniowego, albo nasienia, na użycie którego zezwolił tenże urząd względnie zakład; użycie innego nasienia może spowodować wykluczenie plantatora od uprawy tytoniu w roku następnym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Uprawa innych ziemiopłodów pomiędzy roślinami tytoniowemi jest zakazana; przekroczenie tego zakazu pociągnie za sobą wykluczenie plantatora od uprawy tytoniu w roku następnym. Łodygi tytoniowe obowiązany jest plantator, o ile wykup ich nie będzie zarządzony, po zbiorze liści a najpóźniej do dnia 15 pażdziernika 1927 r., zniszczyć w sposób wykluczający użycie ich do celów zabronionych ustawą o monopolu tytoniowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Produkcja nasienia dozwolona jest tylko na zamówienie urzędu względnie zakładu monopolu tytoniowego, który wydał pozwolenie na uprawę. Plan: tatorowie obowiązani są w razie zamówienia nasienia zgodzić się na wybór potrzebnej ilości roślin nasiennych na ich plantacjach. Zrywanie liści z roślin, wybranych na nasienie, może nastąpić tylko za zezwoleniem urzędu, względnie zakładu monopolu tytoniowego, który nasienie zamówił. Plantatorowie, u których nasienia nie zamówiono, winni pędy boczne i pączki kwiatów bezwarunkowo obłamywać.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Za wzorowe prowadzenie uprawy tytoniu będą przyznane plantatarom nagrody pieniężne przy odstawieniu zbioru Skarbowi Państwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Dyrekcja Polskiego Monopolu Tytoniowego udzielać może:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_23/lit_a",
+     "text": "upoważnionym plantatorom tytoniu, którzy zasadzili tytoń na przestrzeni powyżej 500 mtr. kwa: dratowych, bezprocentowych zaliczek pieniężnych na rachunek należytości za tytoń, odstawiony monopolowi tytoniowemu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_23/lit_b",
+     "text": "upoważnionym plantatorom tytoniu, którzy zobowiążą się uprawiać tytoń przez okres przynajmniej 5-ciu lat na przestrzeni powyżej 1 hektara, długoterminowych, oprocentowanych i odpowiednio zabezpieczonych pożyczek na pokrycie wydatków inwestycyjnych, połączonych z uprawą tytoniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Uprawa tytoniu podlega urzędowemu nadzorowi. Nadzór ten wykonywują urzędy i zakłady monopolu tytoniowego, wymienione w § 6, w przydzielonych im okręgach uprawy tytoniu przez podle: głe im organa (instruktorów uprawy tytoniu), kontrola skarbowa i policja państwowa. Celem tego nadzoru jest stwierdzenie, czy plantator spełnia zobowiązania, przyjęte z otrzymaniem pozwolenia na uprawę tytoniu, tudzież czy niedopuszcza się naruszeń przepisów w przedmiocie monopolu tytoniowego i rozporządzeń, dotyczących uprawy tytoniu. Przy czynnościach urzędowych organów, dozorujących uprawę, obowiązany jest plantator być obecnym osobiście albo przez upoważnionego zastępcę, tudzież udzielać tym organom wszelkich wyjaśnień i pomocy do wykonywania urzędowych czynności. Organa, powołane do wykonywania nadzoru nad uprawą tytoniu, uprawnione są do wstępu na grunt, na którym tytoń jest uprawianv, i do wszyst: kich miejsc i schowków, w których plantator przechowuje tytoń. Te czynności należy wykonywać w obecności plantatora lub członka jego rodziny.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Na zasadzie artykułu 21 ustawy o mos nopolu tytoniowym wójtowie (naczelnicy gmin) obowiązani są współdziałać w przyjmowaniu zgłoszeń o pozwolenie na uprawę tytoniu stosownie do postanowień $§ 7 i 8 niniejszego rozporządzenia, wspierać organa, powołane do wykonywania nadzoru nad uprawą tytoniu, w wykonywaniu ich czynności i uczestniczyć na żądanie tych organów w ich czyn nościach, wreszcie podawać zgodnie z prawdą informacje w sprawach uprawy tytoniu. Wójtom (naczelnikom gmin), względnie wyznaczonym przez nich członkom zarządu gminy Dyrekcja Polskiego Monopolu Tytoniowego wypłacać bę: dzie za każdy dzień uczestniczenia w wykonywaniu urzędowego nadzoru nad uprawą tytoniu wynagro» dzenie w wysokości 5 zł,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Ne 1."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Cena wykupu oraz terminy dostawy tytoniu podane będą w odrębnem zarządzeniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Warunki uprawy tytoniu dla celów ściśle naukowych i doświadczalnych określi w każdym poszczególnym wypadku Dyrekcja Polskiego Monopolu Tytoniowego. Zgłoszenia o pozwolenia na taką uprawę należy składać do Dyrekcji Polskiego Monopolu Tytoniowego. Państwowe zakłady naukowe i szkoły rolnicze, tudzież zarządy państwowych ogrodów botanicznych mogą uprawiać tytoń w powyższych celach bez pozwolenia, obowiązane są jednak w wypadku, gdy założona przez nie plantacja obejmuje przestrzeń większą niż 10 mtr.”, zawiadamiać o tem Dyrekcję Polskiego Monopolu Tytoniowego najpóźniej do końca czerwca 1927 r.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Zezwala się na uprawę w celach zdobniczo ogrodniczych następujących odmian rośliny tytoniowej: Nicotiana affinis vel a lata, Nicotiana Sanderae vel Sanderiana purpureairoseai Nicotiana colossea (Nicotiana albo Lehmannia tomentosa). Osoby, które wymienioną roślinę zasadzity i pie- ‘legnuja, obowiązane są zawiadomić o tem najpóźniej do końca czerwca 1927 r. miejscowy organ kontroli skarbowej. Zaniechanie doniesienia pociągnie za sobą ka* rę, przewidzianą w art. 62 ustawy karnej skarbowej z dnia 2 sierpnia 1926 r. (Dz. U. R. P. Ne 105 poz. 609).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem. ogłoszenia,",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: G. Czechowicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

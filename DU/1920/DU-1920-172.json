@@ -1,0 +1,74 @@
+{
+ "eli": "DU/1920/172",
+ "title": "Rozporządzenie Ministerstwa Spraw Wojskowych i Ministerstwa Spraw Wewnętrznych w porozumieniu z Ministerstwem Handlu i Przemysłu w przedmiocie obowiązku świadczeń wojennych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/172/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "Ministerstwa Spraw Wojskowych i Ministerstwa Spraw Wewnętrznych w porozumieniu z Ministerstwem Handlu i Przemysłu w przedmiocie obowiązku świadczeń wojennych."
+  },
+  {
+   "type": "text",
+   "text": "W myśl art. 2 ustawy o rzeczowych świadczeniach wojennych z dnia 11 kwietnia 1919 r. (Dz. Pr. P. P. Ne 32 poz. 264) postanawia się:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Zarządzony rozporządzeniem z dnia 29 kwietnia 1919 r. (Monitor Polski Ne 98) obowiązek przymusowego świadczenia wyrobów tekstylnych, oraz surowców, półfabrykatów i surogatów tychże wyrobów nie będzie miał zastosowania względem:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "surowców włóknistych jako to: bawełny, wełny, juty oraz odpadków z tychże i z jedwabiu (schappe), o ile takowe wwiezione zostały do Polski na potrzeby przemysłu;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "surowców we wszelkiej postaci, przeznaczonych dla przemysłu włókienniczego, craz czesanki lub przędzy, o ile takowe: wwiezione zostały do Polski przez domy zagraniczne na sprzedaż (konsygnacja i komis); -",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "wyrobów włóknistych w ilości, jaka się okaże niezbędną na spłatę należności za powyższe surowce.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Cele, dla jakich wwiezione zostały do Polski przedmioty w punktach a) i b) art. 1 niniejszego rozporządzenia wyszczególnione, oraz ilość i wartość wyrobów włóknistych, niezbędnych dla spłaty należności za otrzymane surowce ustali w każdym poszczegółnym wypadku Minister Handlu i Przemysłu, który będzie w tym zakresie sprawował kontrolę nad zakładami przemysłowemi.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Warszawa, dnia 22 marca 1920 r. Minister Spraw Wewnętrznych: S. Wojciechowski Minister Spraw Wojskowych: J. Leśniewski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

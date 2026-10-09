@@ -1,0 +1,71 @@
+{
+ "eli": "DU/1920/177",
+ "title": "Rozporządzenie Ministra Spraw Wojskowych i Ministra Spraw Wewnętrznych w sprawie wprowadzenia obowiązku świadczeń wojennych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/177/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "1TR. ROZPORZĄDZENIE Ministra Spraw Wojskowych i Ministra Spraw Wewnętrznych w sprawie wprowadzenia obowiązku świadczeń wojennych. Na zasadzie art. 2-go ustawy o rzeczowych świadczeniach wojennych z dnia 11 kwietnia 1919 r. (Dz. Praw Ne 32, poz. 264) i w uzupełnieniu rozporządzenia Ministra Spraw Wojskowych i Ministra Spraw Wewnętrznych"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wprowadzenia obowiązku świadczeń wojennych z dnia 29 kwietnia 1919 r. (Monitor Polski Ne 98), postanawia się co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Zarządza się obowiązek przymusowego świadczenia niezależnie od przedmiotów wyszczególnionych w art. 2-im punkt A. rozporządzenia z dnia 29 kwietnia 1919 r., przedmiotów następujących:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "skór wszelkiego rodzaju, tak surowych jak i wyprawionych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "wyrobów skórzanych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "kożuchów, futer i wszelkich wyrobów kuśnierskich. At. 2. Przedmioty wyszczególnione w punkcie a) art. 1 niniejszego rozporządzenia»nie podlegają na czas trwania sekwestru obowiązkowi świadczeń, o ile pochodzą z przydziału dokonanego przez Ministerstwo Handlu i Przemysłu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Warszawa. dn. 22 marca 1920 r. : Minister Spraw Wojskowych: J. Leśniewski Minister Spraw Wewnętrznych: w z. Dunikowski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Tłoczono w Drukarni Państwowe. 9400 P z polecenia Ministra Sprawiedliwości."
+    },
+    {
+     "type": "text",
+     "text": "Cena 40 fen."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

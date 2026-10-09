@@ -1,0 +1,78 @@
+{
+ "eli": "DU/1927/15",
+ "title": "Obwieszczenie Prezydenta Rzeczypospolitej z dnia 4 stycznia 1927 r. w sprawie sprostowania omyłek w tekście ustawy z dnia 1 lipca 1926 r. o opłatach stemplowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/15/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Obwieszczenie Prezydenta Rzeczypospolitej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 stycznia 1927 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sprostowania omyłek w tekście usta: wy z dnia 1 lipca 1926 r. o opłatach stemplowych."
+  },
+  {
+   "type": "text",
+   "text": "Omyłki zachodzące w tekście ustawy z dnia 1 lipca 1926 r. o opłatach stemplowych (Dz. O. R. P. Ne 98 poz. 570) prostuje się w następujący sposób:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "'W art. 11 w wierszu 5 zamiast „z” powinno być „za”.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "W art. 54 w wierszu 3 od końca zamiast „przebudówek” powinno być „przybudówek”.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "W napisie rozdziału XII zamiast „zmiana” powinno być „zamiana”.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "W art. 121 w wierszu 3 od końca zamiast „Inne” powinno być „innej”.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "W art. 156 w punkcie 3 zamiast „nominalnej” powinno być „minimalnej”.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: I. Mościcki Prezes Rady Ministrów: J. Piłsudski"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: G. Czechowicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: 4. Meysztowicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

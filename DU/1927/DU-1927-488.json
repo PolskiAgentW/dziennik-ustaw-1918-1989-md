@@ -1,0 +1,88 @@
+{
+ "eli": "DU/1927/488",
+ "title": "Rozporządzenie Ministra Komunikacji z dnia 17 czerwca 1927 r. wydane w porozumieniu z Ministrami: Skarbu, Przemysłu i Handlu oraz Rolnictwa o zatwierdzeniu opłat taryfowych na przewóz osób, psów, bagażu i przesyłek nadzwyczajnych linjami Towarzystwa Akcyjnego Warszawskich Dróg Żelaznych Dojazdowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/488/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Komunikacji"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 czerwca 1927 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrami: Skarbu, Przemysłu j Handlu oraz Rolnictwa o zatwierdzeniu opłat taryfowych na przewóz osób, psów, bagażu i przesyłek nadzwyczajnych linjami Towarzystwa Akcyjnego Warszawskich Dróg Żelaznych Dojazdowych."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy art. 4 ustawy z dnia 12, czerwca 1924 r. o zakresie działania Ministra Kolei Żelaznych i o organizacji urzędów kolejowych (Dz. U. R. P. Ne 57, poz. 580) oraz art. 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 września 1926 r. o ustanowieniu urzędu Ministra Komunikacji (Dz. U. R. P. Ne 97, poz. 567) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Na linjach Towarzystwa Akcyjnego Warszawskich Dróg Żelaznych Dojazdowych zatwierdza się poniżej wyszczególnione opłaty taryfowe:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "na linjach Wilanowskiej i Grójeckiej: za przewóz osób w kl. Ill po 7,5 gr. od osoby i kilometra, za przewóz osób w kl. Il po 11,25 gr. od osoby i kilometra;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "na linji Jabłonna-Wawer-Karczew: za przewóz osób w kl. Ill po 6 gr. od osoby i kilometra, za przewóz osób w kl. Il po 9 gr. od osoby i kilometra;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "na wszystkich linjach Towarzystwa: za przewóz bagażu i przesyłek nadzwyczajnych po 0,75 gr. za każde 10 kg. i 1 km.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Opłata za przewóz osób pociągami przyspieszonemi jest wyższą o 25/0 od opłat za przejazd pociągami osobowemi. Dzieci od lat 4 do 10 oraz młodzież szkołna płacą za przejazd połowę cen normalnych. Wszelkie opłaty, obliczone według norm powyższych, zaokrągla się wzwyż do liczby, podzielnej przez 5"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Jednocześnie traci moc obowiązującą rozporządzenie Ministra Komunikacji z dnia 22 listopada 1926 r. (Dz. U. R. P. Ne 117, poz. 680).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Komunikacji: Romocki"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: G. Czechowicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: E. Kwiatkowski"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa: K. Niezabytowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

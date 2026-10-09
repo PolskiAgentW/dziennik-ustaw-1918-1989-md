@@ -1,0 +1,45 @@
+{
+ "eli": "DU/1921/498",
+ "title": "Obwieszczenie z dnia 16 sierpnia 1921 r. w sprawie sprostowania omyłek w rozporządzeniu z dnia 21 kwietnia 1921 r. o podziale miejscowości w Państwie Polskiem na klasy dla oznaczenia mnożnika dodatku drożyźnianego do płacy zasadniczej funkcjonarjuszów państwowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/498/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Obwieszczenie z dnia 16 sierpnia 1921 r. w sprawie sprostowania omyłek w rozporządzeniu z dnia 21 kwietnia 1921 r. o podziale miejscowości w Państwie Polskiem na kiasy dła oznaczenia mnożnika dodatku drożyźnianego do płacy zasadniczej funkcjonarjuszów państwowych (Dz. Ust. R. P. z 1921 r. Ne 37 poz. 224). W tekście powyżej wymienionego rozporządzenia prostuje się niniejszem następujące pomyłki:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "w § 1 (str. 494), w ustępie wyliczającym miejscowości, położone w b. zaborze austrjackim, a zaliczone do Ill klasy — zamiast „Brzezinka”, winnno być „Brzezinka przy Oświęcimie”,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "w § 1 (str. 495) w ustępie, wyliczającym miejscowości położone w b. zaborze rosyjskim, a zaliczone do IV klasy zamiast „Suszyn” winno być „Tuszyn”; w ustępie wyliczającym miejscowości położone w b. zaborze austrjackim, a zaliczone do IV klasy zamiast „Inwalid”, winno być „Inwałd”, zamiast „Sułkowice”, winno być „Sułkowice koło Andrychowa”, zamiast „Targanice”, winno być » larganica” i zamiast „Węgierska Górka”, winno być „Cięcina z Abramowem, Przeniożyskami i Węgierską Górą”. Prezydent Ministrów: If tos Minister Skarbu: w z. HM einfcld",
+   "children": [
+    {
+     "type": "text",
+     "text": "Tłoczono w Drukami Państwowe - x polecenia Ministra Sprawiedliwości. 14250 P."
+    },
+    {
+     "type": "text",
+     "text": "Konto czekowe Poczt. Kasy Oszczędności 30130. Cena 32 mk."
+    },
+    {
+     "type": "text",
+     "text": "OD REDAKCJI. Celem uniknięcia przerwy w wysyłce Dziennika Ustaw uprasza się pp. prenumeratorów o wpłacenie należności za IV kw. 1921 r. w wysokości 500 mk., ewentualnie zaległej za Ill kw. w wysokości 350 mk., na dołączone blankiety Pocztowej Kasy Oszczędnościowej."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

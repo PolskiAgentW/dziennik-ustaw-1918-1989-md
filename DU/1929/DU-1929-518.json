@@ -1,0 +1,84 @@
+{
+ "eli": "DU/1929/518",
+ "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 5 września 1929 r. w sprawie częściowej zmiany taryfy celnej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1929/518/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRÓW: SKARBU, PRZEMYSŁU I HANDLU ORAZ ROLNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 5 września 1929 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie częściowej zmiany taryfy celnej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 punkt i) ustawy z dnia 31 lipca 1924 r. w przedmiocie uregulowania stosunków celnych (Dz. U. R. P. Nr. 80, poz. 777) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pozycja 3 p. 1 a) taryfy celnej z dnia 26 czerwca 1924 r. (Dz. U. R. P. Nr, 54, poz. 540) otrzymuje brzmienie podane niżej, przyczem stawka celna rozumie się w nowej jednostce pieniężnej (Dz. U.R.P. zr. 1928 Nr. 26, poz. 241): Pozycja taryfy Cło od 100 kg. Nazwa towaru celnej złotych 3 Mąka, kasza, słód, groch polerowany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "mąka:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "żytnia 16,50",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przesyłki mąki żytniej, nadane do bezpośrednieśo przywozu do polskiego obszaru celnego najpóźniej w przeddzień wejścia w życie niniejszego rozporządzenia, będą clone w ciągu 7 dni po dniu wejścia w życie niniejsześo rozporządzenia według dotychczas obowiązującej stawki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie drugiego dnia po ogłoszeniu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Kierownik Ministerstwa Skarbu: Ignacy Matuszewski"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: E. Kwiatkowski"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa: K. Niezabytowski"
+  },
+  {
+   "type": "text",
+   "text": "517, 518, 519 i 520. Nr. 67,"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

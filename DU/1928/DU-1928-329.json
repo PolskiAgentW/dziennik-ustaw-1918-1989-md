@@ -1,0 +1,434 @@
+{
+ "eli": "DU/1928/329",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. w sprawie ulg dla przedsiębiorstw przemysłowych i komunikacyjnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1928/329/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Prezydenta Rzeczypospolitej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 marca 1928 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ulg dla przedsiębiorstw przemysłowych i komunikacyjnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 44 ust. 6 Konstytucji i ustawy z dnia 2 sierpnia 1926 r. o upoważnieniu Prezydenta Rzeczypospolitej do verge ane rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 78, poz. 443) postanawiam co nastepuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Przedsiębiorstwom przemysłowym i komunikacyjnym, wymienionym w art. 2 udziela się ulg, wymienionych w art. 6, jeżeli:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "wytwórczość ich, względnie działalność zostanie uznana (art. 9) za pożianą w interesie obrony Państwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "zobowiaza się do poczynienia nakładów, wymienionych w art. 3, na obszarze działania niniejszego rozporządzenia, oraz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "przyjmą zobowiązania, wymienione w art. 4.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 22 Niniejszem rozporządzeniem objęte są następujące przedsiębiorstwa:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "okręgowe elektrownie cieplikowe i wodne oraz elektrownie lokalne o charakterze użyteczności publicznej i o mocy od 500 kilowatów w śórę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "gazownie, produkujące ponad 500.000 m* gazu świetlnego rocznie i posiadające urządzenia do odbenzolowania gazu, wytwórnie produktów destylacji węgla i smoły węglowej, drzewa i torfu oraz te wytwórnie destylacji ropy naftowej, w których „otrzymywane są węglowodory aromatyczne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "wytwórnie kwasu siarkowego oraz kwasu azotowego i innych związków azotowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "wytwórnie chloru, chlorku-wapnia, chloranów i nadchloranów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "wytwórnie produktów przejściowych orga= nicznych, barwników i produktów farmaceutycznych, z wyjątkiem wytwórni preparatów galenowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "wytwórnie środków opatrunkowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_1/pkt_7",
+     "text": "wytwórnie gliceryny, *8) wytwórnie materjałów wybuchowych kruszących, prochów i nitrocelulozy oraz środków zapalniczych i detonacyjnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_1/pkt_9",
+     "text": "wytwórnie celulozy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_1/pkt_10",
+     "text": "wytwórnie wyrobów gumowych, potrzebnych dla obrony Państwa, oraz wytwórnie masek gazowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_1/pkt_11",
+     "text": "wytwórnie kwasoodpornych odlewów i takichże wyrobów ceramicznych oraz wyrobów ogniotrwałych dla przemysłu chemicznego i hutniczego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "art_1/pkt_12",
+     "text": "huty, stalownie, walcownie i odlewnie wszelkich metali i stopów, potrzebnych dla obrony Państwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_1/pkt_13",
+     "text": "wytwórnie parowozów, wagonów, maszyn parowych, turbin, motorów spalinowych, kotłów parowych, aparatów technicznych i konstrukcyj żelaznych, samochodów, traktorów i czołgów, aparatów i silników lotniczych, stocznie i warsztaty dla żeglugi wodnej i powietrznej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_1/pkt_14",
+     "text": "wytwórnie obrabiarek i maszyn do obróbki metali i drzewa, narzędzi warsztatowych, instrumentów optycznych, fizycznych, mierniczych, narzędzi precyzyjnych i przyrządów sygnałowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_1/pkt_15",
+     "text": "wytwórnie broni siecznej, palnej i amunicji oraz wszelkich przedmiotów uzbrojenia tudzież odnośnych półfabrykatów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_1/pkt_16",
+     "text": "wytwórnie drutu żelaznego i metalowego, podków, podkowiaków i haceli, ;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "art_1/pkt_17",
+     "text": "wytwórnie maszyn, urządzeń i aparatów elektrotechnicznych, telegraficznych, telefonicznych i radjowych oraz wytwórnie kabli i przewodników elektrycznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "art_1/pkt_18",
+     "text": "przedsiębiorstwa górnicze, wiertnicze i inne techniczne dla poszukiwania, wydobywania i przysposobienia rud i innych kopalin (tak w stanie stałym, płynnym jak i gazowym) oraz wód, potrzebnych do uruchomienia lub prowadzenia przedsiębiorstw, objętych niniejszem rozporządzeniem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "art_1/pkt_19",
+     "text": "przedsiębiorstwa rurociągowe dla transportu płynów i gazów tudzież przedsiębiorstwa, przesyłające i'rozdzielające energję elektryczną, \" * 20) przedsiębiorstwa komunikacyjne dla przewozu osób i rzeczy drogą lądową, wodną i powietrzną. Minister Przemysłu i Handlu ma prawo w porozumieniu z Ministrem Spraw Wojskowych i i Ministrem Skarbu, względnie z innymi zainteresowanymi ministrami uzupełniać lub redukować w drodze rozporządzenia powyższy wykaz przedsiębiorstw.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Za nakłady, uprawniające do otrzymania ulg (art. 1 punkt 2), uważa się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "nabycie, najem lub dzierżawę nieruchomości, potrzebnych do powstania, prowadzenia lub rozszerzania przedsiębiorstwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "wznoszenie budowli lub zainstalowanie urządzeń, potrzebnych do powyższych celów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Przedsiębiorstwom, wymienionym w art, 2 punktach 1 — 18, przysługuje prawo do ulg,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "© ile zobowiążą się do zorganizowania produkcji na sposób fabryczny według najnowszych wymaśań techniki najpóźniej do lat trzech od daty ogioszenia w Monitorze Polskim decyzji, przyznającej ulgi; przedsiębiorstwom zaś, wymienionym w art. 2 punkt 19 i 20, przysługuje prawo do ulg, o ile zobowiążą się do zorganizowania transportów, wzgiędnie ko- = najpóźniej do lat pięciu od powyższej aty."
+    },
+    {
+     "type": "text",
+     "text": "Art. 5, Obszar działania niniejszego rozporządzenia zostaje ograniczony w sposób następujący:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_4/pkt_1",
+     "text": "od północy rzeka Wieprz — od ujścia jej do rzeki Wisły do ujścia rzeki Tyśmienicy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_4/pkt_2",
+     "text": "na wschodzie rzeka Wieprz — od ujścia rzęki Tyśmienicy do Zwierzyńca, droga Zwierzyniec — Józefów do przecięcia się z granicą powiatu biłgorajskieśo, granica powiatu biłgorajskiego do przecięcia się z rzeką Tanew, rzeka Tanew do Naroła (miasta) z włączeniem obszaru gminy Narol, droga Narol (miasto) — Cieszanów, droga Cieszanów — Lubaczów z włączeniem obszaru gminy Łubaczów, linja kolejowa Lubaczów — Jarosław aż do przecięcia się z rzeką Sanem, rzeka San aż do Przemyśla, linja kolejowa Przemyśl — Chyrów z włączeniem obszaru obu tych gmin;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_4/pkt_3",
+     "text": "na zachodzie Dęblin (ujście rzeki Wieprz do Wisły) linia kolejowa Dęblin — Radom z włączeniem obszaru gminy Radom, droga Radom — Szydłowiec — Rejów — Kielce do przecięcia się z linją kolejową Radom — Kielce z włączeniem obszaru gmin Szydłowiec i Rejów, linja kolejowa Radom — Kielce z włączeniem obszaru gminy Kielce, droga Kielce — Chęciny — Jędrzejów do przecięcia się z rzeką Nidą z włączeniem obszaru gminy Chęciny, rzeka, Nida do ujścia jej do rzeki Wisły, rzeka Wisła do ujścia do niej rzeki Dunajec, rzeka Dunajec do Nowego Sącza z włączeniem całej szerokości rzeki Dunajec;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_4/pkt_4",
+     "text": "od południa linja kolejowa Nowy Sącz — Grybów — Jasło — Krosno — Sanok — Ustrzyki Dolne — Chyrów z włączeniem obszaru gmin tychże miejscowości, Dla zakładów wodno-elektrycznych południową śranicę obszaru działania rozporządzenia stanowi południowa granica Państwa; zachodnią granice stanowi rzeka Dunajec na całej szerokości, łącz= nie z pasem 3 km. na zachód od rzeki aż do jej styku z granicą czechosłowacką w gminie Niedzica (powiat Nowy-Targ); wschodnią granicę stanowi rzeką San od gminy Uherce włącznie (powiat Lisko), aż de jej źródeł z pasem 3 km, na wschód od tej TZEKMI. i",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prezydent Rzeczypospolitej może na wniosek: Rady Ministrów rozciągnąć działanie niniejszego rozporządzenia i na inne obszary Rzeczypospolitej,"
+      },
+      {
+       "type": "text",
+       "text": ", Art. 6. Ulgi, przyznane niniejszem rozporządzeniem obejmują:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_4/pkt_1",
+     "text": "zwolnienie od opłat stemplowych, przewi- * dzłanych w rozdziale dziewiętnastym ustawy z dnia 1 lipca 1926 r. o opłatach stemplowych (Dz. U. R. P. Nr. 98, poz. 570), o ile kapitał zakładowy lub wkład rzeczowy są przeznaczone na nakłady, wymienione w art, 3; , rządowych pism, dotyczących przejścia własności rzeczy nieruchomych, oraz pism, stwierdzających umowę o najem lub dzierżawę nieruchomości, jeżeli przejście własności, najem lub dzierżawa stanowi nakład, wymieniony w art. 3;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_4/pkt_3",
+     "text": "zwolnienie od państwowego podatku przemysłowego, pobieranego w formie podatku od obro- Em „oraz od dodatków samorządowych do tego poatsu; .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_4/pkt_4",
+     "text": "co do budowli stanowiących nakłady, wy» mienione w art. 3, przedłużenie terminu ośmioletniego, ustalonego w art. 1 ustawy z dnia 22 września 1922 r. o ulgach dla nowowznoszonych budowli (Dz. U. R. P. Nr. 88, poz. 786), do lat piętnastu, w południowej zaś części obszaru działania niniejszego róże porządzenia, ograniczonej od północy linją Wisły i Sanu, — do lat dwudziestu, oraz przedłużenie terminu piętnastoletniego zwolnienia od podatku od nieruchomości względnie podatków budynkowych do łat dwudziestu pięciu na całym obszarze działania niniejszego rozporządzenia;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_4/pkt_5",
+     "text": "prawo nabywania w drodze wywłaszczenia gruntów niezbędnych dla nakładów, określonych w art. 3, przy zachowaniu dzielnicowych przepisów o wywłaszczeniu z tem, że na obszarze województw krakowskiego, iwowskiego, stanisławowskiego i tarnopolskiego mają odpowiednie zastosowanie postanowienia ustawy z dnia 17 lutego 1878 r. (Nr. 30 Dz. u. p.);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_4/pkt_6",
+     "text": "prawo pierwszeństwa w nabywaniu celem poczynienia nakładów, określonych w art. 3, gruntów przy parcelacjach nieruchomości ziemskich, przeprowadzanych na zasadzie ustawy z dnia 28 grudnia 1925 r. o wykonaniu reformy rolnej (Dz. U. R.P. z roku 1926 Nr. 1, poz. 1), a to przed kandydatami, wymienionymi w art. 45, 51 i 53 tejże ustawy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_4/pkt_7",
+     "text": "prawo pierwszeństwa w nabywaniu od zarządów majątku państwowego celem poczynienia nakładów, określonych w art. 3, lub dla zaspokoję+ nią potrzeb ruchu przedsiębiorstwa:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/pkt_7/lit_a",
+       "text": "wsze!kich materjałów budowlanych żarów4 no pochodzenia roślinnego, jak mineral. nego, '",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/pkt_7/lit_b",
+       "text": "wszelkich rud, i kopalin, oraz ich przetwos rów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_4/pkt_7/lit_c",
+       "text": "drzewa i produktów jego przerobu, pos trzebnych dla celów przemysłowych;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_4/pkt_8",
+     "text": "prawo pierwszeństwa w uzyskiwaniu żeś z woleń na użytkowanie wód jako źródła energji mo« torycznej. Ponadto przedsiębiorstwom, które zobowiążą się do poczynienia nakładów, wymienionych w art, 3, w południowej części obszaru działania niniejsze- $o rozporządzenia ograniczonej od północy linją Wisły i Sanu, oraz nieruchomościom, wchodzącym w skład tych przedsiębiorstw, udziela się oprócz ulg wyżej wymienionych, zwolnienia od wszelkich podatków bezpośrednich państwowych i -samorządowych, oraz dodatków samorządowych do bezpośred= nich podatków państwowych z wyjątkiem dodatków; samorządowych do podatku gruntowego. j",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 7, Przewidzianych w niniejszem rozpo: rządzeniu ulg udziela się na przeciąg dziesięciu lat,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "a.w rejonie południowej części obszaru działania niniejsześo rozporządzenia, ograniczonym od północy linją Wisły i Sanu, na przeciąś piętnastu lat, licząc od chwili ogłoszenia decyzji, ustalającej prawo do ulg, w Monitorze Polskim (art. 9}, o ile rozporządzenie niniejsze nie przewiduje innych terminów trwania ulg. O ile chodzi o podatki bezpośrednie (art. 6 punkt 3 oraz ustęp ostatni), okres ulgowy kończy się w dniu 31 grudnia tego roku, w którym upływa lat dziesięć, względnie piętnaście od ogłoszenia decyzji, ustalającej prawo do ulg. ."
+      },
+      {
+       "type": "text",
+       "text": "Art. 8, O udzielenie ulg, wymienionych w art. 6, mogą się ubieśać .przedsiębiorstwa, wymienione w art. 2, w ciągu pięciu lat od dnia wejścia w życie niniejszego rozporządzenia."
+      },
+      {
+       "type": "text",
+       "text": "Art. 9, Minister Przemysłu i Handlu na prośbę przedsiębiorstwa, ubiegającego się o otrzymanie ulg w myśl niniejszego rozporządzenia, stwierdza — w porozumieniu z Ministrem Spraw Wojskowych i Ministrem Skarbu, a co do przedsiębiorstw elektrycznych i wodno-elektrycznych również w porozumieniu z Ministrem Robót Publicznych, czy zachodzą warunki udziełenia ulg. W razie stwierdzenia, Że warunki te zachodzą, wydaje Minister Przemysłu i Handlu w porozumieniu z wymienionymi ministrami decyzję, ustalającą, iż przedsiębiorstwu, względnie pewnej jego części służy prawo do ulg, przewidzia«' nych w niniejszem rozporządzeniu. Decyzja ta winna być ogłoszona w Monitorze Polskim. Minister Skarbu ustala w porozumieniu z ministrami, wymienionymi w ustępie poprzednim:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_4/pkt_8/lit_a",
+       "text": "celem zastosowania punktu 1 artykułu 6 — jaka część kapitału zakładowego jest przeznaczona na nakłady, wymienione w art. 3,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/pkt_8/lit_b",
+       "text": "celem zastosowania punktu 3 artykułu 6 — jaka część obrotu przedsiębiorstwa jest wolna od podatku przemysłowego w przypad-— ku, śdy zespół przedmiotów, stanowiących zakład oddzielny, znajduje się częściowo na obszarze obowiązywania niniejszego rozporządzenia (art. 5), a częściowa poza nim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_4/pkt_8/lit_c",
+       "text": "celem zastosowania ustępu ostatniego artykułu 6 w zakresie podatku dochodowego— jaka część dochodu jest wolna od tego podatku.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 10, Minister Przemysłu i Handlu ma prawo w porozumieniu z Ministrem Spraw Wojskowych i ministrami, wymienionymi w art. 9, cofnąć w całości lub w części przyznane ulgi, jeżeli korzystające z nich przedsiębiorstwo nie dopełni swych zobowiązań, określonych w art. 1 w punktach 2 i 3, albo jeżeli w ciąśu czasokresu ulgowego przystąpi bez zezwolenia Ministra Przemysłu i Handlu, udzielonego w porozumieniu z Ministrem Spraw Wojskowych, do innej produkcji względnie do innych czynności — z uszczerbkiem produkcji lub czynności, ze względu na które otrzymało ulgi. W tym wypadku umowy kupna-sprzedaży, najmu lub dzierżawy nieruchomości państwowych ulegają na żądanie Skarbu Państwa rozwiązaniu z winy przedsiębiorstwa. O rozwiązaniu orzekają właś:"
+        },
+        {
+         "type": "text",
+         "text": "ciwe sądy na skutek powództwa Skarbu Państwa. Skarbowi Państwa przysługiwać będzie ponadto prawo dochodzenia na drodze sądowej strat i szkód, jakie poniósł z tytułu ulg, udzielonych przedsiębiorstwu i przez nie wykorzystanych. : Na skutek decyzji, przewidzianej w ustępie 1, osoba, która utraciła prawo do ulg, jest obowiązana uiścić Skarbowi Państwa kwotę opłat i podatków, jakiej nie zapłaciła na zasadzie punktów 1 — 4 i ustępu ostatniego art. 6, względnie część tej kwoty, odpowiadającą częściowej utracie prawą do ulg. Minister Skarbu określa kwotę, która ma być uiszczona, oraz termin uiszczenia."
+        },
+        {
+         "type": "text",
+         "text": "Art. 11, Winny świadomego podania fałszywych danych w celu korzystania z ulg i ułatwień, przewidzianych w niniejszem rozporządzeniu, będzie karany — o ile czyn nie ulega karze surowszej — więzieniem do roku i grzywną do 100.000 zł. lub jedną z tych kar, Winny świadomego niewykonania zobowiązań, przewidzianych w niniejszem rozporządzeniu, będzie karany — o ile czyn nie ulega karze surowszej — więzieniem do lat trzech, Jeżeli czynu, przewidzianego w ustępie 2, dopuszczono się w czasie mobilizacji lub wojny, winny będzie karany — o ile czyn nie ulega karze surowszej — więzieniem do lat pięciu. Na obszarze mocy obowiązującej ustawy karnej z roku 1852 czyny, przewidziane w niniejszym artykule, są występkami Na tymże obszarze: 'a) orzeka się zamiast więzienia, ścisły areszt,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_4/pkt_8/lit_b",
+       "text": "można wnieść odwołanie niezależnie od i Li",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "przepisu § 283 p. k."
+      },
+      {
+       "type": "text",
+       "text": "Art. 12, Wykonanie niniejsześo rozporządzenia porucza się Ministrom Przemysłu i Handlu, Spraw Wojskowych, Skarbu, Spraw Wewnętrznych, Sprawiedliwości, Rolnictwa, Reform Rolnych, Robót Publicznych, Komunikacji oraz Poczt i Teleśrafów— każdemu we właściwym zakresie działania."
+      },
+      {
+       "type": "text",
+       "text": "Art. 13, Rozporządzenie niniejsze wchodzi w Życie z dniem ośłoszenia."
+      },
+      {
+       "type": "text",
+       "text": "Prezydent Rzeczypospolitej: I. Mościcki Prezes Rady Ministrów i Minister Spraw Wojskowych: J. Piłsudski"
+      },
+      {
+       "type": "text",
+       "text": "Minister: K. Bartel"
+      },
+      {
+       "type": "text",
+       "text": "Minister Spraw Wewnętrznych: Sławoj Składkowski Minister Spraw Zagranicznych: August Zaleski Minister Skarbu: G. Czechowicz"
+      },
+      {
+       "type": "text",
+       "text": "Minister Sprawiedliwości: A. Meysztowicz Minister Wyznań Religijnych i Oświecenia Publicznego: Dr. Dobrucki"
+      },
+      {
+       "type": "text",
+       "text": "Minister Rolnictwa: K. Niezabytowski Minister Przemysłu i Handlu: E. Kwiatkowski Minister Komunikacji: Romocki Minister Robót Publicznych: Moraczewski Minister Pracy i Opieki Społecznej: Dr. Jurkiewicz Minister Reform Rolnych: Witold Staniewicz Minister Poczt i Telegratów: Bogusław Miedziński"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

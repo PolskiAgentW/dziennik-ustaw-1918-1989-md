@@ -1,0 +1,418 @@
+{
+ "eli": "DU/1928/354",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o sprzedaży niektórych majątków państwowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1928/354/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Prezydenta Rzeczypospolitej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 marca 1928 r,"
+  },
+  {
+   "type": "text",
+   "text": "o sprzedaży niektórych majątków państwowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 44 ust. 6 Konstytucji i ustawy z dnia 2 sierpnia 1926 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 78, poz. 443) postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Zezwala się na dokonanie sprzedaży następujących majątków państwowych:",
+   "children": [
+    {
+     "type": "text",
+     "text": "I. w województwie białostockiem:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "w powiecie łomżyńskim:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "cegielni w Mątwicy gminy Kupiski o obszarze około 8,13 ha,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_1/lit_b",
+       "text": "w powiecie sokólskim:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "gruntu w Kuźnicy tejże gminy o obszarze około 0,42 ha,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_2/lit_c",
+       "text": "w powiecie suwalskim:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "jeziora „loczyste' gminy Giby o obszarze około 5,6 ha,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "jeziora „Czarne gminy Jeleniewo o obszarze około 7,69 ha,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_1/pkt_5",
+     "text": "jeziora „Osinki* gminy Jeleniewo o obszarze około 9,53 ha, „Sucharki', „Drobne”, „Tłuste”,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "jeziora śminy Jeleniewo o obszarze oko-",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Widne” ło 4,2 ha,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "jeziora ,Zielone’ gminy Jeleniewo o obszarze około 2,46 na, jeziora „Iechłe'” gminy Krasnopol o obsza- 8) rze około 6,16 ha, 9) jeziora ,.Zagowiec\" gminy Krasnopol o obszarze 11,2 ha, = jeziora ,Okraste\"” gminy Pawłówka o obsza- 10 rze około 1,11 ha;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Il. w województwie kieleckiem:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_1/lit_a",
+       "text": "w powiecie będzińskim: osady młyńskiej „Sulików gminy Mierzęci- 1",
+       "children": [
+        {
+         "type": "text",
+         "text": "— ce o obszarze około 35 ha,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "cegielni w Sulikowie gminy Mierzęcice o obszarze około 1,5 ha,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_2/lit_b",
+       "text": "w powiecie iłżeckim: osady pokarczemnej „Węgłów” gminy Wiele 3) ka-Wieś o obszarze około 1,1 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_2/lit_c",
+       "text": "w powiecie kieleckim: osady młyńskiej „Podzamcze Bodzentyńskie'” 4) śminy Bodzentyn o obszarze około 4,13 ha, 5) osady młyńskiej „Cedro-Mazur' gminy Dabrowa o obszarze około 15,8 ha.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "gruntu w osadzie młyńskiej „Łączna” gminy Suchedniów o. obszarze 0,0615 ha,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_6/lit_d",
+       "text": "w powiecie koneckim: 1) gruntu połabrycznego „Małachów” gminy Miedzierza o obszarze około 20,6 ha, osady młyńskiej „Marywil” vel „Długosz 8) gminy Szydłowiec o obszarze około 19,49 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/pkt_6/lit_e",
+       "text": "w powiecie pińczowskim: 9) placu w Koniecmostach gminy Chotel Czer« wony o obszarze około 1,12 ha, 10) cegielni ,,Wechadtéw” gminy Góry o obszarze około 6,9 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_1/pkt_6/lit_f",
+       "text": "w powiecie radomskim: cegielni „Wawrzyszów* gminy Wolanów o 11) obszarze około 7,5 ha, $) w powiecie sandomierskim: kamieniołomów „Gałkowice”* gminy Wilczy” 12) ce o obszarze około 5 ha;",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "lll w województwie łódzkiem: w powiecie tureckim: torfowisk i łąk torfowych „Wilczków” gminy Niewiesz o obszarze około 33,87 ha;"
+      },
+      {
+       "type": "text",
+       "text": "IV. w województwie lubelskiem:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_6/lit_a",
+       "text": "w powiecie bialskim: placu w Zalutyniu gminy Piszczać o obsza- 1) rze około 1,18 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_6/lit_b",
+       "text": "w powiecie janowskim: placu w Urzędowie w tejże gminie o obsza” 2) rze około 0.0410 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_6/lit_c",
+       "text": "w powiecie krasnostawskim: działki $runtu w Stężycy gminy Popianets 3) o obszarze około 6,97 ha,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_6/lit_d",
+       "text": "w powiecie łukowskim: osady młyńskiei „Ruda” gminy Prawda o ob- 4) szarze około 3,84 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/pkt_6/lit_e",
+       "text": "w powiecie siedleckim: działki gruntu w ,.Zbuczynie” tejże gminy 5) o obszarze około 7 ha, placu pod cesielnię w Chodowie gminy Ni- 6) w iski o obszarze około 3,35 ha; V. w województwie poznańskiem: w powiecie kościańskim: cegielni i tartaku w Racocie o obszarze około 3 ha; VI. w województwie śląskiem: w powiecie pszczyńskim: ogrodu w majątku „Poręby” gminy Solec o obszarze około 0,43 ha; VIL. w województwie tarnopolskiem: w powiecie borszczowskim: nieruchomości po b. kordonie w Okopach tejże gminy o obszarze około 2 ha; VIIL w województwie warszawskiem:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/pkt_6/lit_a",
+       "text": "w powiecie łowickim: osady młyńskiej „Uchań Dolny\" śminy Łysz- 1 kowice o obszarze około 41,25 ha, działki gruntu Nr. 41 w Łyszkowicach tejże gminy o obszarze około 1 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/pkt_6/lit_b",
+       "text": "w powiecie nieszawskim: działki gruntu Nr. 8 w maj. „Opatowice'” gmi- 3) ny Bytoń o obszarze około 2,50 ha, nieruchomości po b. kordonie „Siakarze” 4) gminy Raciążek o obszarze około 0,11 ha, osady po b. kordonie w Siarzewie gminy Ra- 5",
+       "children": [
+        {
+         "type": "text",
+         "text": "— ciążek o obszarze około 0,11 ha, nieruchomości po b. kordonie „Szóstka” gmi- 6) ny Radziejów o obszarze około 2,24 ha, działki gruntu „Łany Wybranieckie” gminy Bytoń o obszarze około 3,58 ha,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_1/pkt_6/lit_c",
+       "text": "w powiecie płockim: działek gruntu w „Chodkowie' gminy Mąkolin o obszarze około 1,98 i 1,371 ha, działki gruntu „Rogotwórsk” gminy Mąkolin o obszarze 1,03 ha, działki gruntu w Cekanowie gminy Żagoty 10) o obszarze około 4,09 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_1/pkt_6/lit_d",
+       "text": "w powiecie płońskim: działki gruntu „Chruścin* gminy Naruszewo . 11) o obszarze około 0,82 ha,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_1/pkt_6/lit_e",
+       "text": "w powiecie przasnyskim: dawnej smolarni „Adamczycha” gminy Ba- 12) ranowo o obszarze około 0,68 ha, - , 13) nieruchomości podonacyjnej ,,Rembielinek” gminy Chorzele o obszarze około 6,64 ha, i",
+       "children": [
+        {
+         "type": "text",
+         "text": "Nr. 38."
+        },
+        {
+         "type": "text",
+         "text": "a f) w powiecie pułtuskim:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_1/pkt_14",
+     "text": "3 działki gruntu „Serock* gminy Zegrze o obszarze około 7,58 ha, 0,41 ha i 0,33 ha, działki gruntu „Wyszków ” tejże gminy o ob- 15) szarze około 3,38 ha, $) w powiecie rawskim: osady pokarczemnej „Aleksandrówka” gmi- 16) ny Regny o obszarze około 0,34 ha,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "art_1/pkt_17",
+     "text": "osady pokarczemnej ,,Goworkéw” gminy Żelechlin o obszarze około 1,9 ha,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "art_1/pkt_17/lit_h",
+       "text": "w powiecie skierniewickim:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "art_1/pkt_18",
+     "text": "osady młyńskiej „Dęba” gminy Skierniewka o obszarze około 14,59 ha, °",
+     "children": [
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "art_1/pkt_18/lit_i",
+       "text": "w powiecie warszawskim:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "art_1/pkt_19",
+     "text": "osady pokarczemnej „Kasewko” gminy Pomiechowo o obszarze około 0,04 ha,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "art_1/pkt_20",
+     "text": "osady pokarczemnej „Jarczek' gminy Wiazowna o obszarze około 0,56 ha,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "art_1/pkt_20/lit_j",
+       "text": "w powiecie włocławskim:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "art_1/pkt_21",
+     "text": "działki gruntu „Kłobia* gminy Piaski o obszarze około 4,83 ha.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie niniejszego rozporządzenia porucza się Ministrowi Rolnictwa.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: I. Mościcki —"
+    },
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów i Minister Spraw Wojskowych: J. Piłsudski Minister: K. Bartel"
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Sławoj Składkowski Minister Spraw Zagranicznych: August Zaleski"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: G. Czechowicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: A. Meysztowicz"
+  },
+  {
+   "type": "text",
+   "text": "Minister Wyznań Religijnych i Oświecenia » ubiicznego: Dr. Dobrucki"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa: K. Niezabytowski"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: E. Kwiatkcwski"
+  },
+  {
+   "type": "text",
+   "text": "Minister Komunikacji: Romocki Minister Robót Publicznych: Moraczewski Minister Pracy i Opieki Społecznej: Dr. Jurkiewicz"
+  },
+  {
+   "type": "text",
+   "text": "Minister Reform Rolnych: Witold Staniewicz"
+  },
+  {
+   "type": "text",
+   "text": "Minister Poczt i Telegrafów: Bogusław Miedziński"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Nr. 38."
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

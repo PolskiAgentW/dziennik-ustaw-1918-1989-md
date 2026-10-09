@@ -1,0 +1,151 @@
+{
+ "eli": "DU/1927/628",
+ "title": "Rozporządzenie Rady Ministrów z dnia 11 lipca 1927 r. o oznaczeniu okręgów przemysłowych i podmiejskich, w których nie ulegają obowiązkowi parcelacyjnemu obszary poniżej 60 ha użytków rolnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/628/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Rady Ministrów z dnia 11 lipca 1927r. o oznaczeniu okręgów przemysłowych i podmiejskich, w których nie ulegają obowiązkowi parcelacyjnemu obszary poniżej 60 ha użytków rolnych. Na mocy punktu a) cz. 1 art. 4 ustawy z dnia 28 grudnia 1925 r. o wykonaniu reformy rolnej (Dz. U. R. P. z 1926 r. Ne 1, poz. 1) zarządza się co następuje: 8 1. Jako okręgi przemysłowe i podmiejskie w rozumieniu p. a) cz. 1 art. 4 ustawy z dnia 28 grudnia 1925 r. o wykonaniu reformy rolnej ustala się: A. W województwie kieleckiem:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w pow. kieleckim gm. Suchedniów,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w pow. będzińskim: gminy: Bobrowniki, Grodziec, Łagisza, Niwka, Olkusko-Siewierska, Wojkowice-Kościelne i Zagórze,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w powiecie zawierciańskim: gminy: Kromołów, Myszków, Pińczyce, Poręba, Włodowice,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "w pow. olkuskim: i gminy. Bolesław, Ogrodzieniec, Rabsztyn, Sławow,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "w pow. iłżeckim gminy: Skarżysko-Kościelne, Styków,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "w pow. opatowskim gm. Bodzechów,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "w pow. koneckim gm. Bliżyn; B. W województwie warszawskiem: w pow. błońskim gm. Żyrardów; C. W województwie łódzkiem: w pow. sieradzkim gm. Zduńska Wola; D. W województwie krakowskiem:",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w pow. bialskim: gminy: Buczkowice, Bystra, Godziska, Hałenów, Huciska, Janowice, Kalna, Kaniów Stary, Komorowice, Kozy, Lipnik, Meszna, Międzybrodzie Bialskie, Mikuszowice, Rybarzowice, Salmopol, Straconka, Szczyrk i Wilkowice,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w pow. chrzanowskim: gminy: Balin, Bobrek, Byczyna, Chełmek, Ciężkowice, Czyżówka, Dąb, Dąbrowa, Długoszyn, Frywałd, Gorzów, Góry Luszowskie, Gromiec, Jeleń, Libiąż Mały, Libiąż Wielki, Luszowice, Miękinia, Moczydło, Myślachowice, Piła Kościelecka, Płoki, Siersza, Tenczynek, Trzebionka, Wodna, Zagórze i Żarki,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w pow. oświęcimskim: gminy: Brzeszcze, Brzezinka, Dwory, Harmęże, Jawiszowice, Monowice, Pławy, Przecieszyn, Rajsko, Skidzin, Stare Stawy, Wilczkowice i Włosienica;",
+   "children": [
+    {
+     "type": "text",
+     "text": "E. W województwie śląskiem:"
+    },
+    {
+     "type": "text",
+     "text": "w pow. bielskim: gminy: Aleksandrowice, Czechowice, Dziedzice, Kamienica, Komorowice, Mazańcowice, Stare Bielsko i Wapienica."
+    },
+    {
+     "type": "text",
+     "text": "F. Grunty położone:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "w odległości do 12 kim. od granie admini: stracyjnych m. st. Warszawy, do 8 kim. od granic administracyjnych m. Łodzi;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "w odległości do 10 klm. od granic administracyjnych miast portowych Tczew i Gdynia;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "co do innych miast grunty położone w odległości: do 3 klm. od granic administracyjnych miast o ludności ponad 50.000—60.000; do 4 klm. od granic administracyjnych o ludności ponad 60.000—75.000; o luddo 5 klm. od granic administracyjnych ności ponad 75.000— 100.000; o luddo 6 klm. od granic administracyjnych ności ponad 100.000—200.000; do 7 klm. od granic administracyjnych o ludności ponad 200.000. Określone w punktach a), b) i c) odległości stosują się do granic administracyjnych danego miasta, obowiązujących w chwili wejścia w życie niniejszego rozporządzenia. llość ludności ma być ustaloną na podstawie ostatniego urzędowego Spisu ludności.",
+     "children": [
+      {
+       "type": "text",
+       "text": "G. Grunty położone"
+      },
+      {
+       "type": "text",
+       "text": "w 4-kilometrowym pasie nadmorskim wojewddztwa pomorskiego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia i dotyczy również gmin, które powstały lub powstaną w drodze podziału lub połączenia obszarów gmin, wymienionych w niniejszem rozporządzeniu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Piłsudski"
+  },
+  {
+   "type": "text",
+   "text": "Minister Reform Rolnych: Witold Staniewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

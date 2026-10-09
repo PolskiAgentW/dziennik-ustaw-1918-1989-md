@@ -1,0 +1,1562 @@
+{
+ "eli": "DU/1927/906",
+ "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 24 listopada 1927 r. w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. o pomiarze morskich statków handlowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/906/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Przemysłu i Handlu"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 listopada 1927 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. o pomiarze morskich statków handlowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 30 i 31 rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. o pomiarze morskich statków handlowych (Dz. U. R. P. Ne 47, poz. 422) zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Dla określenia nośności (zdolności ładunkowej) statku stwierdza się jego pojemność przez pomiar. Pomiar dokonywa się sposobem i wedle zasad zawartych w załączonym do niniejszego rozporządzenia regulaminie (załącznik Ne 1).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Pomiarów statku dokonywa się w legalnych jednostkach pomiarowych miar (dekret o miarach z dnia 8 lutego 1919 r.—Dz.P.P.P, Ne 15, poz. 211 i rozporządzenie Ministra Przemysłu i Handlu z dnia 7 kwietnia 1919 r. o legalnych jednostkach miar— Dz. P. P. P. Ne 41, poz. 299). W świadectwie pomiarowem i protokóle pomiarowym pojemności brutto i netto statku wyraża się w metrach sześciennych i angielskich tonnach rejestrowych. Jedną angielską tonnę rejestrową (100 stóp angielskich sześciennych) należy przyjmować za równą 2,83 metrów sześciennych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Urząd marynarki handlowej wystawia świadectwa pomiarowe według wzorów załączonych do niniejszego rozporządzenia (załączniki Ne 2, 3, 4). wiadectwo pomiarowe statku pokładowego, pomierzonego sposobem zwykłym, wystawia się według wzoru —załącznik Ne 2, statku bezpokładowego według wzoru—załącznik Ne 3 i statku pokładowego pomierzonego sposobem skróconym według wzoru—załącznik Ne 4. Urząd marynarki handlowej prowadzi dziennik pomiarowy według wzoru—załącznik Ne 5.",
+   "children": [
+    {
+     "type": "text",
+     "text": "1443"
+    },
+    {
+     "type": "text",
+     "text": "m R"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Świadectwo pomiarowe statku wystawia się w dwu egzemplarzach. Jeden egzemplarz otrzymuje właściciel lub kapitan statku po uiszczeniu opłaty za pomiar, ustalonej przez urząd marynarki handlowej, drugi przechowuje się w aktach urzędu marynarki handlowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Świadectwa pomiarowe, wystawione przez władze polskie przed wejściem w życie niniejszego rozporządzenia, tracą moc obowiązującą z dniem 1 kwietnia 1928 r. i muszą być do tego terminu wymienione na świadectwa pomiarowe, wystawione zgodnie z przepisami niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: E. Kwiatkowski"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik Ne i do rozp. Min. Przem. i Handlu z dnia 24 listopada 1927 r. (poz. 906)."
+  },
+  {
+   "type": "text",
+   "text": "REGGLAMIN"
+  },
+  {
+   "type": "text",
+   "text": "obejmujący obliczenie pojemności morskiego statku handlowego, sprawdzenie tożsamości statku, sposoby pomiaru statku, narzędzia pomiarowe, ich przechowywanie i kontrolowanie oraz prowadzenie protokółu pomiarowego i wydanie świadectw pomiarowych."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Zasady pomiaru."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przez pomiar ustala się pojemność statku brutto i netto.",
+   "children": [
+    {
+     "type": "text",
+     "text": "32 Pomiar statku obejmuje pomieszczenia, położone pod najwyższym pokładem jak również nadbudówki, stale na tym pokładzie lub nad nim umoco-"
+    },
+    {
+     "type": "text",
+     "text": "wane. Pojemność brutto. 5.3 Pojemność brutto składa się z pojemności na* stępujących części statku:"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "pomieszczeń pod pokładem pomiarowym (§ 13), z wyłączeniem pomieszczeń podwójnego dna, przeznaczonych jedynie dla wodnego balastu i nie przystosowanych do przechowywania ładunku, zapa: sów i paliwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "pomieszczeń między poszczególnymi pokładami ponad pokładem pomiarowym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "stałych i zamkniętych nadbudówek. Za stałe i zamknięte nadbudówki uważa się takie nadbudówki na górnym pokładzie lub nad nim, które mogą być przeznaczone do przechowywania ładunku, zapasów lub paliwa albo też do umieszczę: nią pasażerów i załogi, jak to: bak, środkowa nadbudówka, jut, półpokład, mostek, lub inne nadbudówki i pomieszczenia, oddzielnie wybudowane na pokładach, a ograniczone przykryciem górnem i ścianami bocznemi, i zaopatrzone w stałe lub zdejmowane drzwi czy też inne urządzenia, całkowicie zamykające pomieszczenie. .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "tej części ogólnej pojemności wszystkich luk, znajdujących się na najwyższym pokładzie lub nad nim, która przekracza 4/2°/o pojemności brutto.",
+     "children": [
+      {
+       "type": "text",
+       "text": "84"
+      },
+      {
+       "type": "text",
+       "text": "Wliczeniu do pojemności brutto nie podlegają następujące pomieszczenia, o ile znajdują się w nadbudówkach, na najwyższym pokładzie lub nad nim:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wszystkie kryte i zamknięte ubikacje, nadające się wyłącznie do pomieszczenia maszyn pomocniczych, jak pomocniczy kocioł, pomocniczy zespół mechaniczny, dostarczający energji elektrycznej dła oświetlenia i dla radjo w wypadku niebezpieczeństwa morskiego, miejsce lub miejsca zajęte przez windy (szpil, braszpil) i sterową maszynę, o ile ubikacje te nie są większe niż ich cel tego wymaga,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "budka sternika, służąca jako schron dla sternika lub innych pracowników przy sterze, o ile ubikacja ta nie jest większa, niż powyższy cel tego wymaga,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "budki dla kuchni i piekarni, zaopatrzone w piece, pomieszczenie aparatu destylacyjnego, o ile pomieszczenia te nie są większe niż wymaga potrzeba ochrony obsługi tych urządzeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "ustępy, przeznaczone dla oficerów i załogi statku, o ile ilość ich i rozmiar nie przekraczają potrzeby. Na statkach, przeznaczonych głównie do przewozu pasażerów, nie wlicza się pozatem do pojemności brutto po jednym ustępie na każdych pięćdziesięciu pasażerów. Całkowita ilość ustępów, wyłączonych od pomiaru, nie może jednak przekraczać dwunastu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "wszystkie oddzielnie na pokładzie lub nad nim umieszczone wejścia i świetlne luki, o ile nie mogą być użyte do żadnego innego celu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "następujące nadbudówki, o ile Ministerstwo Przemysłu i Handlu na skutek umotywowanego podania właścicieła statku upoważni urząd marynarki handlowej do niewliczania tych pomieszczeń do pojemności brutto:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "nadbudówki, służące jako schronienie dla podróżnych pokładowych przed niepogodą i falami w czasie podróży w przybrzeżnej i małej żegludze;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "nadbudówki na górnym pokładzie z jedną lub więcej otwartemi na całej ich wysokości Ścianami;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_6/lit_c",
+       "text": "nadbudówki, sięgające od burty do burty, któ» re posiadają przynajmniej w jednej z końcowych swych przegród z każdej strony statku po jednym lub więcej otworów, o wymiarze każdego co najmniej: szerokości 0,91 metra, wysokości 1,22 metra, z progiem nad pokładem nie wyższym jak 0,61 metra. Otwory te nie mogą posiadać urządzonego nastałe zamknięcia, drzwi, zawias dla drzwi, uszczelnię= nią, skobli, haków, śrub zamykających it. d., ani też żadnego urządzenia, mogącego wskazywać na stałe urządzenie dla zamykania nadbudówki. Obecność w przegrodzie nadbudówki jednego otworu przepisanego wyżej wymiaru uważać można za powód dostateczny do niewliczenia tej nadbudówki do pojemności brutto, o ile oprócz tego otworu pomieszczenie nadbudówki zaopatrzone jest od strony każdej burty w dostateczną ilość otworów bu: rzowych i szpigatów (patrz niżej § 5 pkt. 3);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_6/lit_d",
+       "text": "nadbudówki sięgające od burty do burty, które posiadają w obu burtach otwory dostatecznych wymiarów i są zaopatrzone z każ: dej burty w dostateczną ilość otworów bu: rzowych i szpigatów.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Jeżeli najwyższy pokład, ciągnący się na całej lub przeważnej części długości statku, posiada stały otwór niżej podanego wymiaru i wykonania, tak zwany pokładowy otwór pomiarowy, lub jeżeli znajdują się w zewnętrznej burcie stałe otwory dostatecznego wymiaru, tak zwane boczne otwory pomiarowe, i w obu wypadkach w pobliżu otworu względnie otworów pomiarowych lub też niżej nich są otwory burzowe i szpigaty dostatecznych wymiarów „i wielkości — może być taki pokład uważany jako pokład ochronny, tak zwany Shelter. Pomieszczenie między ochronnym pokładem, a leżącym bezpośrednio niżej, można traktować przy pomiarze, jako nadbudówkę i nie wliczać do pojemności brutto, o ile 'Ministerstwo Przemysłu i Handlu, na skutek umotywowanego podania właściciela statku, upoważni urząd marynarki handlowej do niewliczania tego pomieszczenia do pojemności brutto, i o ile zostaną zachowane Na DYR warunki lub też stwierdzone następujące ane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "statek jest z ochronnym pokładem—tak zwany „Shelter-deck-Ship”, i jego wolna burta mierzona jest do pokładu, leżącego bezpośrednio niżej ochronnego pokładu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "najwyższa dopuszczalna linja zanurzenia ładunkowego dla wolnej burty w wodzie morskiej latem leży nie wyżej górnej powierzchni poszycia żelaznego pokładu względnie górnej powierzchni desek pokładowych pokładu, leżącego bezpośrednio pod ochronnym pokładem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "pomieszczenie zaopatrzone w otwór ma miedzy ograniczającemi je przegrodami z każdej burty co najmniej po jednym otworze burzowym wymiaru 0,38 metra i 0,51 metra i po szpigacie o przekroju w świetle, nie mniejszym niż płaszczyzna koła o średnicy 9 centymetrów. Otwory burzowe i szpigaty nie mogą posiadać urządzenia do ich zamykania,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "+: 4) otwór pomiarowy w ochronnym pokładzie od: powiada następującym warunkom:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/pkt_3/lit_a",
+       "text": "musi być umieszczony symetrycznie do środkowego podłużnego przekroju statku;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/pkt_3/lit_b",
+       "text": "jeżeli znajduje się na rufie—jego rufowa krawędź musi być oddalona od tylnej powierzchni sztaby tylnej na odległość nie mniejszą niż jedna dwudziesta długości statku, ustalonej według § 12 pkt. 1;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_5/pkt_3/lit_c",
+       "text": "jeżeli znajduje się na dziobie — jego dziobo* wa krawędź musi być oddalona od sztaby przedniej na odległość nie mniejszą niż jedna piąta długości statku;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_5/pkt_3/lit_d",
+       "text": "długość w świetle otworu winna być nie mniejszą niż 1,22 metra, szerokość—równa co najmniej szerokości normalnej tylnej luki ładunkowej, a wysokość progu otworu pomiarowego ponad pokładem, o ile otwór będzie zaopatrzony w próg, nie może przekraczać 0,30 metra;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_5/pkt_3/lit_e",
+       "text": "musi być chroniony barjerką ze słupami; słupki muszą być tak umocowane, by nie mogły schylać się ku wewnątrz otworu. Uwaga 1: Otwór pomiarowy może być zaopatrzony w pokrycie prowizoryczne (nie stałe) z umocowaniem z dołu. Pokrycie może być drewniane; pokrycie żelazne nie jest dopuszczalne. Wszystkie otwory na górnym pokładzie muszą być zaopatrzone w należyte środki dla ich zakrywania i zaklinowywania. Uwaga2: Jeżeli otwór względnie otwory pomiarowe są na rufie i we wszystkich poprzecznych, sięgających od burty do burty przegrodach, w kierunku dziobu statku, między pokładami ochronnym a niżej położonym znajdują się w każdej przegrodzie co najmniej po dwa otwory, posiadające wymiar i wykonanie zgodnie z. przepisami § 4 pkt. 6 lit. „c” i są ustawione z każdej burty, z obu stron przegród co najmniej po jednym szpigacie wymiarów powyżej podanych—to objętych temi przegrodami pomieszczeń nie wlicza się do pojemności brutto.",
+       "children": [
+        {
+         "type": "text",
+         "text": "8 6."
+        },
+        {
+         "type": "text",
+         "text": "Pomieszczenia, niewliczane do pojemności brutto na podstawie $§ 4 i 5, będą uwidocznione w Świadectwie pomiarowem z podaniem ich wymiarów. W razie gdyby takich ubikacyj nie było, urząd marynarki handlowej zaznaczy to w świadectwie pomiarowem."
+        },
+        {
+         "type": "text",
+         "text": "Pojemność netto."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Pojemność statku netio otrzymuje się po potrąceniu od pojemności brutto wszystkich pomieszczeń statku, wymienionych w §§ 8, 9, 10 i 11, o ile te pomieszczenia odpowiadają przepisom i warunkom w tychże $$-ach zawartym i o ile zostały poprzednio włączone do pojemności brutto.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Na statku wszelkiego rodzaju potrąca się od pojemności brutto w celu otrzymania pojemności netto następujące pomieszczenia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "wszelkie pomieszczenia oddzielne zarówno nad najwyższym pokładem, jak i pod nim, przeznaczone wyłącznie dla załogi, jednakże tylko w tej mierze, w jakiej ich pojemność jest dostosowana do celów, jakim mają służyć; umywalnie, łazienki dla załogi, o ile ilość ich i rozmiar nie przekraczają potrzeby. Oficerskie jadalnie i łazienki na statkach, prze-- znaczonych głównie dla przewozu pasażerów, potrąca się od pojemności tylko wtedy, jeśli na statku znaj-, dują się takież urządzenia dla użytku pasażerów, Uwaga I: O ile pomieszczenia ustępów dla załogi, kuchni, piekarni, dla destylacyjnego aparatu, jak również pomieszczenia dla uruchomienia steru i wind, zostały wliczone do pojemności brutto, to należy je potrącić. Uwaga 2: Pomieszczenia dla zapasów aprowizacji, łańcuchów kotwicznych i kuchnie dla pasażerów nie ulegają potrąceniu z pojemności brutto.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "pomieszczenie, przeznaczone wyłącznie dla osobistego użytku kapitana,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "osobne pomieszczenia dla przechowywania map, instrumentów nawigacyjnych, sygnałów, radjotelegrafji, podwodnej sygnalizacji i t. p. Na statkach, na których zainstalowane są powyższe przedmioty w salonie, potrąca się połowę pojemności salonu, lecz nie więcej jak trzy tonny rejestrowe,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_8/pkt_4",
+     "text": "pomieszczenie dla przechowywania sprzętu bosmańskiego w następujących rozmiarach: na statkach rybackich, które przechowują sprzęt bosmański w ładowni — 8,5 metrów sześciennych na statkach o pojemności tonn rejestrowych: do 150 — nie więcej niż 8,5 metrów sześciennych od 150do 500 , w »„ 2/0 pojemności brutto » 500 ,„ 1000 ,, 53 28,3 metrów sześciennych ponad 1000 ,, » 9. 1°/o pojemności brutto, a w każdym razie najwyżej 212 metrów sześciennych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_8/pkt_5",
+     "text": "pomieszczenia, zająte przez maszynę pomocniczą i kocioł pomocniczy, o ile te urządzenia maszynowe są połączone z głównemi pompami statku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_8/pkt_6",
+     "text": "wszelkie pomieszczenia, umieszczone wyżej lub niżej górnego pokładu (oprócz dna podwójnego), użyte lub przystosowane wyłącznie dla wodnego balastu, włączając w to zderzeniowe przedziały na dziobie i rufie, jeżeli dostęp do każdego z po: wyższych pomieszczeń uskuteczniony być może tylko przez jeden zwyczajny właz (manloch) dostatecznych wymiarów. Powierzchnia włazu nie może przekró: czać 0,186 metra kwadratowego. Wszystkie wymienione w niniejszym § pomieszczenia potrąca się od pojemności brutto, o ile posiadają odpowiednią dla swego przeznaczenia i celu konstrukcję, urządzenie i wielkość, Uwaga: Przeznaczenie potrąconego pomieszczenia i jego pojemność muszą być oznaczone stałym i wyraźnie widocznym napisem, umieszczonym z zewnątrz przy",
+     "children": [
+      {
+       "type": "text",
+       "text": "wejściu. 5 dz Na statku żaglowym (z napędem jedynie żaglo-"
+      },
+      {
+       "type": "lit",
+       "num": "wym",
+       "path": "par_8/pkt_6/lit_wym",
+       "text": "potrąca się od pojemności brutto dla otrzyma” nią pojemności netto, oprócz pomieszczeń -wymienionych w § 8, skład dla żagli, jeśli skład ten służy wyłącznie dla tego celu. Potrącenie to nie może przekraczać jednak 21/2°/o pojemności brutto.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Uwaga: Przeznaczenie składu i jego pojemność winny być oznaczone stałym i wyrażnie widocznym napisem umieszczonym z zewnątrz przy wejściu."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_8/ust_8",
+     "text": "10.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Na statkach poruszanych parą lub innym napędem mechanicznym potrąca się od pojemności brutto dla otrzymania pojemności netto oprócz pomieszczeń, wymienionych w § 8, również pomieszczenia, zajęte i niezbędne dla wytwarzania siły pędnej, w sposób następujący:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_8/pkt_1",
+       "text": "na statkach, których pojemność pomieszczenia maszynowego mieści się w granicach od 20 do 30 °%/o pojemności brutto na kołowcach, i od 13 do 20°o na śrubowcach, potrącenie wynosi dla kołowców 37%, a dla śrubowców 32 /o pojemności brutto,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_8/pkt_2",
+       "text": "nastatkach, których pojemność pomieszczenia maszynowego wynosi na kołowcach mniej niż 20°/o, a na śrubowcach mniej niż 13°/o pojemności brutto— potrącenie wynosi dla kołowców 1,50 pojemności pomieszczenia maszynowego, a dla śrubowców 1,75 pojemności pomieszczenia maszynowego. Ministerstwo Przemysłu i Handlu może jednakże w poszczególnych wypadkach polecić zastosowanie sposobu potrącenia, podanego w pkt. 1,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_8/pkt_3",
+       "text": "na statkach, których pojemność pomieszczenia maszynowego przekracza na kołowcach 30/0, a na śrubowcach 20°/o pojemności brutto, potrącenie ustala się w sposób podany w punkcie 1 lub 2 zależnie od wyboru, zgłoszonego na piśmie przez właściciela lub kapitana statku. Jeżeli właściciel lub kapitan statku nie skorzysta z tego uprawnienia, stosuje się pkt. 1. Na wszystkich statkach, za wyjątkiem holowników, służących wyłącznie do holowania lub lodołamania, potrącenie uskuteczniane na podstawie przepisów niniejszego paragrafu nie może przekraczać 55°%/o tej pojemności, brutto, która pozostaje po uwzględnieniu potrąceń, wymienionych w § 8.",
+       "children": [
+        {
+         "type": "text",
+         "text": "5 11."
+        },
+        {
+         "type": "text",
+         "text": "Pomieszczenie maszynowe obejmuje przestrzeń, zajętą przez maszyny, bezpośrednio pracujące dla napędu statku (tak zwane maszyny główne), instalacje wytwarzania siły pędnej (kotły), maszyny i kotły pomocnicze, znajdujące się w obrębie przedziałów maszynowych i kotłowych i pozostające w łączności z maszynami głównemi, przestrzeń niezbędną dla prawidłowej obsługi, oraz dla dostarczania powietrza i światła, a również na statkach śrubowych tunel lub pomieszczenia wału wraz z wyjściem na pokład. Wyszczególnione pomieszczenia traktuje się jako pomieszczenie maszynowe, o ile są konieczne dla należytego działania instalacji, wytwarzającej siłę pędną, i są należytej wielkości. Mogą być zatem zaliczone do pomieszczenia maszynowego, w sensie powyższego przepisu, dla potrącenia od pojemności brutto następujące pomieszczenia:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_8/pkt_1",
+       "text": "całkowita przestrzeń pod najbliższym pokładem, położonym nad pomieszczeniem maszyny głównej, zajęta przez instalację mechaniczną, tunele względnie pomieszczenia wału na statkach śrubowych wraz z wyjściami z tuneli bezpośrednio na pokład w postaci samoistnych luk wyjściowych,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Ne 105,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_8/pkt_2",
+       "text": "te części pomieszczeń nad najbliższym pokładem, położonym nad pomieszczeniem maszyny głównej, jak i pomieszczenia maszynowe nad górnym pokładem, dla dostarczania światła i powietrza (szachty i nadbudówki), które na skutek umotywowanego podania właściciela statku Ministerstwo Przemysłu i Handlu poleci zaliczyć do pomieszczenia maszynowego, o ile",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_8/ust_8/pkt_2/lit_a",
+         "text": "zabezpieczone są od działania fal i koń: strukcją swą nie zmniejszają bezpieczeństwa statku w morzu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_8/ust_8/pkt_2/lit_b",
+         "text": "nie mogą być użyte dla innego celu niż dla umieszczenia i obsługi maszyn lub dla dostarczania światła i powietrza, posiadają odpowiednie wymiary. Szerokość",
+         "children": [
+          {
+           "type": "text",
+           "text": "— c szachty, służącej dla dostępu światła i powietrza do maszyn i kotłów nie może być większa od połowy największej szerokości statku, a długość nie większa od długości przedziału maszynowego i kotłowego; długość pokrytej części szachty potrąca się od całej długości szachty. Uwaga 1: Pomieszczenia wymienione w pkt. 2, o ile zostaną zaliczone do pomieszczenia maszynowego, posiadać muszą stały napis z zewnątrz pomieszczenia o traktowaniu go przy pomiarze jako części po mieszczenia maszynowego. Uwaga 2: Statki motorowe, łodzie motorowe lub statki poruszane napędem elektrycznym będą traktowane przy pomiarze jako statki parowe. Uwaga 3 Wszelkich pomieszczeń dla paliwa, baterji akumulatorów, smarów i wody dla zaopatrzenia kotłów i maszyn oraz kajut, schówków i magazynów w pomieszczeniach maszynowych i kotłowych, jak również wszelkich pomieszczeń niezbędnych dla bezpiecznej pracy mechanizmów, nie używanych dla napędu statku — nie włącza się do pojemności pomieszczenia maszynowego w myśl niniejszego regulaminu."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział Il",
+   "text": "Sprawdzanie tożsamości statku."
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Przed przystąpieniem do pomiaru urząd marynarki handlowej sprawdza tożsamość statku przez zdjęcie głównych wymiarów korpusu statku; wymiary te są następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "Przy statkach pokładowych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_12/pkt_1/lit_a",
+       "text": "długość między przednią powierzchnią sztaby przedniej, a tylną powierzchnią sztaby tylnej, mierzona na najwyższym stałym pokładzie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_12/pkt_1/lit_b",
+       "text": "największa szerokość między zewnętrznemi powierzchniami zewnętrznego poszycia obu burt,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_12/pkt_1/lit_c",
+       "text": "głębokość wnętrza statku w środku długości, ustalonej jak wyżej, mierzona między dolną krawędzią naiwyższego stałego pokładu, a górną krawędzią wręg obok kila lub górną powierzchnią wewnętrznego dna podwójnego, o ile takie istnieje,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_12/pkt_1/lit_d",
+       "text": "przy statkach, poruszanych napędem mechanicznym, największa długość przedziału ma-",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "szynowego wraz ze stałemi pomieszczeniami dla paliwa, mierzona między przegrodami sięgającemi od burty do burty, a ograniczającemi ten przedział. Jeżeli pomiaru dokonano w postępowaniu skróconem, to należy uwzględnić zamiast głębokości, określonej pod lit. c), obwód statku ustalony według § 23."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "Przy statkach bezpokładowych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_12/pkt_2/lit_a",
+       "text": "długość między przednią powierzchnią sztaby przedniej, a tylną powierzchnią sztaby tylnej, mierzona na wysokości górnej krawędzi najwyższego, stale umocowanego, pasa poszycia obu burt,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "tb",
+       "path": "par_12/pkt_2/lit_tb",
+       "text": "szerokość między zewnętrznemi powierzchniami zewnętrznego poszycia obu burt, mierzona w środku długości, ustalonej jak pod lit. a) niniejszego punktu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_12/pkt_2/lit_c",
+       "text": "głębokość, mierzona w środku długości, ustalonej jak wyżej między górnym punktem, podanym w § 21, a górną krawędzią wręg obok kila.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Główne wymiary korpusu statku umieszcza się w świadectwie pomiarowem. 4"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział III",
+   "text": "Sposoby pomiaru statku. A. Postępowanie przy pomiarze sposobem zwykłym."
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Statki pokładowe.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Górny pokład na statkach, posiadających mniej niż trzy pokłady, a drugi od dołu na statkach posiadających trzy pokłady lub więcej, jest pokiadam pomiarowym. Pomieszczenia, znajdujące się pod pokładem pomiarowym pomierzą się jako jedną całość. Pomieszczenia, znajdujące się ponad pokładem pomiarowym, pomierzą się każde z osobna bez względu na to, czy tworzą je pokłady,\"czy też nadbudówki. _ Za pokłady uważa się tylko te, które ciągną się bez przerwy od dziobu do rufy statku, a których pokładnice (bimsy) połączone są z resztą korpusu statku w sposób trwały i stale są przykryte. Otwory lub ogrodzenia przedziałów maszynowych i kotłowych, jak również luki, nie stanowią przerwy pokładu. Również zagłębienia, względnie wzniesienia, choćby nawet zajmowały całą szerokość statku, jeżeli suma długości tych przerw nie wynosi połowy długości odnośnego pokładu, nie stanowią przerwy pokładu. Jeżeli natomiast suma długości zagłębionych, czy też wzniesionych części pokładu przekracza połowę jego długości, to za pokład uważa się te właśnie części i ich przedłużenia. Niepokryte zagłębienia pokładu mierzy się oddzielnie, a pojemność ich potrąca się z otrzymanej pojemności przestrzeni pod pokładem."
+    },
+    {
+     "type": "text",
+     "text": "§ 14,"
+    },
+    {
+     "type": "text",
+     "text": "Długość statku mierzy się na górnej powierzchni pokładu pomiarowego w prostej linji od wewnętrznej powierzchni wewnętrznego poszycia burty przy sztabie przedniej do wewnętrznej powierzchni środkowej podpory rufy, albo de wewnętrznej powierzchni wewnętrznego poszycia burty na rufie w środkowym podłużnym przekroju statku."
+    },
+    {
+     "type": "text",
+     "text": "Przy pomiarze długości statku uwzględnia się średnią grubość wewnętrznego poszycia burty. Jeżeli dziób i rufa statku są odchylone na zewnątrz, potrąca się od tej długości:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "rzut na prostą mierzonej długości — odcinka linji dziobu, zawartej między górną i dolną powierzchnią pokładu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "rzut na prostą mierzonej długości — odcinków linji rufy, zawartych między górną i dolną powierzchnią pokładu i jedną trzecią wielkości wygięcia pokładnicy. Jeżeli zaś dziób i rufa są nachylone ku wewnątrz, to do długości, pomierzonej na pokładzie pomiarowym, dodaje się długość przestrzeni, wymierzonej wewnątrz statku od punktów końcowych pomiaru długości na pokładzie do wewnętrznej powierzchni burty na dziobie i rufie w największej długości statku. Długość mierzy się na pokładzie pomiarowym w płaszczyźnie równoległej ze środkowym podłużnym przekrojem statku. Linje, po których mierzy się długość, prowadzić należy poza lukami i innemi przeszkodami na pokładzie; końce tych linij znaczy się na pokładzie i rzuca się je na linię, leżącą w środkowem podłużnym przekroju statku. Od tak uzyskanych punktów mierzy się długość od dziobu do rufy statku, i tak mierzona długość stanowi długość pomiarową statku. Długość pomiarową dzieli się na równe części, mianowicie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "do 15 metrów — na 4 równe części, ponad 15 , do 37 metrów—na 6 5 Sł ow m SE w * =, s 55 » 69 , —, 10 —, 12 Punkty podziału długości pomiarowej zwą się punktami podziałowemi długości."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Na każdym punkcie podziałowym długości pomiarowej dokonywa się pomiaru poprzecznego prze: kroju wnętrza, znajdującego się pod pokładem pomia-",
+   "children": [
+    {
+     "type": "text",
+     "text": "rowym. Jako głębokość przekroju mierzy się pionową odległość dwóch punktów, położonych w płaszczyźnie równoległej do podłużnego przekroju statku, z których jeden leży na dolnej powierzchni pokładu pomiarowego lub jego przedłużeniu, a drugi na górnej powierzchni wręgi obok kila lub jej przedłużeniu, zmniejszoną o trzecią część wygięcia pokładnicy pokładu pomiarowego w danym przekroju i o średnią grubość stałego lub trwale umocowanego poszycia wewnętrznego wręg, o ile wręgi poszycie takie posiadają. Na statkach z dnem podwójnem, przeznaczonem do balastu wodnego na których przestrzeń pomiędzy wewnętrznym i zewnętrznym dnem nie została uznana przez urząd marynarki handlowej za nadającą się do przechowywania ładunku, zapasów lub paliwa, przestrzeni tej nie wlicza się do pojemności brutto, i głębokość przekroju mierzy się od dolnej powierzchni pokładu pomiarowago lub jego przedłużenia do górnej powierzchni poszycia wewnętrznego dna podwójnego z potrąceniem trzeciej części wygięcia pokładnicy pokładu pomiarowego w danem"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "miejscu i średniej grubości stałego, trwale umocowanego poszycia wewnętrznego, o ile takie istnieje. Jeżeli podwójne dno nie służy wyłącznie dla balastu wodnego, to te jego części, które mogą być użyte do przechowania ładunku, zapasów lub paliwa, dołącza się do pojemności brutto, a głębokość mierzy się nie do górnej powierzchni poszycia wewnętrznego dna podwójnego, lecz do ścianki kątownika przy kilu. W razie, gdy istnieją przerwy dna podwójnego lub, gdy część dna podwójnego została uznana jako niepodlegająca wliczeniu do pojemności brutto, lub też wysokość dna podwójnego jest zmienna, to pomiar statku poniżej pokładu pomiarowego odbywa się częściami w zależności od wysokości dna podwójnego. Długość każdej takiej części statku dzieli się na tę ilość części i wymierza się w ten sposób, jak przewidziane jest dla długości pomiarowej w § 14"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Jeżeli głębokość przekroju poprzecznego, przechodzącego przez środkowy punkt podziałowy długości statku nie wynosi więcej niż 5 metrów, w takim razie głębokość każdego przekroju poprzecznego dzieli się na 4 równe części. Przez każdy z trzech środkowych punktów podziału jako też przez górny i dolny końcowy punkt głębokości mierzy się wewnętrzne szerokości każdego przekroju pod kątem prostym do płaszczyzny przekroju podłużnego statku. Przy statkach żelaznych lub stalowych zwykłej budowy, które nie posiadają wewnętrznego poszycia burty, mierzy się szerokość między wewnętrznemi krawędziami kątowników lub belek wręg. Jeżeli wewnętrzne poszycie składa się z umocowanych na stałe listew z niezakrytą między dwiema sąsiedniemi listwami przestrzenią nie więcej jak 0,3 metra, mierzy się szerokość do wewnętrznej powierzchni listew. Jeżeli natomiast nie zakryta między temi listwami przestrzeń jest większa niż 0,3 metra, dodaje się do szerokości, mierzonej między wewnetrznemi krawędziami wręg, średnie grubości listew obu burt. Grubość wewnętrznego poszycia, przyjmowana w obliczeniu szerokości przekroju, nie może przekraczać 75 milimetrów z każdej burty. Jeżeli przedziały ładunkowe, przeznaczone na chłodnie, mają izolację, wystającą ponad wręgi względnie ponad flory dna podwójnego, należy przy pomiarze szerokości i głębokości potrącić średnią grubość izolacji, nie więcej jednak niż 75 milimetrów. Za wewnętrzne poszycie należy uważać tylko takie, które umocowane jest do korpusu statku na \"stałe. Celem obliczenia powierzchni przekrojów po: ‘Reems numeruje się wymierzone szerokości ażdego przekroju w ten sposób, że górną szerokość \"oznacza się cyfrą 1, a następne kolejno cyframi 2, 3, 4, dolną zaś cyfrą 5. Drugą i czwartą szerokość mnoży się przez 4, a trzecią przez 2. Do sumy tych iloczynów dodaje się szerokość pierwszą i piątą. Uzyskany rezultat mnoży się przez trzecią część wzajemnego rozstępu szerokości; iloczyn ten stanowi powierzchnię przekroju. Jeżeli jednak głębokość przekroju poprzecznego, przechodzącego przez najbliższy śradka punkt podziałowy długości, wynosi więcej niż 5 metrów, to dzieli się głębokość każdego przekroju nie na 4, lecz na6 równych części. Pomiar i obliczenie powierzchni przekroju od: bywa się w sposób podany wyżej. Mnoży się mianowicie drugą, czwartą i szóstą szerokość przez cztery, trzecią i piątą przez dwa, a do sumy tych iloczynów dodaje się pierwszą i siódmą szerokość. Tę łączną sumę mnoży się przez trzecią część wzajemnego rozstępu szerokości, a otrzymany iloczyn określa powierzchnię przekroju.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Z powierzchni wszystkich poszczególnych przekrojów poprzecznych, otrzymanej według przepisów § 16, oblicza się pojemność wnętrza statku, znajdującego się pod pokładem pomiarowym w sposób następujący: Przekroje numeruje się kolejno liczbami 1, 2,3 it. d. w ten sposób że 1 oznacza przekrój, przechodzący przez początkowy punkt na dziobie statku, a ostatni numer określa przekrój, przechodzący przez końcowy punkt długości na rufie. Wielkość każdego przekroju, oznaczonego numerem parzystym, mnoży się przez cztery, a każdego nieparzystego, z wyjątkiem pierwszego i ostatniego przez dwa, i do sumy tych iloczynów dodaje się wielkość przekroju pierwszego i ostatniego. Tę łączną sumę mnoży się przez trzecią część wzajemnego rozstępu przekrojów. (lzyskany iloczyn stanowi pojemność wnętrza statku, znajdującego się pod pokładem pomiarowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Jeżeli statek posiada nad pokładem pomiaro: wym jeszcze dalsze pokłady, to pojemność przestrzeni między pokładami, leżącemi nad pokładem pomiarowym, mierzy się dla każdej przestrzeni między pokładami oddzielnie w sposób następujący: Wewnętrzna długość przestrzeni między pokładem pomiarowym a najbliższym nad nim — trzecim pokładem — mierzy się na połowie wysokości tej przestrzeni od wewnętrznej powierzchni poszycia przy sztabie przedniej do wewnętrznej powierzchni poszycia wręg na rufie. Długość tę dzieli się natę samą ilość równych części, na jaką była podzielona długość pokładu pomiarowego. W każdym z punktów podziału wymierza się naprzód pionowy odstęp dolnej powierzchni trzeciego pokładu od górnej powierzchni pokładu pomiarowego lub ich przedłużenia. Srednia arytmetyczna tych pomiarów określa średnią wysokość przestrzeni między pokładami. W każdym ze wspomnianych punktów podziału, jako też w punktach końcowych długości na dziobie i na rufie mierzy się wewnętrzne szerokości w myśl § 16, w połowie wysokości. Szerokości te oznacza się kolejno numerami 1, 2, 3 i t. d. w ten sposób, że szerokość u sztaby przedniej otrzymuje numer 1. Wszystkie szerokości oznaczone numerami parzystemi mnoży się przez cztery, a oznaczone numerami nieparzystemi, z wyjątkiem pierwszej i ostatniej, przez dwa. Sumę tych iloczynów wraz z pierwszą i ostatnią mnoży się przez trzecią część rozstępu szerokości pomiędzy sobą. Iloczyn stanowi powierzchnię średniej, poziomej płaszczyzny przekroju, a pomnożony przez uzyskaną według drugiego ustępu średnią",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "wysokość przestrzeni między pokładami, daje pojemność mierzonej przestrzeni. Jeżeli statek posiada więcej niż trzy pokłady, to pomiar przestrzeni między pokładami, znajdującemi się ponad trzecim pokładem, odbywa się w sposób, powyżej określony, oddzielnie dla każdej z przestrzeni między-pokładowych."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Pojemność nadbudówek, którą wlicza się do pojemności brutto, ustala się, jak następuje. Mierzy się wewnętrzną, średnią długość każdego takiego pomieszczenia i dzieli się ją na dwie równe części. W połowie wysokości pomieszczenia wymierza się następnie trzy wewnętrzne szerokości, a mianowicie po jednej szerokości, przechodzącej przez każdy punkt końcowy długości, a trzecią, która przechodzi przez środek mierzonej długości. Do sumy obydwu . szerokości końcowych dodaje się następnie czterokrotną środkową szerokość, a całkowitą sumę mnoży się przez trzecią część wzajemnego rozstępu sze: rokości. lloczyn daje powierzchnię średniej poziomej płaszczyzny przekroju, a wielkość ta, pomnożona przez średnią wewnętrzną wysokość pomieszczenia, określa pojemność nadbudówki. Jeżeli wewnętrzne urządzenie nadbudówek nie pozwala na zdejmowanie miar wewnątrz, wymierza się zewnętrzne strony nadbudówek przy uwzględnieniu potrąceń gruLvści ścian i sufitów. W pomieszczeniach, których ściany boczne przechodzą z zaokrągleniem w pokład (dach), należy mierzyć szerokości nie w połowie wysokości pomieszczenia, lecz na jednej trzeciej zaokrąglenia, licząc od dołu. W pomieszczeniach, ograniczonych czworobocz* nemi płaskiemi powierzchniami, wymierza się i mnoży przez siebie średnie wewnętrzne: szerokość i wysokość oraz długość. lloczyn określa pojemność pomieszczenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Pomiar przedziałów maszynowych i kotłowych, składających się według § 11 na pomieszczenia maszynowe, przeprowadza się w sposób następujący:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "Stwierdza się średnią głębokość każdego przedziału pomiędzy dolną powierzchnią najbliższego pokładu, położonego nad pomieszczeniem maszyny głównej, lub jej przedłużeniem, a górną powierzchnią wręg obok kila lub jej przedłużeniem względnie górną powierzchnią wewnętrznego dna podwójnego. W połowie głębokości przedziału wymierza się przynajmniej trzy szerokości i oblicza się z nich średnią arytmetyczną. Następnie wymierza się średnią długość przedziału pomiędzy przegrodami poprzecznemi, ograniczającemi przedział maszynowy lub kotłowy z przodu i z tyłu lub też między miejscami, które „urząd marynarki handlowej uzna ża granicę przedziałów. W ten sposób uzyskane główne wymiary przedziału maszynowego lub kotłowego pod pokładem, położonym nad pornieszczeniem maszyny głównej, a więc średnie: głębokość i szerokość oraz długość mnoży się przez siebie, a iloczyn określa pojemność przedziału maszynowego lub kotłowego, położonego pod tymże pokładem. Przy pomiarze pomieszczenia maszynowego statków (z wyjątkiem holowników, jachtów i trawlerów), do których nie miał zastosowania punkt 1 § 10, należy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_20/pkt_1/lit_a",
+       "text": "za długość pomieszczenia kotłów przyjmować długość zajętą przez kotły wraz z długością, potrzebną do manipulowania pogrzebaczami kotłowemi. Wtedy, gdy paleniska kotłów są tak rozmieszczone, że obsługa ich musi się odbywać w kierunku długości statku, — za przestrzeń potrzebną do manipulowania pogrzebaczami uważa się długość paleniska z dodaniem około 30 centymetrów. Jeżeli zaś obsługa paleniska kotłów odbywa się w kierunku poprzecznym statku, to swobodną przestrzeń między kotłami w kierunku poprzecznym statku przyjmuje się w rozmiarze 2,5 do 3,5 metra bez wyżej wspomnianych doliczeń,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_20/pkt_1/lit_b",
+       "text": "przy ustalaniu długości pomieszczenia mas szynowego przyjmować taką długość po: mieszczenia, aby za tylną krawędzią ostatniego — licząc od przodu statku — cylindra maszyny lub suwaka, pozostawała przestrzeń, wystarczająca dla bezpiecznej obsługi; prze: strzeń ta nie może jednak być bez zezwolenia Ministerstwa Przemysłu i Handlu dłuższą niż 1,22 metra. Długość przestrzeni między kotłami i maszyną nie może być większa, niż to jest niezbędne dla bezpiecznej ich obsługi. Jeżeli przedział maszynowy jest kształtów nieregularnych, dzieli się go na części i wymierza się każdą z nich z osobna.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "Pojemność tunelu wału, na statkach śrubowych, otrzymuje się przez mnożenie średnich wysokości i szerokości oraz długości tunelu. Jeżeli tunel składa się z większej ilości przedziałów, to wymierza się każdy z nich z osobna. Jeżeli statek śrubowy nie posiada tunelu dła wału, to przyjmuje się dla obliczenia pomieszczenia dla obsługi wału na statkach o jednej śrubie, przestrzeń tworzoną przez powierzchnię łożyska wału, takiej wielkości, która pozwala na odkręcanie górnych nakrętek, a wysokością nie przekraczającą 2,14 metra. Jeżeli statek jest dwuśrubowy i nie posiada tuneli, a przestrzeń za maszynami jest otwartą od burty do burty, średnia wysokość przestrzeni, która może być włączona do pomieszczenia maszynowego, nie może przekraczać 1,83 metra. Jeżeli w tej przestrzeni znajdują się jakiekolwiek pomieszczenia, nie służące ściśle do celów napędu statku, pojemność ich nie będzie brana w rachubę przy obliczaniu pojemności pomieszczenia maszynowego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_20/pkt_3",
+     "text": "Pojemność wyjść z tuneli bezpośrednio na aórny pokład otrzymuje się przez pomnożenie średnich wysokości i szerokości oraz długości.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_20/pkt_4",
+     "text": "Pojemność pomieszczenia maszynowego wy* ze} pokładu, położonego nad pomieszczeniem maszyny głównej, otrzymuje się przez porniar każdej oddzielnej części. Pojermność każdej części otrzymuje się przez pomnożenie średnich wysokości i szerokości oraz długości.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_20/pkt_5",
+     "text": "Całkowitą pojemność pomieszczenia maszynowego otrzymuje się sumując pojemności pomieszczeń, ustalonych i pomierzonych według wyżej podanych przepisów.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Statki bezpokładowe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Przy określeniu pojemności brutto statku bezpokładowego należy uważać za dolną płaszczyznę pokładu pomiarowego płaszczyznę, położoną po gór: nych krawędziach najwyższego, stale umocowanego pasa poszycia obu burt. Głębokość mierzy się od linij poprzecznych, łączących górne krawędzie najwyższego, stale umocowanego pasa poszycia obu burt, a przechodzących przez punkty podziałowe długości statku, ustalone w § 14. Pozatem do statków bezpokładowych mają zastosowanie przepisy odnoszące się do statków pokładowych. Uwaga: Za statki bezpokładowe uważa się również statki które posiadają częściowo pokład, a których ładownie nie są zaopatrzone w luki lub inne urządzenia do zamykania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Statki specjalnej konstrukcji i budowy. § 22."
+    },
+    {
+     "type": "text",
+     "text": "Jeżeli z powodu specjalnej konstrukcji i budowy statku, przepisy o pomiarze, zawarte w niniejszym regulaminie, nie mogą być do statku zastosowane, Ministerstwo Przemysłu i Handlu udzieli urzędowi marynarki handlowej odnośnej instrukcji."
+    },
+    {
+     "type": "text",
+     "text": "B. Postępowanie przy pomiarze sposobem skróconym."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Długość statku mierzy się na najwyższym pokładzie od zewnętrznej powierzchni zewnętrznego poszycia burty obok sztaby przedniej do zewnętrznej krawędzi sztaby tylnej. Największą szerokość statku mierzy się między 'zewnętrznemi powierzchniami zewnętrznego poszycia obu burt. W płaszczyźnie największej szerokości statku oznacza się z zewnątrz na obu burtach wysokość najwyższego pokładu i w płaszczyźnie prostopadłej do kila statku (w płaszczyźnie wręgi) rozciąga się łańcuch naokoło statku pod kilem, od znaku na jednej stronie do znaku na stronie przeciwległej statku. Tak otrzymana długość od jednego znaku do drugiego stanowi zewnętrzny obwód kadłuba statku. Do połowy otrzymanego w ten sposób zewnętrznego obwodu dodaje się połowę największej szerokości statku; otrzymaną stąd sumę podnosi się do drugiej potęgi, a następnie mnoży się przez długość statku. Powstały iloczyn mnoży się przez 0,18 jeżeli statek zbudowany jest przeważnie z żelaza, a przez 0,17 jeżeli statek zbudowany jest przeważnie z drzewa. Otrzymana liczba daje pojemność brutto statku pod najwyższym pokładem. Przy pomiarze statku sposobem skróconym w celu uzyskania pojemności stałych i zamkniętych nadbudówek postępuje się według przepisów § 19, a w razie, gdyby to nie było możliwe, stwierdza się ich pojemność, mnożąc przez siebie średnią szerokość i średnią wysokość oraz długość. Dodając tę pojemność do pojemności pod najwyższym pokładem otrzymuje się pojemność brutto statku pomierzonego sposobem skróconym. Pojemność statku netto pomierzonego sposobem skróconym, uzyskuje się przez dokonanie potrąceń, stosowanych jak przy pomiarze sposobem zwykłym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "E",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do statków bezpokładowych pomiar sposobem skróconym nie ma zastosowania."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "Narzędzia pomiarowe."
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Przy pomiarze statków należy posługiwać się następującemi narzędziami mierniczemi:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_25/pkt_1",
+     "text": "dwoma dwumetrowemi przymiarami sztywnemi, posiadającemi przepisowe okucia mosiężne na obu końcach; z tych przymiarów jeden ze skośnem okuciem mosiężnem na jednym końcu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_25/pkt_2",
+     "text": "przymiarem wstęgowym stalowym długości 20 metrów, urządzonym do nawijania na wałek,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_25/pkt_3",
+     "text": "dwoma przymiarami sztywnemi z wysuwalnemi listwami do mierzenia giębokości względnie wysokości, do pomiarów około 4 i 8 metrów, z podziałką w legalnych jednostkach miar; wysuwalne listwy mogą być umocowywane zakrętką w każdem miejscu",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "posuwu"
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_25/pkt_4",
+     "text": "łańcuchem mierniczym z żelaza ocynowanego długości 25 do 35 metrów z pierścieniem zerowym w środku długości łańcucha i podziałką w odstępach półmetrowych. (lwaga. W razie potrzeby mierzenia większego obwodu statku, niż długość łańcucha mierniczego pozwala, dołącza się do obydwóch końców łańcucha kawałki linki, zmoczonej w wodzie. Narzędzia do pomiaru statków posiada urząd marynarki handlowej w dwóch kompletach. Wyżej wymienione narzędzia miernicze powinny być sprawdzone przez urząd miar i posiadać niewygasłą cechę legalizacyjną tego urzędu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Będące w użyciu narzędzia miernicze, wymienione w § 25, powinny być rzetelne, t.j. uchybienia tych narzędzi nie powinny przekraczać następujących",
+   "children": [
+    {
+     "type": "text",
+     "text": "granic:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_26/pkt_1",
+     "text": "w przymiarach sztywnych (p. 1) największe dopuszczalne uchybienie dla całej długości mierniczej PrzZYMIGŃU „ « « w 6 4 6 6 w",
+     "children": [
+      {
+       "type": "text",
+       "text": "3 milimetry"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_26/pkt_2",
+     "text": "w przymiarach wstęgowych (p. 2) największe dopuszczalne uchybienie dla odległości dowolnej działki metrowej od dowolnego końca Przymiaru « « « « » 6 « s «4 5 milimetrów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_26/pkt_3",
+     "text": "w przymiarach zwysuwalńemi listwami (p. 3) największe dopuszczalne uchybienie na każdy metr dłu- — . gości podziałek . . . . . . . . 1,5 milimetra",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_26/pkt_4",
+     "text": "w łańcuchu mierniczym (p. 4) największe dopuszczalne uchybienie dla całej długości mierniczej łańcucha 10 centymetrów. Narzędzia miernicze, nasuwające wątpliwości, że stały się nierzetelnemi, powinny być dostarczone do urzędu miar w celu ich sprawdzenia i mogą być ponownie użyte tylko wówczas, gdy zostaną nanowo zalegalizowane (ocechowane) przez urząd miar.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Wszelkie pomiary uskutecznia się z dokładnością do centymetra, uważając */2 centymetra i wyżej",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "jako pełny centymetr, a opuszczając ułamek mniejszy od '/2 centymetra. Wynik końcowy obliczeń, podawany w świadectwie pomiarowem w matrach sześciennych, należy zaokrąglić do jednego miejsca dziesiętnego w ten sposób, że stojącą na niem cyfrę podwyższa się o jednostkę, jeżeli na drugiem miejscu dziesigtnem stoi cyfra 5 lub większa. Wynik końcowy obliczeń, podawany w świadectwie pomiarowem w tonnach rejestrowych, należy uskutecznić przeliczając metry sześcienne na tonny rejestrowe, z zaokrągleniem otrzymanego rezultatu do drugiego miejsca dziesiętnego w ten sposób, że cyfrę na nim stojącą podwyższa się o jednostkę, jeżeli na trzeciem miejscu stoi cyfra 5 lub wyższa."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział V",
+   "text": "Sporządzanie protokółu oraz świadectwa pomiarowego."
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Przy dokonywaniu pomiaru urząd marynarki handlowej sporządza protokół pomiarowy, który zawiera szczegółowa obliczenia pojemności statku brutto i netto. Protokół ten musi być zatwierdzony przez Ministerstwo Przemysłu i Handlu w wypadkach, gdy chodzi o pomiar sposobem zwykłym:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_28/lit_a",
+     "text": "statku polskiego, wpisanego do rejestru statkowego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_28/lit_b",
+     "text": "statku obcego. We wszystkich innych wypadkach urząd marynarki handlowej sam zatwierdza protokół pomiarowy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Świadectwo pomiarowe dla"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Po zatwierdzeniu protokółu pomiarowego i po uiszczeniu należnej opłaty, urząd marynarki handlo: wej wydaje właścicielowi lub kapitanowi statku Świadectwo pomiarowe. 8 30. Jeżeli urząd marynarki handlowej po wymierzeniu w myśl § 12 głównych wymiarów korpusu statku stwierdzi, że statek był pomierzony przez władze polskie w postępowaniu pomiarowem sposobem zwykłym wedle przepisów niniejszego regulaminu, to odmówi dokonania pomiaru.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Jeżeli na statku posiadającym świadectwo pomiarowe zaszły jakiekolwiek zmiany w objętości lub w użyciu pomieszczeń, urząd marynarki handlowej zarządzi pomiar ponowny, przyczem dane dotyczące pomieszczeń, które zmianie nie uległy, przenosi się z dawnego świadectwa pomiarowego do nowego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Jeżeli świadectwo pomiarowe statku, pomierzonego na wniosek właściciela lub kapitana wykazuje braki, urząd marynarki handlowej może przeprowadzić pomiar ponowny. Pomiar ten musi być zatwierdzony przez Ministerstwo Przemysłu i Handlu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 33: Na każdym statku pomierzonym wybija się na głównej wrędze odpowiedni bieżący numer dziennika pomiarowego urzędu marynarki handlowej, pojemność statku netto i godło Państwa."
+    },
+    {
+     "type": "text",
+     "text": "Załącznik Ne 2 do rozp. Min. Przem. i Handlu z dnia 24 listopada 1927 r. (poz. 906)."
+    },
+    {
+     "type": "text",
+     "text": "RZECZPOSPOLITA POLSKA"
+    },
+    {
+     "type": "text",
+     "text": "Formularz A. Republic of Poland \\ statków pokładowych."
+    },
+    {
+     "type": "text",
+     "text": "Nazwa statku"
+    },
+    {
+     "type": "text",
+     "text": "Rodzaj statku Name of Ship"
+    },
+    {
+     "type": "text",
+     "text": "Sort of Ship"
+    },
+    {
+     "type": "text",
+     "text": "ŚWIADECTWO"
+    },
+    {
+     "type": "text",
+     "text": "Numer rejestrowy Przynależność państwowa Nationality ; Register number"
+    },
+    {
+     "type": "text",
+     "text": "Sygnał poznawczy Port ojczysty Code letters Home harbour"
+    },
+    {
+     "type": "text",
+     "text": "POMIAROWE Bill of Measurement"
+    },
+    {
+     "type": "text",
+     "text": "Opis statku Description of Ship"
+    },
+    {
+     "type": "text",
+     "text": "Charakter najwyższego pokładu Kto budował Ckaracter of upperdeck Shipbuilder"
+    },
+    {
+     "type": "text",
+     "text": "Kształt dziobu Form of stem ilość poprzecznych przegród wodoszczelnych Rok budowy When built"
+    },
+    {
+     "type": "text",
+     "text": "Kształt rufy Form of stern pod i nad pokładem pomiarowym Number of wateriight cross bulkheads Miejsce budowy a GAAP Where built ilość kominów Number of funnels under and upon the tonnage deck Ilość masztów Ilość zbiorników balastu wod- Materjał nego z lukami ładunkowemi Material Number of water ballast Konstrukcja Sort of building tanks with hatches"
+    },
+    {
+     "type": "text",
+     "text": "Number of masts Otaklowanie Rigging"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "GŁÓWNE WYMIARY KORPUSU STATKU Principal Dimensions of the Ship"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Długość między przednią powierzchnią sztaby przedniej, a tylną powierzchnią sztaby tylnej, mierzona na najwyższym stałym poktadzie__— ss |||,\" m Length from forepart of stem te the aft side of the head of siern port, measured on the uppermost laid deck",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Największa szerokość między zewnętrznemi powierzchniami zewnętrznego poszycia obu burt Main breadth to outside of planking (plating) m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Głębokość wnętrza statku w środku długości, między dolną krawedzią najwyższego stałego pokładu, a górną krawędzią wręg obok kila lub górną powierzchnią wewnętrznego dna podwójnego, o ile takie istnieje . ma Depih in hold amidships from underside of uppermost laid deck, to the floor timber at side of keelson or to upper side of double botiom, i? any i 4, Największa długość przedziału maszynowego wraz ze stałemi pomieszczeniami dla paliwa, mierzona między przegrodami, sięgającemi od burty do burty, a ograniczajacemi ten przedział m. Length oł engine room with fixed fuel bunkers, measured between the foremost and aftermost bulkheads considered as limits of iis length.",
+     "children": [
+      {
+       "type": "text",
+       "text": "DANE, USTALONE PRZEZ POMIAR Resulis of measurement"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność brutto Gross-Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność pod pokładem pomiarowym. |—————— Capacity under tonnage deck Pojemność między pokładem pomiarowym a najbliższym nad nim pokładem Capacity between 1 deck above tonnage deck and tonnage deck Pojemność między pokładem 1-ym a 2-im ponad pokładem pomiarowym . . . . Capccity between 1-st and 2-nd deck above tonnage deck Jut Poop Bak. . . . ++ . Forecastle 4 1 rę] -"
+      },
+      {
+       "type": "text",
+       "text": "Pon pod pokładem środkowej nad Capacity under bridge deck 1, ee p kz 4, BE Ses ye ; Pomieszczenia maszynowe nad górnym pokładem, dla światła I powietrza, według"
+      },
+      {
+       "type": "text",
+       "text": "§ 11 pkt. 2 regulaminu do rozperzadzenia Ministra Przemysłu i Handlu z dnia 24 listopada 1927 rw « » « » s s 1 Spaces on upper deck for propelling ma* chinery, and air and light, under § 11 pos. 2 of decree of the Minister of Industry and Trade of November 24-th 1927 Pozostałe pomieszczenia . . . . . . Other spaces Pojemność luk, podlegająca doliczeniu Excess of hatchways"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność brutto . . Gress Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "Przyjęte potrącenia Deductions allowed"
+      },
+      {
+       "type": "text",
+       "text": "Dla przestrzeni dla siły pędnej . . On acceant of space required for propelling power"
+      },
+      {
+       "type": "text",
+       "text": "Dla przestrzeni, potrzebnej dla załogi i na cele nawigacji: On account of space required for crew and navigation"
+      },
+      {
+       "type": "text",
+       "text": ". Pomieszczenie dla zategi (marynarzy, palaczy, kucharzy, posługaczy i t. d.) Crew spaces Pomieszczenie dla oficerów i mechaników i t. d. ._ 8 8 8 e #8 8 Spaces for officers, engineers etę."
+      },
+      {
+       "type": "text",
+       "text": "Budka nawigacyjna i £ d.. . « Spaces for chartroom signals efc."
+      },
+      {
+       "type": "text",
+       "text": ". Pomieszczenie dla żagli. . . - Siorege for sails"
+      },
+      {
+       "type": "text",
+       "text": "Sprzęt bosmański . « « » i Beatswains stores"
+      },
+      {
+       "type": "text",
+       "text": ". Balast wodny. . 2 «a «© « Water ballost spaces"
+      },
+      {
+       "type": "text",
+       "text": "Dla pomieszczenia kapitana, On account of Masters Cabin"
+      },
+      {
+       "type": "text",
+       "text": "Suma potrąceń Sum of deductions"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność brutto: Gross Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "Potrącenia, według obliczenia: Deductions, as per contra"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność netto: Register Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "Wynik ostateczny pomiaru: Result of measurement"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność brutto: Gross Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność netto: Register Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "UWAGA 1. Pojemność pomieszczenia maszynowego pod najbliższym pokładem nad pomieszczeniem maszyny głównej, zająta przez instalację mechaniczną IEECECJECNE Pojemność pomieszczenia maszynowego nad najbliższym pokładem nad pomieszczeniem maszyny głównej, a również nad górnym pokładem, zajęta przez instalację mechaniczną, i dostarczanie Światła i powietrza . . . 2 « sw » «i . 4 The tonnage of the total engine room spaces below the crown of the engine room, occupied by the propelling power. The tonnage oi the toial engine room spaces above the crown of the engine room and above the upper deck as is framed in for the propelling machinery, for the admission of light and air. UWAGA 2. Niżej wyszczególnione pomieszczenia uznano za pomieszczenia otwarte i z tego powodu nie wliczono ich do pojemności brutto i netto: NOTE 2. The undermeniioned spaces are considered as open ones and are therefore not included in the cubical contents forming the ship's gross or register tonnage."
+      },
+      {
+       "type": "text",
+       "text": "Pomiaru dokonał Ulrząd Marynarki Handlowej———__-_ SS —— sposobem zwykłym dnia RER AZ etre eee r. na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. (Dz. O. R. P. Ne 47, poz. 422) oraz rozporządzenia Ministra Przemysłu i Handłu z dnia 24 listopada 1927 r. o wykonaniu rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. o pomiarze morskich statków handlowych (Dz. O. R. P. Nr. 105, poz. 905) na dowód czego zostało wydane niniejsze świadectwo pomiarowe. . The measurement was taken by the Mercantile Marine Office _t_____L______by complete mode of Measurement on _______19 according to the decree of the President of the Republic of May 17-th 1927 (Dz. U. R. P. Nr. 47, pos. 422) and to the decree of the Minister of Indusiry and Trade of November 24-th 1927 in execution of the decree of the President ef the Republic of May 17-th 1927 on the measurement oi sea trading ships (Dz. U. R. P. Nr. 105, pos. 906), in virtue whereof the present bill of measurement is delivered."
+      },
+      {
+       "type": "text",
+       "text": "dnia , day"
+      },
+      {
+       "type": "text",
+       "text": "Naczelnik Urzędu Marynarki Handlowej Chief of the Mercantile Marine Office"
+      },
+      {
+       "type": "text",
+       "text": "19 r."
+      },
+      {
+       "type": "text",
+       "text": "Pieczęć Referent Techniczny Technical Referee"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Ne 105. 3 er u sra aim"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik Ne 3 do rczp. Min. Przem. i Handlu z dnia 24 listopada 1927 r. (poz. 906)."
+      },
+      {
+       "type": "text",
+       "text": "RZECZPOSPOLITA POLSKA Republic of Poland Świadectwo pomiarowe dla Formularz B. statków bezpokładowych. NO sees"
+      },
+      {
+       "type": "text",
+       "text": "Numer rejestrowy Przynależność państwowa Register number Nationality"
+      },
+      {
+       "type": "text",
+       "text": "Rodzaj statku Nazwa statku Sort of ship Name of Ship"
+      },
+      {
+       "type": "text",
+       "text": "Sygnał poznawczy Port ojczysty Code letters Home harbour"
+      },
+      {
+       "type": "text",
+       "text": "ŚWIADECTWO POMIAROWE Bill of Measurement"
+      },
+      {
+       "type": "text",
+       "text": "Opis statku Description oł Ship"
+      },
+      {
+       "type": "text",
+       "text": "Kto budował Ilość poprzecznych przegród wodoszczelnych Kszialt rufy Shipbuilder ee pod nakrytemi pomieszczeniami Form of stern Rok budowy Number of watertight cross bul- When built ~~ Taree kheads under covered spaces Ilość kominów Miejsce budowy Number of funnels Where built = : Oszalowanie i Materjat Planking. 7—— Ilość masztów p"
+      },
+      {
+       "type": "text",
+       "text": "} Material Number of masts j Konstrukcja Kształt dziobu Otaklowanie i Sort of building Form of stem ~~~ Rigging"
+      },
+      {
+       "type": "text",
+       "text": "GLOWNE WYMIARY KORPUSU STATKU Principal Dimensions oł the Ship Długość między przednią powierzchnią sztaby przedniej, a tylną powierzchnią sztaby tylnej, mierzona na wysokości górnej krawędzi najwyższego, stale umocowanego, pasa poszycia obu burt Length from forepart oł stem to ait part of siern post, measured in the plane of upper edge of the fixed upper strake"
+      },
+      {
+       "type": "text",
+       "text": "Nr nk AAAA m."
+      },
+      {
+       "type": "text",
+       "text": "Szerokość między zewnętrznemi powierzchniami zewnętrznego poszycia obu burt, mierzona w środku długości Main breadth of ship to outside of outer planking"
+      },
+      {
+       "type": "text",
+       "text": ": a i ‘ m."
+      },
+      {
+       "type": "text",
+       "text": "Głębokość wnętrza statku od punktu leżącego na linji poprzecznej łączącej górne krawędzie najwyższego, stale umocowanego, pasa poszycia obu burt do górnej krawędzi wręg obok kila, mierzona w środku długości Depth in hold amidships in an outwardship line, exiended between upper edges of the upper lixed sirake to top of upper side of the floor timber at side of keelson."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ję te Dy zj eae o — a z"
+      },
+      {
+       "type": "text",
+       "text": "DANE, USTALONE PRZEZ POMIAR Results oł measurement"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność brutto Gross Tonnage Ę m"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Pojemność pod najwyższym, stale umocowanym eae ge Peed mia = eho ie 2 Capacity under the plane of fixed upper edges of upper strake .",
+     "children": [
+      {
+       "type": "text",
+       "text": "i"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Półpokład. . 6 1 » « 2 « « 4 4 + . Halideck",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przyjęte potrącenia Deductions allowed ł m3"
+      },
+      {
+       "type": "text",
+       "text": "I. Dia przestrzeni dla siły pędnej . . . -— On account of space required for propelling power Il. Dla przestrzeni potrzebnej dla załogi i na cele nawigacji: On account of space required for. crew and navigation"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Pomieszczenia dia załogi, marynarzy, palaczy i t. d, ER Crew spaces sA Bak |... . . © © a © © 8 RM a a —— 2. Sprzęt bosmański, żagle. = m ow ko e ists Forecastle",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_32/ust_4",
+     "text": "am pomieszczenia « « « » se » « » er spaces",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pojemność brutto . . Gross Tonnage — z ss"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność brutto . « „ « «= « Gross Tonnage Potrącenia, wediug obliczenia . Deductions, as per contra"
+      },
+      {
+       "type": "text",
+       "text": "Boaisttcin: stores, sails i j"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Balast wodny w o» wik w Wow Water ballast spaces II. Dla pomieszczenia kapitana . . . On account of Masters Cabin",
+     "children": [
+      {
+       "type": "text",
+       "text": "Suma potracen Sum of Deductions a = MET OE 9 ee ince s Wynik ostateczny pomiaru. . Result of measurement Pojemność brutto . . « . 1 |= Gross Tonnage Pojemność netto . . . « « «. |--—————-———-————] Pojemność netto. . . . . . Register Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "Niżej wyszczególnione pomieszczenia"
+      },
+      {
+       "type": "text",
+       "text": "Register Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "uznano za pomieszczenia otwarte i z tego powodu nie wliczono ich do pojemności brutto i netto. The undermentioned spaces are considered as open ones and are therefore nol included in the cubical contents forming the ship's gross or register tonnage"
+      },
+      {
+       "type": "text",
+       "text": "Pomiaru dokonał Urząd Marynarki Handlowej —— WH ~_____mm._ sposobem zwykm Cia ee epee cw JB r. na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. (Dz. O. R. P. Ne 47, poz. 422) oraz rozporządzenia Ministra Przemysłu i Handlu z dnia 24 listopada 1927 r. o wykonaniu rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927r. o pomiarze morskich statków handlowych (Dz. U. R. P. Ne 105, poz. 905), na dowód czego zostało wydane niniejsze świadectwo pomiarowe. The measurement was taken by the Mercantile Marine Office R RR. complete mode oł measurement on 19____. according to the decree of the President of the Republic of May 17-th 1927 (Dz. U. R. P. Nr. 47, pos. 422) and to the decree of the Minister of Industry and Trade of November 24-th 1927 in execution of the decree of the President of the Republic of May 17-th 1927 on the measurement of sea trading ships (Dz. U. R. P. Nr. 105, pos. 906), in virtue whereof the present bill of measurement is delivered. ANIA day"
+      },
+      {
+       "type": "text",
+       "text": "Naczelnik Urzędu Marynarki Handlowej Chief of the Mercantile Marine Office ne Pe 19s F"
+      },
+      {
+       "type": "text",
+       "text": "Pieczęć"
+      },
+      {
+       "type": "text",
+       "text": "Referent Techniczny Technical Referee"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik Ne 4 do rozp. Min. Przem. i Handlu z dnia 24 listopada 1927 r. (poz. 906). Świadectwo pomiarowe dla RZECZPOSPOLITA POLSKA Formularz C. statków pokładowych, pomie- , rzonych sposobem skróconym Republic of Poland NE =="
+      },
+      {
+       "type": "text",
+       "text": "Numer rejestrowy Przynależność państwowa Register number Nationality"
+      },
+      {
+       "type": "text",
+       "text": "Nazwa statku Name of Ship"
+      },
+      {
+       "type": "text",
+       "text": "Rodzaj statku Sort of Ship"
+      },
+      {
+       "type": "text",
+       "text": "Sygnał poznawczy Port ojczysty Cede letters Home harbour"
+      },
+      {
+       "type": "text",
+       "text": "ŚWIADECTWO POMIAROWE *): Bill of measurement"
+      },
+      {
+       "type": "text",
+       "text": "Opis statku Description of Ship —"
+      },
+      {
+       "type": "text",
+       "text": "*) Patrz rozporządzenie Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. (Dz. U. R. P. Ne 47, poz. 422) artykuły 5, 14, 16 i 9. See decree of the President of the Republic of May 17-th 1927 (Dz. U. R. P. Nr. 47, pos. 422) sections: 5, 14, 16 and 9."
+      },
+      {
+       "type": "text",
+       "text": "Kto budował Charakter najwyższego pokładu Kształt dziobu Shipbuiider rey Character of upperdeck Form of stem Rok bud When Bulik = ————— Ilość poprzecznych przegród wodo- Kształt rufy Miejsce budowy szczelnych pod i nad pokładem po- Form of stern z nna miarowym mn ; Where built Number of watertight cross bulkheads Ilość kominów Materjat under and upon the tonnage deck Number of funnels «sani reap cus ikaw eelbanwen Ilość masztów Konstrukcja ość zbiorników balastu wodnego Sort of building z lukami ładunkowemi Number of masts Ilość pokledów Number of water ballast tanks with Otaklowanie Number of decks hatches Rigging"
+      },
+      {
+       "type": "text",
+       "text": "GŁÓWNE WYMIARY KORPUSU STATKU Principal dimensions of the Ship"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Dlugość między przednią powierzchnią sztaby przedniej, a tylną powierzchnią sztaby tylnej, mierzona na najwyższym stałym pokładzie m.. Lengih from forepart of stem to the ait side oł the head of stern post, measured on the uppermost laid deck",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Największa szerokość między zewnętrznemi powierzchniami wewnętrznego poszycia obu burt kę Main breadth to outside of planking (plating)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Obwód po zewnętrznej powierzchni zewnętrznego poszycia obu burt w miejscu największej szerokości statku ia, Girih of ship taken on the outside of planking (plating)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_32/ust_4",
+     "text": "Największa długość przedziału maszynowego wraz ze stalemi pomieszczeniami dla paliwa, mierzona między przegrodami, sięgającemi od burty do burty, a ograniczającemi ten przedział m: Length of engine room with fixed fuel bunkers, measured between the foremost and afiermost bulkheads considered as limits of its length",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "DANE, USTALONE PRZEZ POMIBR. Results of measurement"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność brutto Gross Tonnage m?"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Pojemność pod najwyższym pokładem . Capacity under upperdeck",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 Dube ws woe we Sue we eB ew Poop"
+      },
+      {
+       "type": "text",
+       "text": "3: PAR. w e a w au re eee ee oe I 3 Forecastle"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_32/ust_4",
+     "text": "Pojemność pod pokładem środkowej nad- Capacity under bridge deck",
+     "children": [
+      {
+       "type": "text",
+       "text": "% Aa oe eee"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_32/ust_6",
+     "text": "Pozostałe pomieszczenia . . . » « . Other spaces",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_32/ust_7",
+     "text": "Pojemność luk, podlegająca doliczeniu . Excess of chatchways",
+     "children": [
+      {
+       "type": "text",
+       "text": "Pojemność brutto: Gross Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "Pojemność brutto . . . « Gross Tonnage Potrącenia, według obliczenia Deductions, as per contra Pojemność netto . . . . Register Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "Przyjęte potrącenia Deductions allowed m3"
+      },
+      {
+       "type": "text",
+       "text": "I. Dla przestrzeni dla siły pędnej . . . On account of space required for propelling power Il. Dia przestrzeni potrzebnej dla załogi i na cele nawigacji On account of space required for crew and navigation"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Pomieszczenie dla załogi (marynarzy, palaczy, kucharzy, posługaczy it. d.) Crew spaces",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Pomieszczenie dlaoficerów, mechani- Spaces for officers, engineers efc.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Cano pevigacy ine it. d. k e o. oo paces for ckariroom, signals etc.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_32/ust_4",
+     "text": "Pomieszczenie dla żagli. . . . . . Storage for sails",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_32/ust_5",
+     "text": "Sprzęt bosmański . « u s « « a i Boatswains stores",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_32/ust_6",
+     "text": "Balast wodny. . . » a a a a a 1 Water ballast spaces Ill. Dla pomieszczenia kapitana . . . . On account of Masters Cabin",
+     "children": [
+      {
+       "type": "text",
+       "text": "Suma potrąceń . . Sum of Deductions rej."
+      },
+      {
+       "type": "text",
+       "text": "Wynik ostateczny pomiaru Result of measurement Pojemność brutto Gross Tennage Pojemność netto Register Tonnage"
+      },
+      {
+       "type": "text",
+       "text": "Pomiaru dokonał Urząd Marynarki Handlowej_—____________m._. sposobem skróconym dnia__t______. 1911r. na podstawie rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. (Dz. O. R. P. Ne 47, poz. 422) oraz rozporządzenia Ministra Przemysłu i Handlu z dnia 24 listopada 1927 r. o wykonaniu rozporządzenia Prezydenta Rzeczypospolitej z dnia 17 maja 1927 r. o pomiarze morskich statków handlowych (Dz. U. R. P. Ne 105, poz. 906), na dowód czego zostało wydane niniejsze świadectwo pomiarowe. The measurement was taken by the Mercantile Marine Office = by shortened mode oł measurement on 19__ accerding to the decree of the President of the Republic of May 17-th 1927 (Dz. U. R. P. Nr. 47, pos. 422) and to the decree of the Minister of Industry and Trade of November 24-th 1927 in execution of the decree of the President of the Republic ef May 17-ih 1927 on the measurement of sea trading ships (Dz. U. R. P. Nr. 185, pos. 966), in virtue whereof the present bill of measurement is delivered."
+      },
+      {
+       "type": "text",
+       "text": "(day)"
+      },
+      {
+       "type": "text",
+       "text": "Naczelnik Urzędu Marynarki Handlowej alte \"| Chie? of the Mercantile Marine Office"
+      },
+      {
+       "type": "text",
+       "text": "Pieczęć"
+      },
+      {
+       "type": "text",
+       "text": "coon"
+      },
+      {
+       "type": "text",
+       "text": "Referent Techniczny tt Technical Referee"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik Ne 5 do rozp. Min. Przem. i Handlu z dnia 24 iistopada 1927. r. (poz. S06),"
+      },
+      {
+       "type": "text",
+       "text": "URZĄD MARYNARKI HANDLOWEJ i EPPO ZEE"
+      },
+      {
+       "type": "text",
+       "text": "DZIENNIK POMIAROWY dotyczący morskich statków handlowych. Pojemności z w metrach sze- Rok Nazwa i rodzaj Właściciel Rok i miejsce Siówne WI ściennych miary korpusu a statku statku budowy statku statku brutto netto"
+      },
+      {
+       "type": "text",
+       "text": "A, mn m Warszawa. Drukarnia Państwowa. Ticczono z polecenia Ministra Sprawiedliwości. 38845 P Konto czekowe Pocztowej Kasy Oszczędności Ne 30130. Cena 40 gr."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

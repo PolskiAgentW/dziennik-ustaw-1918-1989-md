@@ -1,0 +1,457 @@
+{
+ "eli": "DU/1920/300",
+ "title": "Rozporządzenie Ministra Skarbu w przedmiocie jednolitego tekstu przepisów ustawowych o opodatkowaniu spadków i darowizn na obszarze b. zaboru rosyjskiego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/300/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Skarbu w przedmiocie jednolitego tekstu przepisów ustawowych o opodatkowaniu spadków i darowizn na obszarze b. zaboru rosyjskiego. Na podstawie art. 52 ustawy z dnia 29 maja 1920 r. (Dz. Ust. Ne 49, poz. 293) ogłaszam jednolity tekst przepisów ustawowych o opodatkowaniu spadków i darowizn, obowiązujących na obszarze b. zaboru rosyjskiego. Warszawa, dnia 2 czerwca 1920 r. Minister Skarbu: w z. Rybarski"
+  },
+  {
+   "type": "text",
+   "text": "PRZEPISY o opodatkowaniu spadków i darowizn na obszarze b. zaboru rosyjskiego."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Opodatkowaniu w myśl niniejszych przepisów podlega nabycie majątku w drodze spadku, legatu lub darowizny. Airt. 2. Wymiarowi podatku od darowizn nie podlegają:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "zapomogi, udzielone przez Państwo lub związek samorządny na cele użyteczności publicznej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "tantjemy, gratyfikacje i t. p. wynagrodzenia, które pracodawca przyznaje swemu pracownikowi, o ile przedmiotem tego rodzaju darowizny nie jest nieruchomość. Frt. 3. Za podstawę wymiaru przyjmuje się czystą wartość nabytego majątku według stanu w dniu otwarcia spadku lub zdziałania aktu darowizny. . Wartość czystą oblicza się przez potrącenie długów i ciężarów od wartości ogólnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Prawa, co do których zachodzi wątpliwość, czy lub w jakiej mierze istnieją, lub czy są wykonalne, wlicza się do podstawy wymiaru według ich przypuszczalnej wartości.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Wartość świadczeń powtarzających się ustala się w sposób następujący:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_5/lit_a",
+     "text": "W razie ustanowienia ich na wieczne czasy za podstawę wymiaru + służy iloczyn z pomnożenia wartości rocznej przez 25",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_5/lit_b",
+     "text": "Jeżeli zobowiązanie do takich świadczeń ma trwać do terminu, oznaczonego kalendarzowo, podstawę wymiaru stanowi wartość . skapitalizowana według załączonej tablicy.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_5/lit_c",
+     "text": "Gdy zobowiązanie ustanowiono na czas nieoznaczony, jednak nieograniczony do czasu życia jednej lub więcej osób, to za podstawę wymiaru przyjmuje się iloczyn z pomnożenia wartości rocznej przez 12*/e.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_5/lit_d",
+     "text": "Jeżeli w przypadkach, określonych w ustępie c), oznaczono kalendarzowo termin, do którego zobowiązanie trwać będzie niewątpliwie, oblicza się podstawę wymiaru za czas do tego terminu",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "w sposób, podany w ustępie b), za czas dalszy w sposób, podany w ustępie c), nigdy jednak w sumie wyższej, niż podana w ustępie a)."
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_5/lit_e",
+     "text": "Gdy trwanie zobowiązania ograniczone jest do czasu życia jednej osoby, za podstawę wymiaru służy wartość skapitalizowana, obliczona według wieku osoby, z której śmiercią zobowiązanie gaśnie. Wartość ta równa się przy wieku: .",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "lat 15 lub mniej 18-krotnej wyżej „ 15 do 25 lat 17 z w 22 m SB » 16 s» » 4 SB wy 48 » JĄ 4 ” n 45 \" 55 ” 12 ” LE] LEJ 55 \" 65 LEJ 81/2 \" ” ” 65 ” 75 ” 5 ” ” ” 7 ” 80 LL 3 a \"m LL) 80 LEJ 2 ” Rages wartości."
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_5/lit_f",
+     "text": "Gdy trwanie zobowiązania zależy od życia dwu lub więcej osób, to wartość skapitalizowaną oblicza się według wieku osoby najstarszej lub najmłodszej stosownie do tego, czy zobowiązanie ma zgasnąć z chwilą zgonu osoby, która umrze pierwsza lub z chwilą śmierci osoby, która umrze ostatnia. Przepisy powyższe dotyczą również obliczenia wartości użytkowania. Roczną wartość użytkowania przyjmuje się w sumie, wynoszącej 4°/o wartości rzeczy, poddanej użytkowaniu, chyba że niewątpliwą jest wartość wyższa lub niższa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Jeżeli co do rzeczy, oddanych na skład, służy dwu lub więcej osobom solidarnie prawo rozporządzania, to w razie śmierci jednej z nich zachodzi celem wymiaru podatku spadkowego domniemanie prawne, iż te rzeczy należały do osoby zmarłej. Jeżeli umówiono się, że prawo rozporządzania ma nie ten, na czyje imię rzeczy złożono, lecz wyłącznie inna osoba, natenczas w razie śmierci tej innej osoby zachodzi w zakresie wymiaru podatku spadkowego domnie: manie prawne, że należały w całości do niej. Powyższe postanowienia stosują się również do przedmiotów, znajdujących się w skrzynkach depozytowych (safes) tudzież w razie oddania na skład pieniędzy z zastrzeżeniem zwrotu takiej samej sumy lub w ogóle w razie złożenia rzeczy zamiennych z zastrzeżeniem zwrotu takiej samej ilości rzeczy tego samego rodzaju. Postępowanie co do przeprowadzenia przeciwdowodu ustalone będzie rozporządzeniem.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Podatnik winien udowodnić istnienie i wysokość emgów i ciężarów (art. 3) których potrącenia żąda. Do długów i ciężarów zalicza się również koszty ostatniej choroby spadkodawcy, o ile ich nie pokryto za jego życia z jego majątku, oraz koszty pogrzebu i nagrobka. Celem obliczenia czystej wartości przedmiotu, poddanego użytkowaniu, nie potrąca się wartości użytkowania.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Podatek nie należy się, gdy czysta wartość otrzymanego majątku nie przewyższa 5.000 marek polskich. Również nie podlegają podatkowi: sprzęty pokojowe i kuchenne, pościel, odzież i bielizna, przeznaczone do użytku w gospodarstwie domowem spadkodawcy lub darującego, a przechodzące na małżonka lub krewnych w linji prostej—jeżeli wartość ich nie przewyższa 10.000 marek polskich.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Stopę podatku oznacza się według załączonej taryfy. Celem obliczenia podatku należy od czystej wartości otrzymanego ma: jątku potrącić sumę, równającą się najwyższej kwocie bezpośrednio poprzedzającego stopnia wartości. Od reszty wymierza się podatek według stopnia wartości, pod który podpada cała czysta wartość otrzymanego majątku, od sumy potrąconej zaś ten podatek, który przypada według stopnia wartości bezpośrednio poprzedzającego. Frt. 10. Jeżeli majątek przechodzi na dwie lub więcej osób, to oblicza się podatek co do każdego z nabywców osobno, według czystej wartości części majątku, jemu przypadłej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Artykułu 8 oraz pozycji 1 taryfy, o ile dotyczą małżonka, nie stosuje się, jeżeli w chwili otwarcia spadku lub zdziałania darowizny małżeństwo było rozwiązane lub małżonkowie byli rozłączeni co do stołu i łoża.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Pokrewieństwo lub powinowactwo, określone w taryfie, uznaje się także wówczas, gdy wynikło ze związków nieślubnych. Dziecko nieślubne, przysposobione przez swojego ojca lub swoją matkę, należy do osób, wymienionych w taryfie pod poz. 1. Frt. 13. O ile majątek, który fundacja, zakład, zrzeszenie lub związek samorządny otrzymały na podstawie rozporządzenia ostatniej woli lub darowizny, nie jest przeznaczony na cele dobroczynne, ani na cele nauki lub nauczania, Minister Skarbu zezwoli na wniosek podatnika, by wymiar nastąpił podług stopy, wskazanej w poz. 5 taryfy, jeżeli cel, na który majątek jest przeznaczony, ma ważne znaczenie dla dobra ogólnego. Minister Skarbu może na wniosek podatnika zezwolić na zastosowanie stopy, wskazanej w pozycji 5 taryfy, także wówczas, gdy fundacja, zakład, zrzeszenie lub związek samorządny ma siedzibę zagranicą, a zachodzą waa podane w powołanej pozycji 5 lub w części pierwszej niniejszego artykułu. Frt. 14. Jeżeli ten sam darujący z tym samym obdarowanym zawarli dwie lub więcej umów, podlegających podatkowi od darowizn, natenczas podatek od każdej z tych umów wymierza się według stopy jednolitej odpowiadającej sumie podstaw wymiaru, obliczonych co do każdej umowy z osobna. Powyższy przepis stosuje się odpowiednio, jeżeli ktoś nabył majątek w sposób uzasadniający wymiar podatku spadkowego, a nadto zawarł ze spadkodawcą jedną lub więcej umów, podlegających podatkowi od darowizn. Frt. 15. Notarjusz, spisując akt umowy, podlegający wymiarowi podatku od darowizn, ma zapytać strony, czy i o ile zachodzą okoliczności uzasadniające zastosowanie art. 14 i odpowiedź stron podać w akcie. Frt. 16. Kwota podatku, o ile wypada z ułamkiem marki, winna być zaokrąglona w górę do pełnej marki. Frt. 17. Do zapłacenia podatku obowiązana jest osoba, która nabywa majątek w sposób podany w art. 1. Frt. 18. Gdy pewien przedmiot przypadł niepodzielnie (w częściach idealnych) dwu lub więcej nabywcom, to każdy z nich prócz podatku, przypadającego nań w myśl art. 17, obowiązany jest solidarnie z współnabywcami do zapłacenia podatków, które przypadają na nich z powodu nabycia tego przedmiotu; tączna kwota, której władza skarbowa może żądać od jednego z współnabywców, nie może jednak wynosić więcej, niż czysta wartość majątku przezeń nabytego. .",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Nadto może władza skarbowa żądać uiszczenia podatku:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_19/lit_a",
+     "text": "od dłużnika zapisu o ile chodzi o podatek od legatu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_19/lit_b",
+     "text": "od darującego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_19/lit_c",
+     "text": "od notarjusza albo urzędnika publicznego (państwowego lub samorządowego), o ile nie dopełnił obowiązku, ustanowionego dla notarjuszów albo urzędów lub urzędników publicznych w przepisach niniejszych lub w przepisach wykonawczych, wydanych na ich podstawie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_19/lit_d",
+     "text": "od osoby, którą uznano winną przestępstwa, przewidzianego w art. 31, o ile chodzi o kwotę służącą za podstawę obliczenia grzywny, jeśli w myśl innych przepisów osoba ta nie jest obowiązana do zapłacenia kwoty wyższej. *",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 20. Osobom wymienionym w art. 18 i 19 służy prawo regresu przeciw obowiązanym w myśl art. 17, a to: wymienionym w art. 18 według zasady, podanej w art. 1213 i 1214 kodeksu cywilnego Napoleona, wymienionym w art. 19 według zasady, podanej w art. 1216 tegoż kodeksu. Powstanie prawa regresu powoduje przejście przynależytości połączonych z wierzytelnością Skarbu Państwa (art. 1692 powołanego kodeksu). Dłużnik zapisu może legatarjuszowi potrącić podatek przy wydaniu zapisanego majątku."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Skarb Rzeczypospolitej oraz polskie zakłady państwowe, będące odrębnemi osobami prawnemi, są wolne od podatku spadkowego, oraz od podatku od darowizn.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Firt. 22. Osoby obowiązane do uiszczenia podatku spadkowego, jak również wykonawca testamentowy i kurator spadku wakującego, winni zawiadomić władzę skarbową o śmierci spadkodawcy w ciągu miesiąca od dnia, w którym się o niej dowiedzieli. Osoby te jak również dłużnicy spadkodawcy oraz ci, w których posiadaniu znajdują się przedmioty spadkowe, mają na wezwanie władzy skarbowej dostarczyć danych potrzebnych celem wymiaru podatku. Jeżeli obowiązany do zawiadomienia władzy skarbowej (dostarczenia danych) jest małoletnim nieusamowolnionym lub bezwłasnowolnym, to obowiązków powyższych winien dopełnić ojciec lub opiekun. Szczegółowe przepisy w przedmiocie, objętym niniejszym artykułem, wyda Minister Skarbu."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Szacunek majątku, od którego należy się podatek, ma być podany w sumie, wyrażającej wartość sprzedażną w dniu otwarcia spadku względnie zdziałania aktu darowizny. Jeżeli suma podana zdaniem władzy skarbowej nie odpowiada wartości sprzedażnej, to ma władza skarbowa uwiadomić o tem podatnika i wyznaczyć mu termin, najmniej dwutygodniowy do odpowiedzi. O ileby podatnik nie odpowiedział lub jeżeliby ponowne jego oświadczenie pozostawiło wątpliwość co do trafności podanego szacunku, to władza skarbowa ustali wartość sprzedażną sama sposobem, który określony będzie w drodze rozporządzenia. Koszta tego ustalenia wartości poniesie podatnik, jeżeli kwota, stwierdzona przez władzę skarbową, przewyższa podaną o więcej niż trzecią część.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "Władza skarbowa wymierza podatek spadkowy i zawiadamia o wymiarze przez nakaz płatniczy. Podatek spadkowy należy zapłacić w ciągu miesiąca od doręczenia nakazu płatniczego. Kwoty, nieuiszczone w terminie ściągnięte będą w drodze przymusowej według przepisów o egzekucji podatków bezpośrednich. Odwołanie (art. 29) nie odracza płatności.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Frt. 25. W razie niezapłacenia podatku w przepisanym terminie pobiera się odsetki za zwłokę w wysokości 1°/o miesięcznie od zaległości za czas od upływu terminu płatności do uiszczenia; przytem miesiąc rozpoczęty liczy się za cały. Celem obliczenia odsetek za zwłokę należy zaległość podatku, składajaca się z całych marek i z fenigów, zaokrąglić do najbliższej kwoty, obejmującej całe marki, a to: w górę, gdy chodzi o 50 fenigów lub więcej, w dół zaś, gdy fenigów jest mniej niż 50."
+    },
+    {
+     "type": "text",
+     "text": "Firt. 26. Na wniosek podatnika zezwoli władza skarbowa, w razie potrzeby za odpowiedniem zabezpieczeniem na odroczenie płatności podatku lub jego części albo na uiszczenie ratami najpóźniej w ciągu lat pięciu, jeżeli stwierdzi, że niezwłoczna zapłata byłaby dla podatnika ze względu na jego stosunki gospodarcze zbyt uciążliwa. Władza skarbowa cofnie lub ograniczy ulgi, udzielone z powyższego powodu. W razie odpowiedniej zmiany w stosunkach gospodarczych płatnika. Od płatnika, któremu zezwolono na odroczenie płatności lub na spłatę ratami, pobierane będą odsetki w wysokości 1/2%/, miesięcznie płatne z dołu (odsetki za odroczenie); przytem miesiąc rozpoczęty liczy się za cały. W razie niedotrzymania terminu pobrane będą odsetki za zwłokę, przewidziane w art. 25 od całej sumy, nieuiszczonej w terminie."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "27",
+   "path": "art_27",
+   "text": "Przed uiszczeniem lub zabezpieczeniem podatku spadkowego nie może nastąpić bez zezwolenia władzy skarbowej ani przepisanie majątku spadkowego w księdze hipotecznej, ani uiszczenie długu przez dłużnika spadkodawcy, ani wydanie przedmiotów spadkowych, przechowywanych przez osoby trzecie. Dotyczy to również wydania przedmiotów, wymienionych w art. 6, oraz wypłaty sum ubezpieczenia płatnych wskutek śmierci spadkodawcy. Kto świadomie wbrew temu przepisowi uiszcza dług lub wydaje przedmioty wyżej wymienione, odpowiada za podatek, o ile on się należy od wierzytelności, umorzonej przez uiszczenie lub od wydanych przedmiotów. O ile z treści sporządzić się mającego aktu notarjalnego lub dokumentu, co do którego notarjusz ma uwierzytelnić własnoręczność podpisu, wynika przejście majątku wskutek śmierci, może notarjusz sporządzić akt lub uwierzytelnić własnoręczność podpisu tylko za uprzedniem zezwoleniem władzy skarbowej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 28. Od darowizny, zdziałanej w formie aktu notarjalnego, uiścić należy podatek gotówką do rąk notarjusza, który pobrane sumy wnosi do kasy państwowej. Sporządzenie aktu notarjalnego przed uiszczeniem podatku dopuszczalne jest tylko za uprzedniem zezwoleniem władzy skarbowei. W razie uchybienia powyższym przepisom, w szczególności w razie pobrania podatku w kwocie niższej, niż się należy, wymierza podatek władza skarbowa przez nakaz płatniczy '(art. 24). Nadto notarjusz ulega grzywnie, przewidzianej w art. 32."
+    },
+    {
+     "type": "text",
+     "text": "Frt..29. Od nakazu płatniczego (art. 24 i 28) oraz od orzeczenia, którem nałożono grzywnę (art. 32) można wnieść odwołanie w ciągu miesiąca od doręczenia. Jeżeli tytułem podatku od darowizn (ert. 28) uiszczono do rąk notarjusza więcej niż się należy, władza skarbowa zarządzi zwrot nadpłaty w razie wniesienia prośby o zwrot w ciągu lat trzech od uiszczenia. Jeżeli władza skarbowa dowiedziała się w tymże czasie w jakikolwiek inny sposób o nadpłacie, to zarządzi zwrot z urzędu."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "Prawo do wymierzania podatku ulega przedawnieniu z upływem lat dziesięciu od dnia, w którym prawo to powstało. Bieg przedawnienia przerywa się przez wszelkie czynności urzędowe, odnoszące się do wymierzenia podatku, o ile o nich podatnika urzędownie uwiadomiono.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "31",
+   "path": "art_31",
+   "text": "Kto oświadcza świadomie nieprawdę celem udaremnienia opodatkowania spadku lub darowizny, lub spowodowania wymiaru w kwocie niższej, niż należy się według ustawy, staje się winnym występku i ulega w drodze sądowej grzywnie nie przewyższającej dziesięciokrotnej wysokości kwoty, na której utratę Skarb Państwa narażono. W razie okoliczności, szczególnie obciążających, może być wymierzona prócz grzywny kara więzienia do sześciu miesięcy. Grzywna nie może przenosić przypadającego winnemu majątku, będącego podstawą wymiaru. Pozbawienie wolności, zastępujące grzywnę w razie niemożności jej ściągnięcia, nie może przewyższać sześciu miesięcy.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "32",
+   "path": "art_32",
+   "text": "Winni innego rodzaju naruszeń przepisów o opodatkowaniu spadków i darowizn —w szczególności niedopełnienia w wyznaczonym terminie obowiązku zawiadomienia władzy skarbowej o- śmierci spadkodawcy lub dostarczenia danych, potrzebnych celem dokonania wymiaru — podlegają grzywnie do wysokości 50.000 marek polskich. Grzywnę tę wymierza władza skarbowa.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 33. Odpowiedzialność z art. 32 ulega przedawnieniu z upływem lat pięciu od dnia, w którym nastąpiło naruszenie ustawy. Prawo żądania grzywny już nałożonej przedawnia się z upływem lat pięciu od dnia, w którym orzeczenie karne stało się prawomocnem. Bieg przedawnienia przerywa się przez wszelkie czynności urzędowe, odnoszące się do wymiaru lub uiszczenia grzywny, o ile o nich winnego urzędownie zawiadomiono. Od dnia przerwy przedawnienie biegnie na nowo; w razie odroczenia płatności rozpoczyna się bieg przedawnienia z dniem, do którego zapłatę odroczono."
+    },
+    {
+     "type": "text",
+     "text": "rt. 34. Minister Skarbu ustali właściwość władz skarbowych do przedsiębrania czynności urzędowych w myśl przepisów niniejszych i przepisów wykonawczych wydanych na ich podstawie."
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu w porozumieniu z właściwymi Ministrami zarządzi, czy i jak urzędy publiczne (państwowe i samorządowe), w szczególności też notarjusze, mają w inny jeszcze sposób, niż określono w przepisach niniejszych współdziałać z władzami skarbowemi celem opodatkowania spadków i darowizn."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "35",
+   "path": "art_35",
+   "text": "Majątek, znajdujący się w kraju, wlicza się do podstawy wymiaru w całości, jeżeli spadkodawca lub darujący był w dniu otwarcia spadku lub zdziałania darowizny obywatelem państwa polskiego lub miał zamieszkanie w kraju. , Jeżeli był cudzoziemcem i zamieszkiwał zagranicą, to znajdujący się w kraju majątek nieruchomy podlega opodatkowaniu bezwzględnie, ruchomy zaś o tyle, o ile nabywca jest obywatelem państwa polskiego lub ma zamieszkanie w kraju.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "36",
+   "path": "art_36",
+   "text": "Wartość majątku nieruchomego i ruchomego, znajdującego się zagranicą, wlicza się do podstawy wymiaru, jeżeli spadkodawca lub darujący był w dniu otwarcia spadku lub zdziałania darowizny obywatelem państwa polskiego.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Jeżeli był cudzoziemcem, to majątek znajdujący się zagranicą nie podlega opodatkowaniu."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "37",
+   "path": "art_37",
+   "text": "Wierzytelność poczytuje się za znajdującą się w kraju, jeżeli wierzyciel ma w kraju zamieszkanie. Postanowienia art. 35 i 36, dotyczące nieruchomości, stosują się również do praw, wynikających z ciężarów rzeczowych (z zobowiązania przemysłowca górniczego do wynagrodzenia właściciela gruntu za użytkowanie wnętrza i t. p.).",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "38",
+   "path": "art_38",
+   "text": "Przy ustaleniu czystej wartości spadku lub majątku darowanego zalicza się do ciężarów w przypadkach określonych w art. 35 i 36 podatek zapłacony obcemu państwu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "39",
+   "path": "art_39",
+   "text": "Jeżeli w przypadkach, określonych w art. 35—37 należą do spadku lub majątku darowanego zarówno przedmioty, podlegające opodatkowaniu, jakoteż takie, których się nie wlicza do podstawy wymiaru, to celem ustalenia czystej wartości —o ile podatnik lub władza skarbowa nie udowodnili, że długi i ciężary w całości lub w części obciążają tylko przedmioty pierwsze lub tylko drugie — potrąca się taką część długów i ciężarów, jaka odpowiada stosunkowi ogólnej wartości przedmiotów, należących do podstawy wymiaru, do ogólnej wartości wszystkich przedmiotów nabytych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "40",
+   "path": "art_40",
+   "text": "Gdy majątek, podlegający opodatkowaniu znajduje się w dwu lub więcej dzielnicach, to wymierzenie podatku nastąpi w tej dzielnicy, w której spadkodawca zamieszkiwał lub w której zdziałano akt darowizny. Jeżeli spadkodawca zamieszkiwał lub akt darowizny zdziałano poza dzielnicami, w których znajduje się majątek, podlegający opodatkowaniu, to Minister Skarbu postanowi, w której dzielnicy nastąpić ma opodatkowanie. *,W wypadkach powyższych ustalenie, które przedmioty podlegają opodatkowaniu, oraz obliczenie podstawy wymiaru mają być dokonane dla każdego przedmiotu według przepisów, obowiązujących w danej dzielnicy. Co do terminu płatności oraz środków prawnych stosują się przepisy, obowiązujące w dzielnicy, w której podatek wymierzono.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "41",
+   "path": "art_41",
+   "text": "(stęp 1 art. 51 rosyjskiego Zbioru ustaw o opłatach, jak również art. 280 tegoż Zbioru nie stosują się do darowizn. j",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "42",
+   "path": "art_42",
+   "text": "Przepisy niniejsze wchodzą w życie piętnastego dnia po ogłoszeniu. “a Będą jednak stosowane z wyjątkiem art. 31—33 również wówczas, jeżeli spadkodawca zmarł w czasie od 1 stycznia 1916 r., a do dnia ogłoszenia niniejszych przepisów nie zapadła decyzja władzy skarbowej o należności podatku spadkowego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "43",
+   "path": "art_43",
+   "text": "Wykonanie niniejszych przepisów należy do Ministra Skarbu w porozumieniu z właściwymi Ministrami.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "SY"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do art. 9. Ne 49, Taryfa opodatkowania spadków i darowizn."
+    },
+    {
+     "type": "text",
+     "text": "Czysta wartość otrzymanego majątku w markach polskich Określenie podatnika według i : nad nad nad „| Jego znamion osobistych, do oe fe ae nad nad nad nad nad nad nad nad 50000 100000 200000, 500000, 1000000 ADO a nad >| w szczególności według jego 5000 10000 26000 50000 10000 200000 500000 1000000 3000000 5006000) 10066000 0 20000000) 20000000 s 5a ."
+    },
+    {
+     "type": "text",
+     "text": "n| stosunku do spadkodawcy |———"
+    },
+    {
+     "type": "text",
+     "text": "RAE TRY - ° hits darującego. ti Podatek wymierza się według niżej podanej stopy procentowej 7 8 s ca a b c d Dziennik Ustaw. Poz. 300. Małżonek. Zstępny. = 2 3 e e £ g h i j ok 1 m"
+    },
+    {
+     "type": "text",
+     "text": "5 6 p 8 10 12 14 17 20 -_ Wstępny. Przysposobiony. a| ul gl elo kala \"z aa \"mj 2 Zięć lub synowa. — 3 4 q 5 Rodzeństwo rodzone lub 3| przyrodnie. Dzieci rodzeń- — 4 6 8 _|_stwa, Pasierb. Krewni do 4 stopnia wyżej niewymienieni (rodzeństwo A} kayiców, podzeństwo dziad _ zl 9 11] rodzeństwo stryjeczne lub cioteczne). A Fundacja, zakład, zrzeszenie lub związek samorządny, mające siedzibę w państwie polskiem — co do majątku 5| otrzymanego na podstawie — 2 3 4 rozporządzenia ostatniej woli lub darowizny na cele dobroczynne albo na cele nauki _| lub nauczania. 858 6 Inni. — 10 14 18"
+    },
+    {
+     "type": "text",
+     "text": "6 7 8 10 12 15 18 21 29 WE. 11] 144 17) 20 23 26 29 32 36"
+    },
+    {
+     "type": "text",
+     "text": "MEL SEE"
+    },
+    {
+     "type": "text",
+     "text": "14] 17| 20| 24 28 32 36 40 5"
+    },
+    {
+     "type": "text",
+     "text": "_ a e"
+    },
+    {
+     "type": "text",
+     "text": "5 6 w § 10 12 14 17 20 *"
+    },
+    {
+     "type": "text",
+     "text": "- R 22 26 30 35 40 45 50 55 60"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Załącznik do art. 5."
+    },
+    {
+     "type": "text",
+     "text": "TABLICA"
+    },
+    {
+     "type": "text",
+     "text": "wskazująca skapitalizowaną wartość świadczenia, którego wartość roczna równa się 1 marce polskiej."
+    },
+    {
+     "type": "text",
+     "text": "+ Wartość skapitali- ż Wartość skapitali- 6 Wartość skapitaliae zowana zowana zowana w ZR) r 2] Mk. |* fen. PS] Mk"
+    },
+    {
+     "type": "text",
+     "text": "b 1 0,0 29] 17 2 1 962 |30| 17 3 2 |. 886 |31| 18 4 3 775 |32| 18 5 4 630 |33| 18 6 5 451 34| 19 7 6 242 |35| 19 8 7 002 |36] 19 9 7 733 (|137| 19 10 8 435 i338} 20 11 9 11 |39| 20 12 9 760 |l4o} 20 13 10 385 |a| 20 14 10 986 142] 20 bl 1 563 lal 2a 16 12 11.8 |144] 21 17 12 652 asl 21 18 13 166 ||46] 21 19 13 659 |47l 21 20 14 13.4 |48] 22 21 14 590 |a| 22 22 15 029 |5o0l 22 23 15 451 22 24 15 857 |52l 22 25 16 247 |53| 22 26 16 622 |54l 22 27 16 98.3 |55| 22 28| 17 330 |56l 23 a fen. |Ś| Mk. fen."
+    },
+    {
+     "type": "text",
+     "text": "653 |57| 23 220 98,4 |58| 23 32,7 290 |59| 23 43,0 589 |l60] 23 52,8 874 61 23 62,4 148 |l62| 23 715 411 63 23 80.3 66,5 64 23 88,7 938 65 23 96.9 143 |66| 24 047 368 67 24 12,2 585 |les| 24 19,4 793 |69 24 26,4 993 |l70|] 24 33,0 186 |1| 24 30,5 371 |72| 24 45,6 549 1173 24 51.6 720 74 24 57,3 885 75 24 628 043 «| 76 24 8,0 195 |l77| 24 73,1 342 |78| 24 780 48,2 79 24 82,7 618 |80] 24 872 748 (81 24 915 873 |82| 24 957 99,3 83 24 997 109 |84| 25 000"
+    },
+    {
+     "type": "text",
+     "text": "i wyżej"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

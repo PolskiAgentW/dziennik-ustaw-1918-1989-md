@@ -1,0 +1,75 @@
+{
+ "eli": "DU/1927/8",
+ "title": "Rozporządzenie Ministra Robót Publicznych w porozumieniu z Ministrem Spraw Wewnętrznych z dnia 3 grudnia 1926 r. w sprawie tymczasowych przepisów budowlanych na obszarach byłego zaboru rosyjskiego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/8/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Robót Publicznych w porozumieniu z Ministrem Spraw Wewnętrznych"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 grudnia 1926 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie tymczasowych przepisów budowla nych na obszarach byłego zaboru rosyjskiego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie artykułu 3 dekretu Naczelnika Państwa z dnia 7 lutego 1919 r. w przedmiocie tymczasowych przepisów budowlanych na obszarach b. zaboru rosyjskiego (Dz. P. P. P. Ne 14 poz. 176) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Dowydawania orzeczeń i zarządzeń, których wydawanie według rozporządzenia b. General-Gubernatora Warszawskiego z dnia 29 listopada 1916 roku, dotyczącego sporządzania planów zabudowy (Dz. rozp. Gen. Giub. Warsz. Ne 58 poz. 226) należało do Naczelnika powiatu bądź Prezydenta policji, są powołani:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "w miastach niewydzielonych z powiatów, tudzież w miejscowościach wiejskich— Starosta;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "w miastach wydzielonych z powiatów z wyjątkiem miast, będących siedzibą urzędów wojewódzkich— Wojewoda;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "w miastach będących siedzibą urzędów wojewódzkich i w mieście stołecznem Warszawie— Minister Robót Publicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Robót Publicznych: Moraczewski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Sławoj Składkowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,1891 @@
+{
+ "eli": "DU/1927/673",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 22 sierpnia 1927 r. o zwalczaniu zaraźliwych chorób zwierzęcych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/673/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Prezydenta Rzeczypospolitej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 sierpnia 1927 r."
+  },
+  {
+   "type": "text",
+   "text": "o zwalczaniu zaraźliwych chorób zwierzęcych."
+  },
+  {
+   "type": "text",
+   "text": "Na zasadzie art. 44 ust. 6 Konstytucji i ustawy z dnia 2 sierpnia 1926 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Ne 78, poz. 443) postanawiam co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Wstęp."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W rozumieniu rozporządzenia niniejszego:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "wyrażenie „zwalczanie” zaraźliwych chorób zwierzęcych oznacza zarówno zapobieganie tym chorobom, jak ich tłumienie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "wyrażenie „zaraźliwe cheroby zwierzęce” lub „Zarazy” oznacza choroby wyszczególnione zarówno w tem rozporządzeniu, jak w rozporządzeniach, na jego podstawie wydanych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "wyrażenie „zwierzęta” oznacza wszystkie gospodarskie zwierzęta jednokopytowe i racicowe oraz psy, koty, drób, pszczoły, ryby, raki i inne zwierzęta, o ile są użyteczne w gospodarstwie; d",
+     "children": [
+      {
+       "type": "text",
+       "text": "— wyrażenie „zwierzę podejrzane” oznacza zarówno zwierzę podejrzane o chorobę, t. j."
+      },
+      {
+       "type": "text",
+       "text": "1038"
+      },
+      {
+       "type": "text",
+       "text": "zwierzę z objawami uzasadniającemi obawę zarażliwej choroby, jak i zwierzę podejrzane o zarażenie się, t. j. zwierzę bez objawów danej choroby, które jednak wskutek bezpośredniego lub pośredniego zetknięcia się ze zwierzętami choremi lub podejrzanemi o cho: robę albo z innych powodów jest prawdopodobnie nosicielem zarazka;"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_1/lit_e",
+     "text": "wyrażenie „zwierzę wrażliwe” na zarazę oznacza zwierzę, które zarazek przyjmuje i przenosi, choćby samo nie ulegało chorobie zarazkiem tym wywoływanej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_1/lit_f",
+     "text": "wyrażenie „ubój” oznacza zabicie w celu spożycia. ,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Władze i postępowanie."
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Zwalczanie zaraźliwych chorób zwierzęcych na podstawie przepisów rozporządzenia niniejszego należy, o ile rozporządzenie to nie stanowi inaczej, do Ministra Rolnictwa, wojewodów i starostów we właściwym im zakresie działania. Przez wyraz „starosta” rozporządzenie niniejsze rozumie w ogóle władze administracjne instancji, a przez wyraz „wojewoda” w ogóle władze administracyjne II instancji.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "W razie wyjątkowej potrzeby Prezydent Rzeczypospolitej może na wniosek Ministra Rolnictwa, uchwalony w Radzie Ministrów, powoływać w drodze rozporządzeń na określony przeciąg czasu lub do odwołania, dla obszaru całego Państwa",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "lub jego części, specjalne organa do zwalczania poszczególnych zaraźliwych chorób zwierzęcych oraz określać ich właściwość i stosunek do władz."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Władze wymienione w art. 2 i 3 zwalczają zaraźliwe choroby zwierzęce przy pomocy pań: stwowych lekarzy weterynaryjnych, a w razie potrzeby przy pomocy samorządowych, a nawet prywatnych lekarzy weterynaryjnych, którzy w takim razie mają obowiązek i prawo przedsiębrać w granicach otrzymanego zlecenia wszelkie czynności urzędowe, należące na podstawie rozporządzenia niniejszego do państwowych lekarzy weterynaryjnych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt 5. W wypadkach koniecznej potrzeby, gdy sprawa nie cierpi zwłoki, Minister Rolnictwa może wydawać bezpośrednio zarządzenia i orzeczenia, należące do właściwości wojewodów, wojewodowie zaś w tych samych warunkach decyzje, należące do właściwości starostów,"
+    },
+    {
+     "type": "text",
+     "text": "Frt. 6. Minister Rolnictwa władny jest w drodze rozporządzeń:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_4/lit_a",
+     "text": "upoważniać wojewodów do wydawania zarzą- *dzeń i orzeczeń w sprawach zastrzeżonych mu w rozporządzeniu niniejszem; od tych zarządzeń i orzeczeń służy odwołanie do Ministra Rolnictwa;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_4/lit_b",
+     "text": "zezwalać wojewodom na upoważnienie staro: stów do wydawania zarządzeń i orzeczeń w sprawach zastrzeżonych wojewodom w rozporządzeniu niniejszem; od tych zarządzeń i orzeczeń służy odwołanie do wojewody.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 7. Zwalczanie na podstawie rozporządzenia niniejszego zaraźliwych chorób zwierząt, znajdujących się pod zarządem władz wojskowych, a stanowiących własność Państwa, należy do zakresu działania Ministra Spraw Wojskowych."
+      },
+      {
+       "type": "text",
+       "text": "Władze wojskowe i cywilne obowiązane są zawiadamiać się wzajemnie o wybuchu i wygaśnięciu zaraźliwych chorób zwierzęcych."
+      },
+      {
+       "type": "text",
+       "text": "Postępowanie względem zwierząt, wymienionych w ustępie pierwszym, znajdujących się czasowo lub stale poza obrębem zarządzanym przez władze wojskowe, jak również zwierząt, znajdujących się w tym obrębie, a nie stanowiących własności Państwa, uregulują wspólnie Minister Rolnictwa i Minister Spraw Wojskowych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Minister Rolnictwa jest władny:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_8/lit_a",
+     "text": "zezwalać dla celów naukowych zakładom i instytucjom naukowym na traktowanie zwierząt chorych i podejrzanych w sposób odmienny od przepisanego w rozporządzeniu niniejszem; *b) normować postępowanie przy zwalczaniu zaraźliwych chorób koni, przebywających w państwowych zakładach ch,owu koni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "W wypadku niewykonania zarządzeń, wydanych z mocy rozporzea, dzenia niniejszego lub z mocy rozporządzeń na r1iem opartych, właściwe władze administracyjne mcygą przeprowadzić wykonanie tych zarządzeń na koszt osób obowiązanych do wykonania,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Ne 77,"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział Il",
+   "text": "O środkach przeciw przyniesieniu zaraźliwych chorób zwierzęcych z zagranicy."
+  },
+  {
+   "type": "text",
+   "text": "Frt. 10. Zabrania się sprowadzać z zagranicy i przeprowadzać przez terytorjum polskie zwierzęta chore i podejrzane, zwłoki, części zwierząt i wytwory z takich zwierząt oraz wszystko, co prawdopodobnie jest rozsadnikiem zaraźliwych chorób zwierzęcych."
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Minister Rolnictwa może w drodze rozporządzeń dozwalać pod określonemi warunkami, ograniczać lub całkowicie wzbraniać sprowadzania z zagranicy i przeprowadzania przez terytorjum polskie zwierząt, zwłok, części zwierząt i wytworów zwierzęcych oraz wszystkiego, co może być rqązsadnikiem zarazy, jak również sprowadzania z zagranicy surowic i szczepionek dla celów weterynaryjnych oraz preparatów do rozpoznawania zaraźliwych chorób zwierzęcych. W braku takich rozporządzeń sprowadzanie z zagranicy i przeprowadzanie przez terytorjum polskie wymaga w każdym poszczególnym wypadku uprzedniego zezwolenia Ministra Rolnictwa. Jeżeli wymienione wyżej surowice, szczepionki oraz preparaty mogą być stosowane również w medycynie, rozporządzenia i zezwolenia, o których mowa w artykule niniejszym, będą wydawane w poro: z umieniu z Ministrem Spraw Wewnętrznych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 12. Minister Rolnictwa może w drodze rozporządzeń poddać obrót zwierzętami i przedmiotami, mogącemi być nosicielami zarazków, na przylegających do granicy obszarach takim ograniczeniom, które w razie przyniesienia z zagranicy zaraźliwej choroby zwierzęcej, umożliwiłyby jaknajrychlejsze jej ujawnienie i stłumienie."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "W razie ka a niebezpieczeństwa przyniesienia zarazy Minister Rolnictwa po zastosowaniu środków ochronnych, wymienionych w artykułach 11 i 12, mocen jest w porozumieniu z zainteresowanymi ministrami zarządzić odkażanie osób, przybywających z zagranicy i ich rzeczy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 14. W razie groźnego niebezpieczeństwa przyniesienia z zagranicy księgosuszu Minister Rolnictwa zawiadomi właściwego ministra, który zarządzi strzeżenie granicy przez siłę zbrojną."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Przepisy rozdziału niniejszego nie naruszają zobowiązań przyjętych przez Państwo w umowach międzynarodowych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział III",
+   "text": "O środkach przeciwko zaraźliwym chorobom zwierzęcym w kraju."
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "Wojewodowie mogą w celu ochrony od niebezpieczeństwa zaraźliwych chorób zwierzęcych zarządzić:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_16/lit_a",
+     "text": "ograniczenie lub wzbronienie osobom, mają- „cym wskutek swego zatrudnienia styczność ze zwierzętami, zwłokami zwierząt, lub surowcami zwierzęcemi (garbarze, oprawcy, misiarze, osoby handlujące i t. p.) wstępu do stajen, obór, chlewów i t. p;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_16/lit_b",
+     "text": "oczyszczanie i odkażanie ramp i miejsc tymczasowego postoju na stacjach kolejowych i przystaniach wodnych oraz wagonów kolejowych, statków i innych środków, użytych do przewozu zwierząt i wytworów zwierzęcych, tudzież narzędzi i przedmiotów, użytych przy ładowaniu i wyładowaniu, o ile oczyszczanie i odkażanie nie jest w obowiązujących przepisach przewidziane; — zaopatrzenie rzeźni i targowisk (miejsc spec",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "du zwierząt) w urządzenia zabezpieczające prawidłowe przeprowadzenie nadzoru weterynaryjnego, jak również oczyszczanie i odkażanie; zupełne odosobnienie targowisk (miejsc spędu) zwierząt użytkowych i hodowlanych od rzeźni i targowisk zwierząt rzeźnych; d"
+    },
+    {
+     "type": "text",
+     "text": "— zaopatrzenie stajen zajezdnych i przedsiębiorstw handlu zwierzętami w urządzenia umożliwiające oczyszczanie i odkażanie;"
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_16/lit_e",
+     "text": "zaopatrzenie grzebowisk, rakarni, zakładów utylizacyjnych, garbarni i innych przedsiębiorstw przerobu zwłok zwierzęcych i surowców zwierzęcych w urządzenia, zabezpieczające od roznoszenia zaraźliwych chorób zwierzęcych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_16/lit_f",
+     "text": "zaopatrywanie psów w obroże z podaniem na nich znaków umożliwiających ustalenie miejsca zamieszkania i nazwiska posiadacza; — prowadzenie wykazów stanowienia koni; aa bad: nie w pewnych odstępach czasu zwierząt, używanych w przedsiębiorstwach przewozowych oraz zwierząt wskutek sposobu ich użycia stykających się często ze zwierzętami innych posiadaczy lub miejscami ich postoju, zwierząt używanych w kosalniach, w handlu domokrążnym i zwierząt będących w posiadaniu osób nie mających stałego zamieszkania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "Wszelkie inne zarządzenia poza wymienionemi w art. 16 należą do Ministia Rolnictwa. W szczególności Minister Rolnictwa może \"a rządzić:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_17/lit_a",
+     "text": "badanie zwierząt przez państwowych lekarzy weterynaryjnych na stacjach kolejowych i przystaniach wodnych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_17/lit_b",
+     "text": "zaopatrywanie w świadectwa miejsca pochodzenia zwierząt, będących w posiadaniu osób handlujących, oraz zwierząt dostarczonych: na stacje kolejowe i przystanie wodne do załadowania, na targowiska, jarmarki, pokazy i przetargi publiczne; — rejestrację i znakowanie zwierząt, będących c",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "w posiadaniu osób handlujących;"
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_17/lit_d",
+     "text": "prowadzenie przez osoby handlujące wykazu zakupionych i sprzedanych zwierząt;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_17/lit_e",
+     "text": "zaopatrzenie mleczarni, otrzymujących mleko z różnych gospodarstw, w urządzenia, zabezpieczające od roznoszenia zaraźliwych chorób zwierzęcych i umożliwiające oczyszczanie i odkażanie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_17/lit_f",
+     "text": "poddawanie nadzorowi weterynaryjnemu w oznaczonym zakresie przetargów zwie'żął, zakładów tuczenia dla celów przemysłowych, krowiarni, wspólnych pastwisk, stajni zajezdnych, przedsiębiorstw handlu zwierzętami, stawów rybnych, wylęgarni, zimochowów i urządzeń dla przechowywania ryb;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_17/lit_g",
+     "text": "określenie warunków zarobkowego leczenia i trzebienia zwierząt przez osoby nie posiadające dyplomu lekarza weterynaryjnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Wytwarzanie i wprowadzanie w obrót szczepionek i surowic dla celów weterynaryjnych oraz preparatów do rozpoznawania zaraźliwych chorób zwierzęcych, Wymaga uprzedniego zezwolenia Ministra Rolnictwa, który może zarządzić państwową kontrolę wyrobów tych oraz wyrobów zagranicznych. Jeżeli wymienione wyżej szczepionki, surowice i preparaty mogą być stosowane również w medycynie, zezwolenia lub zarządzenia kontroli wymienione w artykule niniejszym mają być wydawane w porozumieniu z Ministrem Spraw Wewnętrznych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Wszelkie targi, jarmarki i pokazy zwierząt, rzeźnie publiczne i prywatne, mleczarnie, lecznice i uzdrowiska dla zwierząt podlegają nadzorowi weterynaryjnemu władz administracyjnych, który określony będzie przez Ministra Rolnictwa. Mniejsze targi i pokazy zwierząt mogą być przez Ministra Rolnictwa od nadzoru powyższego zwolnione.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 20, Właściciele zwierząt, jako też wszyscy, którzy z tytułu fakiycznego posiadania lub używania zwierzęcia albo z tytułu wykonywania urzędu lub zawodu mają styczność ze zwierzętami, są obowiązani zgłosić niezwłocznie do najbliższego posterunku policji lvv bezpośrednio do starosty każdy wypadek zachore wania, jak również wystąpienia objawów, wzbudzaiąc\"ch podejrzenie zachorowania na jedną z następuj cych chorób:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_19/lit_a",
+     "text": "księgosusz,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_19/lit_b",
+     "text": "zarazę płucną bydła rogatego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_19/lit_c",
+     "text": "pryszczycę,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_19/lit_d",
+     "text": "wąglik,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_19/lit_e",
+     "text": "szelestnice,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_19/lit_f",
+     "text": "zarazę dziczyzny i bydła rogatego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_19/lit_g",
+     "text": "grużlicę bydła rogatego w postaci otwartej (płuc, wymienia, macicy i jelit),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "art_19/lit_h",
+     "text": "no»aciznę zwierząt jednokopytowych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "art_19/lit_i",
+     "text": "ospę owczą,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "art_19/lit_j",
+     "text": "zarazę stadniczą koni,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "k",
+     "path": "art_19/lit_k",
+     "text": "otręt koni i bydła rogatego, |) świerzb zwierząt jednokopytowych i owiec,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "m",
+     "path": "art_19/lit_m",
+     "text": "wściekliznę,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "n",
+     "path": "art_19/lit_n",
+     "text": "pomór i zarazę świń,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "o",
+     "path": "art_19/lit_o",
+     "text": "różycę świr,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "o",
+     "path": "art_19/lit_o",
+     "text": "cholerę drobiu i pomór kur.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Firt. 21. Osoby, które zwierzętami władają, winny równocześnie ze zgłoszeniem:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_19/lit_a",
+     "text": "zwierzęta chore i podejrzane odosobnić od innych zwierząt, które mogłyby ulec danej zarazie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_19/lit_b",
+     "text": "nie wyprowadzać takich zwierząt pozą obręb swego gospodarstwa;",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "zabronić dostępu do miejsca postoju takich"
+    },
+    {
+     "type": "text",
+     "text": "— c"
+    },
+    {
+     "type": "text",
+     "text": "zwierząt osobom postronnym, z wyjątkiem organów władzy i lekarzy weterynaryjnych;"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_19/lit_d",
+     "text": "zwierzęta padłe i zabite przechować w miej- ki, przewidziane w rozporządzeniu niniejszem, bez scach odosobnionych z zachowaniem potrzeb- uprzedniego delegowania na miejsce państwowego nej ostrożności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Posterunek policji obowiązany jest natychmiast powiadomić starostę o otrzymanem zgłoszeniu, jak również o ujawnionych w inny sposób wypadkach chorób zaraźliwych lub ich podejrzeniu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "23",
+   "path": "art_23",
+   "text": "Starosta, otrzymawszy zgłoszenie (art. 20 i 22), lub też dowiedziawszy się* w jakikolwiek inny sposób o zaraźliwej chorobie zwierzęcej, lub jej podejrzeniu, obowiązany jest przeprowadzić natychmiast przez państwowego lekarza weterynaryjnego zbadanie stanu rzeczy na miejscu. Państwowy lekarz weterynaryjny po zbadaniu zwierząt i przeprowadzeniu potrzebnych dochodzeń co do rodzaju choroby, stopnia jej rozszerzenia i niebezpieczeństwa oraz przyczyny, ustali, czy i która z zaraźliwych chorób zwierzęcych została stwierdzona lub czy jest uzasadnione jej podejrzenie, jak również ustali okoliczności i fakty mające znaczenie dla odszkodowania lub zapomogi. Stosownie do rodzaju i niebezpieczeństwa choroby państwowy lekarz weterynaryjny, zgodnie z postanowieniami rozporządzenia niniejszego i rozpo rządzeń wykonawczych, winien natychmiast zarządzić tymczasowe niezbędne środki w celu umiejscowienia choroby. O zarządzeniach tych państwowy lekarz weterynaryjny zawiadamia posiadacza zbadanych zwierząt oraz na piśmie miejscową władzę gminną, która niezwłocznie poda te zarządzenia do wiadomości osób zainteresowanych, względnie także do wiadomości publicznej i dopilnuje ich wykonania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 24. Jeżeli według opinji państwowego lekarza weterynaryjnego stwierdzenie rodzaju choroby możliwe jest tylko przez dokonanie sekcji, a niema potrzebnego do tego zwierzęcia zabitego lub padłego, wojewoda może zarządzić zabicie podejrzanego zwierzęcia. Przy czynnościach państwowego lekarza weterynaryjnego, mających na celu rozpoznanie rodzaju choroby, może być obecny lekarz weterynaryjny powołany przez posiadacza zwierzęcia, o ile to nie spowoduje zwłoki w ustaleniu stanu rzeczy. Zdanie tego lekarza, o ile jest niezgodne z ustaleniem państwowego lekarza weterynaryjnego, winno być wraz z uzasadnieniem dołączone do akt sprawy. Urzędowe stwierdzenie pewnych chorób można uzależnić od przeprowadzenia badań rozpoznawczych, lub od ustalenia państwowego lekarza weterynaryjnego wyższej instancji. Sposób wykonania niniejszego przepisu określi Minister Rolnictwa."
+    },
+    {
+     "type": "text",
+     "text": "Art. 255 W wypadku stwierdzenia przez państwowego lekarza weterynaryjnego wybuchu choroby zaraźliwej lub jej podejrzenia, starosta winien zarządzić środki, przewidziane w rozporządzeniu niniejszem i w rozporządzeniach na jego podstawie wydanych, uwzględniając potrzeby życia gospodarczego. W miejscowościach, w których przez państwowego lekarza weterynaryjnego już: został stwierdzony wybuch pryszczycy, otrętu, różycy świń, cholery drobiu i pomoru kur, starosta może w razie zgłoszenia nowych wybuchów. tych chorób zarządzić środlekarza weterynaryjnego. Minister Rolnictwa może przepis ten zastosować również do innych zaraźliwych chorób zwierzęcych."
+    },
+    {
+     "type": "text",
+     "text": "Frt. 26. W wypadku stwierdzenia (art. 23) zaraźliwej choroby zwierzęcej lub jej podejrzenia mogą być zastosowane następujące środki:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_23/lit_a",
+     "text": "odosobnienie, strzeżenie, obserwowanie, rejestracja i znakowanie zwierząt dotkniętych zarazą, podejrzanych i wrażliwych na daną za-",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "rażę;"
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_23/lit_b",
+     "text": "ograniczenie obrotu takiemi zwierzętami oraz określenie sposobu używania zwierząt chorych i podejrzanych, sposobu zużytkowania surowców ze zwierząt chorych i podejrzanych, tudzież ograniczenie obrotu zwierzętami i przedmiotami, mogącemi być rozsadnikami zarazy;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_23/lit_c",
+     "text": "zakaz spędu zwierząt z miejscowości zapowietrzonych lub zagrożonych, albo wykluczenie pewnych gatunków zwierząt od spędzania na targi, jarmarki, pokazy i t. p.;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_23/lit_d",
+     "text": "badanie przez lekarza weterynaryjnego zwierząt podejrzanych i wrażliwych na zarazę; — pobieranie próbek części narządów, krwi, e",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "wydalin lub wydzielin zwierzęcia oraz wykonywanie szczepień w celach rozpoznawczych;"
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_23/lit_f",
+     "text": "wzbronienie stosowania, bez uprzedniego zezwolenia władzy, środków mających na celu rozpoznanie zaraźliwej choroby zwierzęcej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_23/lit_g",
+     "text": "szczepienie zwierząt wrażliwych na zarazę;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "art_23/lit_h",
+     "text": "zabijanie zwierząt dotkniętych zarazą i podejrzanych w wypadkach wyraźnie przewidzianych w rozporządzeniu niniejszem lub w rozporządzeniach na jego podstawie wydanych, oraz wykonywanie sekcji zwierząt zabitych i padłych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "art_23/lit_i",
+     "text": "oczyszczanie, odkażanie, niszczenie lub usuwanie w sposób wykluczający niebezpieczeństwo zarazy zwłok zwierzęcych, części ciała zwierzęcego nie nadających się do użycia, wytworów oraz odpadków ze zwierząt chorych i podejrzanych, tudzież nawozu, narzędzi i przedmiotów, które z temi zwierzętami były w bezpośredniem lub pośredniem zetknięciu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "k",
+     "path": "art_23/lit_k",
+     "text": "oczyszczanie i odkażanie stajen, stanowisk i dróg, używanych przez zwierzęta chore lub podejrzane, jak również zwierząt, które mogą być rozsadnikami zarazy, dalej podściółki i paszy, a w razie potrzeby także osób, które były w styczności ze zwierzętami choremi lub podejrzanemi oraz rzeczy tych osób; |) zakaz wypuszczania samopas świń, psów, kotów i innych zwierząt;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "m",
+     "path": "art_23/lit_m",
+     "text": "poddanie ubojowi zwierząt wpędzanych do rzeźni i na targowiska rzeźne; —* przymusowe wyłowienie ryb, pozostawienie n",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "stawów ugorem, odkażanie stawów, wylęgarni, zimochowów i urządzeń do przechowywania ryb;"
+    },
+    {
+     "type": "pkt",
+     "num": "0",
+     "path": "art_23/pkt_0",
+     "text": "ogłaszanie o wybuchu i wygaśnięciu zarailiwych chorób zwierzęcych.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Frt. 27. Ograniczenia, wynikające z punktu b) art. 26, mogą być stosowane między innemi przez:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_23/pkt_0/lit_a",
+       "text": "uznanie pewnego miejsca lub obszaru jako zamkniętego dla wyprowadzania i wprowadzania doń zwierząt chorych, podejrzanych i wrażliwych na zarazę, stosownie do rodzaju zarazy, rozmiaru grożącego niebezpieczeństwa i stosunków miejscowych; zamknięcie może dotyczyć również peszy, ściółki i woaóle przedmiotów uznanych za możliwe rozsadniki",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "zarazy;"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_23/pkt_0/lit_b",
+       "text": "wstrzymanie dalszego przewozu, pędzenia lub innego prowadzenia zwierząt;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_23/pkt_0/lit_c",
+       "text": "zakaz lub ograniczenie wypędzania zwierząt na pastwisko oraz używania pewnych dróg i ulic;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_23/pkt_0/lit_d",
+       "text": "zakaz wspólnego używania studzien, miejsc pojenia, pławienia i t. p.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "28",
+   "path": "art_28",
+   "text": "Minister Rolnictwa określi wypadki i sposób stosowania środków przewidzianych w art. 26 i 27 oraz wskaże w rozporządzeniu władze powołane do ich stosowania, nie naruszając przytem przepisów, zawartych w art. 30 do 74, a dotyczących poszczególnych chorób zwierzęcych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "29",
+   "path": "art_29",
+   "text": "Minister Rolnictwa może dla obszaru całego Państwa lub jego części w drodze rozporzą dzeń:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_29/lit_a",
+     "text": "włączać do chorób, podlegających obowiązkowi zgłaszania, inne chorcby, w art. 20 nie wymienione, oraz przepisywać sposób ich zwalczania środkami przewidzianemi w rozporządzeniu niniejszem; b",
+     "children": [
+      {
+       "type": "text",
+       "text": "— wyłączać od obowiązku zgłaszania na czas określony lub do odwołania poszczególne choroby, wymienione w art. 20."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "O środkach przeciwko poszczególnym zarailiwym chorobom zwierzęcym."
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "Księgosusz.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "30",
+   "path": "art_30",
+   "text": "W razie urzędowego stwierdzenia podejrzenia księgosuszu należy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_30/lit_a",
+     "text": "wzbronić wstępu do miejsca lub obszaru uznanego za zamknięty (art. 27) osobom obcym z wyjątkiem lekarzy weterynaryjnych, organów władz, duchownych, lekarzy i akuszerek w celu umożliwienia im wypełnienia obowiązków służbowych lub zawodowych, jako też z wyjątkiem innych osób, które ze względów szczególnych uzyskają na wstęp k-żdorazowo zezwolenie starosty; zarządzić na określonym obszarze obowiązek",
+     "children": [
+      {
+       "type": "text",
+       "text": "— b zgłaszania każdego wypadku zachorowania lub padnięcia zwierząt wrażliwych na księ:"
+      },
+      {
+       "type": "text",
+       "text": "gosusz;"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_30/lit_c",
+     "text": "wzbronić na określonym obszarze usuwania zwłok zwierząt wrażliwych na księgosusz, bez uprzedniego zbadania ich przez państwo wego lekarza weterynaryjnego; d",
+     "children": [
+      {
+       "type": "text",
+       "text": "— zarządzić na określonym obszarze badanie przed ubojem i po uboju zwierząt wrażliwych na księgosusz;"
+      },
+      {
+       "type": "text",
+       "text": "—"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_30/lit_e",
+     "text": "zakazać obcowania mieszkańców miejsca lub obszaru zamkniętego z posiadaczami zwierząt wrażliwych na księgosusz, względnie opuszczania miejsca lub obszaru zamkniętego bez uprzedniego oczyszćzenia i odkażenia obnażonych części ciała, obuwia, odzieży, tudzież przenoszonych rzeczy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 31. W razie stwierdzenia księgosuszu, prócz zastosowania środków, wymienionych w art. 30, należy zarządzić: i"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_30/lit_a",
+     "text": "natychmiastowe zabicie zwierząt chorych, podejrzanych o chorobę oraz, o ile nie zostanie zastosowane szczepienie, także zwierząt podejrzanych o zarażenie się;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_30/lit_b",
+     "text": "zniszczenie w całości wraz ze skórą zwłok zwierząt dotkniętych księgosuszem i podejrzanych o księgosusz;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_30/lit_c",
+     "text": "otoczenie miejscowości zapowietrzonej lub jej części kordonem cywilnym, policyjnym lub wojskowym, a nadto zamknięcie pewnych dróg lub ulic dla ruchu osób; w celu umożliwienia władzom administracyjnym ustanowienia kordonu wojskowego Minister Spraw Wojskowych wyda potrzebne zarządzenia. Szczepienie może być przeprowadzone tylko na zarządzenie Ministra Rolnictwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 32, W razie urzędowego stwierdzenia księgosuszu u zwierząt przeprowadzanych, przewożonych kolejami, statkami, lub znajdujących się na jarmarkach, przetargach, pokazach i w rzeźniach, może być zarządzone niezwłoczne zabicie wszystkich zwierząt tak chorych, jak podejrzanych i wrażliwych na tę zarazę, co do których przypuszczać wypada, że się zetknęły bezpośrednio ze zwierzętami choremi."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "33",
+   "path": "art_33",
+   "text": "Przepisy wykonawcze określać będą w jakich wypadkach zarządzenia, wymienione w art. 30 do 32, stosowane być mają przez starostów, a w jakich przez wojewodów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "34",
+   "path": "art_34",
+   "text": "Wojewoda określa i ogłasza pewne obszary, jako okręgi zapowietrzone lub zagrożone księgosuszem i w okręgach takich zarządza zakaz lub ograniczenie obrotu zwierzętami i przedmiotami, mogącemi roznosić zarazę.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "35",
+   "path": "art_35",
+   "text": "W razie urzędowego stwierdzenia księgosuszu lub podejrzenia tej choroby, Minister Rolnictwa, w porozumieniu z Ministrem Spraw Wewnętrznych, może zarządzać ograniczenie ruchu osób na pewnym obszarze, między innemi, przez zakaz odbywania targów, jarmarków, odpustów, pielgrzymek i wszelkich innych zgromadzeń publicznych.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_35/ust_2",
+     "text": "Zaraza płucna.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 36. Starosta po urzędowem stwierdzeniu zarazy płucnej winien zarządzić natychmiastowe zabicie zwierząt chory h i podejrzanych, Minister Rolnictwa może jednak zarządzić, ażeby zabicie zwierząt podejrzanych o zarażenie się było uzależnione od wyników uprzednio przeprowadzonych badań rozpoznawczych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "37",
+   "path": "art_37",
+   "text": "Mięso zwierząt chorych na zarazę płucną dopuszcza się do obrotu dopiero po zbadaniu",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "przez lekarza weterynaryjnego i po zupełnem ostudzeniu; części nie nadające się do użytku ulegną zniszczeniu."
+    },
+    {
+     "type": "text",
+     "text": "Frt. 38. Szczepienia przeciw zarazie płucnej mogą być stosowane tylko za zezwoleniem Ministra Rolnictwa."
+    },
+    {
+     "type": "text",
+     "text": "Frt. 39. Wojewoda może określić i ogłosić pewne obszary jako okręgi zapowietrzone lub zagrożone zarazą płucną i w okręgach takich zarządzić zakaz lub ograniczenie obrotu zwierzętami, surowcami zwierzęcemi i przedmiotami, mogącemi roznosić"
+    },
+    {
+     "type": "text",
+     "text": "zarazę."
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_37/ust_3",
+     "text": "Pryszczyca.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 40. Gdy na obszarze dotąd wolnym od pryszczycy zajdą pojedyncze wypadki tej choroby, Minister Rolnictwa ma prawo zarządzić zabicie zwierząt chorych i podejrzanych, jeżeli przypuszczać można, iż przez to da się osiągnąć zupełne stłumienie zarazy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "41",
+   "path": "art_41",
+   "text": "Wojewoda może określić i ogłosić pewne obszary za okręgi zapowietrzone i zagrożone pryszczycą i w okręgach takich zarządzić zakaz lub ograniczenie obrotu zwierzętami, surowcami zwierzęcemi i przedmiotami, mogącemi roznosić zarazę. Starosta może zarządzić szczepienie zwierząt zagrożonych zarazą.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "42",
+   "path": "art_42",
+   "text": "Uzytkowanie niewyjałowionego w sposób przepisany mleka ze zwierząt chorych na pryszczycę, jak również wprowadzanie w obrót takiego mleka z zagród i pastwisk zapowietrzonych, jest wzbronione. ;",
+   "children": [
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_42/ust_4",
+     "text": "Wąglik, szelestnica oraz zaraza dziczyzny i bydła rogatego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "43",
+   "path": "art_43",
+   "text": "Zwierząt chorych oraz podejrzanych o wąglik, szelestnicę lub zarazę dziczyzny i bydła rogatego nie wolno poddawać ubojowi. Zwierzęta podejrzane o zarażenie się wolno poddawać ubojowi jedynie za zezwoleniem starosty.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Firt. 44. Szczepienia przeciw chorobom, wymienionym w art. 43, wolno wykonywać jedynie za uprzedniem zezwoleniem wojewody."
+    },
+    {
+     "type": "text",
+     "text": "Frt. 45. Operacje krwawe zwierząt chorych lub podejrzanych o choroby wymienione w art. 43 wolno wykonywać tylko lekarzom weterynaryjnym; zwłoki mogą być otwierane jedynie przez lekarza weterynaryjnego lub w jego obecności."
+    },
+    {
+     "type": "text",
+     "text": "Frt. 46. Zdejmowanie skór ze zwłok zwierząt, dotkniętych wąglikiem lub zarazą dziczyzny i bydła rogatego, jest zakazane. Starosta zarządzi w sposób wykluczający niebezpieczeństwo zarazy usunięcie zwłok takich wraz ze skórą, sierścią, włosami, rogami, kopytami i racicami. Przy szelestnicy zdejmowanie skór jest dozwo- „ lone z zachowaniem przepisanych środków ostrożności,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "47",
+   "path": "art_47",
+   "text": "Użytkowanie i wprowadzanie w obrót mleka oraz jego przetworów, pochodzących ze zwierząt chorych lub podejrzanych o chorobę wymienioną w art. 43, jest zakazane,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Ne 77."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "48",
+   "path": "art_48",
+   "text": "W razie wybuchu między zwierzyną wąglika, szelestnicy lub zarazy dziczyzny i bydła rogatego, przepisy art. 45 i 46 mają zastosowanie do zwłok zwierzyny.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_48/ust_5",
+     "text": "Gruźlica bydła rogatego w postaci otwartej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 49. Starosta winien zarządzić odosobnienie i oznakowanie zwierząt, u których urzędowo stwierdzono gruźlicę otwartą, lub podejrzenie o tę chorobę. Wojewoda może zarządzić zabicie takich zwierzat; w stosunku do zwierząt dotkniętych gruźlicą wymion należy bezwzględnie zabicie zarządzić."
+      },
+      {
+       "type": "text",
+       "text": "Frt. 50. Posiadacz zwierzęcia, dotkniętego gruźlicą otwartą lub podejrzanego o tę chorobę, może je poddać ubojowi po uprzedniem zawiadomieniu starosty. Zwierzę takie winno być zbadane przez państwowego lekarza weterynaryjnego po uboju."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "51",
+   "path": "art_51",
+   "text": "Mleko zwierząt chorych na otwartą gruźlicę wymion winno być natychmiast po udoju zniszczone; mleko zwierząt chorych na otwartą gruźlicę innych organów (jelit, płuc, macicy) może być dopuszczane do użycia jedynie po wyjałowieniu w sposób przepisany.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_51/ust_6",
+     "text": "Nosacizna.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "52",
+   "path": "art_52",
+   "text": "Starosta winien zarządzić:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_52/lit_a",
+     "text": "natychmiastowe zabicie zwierząt, u których nosacizna została urzędowo stwierdzona;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_52/lit_b",
+     "text": "odosobnienie i zamknięcie, jak również poddanie postępowaniu rozpoznawczemu zwierząt podejrzanych o chorobę;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_52/lit_c",
+     "text": "odosobnienie i poddanie postępowaniu rozpoznawczemu zwierząt podejrzanych o zara: żenię się, przyczem może zezwolić na użytkowanie takich zwierząt w granicach oznaczonego obszaru. Wojewoda winien zarządzić zabicie zwierzęcia podejrzanego o nosaciznę, jeżeli po zastosowaniu postępowania rozpoznawczego nie można uchylić podejrzenia. Minister Rolnictwa może zarządzić zabicie zwierząt podejrzanych o zarażenie się, jeżeli niezbędne jest spieszne stłumienie zarazy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "53",
+   "path": "art_53",
+   "text": "Poza wypadkami, w artykule poprzednim wymienionemi, stosowanie środków rozpoznawczych bez zezwolenia wojewody jest wzbronione.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 54. Zwierząt chorych na nosaciznę i podejrzanych o tę chorobę nie wolno poddawać ubojowi."
+    },
+    {
+     "type": "text",
+     "text": "Firt. 55. Zdejmowanie skór ze zwłok zwierząt, dotkniętych nosacizną, jest zakazane. Starosta zarządzi bezpieczne usunięcie takich zwłok."
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_53/ust_7",
+     "text": "Ospa owcza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "56",
+   "path": "art_56",
+   "text": "Po urzędowem stwierdzeniu ospy owczej starosta zarządzi niezwłoczne przeprowadzenie szczepienia wszystkich owiec, wolnych jeszcze od zarazy w zapowietrzonem stadzie. Starosta nie zarządzi szczepienia, jeżeli posiadacz w ciągu dziesięciu dni wszystkie owce danego stada podda ubojowi.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "W razie groźniejszego szerzenia się zarazy, lub niebezpieczeństwa jej rozniesienia, wojewoda może zarządzić szczepienie wszystkich owiec zagrożonych"
+    },
+    {
+     "type": "text",
+     "text": "zarazą. Szczepienia nie zarządzone przez władze mogą być wykonywane jedynie za uprzedniem zezwoleniem wojewody."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "57",
+   "path": "art_57",
+   "text": "Owce podejrzane wolno poddawać ubojowi tylko za zezwoleniem starosty i pod nadzorem państwowego lekarza weterynaryjnego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 58. Zdejmowanie skór ze zwłok zwierząt dotkniętych ospą jest zakazane. Starosta zarządzi bezpieczne usunięcie takich zwłok wraz ze skórą, wełną, racicami i rogami."
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_57/ust_8",
+     "text": "Zaraza stadnicza koni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "59",
+   "path": "art_59",
+   "text": "Koni dotkniętych zarazą stadniczą i podejrzanych nie wolno dopuszczać do stanowienia.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "60",
+   "path": "art_60",
+   "text": "Wojewoda zarządzi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_60/lit_a",
+     "text": "oznakowanie koni dotkniętych zarazą stadniczą;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_60/lit_b",
+     "text": "wytrzebienie ogierów, u których urzędowo stwierdzono zarazę stadniczą, co do których udowodniono, że od nich zaraziły się klacze, lub które stanowiły klacze chore na zarazę stadniczą. Minister Rolnictwa może zarządzić zabicie klaczy chorych i podejrzanych o chorobę, albo też w zamian zabicia może zarządzić wywłaszczenie tych zwierząt za odszkodowaniem, które co do sposobu ustalenia jego wysokości i wypłaty podlega przepisom rozporządzenia niniejszego o odszkodowaniu za zwierzęta zabite, natomiast nie podlega tym przepisom co do warunków przyznania lub odmowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "61",
+   "path": "art_61",
+   "text": "Po urzędowem stwierdzeniu zarazy stadniczej starosta może dopuszczanie koni do stanowienia w obrębie zagrożonego obszaru uzależnić od wyniku uprzedniego ich zbadania przez państwowego lekarza weterynaryjnego. W razie groźnego niebezpieczeństwa wojewoda może zarządzić zbadanie wszystkich w ogóle ogierów i klaczy na zagrożonym obszarze, oraz prowadzenie rejestracji stanowienia, jako też zakazać oprowadzania ogierów celem stanowienia.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_61/ust_9",
+     "text": "Otręt koni i bydła rogatego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "62",
+   "path": "art_62",
+   "text": "Konii bydła rogatego, dotkniętych otrętem i podejrzanych, nie wolno dopuszczać do stanowienia.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "art_62/ust_10",
+     "text": "Świerzb zwierząt jednokopytowych i owiec.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "63",
+   "path": "art_63",
+   "text": "Posiadacz zwierząt jednokopytowych i owiec, u których urzędowo stwierdzono świerzb, winien poddać je leczeniu przez lekarza weterynaryjnego. W razie niewykonania powyższego przepisu starosta zarządzi zamknięcie zwierząt w stajni (owczarni).",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "64",
+   "path": "art_64",
+   "text": "Skóry zwierząt dotkniętych świerzbem wolno dopuszczać do obrotu po zastosowaniu przepisanych środków ostrożności.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "art_64/ust_11",
+     "text": "Wścieklizna.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "65",
+   "path": "art_65",
+   "text": "Osoba władająca zwierzęciem chórem lub podejrzanem o wściekliznę winna zupełnie odosobnić je od ludzi i zwierząt. Władza gminna, otrzymawszy wiadomość o wałęsaniu się psa wściekłego lub podejrzanego o wściekliznę, winna postarać się o bezzwłoczne jego zabicie lub schwytanie, a w razie niemożności uskutecznienia tego, zawiadomić sąsiednie władze gminne i najbliższy posterunek policji.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 66. Starosta nakaże natychmiast zabić zwierzęta, u których urzędowo stwierdzono wściekliznę, jak również podejrzane o wściekliznę psy i koty. Jednakowoż jeżeli zwierzę podejrzane o wściekliznę skaleczyło człowieka, starosta winien wedle możności zarządzić zamknięcie zwierzęcia i jego obserwację."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "67",
+   "path": "art_67",
+   "text": "Za podejrzane o zarażenie się należy uważać zwierzęta, które zetknęły się ze zwierzęciem chórem lub podejrzanem o wściekliznę, a psy i koty nawet wówczas, gdy można tylko przypuszczać, że się zetknęły z takiem zwierzęciem. Podejrzane o zarażenie się psy i koty starosta nakaże natychmiast zabić, inne zaś zwierzęta poddać obserwacji. Wyjątkowo starosta może zezwolić na zamknięcie i obserwację psa podejrzanego o zarażenie się.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "68",
+   "path": "art_68",
+   "text": "Nie wolno poddawać ubojowi zwierząt dotkniętych wścieklizną i podejrzanych o tę chorobę. Użytkowanie i wprowadzanie w obrót mleka z takich zwierząt i jego przetworów jest zakazane.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "69",
+   "path": "art_69",
+   "text": "Starosta zarządzi usu: izcie zwłok wraz ze skórą, sierścią, włosami, rogami, kopytami i racicami zwierząt dotkniętych wścieklizną lub podejrzanych o tę chorobę. Zarządzenie to należy wykonać w sposób wykluczający niebezpieczeństwo zarazy. Otwieranie zwłok zwierząt chorych i podejrzanych może się odbywać jedynie w obecności państwowego lekarza weterynaryjnego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "70",
+   "path": "art_70",
+   "text": "Jeżeli stwierdzono urzędowo, że pies chory na wściekliznę, względnie podejrzany o wściekliznę, biegał swobodnie, starosta winien dla ściśle określonego przez siebie obszaru zarządzić trzymanie psów na uwięzi, lub prowadzenie na smyczy zaopatrzonych w bezpieczne kagańce, jako też zakazać swobodnego puszczania kotów. Starosta może czynić wyjątki od powyższych zarządzeń, gdy chodzi o psy myśliwskie, policyjne i pociągowe. W razie nieprzestrzegania zarządzeń, przewidzianych w artykule niniejszym, starosta może zarządzić niezwłoczne zabicie zwierzęcia. Wojewoda może zarządzić rejestrację i znakowanie psów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "71",
+   "path": "art_71",
+   "text": "Na obszarze, o którym mowa w art. 70, jak również w razie pojawienia się wścieklizny u zwierzyny, starosta może zarządzić obławy.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "art_71/ust_12",
+     "text": "Pomór i zaraza Świń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "72",
+   "path": "art_72",
+   "text": "Wojewoda może zarządzić zabicie świń dotkniętych pomorem lub zarazą, tudzież podejrzanych, jeżeli przypuszczać należy, że w ten sposób da się osiągnąć zupełnie stłumienie zarazy.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Szczepienia mogą być przedsiębrane tylko za zezwoleniem wojewody."
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "art_72/ust_13",
+     "text": "Różyca świń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "73",
+   "path": "art_73",
+   "text": "W razie wybuchu różyc” świń starosta może zarządzić szczepienie świń churych, podejrzanych i zagrożonych.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "art_73/ust_14",
+     "text": "Cholera drobiu i pomór kur.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "74",
+   "path": "art_74",
+   "text": "Wojewoda może zarządzić zabicie drobiu dotkniętego zarazą i podejrzanego, jeżeli przypuszczać należy, iż w ten sposób da się osiągnąć rychłe i całkowite stłumienie zarazy.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział V",
+   "text": "Odszkodowania i zapomogi."
+  },
+  {
+   "type": "text",
+   "text": "Frt. 75. Odszkodowanie od Państwa należy się \"za zwierzęta zabite na zarządzenie władz państwowych w wykonaniu rozporządzenia niniejszego lub padłe wskutek szczepienia, trzebienia i innych zabiegów, przewidzianych w rozporządzeniu niniejszem, a wykonanych na zarządzenie władz państwowych, jak również za zwierzęta wywłaszczone (art. 60)."
+  },
+  {
+   "type": "art",
+   "num": "76",
+   "path": "art_76",
+   "text": "Zapomogi należy wypłacać za zwierzęta, co do których urzędowo stwierdzono (art. 23 i 24), że padły na księgosusz, zarazę płucną, otwartą gruźlicę, pryszczycę byała rogatego, z wyjątkiem cieląt do trzech miesięcy, nosaciznę, zara ę stadniczą, wściekliznę zwierząt jednokopytowych, bydła rogatego, świń, owiec i kóz oraz na pomór i zarazę świń z wyjątkiem osesków, o ile śmierć zwierzęcia nastąpiła po uczynieniu zadość obowiązkowi zgłoszenia (art. 20), jak również za zwierzęta jednokopytowe, bydło rogate, owce i kozy, u których po śmierci stwierdzono urzędowo wąglik, szelestnicę, lub zarazę dziczyzny i bydła rogatego.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "77",
+   "path": "art_77",
+   "text": "Odszkodowanie lub zapomoga za zwierzęta zabite lub padłe nie należy się w wypadkach \" następujących:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_77/lit_a",
+     "text": "jeżeli posiadacz, nabywając zwierzęta, wiedział, iż są dotknięte chorobą zarazliwa lub podejrzane;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_77/lit_b",
+     "text": "za psy i koty zabite na zarządzenie władz;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_77/lit_c",
+     "text": "za zwierzęta spędzone do rzeźni i na targowiska rzeźne;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_77/lit_d",
+     "text": "w razie niespełnienia w ciągu 24 godzin obowiązku zgłoszenia wybuchu zarazy lub jej podejrzenia (art. 20), albo też zaniedbania obowiązków z art. 21;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_77/lit_e",
+     "text": "w razie niestosowania się do innych przepisów rozporządzenia niniejszego, tudzież zarządzeń szczególnych, mających na celu zwalczanie danej zarazy;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_77/lit_f",
+     "text": "za zwierzęta stanowiące własność Państwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "78",
+   "path": "art_78",
+   "text": "Odszkodowanie lub zapomoga za zwierzęta zabite lub padłe nie należy się również:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_78/lit_a",
+     "text": "za zwierzęta sprowadzone z zagranicy wbrew obowiązującym przepisom;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_78/lit_b",
+     "text": "za zwierzęta, które padły lub zostały zabite z powodu choroby wywołanej niedozwolonem sprowadzeniem z zagranicy innego uwie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ne 77,"
+      },
+      {
+       "type": "text",
+       "text": "rzęcia lub przedmiotu, o ile zwierzęta należą do winnego posiadacza lub osób współwinnych;"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_78/lit_c",
+     "text": "za zwierzęta sprowadzone z zagraricy choćby w sposób legalny, o iła stwierdzone zostanie, że u zwierząt tych zaraza wybuchła przed upływem terminu przez Ministra Rolnictwa dla poszczególnych chorób ustanowionego. Odszkodowanie lub zapomoga należeć się jednak może, jeżeli dostarczono dowodu, że zarażenie nastąpiło dopiero po sprowadzeniu zwierzęcia. Jeżeli posiadacz przed sprowadzaniem wiedział o chorobie lub podejrzeniu, odszkodowanie lub zapomoga nie należy sic także za inne zwierzęta tego samego posiadacza, padłe lub zabite w związku z przyniesieniem zarazy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 79. Odszkodowanie wynosi pełną wartość szacunkową zwierzęcia:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_78/lit_a",
+     "text": "za zwierzęta z wyjątkiem ryb, zabite na zarządzenie władzy, jeżeli na podstawie wyniku sekcji stwierdzono, że są wolne od zarazy, z powodu której wypłaca się odszkodowanie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_78/lit_b",
+     "text": "za zwierzęta zabite z powodu księgosuszu i pryszczycy;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_78/lit_c",
+     "text": "za zwierzęta padłe wskutek szczepienia, trzebienia i innych zabiegów zarządzonych przez władze. -",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "80",
+   "path": "art_80",
+   "text": "Za zwierzęta zabite na zarządzenie władzy odszkodowanie wynosi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_80/lit_a",
+     "text": "cztery piąte wartości szacunkowej, gdy zwie: rzęta były dotknięte zarazą płucną, otwartą gruźlicą, zarazą stadniczą;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_80/lit_b",
+     "text": "trzy czwarte wartości szacunkowej, gdy zwierzęta były dotknięte nosacizną, wścieklizną, pomorem i zarazą świń, cholera drobiu i pomorem kur.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 81. Za ryby, zabite na zarządzenie władzy, należy się posiadaczowi połowa różnicy wartości tych ryb w stanie żywym i śniętym, określonej zgodnie z art. 84 do 87."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "82",
+   "path": "art_82",
+   "text": "Zapomoga wynosi trzy czwarte wartości szacunkowej zwierzęcia padłego na księgosusz, zarazę płucną, otwartą gruźlicę, pryszczycę, nosaciznę, zarazę stadniczą, wściekliznę, pomór i zarazę świń, wąglik, szelestnicę lub zarazę dziczyzny i bydła rogatego, o ile istnieją waruuki przewidziane w art, 76.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "83",
+   "path": "art_83",
+   "text": "W wypadkach, w których należy się odszkodowanie lub zapomoga, zwierzęta zabite lub padłe albo części tych zwierząt pozostawia się posiadaczowi, o ile zwierzęta te lub ich części uznane będą przez państwowego lekarza weterynaryjnego za nadające się do użytku. Wartość tych zwierząt, względnie ich części, określa się wedug przepisów art. 84 do 87 rozporządzenia niniejszego i potrąca z ustalonego odszkodowania lub zapomogi. Starosta może za zgodą posiadacza zwierzęcia nie pozostawiać mu zwierząt podlegających zabiciu; w tym wypadku posiadacz otrzyma należne odszkodowanie lub zapomogę w całości.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "84",
+   "path": "art_84",
+   "text": "Wartość szacunkową zwierzęcia lub zbiorowiska zwierząt (pszczoły, ryby, raki) stanowi średnia z trzech kwot oszacowania przez trzech ocenicieli, a mianowicie: dwóch biegłych i państwowego lekarza weterynaryjnego. Biegłych w ilości potrzebnej dla całego powiatu wybiera wydział powiatowy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Sposób wyznaczania biegłych zaprzysiężonych, jak również całe postępowanie szacunkowe określi Minister Rolnictwa” w porozumieniu z Ministrem Spraw Wewnętrznych."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "85",
+   "path": "art_85",
+   "text": "Za podstawę oszacowania należy brać wartość targową zwierzęcia lub zbiorowiska zwierząt, uwzględniając przytem odznaczające je zalety hodowlane i osobliwą użyteczność gospodarczą. Nie należy uwzględniać zmniejszenia się wartości wskutek szczepienia zarządzonego przez władze lub wskutek zarazy, którą zwierzęta są dotknięte, wyjąwszy gruzlice,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "86",
+   "path": "art_86",
+   "text": "Oszacowanie winno być przez każdego z ocenicieli dokonane osobno, o ile możności przed zabiciem; z oszacowania należy spisać protokół. Oszacowanie jest obowiązujące i nie ulega zmianie z wyjątkiem wypadku naruszenia przepisów, dotyczących powoływania biegłych i sposobu postępowania (art. 84).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 87. Jeżeli według okoliczności ustalonych przez państwowego lekarza weterynaryjnego (art. 23) odszkodowanie lub zapomoga, należne posiadaczowi, nie mają przewyższać stu złotych, może być zastosowane uproszczone postępowanie szacunkowe, którego tryb określi Minister Rolnictwa w porozumieniu z Ministrem Spraw Wewnętrznych."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "88",
+   "path": "art_88",
+   "text": "Przyznanie należnego odszkodowania lub zapomogi i zarządzenie wypłaty należy do wojewody. Odszkodowanie lub zapomoga wypłaca się właścicielowi zwierzęcia, a o ile ten nie jest znany, faktycznemu posiadaczowi. Odszkodowanie lub zapomoga nie podlega zajęciu na pokrycie należności publicznych albo prywatnych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "89",
+   "path": "art_89",
+   "text": "Z chwilą dokonania wypłaty gasną pretensje z czyjejkolwiek strony do Państwa z tytułu odszkodowania względnie zapomogi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Osoby uprawnione do otrzymania odszkodowania lub zapomogi niezadowolone z decyzji wojewody (art. 88) mogą w terminie jednego miesiąca od daty doręczenia im decyzji wojewody wytoczyć przed właściwym sądem powództwo o odszkodowanie, względnie zapomogę."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "90",
+   "path": "art_90",
+   "text": "Świadczenia Państwa wymienione w rozdziale niniejszym wyczerpują wszelkie odszkodowania i zapomogi z tytułu wykonania rozporządzenia niniejszego i żadne pozatem roszczenia do Państwa interesowanym nie służą.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 91. Posiadaczom zwierząt, którzy ścisłem stosowaniem się do zarządzeń władz przyczynili się do rychłego stłumienia zarazy i ponieśli przytem dotkliwe straty gospodarcze, a w myśl rozporządzenia niniejszego nie mają tytułu do odszkodowania lub zapomogi, Minister Rolnictwa może według swego uznania przyznać stosowną nagrodę."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VI",
+   "text": "Koszty."
+  },
+  {
+   "type": "art",
+   "num": "92",
+   "path": "art_92",
+   "text": "Państwo ponosi koszty połączone z urzędowahiem władz administracyjnych i organów lekarsko - weterynaryjnych w zakresie wykrywania, stwierdzania i tłumienia zaraźliwych chorób zwierzęcych, jako też koszty odszkodowań, zapomóg i nagród, przyznawanych na podstawie przepisów rozporządzenia niniejszego. W szczególności Państwo pokrywa koszty:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_92/lit_a",
+     "text": "strzeżenia granicy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_92/lit_b",
+     "text": "odkażania na granicy osób i ich rzeczy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_92/lit_c",
+     "text": "użycia siły zbrojnej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_92/lit_d",
+     "text": "oszacowania,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_92/lit_e",
+     "text": "szczepienia i znakowania zarządzonego przez władze, z wyjątkiem znakowania psów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "93",
+   "path": "art_93",
+   "text": "Gminy ponoszą koszty stosowania ogólnych środków ochronnych i nadzoru w obrębie gminy, jako też koszty usuwania i niszczenia zwłok i odpadków, w sposób zapobiegający niebezpieczeństwu rozszerzenia zarazy. W szczególności gminy wykonywają na swój koszt:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_93/lit_a",
+     "text": "strzeżenie i obserwowanie zwierząt dotkniętych zarazą, podejrzanych i wrażliwych na daną zarazę; — zabijanie zwierząt chorych i podejrzanych b",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "w wypadkach wyraźnie przewidzianych w rozporządzeniu niniejszem lub w rozporządzeniach na jego podstawie wydanych, z wyjąt- ° kiem uboju;"
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_93/lit_c",
+     "text": "oczyszczanie, odkażanie, niszczenie i usuwanie, w sposób wykluczający niebezpieczeństwo zarazy, zwłok zwierzęcych, części ich nie nadających się do użycia, wytworów i odpadków;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_93/lit_d",
+     "text": "ogłaszanie na obszarze gminy o wybuchu i wygaśnięciu zarazy;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_93/lit_e",
+     "text": "udzielanie pomocy organom państwowym przy dokonywaniu sekcji, szczepień i pobieraniu próbek na zarządzenie władzy;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_93/lit_f",
+     "text": "ustawianie kordonu cywilnego przy księgo-",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "suszu; ."
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_93/lit_g",
+     "text": "zabijanie względnie chwytanie z powodu wścieklizny wałęsających się psów, oraz zawiadamianie o tem sąsiednich gmin i policji;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "art_93/lit_h",
+     "text": "dokonywanie obław na zarządzenie starosty w wypadkach wścieklizny zwierzyny;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "art_93/lit_i",
+     "text": "rejestrację psów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "94",
+   "path": "art_94",
+   "text": "Przedsiębiorcy zakładów i urządzeń wymienionych w artykułach 16 — 19, jako też trudniący się handlem, przewozem i przepędem zwierząt, ponoszą koszty nadzoru i badania weterynaryjnego zwierząt i produktów zwierzęcych, jako też koszty zarządzeń - władz, odnoszących się specjalnie do tych zakładów i urządzeń.",
+   "children": [
+    {
+     "type": "text",
+     "text": "W szczególności osoby te ponoszą koszty:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_94/lit_a",
+     "text": "oczyszczania i odkażania własnych ramp i miejsc tymczasowego postoju na stacjach",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "kolejowych i przystaniach wodnych oraz środków używanych do przewozu zwierząt lub ich wytworów, tudzież narzędzi i przedmiotów używanych przy załadowaniu i wyładowaniu;"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_94/lit_b",
+     "text": "zaopatrywania rzeźni i targowisk (miejsc spędu zwierząt) w urządzenia zabezpieczające należyte wykonywanie nadzoru weterynaryjnego, jak również oczyszczanie i odkażanie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_94/lit_c",
+     "text": "odosobnienia targowisk (miejsc spędu) zwierząt użytkowych i hodowlanych od rzeźni i targowisk zwierząt rzeźnych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_94/lit_d",
+     "text": "zaopatrywania stajen zajezdnych i przedsiębiorstw handlu zwierzętami w urządzenia, umożliwiające oczyszczanie i odkażanie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_94/lit_e",
+     "text": "zaopatrywania grzebowisk, rakarni, zakładów utylizacyjnych, garbarni i innych przedsię: biorstw przerobu zwłok zwierzęcych i surowców w urządzenia zabezpieczające od roznoszenia zaraźliwych chorób zwierzęcych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_94/lit_f",
+     "text": "badania zwierząt na granicy oraz na stacjach kolejowych i przystaniach wodnych. Za przedsiębiorców w rozumieniu artykułu niniejszego uważać należy zarówno prywatne osoby fizyczne i prawne, jak i gminy oraz inne związki publiczno-prawne, nie wyłączając Państwa i jego przedsiębiorstw.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "95",
+   "path": "art_95",
+   "text": "Wszelkie koszty nie przypadające w myśl art. 92 do 94 do pokrycia przez Państwo, gminy i przedsiębiorców obciążają posiadaczy zwierząt, a w razie ich stwierdzonej niezamożności, właściwe gminy. Koszty, przypadające na gminy, mogą być w całości lub w części przejęte przez powiatowe związki komunalne, albo przez specjalne związki celowe samorządów.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "96",
+   "path": "art_96",
+   "text": "Wszelkie należności z tytułu kosztów, obciążających przedsiębiorców i posiadaczy, ściągane będą na zarządzenie starosty w drodze egzekucji administracyjnej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "97",
+   "path": "art_97",
+   "text": "Minister Rolnictwa ustali w drodze",
+   "children": [
+    {
+     "type": "text",
+     "text": "rozporządzeń:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_97/lit_a",
+     "text": "wysokość wynagrodzeriia ocenicieli;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_97/lit_b",
+     "text": "taryfę opłat z tytułu badania zwierząt na granicy oraz na stacjach kolejowych i przystaniach wodnych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_97/lit_c",
+     "text": "wysokość kosztów nadzoru weterynaryjnego nad przedsiębiorstwami, wymienionemi w art. art. 17 e), f) i 19 oraz kontroli państwowej przewidzianej w art. 18.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VIL",
+   "text": "Postanowienia karne."
+  },
+  {
+   "type": "art",
+   "num": "98",
+   "path": "art_98",
+   "text": "Kto naruszy jeden z przepisów, zawartych w art. art. 18, 20, 21, 31 ustęp ostatni, 37, 38, 42, 43 do 48, 50, 51, 53, 54, 55 ustęp pierwszy, 56 ustęp ostatni, 57, 58 ustęp pierwszy, 59, 62, 63 ustęp pierwszy, 64, 65 ustęp pierwszy, 68, 69 ustęp ostatni, 72 ustęp drugi, albo rozporządzenie lub zarządzenie, wydane na podstawie rozporządzenia niniejszego, będzie karany aresztem do sześciu tygodni lub grzywną do tysiąca złotych. Kary aresztu i grzywny mogą być wymierzane łącznie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Jeżeli czynu dopuszczono się z niedbalstwa, należy wymierzyć karę grzywny."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "99",
+   "path": "art_99",
+   "text": "Kto umyślnie przyczyni się do wybuchu lub rozszerzenia zaraźliwej choroby zwierzęcej lub udaremnia umyślnie tłumienie zarazy będzie karany więzieniem do lat trzech, obok którego może być orzeczona kara grzywny do pięciu tysięcy złotych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Jeżeli czyn wywołał niebezpieczeństwo powszechnej klęski gospodarczej, winny ulegnie karze więzienia do lat pięciu, obok której może być orzeczona kara grzywny do dziesięciu tysięcy złotych,"
+    },
+    {
+     "type": "text",
+     "text": "Frt. 100. Kto popełni czyn wymieniony w artykule poprzednim z niedbalstwa będzie karany aresztem do sześciu tygodni lub grzywną do dwóch tysięcy zł. Obie te kary można wymierzyć łącznie, W razie następstwa przewidzianego w ust. 2 artykułu poprzedniego winny będzie karany więzieniem do sześciu miesięcy, obok którego może być orzeczoną kara grzywny do trzech tysięcy złotych."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "101",
+   "path": "art_101",
+   "text": "Winny sprowadzenia z zagranicy wbrew przepisom rozporządzenia niniejszego, lub rozporządzeń na jego podstawie wydanych, zwierząt, zwłok, części zwierząt oraz wytworów zwierzęcych, jak również surowiec i szczepionek oraz preparatów do rozpoznania zerazliwych chorób zwierzęcych oraz innych przedmiotów, mogących być rozsadnikami zarazy—będzie karany aresztem do sześciu tygodni, lub grzywną do dwóch tysięcy złotych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "102",
+   "path": "art_102",
+   "text": "Równocześnie ze skazaniem za przestępstwo, przewidziane w artykule poprzednim, należy orzec konfiskatę przedmiotów w tymże artykule wymienionych. Konfiskatę orzec należy, choćby ściganie karne z jakichkolwiek powodów było niewykonalne, albo też wydano wyrok uniewinniający. Orzeczenie o konfiskacie nie połączone z wyrokiem, wydaje sąd właściwy do orzekania o przestępstwie; orzeczenie to może być zaskarżone.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 103. Rzeczy, ulegające konfiskacie, może władza administracyjna tymczasowo zająć i, o ile nie mają być one w myśl obowiązujących przepisów zniszczone, może je z ważnych powodów sprzedać w drodze przetargu publicznego. Za ważne powody należy w szczególności uznać niebezpieczeństwo psucia się rzeczy i koszty ich utrzymania zbyt znaczne w stosunku do ich wartości."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "104",
+   "path": "art_104",
+   "text": "Współwina (podżeganie i pomoc) w przestępstwach określonych w rozporządzeniu niniejszem, tudzież usiłowanie jest karalne.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "105",
+   "path": "art_105",
+   "text": "Postanowienia karne rozporządzenia niniejszego nie wykluczają ukarania w myśl surowszych przepisów innych ustaw karnych, w razie naruszenia ich czynem w rozdziale niniejszym przewidzianym.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "106",
+   "path": "art_106",
+   "text": "Orzecznictwo w sprawach o przestępstwa z art. 98 należy do starostów. W orzeczeniu należy oznaczyć na wypadek nieściągalności grzywny karę zastępczego aresztu w wysokości nieprzekraczającej dwóch tygodni. W sprawach o wszelkie inne w rozporządzeniu niniejszem przewidziane przestępstwa właściwe są sądy.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Firt. 107. Ukarany orzeczeniem starosty może w ciągu siedmiu dni od dnia doręczenia orzeczenia wnieść do starosty żądanie przekazania sprawy właściwemu sądowi powiatowemu (pokoju), który rozstrzyga, jako pierwsza instancja. Wyrok sądu okręgowego wydany w drugiej instancji nie ulega zaskarżeniu. Na obszarze mocy obowiązującej niemieckiej ustawy postępowania karnego z 1877 r. stosuje się przepisy o wydawaniu policyjnych mandatów karnych."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "108",
+   "path": "art_108",
+   "text": "Na obszarze mocy obowiązującej austrjackiej ustawy karnej z 1852 f. obowiązują na* stępujące postanowienia:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_108/lit_a",
+     "text": "zamiast więzienia orzeka się ścisły areszt;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_108/lit_b",
+     "text": "czyny, zagrożone aresztem, są wykroczeniami, ścisłym aresztem—występkami;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_108/lit_c",
+     "text": "odwołanie można wnieść niezależnie od postanowień paragrafu 283 p. k.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VIII",
+   "text": "Postanowienia końcowe."
+  },
+  {
+   "type": "text",
+   "text": "Frt. 109. Minister Rolnictwa może w drodze rozporządzeń rozciągać przepisy rozporządzenia niniejszego na zaraźliwe choroby zwierzęce, w rozporządzeniu tem niewymienione oraz określać sposób ich zwalczania zapomocą środków, w rozporządzeniu niniejszem przewidzianych."
+  },
+  {
+   "type": "art",
+   "num": "110",
+   "path": "art_110",
+   "text": "Przeznaczone na odszkodowania fundusze i sumy, które z mocy pruskiej ustawy wykonawczej z dnia 25 lipca 1911 r. (Zb. Ost. pr. str. 149) do ustawy z dnia 26 czerwca 1909 r. o zaraźliwych chorobach zwierząt domowych (Dz. Ust. Rzeszy niem. str. 519) związki samorządowe na obszarze województw: pomorskiego, poznańskiego i górnośląskiej części województwa śląskiego posiadać będą w dniu uzyskania mocy obowiązującej przez rozporządzenie niniejsze, z dniem tym przejdą na własność Państwa.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 111. Odwołania od zarządzeń i orzeczeń władzy administracyjnej, wydanych na podstawie przepisów rozporządzenia niniejszego i rozporządzeń na jego podstawie wydanych, nie wstrzymują wykonania. Postanowienie artykułu niniejszego nie stosuje się do orzeczeń karnych."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "112",
+   "path": "art_112",
+   "text": "Wykonanie rozporządzenia niniejszego powierza się Ministrowi Rolnictwa, co zaś do orzecznictwa karnego — Ministrowi Sprawiedliwości i Ministrowi Spraw Wewnętrznych; w sprawach, do- „tyczących zakresu działania Ministra Spraw Wewnętrznych, Minister Rolnictwa działać będzie w porozumieniu z Ministrem Spraw Wewnętrznych. Rozporządzenia wykonawcze dotyczące zakresu działania innych ministrów wydawane będą w porozumieniu z zainteresowanymi ministrami.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Firt. 113. Rozporządzenie niniejsze uzyskuje moc obowiązującą na całym obszarze Rzeczypospolitej Polskiej z dniem 1 stycznia 1928 r. Z chwilą tą tracą moc obowiązującą wszystkie przepisy w przedmiocie objętym rozporządzeniem niniejszem, a w szczególności:"
+    },
+    {
+     "type": "text",
+     "text": "Art. art. 1090 — 1175 ustawy lekarskiej, wyd. 1905 r. (zb. pr. ces. ros. tom XIII) z wyjątkiem przepisów art. 1108 p. 12 art. 1125 i art. 1144, o ile przepisy te dotyczą przedmiotów rozporządzeniem niniejszem nieobjętych. Ustawa z dn. 20 lutego 1880 r. o zapobieganiu księgosuszowi i jego tępieniu (austr. dz. u. p. Ne 37) w brzmieniu zmienionem ustawą z dnia 6 sierpnia 1909 r. (austr. dz. u. p. Ne 180). Ustawa z dnia 17 sierpnia 1892 r. o zapobieganiu zarazie płucnej rogacizny i o tępieniu tej zarazy (austr. dz. u. p. Ne 142) w brzmieniu zmienionem ustawą z dn. 6 sierpnia 1909 r. (austr. dz. u. p. Ne 182). Ustawa z dnia 6 sierpnia 1909 r. o zapobieganiu zaraźliwym chorobom zwierzęcym i ich tępieniu z wys jatkiem § 13 tej ustawy (austr. dz. u. p. Ne 177). Ustawa weterynaryjna z dn. 24/31 marca 1888 r. (art. VII Zb. u. król. węg. z 1888 r.). Ustawa z dnia 7 kwietnia 1869 r. o środkach przeciw księgosuszowi (Dz. (st. Rzeszy niem. str. 105). Ustawa z dnia 21 maja 1878 r. o naruszeniach zakazów wwozu, wydanych celem ochrony od księgosuszu (Dz. (st. Rzeszy niem. str. 95). Ustawa z dnia 26 czerwca 1909 r. o zaraźliwych chorobach zwierząt domowych (Dz. st. Rzeszy niem. str. 519). Pruska ustawa wykonawcza z dn. 25 lipca 1911 r. do ustawy o zaraźliwych chorobach zwierząt domo\" wych (Zb. Ust. pr. str. 149). Ustawa z dn. 11 grudnia 1924 r. w przedmiocie środków ochrónnych przeciw zarazie stadniczej u koni (Dz. O. R. P. Ne 118, poz. 1064). W art. 243 kodeksu karnego z 1903 r. skreśla się słowa: „o wypadkach chorób zakaźnych lub epizootij wśród zwierząt domowych”, w art. 245 wp. 1 skreśla się słowa: „zwierząt domowych”, a § 328 kodeksu karnego z r. 1871 uchyla się."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej: I. Mościcki"
+  },
+  {
+   "type": "text",
+   "text": "Prezes Rady Ministrów i Minister Spraw Wojskowych: J. Piłsudski Minister: K. Bartel"
+  },
+  {
+   "type": "text",
+   "text": "Minister Spraw Wewnętrznych: Sławoj Składkowski"
+  },
+  {
+   "type": "text",
+   "text": "Minister Spraw Zagranicznych: August Zaleski Minister Skarbu: G. Czechowicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: A. Meysztowicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Wyznań Religijnych i Oświecenia Publicznego: Dr. Dobrucki"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa: K. Niezabytowski"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: E. Kwiatkowski"
+  },
+  {
+   "type": "text",
+   "text": "Minister Komunikacji: Romocki"
+  },
+  {
+   "type": "text",
+   "text": "Minister Robót Publicznych: Moraczewski"
+  },
+  {
+   "type": "text",
+   "text": "Pracy i Opieki Społecznej: Dr. Jurkiewicz"
+  },
+  {
+   "type": "text",
+   "text": "Minister"
+  },
+  {
+   "type": "text",
+   "text": "Reform Rolnych: Witołd Staniewicz"
+  },
+  {
+   "type": "text",
+   "text": "Minister"
+  },
+  {
+   "type": "text",
+   "text": "Minister Poczt i Telegrafów: Bogusław Miedziński"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

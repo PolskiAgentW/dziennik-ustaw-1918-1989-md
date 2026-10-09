@@ -1,0 +1,97 @@
+{
+ "eli": "DU/1922/353",
+ "title": "Rozporządzenie Ministra Zdrowia Publicznego z dnia 15 marca 1922 r. w przedmiocie utworzenia Izb Lekarskich.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1922/353/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Zdrowia Publicznego"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 marca 1922 r."
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie utworzenia lzb Lekarskich."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art.: 2, 10, 46 i 48 ustawy z dnia 2 grudnia 1921 r. o ustroju i zakresie działania Izb lekarskich (Dz. U. R.P. Ne 105 poz. 763) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Na obszarze Rzeczypospoliiej Polskiej tworzy się tymczasowo następujące lzby Lekarskie: 1; Izba Lekarska m. stół. Warszawy z siedzibą w Warszawie, obejmująca obszar m. stół, Warszawy.",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "lzba Lekarska warszawsko-białostocka, z siedzibą w Warszawie, obejmująca obszary województw: warszawskiego i białostockiego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "lzba Lekarska łódzka, z siedzibą w Łodzi, obejmująca obszar województwa łódzkiego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "Izba Lekarska krakowska, z siedzibą w krakowie, obejmujaca obszar województw: krakowskiego i kieleckiego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "Izba Lekarska poznańsko-pomorska, z siedzibą w Poznaniu, obejmująca obszary województw: poznańskiego i pomorskiego,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "Izba Lekarska lwowska, z siedzibą we Lwowie, obejmująca obszary województw: lwowskiego, tarnopolskiego i stanisławowskiego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "Izba Lekarska lubelska, z siedzibą w Lublinie, obejmująca obszary województw: lubelskiego, wołyńskiego i poleskiego. Co do przynależności obszaru województwa nowogródzkiego, do jednej z Izb Lekarskich, wydane będzie osobne rozporządzenie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Sposób przeprowadzenia pierwszych wyborów do Rad lzb Lekarskich unormowany będzie osobnemarozporządzeniem.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Zdrowia Publicznego: Chodźko"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

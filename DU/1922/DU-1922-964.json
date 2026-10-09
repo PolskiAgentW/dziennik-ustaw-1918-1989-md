@@ -1,0 +1,63 @@
+{
+ "eli": "DU/1922/964",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych z dnia 25 listopada 1922 r. o podwyżce taryfy osobowej i bagażowej na linjach towarzystwa akcyjnego warszawskich dróg żelaznych dojazdowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1922/964/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Kolei Żelaznych z dnia 25 listopada 1922 r. o podwyżce taryfy osobowej I bagażowej na linjach towarzystwa akcyjnego warszawskich dróg żelaznych dojazdowych."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy dekretu z dnia 7 lutego 1919 r. o tymczasowem przekazaniu Ministrowi Komunikacji prawa wydawania przepisów o przewozie osób, bagażu i towarów, oraz ustalania taryf przewozowych na kolejach polskich (Dz. P. P. P. Na 14, poz. 152) i w porozumieniu z Ministrami Skarbu oraz Przemysłu i Handlu zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Na kolejach dojazdowych towarzystwa akcyjnego warszawskich dróg żelażnych dojazdowych podwyższa się taryfę osobową jak następuje:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "na linji grójeckiej: do = mk. w klasie Ill od osoby i kilometra",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "na linji wilanowskiej: do 60 mk. w klasie Ill od osoby I kilometra LL 90 LL) \" LL) iid \" [LJ 5 oraz wszystkie inne opłaty za przewóz osób w tym samym stosunku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Opłaty za przewóz bagażu na wymienionych linjach podwyższa się do 6.75 mk. za 10 kg. i kilometr, oraz w tym samym stosunku inne opłaty związane z przewozem bagażu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życle z dniem 1 grudnia 1922 r. Jednocześnie traci moc obowiązującą rozporządzenie Ministra Kolei Żelaznych z dnia 21 października 1922 r. (Dz. U. R.P. Ne 92, poz. 856). Minister Kolei Żelaznych: Ludwik Zagórny-Marynowski Minister Skarbu: Jastrzębski Kierownik Ministerstwa Przemysłu i Handlu: Henryk Strasburger",
+   "children": [
+    {
+     "type": "text",
+     "text": "Ne 104,"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

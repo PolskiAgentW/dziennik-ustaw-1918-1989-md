@@ -1,0 +1,44 @@
+{
+ "eli": "DU/1921/123",
+ "title": "Dekret w przedmiocie uchylenia dekretu, poddającego koleje żelazne mocy ustaw wojennych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/123/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET w przedmiocie uchylenia dekretu, poddającego koleje żelazne mocy ustaw wojennych."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Dekret z dnia 23 lutego 1921 r. o poddaniu kolei żelaznych mocy ustaw wojennych na podstawie art. 6 ustawy z 27 marca 1920r., Dz. Ust. N2 27 poz. 160, — uchyla się.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie dekretu niniejszego powierza się Ministrowi Spraw Wojskowych w porozumieniu z Ministrem Kolei Żelaznych i Ministrem Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret niniejszy wchodzi w życie dnia 5 marca 1921 r. o godzinie 14-ej. Warszawa, dnia 4 marca 192! roku. Naczelnik Państwa: J. Piłsudski Prezydent Ministrów: Witos",
+   "children": [
+    {
+     "type": "text",
+     "text": "Tłoczono w Drukarni Państwowej z polecenia Ministra Sprawiedliwości. 13099 P. Cena 1 mk."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

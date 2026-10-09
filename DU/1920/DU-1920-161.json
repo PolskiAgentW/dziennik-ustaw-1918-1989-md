@@ -1,0 +1,71 @@
+{
+ "eli": "DU/1920/161",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych w sprawie podwyższenia niektórych opłat dodatkowych przewidzianych w \"Tymczasowej Taryfie dla Okręgów Warszawskiego i Radomskiego\" na całym terenie jej zastosowania.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/161/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Kolei Żelaznych"
+  },
+  {
+   "type": "text",
+   "text": "w sprawie podwyższenia niektórych opłat dodatkowych przewidzianych w „Tymczasowej Taryfie Towarowej dla Okręgów Warszawskiego i Radomskiego\" na całym terenie jej zastosowania."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy dekretu z dnia 7 lutego 1919 r. (Dziennik Praw Ne 14, poz. 152), konstytucyjnie zatwierdzonego w dniu 7 kwietnia 1919 r. (Monitor Polski Ne 82) i w porozumieniu z Ministerstwami Skarbu oraz Przemysłu i Handlu zarządzam co następuje: Tymczasowa Taryfa Towarowa na przewóz towarów, zwierząt żywych zwłok kolejami państwowemi Okręgów Warszawskiego i Radomskiego, obowiązująca od dnia 1 listopada 1919 r. aż do odwołania. Część II, Dział C-II. Wykaz norm opłat dodatkowych (str. 32). Z dniem 1 kwietnia 1920 r. opłaty dodatkowe przewidziane w ustępach 2, 4, 8 i 11 powyższego wykazu podwyższają się jak poniżej: W ustępie drugim, opłata za ważenie punkty a) i b) skreślić i na ich miejsce wpisać:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "za ważenie na wadze magazynowej za każde 100 kg. mk. 0,60,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "za ważenie na wadze wozowej (pomostowej) od wozu. mk. 4. W ustępie czwartym, należność dotychczasowa za załadowanie, wyładowanie i przeładowanie skreślić, a natomiast wpisać: za załadowanie mk. 1,20, za wyładowanie mk. 0,80, za przeładowanie mk. 2. W ustępie 8. Składowe: punkty a)-i b) skreślić i w ich miejsce wpisać: :",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "za przechowanie przesyłek na rampach, placach składowych it. p. za każde rozpoczęte 100 kg. i każdy rozpoczęty dzień po upływie terminu wolnego od składowego mk.* 0,50,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "za przechowanie przesyłek w składach krytych za 100 kg. i każdy dzień mk. 1. W ustępie 11. Opłata za dezynfekcję. Punkty a), b) i c) skreślić a w ich miejsce wpisać: : A zą dezynfekcję wagonu o jednej podłodze pobiera się mk. 20,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "za dezynfekcję wagonu o dwuch lub więcej podłogach mk. 30.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Warszawa, dnia 18 marca 1920 r. Minister Kolei Żelaznych: w z. f. Eberhard!"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,93 @@
+{
+ "eli": "DU/1921/792",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych z dnia 20 grudnia 1921 r. o sposobie obliczania opłat za przewóz bagażu i przesyłek nadzwyczajnych na wąskotorowych kolejach państwowych okręgu dyrekcji kolei państwowych w Radomiu.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/792/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "dowy, stacja, przyjmująca wagon z powrotem, pobiera postojowe w wysokości 20 mk. za każdą rozpoczętą godzinę czasu dziennego po upływie terminu wolnego od postojowego i za jeden wagon;"
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "w razie uszkodzenia wagonu podczas czynności ładunkowych, wysokość odszkodowania winna być określona i pobrana dodatkowo od osoby, która wagon zamówiła,-na stacji Kutno lub Płock;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "10",
+   "path": "pkt_10",
+   "text": "jeżeli uszkodzenie wagonu nastąpi na miejscu naładunku lub wyładunku na linji i wagon wysłany być nie może, to wysokość odszkodowania określa naczelnik odnośnego oddziału dyrekcji budowy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 15 stycznia 1922 roku. oan , Minister Kolei Żelaznych: Sikorski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Michalski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Przemysłu i Handlu: w z. flenryk Strasburger"
+    },
+    {
+     "type": "ust",
+     "num": "192",
+     "path": "par_2/ust_192",
+     "text": "Rozporządzenie Ministra Kolei Żelaznych z dnia 20 grudnia 1921 r. o sposobie obliczania opłat za przewóz bagażu i przesyłek nadzwyczajnych na wąskotorowych kolejach państwowych okręgu dyrekcji kolei państwowych w Radomiu. Na mocy dekretu z dnia 7 lutego 1919 r. o tymczasowem przekazaniu Ministrowi komunikacji prawa wydawania przepisów o przewozie osób, bagażu i towarów, oraz ustalania taryf przewozowych na kolejach polskich (Dz. P. P. P. 1919 r. Ne 14, poz. 152) i w porozumieniu z Ministrami Skarbu oraz Przemysłu i Handlu, zarządza się co następuje:",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Nawąskotorowych kolejach państwowych okręgu dyrekcji kolei państwowych w Radomiu zaprowadza się w następujący sposób obliczania opłat za przewóz bagażu i przesyłek nadzwyczajnych: Przewoźne oblicza się od każdych 10 klm.",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "za bagaż: od każdej sztuki wagi do 50 kg. — 60 mk., wagi zaś ponad 50 do 100 kg. — 120 mk.,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "ib",
+     "path": "par_1/lit_ib",
+     "text": "za przesyłki nadzwyczajne od każdej sztuki wagi do 50 kg.— 120 mk., wagi zaś ponad 50 do 100 kg. — 240 mk.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze obowiązuje od 1 stycznia 1922 r. Minister Kolei Żelaznych: Sikorski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Michalski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Przemysłu i Handlu: w z. Henryk Strasburger"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,53 @@
+{
+ "eli": "DU/1925/636",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 3 września 1925 r. o ustaleniu opłaty skarbowej od spirytusu wyprodukowanego wewnątrz Państwa tudzież przywożonego z zagranicy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1925/636/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "_ Rozporządzenie Ministra Skarbu \"z dnia 3 września 1925 r. o ustaleniu opłaty skarbowej od spirytusu wyprodukowanego wewnątrz Państwa tudzież przywożonego z zagranicy. _ Na mocy art. 99, 21, 22i 30 ustawy o monopolu spirytusowym z dnia 31 lipca 1924 r. (Dz. U. R. P. No 78, poz. 756) w brzmieniu art. 9 i 10 ustawy z dnia 20 lipca 1925 r. (Dz. U. R. P. Ne 85, poz. 580) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Opłatę skarbową łącznie z udziałem związków komunalnych i samorządu wojewódzkiego od jednego hektolitra spirytusu 100°/o ustala się w wysokości:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "od spirytusu wyrobionego w kraju",
+     "children": [
+      {
+       "type": "text",
+       "text": ". 430 zł."
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "od spirytusu i przetworów spirytusowych, przywożonych z zagranicy oraz .z obszarów, na które ustawa o: mono- : ° polu spirytusowym się nie rozciąga . 670 zł. * 8 2. Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia z „mocą obowiązującą od 1 września 1925 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: W. Grabski"
+  },
+  {
+   "type": "text",
+   "text": "Warszawa. Tłoczono w Druk Spe Państwowej z polecenia Ministra Sprawiedliwości. 29968 P - Cena 80 gt. Konto czekowe Pocztowej Kasy Oszczędności Ne 30130."
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

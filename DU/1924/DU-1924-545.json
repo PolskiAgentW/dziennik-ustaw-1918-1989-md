@@ -1,0 +1,795 @@
+{
+ "eli": "DU/1924/545",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 czerwca 1924 r. o Pocztowej Kasie Oszczędności.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1924/545/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Prezydenta Rzeczypospolitej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 czerwca 1924 r."
+  },
+  {
+   "type": "text",
+   "text": "o Pocztowej Kasie Oszczędności."
+  },
+  {
+   "type": "text",
+   "text": "Na zasadzie art. 1 p. 7 i art. 2 ustawy z dnia 11 stycznia 1924 roku o naprawie Skarbu i reformie walutowej (Dz. U. R. P. Ne 4 poz. 28) oraz zgodnie Z uchwałą Rady Ministrów z dnia 23 czerwca 1924 zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pocztowa Kasa Oszczędności (w skróceniu P. K. O.) jest instytucją państwową, uposażoną w osobowość prawną, oraz ma prawo de odrębnego zastępstwa sądowego, posiada własny majątek i uży: wa w pieczęci swej godła państwowego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Siedzibą P. K. O. jest m. st. Warszawa. W miarę potrzeby P. K. O. może zakładać i zwijać swoje oddziały za zgodą Ministra Skarbu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zadaniem P. K. O. jest:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "przyjmowanie wkładów oszczędnościowych na ‘oprocentowanie, j",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "przekazowy obrót czekowy (przekazy, przelewy i akredytywy), krajowe i zagraniczne,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_3/lit_c",
+     "text": "wykonywanie zleceń członków obrotu P. K.O. (klijentów) w przedmiocie zakupu, sprzedaży i przechowywania papierów wartościowych o stałym oprocentowaniu i dywidendowych, tych ostatnich—notowanych na polskich giełdach pieniężnych oraz walut i dewiz zagranicznych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_3/lit_d",
+     "text": "wykonywanie zleceń członków obrotu P. K. O. (klijentów) w zakresie inkasa weksli, frachtów i innych należności,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_3/lit_e",
+     "text": "wynajmowanie skrytek (safes),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_3/lit_f",
+     "text": "zakup i sprzedaż na rachunek własny papierów wartościowych, państwowych, komunalnych, przez Państwo gwarantowanych, oraz pa-",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz. 544 i 545."
+      },
+      {
+       "type": "text",
+       "text": "pierów hipotecznych, zabezpieczonych w pierwszej połowie wartości nieruchomości wiejskich i miejskich,"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "par_3/lit_g",
+     "text": "współdziałanie przy emisji pożyczek państwowych i komunalnych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "par_3/lit_h",
+     "text": "udzielanie pożyczek krótkoterminowych w myśl",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "P. K. O. może nabywać nowe nieruchomości w następujących wypadkach:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_4/lit_a",
+     "text": "o ile są potrzebne dla pomieszczenia biur, . zakładów pomocniczych lub mieszkań pracowników P. K. O,,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_4/lit_b",
+     "text": "o ile chodzi o pokrycie i zabezpieczenie należności wątpliwych lub niezapłaconych w terminie—w tym celu P. K. O. może także nabywać wierzytelności hipoteczne i inne prawa",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "rzeczowe."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Fundusze zbierane przez P. K. O. dzielą się na:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_4/lit_a",
+     "text": "kapitały obrotu oszczędnościowego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_4/lit_b",
+     "text": "kapitały obrotu czekowego. Kapitały obrotu oszczędnościowego po zabezpieczeniu odpowiedniej gotówki na pokrycie bieżącego zapotrzebowania P. K. O. lokuje w papierach wymienionych w p. f) § 3. Kapitały zaś obrotu czekowego lokuje P. K.O,, po zabezpieczeniu odpowiedniej płynności gotówki, * częściowo w sposób przewidziany w poprzednim ustępie niniejszego artykułu, częściowo zaś w postaci pożyczek krótkoterminowych, płatnych w przeciągu sześciu miesięcy, z prawem prolongaty na dalsze trzy miesiące. Pożyczki winne być udzielane na cele publiczne, na zasilenie funduszów obrotowych kas oszczędności i spółdzielni kredytowych oraz na cele gospodarcze, przyczem szczególnie uwzględnia się gwarancje w formie papierów wymienionych w p. f) § 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Władze P. K. O. stanowią:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_5/lit_a",
+     "text": "Prezes P. K. O. i",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_5/lit_b",
+     "text": "Rada Zawiadowcza.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Prezesa P. K. O. mianuje Prezydent Rzeczypospolitej na zasadzie uchwały Rady Ministrów, powziętej na wniosek Ministra Skarbu, wobec którego Prezes P. K. O. ponosi odpowiedzialność za działalność P. K. O. Prezesa zastępuje w razie potrzeby Wice-Prezes, który przejmuje wszystkie jego prawa i obowiązki. Wice-Prezesa mianuje Prezydent Rzeczypospolitej na wniosek Ministra Skarbu, przedstawiony w myśl uchwały Rady Zawiadowczej przez Prezesa P. K. O.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rada Zawiadowcza składa się:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_7/lit_a",
+     "text": "z Prezesa P. K. O. — jako Przewodniczącego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_7/lit_b",
+     "text": "z dwóch członków z wyboru Sejmu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_7/lit_c",
+     "text": "z czterech delegatów rządowych, mianowanych przez Ministra Skarbu, dwóch z nich mianuje on w porozumieniu z Ministrem Przemysłu i Handiu, z których jednego z ramienia Generalnej Dyrekcji Poczt i Telegrafów. Członkowie Rady Zawiadowczej pobierają za udział w posiedzeniach wynagrodzenie z funduszów",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "P. K. O. w wysokości ustalanej przez Radę Ministrów na wniosek Ministra Skarbu."
+      },
+      {
+       "type": "text",
+       "text": "§ 8 Do Prezesa P. K. O. należy:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_7/lit_a",
+     "text": "przewodnictwo w Radzie Zawiadowczej z prawem zgłaszania sprzeciwu oraz czuwanie nad wykonaniem jej uchwał; sprzeciw Prezesa P. K. O. wstrzymuje wykonanie uchwał Rady Zawiadowczej aż do rozstrzygnięcia sprawy przez Ministra Skarbu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_7/lit_b",
+     "text": "organizacja i ogólne kierownictwo sprawami P. O. reprezentowanie jej na zewnątrz i zastępstwo przed władzami administracyjnemi i sądowemi,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_7/lit_c",
+     "text": "wydatkowanie w ramach zatwierdzonego przez Radę Zawiadowczą budżetu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_7/lit_d",
+     "text": "przyjmowanie, zwalnianie i awansowanie personelu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_7/lit_e",
+     "text": "składanie Radzie Zawiadowczej wniosków w przedmiotach zastrzeżonych jej kompetencji rozporządzeniem niniejszem,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_7/lit_f",
+     "text": "układanie rocznych sprawozdań z działalności P. K. O. i składanie ich Ministrowi Skarbu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Do Rady Zawiadowczej należy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_9/lit_a",
+     "text": "kontrola całej gospodarki P. K. O., ewentualnie i przez powołanych do tego rzeczoznawców,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_9/lit_b",
+     "text": "uchwalanie regulaminu dla Rady Zawiadowczej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_9/lit_c",
+     "text": "zatwierdzanie budżetu oraz sprawozdania rocznego i bilansu P. K. O.,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_9/lit_d",
+     "text": "postanowienia o nabywaniu, zamianie lub sprzedaży majątku nieruchomego, o budowie nowych gmachów, oraz obciążaniu nieruchomości P. K. O., przyczem te uchwały wymagają zatwierdzenia Ministra Skarbu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_9/lit_e",
+     "text": "wnioski w sprawie otwierania i zwijania Oddziałów P. K. O. do zatwierdzenia Ministra Skarbu i określanie zakresu ich kompetencji,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_9/lit_f",
+     "text": "postanowienia w sprawie mianowania Viceprezesa P. K. O. zgodnie z § 6 (ust. 2) oraz na wniosek prezesa P. K, O., Generalnego Sekretarza, Dyrektorów administracyjnego i technicznego oraz Dyrektorów Oddziałów, — oznaczanie wysokości wkładki uczestnictwa 9 w obrotach czekowym i oszczędnościowym, stopy procentowej w. obrotach czekowym i oszczędnościowym, oznaczanie najniższej i najwyższej kwoty wkładkowej, dopuszczalnej w obrocie oszczędnościowym i oznaczanie wysokości dorażnych wypłat uczestnikom P. K. O. przez zbiornice P. K. O. wreszcie stopy procentowej od udzielanych pożyczek oraz opłat wszelkich pobieranych przez P. K. O.,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "par_9/lit_h",
+     "text": "decyzje w przedmiocie udziału P. K. O. w emisjach pożyczek państwowych i komunalnych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "par_9/lit_i",
+     "text": "uchwalanie kredytów zgodnie z§3p.h.)i§4 oraz uchwalanie wniosków -w sprawie zakupu i sprzedaży na rachunek własny papierów wartościowych (§ 3 p. f.), wreszcie regulowanie sprawy ewentualnej oceny weksli, frachtów i innych należności przyjmowanych do inkasa (§ 3 p. d.), >",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "j",
+     "path": "par_9/lit_j",
+     "text": "zatwierdzanie umów z instytucjami finensowemi zagranicznemi w przedmiocie obrotu przekazowego, inkasa i innych zleceń bankowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rada Zawiadowcza odbywa posiedzenia w miarę potrzeby, conajmniej raz na miesiąc. Po- „siedzenia zwołuje i na nich przewodniczy Prezes, a w razie jego nieobecności—Wiceprezes P. K. O. Na żądanie trzech członków Rady Prezes obowiązany jest zwołać posiedzenie. Do ważności uchwał Rady Zawiadowczej koniecznią jest obecność przynajmniej czterech członków, w tej liczbie przewodniczącego. Uchwały zapadają zwykłą większością głosów. W razie równości głosów rostrzyga głos przewodniczącego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Rządowym organem kontroli dla P. K.O.' jest Komisja Rewizyjna w składzie pięciu członków i dwóch zastępców, mianowanych przez Ministra Skarbu. Komisja Rewizyjna wybiera przewodniczącego ze swego grona. : Członkowie Komisji Rewizyjnej pobierają za swe czynności wynagrodzenie z funduszów P.K. O. w wysokości oznaczonej przez Ministra Skarbu na wniosek Rady Zawiadowczej P. K. O.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Do Komisji Rewizyjnej należy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_12/lit_a",
+     "text": "badanie legalności zarządzeń władz P. K. O. i jej organów wykonawczych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_12/lit_b",
+     "text": "sprawdzanie rachunków księgowości, stanu gotówki, depozytów, walorów, inwentarza P. KO. t Bb,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_12/lit_c",
+     "text": "sprawdzanie bilansu rocznego. Komisja Rewizyjna składa sprawozdanie ze swych czynności Ministrowi Skarbu oraz Prezesowi P. K. O. dla przedłożenia Radzie Zawiadowczej. Komisja Rewizyjna odbywa swe posiedzenia conajmniej raz w miesiącu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Personel P. K. O. z wyjątkiem Prezesa i Wiceprezesa, którzy sq urzędnikami państwowymi stanowi odrębny etat pracowników, wynagradzanych z funduszów P.K. O. Pobory służbowe i uposażenia emerytalne Prezesa i Wiceprezesa obciążają P. K. O. Stosunek służbowy pracowników P.K.O. ustali rozporządzenie Rady Ministrów z uwzględnieniem zasady, że pracownicy stali P. K. O. winni mieć zapewnione prawa emerytalne nie w miejszej mierze, jak funkcjonarjusze państwowi oraz bez uszczerbku ‘nabytych dotychczasową służbą praw — przez stworzenie kasy emerytalnej, o ile możności wspólnej z innemi przedsiębiorstwami państwowemi. Z dniem wejścia w życie niniejszego rozporządzenia winien uledz rozwiązaniu stosunek służbowy urzędników oraz niższych funkcjonarjuszów P. K.O. z zastosowaniem odpowiednich przepisów o państwowej służbie cywilnej i ustawy o zaopatrzeniu emerytalnem funkcjonarjuszów państwowych i zawodowych wojskowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Zbiornicami P.K.O. są wszystkie urzędy i agencje pocztowe Rzeczypospolitej Polskiej na warunkach, przewidzianych w ustawie o poczcie, telegrafie i telefonie, a nadto inne urzędy, nie wyko: nujące czynności pocztowych, które zostaną oznaczonę",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "me PRESJA eee EPPO"
+    },
+    {
+     "type": "text",
+     "text": "na wniosek Rady Zawiadowczej P. K. O., na podstawie porozumienia Ministra Skarbu z właściwym Ministrem, któremu dany urząd podlega. Rozporządzenia i przepisy organizacyjne w przedmiocie czynności tych urzędów, jako Zbiernic P. K. O. wydaje właściwy Minister w porozumieniu z Ministrem Skarbu na wniosek Prezesa P.K.O. Sporne w tym przedmiocie kwestje rozstrzyga Rada Ministrów."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Każda osoba (fizyczna lub prawna) może składać oszczędności w P.K. O. na oprocentowanie. Małoletni może mieć otwarte konto oszczędnościowe i podejmować wypłaty o ile przeciw temu nie podniesie zastrzeżenia jego ustawowy zastępca. „Książeczkę wkładkową wystawia się na nazwisko składającego lub osoby przezeń wskazanej. Książeczka ta winna zawierać podpis składającego, jeżeli zaś składający nie umie pisać, to zamiast niego móże ja podpisać osoba godna zaufania, znana Zbiornicy P.K.O.",
+   "children": [
+    {
+     "type": "text",
+     "text": "O ile książeczka wystawiona jest na nazwisko innej osoby, a nie tej, która wkłada pieniądze, uważa się za składającego, a nie osobę, na której nazwisko opiewa książeczka, za uprawnionego do podejmowania wkładek."
+    },
+    {
+     "type": "text",
+     "text": "Jedna osoba może posiadać tylko jedną książeczkę wkładkową. Gdyby się okazało, że ma więcej niż jedną, to P. K. O. może od wkładek złożonych na później wystawione książeczki nie wypłacić odsetek, przyczem odpadnie przywilej, określony w poprzednim ustępie."
+    },
+    {
+     "type": "text",
+     "text": "Na nazwisko zmyślone, przydomki, na kilka nazwisk razem nie wolno wystawiać książeczek. _ Ole suma, złożona na książeczkę P. K. O. przekracza maksymalną kwotę określoną przez Radę Zawiadowczą, to nadwyżka nie podlega oprocentowaniu."
+    },
+    {
+     "type": "text",
+     "text": "Zmiana własności książeczki o ile nie następuje ona w drodze dziedziczenia lub darowizny, na wypadek śmierci, może być uskutecznioną po edpowiednim wylegitymowaniu się obydwu stron przed Zbiornicą P. K. O. Sumy złożone na książeczki oszczędnościowe P. K. O. wolne są od zajęcia (sekwestru) do wysokości dwóch tysięcy pięciuset zł. 'W razie zaginięcia książeczki wkładkowej P.K.O. umarza ją przez obwieszczenie w dzienniku urzędowym. Obwieszczenie o tym winno być nadto wywieszone w gmachu P.K.O. i w tej zbiornicy, która wystawila zaginioną książeczkę. Po upływie jednego miesiąca od dnia wydania powyższego obwieszczenia, a ileby nie odnalazła się książeczka właściciel może żądać wydania nowej książeczki."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Książeczki P. K. O. maga być przyjmowane jako kaucje i wadja licytacyjne i służyć do lokowania funduszów osób małoletnich i pozostających pod kuratelą.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "W sprawach: przedawnienia sum, złożonych na książeczkach P. K. O., stosują się ogólne normy prawne, przyczem normy co do kapitału stosują się także i do procentów. Sumy przedawnione przepadają na rzecz Skarbu Państwa.",
+   "children": [
+    {
+     "type": "text",
+     "text": "a z za aan. w"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Każda osoba (fizyczna lub prawna), posiadająca zdolności do działań prawnych może posiadać w P. K.O. konto czekowe za oprocentowaniem. Warunki obrotu czekowego ustala Radą Zawiadowcza na wniosek Prezesa P.K.O. O zmianie tych warunków P.K.O. obowiązaną jest ogłaszać na dni czternaście z góry.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Minister Skarbu określi, które władze i instytucie państwowe i samorządowe mają być uczestnikami obrotu czekowego. «*",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Pokwitowania P. K. O. z ódbioru pieniędzy wystawione przez nią bezpośrednio lub przez kasy i zbiornice P.K. O. z jej upoważnienia, jakoteż pokwitowania, dostarczone przez P. K. O. uczestnikom jej obrotu czekowego z wypłat dokonanych na ich rachunek, mają moc bezspornego dokumęntu praw-",
+   "children": [
+    {
+     "type": "text",
+     "text": "nego."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Wszelkie dokumenty w obrotach P. K, O. wystawione przez uczestników P.K. O. w z akrasie ich stosunku do niej, oraz wszelkie dokumenty, rachunki i wykazy, sporządzane przez P. K. O. są wolne od opłat stemplowych. Procenty od wkładów oszczędnościowych P.K. O. wolne są od podatku od kapitałów i rent oraz od podatku dochodowego. P. K.O. jest wolną od osobistych podatków państwowych i komunalnych i od podatku przemysło-",
+   "children": [
+    {
+     "type": "text",
+     "text": "wego."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "W wypadkach, w których żądane jest złożenie kaucji, poświadczenie P. K. O., że kwota kaucyjna na cały czas kaucyjnego zobowiązania znajduje się u niej w nietykalnym depozycie, muszą być przyjmowane narówni z kaucją, złożoną w gotówce lub papierach. Wykreślenie dłużnych wpisów hipotecznych, za: pisanych na rzecz P. K. O., względnie na rzecz P.K.O. oraz banków gwarantujących zwrot P. K. O. kredytów, może być dokonywane na mocy dokumentów wystawianych w tym celu przez P. K. O., a wyrażających zgodę P. K. O. na wykreślenie wpisów wskutek jednostronnego żądania osób zainteresowanych. Egzekucje należności z tytułu kredytu przyzna nego przez P.K.O. odbywają się trybem przewidzianym dla egzekucji bezspornych należności skarbowych. ‘",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Z corocznie wykazanego czystego zysku P. K. O. tworzy się fundusz zapasowy tak długo, dopóki tenże nie osiągnie 10°/o ogólnej sumy wszystkich kont czekowych i oszczędnościowych. Fundusz ten służy wyłącznie na pokrywanie ewentualnych strat P. K. O. i winien być lokowany w papierach państwowych, a odsetki stąd powstałe. będą do funduszu dopisywane tak długo, dopóki tenże nie osiągnie wyżej oznaczonej wysokości. Z tą chwilą cały zysk P. K. O. wraz z odsetkami z funduszu zapasowego przelewany będzie corocznie do Skarbu Państwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Szczegółowy zakres działania P.K.O. okrę- Ślą. specjalny statut, stanowiący integralną część niniejszego rozporządzenia, ogłoszony jako jego załącznika",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem jego ogłoszenia, a równocześnie traci moc obowiązującą ustawa z dnia 19 maja 1920 roku (Dz. G. R. P. Ne 48, poz. 297).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Wykonanie niniejszego rozporządzenia powierza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej: 5. Wojciechowski"
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów i Minister Skarbu: W. Grabski"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do rozp. Prezydenta Rzeczypospolitej z dnia 27 czerwca 1924 r.. o Pocztowej Kasie Oszczędności poz. 545."
+  },
+  {
+   "type": "text",
+   "text": "STATUT POCZTOWEJ KASY OSZCZĘDNOŚCI"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "i"
+  },
+  {
+   "type": "text",
+   "text": "Rodzaje interesów P. K. O."
+  },
+  {
+   "type": "text",
+   "text": "Interesy załatwiane przez P.K.O. dzielą się na:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "obrót oszczędnościowy,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "obrót czekowy (krajowy i zagraniczny),",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "obrót papierami wartościowymi, inkaso weksli, frachtów i innych należności, kupno i sprzedaż dewiz i walut zagranicznych,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "d",
+   "path": "lit_d",
+   "text": "udzielanie pożyczek,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "e",
+   "path": "lit_e",
+   "text": "wynajem kasetek (safesów).",
+   "children": [
+    {
+     "type": "text",
+     "text": "A. Obrót oszczędnościowy."
+    },
+    {
+     "type": "text",
+     "text": "Właściciel oszczędności otrzymuje książeczkę _ oszczędnościową zaopatrzoną w numer jednaki z numerem konta oszczędnościowego, które mu otwiera PE O."
+    },
+    {
+     "type": "text",
+     "text": "P. K. O. przyjmuje także wkłady/oszczędnościowe, warunkowe, ze specjalnem przeznaczeniem. Tryb przyjmowania tego rodzaju wkładów ustala Rada Zawiądowcza."
+    },
+    {
+     "type": "text",
+     "text": "Rozporządzanie oszczędnościami ze specjalnym przeznaczeniem (warunkowem) zostaje określone dyspozycją wydaną przy wpłacaniu wkładów, składający jednak nie może zastrzec sobie prawa rozporządzenia wkładem na imię osoby trzeciej."
+    },
+    {
+     "type": "text",
+     "text": "Wyjątek stanowią wkłady warunkowe na .pogrzeb, które mogą być za życia właściciela wycofane przeżeń częściowo lub całkowicie, natomiast po jego śmierci mogą być one użyte tylko na pogrzeb składającego."
+    },
+    {
+     "type": "text",
+     "text": "Wkłady na pogizeb po śmierci właściciela książeczki zostają wydane natychmiast osobie, która przedstawi urzędowy akt zejścia oraz zaświadczenie władzy administracyjnej, że dana osoba rzeczywiście zajmie się lub już się zająła bogrzebem właściciela tego wkładu. Wkłady oszczędnościowe są oprocentowane. Odsetki narosłe od kapitałów złożonych na książeczkach oszczędnościowych «lopisywane będą do nich w końcu roku operacyjnego i od tej chwili oprocentowane łącznie z kapitałem."
+    },
+    {
+     "type": "text",
+     "text": "4 tee ee m z a ła"
+    },
+    {
+     "type": "text",
+     "text": "Wszelkie wpłaty i wypłaty na książeczkę oszczędnościową mogą być uskuteczniane w każdej Zbiornicy P. K. O. Właściciel książeczki może w każdym czasie osobiścia lub przez osobę upelnomocniona wycofać częściowo lub całkowicie swoje oszczędności z P. K. O. Kwotę nie przewyższającą maksimum doraźnych wy: płat określonego przez Radę Zawiadowczą, o ile kwota ta nie stanowi całkowitego stanu oszczędności, można podjąć doraźnie (natychmiast) w dowolnej Zbiornicy P. K. O., większe zaś kwoty lub całkowite wycofanie oszczędności nawet wtedy, gdy one nie wynoszą owego maksirnum, należy wypowiedzieć przez Centralę P. K. O."
+    },
+    {
+     "type": "text",
+     "text": "Prawo własności do książeczki oszcządności można sprzędać lub odstąpić, lecz pod warunkiem, że akt ten odbyć się musi w P.K.O. lub Zbiornicy P. K. O. w obecności urzędnika i osób zainteresowanych. O dokonanej tranzakcji Zbiornica P. K. O. obo: wiązaną jest zawiadomić natychmiast P. K.O. W razie zeginięcia książeczki oszczędnościowej P. K. ©. umarza ją przez obwieszczenie. Obwieszczenie to winno być nadto umieszczone w P. K. O. oraz w tej zbiornicy, która daną książeczkę wydała. Gdyby po upływie jednego miesiąca od dnia wydania obwieszczenia o zaginięciu książeczki oszczędnościowej książeczka się nie odnałazła, właściciel może dowolnie rozporządzać stanem książeczki oszczędności lub żądać wydania nowej."
+    },
+    {
+     "type": "text",
+     "text": "B. Obrót czekowy."
+    },
+    {
+     "type": "text",
+     "text": "Jedna osoba może posiadać oprócz konta zwy: czajnego kilka lub więcej kont specjalnych. P. K.O. ma prawo bez podania motywów nie przyjąć zgłoszenia do obrotu czekowego lub zamknąć konto już istniejące. Właściciel konta czekowego może w każdej chwili za pomocą dowolnej liczby czeków podejmować, przekazywać lub przeiewać na innego konta P. K.O. kwoty do wysokości posiadanego na koncie czekowym salda, z wyjątkiem wkładki zawiązkowej „| kwoty na potrącenie prowizji potrzebnej. Wkładką zawiązkową rozporządzać może właś» ciciel konta dopiero po wystąpieniu z obrotu czekowego. z Fundusze, złożone na poszczególne konta, nią podlegają co do wysokości żadnemu ograniczeniu i są oprocentowane. Wysokość oprocentowania określa Rada Zawia* dowcza. Oprocentowaniu podlegają kwoty, które leżały na koncie przez pełnych dni 15, a mianowicię od 1-go do 16-go lub od 16-go do końca każdego miesiąca. Odsetki od kapitałów zapisywane będą do nich z końcem roku operacyjnego i od tej chwili podlegają oprocentowaniu łącznie z kapitałem. . Uskuteczniaé wpłaty na konto czekowe może nietylko właściciel danego konta czekowego, lecz również każda inna osoba. z, Za załatwianie czynności, związane z obrotem czekowym P.K.O. pobiera ed uczestników prowizję i opłatę manipulacyjną, których wysokość określa Rada Zawiadowcza."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Radzie Zawiadowczej przysługuje prawo zwalniania poszczególnych uczestników obrotu czekowego od opłaty manipulacyjnej i prowizji. Uczestnicy obrotu czekowego mogą korzystać z listów kredytowych (akredytyw), uprawniających: ich do podejmowania gotówki bezpośrednio w każdej Zbiornicy P.K.O. Obrót czekowy zagraniczny dokonywany będzie na podstawie specjalnych każdorazowo zatwierdzanych przez Ministra Skarbu umów zawieranych przez P.K.O. z instytucjami finansowemi zagranicznemi."
+    },
+    {
+     "type": "text",
+     "text": "C. Obrót papierami wartościowemi."
+    },
+    {
+     "type": "text",
+     "text": "Uczestnikami tego obrotu mogą być tylko właściciele kont czekowych, albo posiadacze książeczek oszczędnościowych, P.K.O. Każda z wymienionych osób może żądać od P.K.O., aby zakupiła lub przechowyweta dla niej albo też sprzedawała na jej rachunek wszelkiego rodzaju papiery wartościowe. Za wykonanie tego rodzaju zleceń P.K.O. pobiera prowizję, której wysokość ustala Rada Zawiadowcza."
+    },
+    {
+     "type": "text",
+     "text": "Depozyt, po którego odbiór nie zgłasza się właściciel w ciągu lat 30-tu, ani też nie podejmował przez cały ten okres czesu równowartości za płatne kupony uważa się za przedawniony i przepada na rzecz. P.K.O. P.K.O. uskutecznia zakup i sprzedaż papierów państwowych, komunalnych i z bezpieczeństwem pupilarnem, jak również i dywidendowym. Zakup i sprzedaż papierów na rachunek własny odbywa się za upoważnieniem Rady Zawiadowczej. P.K.O. uskutecznia na zlecenia swych klijentów inkaso weksli, frachtów i innych należności, za co pobiera prowizję w wysokości ustalonej przez Radę Zawiadowczą. P.K.O. załatwia zakup i sprzedaż walut i dewiz zagranicznych na zlecenie klijentów."
+    },
+    {
+     "type": "text",
+     "text": "D. Udzielanie Pożyczek."
+    },
+    {
+     "type": "text",
+     "text": "P.K.O. wydaje pożyczki i otwiera kredyty do wysokości każdorazowo określonej przez Rade Zawiadowczą pod zastaw:"
+    }
+   ]
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "papierów procentowych i akcji,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "walut i dewiz obcych,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "weksli z terminem płatności do 6-ciu miesięcy,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "d",
+   "path": "lit_d",
+   "text": "za kaucją hipoteczną. Stopę procentową od udzielanych pożyczek astala Rada Zawiadowcza. Pożyczek powyższych udziela P.K.O0. na termin najwyżej 6-ciu miesięcy. Zastaw papierów wartościowych, walut i dewiz obcych odbywa się za pomocą prostego wręczenia tych zastawów P.K.O. przy równoczesnej deklaracji, podpisanej przez ich właścicieli z tem, że, w razie nie zapłacenia pożyczki w terminie, P.K.O. ma prawo sprzedaży tych zastawów bez odwoływania się do Sądu i bez stawiania dłużnika w zwioce. Ze swej strony P.K.O. wydaje dłużnikowi kwit zastawowy w kwicie tym powinno być ściśle oznaczone, jakie walory są zastawione i na jakich warunkach została przyznaną pożyczka. W razie nie za:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Ne 55."
+    },
+    {
+     "type": "text",
+     "text": "płacenia przez dłużnika pożyczki, zabezpieczonej zastawem P.K.O. wysyła pod jego adresem zawiadomienie o siedmiodniowym terminie zwłoki, w ciągu którego zamiast procentu może być pobierana kara. Po upływie tego terminu nie wykupiony zastaw ulega sprzedaży. Złożone dla zabezpieczenia P.K.O. walory nie mogą podlegać aresztowi ani sekwestrowi za żadne prywatne ani skarbowe należności dopóki nie będzie zapłacona cała wydana na nie pożyczka wraz z przypadającemi procentami."
+    },
+    {
+     "type": "text",
+     "text": "E. Wynajem Kasetek."
+    },
+    {
+     "type": "text",
+     "text": "_P.K.O. wynajmuje znajdujące się w jej Skarbcu zarówno w Centrali, jak Oddziałach kasetki (safesy). Warunki wynajmu kasetek określa Rada Zawiadowcza. 5"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 11",
+   "text": "Przepisy wspólne dla obrotu oszczędnościowego, czekowego i papierami wartościawemi."
+  },
+  {
+   "type": "text",
+   "text": "Jeżeli przez lat 30 nie dokonano na koncie czekowym lub oszczędnościowym ani jednego dopisu lub odpisu, prócz corocznego dopisywania procentów wkładka jako przedawnióna, wraz z narosłemi procentami przypada na rzecz P.K.O. P.K.O. zapewnia swoim uczestnikom bezwzględną tajemnice co do posiadanych kont i depozytów oraz ich wysokości. W razie śmierci lub upadłości właściciela konta czekowego, oszczędnościowego lub depozytowego, P.K.O. postąpi zgodnie z przepisami obowiązującego prawa spadkowego względnie upadłościowego. Wszelkie dokumenty dotyczące obrotu w P.K.O. przechowuje się w archiwum w ciągu trzech lat."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział III",
+   "text": "Zakres działania Oddziałów."
+  },
+  {
+   "type": "text",
+   "text": "Dyrektor Oddziału sprawuje nad całym jego personelem taką samą władzę, jaką ma: Prezes nad personelem P.K.O. w Warszawie i przedstawia Prezesowi wnioski w przedmiocie przyjmowania, zwalniania i awansowania urzędników Oddziału. Wdra-. żanie dochodzeń dyscyplinarnych przeciwko urzędnikom Oddziału wymaga zatwierdzenia Prezesa. Oddziały prowadzą rachunkowość swoją samoistnie, lecz mają obowiązek regularnego przesyłania przed dniem 10 każdego miesiąca swych bilansów miesięcznych do Centrali P.K.O. w Warszawie. Zakres działania Odddziałów - P.K.O. obejmuje wszystkie czynności w Centrali P.K.O. z wyjątkiem udzielania kredytów długoterminowych z zakupu papierów wartościowych na rachunek własny. Czynności swe załatwiają Oddziały samodzielnie. Dla wpłat i wypłat dokonanych na rachunek Oddziałów sporządzają wszystkie zbiornice osobne wykazy dzienne i miesięczne wkładek i zwrotów i odsyłają je wprost do odnośnych Oddziałów. Wolne zapasy kasowe Oddziały składają w Banku Polskim na rachunek żyrowy Centrali P.K.O."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Ne 55, Dziennik Ustaw."
+  },
+  {
+   "type": "text",
+   "text": "W sprawach dokonywanych czynności prowadzą Oddziały bezpośrednią korespondencję z władza* mi, Urzędami jak i klijentami. Budżety Oddziałów wymagają zatwierdzenia Centrali i stanowią integra- Iną część ogólnego budżetu Centrali. Dochody Oddziałów zaliczane są do ogólnych dochodów P.K.O. wydatki w granicach zatwierdzonego budżetu Oddziałów mogą być czynione przez nie samodzielnie."
+  },
+  {
+   "type": "text",
+   "text": "Personel oddziałów uposażony w te same prawa co personel Centrali, stanowi składową część personelu P.K.O. i po podporządkowaniu bezpośredniem zwierzchnikowi Oddziału podlega dyscyplinarnie Centrali."
+  },
+  {
+   "type": "text",
+   "text": "Kontrole nad Oddziałami sprawują Dyrektorowie— Techniczny i Administracyjny tudzież specjalni delegaci upoważnieni przez Prezesa. Dyrektor Oddziału reprezentuje Oddział swój nazewnatrz i jest odpowiedzialny wobec Prezesa P.K.O. za bieg i stan interesów Oddziału. Dyrektor kieruje powierzonemi mu sprawami Oddziału i spełnia wszelkie polecenia Centrali. ;"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IV",
+   "text": "Sprawozdania i bilanse."
+  },
+  {
+   "type": "text",
+   "text": "Bilanse miesięczne P.K.O. podpisene przez Prezesa lub Vice-Prezesa i przez Naczelnika lzby Obrachunkowej, winny być ogłaszane w Monitorze Polskim."
+  },
+  {
+   "type": "text",
+   "text": "Bilanse miesięczne Oddziałów, po zatwierdzeniu ich przez Prezesa, ogłaszane będą w siedzibach Oddziałów w sposób przez niego określony. Roczne bilanse, po sprawdzeniu przez Komisje Rewizyjną, oraz sprawozdanie z działalności P.K.O. zatwierdzone przez Radę Zawiadowczą, Prezes P.K.O. przedkłada Ministrowi Skarbu."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział V",
+   "text": "Zbiornice P. K. O."
+  },
+  {
+   "type": "text",
+   "text": "Zbiornice P.K.O. mają prawo i obowiązek przyjmowania wszelkich wpłat na rachunek P.K.O., wypłaty zaś muszą uskułeczniać jedynie na podstawie przekazów, nadsyłanych z Centrali P.K.O. w Warszawie, lub z jej Oddziałów oraz na podstawie listów kredytowych. „Wyjątek od tego stanowią doraźne wypłaty uskuteczniane na podstawie książeczek oszczędnościowych. Na dokonane wpłaty i wypłaty czekowe i oszczędnościowe zbiornice sporządzają wykazy dzienne, które nadsyłają do Centrali względnie do Oddziałów P.K.O. zależnie od tego, na czyj lub z czyjego rachunku wpłata lub wypłata zostały uskutecznione. Rachunki miesięczne z tytułu dokonanych wpłat i wypłat na rzecz P.K.O. odsyłają zbiornice do swych władz przełożonych. Ostateczny zaś rachunek z Centralą P.K.O. przeprowadzają zarówno Generalna Dyrekcja Poczt i Telegrafów, jak i Ministerstwa, którym dane zbiornice, jako urzędy podlegzją. Za wszystkie czynności wykonywane przez zbiornice P.Ń.O. odpowiada bądź Generalna Dyrekcja Poczt i Telegrafów, bądź"
+  },
+  {
+   "type": "text",
+   "text": "Poz. 545 i i 546."
+  },
+  {
+   "type": "text",
+   "text": "też Ministerstwo, któremu dana zbiornica jako urząd podlega."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział VI",
+   "text": "P.K.O. posiada w Banku Polskiem rachunek żyrowy, na który zbiornice P.K.O. mają obowiązek przelewania codzień nadmiarów kasowych i z którego pobierać mogą zasiłki kasowe na wypłatę przekazów czekowych i listów kredytowych P.K.O."
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

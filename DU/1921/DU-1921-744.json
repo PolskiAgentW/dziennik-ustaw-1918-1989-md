@@ -1,0 +1,1269 @@
+{
+ "eli": "DU/1921/744",
+ "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 8 listopada 1921 r. w przedmiocie przepisów o budowie, ustawianiu i dozorze kotłów parowych, używanych na lądzie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/744/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Przemysłu i Handlu"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 listopada 1921 roku"
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie przepisów o budowie, ustawianiu i dozorze kotłów parowych, używanych na lądzie."
+  },
+  {
+   "type": "text",
+   "text": "Na zasadzie ustawy o nadzorze nad kotłami parowemi z dn. 31 maja 1921 r. (Dz. U. R. P. Ne 50, poz. 303) zarządza się co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "I, Zakres i przedmiot przepisów."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przepisom niniejszym podlegają wszystkie kotły, pracujące na lądzie z wyjątkiem:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "Kotłów parowozowych i kotłów ustawianych w wagonach kolejowych.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "Kotłów parowych, połączonych bezpośrednio z atmosferą za pomocą rury w wodę zanurzonej, mającej nie mniej niż 100 mm. średnicy w świetle i nie więcej niż 5 m. wysokości, licząc od najniższego dopuszczalnego poziomu wody w kotle o ile długość całkowita rury nie przekracza 15 metrów, zaś rura sama nie ma żadnego zawieradła lub innych urządzeń do oddzielania wnętrza kotła od atmosfery.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "Takich kotłów, w których urządzenia ochronne jakkolwiek różnią się od wyżej opisanego, lecz w rzeczywistości spełniają to samo zadanie, t. j. nie dopuszczają do wytworzenia w kotle pary o ci- Śnieniu wyższem niż 42 atmosfery ponad atmosferyczne i wymiarami swemi odpowiadają wielkości powierzchni ogrzewalnej.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_1/lit_d",
+     "text": "Kotły, których objętość nie przekracza 25 litr. a iloczyn z powierzchni ogrzewalnej w metr. kw. i ciśnienia roboczego w atmosferach nie przekracza 0,2.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_1/lit_e",
+     "text": "Przegrzewacze pary opalane oddzielnie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Za kotły parowe w znaczeniu niniejszych przepisów rozumieć należy wszystkie naczynia zamknięte, w których pod działaniem energji ciepłnej woda przechodzi w parę o ciśnieniu wyższem od atmosferycznego, użytkowaną nazewnątrz naczynia. Za miarę ciśnienia pary przyjmuje się „ciśnienie robocze”, wyrażone w atmosferach i równające się nadwyżce ciśnienia pary w kotle ponad ciśnienie atrnosferyczne. . Za ciśnienie odpowiadające 1 atmosferze przyjmuje się ciśnienie równe jednemu kilogramowi na jeden centymetr kwadratowy. Za powierzchnię ogrzewalną kotła przyjmuje się tę część powierzchni ścian kotła, na której ściany stykają się z jednej strony z wodą a z drugiej z gazami spalinowemi. Wielkość powierzchni ogrzewalnej oblicza się w metrach kwadratowych i ściśle według wymiarów ścian po stronie ogrzewanej spalinami.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Za kotły przenośne uważa się kotły bez obmurowania, nie ustawione na murowanym fundamencie, a przeznaczone do pracy w różnych miejscach. Wszelkie inne kotły uważa się za stałe.",
+   "children": [
+    {
+     "type": "text",
+     "text": "i"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Il. Budowa."
+    },
+    {
+     "type": "text",
+     "text": "Materjał kotłów."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Ściany kotła winny być wykonane z miękkiego, zlewnego lub zgrzewnego (skowalnego) nie hartującego się żelaza. Za ściany kotła rozumie się całkowitą powierzchnię, zawierającą objętość kotła między zaworami dla wypuszczania pary i wypróżniania kotła z wody, z wyjątkiem uzbrojenia połączonego z kotłem. Miedź może być używana na paleniska i stosowana w postaci rur bez szwa, zaś mosiądz tylko w postaci rur bez szwa. Srednica rur tak miedzianych jak i mosiężnych nie może przekraczać 65 mm. w świetle. Dla nasad złączonych bezpośrednio ze ścianami kotła może być uży: wana stal lana, o ile forma przekroju tych nasad jest okrągła lub owalna.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Materjały przeznaczone do budowy i riaprawy kotłów winny być próbowane przez organa, posiadające do tego upoważnienie ze strony władz państwowych. Warunki techniczne, jakim mają odpowiadać te materiały, określone są osobnemi przepisami. Rodzaj i własność materjałów kotłów zbudowanych zagranicą, powinny być poświadczone przez właściwe organa urzędowe w miejscu pochodzenia tych materjałów, lub w miejscu budowy kotła, oraz odpowiadać przepisom obowiązującym w Państwie Polskiem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Linja wodna i ogniowa."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Linja wodna, czyli najniższy dopuszczalny poziom wody w kotle powinna wznosić się przynajmniej o 100 mm. ponad linję ogniową, leżącą w poziomie najwyższego zetknięcia się ścian kotła z spalinami, grozącemi jeszcze rozżarzeniem tych ścian. Wymaganie to nie odnosi się do powierzchni pomieszczonych w sposób zabezpieczający je przed rozżarzeniem, jak rury lub części komina przechodzące przez przestrzeń parową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Za spaliny nie grożące rozżarzeniem uważa się takie, które przeszły uprzednio powierzchnię ogrzewalną,— nie mniejszą niż 20-krotna całkowita powierzchnia rusztu przy ciągu zwykłym, lub 40 krotna przy ciągu wzmocnionym. „Przy kotłach, nie posiadających rusztu, przyjmuje się za jego powierzchnię w powyższem obliczeniu czterokrotną powierzchnię najszerszego przekroju pierwszego kanału. Za ciąg wzmocniony przyjmuje się: a) ciąg spowodowany rozrzedzeniem gazów spalińowych wyższem niż 25 mm. słupa wody, wytworzonem przez urządzenie inne niż komin i mierzonem bezpośrednio za ostatnim kanałem dymowym kotła, b) ciąq wywołany w palenisku przez ciśnienie powietrza wyższe niż 40 mm. słupa wody przy w dmuchu. Otwory do czyszczenia kotła.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Kocioł winien posiadać potrzebną ilość odpowiednio rozmieszczonych, szczelnie zamykanych włazów i innych otworów do czyszczenia wnętrza z osadów. Włazy do wejścia wewnątrz kotła winny mieć wymiary nie mniejsze niż 300 x 400 mm. Przy kotłach o średnicy ponad 1500 mm. długość wykroju na właz w płaszczu kotła równoległego do jego osi nie może wynosić więcej niż 400 mm. Wykroje w kotle powinny być wzmocnione.",
+   "children": [
+    {
+     "type": "text",
+     "text": "zawory bezpieczeństwa."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Każdy kocioł powinien mieć przynajmniej dwa niezależne od siebie zawory bezpieczeństwa, połączone z kotłem wprost lub najkrótszym",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "króćcem i ustawione w miejscu dostępnem. Z króćca, na którym są umieszczone zawory, nie może być brana para."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Zawory powinny być tak zbudowane, żeby je można było przedmuchiwać i w siedliskach obracać. Powierzchnia uszczelniająca grzyba winna być płaska i pozioma. Ciśnienie pary wywierane na każdy zawór obciążony ciężarem na dźwigni, nie może przekraczać 600 kg. Ciężary powinny być zrobione z jednej sztuki i mieć w miejscach widocznych wprawione korki z miękkiego metalu z wybitą na nich wagą ciężaru w kq. Ciężary mogą być zawieszane na dźwigni lub nasuwane na nią przez otwór idący środkiem ciężaru i powinny być zabezpieczone zatyczkami od zsunięcia się. Ucho ciężaru zawieszonego powinno z nim stanowić nierozdzielną całość. s",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Waga i zawieszenie ciężarów na końcach dźwigni powinny być tak unormowane, ażeby przy dojściu ciśnienia pary w kotle do granicy dozwolonej, zawory otwierały się samoczynnie i nadmiar pary wypuszczały nazewnatrz. Prześwit każdego z zaworów ma być tak wielki, żeby przez swobodny odpływ nadmiaru pary przez zawór, ciśnienie w kotle nie mogło wznieść się wyżej jak o 0,1 dozwolonego. (lwaga. Prześwity zaworów można uważać za odpowiadające powyższemu warunkowi jeżeli zostały obliczone według wzoru: F-— 15.5 p p. k. gdzie — F — oznacza prześwit zaworu w mm? H — powierzchnią ogrzewalną kotła w m? p — robocze ciśnienie pary w kg. cm* k— ciężar 1 m® pary w kg. przy ciśnieniu p. Dla zaworów, których skok grzyba wynosi niemniej niż 1/1 średnicy mnożnik 15 zastępuje się równym lub większym 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Przy kotłach przenośnych mogą być stosowane zawory z obciążeniem sprężynowem. W tym razie każdy z nich powinien mieć urządzenie np..rurkę odpowiedniej długości nie pozwalającą na dalsze dociąganie sprężyny niż to, jakie odpowiada dozwolonemu ciśnieniu pary.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "Zawory z korpusami krytemi powinny być zaopatrzone w stale otwarte odwodnienia. Para wychodząca z zaworów, których skok grzyba wynosi nie mniej niż '/4 jego średnicy, powinna być odprowadzana na zewnątrz kotłowni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Przegrzewacze pary powinny być zaopatrzone w ostrzegawczy zawór bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_7/ust_7",
+     "text": "Zmiany w ustanowionem obciążeniu zaworów przez przesunięcie ciężarów, powiększenie ich wegi lub dociągnięcie sprężyn, mogą być dokonane tylko przez organa dozoru nad kotłami.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Manometr."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Każdy kocioł powinien być zaopatrzony w manometr połączony z przestrzenią dla pary rurką syfonową. Manometr powinien być połączony z rurką syfonową kranem trójprzelo - towym, którego trzeci wylot ma kołnierz o średnicy 38 mm. i grubości 6 mm. dla przytwierdzania manometru kontrolującego. Na rękojeści tego kranu mają być zrobione kreski odpawiadające kierunkom wylotów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Manometr powinien mieć podziałkę w atmosferach, odpowiadającą ciśnieniu próbnemu dla nowego kotła i oznaczoną na podziałce czerwoną kreską wysokość dozwolonego roboczego ciśnienia.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Manometr powinien być wyraźny, o średnicy nie mniejszej niż 100 mm. umieszczony w miejscu widocznem dla obsługi i dobrze oświetlony. 4, W maszynowni powinien być także umieszczony manometr.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wodowskazy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "i. Każdy kocioł powinien być zaopatrzony w dwa szkła wodowskazowe lub przynajmniej w jedno takie szkło, a zamiast drugiego w dwa krany probiercze. Każdy z tych przyrządów musi mieć własne połączenie z kotłem. Wodowskazy i krany probiercze mogą być umieszczone na wspólnej kolumnie, łączącej się z przestrzeniami wodną i parową króćcami o przekroju nie mniejszym niż 60 cm? każdy.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Dolny kran probierczy powinien być umieszczony na wysokości linji wodnej, a najniższy widoczny punkt szkła wodowskazowego powinien wznosić się ponad linje ogniową nie mniej niż 50 mm.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Do kotła, względnie do kolumny wodowskazowej, powinny być trwale przytwierdzone, dobrze widoczne, wskaźniki najniższego dopuszczalnego poziomu wody, dochodzące blisko do szkieł wodowskazowych. Niezależnie od tych wskaźników powinna być do ściany kotła trwale przytwierdzona tabliczka z kresą poziomą, leżącą na wysokości linji wodnej z napisem „Najniższy poziom wody”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Krany szkieł wodowskazowych i probiercze powinny być w ten sposób zrobione, żeby je można było w czasie pracy kotła przetykać w kierunku prostym. Otwory w czopach (stożkach) kranów winny mieć średnicę nie mniejszą niż 8 mm. W razie gdyby krany były połączone z kotłem oddzielnemi rurami, wówczas średnica tych rur w świetle nie może być mniejsza niż 50 mm. przy długości do 1000 mm. względnie 60 mm. przy większej długości rury. Rury te powinny być proste i zabezpieczone od działania spalin, tylko w razie gdy zagięć uniknąć nie można, dopuszczalne są zagięcia łagodne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Rurki szklane wodowskazów powinny być zabezpieczone przejrzy - stemi osłonami na wypadek pęknięcia. Wodowskazy ze szkłami refleksyjnemi osłon tych nie potrzebują.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_9/ust_6",
+     "text": "Kocioł z wieloma niezależnemi od sievie poziomami wody powinien mieć dla każdego z tych poziomów odrębne przyrządy wodowskazowe w liczbie przepisanej. Kocioł o wielu walczakach lecz ze wspólnym dla nich poziomem wody, powinien mieć przy jednym z walczaków przyrządy wodowskazowe w liczbie przepisanej, przy pozostałych walczkach przynajmniej po jednym szkle wodowskazowem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_9/ust_7",
+     "text": "Przy wysokiem umieszczeniu wodowskazów, dostęp do nich powinien być umożliwiony przez odpowiednie urządzenie, pozwalające na łatwe doglądanie wodowskazu. Wodowskazy powinny być dobrze oświetlone.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przyrządy zasilające."
+      },
+      {
+       "type": "text",
+       "text": "- § 10. 1. Każdy kocioł powinien mieć nie mniej niż dwa przyrządy zasilające, mogące pracować w każdym czasie niezależnie od siebie. Jednym z tych przyrządów może być smoczek (injektor). Wydajność tych przyrządów powinna wynosić: a) dla pomp 2-krotną, b) dla smoczków (injektorów) 3 krotną ilość wody, normalnie przez kocioł odparowywanej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Dwa przyrządy zasilające wystarczają i dla większej liczby kotłów, pracujących razem przy jednakowem ciśnieniu, o ile wydajność każdego z przyrządów odpowiada powyższym warunkom dla wszystkich kotłów razem wziętych,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Pompa ręczna, jako jeden z przyrządów zasilających, może mieć zastosowanie tylko przy kotłach, dla których iloczyn z powierzchni ogrzewalnej w m? i dozwolonego ciśnienia roboczego w atm. nie przekracza 100.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Kotły, lub zespoły kotłów, pracujące przy różnych ciśnieniach, powinny mieć oddzielne przyrządy zasilające i przewody tłoczące dla każdego kotła względnie zespołu",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Każdy przewód tłoczący powinien być połączony z kotłem zaworem zwykłym i zaworem zwrotnym, zamykanym samoczynnie ciśnieniem panującem w kotle, bez względu na to, czy zawór zwrotny może być zamykany z zewnątrz czy nie. Połączenie to powinno być wykonane w ten sposób, żeby bezpośrednio z kotłem lub z króćcem na nim umieszczonym łączył się zawór zwykły zaś bezpaśrednio z nim zawór zwrotny. Przewód tłoczący powinien być zaopatrzony w sprężynowy zawór bezpieczeństwa, za wyjątkiem wypadku, kiedy zasilanie odbywa się przy użyciu wyłącznie pomp odśrodkowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_9/ust_7",
+     "text": "Przyrządy zasilające, nie mające oddzielnej obsługi, powinny być ustawiane w kotłowni w miejscu dostępnem.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Zawory i krany."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Każdy kocioł powinien być połączony z przewodem dla pary zaworem lub zasuwą, umieszczonemi jaknajbliżej kotła.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Jeżeli kotły pracują pojedyńczo lub w grupach przy różnych <i śnieniach, wówczas przewody parowe łączące takie kotły względnie grupy kotłów, powinny być od siebie rozdzielone zaworami redukującemi i zaworami zwykłemi. Zawór redukujący powinien mieć manometr dla ciśnienia zredukowanego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Każdy kocioł powinien mieć przynajmniej jeden pewnie zamykający, odpowiednio zbudowany spustowy zawór, zasuwę lub kran dławnicowy, połączony z kotłem wprost lub możliwie najkrótszym złączem dla całkowitego wypuszczenia wody z kotła, umieszczony wraz z połączeniem w miejscu dogodnem i zabezpieczonem od gazów spalinowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Odstępstwa od powyższych przepisów."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Kotły, których iloczyn z powierzchni ogrzewalnej w m? i dozwolonego ciśnienia w atmosferach nie przekracza 4, mogą mieć: a) jeden zawór bezpieczeństwa, b) jeden przyrząd zasilający, którym jednak nie może być smoczek—i c) jedno szkło wodowskazowe.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Godło."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Każdy kocioł powinien mieć na ścianie czołowej, a w wyjątkowych wypadkach w innem miejscu widocznem, na stałe przytwierdzone godło, t. j. tabliczkę metalową z trwałemi napisami, podającemi: a) nazwę i siedzibę zakładu, który kocioł zbudował, b) Ne fabryczny kotła, c) rok budowy kotła, d) wysokość ciśnienia roboczego w atm. i z wolnem miejscem dla wybicia urzędowego numeru kotła. Tabliczka powinna być przymocowana do kotła dwoma wkrętkami miedzianemi z krytemi, spiłowanemi na gładko główkami o średnicy 12 mm.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Zapasowe paleniska powinny być zaopatrzone w te same godła z których jedno musi być oznaczone innym numerem lub literą przy numerze fabrycznym kotła.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "III. Cistawianie kotłów."
+      },
+      {
+       "type": "text",
+       "text": "Pomieszczenie."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Budynek kotłowni winien czynić zadość wszystkim wymogom ustawy budowlanej oraz przepisom bezpieczeństwa. Kotłownia pewinna być oddzielona od przyległych pomieszczeń ścianami przeciwpożarowemi, wystającemi ponad dach; w ścianach tych mogę być zrobione otwory dla przewodów, pędni i drzwi. Kotłownia nie może mieć sufitu i sklepień, lecz tylko lekki dach nie związany z sąsiedniemi dachami. Budynek kotłowni powinien być tak wysoki, żeby między wiązaniami dachu i wierzchniem obmurzem kotła pozostawała wolna przestrzeń wysokości conajmniej 1,8 m. Przestrzeń nad kotłami do dachu na obszarze zajmowanym przez powierzchnię kotłów, powinna być wolną od wszelkich niezwiązanych bezpośrednio z kotłami urządzeń, jak składy węgla, zbiorniki wody, wały, dźwigi it. p. Podłoga powinna być z materjałów niepalnych, drzwi otwierać się nazewnątrz pod nęciskiem pchnięcia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Kotłownia ma być o tyle widna i przestronna, żeby można było kotły i ich uzbrojenie należycie doglądać i działać swobodnie wszystkiemi przyrządami i narzędziami, przeznaczonemi do ich obsługi. Odległość od drzwi paleniska kotła do przeciwległej ściany budynku powinna wynosić conajmniej 2,5 m. Pomiędzy tylną ścianą kotłowni a kotłami powinna być zachowana wolna przestrzeń o szerokości conajmniej 0,7 m. Kotłownia powinna być połączona z miejscem największego zużycia pary pewnie działającem urządzeniem porozumiewawczem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Obmurze kotłów powinno tworzyć oddzielną całość i nie może być użyte jako podpora lub podstawa dla części budynku, dachu, jakichkolwiek konstrukcji i t. p. Między obmurzem kotła a ścianami budynku powinien być zachowany odstęp nie mniejszy niż 65 mm., który w końcach może być zamurowany, zaś z góry przykryty. W obmurzu powinny być zrobione łatwo dostępne, zamykane otwory o wymiarach nie mniejszych niż 400X500 mm. dla czyszczenia kotłów i kanałów oraz dla ich rewizji. Wspólna ściana obmurza sąsiednich kotłów powinna mieć grubość nie mniejszą niż półtorej cegły. . Kanały do popiołu i żużla oraz przejścia do nich powinny być dobrze przewietrzane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_14/ust_4",
+     "text": "Przy opalaniu kotłów gazami, ciąg gazów przy zetknięciu się ze ścianami kotła powinien być skierowany możliwie stycznie do tych ścian a sklepienia nadające wskazany kierunek gazom zrobione z materjałów ogniotrwałych i ułożone w sposób pozwalający na dostateczne ich rozsze rzanie się. Zbiornik na olej ziemny lub ropał może być umieszczony w kotłowni o ile jest szczelnie zamykany i zaopatrzony w rurę odprowadzającą gazy na zewnątrz kotłowni. Zbiornik na gaz ziemny powinien być umieszczony na zewnątrz kotłowni, mieć przy połączeniu z przewodem łączącym z korłami zawieradło i za nim zawór wsteczny, następnie zawieradło przed wejściem do kotłowni i wreszcie zawieradło przed każdem paleniskiem. . W pomieszczeniu oraz pod pomieszczeniami, w których stale lub chwilowo przebywają ludzie, wolno ustawić w każdym pomieszczeniu tylko",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "jeden kocioł o ciśnieniu roboczem nie wyższem niż 6 atm. i o zawartości wody nie większej niż E00 litrów, licząc po linję wodną. W pracowniach o lekkim dachu bez sufitu lub sklepienia wolno ustawiać kotły o dowolnem ciśnieniu, jednak o zawartości wody nie większej niż po 1000 litrów, licząc po linję wodną. W tych wypadkach miejsca zajmowane przez kocioł winny być ogrodzone ścianką ogniotrwałą wyso- Kości 1,2 m. W takich samych pracowniach wielkich zakładów przemysłowych, np. walcowniach, tłoczniach i t. p. można ustawiać kotły bez ograniczenia wielkości o ile pracownia ma powierzchnię nie mniejszą 1000 m. kw. W tych wypadkach miejsca zajęte przez kotły powiany być ogrodzone."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_14/ust_6",
+     "text": "Kotłowni nie wolno używać jako przejście dla ludzi nienależących do jej obsługi, lub jako pomieszczenia dla urządzeń i robót nie mających związku z obsługą kotłów. Wyjątek stanowią urządzenia przeciwpożarowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_14/ust_7",
+     "text": "W kotłowni powinny być wywieszone przepisy o obsłudze kotłów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. Urzędowy dozór nad kotłami."
+      },
+      {
+       "type": "text",
+       "text": "Rewizje i próby."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Dozór nad kotłami polega na:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_15/ust_1/lit_a",
+       "text": "udzielaniu pozwoleń na ustawianie i używanie kotłów, b) sprawdzaniu stanu kotłów odnośnie ich bezpieczeństwa w pracy przez wykonywanie rewizji oręż prób wodnych i c) przestrzeganiu zachowywania przez właścicieli, ich zastępców oraz obsługę kotłów wydanych odnośnie do tego dozoru przepisów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Sprawowanie dozoru nad kotłami zastrzeżone jest wyłącznie dla ustanowionych przez odnośne władze organów, któremi są inżynierowie rewidenci, posiadający odpowiednie legitymacje. Przy wykonywaniu czynności służbowych przez rewidentów właściciele kotłów lub ich zastępcy oraz obsługa powinni okazywać swoją pomoc a także wykonywać wszystkie w myśl niniejszych przepisów wydane przez nich zlecenia. Żaden kocioł nie może być użyty bez uprzedniej rewizji i wypróbowania ciśnieniem wodnem przez organa dozoru nad kotłami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Kotły, znajdujące się w użyciu, podlegają w określonych terminach rewizjom zewnętrznym, wewnętrznym i wypróbowaniu ciśnieniem wodnem. W zależności od wyników tych rewizji i prób dalsze używanie kotła może być dozwolone lub nie.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_15/ust_4/lit_a",
+       "text": "Rewizja zewnętrzna ma na celu sprawdzenie stanu kotła i jego urządzeń w czasie pracy, kiedy kocioł jest pod parą i polega na zbadaniu wodowskazu, manometru, zaworów bezpieczeństwa, przy: rządów zasilających i spustowych, obmurza oraz szczelności kotła w miejscach dostępnych, a także na sprawdzeniu czy obsługujący kocioł jest dostatecznie obznajmiony z powierzonemi mu czyn nościami i czy wie jak sobie radzić w razie zauważenia zmian i nieprawidłowości w pracy kotła np. przy niezwykłym ubytku wody, tworzeniu się wypuklin, potrzebie raptownego zatrzymania pracy i t. p.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_15/ust_4/lit_b",
+       "text": "Rewizja wewnętrzna ma na celu sprawdzenie stanu blach kotła ich połączeń, wzmocnień, wiązań, rur wodnych i płomiennych oraz przewodów zasilających, zaworów bezpieczeństwa i innych połączeń z manometrem i wodowskazami, obmurza i w ogóle całej kotłowni oraz urządzeń związanych z kotłem i jego obsługą.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Dla dokonania tej rewizji kocioł powinien być opróżniony z wody, ściany kotła oczyszczone należycie z kamienia, osadów i sadzy, a kanały spalinowe z sadzy i popiołu. O ile rewident nie może obejrzeć ścian wewnętrznych kotła przez obejście kanałów spalinowych, wówczas obmurze kotła, względnie otulina, powinny być usunięte częściowo lub w całości. W wypadkach, kiedy budowa kotła nie pozwala na dokładne obejrzenie go: wewnątrz, rewizja wewnętrzna może być uzupełniona próbą wodną. W razie kiedy rewidowany wewnątrz lub próbowany ciśnieniem wodnem kocioł połączony jest z innemi czynnemi kotłami, wtedy należy go na czas tych prób i rewizji oddzielić od kotłów czynnych przez zaślepienie połączeń parowych i wodnych. Kanały spalinowe rewidowanego kotła powinny być także pewnie odcięte. Rewizja wewnętrzna kotłów typu parowozowego polega na obejrzeniu paleniska, sprawdzeniu pewności ściągów przez ostukanie oraz obejrzeniu kotła wewnątrz przez właz i otwory do czyszczenia."
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_15/ust_4/lit_c",
+       "text": "Wypróbowanie ciśnieniem wodnem ma na celu stwierdzenie szczelności kotła. Próbę wodną wykonywa się po rewizji wewnętrznej. Dla dokonania tej próby kocioł powinien być całkowicie wypełniony wodą, mieć założoną armaturę i być połączonym ze specjalną ręczną pompą tłoczącą, dostarczoną przez właściciela kotła. Wysokość stosowanego ciśnienia wodnego wynosi:",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_15/ust_4/lit_a",
+       "text": "dla kotłów nowych: przy ciśnieniach roboczych do 5 atm. włącznie podwójne ciśnienie robocze, nie mniejsze jeknak niż 3 atm. przy ciśnieniach ponad 5 do 10 atm. — ciśnienie robocze zwiększone o 5 atm. przy ciśnieniach ponad 10 atm. — półtorakrotne ciśnienie robocze;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_15/ust_4/lit_b",
+       "text": "dla kotłów używanych: przy ciśnieniach roboczych do 5 atm. półtorakrotne ciśnienie robocze lecz nie mniejsze niż 2 atm. przy ciśnieniach ponad 5 do 15 atm. — ciśnienie robocze zwiększone o 3 atm., przy ciśnieniach ponad 15 atm. — ciśnienie zwiększone o 4 atm.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Po przebudowie i znacznej naprawie każdego, lub przeniesieniu kotła stałego, kotły próbują się ciśnieniem wskazanem dla kotłów nowych. Przegrzewacze pary, nieopalone oddzielnie, są próbowane jak kotły i jednocześnie z niemi. Ciśnienie próbne sprawdza się manometrem kontrolującym, dostarczonym przez rewidenta."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_15/ust_6",
+     "text": "Kocioł uważa się za wytrzymujący próbę, jeżeli nie ujawnią się pęknięciai odkształcenia trwałe blach i o ile połączenia poszczególnych blach będą szczelne. Przesączanie się wody przez szwy, połączenia rur i nity w postaci drobnych kropli t. zw. łez, za nieszczelność uważać nie należy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_15/ust_7",
+     "text": "Z wypróbowaniem kotła ciśnieniem wodnem połączone jest wyregulowanie zaworów bezpieczeństwa i sprawdzenie manometru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_15/ust_8",
+     "text": "Jeżeli jedna z rewizji lub próba wodna wykaże w kotle braki, grożące niebezpieczeństwem, wtedy dalsze używanie kotła powinno być wzbronione do czasu usunięcia tych braków oraz ponownej rewizji i próby kotła. W wypadkach tych rewident ma prawo zabezpieczyć nieużywanie kotła przez jego opieczętowanie, jednak w sposób pozwalający na wykonanie potrzebnych napraw. O zatrzymaniu pracy Kotła zapisuje się do książki kotłowej z wymienieniem powodów dla jakich je zarządzono. Gdyby rewizja wewnętrzna wykazała stan kotła nie zapewniający bezpiecznej jego pracy do terminu wyznaczonej próby wodnej, wtedy ten. uprzednio wyznaczony termin może być przez rewidenta przyśpieszony lub ciśnienie robocze zredukowane.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_15/ust_10",
+     "text": "Rewizji zewnętrznej dokonywa się nie później jak w dwa lata, rewizji wewnętrznej nie później jak w trzy lata od dnia takiej rewizji. Wypróbowaniu ciśnieniem wodnem podlega każdy kocioł nie później jak w sześć lat po ostatniej próbie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_15/ust_11",
+     "text": "Niezależnie od powyższych terminowyćh rewizji i prób, rewizje wewnętrzne są wykonywane w każdym czasie, kiedy stan kotła tego wymaga a w szczególności po dwuletniej nieczynności kotła, zaś rewizje wewnętrzne i próby wodne po zrobieniu zmian w budowie kotła, przeniesieniu stałego kotła, znaczniejszej naprawie, jak zmianie całej lub części blachy, wyjęciu lub wymianie rury płomiennej o średnicy większej jak 100 mm,, po naprawie wykonanej spawaniem za pomocą płomienia lub prądu elektrycznego a także po pożarze kotłowni, o ile są dane, że kocioł mógł przy nim ucierpieć. Przed zatrzymaniem kotła dla powyższych napraw jak również o pożarze kotłowni, właściciel kotła powinien zawiadomić organa dozoru nad kotłami. W miarę wykonania rewizji lub próby kotła z powodów wyżej wymienionych, poprzednio wyznaczone terminy rewizji i próby wodnej zostaną odpowiednio przesunięte.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "par_15/ust_12",
+     "text": "Rewizje zewnętrzne mogą być wykonywane poza wskazanemi terminami w każdym czasie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "par_15/ust_13",
+     "text": "Gdyby kocioł ze względu na warunki pracy przedsiębiorstwa nie mógł być w oznaczonym terminie przygotowany do rewizji lub próby wodnej, wtedy termin ten może być przedłużony do sześciu miesięcy, o ile według zdenia rewidenta stan kotła na to pozwala. Wybór dnia rewizji wewnętrznej lub próby wodnej następuje po porozumieniu się rewidenta z używającym kocioł. Gdyby do takiego porożu- _ mienia nie doszło, wtedy ostateczny termin oznacza rewident przynajmniej na 14 dni naprzód. Rewizje zewnętrzne wykonywa się bez uprzedniego porozumienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "par_15/ust_14",
+     "text": "Rewizje i próby wodne kotłów przenośnych odbywają się w miejscach ich chwilowego postoju wskazanych przez właściciela. Wyznaczone terminy rewizji i prób tych kotłów zachowują swoją moc i w razie przeniesienia kotła w inne miejsce.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Odbiór kotłów nowych lub przeniesionych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Wszystkie kotły nowe i kotły stałe przeniesione, na ustawienie których wydano pozwolenie, zanim będą użyte do pracy, podlegają odbiorowi technicznemu przez organa dozoru nad kotłami. Odbiór kotła odbywa się w miejscu jego pracy, kiedy stoi na fundamencie bez obmuro: wania. Odbiór techniczny polega:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_16/ust_1/lit_a",
+       "text": "na sprawdzeniu ustroju kotła i jego wymiarów, grubości blach i obliczeniu ich wytrzymałości, uzbrojenia, rodzaju użytego do budowy kotła materjału, w ogóle zgodności ustawienia i zbudowania kotła z obowiązującemi przepisami, zatwierdzonemi rysunkami, opisami, planami i zastrzeżeniami, zrobionemi w pozwoleniu na ustawienie oraz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_16/ust_1/lit_b",
+       "text": "na wypróbowaniu kotła ciśnieniem wodnem. Na dowód odbioru kotła rewident wybija cechę na główkach wkrętek miedzianych godła i numer urzędowy na godle kotła.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Odbiór kotła rewident stwierdza protokułem (wzór A). W protokule powinno być zaznaczone, że kocioł, jego uzbrojenie i ustawienie odpowiada obowiązującym przepisom, że ciśnienie próbne żądanej wysokości wytrzymał i że na zasadzie powyższego może przy danem robo-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "czem ciśnieniu pracować. Protokuł ma być zakończony wymienieniem daty odbioru kotła, pieczątką i nazwiskiem rewidenta. :"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Odbiór techniczny kotła przenośnego, przeznaczonego do pracy w stałym budynku, odbywa się tak jak kotła stałego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Odbiór techniczny kotła przenośnego, przeznaczonego do pracy na otwarłem powietrzu, może być dokonany w fabryce, która kocioł zbudowała a w wypadkach kiedy kocioł zbudowano zagranicą, na komorze celnej za zgodą władz celnych i po zapłaceniu cła.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_16/ust_5",
+     "text": "Rewizja wewnętrzna kotła stałego nowego może być dokonana w fabryce krajowej, która kocioł zbudowała. Jako znak rewizji takiego kotła rewident wybija cechę na lewej wkrętce godła. Rewizja taka zachowuje swoją moc, o ile próba wodna kotła w miejscu.jego pracy odbędzie się nie później niż w dwa lata po tej rewizji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_16/ust_6",
+     "text": "Zaświadczenie z odbioru technicznego kotła i pozwolenie używania kotła, o ile to ostatnie nie zostało później uchylone na zasadzie wyników , rewizji i prób, utrzymuje swoją moc przez czas, w którym kocioł pracuje z zachowaniem swego ustroju, ustawienia i warunków pracy, stwierdzonych przy odbiorze technicznym kotła. W razie zrobienia zasadniczych zmian w ustroju kotła, nadaniu mu innych form jak poprzednia i w ogóle w wypadkach kiedy treść wydanego na ustawienie kotła pozwolenia będzie naruszona, należy uzyskać nowe pozwolenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_16/ust_7",
+     "text": "Kotły używane, ustawiane na nowo, dla których brak niezaprzeczalnych danych o ich wieku, pochodzeniu i wysokości roboczego ciśnienia, mogą być tylko wyjątkowo dopuszczone do ponownego użycia na podstawie wyników zbadania kotła, grubości i stanu blach oraz ich połączeń. Ciśnienie robocze jakie może być dla tych kotłów dozwolone nie może być wyższe niż to, jakie wypada z założenia, że wytrzymałość materjału przy nim nie przekracza 24 kg. na mm*. Pozwolenie na używanie takiego kotła może być wydanem jedynie wówczas, gdy składający podanie będzie sam używać dany kocioł. Tym samym warunkom podlegają kotły, zbudowane z części kotłów nieznanego pochodzenia i wieku, chociażby niektóre części kotła były wykonane z nowych materjałów, odpowiadających wymaganiom w §4.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Obsługa kotłów."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Do bezpośredniej obsługi kotłów mogą być dopuszczani mężczyźni w wieku nie mniej niż 18 lat, trzeźwi i pewni, którzy umiejętność obsługi kotła wykażą odpowiednim egzaminem i doświadczeniem.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Książka kotłowa."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "i. Każdy kocioł powinien mieć urzędową książkę kotłową (wzór B) wydaną przez organ dozoru nad kotłami. W książce tej powinny być wszyte pod pieczęcią wszystkie dokumenty wydane przy pozwoleniu na ustawienie kotła, opis i rysunki kotła i kotłowni, dowody wypróbowania użytych do budowy kotła materjałów, protokuł odbioru technicznego kotła, a także zapisywane wyniki rewizji i prób wodnych, oraz zarządzenia rewidentów. Grzbiet książki powinien być zrobiony o tyle większy, żeby pozwalał na swobodne wszycie wymienionych dowodów. Książka powinna mieć wymiary 2133 cm. być przechowywaną w obrębie zakładu, w którym się kocioł znajduje i przedstawianą na żądanie rewidentów i władz nadzorczych.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Przy zmianie właściciela książka wraz z kotłem powinna być oddana nabywcy.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_18/ust_4",
+     "text": "Kopje zapisów w książce kotłowej przechowywane są w aktach poszczególnych oddziałów organów dozoru nad kotłami wraz z drugiemi egzemplarzami rysunków, opisu i protokułu z odbioru kotła.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wybuch kotła."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "W razie wybuchu kotła, używający go lub jego zastępca winien zawiadomić o tem. organa nadzoru nad kotłami, i miejscową policję. Do czasu ustalenia stanu rzeczy na miejscu i spisania protokułu, uszkodzone budynki nie mogą być naprawiane, zaś kocioł, jego części i urządzenia powinny pozostać nienaruszone z wyjątkiem kiedy ich usunięcie jest konieczne dla ratunku ludzi, przeszkodzenia dalszym skutkom wybuchu lub przywrócenia komunikacji ha drodze publicznej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "V. Stowarzyszenia dozoru kotłów."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Stowarzyszeniom prywatnym, zorganizowanym przez właścicieli kotłów w celu dozorowania bezpieczeństwa pracy kotłów do nich należących, może być przez Ministra Przemysłu i Handlu udzielone prawo dozoru urzędowego nad temi kotłami jako też i innemi, wykonywanego na zasadzie przępisów o urzędowym dozorze kotłów. Prawo to może być w każdym czasie odwołane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Postanowiony brzepisami urzędowemi dozór kotłów będzie sprawowany przez stowarzyszenia w granicach rewizji i prób wodnych oraz odbioru technicznego i pozwolenia na używanie kotłów. Zaświadczenia przez nie wydane odnośnie do rewizji prób, odbioru technicznego i pozwoleń, są jednoznaczne z wydawanemi przez organa państwowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Stowarzyszenia są obowiązane przyjąć każdy kocioł znajdujący się w granicach ich terytorjalnej działalności, pod urzędowy dozór. . 4. Stowarzyszenia sprawujące urzędowy dozór kotłów nie mogą przyjmować udziału w jakichkolwiek dostawach lub pośrednictwie, a także posiadać przedsiębiorstwa przemysłowe lub handlowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_20/ust_5",
+     "text": "Minister Przemysłu i Handlu może przekazać stowarzyszeniom sprawowanie dozoru innych urządzeń technicznych, wchodzących w zakres dozoru państwowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_20/ust_6",
+     "text": "Członkami stowarzyszeń nie mogą być władze i zakłady” państwowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_20/ust_7",
+     "text": "Obwody terytorjalne działalności poszczególnych stowarzyszeń ustanawia Minister Przemysłu i Handlu. Stowarzyszenia są obowiązane dawać Ministrowi Przemysłu i Handlu żądane wyjaśnienia, a tdkże składać przed 1 kwietnia sprawozdanie ze swej działalności za rok ubiegły, które powinno zawierać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_20/ust_7/lit_a",
+       "text": "nazwę stowarzyszenia i miejsce jego zarządu, rok sprawozdawczy, skład zarządu i zaszłe w nim w ciągu roku zmiany, spis inżynierów stowarzyszenia i miejsce ich urzędowania, b) liczbę członków stowarzyszenia z początku i w końcu roku sprawozdawczego, c) liczbę kotłów zostających pod dozorem stowarzyszenia z podzieleniem ich na poszczególne rodzaje przemysłu oraz typy kotłów, dj liczbę wykonanych rewizji i prób wodnvch kotłów, a także ilość rewizji i prób zaległych z podaniem przyczyny ich niewykonania, e) liczbę przyjątych nowych kotłów z wskazaniem ich typu, powierzchni i ciśnienia oraz podziałem na rodzaje przemysłu, f) liczbę i miejsce wypadków, które spowodowały zatrzymanie pracy kotłów lub ich zniszczenie przez wybuch, pożar, złą obsługę i t. p., g) różne dane tyczące się ogólnej działalności stowarzyszenia w zakresie prac przez nie wykonywanych, także wnioski o działaniu i znaczeniu gospodarczem nowowprowadzonych ulepszeń do urządzeń parowych.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Kotły oddane pod dozór ziecony powinny być wykazane oddzielnie."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_20/ust_9",
+     "text": "Sprawozdanie z ogólnej działalności stowarzyszeń powinny być bezpłatnie dostarczane Ministerstwom, które oddały stowarzyszeniom swoje kotły pod dozór zlecony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_20/ust_10",
+     "text": "Wszystkie akta, odpisy, książki, w ogóle dokumenty odnoszące się do technicznej działalności stowarzyszeń, powinny być tak prowadzone i przechowywane, aby można było w każdym czasie sprawdzić termin najbliższej rewizji i próby kotła, datę wykonania ostatniej rewizji, zlecenia wydane przy rewizjach i próbach, zalecone naprawy, w ogóle dane odnoszące się do każdego poszczególnego kotła. Powyższe dokumenty powinny być okazywane upoważnionym przez Ministra Przemysłu i Handlu na każde żądanie. 7",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_20/ust_11",
+     "text": "Na walnych zgromadzeniach stowarzyszeń ma prawo być obecnym przedstawiciel Ministerstwa Przemysłu i Handlu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "par_20/ust_12",
+     "text": "O przyjęciu kotła pod dozór stowarzyszenie zawiadamia właściwe władze przemysłowe wojewódzkie podając szczegóły odnoszące się do danego kotła: typ, jego pow. ogrzewalną, ciśnienie, przeznaczenie, Ne fabryczny i porządkowy, nazwę i miejsce przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "par_20/ust_13",
+     "text": "O wykluczeniu członka ze stowarzyszenia, zarząd zawiadamia Ministerstwo Przemysłu i Handlu i podaje powody dla jakich wykluczenie nastąpiło oraz szczegóły, odnoszące się do jego kotła. Kotły właścicieli wykluczonych ze stowarzyszenia Minister Przemysłu i Handlu może przekazać stowarzyszeniu pod dozór zlecony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "par_20/ust_14",
+     "text": "W razie zamierzonej likwidacji stowarzyszenia, która może nastąpić tylko w dniu ostatnim roku, zarząd stowarzyszenia zawiadamia Ministra Przemysłu i Handlu na rok naprzód. W tym wypadku wszystkie dowody i dokumenty, odnoszące się do rewizji i prób kotłów, powinny być Ministerstwu Przemysłu i Handlu przekazane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "par_20/ust_15",
+     "text": "Kierownictwo techniczne stowarzyszenia sprawuje naczelny inżynier, który jest jednocześnie dyrektorem stowarzyszenia. On kieruje robotami podległych mu inżynierów i jest osobiście odpowiedzialny za przestrzeganie przez nich obowiązujących przepisów oraz terminów rewizji i prób wodnych kotłów. Na powyższe stanowisko może być powołany inżynier z doświadczeniem praktycznem w dozorze kotłów, który zna obowiązujące przepisy, tudzież posiada należyte praktyczne i teóretyczne wiadomości z zakresu innych wykonywanych przez stowarzyszenie robót. Naczelny inżynier i jego zastępca są zatwierdzani na stanowiskach przez Ministra Przemysłu i Handlu. Wszystkie dokumenty, odpowiedzi i sprawozdania,e przeznaczone dla władz. państwowych powinny być przez naczelnego inżyniera podpisane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "par_20/ust_16",
+     "text": "Do pełnienia obowiązków związanych z bezpośrednim dozorem kotłów mogą być powoływani tylko inżynierowie z akademickiem wykształceniem, którzy wykażą się przynajmniej dwuletnią odpowiednią praktyką. Przy wstąpieniu do stowarzyszenia inżynier składa piśmienne oświadczenie, że w wykonywaniu powierzonych sobie obowiązków trzymać się będzie niezłomnie obowiązujących przepisów i sumiennie je wypełniać, że nie będzie brać udziału ani w przedsiębiorstwach ani interesach stojących w związku z wykonywanemi przez niego obowiązkami, dzięki którym mógłby osiggnąć jakiekołwiek korzyści osobiste i że korzystając z możności oglądania różnych urządzeń przemysłowych i poznawania organizacji robót, które stanowią tajemnicę wyrobu, użytku z tych wiadomości na szkodę właściciela nie zrobi. Nazwiska inżynierów, miejsce urzędowania i okręg terytorjalny ich EA powinny być podawane do wiadomości Ministra Przemysłu i Handlu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "par_20/ust_17",
+     "text": "Przy zapisywaniu wyników rewizji i prób wodnych oraz zleceń w książkach kotłowych, inżynierowie powinni używać pieczątki z nazwą stowarzyszenia w imieniu którego występują, zaś przy cechowaniu kotłów \" używać stemple ze specjalnym rysunkiem stowarzyszenia. Rysunek stempli powinien być przez Ministra Przemysłu i Handlu zatwierdzony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "par_20/ust_18",
+     "text": "Inżynierowie otrzymują od zarządów stowarzyszeń legitymacje osobiste, poświadczone przez Ministerstwo Przemysłu i Handlu, które powinni okazywać na żądanie przy spełnianiu swych obowiązków. W razie wystąpienia inżyniera ze stowarzyszenia, legitymacja powinna być przez zarząd zniszczona.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "par_20/ust_19",
+     "text": "Każdy z inżynierów stowarzyszenia powinłen mieć pod swym dozorem możliwie jedną grupę, złożoną m. w. z 400 kotłów zależnie od warunków komunikacyjnych i oddalenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "par_20/ust_20",
+     "text": "Prócz spraw związanych z rewizjami i próbami kotłów, inżynier e przy rewizjach udzielić właścicielowi kotła objaśnień i rady co do orzystniejszego wyzyskania paliwa i pary oraz stosowania siły motorowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI. Dozór zlecony."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Właściciele kotłów, którzy nie zamierzają być członkami stowarzyszenia dozoru kotłów, zawiadamiają o tem władze przemysłowe wojewódzkie przy podaniu o pozwolenie na ustawienie bądź przeniesienie kotła. \"2. Władze przemysłowe wojewódzkie przekazują wymienione wyżej kotły właściwemu stowarzyszeniu dozoru kotłów pod dozór zlecony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Właścicieli kotłów, przekazanych pod dozór zlecony, nie obciążają żadne obowiązki, wynikające ze statutów stowarzyszenia dozoru kotłów, a tylko z przepisów o urzędowym dozorze kotłów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_21/ust_4",
+     "text": "Właściciele kotłów, oddanych pod dozór zlecony mogą w każdym czasie, zawiadamiając o tem władze przemysłowe wojewódzkie, wstąpić do stowarzyszenia dozoru kotłów w charakterze członków, natomiast właściciele, którzy przestają być członkami stowarzyszeń, mogą zgłosić swoje kotły pod dozór zlecony tylko z dniem pierwszym roku kalendarzowego po uprzedzeniu o tem władz przemysłowych i stowarzyszenia conajmniej na miesiąc naprzód.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_21/ust_5",
+     "text": "Właściciełe kotłów mogą zgłosić pod dozór zlecony tylko wszystkie swoje kotły albo też wstąpić do stowarzyszenia dozoru kotłów w charakterze członków ze wszystkiemi swojemi kotłami.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(str. I). Wzór A."
+      },
+      {
+       "type": "text",
+       "text": "PROTOKUL"
+      },
+      {
+       "type": "text",
+       "text": "o odbiorze technicznym."
+      },
+      {
+       "type": "text",
+       "text": "SS nowego + stałego o przenośnego Nr................... porządkowy = przeniesionego"
+      },
+      {
+       "type": "text",
+       "text": "Kociół zbudowany w fabryce ......-..e--ememaemaamaeaaama aaa"
+      },
+      {
+       "type": "text",
+       "text": "W encaczczaacw TOKE Ze NI: Tabfecccccccs, na ciśnienie robocze —............."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "atm. został przez niżej podpisanego—w myśl żak z dn. 8/Xl—1921 r. MIASTO) marza"
+      },
+      {
+       "type": "text",
+       "text": "(AMICA u zzzaw wik żywy 9..."
+      },
+      {
+       "type": "text",
+       "text": "gmina zrewidowany wewnątrz, sprawdzony co do a ooo, uzbrojenia i ustawiepowiat .."
+      },
+      {
+       "type": "text",
+       "text": "nią oraz wypróbowany ciśnieniem wodnem na. „atm. podług kontrolującego manometru. Na wkrętkach godła wybito cechę.................... oraz wyżej wskazany Nr. kotła. Kocioł poprzednio pracował Opis kotła, główne wymiary, grubość blach, rodzaj paleniska i ciągu."
+      },
+      {
+       "type": "text",
+       "text": "(SF. 2]. U"
+      },
+      {
+       "type": "text",
+       "text": "Powierzchnia ogrzewalna kotła wynoSi.... eee m? » prvegenewannt pary \"ON; 1 rUsZtu.........--.... mF Kocioł zbudowany jest Z: “Materjal został wyprébowany przez. ae Najniższy poziom wody w kotle oznaczony kreską na tabliczce leży * ..mm. ponad linją ogniową i na wysokości................... .oa mm. od - Przy wodowskazie strzałki leżą na wysokości..................... mm. od środka dolnego kranu wodowskazowego. Kocioł ma:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_5/pkt_1",
+       "text": "e eneenenacnne-. PTZYTZĄdY zasilające a mianowicie................... -.. 0 wydajności. ssid „tr. i o wydajności....... It. na godzinę. PNĘ ME _ zawory zasilające ©. m mm. zamykające się ciśnienienie wody w kotle.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_5/pkt_3",
+       "text": "szkieł PRADAZRRAĄJ couse. kranów probijerezych. ima zawory bezpieczeństwa każdy o prześwicie ..mm. obciążone clezaraln) odpowiednio do ciśnienia roboczego = ciężarami sprężynami atm, i= a — Długość ramion wynosi: SEE 7 40 — b z dł oz wó mm. b,= _- mm.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Rurki zabezpieczające sprężyny mają: l"
+        },
+        {
+         "type": "text",
+         "text": "EE AłUgOŚĆ amesecawciewióe mm, Il ................... AłUgOŚĆ Ses ne TIT"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_21/ust_5/pkt_5",
+       "text": "„a „manometr z oznaczonem na tarczy kreską czerwoną roboczem ciśnieniem przy reż a AIM G)| iii „przyrząd : Kozy SPUSÓW znaczka _ Dopełnienia ..",
+       "children": [
+        {
+         "type": "text",
+         "text": "(sir 3). Wobec tego, że budowa kotła, jego uzbrojenie i PERREC śnie są zgodne z zatwierdzonemi w pozwoleniu z dnia... . a Nr. rysunkami, opisem i warunkami, odpowiadają przepisom z den 8/X1 1921. i że wykazane powyżej próbne ciśnienie kocioł wytrzymał dobrze, pozwala się na jego używanie przy roboczem ciśnieniu... „atm.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "pieczątka i podpis rewidenta",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Dopełnienia i uwagi:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Protokuł wszyć do książki kotłowej.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "(strona IJ. Wzór B. Na mocy § 18-go rozporządzenia Ministra Przemysłu i Handlu ojdozorze kotłów parowych z dnia 8 Książkę chronić.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "listopada 1921 r. KSIĘGA REWIZJI Kotła Ne........... Robocze ciśnienie -......................... Atm.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "porządkowy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Powierzchnia ogrzewalna —............... m? Ne fabryczny — 0.2: RG: ZBUdOWSOIA <a W FABRYCE wzw ki Opis kotła: Przyjęty pod dozór przez... Gila uz eee Książka powinna być przechowaną w miejscu pracy kotła i przedstawianą na żądanie władz nadzorczych. (strona 2). Liczby 1—2—3 odnoszą się do kolejnych zmian miejsca pracy kotła. stały ‘ Kocioł przemysłowych Przeznaczony dla celów rolniczych a m o",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5; (ZZA ANIĄ 2: zza w i",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Pomieszczenie kotła:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Imię i nazwisko właściciela: 2 ma",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Dopełnienia:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "ustawiony w przedsiębiorstwie",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Miasto 2",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "ulica 2 .. A a 0 = R R ZE wieś 2 3 |: GIŃIŃA 2 ooo O DB EEEE ' i ZH powiat 2 .. 3",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "W księgę wszyto pod pieczęcią następujące dokumenty:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Pieczątka i podpis rewidenta",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "(strona 3). WYNIKI REWIZJI PRÓB ROTŁA.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "(strona 4).",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "A are . Data wykonania er Termin Rewizji Wyniki rewizji i próby oraz następnej : Próby Wewn.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "zlecenia po ee es Se Próby kę ait",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "VII. Wejście w życie rozporządzenia. 8 22. Z dniem ogłoszenia niniejszego rozporządzenia wchodzą w życie: § 15—z wyjątkiem postanowień, nowych kotłów, § 16, § 18 §20 p. 2§ 4 — wchodzą w życie z p. 2 § 4 wejdą w życie z dniem dotyczących wysokości prób wodnych dla i § 21; pozostałe paragrafy—z wyjątkiem dniem 1 stycznia 1923 r. Postanowienia ogłoszenia warunków i przepisów technicznych, jakim powinny odpowiadać materjały przeznaczone do budowy kotłów. Z chwilą wejścia w życie przepisów niniejszego rozporządzenia tracą , moc obowiązującą odnośne przepisy, obowiązujące dotychczas w tym samym przedmiocie.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "VIII. Przepisy przechodnie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 23.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Kotły, ustawione przed 1 stycznia 1923 r., mogą pracować nada? z zachowaniem warunków, wydanych przy pozwoieniu z wyjątkiem, że a) najdalej w dniu 1 stycznia 1924 r. kotły te będą mieć: 1) manometry, odpowiadające wymaganiom § 8, 2) ciężary zaworów bezpieczeństwa wykonane z jednej sztuki i zaopatrzone korkami z wybitą na nich wagą ciężarów w myśl p. 2 § 7, a przy zaworach sprężynowych rurki niepozwalejące na dociąganie sprężyn w myśl p. 4, 3) wskazówki najniższego poziomu wody w myśl p. 3 § 9, 4) godła, odpowiadające wymaganiom § 13, gdzie to tylko będzie możliwe. Godeł tych jednak cechować nie należy do czasu potrzeby wydania ala tych kotłów nowych pozwoleń w myśl p. 1 § 16, b) w razie potrzeby wydania dla tych kotłów nowych pozwoleń w myśl § 16, po 1 stycznia 1923 r. przepisy niniejsze stosują się całkowicie z wyjątkiem wysokości odbiorczego ciśnienia wednego, które powinno być przyjmowane w granicach przepisów poprzednich. Kotły nowe jak i przestawione mogą być i po wejściu w życie odnośnych przepisów niniejszego rozporządzenia ustawiane w eqgzystujących kotłowniach o ile budynek w zasadniczych wymaganiach odpowiada warunkom niniejszych przepisów.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Do czasu wejścia w życie odnośnych przepisów niniejszego rozporządzenia przy wydawaniu pozwoleń na ustawianie kotiów może być uwzględniona zmiana, żeby ściany, oddzielające kotłownię od sąsiednich pomieszczeń, odpowiadały wymaganiom § 14. M 4, Tam, gdzie książki kotłowe nie były wymagane, organa dozoru nad kotłami obowiązane są je wydać podług wskazanego niniejszemi przepisami wzoru, przy najbliższej rewizji. kotła na podstawie egzystujących dowodów. Oileby wymaganych dowodów nie było, zaś otrzymanie ich od wytwórcy kotła niemożliwe, należy potrzebne dane wypełnić na podstawie wymiarów z natury. Dla kotłów lokomobilowych przenośnych, używanych w rolnictwie rysunek kotła może być zastąpiony zasadniczemi wymiarami. W razie potrzeby ciśnienie robocze powinno być ustanowione podług obliczenia z uwzględnieniem stanu kotła. ,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Do czasu ogłoszenia przepisów i warunków technicznych, jakim powinny odpowiadać materjały przeznaczone do budowy kotłów, w myśl p. 2 § 4 wybór gatunku użytego do budowy kotła materjału może być pozostawiony wytwórcy kotła i jego odpowiedzialności. Dla obliczenia grubości ścian i wytrzymałości połączeń kotła, przy udzielaniu pozwoleń na 1żywanie i ustawianie kotłów za miarodajne należy używać przepisy zatwierdzone przez Zjazd Międzynarodowego Związku Stowarzyszeń dozoru kotłów.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Kierownik Ministerstwa Przemysłu i Handlu: Henryk Strasburger",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

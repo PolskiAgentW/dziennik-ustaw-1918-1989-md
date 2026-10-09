@@ -1,0 +1,679 @@
+{
+ "eli": "DU/1920/223",
+ "title": "Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego w przedmiocie wykonania art. 12 ustawy z dnia 27 maja 1919 r. o ustalaniu i wynagradzaniu nauczycieli publicznych szkół powszechnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/223/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "_ ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "Ministra Wyznań Religijnych i Oświecenia Publicznego"
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie wykonania art. 12 ustawy z dnia 27 maja 1919 Dz. P. P. P. N. 44 poz. 311 o ustalaniu i wynagradzaniu nauczycieli publicznych szkół powszechnych."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy art. 12 ustawy z dnia 27 maja 1919 Dz. P. P. P. N. 44 poz, 311 i na podstawie porozumienia z Ministerstwem Spraw Wewnętrznych, określonego pismem tegoż Ministerstwa z dnia 8 marca 1920 N. A. O. 389/3, postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Na obszarze b. Królestwa Kongresowego należą do klasy miast, określonych w art. 8 przytoczonej ustawy, następujące miejscowości:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "Białystok",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "Częstochowa",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "Lublin",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "Łódź 5 Sosnowiec",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_1/pkt_6",
+     "text": "Warszawa",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do II klasy miast na wymienionym wyżej obszarze należą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "Augustów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "Będzin -3) Biała Podlaska",
+     "children": [
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_2/pkt_2/lit_e",
+       "text": "Eielsk",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_2/pkt_5",
+     "text": "Biłgoraj",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_2/pkt_6",
+     "text": "Brzeziny",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_2/pkt_7",
+     "text": "Chełm",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "art_2/pkt_8",
+     "text": "Ciechanów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "art_2/pkt_9",
+     "text": "Garwolin",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "art_2/pkt_10",
+     "text": "Gostynin",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "art_2/pkt_11",
+     "text": "Grójec",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "art_2/pkt_12",
+     "text": "Grodzisk",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "art_2/pkt_13",
+     "text": "Hrubieszów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "art_2/pkt_14",
+     "text": "Janów Lubelski",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_2/pkt_15",
+     "text": "Jędrzejów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "art_2/pkt_16",
+     "text": "Kalisz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "art_2/pkt_15",
+     "text": "Kielce",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "art_2/pkt_18",
+     "text": "Kolno",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "art_2/pkt_19",
+     "text": "Końskie",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "art_2/pkt_20",
+     "text": "Konin",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "art_2/pkt_21",
+     "text": "Konstantynów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "art_2/pkt_22",
+     "text": "Kozienice *",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "art_2/pkt_23",
+     "text": "Krasnystaw",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "art_2/pkt_24",
+     "text": "Kutno",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "art_2/pkt_25",
+     "text": "Koło = Lipno",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "27",
+     "path": "art_2/pkt_27",
+     "text": "Lubartów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "28",
+     "path": "art_2/pkt_28",
+     "text": "Łask",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "29",
+     "path": "art_2/pkt_29",
+     "text": "Łęczyca",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "30",
+     "path": "art_2/pkt_30",
+     "text": "Łomża",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "31",
+     "path": "art_2/pkt_31",
+     "text": "Łowicz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "32",
+     "path": "art_2/pkt_32",
+     "text": "Łuków",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "33",
+     "path": "art_2/pkt_33",
+     "text": "Maków",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "34",
+     "path": "art_2/pkt_34",
+     "text": "Miechów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "35",
+     "path": "art_2/pkt_35",
+     "text": "Mińsk Mazowiecki",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "36",
+     "path": "art_2/pkt_36",
+     "text": "Mława",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "37",
+     "path": "art_2/pkt_37",
+     "text": "Nieszawa",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "38",
+     "path": "art_2/pkt_38",
+     "text": "Olkusz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "39",
+     "path": "art_2/pkt_39",
+     "text": "Opatów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "40",
+     "path": "art_2/pkt_40",
+     "text": "Opoczno",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "41",
+     "path": "art_2/pkt_41",
+     "text": "Ostrołęka",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "42",
+     "path": "art_2/pkt_42",
+     "text": "Ostrów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "43",
+     "path": "art_2/pkt_43",
+     "text": "Pabjanice",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "44",
+     "path": "art_2/pkt_44",
+     "text": "Pińczów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "45",
+     "path": "art_2/pkt_45",
+     "text": "Piotrków",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "46",
+     "path": "art_2/pkt_46",
+     "text": "Płock",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "47",
+     "path": "art_2/pkt_47",
+     "text": "Płońsk",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "48",
+     "path": "art_2/pkt_48",
+     "text": "Przasnysz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "49",
+     "path": "art_2/pkt_49",
+     "text": "Puławy",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "50",
+     "path": "art_2/pkt_50",
+     "text": "Pułtusk",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "51",
+     "path": "art_2/pkt_51",
+     "text": "Radom 55 Radomsk",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "53",
+     "path": "art_2/pkt_53",
+     "text": "Radziwie pow. Gosty ński",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "54",
+     "path": "art_2/pkt_54",
+     "text": "Radzymin",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "53",
+     "path": "art_2/pkt_53",
+     "text": "Radzyń",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "56",
+     "path": "art_2/pkt_56",
+     "text": "Rawa",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "57",
+     "path": "art_2/pkt_57",
+     "text": "Rypin",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "58",
+     "path": "art_2/pkt_58",
+     "text": "Sandomierz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "59",
+     "path": "art_2/pkt_59",
+     "text": "Sejny",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "60",
+     "path": "art_2/pkt_60",
+     "text": "Siedlce",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "61",
+     "path": "art_2/pkt_61",
+     "text": "Sieradz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "62",
+     "path": "art_2/pkt_62",
+     "text": "Sierpc",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "63",
+     "path": "art_2/pkt_63",
+     "text": "Skarżysko",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "64",
+     "path": "art_2/pkt_64",
+     "text": "Skierniewice",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "65",
+     "path": "art_2/pkt_65",
+     "text": "Słupca",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "66",
+     "path": "art_2/pkt_66",
+     "text": "Sochaczew",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "67",
+     "path": "art_2/pkt_67",
+     "text": "Sokołów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "68",
+     "path": "art_2/pkt_68",
+     "text": "Sokółka",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "69",
+     "path": "art_2/pkt_69",
+     "text": "Suwałki m Szczuczyn",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "71",
+     "path": "art_2/pkt_71",
+     "text": "Tomaszów Lubelski",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "72",
+     "path": "art_2/pkt_72",
+     "text": "Turek",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "73",
+     "path": "art_2/pkt_73",
+     "text": "Węgrów",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "74",
+     "path": "art_2/pkt_74",
+     "text": "Wieluń",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "75",
+     "path": "art_2/pkt_75",
+     "text": "Włocławek -76) Włodawa",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "77",
+     "path": "art_2/pkt_77",
+     "text": "Włoszczowa",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "78",
+     "path": "art_2/pkt_78",
+     "text": "Wysokie Mazowieckie",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "79",
+     "path": "art_2/pkt_79",
+     "text": "Zamość",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "80",
+     "path": "art_2/pkt_80",
+     "text": "Zgierz pow. Łaski",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Do Ill klasy miast na obszarze b. Królestwa. Kongresowego należą: '",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "Busk",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "Dąbrowa Górnicza",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_3/pkt_4",
+     "text": "Janów Podlaski",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_3/pkt_5",
+     "text": "Wierzbnik",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_3/pkt_3",
+     "text": "Chmielnik pow. Stopnicki",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Pozostałe miejscowości na obszarze b. Królestwa Kongresowego należą do IV klasy dodatków ników pieniężnych za mieszkanie i powszechnych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "ekonomicznych wojennych i równoważgrunt dla UALEYGRH publicznych szkół"
+    },
+    {
+     "type": "text",
+     "text": "Frt. 5. Postanowienia niniejszego rozporządzenia obowiązują od dnia 1 lipca 1919."
+    },
+    {
+     "type": "text",
+     "text": "Warszawa, dnia 18 marca 1920 r."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Wyznań Religijnych i Oświecenia Publicznego: T. Łopuszański"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

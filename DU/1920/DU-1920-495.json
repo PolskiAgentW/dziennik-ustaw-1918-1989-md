@@ -1,0 +1,38 @@
+{
+ "eli": "DU/1920/495",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych w przedmiocie uregulowania ruchu publicznego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/495/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Spraw Wewnętrznych w przedmiocie uregulowania ruchu publicznego. Na wniosek Gubernatora Wojskowego m. st. Warszawy i okolic. na mocy rozporządzenia Ministra Spraw Wewnętrznych Dz. Ust. Ne 66 poz. 448 r. 1920 i na mocy art. 2 punktu f) ustawy z dnia 25 lipca 1919 r. w przedmiocie zapewnienia bezpieczeństwa Państwa i utrzymania porządku: publicznego w czasie wojny (Dz. Pr. Ne 61 poz. 364) zarządzam, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Ruch publiczny na ulicach m. st. Warszawy od godziny 10 wieczór do godziny 4 rano jest wzbroniony.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Winni przekroczenia rozporządzenia niniejszego będą karani w drodze administracyjnej aresztem na czas do 3-ch miesięcy lub grzywną de 3000 marek.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 3. „Rozporządzenie niniejsze obowiązuje od dnia ogłoszenia. Warszawa, dn. 9 sierpnia 1920 r. „Minister Spraw Wewnętrznych: w z. /. Kuczyński",
+     "quoted": true
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

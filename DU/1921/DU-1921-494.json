@@ -1,0 +1,62 @@
+{
+ "eli": "DU/1921/494",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych z dnia 13 sierpnia 1921 r. o podwyższeniu opłat za przewóz osób i bagażu na linjach Towarzystwa Akcyjnego Budowy i Eksploatacji Dróg Żelaznych Dojazdowych w Królestwie Polskiem.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/494/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Kolei Żelaznych z dnia 13 sierpnia 1921 r. © podwyższeniu opłat za przewóz osób i bagażu na linjach Towarzystwa Akcyjnego Budowy i Eksploatacji Dróg Żelaznych Dojazdowych w Królestwie Polskiem. Na mocy dekretu z dnia 7 lutego 1919 r. o tymczasowem przekazaniu Ministrowi Komunikacji prawa wydawania przepisów o przewozie osób, bagażu i towarów, oraz ustalania taryf przewozowych na kolejach polskich (Dz. Pr. P. P. Nr. 14 poz. 152) i w porozumieniu z Ministerstwami: Skarbu oraz Przemysłu i Handlu, zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Na linjach Towarzystwa akcyjnego budowy i eksploatacji dró żelaznych dojazdowych w Królestwie Polskiem podwyższa się z dniem sierpnia 1921 r. opłaty:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "do 5 mk. w kl. III i do 7 mk. 50 fen. w kl. Il za osobę i klm.,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "za przejazdy zbiorowe osób w wagonach towarowych, przystosowanych dla ruchu osobowego, do 50 fen. za osobę i kilometr,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "za przewóz bagażu, od każdych zaczętych 10 kg. do 24 fenigów za kilometr.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 20 sierpnia",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "192",
+     "path": "par_2/pkt_192",
+     "text": "r. Minister Kolei Żelaznych: Jasiński",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

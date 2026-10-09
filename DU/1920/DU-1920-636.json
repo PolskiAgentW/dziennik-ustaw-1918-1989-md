@@ -1,0 +1,59 @@
+{
+ "eli": "DU/1920/636",
+ "title": "Rozporządzenie Ministrów Spraw Wojskowych, Skarbu i Pracy i Opieki Społecznej w przedmiocie wynagrodzenia lekarzy dentystów i lekarek dentystek powołanych do osobistych świadczeń wojennych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/636/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministrów Spraw Wojskowych, Skarbu i Pracy i Opieki Społecznej w przedmiocie wynagrodzenia lekarzy dentystów i lekarek dentystek, powołanych do osobistych świadczeń wojennych. Na podstawie art. 12 ustawy z dnia 25 lipca 1919 r. o osobistych świadczeniach wojennych (Dz. O. z r. 1919 Ne 67 poz. 401) zarządza się, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Lekarze dentyści i lekarki dentystki, powołani na podstawie: ustawy o osobistych świadczeniach wojennych, otrzymują przez czas powołania następujące wynagrodzenie: Lekarze dentyści i lekarki dentystki:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "którzy po uzyskaniu dyplomu lekarza dentysty wykonywali praktykę lek.-dent. nie dłużej, jak przez 5 lat—pobory XI rangi wojsk. wraz ze wszystkiemi dodatkami;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "którzy po uzyskaniu dyplomu lekarza dent. wykonywali praktykę lekarsko-dent. dłużej, jak przez 5 lat, a nie dłużej jak 12 lat — pobory X rangi wojskowej wraz ze wszystkiemi dodatkami;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "którzy po uzyskaniu dyplomu lekarsko-dent. wykonywali praktykę: * lekarsko-dent. dłużej jak przez 12 lat—pobory IX rangi wojskowej wraz ze wszystkiemi dodatkami.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Minister Spraw Wojskowych: Sosnkowski Minister Skarbu: w z. Weinfeld Minister Pracy i Opieki Społecznej: E. Pepłowski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Tłoczono w Drukarni Państwowej z polecenia Ministra Sprawiedliwości. STF Cena 80 fen."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

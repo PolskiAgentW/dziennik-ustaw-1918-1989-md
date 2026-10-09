@@ -1,0 +1,139 @@
+{
+ "eli": "DU/1927/891",
+ "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 7 listopada 1927 r. w sprawie częściowej zmiany taryfy celnej z dnia 26 czerwca 1924 r.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/891/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 listopada 1927 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie częściowej zmiany taryfy celnej. z dnia 26 czerwca 1924 r."
+  },
+  {
+   "type": "text",
+   "text": "W częściowem wykonaniu art. 7 lit. i) ustawy z dnia 31 lipca 1924 r. w przedmiocie uregulowania stosunków celnych (Dz. U. R. P. Ne 80, poz. 777) zarządza się co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "\"81. Pozycje 37 p. 4 lit. c), 44 uwaga, 115 i 139 p. 3 taryfy celnej z dn. 26 czerwca 1924 r. (Dz. U. R. P. Ne54, poz. 540) otrzymują następujące brzmienie:"
+  },
+  {
+   "type": "text",
+   "text": "; Cło od a ** Nazwa towaru “ = 37 p. 4 Śledzie: <) wędzone i opiekane: 20.— l. wędzone . brutto 50.— Il. opiekane . brutto 44 Uwaga: Przywóz surowic, objętych p. 4, a także zwalnianie ich od cła, może się odbywać za pozwoleniem Ministerstwa Skarbu. Etery, estry, kolodjum, chloral,"
+  },
+  {
+   "type": "text",
+   "text": "115"
+  },
+  {
+   "type": "text",
+   "text": "chloroform:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "eter (siarkowy), łącznie z wagą. bezpośredniego opakowania. 3 m ad 270.—",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "chlorek etylu, łącznie z wagą Ee reece? 500.—: opakowania. .",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "kolodjum, chloral, chloroform, łącznie z wegą bezpośredniego o pako- 360.— wania .",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "etery i estry, używane w lecznictwie i przemyśle (oprócz wyżej wymienionych), niezawierające spirytusu, łącznie z wagą bezpośredniego 210.— opakowania . Ferrosilicium, o zawartości sili- 139 p. 3 cium:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "150%/o i mniej . . « . 14—",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "powyżej 15% . . . » 14.—",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie czwartego dnia po ogłoszeniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W ciągu 15 dni od dnia ogłoszenia niniejszego rozporządzenia pobierane będzie dotychczasowe cło, o ile chodzi o towary, które:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "zostały nadane do przewozu koleją, statkiem lub pocztą bezpośrednio do polskiego obsza-. ru celnego najpóźniej w przeddzień ogłosze-- nią niniejszego rozporządzenia, lub",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "zalegają na polskim obszarze celnym w dniu ogłoszenia niniejszego rozporządzenia w ceł-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "nych składach urzędowych kolejowych, pocztowych oraz w składach nieurzędowych, pozostających pod zamknięciem celnem."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: Q. Czechowicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: E. Kwiatkowsśi"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa: K. Niezabytowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

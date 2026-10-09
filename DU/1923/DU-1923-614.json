@@ -1,0 +1,105 @@
+{
+ "eli": "DU/1923/614",
+ "title": "Rozporządzenie Rady Ministrów z dnia 30 lipca 1923 r. w przedmiocie sposobu powoływania reprezentanta ludności do stałych Komisji przy dowództwach okręgów korpusu w Warszawie, Lublinie, Łodzi, Grodnie, Brześciu, Lwowie, Przemyślu i Krakowie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1923/614/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 lipca 1923 r."
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie sposobu powołania reprezentanta ludności do stałych Komisji przy dowództwach okręgów korpusu w Warszawie, Lublinie, Łodzi, Grodnie, Brześciu, Lwowie, Przemyślu i Krakowie."
+  },
+  {
+   "type": "text",
+   "text": "Na zasadzie ustępu ostatniego art. 29 tymczasowej ustawy z dn. 27 października 1918 r. o powszechnym obowiązku służby wojskowej (Dz. P. Kr. P. Ne 13 poz. 28) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wchodzący w myśl punktu d art. 29 tymczasowej ustawy o powszechnym obowiązku służby wojskowej (Dz. P. Kr. P. z r. 1918 Ne 13 poz. 28) w skład komisji stałych przy dowództwach okręgu korpusu reprezentant ludności danego okręgu wojskowego, powoływany będzie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "dla komisji stałej przy dow. okr. korp. Warszawa— przez Radę Miejską miasta Werszawy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "dla komisji stałych przy dow. okr. korp. Lublin, Łódź, Grodno i Brześć, przez Rady Wojewódzkie tych województw, na obszarze których znejduje się siedziba odnośnego dowództwa okręgu korpusu,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "dla komisji stałych przy dowództwach okręgów korpusu Kraków, Przemyśl i Lwów, przez Tymczasowy Wydział Samorządowy we Lwowie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Na reprezentanta ludności powołany być może zarówno członek wymienionych w punkcie a), b) i c) ciał jak i osoby z poza ich grona. W tych województwach b. zaboru rosyjskiego, w których Rady Wojewódzkie dotychczas utworzone nie zostały, reprezentanta ludności mianuje Minister Spraw Wewnętrznych na wniosek właściwego wojewody."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Powołani w myśl § 1 reprezentanci zastępują interesy ludności całego odnośnego okręgu korpusu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Powołanym w myśl § 1 reprezentantom ludności w komisji stałej przy dowództwie okręgu korpusu przysługują koszta podróży i djety podług norm każdocześnie obowiązujących w odniesieniu do urzędników państwowych VI stopnia służbowego. Za spełnianie swych funkcji w komisjach, do których ich powołano, reprezentanci ludności nie pobierają żadnego wynagrodzenia. Przewidziany w ustępie pierwszym niniejszego $ wydatek, opłacany będzie z etatu tej władzy (instytucji), która odnośnego reprezentanta ludności powołała.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Wykonanie niniejszego rozporządzenia porucza się Ministrowi Spraw Wewnętrznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: Witos"
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Wojskowych: Szeptycki"
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Kiernik"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

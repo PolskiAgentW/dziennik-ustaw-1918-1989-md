@@ -1,0 +1,56 @@
+{
+ "eli": "DU/1921/54",
+ "title": "Obwieszczenie Ministra Skarbu z dnia 25 listopada 1920 r. w sprawie sprostowania omyłek w rozporządzeniu z dnia 17 września 1920 r. zawierającem przepisy wykonawcze dla b. dzielnicy austrjackiej w przedmiocie należytości od przeniesień majątku pod tytułem darmym, ogłoszonem w Dzienniku Ustaw Rz. P. za r. 1920, nr 95 poz. 628.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/54/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Obwieszczenie Ministra Skarbu"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 listopada 1920 r. w sprawie sprostowania omyłek w rozporządzeniu z dnia 17 września 1920 r, zawierającem przepisy wykonawcze dla b. dzielnicy austrjackiej w przedmiocie należytości od przeniesień majątku pod tytułem darmym, ogłoszonem w Dzienniku Ustaw Rz. P. za r. 1920, Ne 95 poz. 628."
+  },
+  {
+   "type": "text",
+   "text": "W tekście powyżej wymienionego rozporządzenia prostuje się niniejszem następujące omyłki:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w art. 2l, ustęp pierwszy: w wyliczeniu .$$, ulegających uchyleniu, niewłaściwie podano $§ 35 i 57; obie liczby te należy skreślić;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w art. 25, ustęp trzeci: w końcu czwartego wiersza zamiast „w art. 13” powinno być „w art. 14';",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w art. 26, ustęp drugi ze znakiem (5):w trzecim wierszu oraz w art. 27, dział 3, ustęp trzeci w wierszu trzecim (pierwszym na str. 1709 Dz. Ustaw) zamiast „§ 1” powinno być „art. 1”.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Steczkowski"
+    },
+    {
+     "type": "text",
+     "text": "Tłoczono w Drukarni Państwowej e polecenia Ministra Sprawiedliwości, Ma 12533 P Cena 8 marek."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

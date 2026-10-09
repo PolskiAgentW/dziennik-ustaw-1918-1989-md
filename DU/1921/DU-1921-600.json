@@ -1,0 +1,121 @@
+{
+ "eli": "DU/1921/600",
+ "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 1 października 1921 r. w przedmiocie podjęcia ruchu paczkowego między Polską a Szwajcarią.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/600/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 1 października 1921 r. w przedmiocie podjęcia ruchu paczkowego między Polską a Szwajcarją. Na mocy artykułu 10 ustawy z dnia 27 maja 1919 r. o państwowej wyłączności poczty, telegrafu i telefonu (Dz. Pr. P. P. Ne 44, poz. 310) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Podejmuje się ruch paczkowy disdky Polską a Szwajcarją na następujących warunkach:",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "„Zawartość paczek pocztowych mogą stanowić tylko te towary i przedmioty, których przesyłka pocztą nie jest wzbroniona obowiązującemi w każdym z obydwu krajów specjalnemi przepisami, dotyczącemi przywozu wywozu. Paczki, których zawartość stanowią towary warunkowo wzbronione do wwozu lub wywozu, mogą być przyjmowane do przesyłki na podstawie otrzymanych pozwoleń, wydawanych w obydwu krajach przez organa kierujące obrotem towarowym z zagranicą. Paczki niezaopatrzone w tego rodzaju pozwolenia będą przez urzędy pocztowo-celne zwracane z granicy do miejsc nadania. Za fałszywe podanie zawartości paczki zarządy pocztowe nie przyjmują żadnej odpowiedzialności i w razie zwrotu paczki z granicy z powodu braku pozwolenia na wywóz lub wwóz, względnie z powodu fałszywego podania zawartości paczki, opłacone przy nadaniu paczki należytości pocztowe nie będą zwracane.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 3. Do paczek, nadawanych w Polsce, winny być przez nadawcę dołączone: list przesyłkowy zagraniczny, deklaracja celna i deklaracja statystyczna; do paczek, nadawanych w Szwajcarji, — list przesyłkowy i dwie deklaracje celne, z których jedna służy do celów statystycznych, 8 4. Narazie dopuszczona jest wymiana tylko paczek zwykłych, a więc nie mogą być nadawane: paczki z podaną wartością, paczki obciążone pobraniem, paczki pilne i pośpieszne, paczki bez pobierania od odbiorcy specjalnych opłat pocztowych i opłat celnych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 5. Zależnie od wagi ustala się dwie kategorje paczek: paczki do Klgr. i paczki ponad 1 klgr. do 5 klgr.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 6. Opłaty pocztowe muszą być uiszczane przy nadaniu i zależnie od taryfy wewnętrznej i przyjętego stosunku franka złotego do marki polskiej fr. = 800 mk. wynoszą: A) Od paczek wysyłanych z Polski do Szwajcarii:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) zwykiych do 1 RR wagi . . . «. . . 910 mk.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) zwykłych ponad q klgr. do 5 kigr. wagi 1180 ,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) ochronnych . « 1865 ,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) ochronnych , M g w ow LTO , B) Od paczek wysyłanych ze Śzwajcścji do Polski:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) zwykłych do 1 kj wagi ew J]",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) ochronnych a 2",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) zwykłych ponad 1 klgr. do 5 klgr. wagi. da ID 4",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) ochronnych ” : ” LL ” 3",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Odszkodowanie wypłacane w monecie kraju nadania w razie ubytku wagi, uszkodzenia lub zaginięcia paczki nie może przekraczać:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_7/lit_a",
+     "text": "od paczki do 1 klgr. wagi . . . . . 10 fr. względnie 8000 mk.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_7/lit_b",
+     "text": "od paczki ponad klgr. do 5 kigr. wagi 25 fr. względnie 20000 mk.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia- Minister Poczt w rene . Dobrowolski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

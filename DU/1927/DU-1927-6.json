@@ -1,0 +1,90 @@
+{
+ "eli": "DU/1927/6",
+ "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Dóbr Państwowych z dnia 27 grudnia 1926 r. o uzupełnieniu rozporządzenia z dnia 30 października 1925 r. w sprawie częściowej zmiany taryfy celnej z dnia 26 czerwca 1924 roku.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/6/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Dóbr Państwowych"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 grudnia 1926 r. o uzupełnieniu rozporządzenia z dnia 30 października 1925 r. w sprawie częściowej zmiany taryfy celnej z dnia 26 czerwca 1924 roku."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 lit. i) ustawy z dnia 31 lipca 1924 r. w przedmiocie uregulowania stosunków celnych (Dz. U. R. P. Ne 80 poz. 777) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Poz. 20 taryfy celnej z dnia 26 czerwca 1924 r. (Dz. U. R. P. Ne 54 poz. 540) otrzymuje następujące brzmienie: poz. 20 Herbata p. 1 wszelka opróczwymienionej w pp. 2 i 3",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "przywożona w opakowaniach zawierających 1 kg. i mniej samej herbaty — łącznie z wagą bezpośredniego opakowania . . . 500.—",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "w innych opakowaniach . 450.— Herva mate",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "przywożona w opakowaniach zawierających 1 kg. i mniej samej Hervy —",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "łącznie z wagą bezpośredniego opakowania . . . 200.—"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "w innych opakowaniach . 180.— p. 3 Herbata cegiełkowa (czarna i zielona) . . 180.— UWAGA: Herbata denaturowana do wyrobu teiny za pozwoleniem Ministerstwa Skarbu bez cła",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: G. Czechowicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: E. Kwiatkowski"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa i Dóbr Państwowych: K. Niezabytowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

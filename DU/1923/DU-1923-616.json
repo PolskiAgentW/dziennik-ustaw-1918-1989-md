@@ -1,0 +1,704 @@
+{
+ "eli": "DU/1923/616",
+ "title": "Rozporządzenie III Ministra Skarbu wydane w porozumieniu z Ministrem Przemysłu i Handlu z dnia 18 lipca 1923 r. w przedmiocie prowadzenia ksiąg obrotu.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1923/616/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ill Ministra Skarbu wydane w porozumieniu z Ministrem Przemysłu i Handlu"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 lipca 1923 r."
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie prowadzenia ksiąg obrotu."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy art. 50 i 126 ustawy z dnia 14 maja 1923 r. w przedmiocie państwowego podatku przemysłowego (Dz. U. R. P. Ne 58 poz. 412) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przedsiębiorstwa handlowe, wykonywające handel towarowy, winny prowadzić księgi obrotu według załączonych wzorów (Ne 1 i 2). Do ksiąg tych należy każdodziennie zapisywać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "po stronie przychodu: pełną wartość nabytego towaru, uwidaczniając datę nabycia, nazwisko względnie firmę dostawcy, numer rachunku (faktury), otrzymanego od dostawcy, rodzaj, ilość lub wagę i cenę nabytego towaru; wszelkiego rodzaju rzeczywiste wydatki związane z zakupem towarów, a zwiększające ich kalkulacyjną wartość (koszty przewozu, opakowania, przechowania, zabezpieczenia, koszta wynagrodzenia pracowników i inne temu podobne wydatki handlowe i koszty ogólne).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "Po stronie rozchodu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w przedsiębiorstwach handlu hurtowego —poszczególne rozchody towarów, sprzedanych j za gotówkę, wymienionych lub wydanych na kredyt, sprzedanych w handlu jarmarcznym lub w wykonaniu dostaw oraz według cen hurtowych wartość towarów, oddanych do sprzedaży komisowej lub do sprzedaży zakładom handlu detalicznego lub drobnego, należącym do tego właściciela; przyczem księgowanie winno uwidocznić: datę dokonania tranzakcji, nazwisko względnie firmę odbiorcy, numer wystawionego rachunku (faktury), rodzaj, ilość lub wagę, cenę jednostkową i ogólną sumę otrzymaną za każdą sprzedaną względnie wydaną partję towaru. Nadwyżki, osiągnięte ze sprzedaży towarów oddanych do sprzedaży komisowej ponad wartość zaksięgowaną według cen hurtowych «winny być dodatkowo zapisane do ksiąg . obrotu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w przedsiębiorstwach handlu detalicznego „ i drobnego tylko ogólną sumę każdodzien- * nego utargu. Księga obrotu winna być otwarta po stronie przychodu wartością remanentu początkowego, a zamknięta po stronie rozchodu wartością remanentu końcowego. Przy księdze obrotu winny być przechowywane następujące dowody:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "ponumerowane kolejno rachunki (faktury) dostawców oraz wszelkie rachunki poniesionych wydatków, związanych z nabyciem, przechowaniem i zabezpieczeniem towaru, listy płacy pracowników oraz wszelkie inne posiadane dowody, dotyczące wpisów do księgi obrotu tak po stronie przychodu, jakoteż rozchodu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "nadto:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w przedsiębiorstwach handlu hurtowego—kopjał wystawionych rachunków (faktur) i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w przedsiębiorstwach handlu detalicznego i drobnego—dowody obrotu kasowego (bloczki kasowe, kontrola kasy i t. p. zapiski kasowe).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Samodzielne przedsiębiorstwa wykonywania robót (antrepryz) i dostaw winny dla każdej roboty (antrepryzy) lub dostawy prowadzić oddzielne konto w księdze obrotu według załączonego wzoru (Ne 3).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do konta należy zapisywać w chronologicznym porządku:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "po stronie winien: wszelkie sumy wydatkowane w związku z wykonywaną robotą (antrepryzą) lub dostawą (koszt nabycia. materjałów i towarów, koszt najmu robotników, pensji dozorców, personelu technicznego i handlowego oraz wszelkie inne koszty administracyjne i handlowe). Księgowanie winno uwidocznić: datę uskutecznienia wydatku, bliższe określenie tegoż (np. rodzaj, ilość i cena nabywanych materjałów) ewentualnie ze wskazaniem dostawcy zakupionych materjałów i towarów.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "Po stronie ma: sumy otrzymane lub przypadające za już wykonaną robotę (antrepryzę) lub dostawę, ze wskazaniem: daty otrzymania należności lub obciążenia dłużnika i numeru wystawionego rachunku.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przy księdze obrotu winny być przechowywane następujące dowody: do każdego poszczególnego konta kolejno ponumerowane rachunki (faktury) na zakupione materjały i towary, listy płacy pracowników, kopjał wystawionych rachunków oraz wszelkie inne posiadane dowody, dotyczące wpisów tak po stronie winien jakoteż po stronie ma; nadto winny być również przechowywane umowy, dotyczące zaksięgowanych robót względnie dostaw."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przedsiębiorstwa pośrednictwa handlowego, przedsiębiorstwa ekspedycyjne, przewozowe i komunikacyjne winny prowadzić księgę obrotu według załączonego wzoru (Ne 4). Do księgi tej należy każdodziennie zapisywać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "po stronie winien: wszelkie wydatki, ponoszone w związku z wykonywanem przedsiębiorstwem, uwidaczniając: kiedy za co i komu księgowana suma wypłaconą została;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "po stronie ma: sumy pobranych i należnych prowizji, komisowego i wszelkich innych wynagrodzeń za wykonane świadczenia lub usługi, przyczem należy uwidocznić: datę otrzymania należności względnie datę obciążenia dłużnika i wskazać, za jakie świadczenie i od kogo wynagrodzenie otrzymano lub od kogo ono przypada, numer ew. wystawionego rachunku oraz numer ew. zawartej umowy. W przedsiębiorstwach komisowej sprzedaży towarów winien być nadto prowadzony w księdze obrotu oddzielny rachunek (wzór Ne 5), na którem księgować należy: po stronie winien wartość poszczególnych partji otrzymanych w komis towarów, a po stronie ma sumy osiągnięte z poszczególnych sprzedaży, uwidaczniając rodzaj, ilość lub wagę otrzymanego towaru, nazwisko lub firmę komisanta oraz",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "rodzaj, ilość lub wagę sprzedanego towaru, nazwisko lub firmę odbiorcy. Przy księdze obrotu winny być przechowywane następujące dowody: Rachunki względnie pokwitowania odbioru sum wypłaconych za ponoszone koszty i wydatki, listy płacy pracowników, kopjał wystawionych rachunków za wykonane świadczenie, kolejno ponumerowane umowy, listy przewozowe i wszelkie inne dowody, będące w posiadaniu przedsiębiorstwa, a dotyczące wpisów do ksiąg obrotu tak po stronie winien jakoteż po stronie ma."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Wszelkie inne przedsiębiorstwa handlowe winny prowadzić księgę obrotu według przepisów wskazanych w § 1 (dla handlu towarowego) niniej: szego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Przedsiębiorstwa przemysłowe winny prowadzić księgi obrotu według załączonego wzoru (Ne 6).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do ksiąg tych należy każdodziennie zapisywać:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "po stronie winien rzeczywiste koszty pro: dukcji lub fabrykacji łącznie z ogólnemi kosztami administracji i wydatkami handlowemi (koszty nabycia surowców, materjałów do fabrykacji i półfabryka: łów, koszty robocizny, płac personelu technicznego i administracyjnego, koszty ogólne i t. p.) przyczem należy uwidocznić: datę uskutecznienia wydatku, bliższe jego określenie, nazwisko, wzgl. firmę dostawcy i numer otrzymanego rachunku (faktury), rodzaj, ilość lub wagę i cenę zakupionych surowców, półfabrykatów lub materjałów.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "po stronie ma — poszczególne sumy osiąg: nięte za surowce, półfabrykaty i wyroby gotowe, sprzedane za gotówkę, wymienione, wydane na kredyt, użyte do wykonania umów o roboty (antrepryzy) i dostawy, wzgl. obliczoną w cenach hurtowych wartość surowców, półfabrykatów i towarów oddanych do sprzedaży komisowej lub wydanych innym przedsiębiorstwom, przyczem należy uwidocznić: datę dokonanania sprzedaży, numer wystawionego rachunku (faktury), nazwisko wzgl. firmę odbiorcy, rodzaj, ilość lub wagę i cenę sprzedanych względnie wydanych surowców, półfabrykatów lub towarów. Nadwyżki, osiągnięte ze sprzedaży towarów oddanych do sprzedaży komisowej ponad wartość zaksięgowaną według cen hurtowych winny być dodatkowo zapisane do ksiąg obrotu. Księga obrotu winna być otwarta początkowym remanentem surowców, półfabrykatów lub towarów, zamknięta zaś remanentem końcowym.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przy księdze obrotu winny być przechowywane następujące dowody: ponumerowane kolejno rachunki (faktury) dostawców, listy płacy pracowników, wszelkie inne istniejące dowody wydatków, kosztów poniesionych w związku z produkcją. fabrykacją lub administracją przedsiębiorstwa, oraz kopjał rachunków wystawionych na uskutecznione sprzedaże, tudzież wszystkie inne dowody, dotyczące wpisów do ksiąg obrotu tak po stronie ma jakoteż winien."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W księgach obrotu przedsiębiorstw prze: mysłowych, wytwarzających wyroby z cudzych materjałów (wzór Ne 1) należy każdodziennie zapisywać:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Na 78."
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "po stronie winien rzeczywiste koszty przeróbki lub fabrykacji, płace urzędników i robotników, oraz wszelkie inne wydatki związane z przerobem, przechowaniem i zabezpieczeniem towaru, jak również wydatki administracyjne i ogólne przedsiębiorstwa. Księgowanie winno uwidocznić: datę zapisu, numer rachunku (faktury) na zakupione materjały pomocznicze, nazwisko względnie firmę dostawcy oraz rodzaj. wagę lub ilość i cenę tych materjałów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "po stronie ma — sumy wynagrodzeń pobranych za przerób z uwidocznieniem: daty zapisu, kolejnego numeru wystawionego rachunku (faktury) i zawa.tej umowy, na podstawie której robota została wykonaną. nazwiska lub firmy właściciela materjałów oddannych do przerobu, rodzaju wyprodukowanych fabrykatów lub półfabrykatów, oraz jednostko: wej ceny osiągniętej za przerób.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przy księdze obrotu winny być przechowywane następujące dowody: ponumerowane kolejne rachunki (faktury) dostawców, listy płacy pracowników, dowody usprawiedliwiające wszelkie inne wydatki, związane z przeróbką lub administracją, przedsiębiorstwa oraz kolejno ponumerowane umowy o wykonanie robót i kopjał rachunków, wystawionych właścicielom materjałów oddanych do przerobu."
+      },
+      {
+       "type": "text",
+       "text": "8.7. Księgi obrotu winny być prowadzone w jezyku polskim, starannie, bez poprawek, przekreślań i podskrobań."
+      },
+      {
+       "type": "text",
+       "text": "© ile przy zapisach zajdą pomyłki, należy zapis omyłkowy przekreślić atramentem kolorowym, a nad zakreślonym uskutecznić zapis prawidłowy i oko: liczność tę stwierdzić datą i podpisem osoby, która poprawki dokonała."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Osoby i urzędy, powołane w myśl części drugiej art. 50 ustawy z dnia 14 maja 1923 do parafowania ksiąg obrotu, winny poczynając od roku 1924 dokonywać parafowania nowych ksiąg obrotu li tylko pe okazaniu poprzednio oparafowanych ksiąg i po stwierdzeniu, że te ostatnie zostały zapisane do końca. W razie nie zapisania do końca tych ksiąg. winny wspomniane osoby i urzędy przekreślać stronice wolne, czyniąc je niezdatnemi do użytku.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Winni nieprowadzenia ksiąg obrotu stosownie do: przepisów nin. rozporządzenia, albo nieokazania prowadzonych ksiąg obrotu na żądanie osób dokonywujących sprawdzanie przedsiębiorstw, ulegną karze grzywny na mocy art. 97 ustawy z dnia 14 maja 1923.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Przy zaprowadzaniu po raz pierwszy ksiąg obrotu w roku 1923 nie mają zastosowania przepisy nin. rozporządzenia, dotyczące otwierania ksiąg po stronie przychodu — wartością remanentu początkowego.. ma’",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Rozporządzenie niniejsze wchodzi: w iy: cie z dniem 1 wsześnia 1923 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: H. Linde"
+  },
+  {
+   "type": "text",
+   "text": "Minister Przemysłu i Handlu: W. Kucharsk?"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "5 Wzór Ne 1. (Strona 1). KSIĘGA OBROTU (art. 50 ustawy) dla przedsiębiorstwa handlu hurtowego."
+  },
+  {
+   "type": "text",
+   "text": "Wn. Przychód:"
+  },
+  {
+   "type": "text",
+   "text": "> 5 Nazwisko lub firma , Data m = g dostawcy wzgl. treść"
+  },
+  {
+   "type": "text",
+   "text": "Paźdź. 1 ; Remanent „ONE w/g spisu . Opł. kombrne kai 1923 Eo» Opł. abon. telef. RE ' Prenumer. Kur. Warszawi skiego 1/X—31/XII 1923r. „| Dom. ,Zegrze” . : . . ,Paźdź. 2 Syndykat Rolniczy wim „| 2 a. 8 Przewóz żyta. \"dla Młyna Praga < ,.- i ‘ Marki pocztowe s aa 'Pazdz. 3 Wyładunek i zwózka żyta. Wynagrodzenie za bilans półroczny. . . . , ."
+  },
+  {
+   "type": "text",
+   "text": "Z : ' U Data £ Nazwa lub firma odbiorcy z 1923 Pazdz. 1 1 Młyn parowy Praga. . 2 Intendentura D. O. K.1 ."
+  },
+  {
+   "type": "text",
+   "text": "Paźdź. 3 Wysłano do Oddziału w Łodzi oe : . . „ «| 4 Piekarnia Społeiy” . . „| Paźdź. 3 5 Zakł. Przem. K. Michlera . 6 Wysłano dla m/ piekarni ."
+  },
+  {
+   "type": "text",
+   "text": "(Strona 2)."
+  },
+  {
+   "type": "text",
+   "text": "m Rodzaj Ilość lub JE r Cena ;jMarek| Marek towaru waga"
+  },
+  {
+   "type": "text",
+   "text": "i 382500000 300000 300000"
+  },
+  {
+   "type": "text",
+   "text": "75000 żyta 30000 kg. 250000 75000000 75675000 żyta 50000 kg.| -255000 127500000 pszenicy |50000 kg.| 440000 220000000 1000000 250000 348750000 1250000"
+  },
+  {
+   "type": "text",
+   "text": "i"
+  },
+  {
+   "type": "text",
+   "text": "3500000 4750000"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 3). Rozchód: Ma."
+  },
+  {
+   "type": "text",
+   "text": "llość lub"
+  },
+  {
+   "type": "text",
+   "text": "Rodzaj Marek ena towaru waga"
+  },
+  {
+   "type": "text",
+   "text": "żyta 20000 kg.| 275000 55000000 owsa |50000 kg.| 260000 130000000 185000000"
+  },
+  {
+   "type": "text",
+   "text": "pszenicy 20000 kg.| 485000 97000000 pszenicy 1000 kg.| 495000 4950000 101950000"
+  },
+  {
+   "type": "text",
+   "text": "żyta 30000 kg.| 272500 81750000 pszenicy 1000 kg.| 495000 4950000 86700000"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Wzór Ne 2. (Strona 1). KSIĘGA OBROTU (art. 50 ustawy) Przedsiębiorstwa handlu detalicznego."
+  },
+  {
+   "type": "text",
+   "text": "W-n. Przychód. Ne rach. Nazwisko lub firma dostawcy Data wzgl. treść 1923 Paźdz. 1 Remanent towaru w/g spisu Opł. komorne za paźdz. . Pensje personelu za wrze- SN. w wom a ję w «"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 2),"
+  },
+  {
+   "type": "text",
+   "text": "Ilość"
+  },
+  {
+   "type": "text",
+   "text": "Rodzaj Marek|Marek lub waga towaru"
+  },
+  {
+   "type": "text",
+   "text": "87563500 75000 12500000 12575000 » 2| 1 Kraj. hurt herbaty . . .|herbatylll| 100 kg. 42000 4200000 M ‘ ś TIE \"SE\" i 8% Za sprzątanie sklepu . . » 3] 2 Związek Zaw. Cukrowni .| » n » „| Światło we wrześniu . ."
+  },
+  {
+   "type": "text",
+   "text": "li} 50, 44000 2200000 I| 50 , 46000 2300000 250000 8950000 kryszt. 1000 kg. 12000 12000000 kostek 500 , 14000 7000000 187500 19187500 » 5| 3 Etablisents Rheims . . .| sardynki 50 p. 10000 500000 Za znoszenie worków . ."
+  },
+  {
+   "type": "text",
+   "text": "15000 515000 » 6] 4 T-wo Akc. Pluton. . . .| kawy I 50 w 30000 1500000 IE” SCEI"
+  },
+  {
+   "type": "text",
+   "text": "Data T R E"
+  },
+  {
+   "type": "text",
+   "text": "1923 Paźdz. 1 Utarg dzienny w/g bloczków . s: «ib k p ii i a"
+  },
+  {
+   "type": "text",
+   "text": "„M 100 p. 25000 2500000 4000000",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "(Strona 3). Rozchód. Ma.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Ś Ć Marek|Marek",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "1 . e 2 1 ee eee 12846550 wę w 8 wym w MG W e 10657300 s 3 A k ‘i 5 sew «4 € 8 @ ew ee 14528200 „ 4 z E * 5 h",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": ". 9649850 SPE= ” n ” i RENICE 6964730 » 6 E ś 5 5 ŻE ow a BSG EE EG AG 13645200",
+   "quoted": true
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": ".——— eneemmeeeeeepenneeneeeenee neers eeeenee tee — — m — - nana"
+  },
+  {
+   "type": "text",
+   "text": "Wzór Ne 3. (Strona 1)."
+  },
+  {
+   "type": "text",
+   "text": "KSIĘGA OBROTU (art. 50 ustawy) dla przedsiębiorstwa wykonywującego roboty (antepryzy)."
+  },
+  {
+   "type": "text",
+   "text": "(Strona 2), Roboty dla Dowództwa okręgu Rodzaj Ilość lub materjału"
+  },
+  {
+   "type": "text",
+   "text": "Cena Marek |Marek waga 1923 Paźdz. 2 Zwrot kosztów podróży w sprawie belek . . . 217.300 1 Kieltów Sp. a. w/m.. . .| cegły |100000szt. 300 30.000.000 30.217.300 Paźdz. 3 Za plany a'cło. . . ; 2.500.000 2 Za roboty niwelacyjne . ‘ 7.200.000 9.700.000 Paźdz. 4] 3 Sp. A. Kieltów w/m. . .| cegły |300000szt. 295 88.500.000 4 wapna 5000 kg. 25000 1.250.000 89.750.000 Paźdz. 6 Robocizna w/g \"listy „Płacy 24/IX —6/X . . 75.000.000 Dozorcom . 10.500.000 Drobne wydatki kierownika 17.000 85.517.000"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 3). Korpusu Ne 1. (lmowa Ne 17. Ma io WA 1923 Paźdz. 5| 1 Za wykonane roboty przy magazynie Ne 7. . . . . . 175.000.000"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 1)."
+  },
+  {
+   "type": "text",
+   "text": "Wzór Ne 4."
+  },
+  {
+   "type": "text",
+   "text": "KSIĘGA OBROTU (art. 50 ustawy)"
+  },
+  {
+   "type": "text",
+   "text": "Ę dla przedsiębiorstwa komisowej sprzedaży towarów."
+  },
+  {
+   "type": "text",
+   "text": "Wn. (Strona 2),"
+  },
+  {
+   "type": "text",
+   "text": "Data fr e § Ć"
+  },
+  {
+   "type": "text",
+   "text": "1923 Paźdz. 1 Komorne za lokal biurowy 1/X—30/XII..-. . . Czynsz dzierżawy sklepu 1/X—30/XII . . . ... Zwozka i wyładowanie 2 w. węgla , . . . Ty Pażdz. 3 Abonament telefonów 1/X—31/XH . 3. . . . Marki pocztowe i depesza . . kła me a b Koszta podróży do Sosnowca . . . . . . ."
+  },
+  {
+   "type": "text",
+   "text": "(Strona 3)."
+  },
+  {
+   "type": "text",
+   "text": "1923"
+  },
+  {
+   "type": "text",
+   "text": "Marek Marek"
+  },
+  {
+   "type": "text",
+   "text": "BE : 150,006 2.500.000 200.000, 2.850.00C i 500.000 25.000 350.000 875.000"
+  },
+  {
+   "type": "text",
+   "text": "Ma."
+  },
+  {
+   "type": "text",
+   "text": "Paźdz. 2 1 1 Należna prowizja od Warsz. T. K. W. 22.500.000"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Wzór Ne 5, (Strona 1). KSIĘGA OBROTU (art. 50 ustawy) dla przedsiębiorstwa komisowej sprzedaży towarów."
+  },
+  {
+   "type": "text",
+   "text": "Nazwisko lub firma Data"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 2),"
+  },
+  {
+   "type": "text",
+   "text": "Rodzaj Ilość . ena Marek Marek mocodawcy towarów “° waga 1923 paźd. 1 Remanent towarów wjg Spisu Warsz. Tow. Kop. Wegla"
+  },
+  {
+   "type": "text",
+   "text": "» „ \" » . Sp. A. Pustelnik . . ."
+  },
+  {
+   "type": "text",
+   "text": "26,450,000 wegiel gruby |50.000kg.| 425.000 21.250.000 węgiel orzech |50.000 kg. 415.000 20.750.000 |. 42.000.000 cegły 10.000 kg. 270 2.700.000 Sp. A. Kadzielnia . . . wapno 14.375 kg. 25.000 3.593.750 6.293.750"
+  },
+  {
+   "type": "text",
+   "text": "Nazwisko lub firma Data"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 3). Ma."
+  },
+  {
+   "type": "text",
+   "text": "Rodzaj Ilość ; Cena Marek Marek odbiorcy towarów lub waga P"
+  },
+  {
+   "type": "text",
+   "text": "1923 1 Warszt. Mech. Kudełko paźdz. Spółdziel. Mieszk. Lokator. ."
+  },
+  {
+   "type": "text",
+   "text": "wegla orzech 5.000 515.000 2.075.000 cegły 5.000 270 3.425.000"
+  },
+  {
+   "type": "text",
+   "text": "1.350.000"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "-918"
+  },
+  {
+   "type": "text",
+   "text": "Wzór Ne 6, (Strona 1). KSIĘGA OBROTU (art. 50 ustawy) dla przedsiębiorstwa przemysłowegt."
+  },
+  {
+   "type": "text",
+   "text": "Wn."
+  },
+  {
+   "type": "text",
+   "text": "Nazwisko lub firma ' Data dostawcy wzgl. treść"
+  },
+  {
+   "type": "text",
+   "text": "1923 Paźdz. 1 Remanent materjałów w/g inwentarza w a Remanent . . . . ."
+  },
+  {
+   "type": "text",
+   "text": "Robocizna w/g listy 11/9— 30/9. . ANIE Borman i Szwedę reparacje warnika . . . . . Warsz. tow. Kop. Węgla .| Za fracht od 5w. węgla . Wyładowanie buraków 1 kolejce . . . . ‘"
+  },
+  {
+   "type": "text",
+   "text": "Nazwisko lub firma odbiorcy"
+  },
+  {
+   "type": "text",
+   "text": "1923 B-cia Pakulscy Warszawa Paźdz. 1"
+  },
+  {
+   "type": "text",
+   "text": "[NN = Stow. Sp. Spójnia . . Sp. A. Fuchs Warszawa Wysłano do naszego składu sprzedaży w Warszawie. . . +"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 2)."
+  },
+  {
+   "type": "text",
+   "text": "Ilość lub waga:"
+  },
+  {
+   "type": "text",
+   "text": "287.000.000 kryształ |500000kg., 8.000"
+  },
+  {
+   "type": "text",
+   "text": "4,000.000.000 5,387.000.000 kostek 100000kg.| 11.000"
+  },
+  {
+   "type": "text",
+   "text": "1,100.000.000"
+  },
+  {
+   "type": "text",
+   "text": "90.000.000"
+  },
+  {
+   "type": "text",
+   "text": "17.000.000 6.300.000"
+  },
+  {
+   "type": "text",
+   "text": "113.300.000 węgla |150000kg.| 4.200 4.250.000 5.625.000 1.375.000"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 3). Ma."
+  },
+  {
+   "type": "text",
+   "text": "Ilość lub"
+  },
+  {
+   "type": "text",
+   "text": "Rodzaj Cena towarów waga"
+  },
+  {
+   "type": "text",
+   "text": "kryształ 10000kg.| 16.000"
+  },
+  {
+   "type": "text",
+   "text": "160.000.000 : 500 kg.| 16.000"
+  },
+  {
+   "type": "text",
+   "text": "8.000.000"
+  },
+  {
+   "type": "text",
+   "text": "168.000.000"
+  },
+  {
+   "type": "text",
+   "text": "10000 kg.| 16.000"
+  },
+  {
+   "type": "text",
+   "text": "160.000.000"
+  },
+  {
+   "type": "text",
+   "text": "20000 kg.| 16.000"
+  },
+  {
+   "type": "text",
+   "text": "320.000.000 kostek 10000 kg.| 22.000"
+  },
+  {
+   "type": "text",
+   "text": "220.000.000"
+  },
+  {
+   "type": "text",
+   "text": "700.000.000"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 1). wzór Ne 7. KSIĘGA OBROTU (art. 50 ustawy) dla przedsiębiorstwa przemysłowego wytwarzającego wyroby z cudzych materjałów. W-n. Nazwisko lub firma dostawcy wzgl. treść"
+  },
+  {
+   "type": "text",
+   "text": "Nazwisko lub firma wiaściciela materjałów"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 2)."
+  },
+  {
+   "type": "text",
+   "text": "Rodzaj Cena Marek Marek materjałów"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 3). Ma"
+  },
+  {
+   "type": "text",
+   "text": "Rodzaj Ilość Sumy wynagrodzenia Cena fabrykatu lub waga w markach"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

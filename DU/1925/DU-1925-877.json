@@ -1,0 +1,52 @@
+{
+ "eli": "DU/1925/877",
+ "title": "Rozporządzenie Ministra Kolei z dnia 4 grudnia 1925 r. wydane w porozumieniu z Ministrami: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Dóbr Państwowych o uzupełnieniu taryfy towarowej polskich kolei normalnotorowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1925/877/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Kolei z dnia-4 grudnia 1925 r. wydane w porozumieniu z Ministrami: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Dóbr Państwowych o uzupełnieniu taryfy towarowej polskich kolei normalnotorowych. Na mocy ustawy z dnia 12 częrwca 1925 roku o zakresie działania Ministra Kolei Żelaznych i o organizacji urzędów kolejowych (Dz. O. R. P. Ne 57, poz. 580) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W taryfie towarowej polskich kolei normalnotorowych (Dz. U. R. P. z 1924 r. Ne 117, poz. 1061) wprowadza się uzupełnienie następujące: W części V „Taryfy wyjątkowe” dodaje się nową taryfę wyjątkową Ne 26 o brzmieniu następujacem: „TARYFA WYJĄTKOWA Ne 26. Na przewóz buraków cukrowych (z gr. 4).",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Obszar ważności. Od wszystkich stacyj okręgu stanisławowskiego do stacji Przeworsk.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Opłaty. Przewoźne za przesyłki całowagonowe przewożone na odległość powyżej 300 km. oblicza się według kl. IX, a przy przesyłkach w składzie całych pociągów (najmniej 700 ton) od stacyj kolei prywatnych przewoźne, obliczone osobno za odległość kolei prywatnych i osobno za odległość kolei państwowych, zmniejsza się ponadto o kwotę, równą pojedynczemu wymiarowi opłaty stacyjnej”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Minister Kolei: Cbądzyński Minister Skarbu: J. Zdziecbowski Minister Przemysłu i Handlu: Osiecki Minister Rolnictwa i Dóbr Państwowych: Kiernik",
+   "children": [
+    {
+     "type": "text",
+     "text": "=="
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

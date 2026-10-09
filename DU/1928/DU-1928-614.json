@@ -1,0 +1,132 @@
+{
+ "eli": "DU/1928/614",
+ "title": "Rozporządzenie Ministra Rolnictwa z dnia 8 czerwca 1928 r. wydane w porozumieniu z Ministrem Spraw Wewnętrznych w sprawie zarobkowego leczenia i trzebienia zwierząt przez osoby nieposiadające dyplomu lekarza weterynaryjnego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1928/614/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Rolnictwa"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 czerwca 1928 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrem Spraw Wewnętrznych w sprawie zarobkowego leczenia i trzebienia zwierząt przez osoby nieposiadające dyplomu lekarza weterynaryjnego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 17 pkt. g) i art. 112 rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 sierpnia 1927 r. o zwalczaniu zaraźliwych chorób zwierzęcych (Dz. U. R. P. Nr. 77, poz. 673) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Osoby nieposiadające dyplomu lekarza weterynaryjnego winny 'o zamierzonem trudnieniu się zarobkowem leczeniem lub trzebieniem (kastrowaniem) zwierząt gospodarskich w powiecie zawiadomić niezwłocznie właściwego starostę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Osobom wymienionym w § 1 wzbroniony jest wstęp do zagród, stajen, obór, chlewów, kurników i innych pomieszczeń, w których znajdują się zwierzęta chore lub podejrzane o zaraźliwą chorobę, podlegającą obowiązkowi zgłaszania,",
+   "children": [
+    {
+     "type": "text",
+     "text": "W razie koniecznej potrzeby starosta może zezwolié na wyjątki co do leczenia zwierząt w zapowietrzonej zagrodzie lub w zapowietrzonem pomieszczeniu, jak również co do trzebienia zwierząt w zapowietrzonej zagrodzie lub w zapowietrzonem pomieszczeniu pod warunkiem, że trzebienie będzie wykonane poza obrębem pomieszczeń, w których znajdują się zwierzęta chore lub podejrzane o chorobę. Przepis ten nie ma zastosowania do zagród i wymienionych wyżej pomieszczeń, zapowietrzonych księgosuszem, zarazą płucną bydła rogatego, pryszczycą, ospą owczą, pomorem i zarazą świń."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Leczenie lub trzebienie przez osoby, wymienione w § 1, zwierząt dotkniętych zaraźliwemi chorobami zwierzęcemi, podlegającemi obowiązkowi zgłaszania, z wyjątkiem gruźlicy, jest wzbronione.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 4, Po wykonaniu zabiegu leczniczego lub trzebienia wymienione w § 1 osoby winny w każdym \"wypadku przed opuszczeniem zagrody lub pomieszczenia wymyć ciepłą wodą z mydłem ręce i inne zanieczyszczone nieokryte części ciała, jak również oczyścić ubranie, obuwie i narzędzia używane przy wykonywaniu zabiegu leczniczego lub trzebienia. W razie wykonywania za zezwoleniem starosty zabiegów w zagrodach lub pomieszczeniach zapowietrzonych (§ 2 ust. 2), oprócz wymycia nieokrytych części ciała i oczyszczenia ubrania, obuwia i narzędzi należy przeprowadzić również należyte ich odkażenie według przepisów § 9 załącznika Nr. 2 do rozporządzenia Ministra Rolnictwa z dnia 9 stycznia 1928 r. (Dz. U. R. P. Nr. 19, poz. 167)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Osoby, wymienione w § 1, obowiązane są prowadzić według załączonego wzoru dziennik, do którego winny zapisywać niezwłocznie wszystkie zwierzęta poddane zabiegom leczniczym lub trzebieniu, i dziennik ten na żądanie okazywać powiatowemu lekarzowi weterynaryjnemu jak również innym organom władz administracji ogólnej. Dziennik należy przechowywać w ciągu jednego roku od jego zakończenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Osobom, wymienionym w § 1, jest bezwarunkowo wzbronione:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_6/lit_a",
+     "text": "stosowanie szczepionek, zawierających żywe zarazki zaraźliwych chorób zwierzęcych, jak również preparatów do rozpoznawania takich chorób, :",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_6/lit_b",
+     "text": "stosowanie środków leczniczych trujących lub gwałtownie działających, które na podstawie obowiązujących przepisów mogą być wydawane tylko za receptą lekarza lub lekarza weterynaryjnego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_6/lit_c",
+     "text": "otwieranie zwłok i wykonywanie sekcji zwierząt chorych na zaraźliwą chorobę zwierzęcą lub podejrzanych o nią.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa: K. Niezabytowski"
+  },
+  {
+   "type": "text",
+   "text": "Minister Spraw Wewnętrznych: Sławoj Składkowski"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Załącznik do rozp. Min. Roln. z dnia 8 czerwca 1928 r. (poz. 614). DZIENNIK CZYNNOŚCI A OZ EA tees ZZA PA RAM R I A A w W te O O W W A 0 W MZR enero (imię i nazwisko wykonywającego zabiegi lecznicze i trzebienie), zamieszkałego W -ccmoceoroccuesnemnemqmmnmnenntnennenetnen , (miejscowość, gmina, powiat, województwo)."
+  },
+  {
+   "type": "text",
+   "text": "Oznaczenie zwierząt według ilości, rodzaju"
+  },
+  {
+   "type": "text",
+   "text": "Uwagi: Przypuszczalne Wykonane za- (zabiegi powtów: Nr Imię, nazwisko i miejsce określenie cho- biegi i stoso- Data zamieszkania posiadacza : : ; ~\" |ne z podaniem zwierzęcia i płci roby wane środki daty) porz."
+  },
+  {
+   "type": "text",
+   "text": "m,"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

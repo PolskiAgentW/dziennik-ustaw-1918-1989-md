@@ -1,0 +1,93 @@
+{
+ "eli": "DU/1920/652",
+ "title": "Rozporządzenie Ministra Zdrowia Publicznego w przedmiocie zgłaszania zatruć ołowiem, cynkiem, fosforem, arszenikiem i rtęcią w zakładach przemysłowych, fabrykach i warsztatach.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/652/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "Ministra Zdrowia Publicznego"
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie zgłaszania zatruć ołowiem, cynkiem, fosforem, arszenikiem i rtęcią w zakładach przemysłowych, fabrykach i warsztatach."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 p. 12 zasadniczej ustawy sanitarnej z dnia 19 lipca 1919 r. (Dz. Ust. Ne 63, poz. 371), oraz art. 1 ust. 2 art. 3 ust. d. i art. 24 ustawy w przedmiocie zwalczania chorób zakaźnych oraz innych chorób występujących nagminnie z dnia 25 lipca 1919 r. (Dz. Ust. Ne 67, poz. 402), zarządzam w porozumieniu z Ministrem Pracy i Opieki Społecznej, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "O każdym przypadku zatrucia ołowiem, cynkiem, fosforem, arszenikiem i rtęcią w zakładach przemysłowych, fabrykach i warsztatach, jak również o każdym przypadku, wzbudzającym podejrzenie, co do któregokolwiek z wymienionych zatruć należy w ciągu 24 godzin zawiadomić właściwe władze komunalne z podaniem nazwiska i dokładnego adresu chorego. Obowiązek zgłaszania obciąża osoby, wymienione w art. 5 ustawy o zwalczaniu chorób zakaźnych, oraz innych chorób występujących nagminnie, a w szczególności:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "lekarza wezwanego do porady;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "kierowników zakładów leczniczych i położniczych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "każdą osobę zajmującą się dozorem lub pielęgnowaniem chorych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_1/lit_d",
+     "text": "głowę rodziny lub osobę, na której pieczy znajduje się chory;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_1/lit_e",
+     "text": "kierowników wszelkich zakładów przemysłowych, fabryk i warsztatów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Władze komunalne względnie ich organy sanitarne po otrzymaniu zgłoszenia winny niezwłocznie zarządzić dochodzenie celem ustalenia rozpoznania zatrucia i jego pochodzenia, zawiadamiając jednocześnie o otrzymanem zgłoszeniu właściwy powiatowy Urząd Zdrowia. Powiatowy (rząd Zdrowia poda ustalony pod względem rozpoznania przypadek do wiadomości właściwemu Inspektorowi Pracy i w porozumieniu z nim w myśl art. 9 ustawy w przedmiocie zwalczania chorób zakaźnych oraz innych chorób występujących nagminnie stwierdzi, czy zarządzone przez władze komunalne środki zapobiegawcze są przeprowadzone i wystarczające, a ewentualnie wyda potrzebne dalsze zarządzenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Frt. 3. Przekroczenie przepisów niniejszego rozporządzenia będzie karane w myśl art. 25 ustawy w przedmiocie zwalczania chorób zakaźnych oraz innych chorób występujących nagminnie."
+    },
+    {
+     "type": "text",
+     "text": "Warszawa, dnia 20 września 1920 r."
+    },
+    {
+     "type": "text",
+     "text": "Minister Zdrowia Publicznego: w z. Chodźko"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

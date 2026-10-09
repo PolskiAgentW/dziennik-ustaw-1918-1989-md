@@ -1,0 +1,54 @@
+{
+ "eli": "DU/1921/568",
+ "title": "Rozporządzenie Rady Ministrów z dnia 19 września 1921 r. w przedmiocie zaliczek na poczet podatku obrotowego, obowiązującego w b. dzielnicy pruskiej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/568/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Rady Ministrów z dnia 19 września 1921 roku w przedmiocie zaliczek na poczet podatku obrotowego, obowiązującego w b. dzielnicy pruskiej. Na mocy art. 18 ustawy z dnia 1 sierpnia 1919 r. o tymczasowej organizacji zarządu b. dzielnicy pruskiej (Dz. Pr. Na 64, poz. 385) i § 24 ust. 3 niemieckiej ustawy z dnia 26 lipca 1918 r. o podatku obrotowym (Dz. (st. Rzeszy str. 779) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W § 61 przepisów wykonawczych Rady Związkowej do ustawy o podatku obrotowym według ogłoszenia Kanclerza Rzeszy z dnia 26 lipca 1918 r. (Dziennik Centralny Rzeszy Niemieckiej str. 229) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "liczbę „60* w ustępie 1 zastępuje się na rok 1921 liczbą „1000*;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "słowa „podczas trwania wojny* w ustępie 2 skreśla się.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wykonanie niniejszego rozporządzenia powierza się Ministrowi , b. Dzielnicy” Pruskiej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia, z mocą obowiązującą od dnia 1 stycznia 1921 r. Prezydent Ministrów: Ponikowski Minister b. Dzielnicy Pruskiej: Dr. J. Trzciński",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

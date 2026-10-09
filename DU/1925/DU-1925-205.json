@@ -1,0 +1,1121 @@
+{
+ "eli": "DU/1925/205",
+ "title": "Rozporządzenie Ministra Reform Rolnych z dnia 13 lutego 1925 r. o stosowaniu instrukcji technicznej do wykonywania prac pomiarowych, związanych z przebudową ustroju rolnego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1925/205/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Reform Rolnych"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 lutego 1925 r."
+  },
+  {
+   "type": "text",
+   "text": "o stosowaniu instrukcji technicznej do wykonywania prac pomiarowych, związanych z prze- _ budową ustroju rołnego."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy art. 1 oraz punktu g) art. 2 ustawy z dnia 11 sierpnia 1923 r. o zakresie działania Ministra Reform Rolnych i organizacji urzędów i komisyj ziemskich (Dz. U. R. P. Ne 90, poz. 706) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W pracach związanych z przebudową ustroju rolnego na obszarze województw: białostockiego, kieleckiego, lubelskiego, łódzkiego, nowogródzkiego, poleskiego, warszawskiego i wołyńskiego oraz na obszarze okręgu administracyjnego wileńskiego, obowiązuje instrukcja techniczna o brzmieniu według załącznika do niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie po upływie dni 14 od jego ogłoszenia i jednocześnie traci moc obowiązującą Tymczasowa Instrukcja Techniczna dla geometrów, wykonywujących roboty miernicze przy pracach, prowadzonych przez urzędy ziemskie Ministerstwa Rolnictwa i Dóbr Państwowych (Monitor Polski NeNe 105, 106, 107 i 108, rok 1919).",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Reform Rolnych: W. Kopczyński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Reform Rolnych z dnia 13 lutego 1925 r. poz. 205.",
+   "body": [
+    {
+     "type": "text",
+     "text": "INSTRUKCJA TECHNICZNA"
+    },
+    {
+     "type": "text",
+     "text": "do wykonywania robót mierniczych związanych z przebudową ustroju rolnego na obszarze województw: białostockiego, kieleckiego, lubelskiego, łódzkiego, nowogródzkiego, poleskiego. warszawskiego i wołyńskiego oraz na obszarze okręgu administratyjnego wileńskiego."
+    },
+    {
+     "type": "text",
+     "text": "I."
+    },
+    {
+     "type": "text",
+     "text": "Wskazania ogólne."
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "par_1",
+     "text": "Prace pomiarowe, związane z przebudową ustroju rolnego, składają się z następujących czynności:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ne 29,"
+      },
+      {
+       "type": "text",
+       "text": "granic obszaru podlegającego tej przebudowie,"
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/pkt_2",
+       "text": "pomiaru granic zewnętrznych tego obszaru,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/pkt_3",
+       "text": "pomiaru szczegółów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/pkt_4",
+       "text": "określenia położenia linij klasyfikacyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_1/pkt_5",
+       "text": "sporządzenia pierworysu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_1/pkt_6",
+       "text": "sporządzenia projektu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_1/pkt_7",
+       "text": "wprowadzenia projektu na grunti utrwalenia go znakami granicznemi oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_1/pkt_8",
+       "text": "sporządzenia planów, rejestrów i innych dowodów pomiarowych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "O niezbędności wszystkich lub tylko niektórych z wyżej wymienionych czynności należy decydować odnośnie do każdej poszczególnej sprawy w zależności od jej charakteru i zgodnie z odpowiedniemi paragrafami niniejszej instrukcji.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "par_3",
+     "text": "Pomiary i obliczenia nałeży wykonywać w miarach metrycznych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "par_4",
+     "text": "Pomiary i obliczenia należy wykonywać w ten sposób i z taką dokładnością, jakie są wskazane w niniejszej instrukcji; wszelkie odchylenia od ~ niej, spowodowane wyjątkowemiokolicznościatni, winny być należycie umotywowane.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "par_5",
+     "text": "Przy wykonaniu pomiarów należy sto» sować jakie metody pracy, które dałyby możność uniknąć deptania zasiewów, usuwania ogrodzeń, ścinania drzew it. p. uszkodzeń, które są dopuszczalne tylko w razie nieuniknionej konieczności.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ustalenie, względnie wznowienie, granic zewnętrznych (obwodnicy)."
+      },
+      {
+       "type": "text",
+       "text": "\" 86. Przed dokonaniem pomiaru granic zewnętrznych obszaru, na którym mają być dokonane czynności, związans z przebudową ustroju rolnego, nałeży dokonać odgraniczenia trybem, przewidzianym w rozporządzeniu - Ministra Reform Rolnych z dnia 2 czerwca 1924 r. o ustalaniu i wznawianiu zewnętrznych granic obszarów, podlegających przebudowie ustroju rolnego (Dz. U. R. P. Ne 55, póz. 551)."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "7",
+     "path": "par_7",
+     "text": "Przy odgraniczaniu danego obszaru na załamaniach granic prostolinijnych (obwodnicy) należy stawiać kopce z drewnianerni palami pośrodku. Pal o średnicy najmniej 5 cm. i długości 1 mtr. należy wbijać względnie zakopywać w ziemię na głębokość 50 cm., kładąc wokoło niego wewnątrz kopca materjały trwałe (kamienie, cegłę, gruz i t. p.). Kopiec mocno ubity, w formie stożka ściętego, winien mieć w dolnej części średnicę 2 mtr., wysokość— 50 cm. i być okopany rowkiem szerokości i głębokości najmniej po 20 cm. Na gruntach bagnistych, wśród zabudowań i w t. p. miejscach, gdzie powyższy znak graniczny byłby nieodpowiedni, należy wbijać wzgłędnie zakopywać pale bez kopców, lub zakopywać znaki podziemne, przewidziane w § 9. W razie użycia znaków granicznych bardziej doskonałych, w postaci słupów betonowych, kamiennych it. p. — kopców sypać nie należy.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "8",
+     "path": "par_8",
+     "text": "Jeżeli na linjach obwodnicy, dłuższych od 400 mtr. nie zostaną w następstwie usypańe kopce",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "graniczne nowozaprojektowanych parcel, wówczas należy na tych linjach mniej więcej co 200 mtr. usypywać kopce (bez pali) o wymiarach wskazanych w § 11. Kopce te winny być usypywane w ten sposób, aby z kopca poprzedniego był widoczny kopiec następny."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "9",
+     "path": "par_9",
+     "text": "Na załamaniach linij magistralnych, będących podstawą do pomiaru za pomocą rzędnych granic krzywolinijnych (rzek, jezior, wąwożów it. p.), należy zakopywać znaki podziemne jednego z następujących typów:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_9/lit_a",
+       "text": "pal drewniany ostro zakończony o średnicy najmniej 5 cm., długości—50 cm., kładąc wokoło ii materjały trwałe (kamienie, gruz it. p.),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_9/lit_b",
+       "text": "kamień lub blok betonowy wagi najmniej 15 klg. względnie cegła dobrze wypalona z wyznaczonemi na tych znakach centrami w postaci wyżłobionych na krzyż dwóch rowków lub też wydrążonego otworu i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_9/lit_c",
+       "text": "rurka drenarska (sączek). Znaki powyższe zakopywać należy na głębokości co najmniej 50 cm., licząc od górnej części znaku podziemnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "10",
+     "path": "par_10",
+     "text": "Punkty załamania ciągów poligonowych, utrwalone wyłącznie znakamipodziemnemi, orazpunkty załamania związkowych ciągów poligonowych, należy „oznaczać na gruncie zapomocą dwóch pali o średnicy 5 cm. i długości co najmniej 50 cm., z których jeden, odpowiednio scentrowany, powinien być wbity narówni z powierzchnią ziemi, a drugi (zanumerowany) wystawać obok nad jej powierzchnią nie więcej niż na 15 cm.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "11",
+     "path": "par_11",
+     "text": "Granice nowozaprojektowanych parcel należy utrwalać na gruncie znakami granicznemi, przewidzianemi w § 7 z tą różnicą, że kopiec winien mieć w średnicy 1 mtr. Miedze nowozaprojektowanych parcel należy przeorywać dwiema skibami na siebie.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "12",
+     "path": "par_12",
+     "text": "Punkty przecięcia granic nowozaprojekwanych parcel z linjami magistralnemi (przewidzianemi w § 9) należy utrwalać na gruncie zapomocą pali o średnicy 5 cm., długości 50 cm., wbitych, względnie zakopanych, narówni z ziemią,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ill."
+      },
+      {
+       "type": "text",
+       "text": "Pomiar granic zewnętrznych."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "13",
+     "path": "par_13",
+     "text": "Podstawą pomiaru winna być sieć poligonowa, składająca się z poligonu obwodowego i związkowych ciągów poligonowych. Minimalna ilość ciągów związkowych jest następująca: na obszarze do 200 ha .... 1 ciąg 5 » od 200 „ 500 „ «1... 2 ciągi 5 Ę » 500 „ 1000 , ....3 , it.d. licząc mniej więcej, zależnie od figury i warunków terenu, jeden ciąg związkowy na każde 300 ha obszaru. Na terenach ponad 500 ha poligony winny mieć wewnątrz figury punkt węzłowy, tworząc w ten sposób sieć poligonową, wyrównaną z uwzględnieniem wag poszczególnych ciągów poligonowych,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "14",
+     "path": "par_14",
+     "text": "Pomiary obszarów ponad 2000 ha, za wyjątkiem terenów leśnych, zaleca się opierać na trjangulacji lokalnej.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "15",
+     "path": "par_15",
+     "text": "Kąty poligonu obwodowego i związkowych ciągów poligonowych należy mierzyć przy dwóch położeniach lunety sprawdzonym jednominutowym teodolitem lub takąż astrolabja, a boki mierzyć dwukrotnie stalową taśmą 20 metrową (sprawdzoną). Z dwóch wyników należy brać średnią arytmetyczną, zaokrąglając ją do 5 cm.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "16",
+     "path": "par_16",
+     "text": "Różnica d między wynikami dwóch pomiarów jednej i tej samej linji — 1, powinna się zawierać w granicach:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_16/lit_a",
+       "text": "na terenie sprzyjającym pomiarom d=0,0002-1-+-0,006 V 1 + 0,02,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_16/lit_b",
+       "text": "na terenie średnim = 0,00025-1 + 0,0075 V 1 + 0,025,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_16/lit_c",
+       "text": "na terenie nie sprzyjającym pomiarom: d = 0,00035 - 1-- 0,0105 VY 1 + 0,035, Największe dopuszczalne różnice dwóch pomia- — rów w żadnym wypadku nie mogą przekraczać 2 d.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "17",
+     "path": "par_17",
+     "text": "Boki poligonu, nachylone do poziomu pod kątem większym od 3°, winny być zredukowane na poziom. Na terenie górzystym o znacznych i zmiennych pochyłościach wskazanem jest boki poligonu mierzyć zapomocą drewnianych łat od 3—5 mtr. długich, układanych poziomo zapomocą libelli lub śród wagi; koniec łaty, wznoszący 'się nad terenem, rzutować zapomocą pionu. .",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 18 Stanowiska instrumentu na poligonie obwodowym i związkowych ciągach poligonowych należy obierać możliwie w ten sposób, iżby. przy pomiarze kątów można było celować na podstawę, nie zaś na wierzchołek tyczki. Na poligonie obwodowym stanowiska instrumentu obierać należy możliwie na kopcach. j"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "19",
+     "path": "par_19",
+     "text": "Części obwodnicy o bokach krótszych od 100 mtr. należy mierzyć jednym z następujących sposobów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/pkt_1",
+       "text": "jako oddzielne ciągi poligonowe, łącząc punkty końcowe tych ciągów—związkowym ciągiem poligonowym (§ 22), lub też",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/pkt_2",
+       "text": "zapomocą rzędnych (taśmą) od linji ciągu poligonowego. Ten ostatni sposób może być stosowany tylko w tym razie, jeżeli długość rzędnych nie przewyższa 20 metrów, przyczem odległości pomiędzy zdejmowanemi w ten sposób kopcami granicznemi powinny być pomierzone jeden raz taśmą:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "20",
+     "path": "par_20",
+     "text": "Gdy granicę danego obszaru stanowi środek rzeki, jeziora, łub wąwozu, wówczas od ciągu poligonowego (lini; magistralnych) należy mierzyć rzędne do obydwóch brzegów rzeki, jeziora lub: wąwozu, przyczem: \"RE",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_20/lit_a",
+       "text": "przy szerokości rzeki, jeziora lub wąwozu nieprzekraczającej 20 mtr., rzędne do bliższego i przeciwległego brzegów należy mierzyć taśmą; długość rzędnych do przeciwległego brzegu nie powinna przekraczać 40 mtr; :",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "242 Dziennik u staw. Poz. 205."
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_20/lit_b",
+       "text": "przy szerokości rzeki, jeziora lub wąwozu od 20 do.50 mtr., rzędne do bliższego brzegu należy mierzyć taśmą, do przeciwległego zaś brzegu — dalekomierzem; długość rzędnych do przeciwległego brzegu nie. powinna 'przekraczać 70 mtr.; —",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_20/lit_c",
+       "text": "przy szerokości rzeki, jeziora lub wąwozu ponad 50 mtr., na przeciwległym brzegu należy zakładać osobny ciąg poligonowy, od którego rzędne do tegoż brzegu należy mierzyć taśmą; długość tych rżędnych nie powinna przekraczać 20 mtr.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Jeżeli granicę danego obszaru stanowi nie środek, lecz bliższy brzeg rzeki, jeziora lub wąwozu, wówczas rzędnych do przeciwległógo brzegu można nie mierzyć."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "21",
+     "path": "par_21",
+     "text": "O ile rzeka, jezioro, bagno lub wąwóz przecinają linję poligonu tak, że długości tej linii lub jej części mierzyć bezpośrednio taśmą nie można, to długość ta winna być obliczona trygonometrycznie. Dostępne dla pomiarów w tym celu długości należy mierzyć dwukrotnie.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "22",
+     "path": "par_22",
+     "text": "Związkowe ciągi poligonowe, o ile wa. runki terenowe na to pozwalają, nie powinny odchylać się znacznie od prostej, t. j. kąty winny być zbliżone do 180°, boki zaś tych ciągów powinny być mniej więcej jednakowej długości, około 200—300 metrów każdy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV."
+      },
+      {
+       "type": "text",
+       "text": "Pomiar szczegółów. —"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "23",
+     "path": "par_23",
+     "text": "Jeżeli na dany obszar jest stary plan, który odpowiada warunkom § 24, to nie należy mierzyć nanowo szczegółów oraz granic starych parcel, lecz brać takowe ze starego planu. „ « § 24. Starym planem można pospać się w wypadkach następujących:",
+     "children": [
+      {
+       "type": "text",
+       "text": "a) jeżeli wspomniany plan suedsagia naogół prawdziwy i dokładny obraz danego terenu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) jeżeli miary wzięte z gruntu, zapomocą spe” cjalnie w tym celu założonych ciągów rewizyjnych, różnią się od tych samych miar wziętych z planu (po uwzględnieniu skurczu “ papieru), nie więcej niż o sumę 0,5 + 3d, gdzie d oblicza się, jak w § 16,",
+       "quoted": true
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_23/lit_c",
+       "text": "jeżeli ogólna powierzchnia U, wskazana w rejestrze pomiarowym i sprawdzona na planie (po uwzględnieniu skurczu papieru) różni się od powierzchni U', obliczonej na podstawie wyników nowego pomiaru obwodnicy, nie więcej niż o wielkość U — UZ 1/250 U', a powierzchnie kilku poszczególnych (kontrolnych) dziatek—o wielkości u—u £ 1/25 u.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "25",
+     "path": "par_25",
+     "text": "Podstawą do pomiaru szczegółów wiriny być instrumentalne ciągi szczegółowe, nawiązywane do poligonu obwodowego lub poligonów związkowych, przyczem w ciągach szczegółowych kąty należy mierzyć zapomocą kątomiaru przy jednem położeniu lunety, a linję — jeden raz taśmą.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ne 29,"
+      },
+      {
+       "type": "text",
+       "text": "-§ 26. Szczegóły należy mierzyć zapomocą rzędnych oraz domiarów pod kątami dowolnemi taśmą lub dalekomierzem, zapomocą przecięć, lub też innemi sposobami, wskazanemi w geodezji."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "27",
+     "path": "par_27",
+     "text": "Przy wyborze sposobów dla pomiaru szczegółów, jak to: konturów sytuacyjnych, linij klasyfikacyjnych i granic starego stanu posiadania (przy scalaniu) należy mieć na względzie, iż zapomocą wybranych sposobów winna być osiągnięta dokładność nie mniejsza niż podana:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_27/lit_a",
+       "text": "dla długości*w p. b § 2",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_27/lit_b",
+       "text": "dla powierzchni w § 57.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "28",
+     "path": "par_28",
+     "text": "Pomiary stolikowe, oparte na sieci poligonowej, mogą być stosowane pod warunkiem, że dokładność tych pomiarów nie będzie niższą od wymagań niniejszej instrukcji. -§ 29. Ciągi, zakładane dla pomiaru siedlisk, winny być mierzone z dokładnością przewidzianą w $§ 15 i 16.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "30",
+     "path": "par_30",
+     "text": "Linje klasyfikacyjne winny być na gruncie oznaczone palikami. Pomiaru tych linij należy dokonywać w ten sam sposób, co i szczegółów sytua cyjnych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Notatnik pomiarowy i szkice polowe."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "31",
+     "path": "par_31",
+     "text": "Przy pomiarach ciągów poligonowych i szczegółów, jak również przy wyznaczaniu na gruncie projektu podziału, winny być prowadzone notatnik pomiarowy i szkice polowe. Prowadzić je należy w jednym zeszycie, którego lewe strony są przeznaczone na notatnik, a prawe na szkic.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "32",
+     "path": "par_32",
+     "text": "W notatniku pomiarowym należy zapisywać czysto i wyraźnie wszystkie wyniki pomiaru kątów i boków we właściwych rubrykach według ustalonego wzoru.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "33",
+     "path": "par_33",
+     "text": "Szkice polowe, prowadzone w dużej skali, powinny przedstawiać jasny i zrozumiały dla każdego technika obraz pomierzonego obszaru z wykreślonemi linjami pomiarowemi oraz wyraźnie napisanemi cyframi, przedstawiającemi wyniki pomiaru tych linij. Na szkicach tych winny być opisane różne rodzaje użytków, rzeki, jeziora, uroczyska i drogi oraz punkty przecięcia ich z bokami poligonów, stare parcele (numery tabelowe lub nazwiska właścicieli) oraz grunty przyległe. Różne rodzeje użytków (ziemia orna, pastwisko, łąka i t. d.) notować należy według faktycznego ich stanu, nie zaś według zdatności gleby do tego lub. innego użytku.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "34",
+     "path": "par_34",
+     "text": "Przy prowadzeniu notatnika pomiarowego i szkiców polowych błędnie napisanych liczb nie, należy przerabiać, lecz przekreślać i pisać nad niemi liczby właściwe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI."
+      },
+      {
+       "type": "text",
+       "text": "Sporządzanie i obliczanie pierworysu."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "35",
+     "path": "par_35",
+     "text": "Pierworysy należy sporządzać w układzie współrzędnych prostokątnych na podstawie Pe łudnika magnetycznego.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Na 29."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "36",
+     "path": "par_36",
+     "text": "Dla poligonów obwodowego i związkowych odchyłka w kątach nie powinna przewyższać 15 Vain — liczba kątów, a we współrzędnych — długości fL obliczanej ze wzoru: fL = 0,00035 L + 0,105 VL + 0,035 (L — długość poligonu). W razie o trzy” mania większej odchyłki, pomiar odpowiedniej części poligonu należy na gruncie powtórzyć.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "37",
+     "path": "par_37",
+     "text": "Odchyłki kątowe należy rozrzucać przedewszystkiem na kąty o bokach krótkich, przyczem wielkość poprawki na jeden kąt nie powinna przekraczać jednej minuty. Przy wyrównywaniu kąty zaokrąglać do jednej minuty. Odchyłki w przyrostach współrzędnych należy rozrzucać proporcjonalnie .do. długości boków, bądź też — do absolutnej wielkości: przyrostów. 8 38. Poligony należy wyrównywać w ten sposób, iżby poprawki, otrzymane dla nich z obliczenia sąsiednich poligonów, wzajemnie się dopełniały.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "39",
+     "path": "par_39",
+     "text": "Jeżeli poligony mają punkt węzłowy, to. odchyłki należy rozrzucać z uwzględnieniem wag poszczególnych ciągów poligonowych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "40",
+     "path": "par_40",
+     "text": "Przed przystąpieniem do wyrównania kątów i obliczenia współrzędnych należy sporządzić na papierze kancelaryjnym lub szkicowym szkic cią: gów poligonowych w skali o tyle dużej, aby kąty i linje mogły być na nim wyraźnie opisane.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "41",
+     "path": "par_41",
+     "text": "Obliczenia współrzędnych należy układać w. osobnym rejestrze według ustalonego wzoru.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "42",
+     "path": "par_42",
+     "text": "Pierworysy i plany należy wykreślać w jednej PROCH podziałek: 1 :5000, 1 : 4000, 1:2000, 1:1000. Gdyby na pierworysie lub planie, s oesie w jednej z powyższych podziałek, niektóre drobne szczegóły nie mogły być należycie ujawnione, wówczas należy te szczegóły wykreślać oddzielnie w podziałce 2, 4, 8it.d. razy większej od podziałki pierworysu lub płanu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "43",
+     "path": "par_43",
+     "text": "Zasadnicze wymiary dla pierworysów i planów są następujące:.",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_43/lit_a",
+       "text": "mały—50 cm. x50 cm.,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_43/lit_b",
+       "text": "średni—50 cm.x70 cm.,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_43/lit_c",
+       "text": "normalny—70 cm.xX70 cm. i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_43/lit_d",
+       "text": "duży—70 cm. X 100 cm., wliczając w powyż- \" 'sze wymiary margines szerokości 5 cm. Dla pierworysów, w razie umieszczenia całego pomierzonego obszaru na jednym arkuszu, wymiar jego może być dowolny, lecz nie mniejszy niż 50 cm. X 50 cm.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "44",
+     "path": "par_44",
+     "text": "Jeżeli cały obszar nie mieści się na jednym arkuszu, wówczas winien on być podzielony na kompleksy, które należy wykreślać na oddzielnych sekcjach jednakowej wielkości o jednym z wymiarów podanych w § 43.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "45",
+     "path": "par_45",
+     "text": "Podstawą do oznaczania na pierworysie i planie punktów obliczonych ze współrzędnych jest sieć kwadratów, ułożona równolegle do brzegów arkusza sekcyjnego. Boki sieci kwadratów powinny być równemi 10 cm,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "46",
+     "path": "par_46",
+     "text": "Poligony obwodowy i związkowe należy wykreślać \"zapomocą współrzędnych, sprawdzając długość i kierunek boków. i",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "47",
+     "path": "par_47",
+     "text": ". Ciągi szczegółowe mogą być wykreślane zapomocą przenośnika albo zapomocą ESO kątów azymutalnych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "48",
+     "path": "par_48",
+     "text": "Dla ciągów szczegółowych odchyłka nie powinna przewyższać: w kątach — 4Vn, we współrzędnych—1/500 L, graficzna zaś—1/300 L.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "49",
+     "path": "par_49",
+     "text": "Odchyłkę w ciągach szczegółowych należy rozrzucać tylko na te ciągi.:",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "50",
+     "path": "par_50",
+     "text": "Po wyrównaniu saad” GGGGGGIAWICH, na ich podstawie, wykreślać należy szczegóły wewnętrzne oraz linje klasyfikacyjne.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "51",
+     "path": "par_51",
+     "text": "Na pierworysie należy wykreślać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_51/lit_a",
+       "text": "tuszem czarnym:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_51/pkt_1",
+       "text": "linjami ciągłemi: obwodnicę, granice starych parcel i granice poszczególnych użytków (jeżeli granicę stanowi środek rzeki, to wykreśla się obadwa jej fbrzegi, środek zaś rzeki oznacza się linją kreskowaną),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_51/pkt_2",
+       "text": "kreskami: poligony, o ile nie kryją się z miedzami, i wszelkie domiary, .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_51/pkt_3",
+       "text": "szczegóły gruntu (według znaków konwencjonalnych);",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_51/pkt_3/lit_b",
+         "text": "tuszem niebieskim: sieć kwadratów linjami ciągłemi;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_51/pkt_3/lit_c",
+         "text": "tuszem czerwonym:",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_51/pkt_1",
+       "text": "linjami ciągłemi— części obwodnicy, o trzy mane po wyprostowaniu granic i zamia nie gruntów oraz granicę nowych (zapro jektowanych) parcel,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_51/pkt_2",
+       "text": "kreskami—nowe ciągi palgonow, odnoszące się do wymienionych w p. 1- części obwodnicy, i granice sporne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_51/pkt_3",
+       "text": "nowe drogi, według znaków konwencjonalnych;",
+       "children": [
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_51/pkt_3/lit_d",
+         "text": "tuszem zielonym: linje klasyfikacyjne — kreskami.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "52",
+     "path": "par_52",
+     "text": "Na pierworysie należy opisywać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_52/lit_a",
+       "text": "tuszem czarnym: długości boków poligonu obwodowego i związkowych ciągów poligonowych; wszelkie domiary i ich podstawy; numery stanowisk w poligonie obwodowym i związkowych ciągach poligonowych; kierunek dróg, nazwy wsi i majątków; nazwy rzek, jezior i uroczysk; powierzchnie poszczególnych użytków; litery gruntów przyległych; przy scalaniu — numery omiedzowań;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_52/lit_b",
+       "text": "tuszem czerwonym: dł ugości boków nowych ciągów poligonowych, wymienicnych w § 51 p. c — 2, numery punktów tych ciągów, wszelkie miary ciągów poligonowych, oirzymane z gruntu, zapomocą których projekt był wniesiony na grunt, oraz numery i powierzchnie ogólne nowych parcel; (numeracja parcel powinna być dokonywana w ten sposób. aby jednakowe numery nie powtarzały się);",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_52/lit_c",
+       "text": "tuszem niebieskim: numery własności starych działek;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_52/lit_d",
+       "text": "tuszem zielonym: klasy gruntu (cyframi rzymskiemi) i powierzchnie konturów klasyfikacyjnych. Przy opisywaniu należy w ogóle trzymać się zasady, że wszelkie miary piszą się tym kolorem, jakim są wykreślone linje, do których się one odnoszą.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "53",
+     "path": "par_53",
+     "text": "Jeżeli w niektórych częściach pierworysu linje są na tyle drobne, że opisać ich wyraźnie nie można, to należy je wykreślić w większej podziałce na wolnem miejscu sekcyjnego arkusza i tam opisać.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "54",
+     "path": "par_54",
+     "text": "W opisie pierworysu, ułożonym według ustałonego wzoru, powinny być wskazane: nazwa objektu, gminy, powiatu i województwa, akt prawny, na mocy którego były prowadzone pomiary (postanowienie komisji ziemskiej lub inne odpowiednie), nazwisko wykonawcy, południk, podziałka planu, ogólna powierzchnia, wykaz miar, opis gruntów przy: ległych oraz wykaz znaków konwencjonalnych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "55",
+     "path": "par_55",
+     "text": "Kąty poligonów, rzuty poziome boków oraz azymuty, lub rumby boków, należy wnosić, według ich numerów, odpowiednim kolorem do osobnej tablicy, wykreślonej na pierworysie, pod tytułem „Wykaz miar”. W wykazie miar należy opisywać naprzód obwodnicę, a następnie poszczególne ciągi poligonowe.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "56",
+     "path": "par_56",
+     "text": "Ogólną powierzchnię całego pomierzonego obszaru oraz powierzchnie poszczególnych kompleksów, na które dany obszar został podzielony, obliczać nałeży ze współrzędnych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "57",
+     "path": "par_57",
+     "text": "Obliczanie powierzchni poszczególnych konturów winno postępować od ogółu do szczegółów w sposób następujący:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_57/pkt_1",
+       "text": "w granicach każdego kompleksu (§ 56) obliczać powierzchnie poszczególnych konturów: klas gruntu, użytków i t. p. zapomocą planimetru, obwodząc kontury co najmniej 2 razy lub też geometrycznie dwoma różnemi sposobami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_57/pkt_2",
+       "text": "w granicach wyżej wymienionych konturów obliczać temiż sposobami powierzchnie drobnych szczegółów: działek klasyfikacyjnych w omiedzowaniach, drobnych części użytków i t. p. Różnica pomiędzy obliczoną ze współrzędnych powierzchnią kompleksu U, a sumą powierzchni konturów nie powinna przewyższać 1/100 U, różnica pomiędzy powierzchnią konturu K, ‘a sumą powierzchni drobnych szczegółów — nie powinna przewyższać 1/50 K. W razie otrzymania większej różnicy obliczenia należy powtórzyć. Dopuszczalne różnice należy rozrzucać:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_57/pkt_2/lit_a",
+         "text": "w granicach kompleksów na poszczególne kontury i",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_57/pkt_2/lit_b",
+         "text": "w granicach konturów —na drobne szczegóły — proporcjonalnie do powierzchni.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "58",
+     "path": "par_58",
+     "text": "Różnica dwóch obliczeń powierzchni wymienionych: w § 57 nie powinna przekraczać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_58/lit_a",
+       "text": "dla konturów—1/50 obliczanej powierzchni i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_58/lit_b",
+       "text": "dla drobnych szczegółów — 1/25 obliczanej powierzchni. , W razie otrzymania większej różnicy obliczenia należy powtórzyć. Przy dopuszczalnych różnicach należy brać średnią arytmetyczną.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "59",
+     "path": "par_59",
+     "text": "Przy scalaniu należy obliczania starego stanu posiadania dokonywać zgodnie z § 57, przyjmując za podstawę powierzchnię klas gruntu. Powierzchnię poszczególnych omiedzowań (starych par-",
+     "children": [
+      {
+       "type": "lit",
+       "num": "cel",
+       "path": "par_59/lit_cel",
+       "text": "obliczać należy jako sumę powierzchni drobnych działek klasyfikacyjnych, wyrównanych w granicach poszczególnych konturów klas gruntu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "60",
+     "path": "par_60",
+     "text": "O ile w poszczególnym wypadku nie będzie powzięta inna odnośna decyzja, powierzchnie starych parcel, stanowiących jeden numer: tabeli likwidacyjnej, względnie jedno omiedzowanie, obliczać należy jako jedną całość, powierzchnie zaś oddzielnych posiadłości w granicach tego numeru tabelowego lub omiedzowania obliczać na podstawie prawnych aktów podziału.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "61",
+     "path": "par_61",
+     "text": "Rachunek powierzchni i cen starych parcel według klas gruntu należy sporządzać według ustalonego wzoru.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "62",
+     "path": "par_62",
+     "text": "Jeżeli za podstawę do określenia war” tości, względnie powierzchni nowych działów zostanie przyjęty sprawdzony stary plan, tabela likwidacyjna, lub też inny dokument, to granic starych. nie należy zdejmować, na pierworysie nie wykreślać, powierzchnie zaś ich brać z rejestru pomiarowego wspomnianego planu, tabeli lub innego wiarogodnego dokumentu. Wtedy w operacie pomiarowym do pierworysu należy dołączyć wspomniany plan, odpis tabeli lub inny. dokument.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "63",
+     "path": "par_63",
+     "text": "Na pierworysie należy kolorować drogi (za wyjątkiem podlegających skasowaniu), rowy — oraz obwódką: granice wód i granice gruntów przy” ległych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Vi."
+      },
+      {
+       "type": "text",
+       "text": "Sporządzanie projektu podziału."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "64",
+     "path": "par_64",
+     "text": "Projekt podziału należy sporządzać i wykreślać na pierworysie.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "65",
+     "path": "par_65",
+     "text": "Przy projektowaniu należy przechodzić: od ogółu ku szczegółom. W tym celu należy uprzednio zaprojektować główne drogi, potem kompleksy (grupy) parcel, a po obliczeniu ze współrzędnych powierzchni tych kompleksów, względnie po obliczeniu ich wartości — przystąpić do projektowania po* szczególnych parcel. :",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "66",
+     "path": "par_66",
+     "text": "Poszczególne parcele należy projektować sposobem kolejnych przybliżeń zapomocą współrzędnych, planimetrem lub geometrycznie. Jeżeli różnica pomiędzy powierzchnią, względnie wartością zaprojektowaną a powierzchnią, względnie wartością zadaną U nie przewyższa 1/100 U, wówczas można uważać projektowanie za ukończone. i Dia parcel o powierzchni do 0,5 ha dupuszcza się dokładność projektowania 1/50,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dziennik: Ustaw. Poz. 205. Ne 29."
+      },
+      {
+       "type": "text",
+       "text": "Ostatnia parcela, jaka wypadnie w rezultacie projektowania poprzednich parcel, powinna zawierać powierzchnię, względnie wartość, różniącą się od zadanej nie więcej niż o 1/100, względnie 1/50, jeżeli parcela jest mniejszą od 0,5 ha. W razie otrzymania większej różnicy projektowanie należy powtórzyć."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "67",
+     "path": "par_67",
+     "text": "Zaprojektowane powierzchnie parcel winny być wyrównane w kompleksach. Suma powierzchni parcel, projektowanych w granicach danego kompleksu, nie powinna się różnić od obliczonej ze współrzędnych powierzchni K kompleksu więcej niż o 1/250 K.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "68",
+     "path": "par_68",
+     "text": "Jeżeli przy projektowaniu zapomocą planimetru 1/100 względnie 1/50 (§ 66) powierżchni projektowanej parceli jest mniejszą od wartości jednej podziałki planimetru, to taką parcelę należy projektować oddzielnie w większej skali.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "69",
+     "path": "par_69",
+     "text": "W planach, rejestrach i dokumentach pomiarowych jako ostateczne należy ujawniać: 1) powierzchnie zadane — w tych wypadkach, kiedy były one naprzód ściśle określone, jako obowiązujące przy projektowaniu, 2) powierzchnie wyrównane we wszyst: kich innych wypadkach, gdy projektowanie jest dokonywane na podstawie wartości gruntu, określonej przy klasyfikacji.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "70",
+     "path": "par_70",
+     "text": "Projekt należy sporządzać w ten sposób, aby cały podlegający podziałowi obszar mógł być podzielony na oddzielne zamknięte poligony, w których granicach poszczególne parcele mogłyby być wyznaczone na gruncie tylko zapomocą taśmy bez użycia kątomierza.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "71",
+     "path": "par_71",
+     "text": "Po wykreśleniu projektu podziału należy określić z danych na pierworysie wszystkie te kąty i linje, które są niezbędne do wniesienia projektu na grunt. Powyższe dane należy otrzymywać w miarę możności, zapomocą współrzędnych.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "72",
+     "path": "par_72",
+     "text": "Przed wyznaczeniem na gruncie zaprojektowanych parcel należy wnieść do szkicownika wszystkie dane, wymienione w § 71.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VIII."
+      },
+      {
+       "type": "text",
+       "text": "Wprowadzenie projektu na grunt."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "73",
+     "path": "par_73",
+     "text": "Przy wprowadzaniu projektu na grunt należy uprzednio wyznaczyć główne drogi, potem linje, odcinające kompleksy (grupy) parcel, a następnie w granicach tych komplesów, *\"anaczać poszczegó|- ne parcele.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "74",
+     "path": "par_74",
+     "text": "Jeżeli początek lub koniec wyznaczonej linji nie. trafia na żaden z punktów poligonu, lecz znajduje się na jednym z jego boków, to należy mierzyć oba odcinki tego boku jeden raz lub krótszy z nich dwukrotnie.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "75",
+     "path": "par_75",
+     "text": "Jeżeli wyznaczona linja ma załamania, należy tyczyć ją, mierząc kąty i boki, albo metodą linijną, a otrzymaną odchyłkę rozrzucić na gruncie w ten sposób, jak to się robi na planie. Wspomniana odchyłka nie powinna przewyższać 1/500 L (L — długość wyznaczonej linji łamanej). Po zaprojektowaniu na gruncie należy ciąg pomierzyć i obliczyć, przyczem odchyłka nie powinna przekraczać dw u krotnej przewidzianej w § 16.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "76",
+     "path": "par_76",
+     "text": "Jeżeli linja projektu wyznaczona na gruncie jest nachyloną do poziomu pod kątem większym od 3°, to należy ją mierzyć, dodając. odpowiednią poprawkę na pochyłość.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "77",
+     "path": "par_77",
+     "text": "Wyniki pomiaru kątów i linij, przy wyznaczaniu parcel na gruncie, należy wnosić do tych samych nonatnika i szkiców, w których już były, zgodnie z § 72, zanotowane dla nich dane otrzymane z pierworysu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "IX."
+      },
+      {
+       "type": "text",
+       "text": "Sporządzanie planu ostatecznego i innych dokumentów pomiarowych."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "78",
+     "path": "par_78",
+     "text": "Operatpomiarowy dlawszystkich prac, związanych z przebudową ustroju rolnego, winien zawierać następujące dokumenty: a) pierworys, b) plan ostateczny, c) rejestr pomiarowy w dwóch egzemplarzach,",
+     "children": [
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_78/lit_d",
+       "text": "notatnik porniarowy i szkice polowe, e) rachunek współrzędnych i powierzchni ze współrzędnych, zarówno ogólnej, jak kompleksów, f) protokóły ustalenia granic ze zwrotnemi egzemplarzami wezwań, stron interesowanych, g) szkice wyrównania ciągów poligonowych oraz h) dokładne opisy znaków podziemnych (miejsce i wygiąd). Wszelkie inne dokumenty pomiarowe, nieprzewidziane w niniejszym paragrafie, lecz niezbędne dla poszczególnych prac, związanych z przebudową ustroju rolnego, należy wykonywać zgodnie z obowiązującemi dla tych prac przepisami.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "79",
+     "path": "par_79",
+     "text": "Pierworys i plan ostateczny winny być sporządzone na papierze rysunkowym. Wskazanem jest sporządzanie ich na papierze rysunkowym naklejonym na płótno.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "80",
+     "path": "par_80",
+     "text": "We wszystkich pracach, związanych z przebudową ustroju rolnego, za wyjątkiem prac scaleniowych, plan ostateczny może być sporządzony drogą kopjowania pierworysu.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "81",
+     "path": "par_81",
+     "text": "Przy pracach scaleniowych plan osła: tęczny, sporządzony w ten sposób, co i pierworys, to znaczy nie drogą kopjowania pierworysu, powinien przedstawiać nowy stan posiadania po scaleniu bez granic starych parcel.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "82",
+     "path": "par_82",
+     "text": "Przy wszystkich pracach, związanych z przebudową ustroju rolnego, na płanie ostatecznym należy wykreślać obwodnicę i odnośne poligony w tyn stanie, w jakim okazały się one po zamianie gruntów i wyprostowaniu granic, — wszystko tuszem czarnym; granice nowych działów, wykreślone tuszem czarnym, nałeży podcieniowywać karminem; granice sporne należy wykreślać tuszem czerwonym. Linij klasyfikacyjnych wnosić nie należy, resztę i inij należy wykreślać tak samo jak i na pierworysie,",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "83",
+     "path": "par_83",
+     "text": "Opisywać na planie ostatecznym należy wszystko to, co i na pierworysie, za wyjątkiem danych, dotyczących klasyfikacji i starego stanu posiadania. Prócz tego należy na nim opisywać: a) tuszem czarnym — powierzchnie poszczególnych użytków w aranicach nowych działów, b) tuszem czer-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "w onym opisywać kolejne NeNe parcel, oraz ogólne ich powierzchnie."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "84",
+     "path": "par_84",
+     "text": "Dane geodezyjne, umieszczone na pierworysie i planie, należy uważać za dostateczne, jeżeli za ich pomocą można zawsze wyznaczyć na gruncie ' granice każdej nowoutworzonej parceli. \"885. Plan ostateczny należy kolorować według znaków konwencjonalnych. 8 86. Na planach dla hipoteki, zakolorowanych według znaków konwencjonalnych, należy wykazywać: wszystko to, co i na planie ostatecznym, ze wszystkiemi danemi geodozyjnemi, załączając do każdego planu jeden egzemplarz rejestru pomiarowego, względnie umieszczając ten rejestr na planie. 8 87. „Wymienione w § 78 dokumenty, oprócz pierworysów, planów i rejestrów pomiarowych, winny być przez wykonawcę skompletowane w porządku chronologicznym postępowania prac technicznych, uzupełnione spisem rzeczy ze wskazaniem NeNe stronic, wszyte do okładki, przenumerowane i, po wykazaniu na ostatniej karcie ogólnej liczby stronic, podpisane przez wykonawcę.",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

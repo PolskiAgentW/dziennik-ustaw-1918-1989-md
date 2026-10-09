@@ -1,0 +1,48 @@
+{
+ "eli": "DU/1920/226",
+ "title": "Rozporządzenie Ministra Skarbu w przedmiocie przyjmowania rubli carskich przy wpłatach na 5% wewnętrzne pożyczki państwowe z 1920 roku.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/226/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Skarbu w przedmiocie przyjmowania rubli carskich przy wpłatach na 5'”/o-we wewnętrzne pożyczki państwowe z 1920 roku. Tytułem wykonania ustaw z dnia 27 lutego 1920 r. w przedmiocie wypuszczenia pięcioprocentowych długo—i krótkoterminowej wewnętrznych pożyczek państwowych z 1920 r. (Dz. Ust. R. P. NeNe 21 i 25 z 1920 r. poz. 115 i 152) zarządzam co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "przy wpłatach na 5\"/,-we wewnętrzne pożyczki państwowe zr. 1920 aż do odwołania przyjmować się będzie ruble carskie w odcinkach po 100 i 500 rubli po kursie 216 mk. polskich za 100 rubli carskich;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "pozostałość w markach, wynikającą z kursu przerachowania, nie. przekraczającą 50 marek, zwracać się będzie przy wpłacie, w razie zaś, gdy pozostałość ta przewyższy 50 marek, subskrybent obowiązany będzie dopłacić w markach do pełnej setki;",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "przy uskutecznianiu wpłat na wewnętrzne pożyczki państwowe z r. 1920 w walucie rublowej na tymczasowych świadectwach tych pożyczek notować się będzie sumę rubli carskich, wpłaconą za te świadectwa. Warszawa, dnia 1 maja 1920 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: w z. R. Rybarski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

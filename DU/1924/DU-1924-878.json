@@ -1,0 +1,90 @@
+{
+ "eli": "DU/1924/878",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 18 października 1924 r. wydane w porozumieniu z Ministrem Przemysłu i Handlu w sprawie częściowej zmiany taryfy, zawierającej podział miejscowości na klasy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1924/878/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Skarbu z dnia 18 października 1924 r. wydane w porozumieniu z Ministrem Przemysłu i Handlu w sprawie częściowej zmiany taryfy, zawierającej podział miejscowości na klasy. Na mocy art. 26 ustawy z dnia 14 maja 1923 r. w przedmiocie państwowego podatku przemysłowego (Dz. U. R. P. Ne 58 poz. 412) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Do części I załącznika do art. 23 ustawy z dnia 14 maja 1923 r. (Dz. U. R. P. Ne 58 poz. 412) wprowadza się następujące zmiany: I. Wymienione w ustępie B. tegoż załącznika miasta Borysław i Drohobycz przenosi się z klasy miejscowości do II klasy. I. Niżej podane miejscowości, wymienione w ustępie C. powołanego załącznika przenosi się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "z klasy Il do Ill: miasta: Łomżę, Oświęcim, Płock, Suwałki, powiat bydgoski oraz z powiatu bialskiego woj. krakowskiego gminy: Helenów, Komorowice, Mikuszowice, tudzież miasta Kęty i Wilamowice;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "z klasy Il do IV: powiat bialski (woj. krakowskie) z wyjątkiem Białej i Lipnika, które pozostają w klasie Il oraz z wyjątkiem gmin i miast, wymienionych wyżej pod 1), Ill. Przenosi się następujące miejscowości, wymienione w ustępie D. powołanego załącznika, a położonego na obszarze izb skarbowych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "białostockiej: z klasy Ill do IV: Ostrołękę; ji [IV ,- Ill: powiat białostocki;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "kieleckiej: z klasy HI do IV: Pińczów;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "krakowskiej: z klasy IV do Ill: w powiecie nowotarskim Szczawnicę Wyżną i Szczawnicę Niżną, a w powiecie wadowickim m. Fndrychów i Wadowice;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_2/lit_d",
+       "text": "łódzkiej: z klasy IV do Ill: Ozorków; 5 Il „ Il: Zgierz;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_2/lit_e",
+       "text": "łuckiej: z klasy IV do III: Zdołbunowo;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_2/lit_f",
+       "text": "poznańskiej: z kłasy Ill do IV: Nowe Skalmierzyce;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_2/lit_g",
+       "text": "warszawskiej: z klasy IV do Ill: Grójec, Sierpc, Skierniewice. 8 2. Rozporządzenie niniejsze obowiązuje od roku podatkowego 1925, odnośnie do wszystkich świadectw nabywanych na rok 1925. Minister Skarbu: W. Grabski Minister Przemysłu i Handlu: Józef Kiedroń",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

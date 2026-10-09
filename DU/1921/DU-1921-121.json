@@ -1,0 +1,384 @@
+{
+ "eli": "DU/1921/121",
+ "title": "Rozporządzenie Ministra Aprowizacji z dnia 22 lutego 1921 r. w sprawie ograniczenia spożycia.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/121/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Ne 21. Dziennik Ustaw. Paz. 121. 259"
+  },
+  {
+   "type": "ust",
+   "num": "121",
+   "path": "ust_121",
+   "text": "Rozporządzenie Ministra Aprowizacji z dnia 22 lutego 1921 r. w sprawie ograniczenia spożycia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Na podstawie art. 3 ystawy z dnia 2 lipca 1920 r. o zwalczaniu lichwy wojennej (Dz. Ust. R. P. w 1920 r. Nr 67 poz. 449) oraz rozporządzenia Rady Ministrów z dnia 25 listopada 1920 r. w przedmiocie przekazania Ministrowi Aprowizacji prawa do wydawania zarządzeń w zakresie regulacji i ograniczenia sprzedaży oraz spożycia nabiału i mięsa (Dz. Ost. R. P. z 1920 r. Nr 114 poz. 754), rozporządzenia Rady Ministrów z dnia 14 lutego 1921 w przedmiocie przekazania Ministrowi Aprowizacji prawa do wydawania zarządzeń w zakresie regulacji wypieku chleba, tudzież regulacji i ograniczenia sprzedaży oraz spożycia chleba i cukru (Dz. (st. R. P. z 1921 r. Nr 18 poz. 103 i rozp. Rady Ministrów z dnia 21 lutego 1921 r. w sprawie przekazania Ministrowi Aprowizacji prawa do wydawania rozporządzeń w zakresie ustalania i ujawniania cen oraz ograniczania konsumcji i sprzedaży (Dz. Ust. R. P. z 1921 Nr. 21 poz. 114) zarządza się co następuje: ."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wypiekiem pieczywa pozakontyngentowego w celach dalszej odsprzedaży lub zamiany na mąkę mogą się zajmować jedynie te zakłady przemysłowe, które uzyskają na to osobne zezwolenie władzy administracyjnej |-ej instancji, a w m. Warszawie — Komisarza Ministerstwa Aprowizacji przez magistracie m. st. Warszawy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zakładom wypieliającym chleb kontyngentowy, zezwolenia na wypiek pieczywa pozakontyngentowego mogą udzielić tylko wyjątkowo władze administracyjne Il-ej instancji na wniosek Komisji Aprowizacyjnej, przedstawiony przez władze administracyjne l-ej instancji, zaś w mieście Warszawie — Ministerstwo Aprowizacji na wniosek Komisarza Ministerstwa Aprowizacji przy magistracie m. st. Warszawy, d odmownej decyzji władz, wymienionych w § 1i 2 w powyższych sprawach, niema odwołania. 8 3. Pieczywo może być wypiekane, jako:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "chleb żytni razowy, b) chleb żytni pytlowy, c) chleb pszenny,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_2/lit_d",
+     "text": "bułki pszenne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Chleb powinien być wypiekany w formie bochenków o wadze dokładnej 500 gr., 1 kg. lub 2 kg.; bułki — o wadze, nie mniejszej, niż 40 gr. Na bochenkach powinna być umieszczona etykieta z nazwiskiem i adresem piekarni, która pieczywo wypiekła.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Wypiek chlęba z mąki o przemiale ponad 907 jest zakazany.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Mąka, używana do wypieku, powinna być przesiewana. 8 7. Zakazuje się przy wypieku używania domieszki do mąki otrębów, łuski i wszelkich ubocznych odpadków młynarskich.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 8 Zakazuje się wypieku i sprzedaży pieczywa, które zawiera domieszki: . *a) jaj lub jakichkolwiek przetworów z jaj,"
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_6/lit_b",
+     "text": "mleka, masła lub innych tłuszczów,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_6/lit_c",
+     "text": "cukru, rnelasy, syropów, miodu i innych składników słodzących. Tem samem jest zakazana sprzedaż ciast we wszelkiej formie i pod wszelką postacią.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Ceny pieczywa powinny być ujawnione w miejscach sprzedaży detalicznej i umieszczone w cenniku, a pieczywo sprzedawane wszystkim zgłaszającym się konsumentom aż do wyczerpania. 8 10. Sprzedaż detaliczna, względnie podawanie chleba może się odbywać nie wcześniej, jak w 12 godzin po wypieku; bułek—w 4 godziny po zupełnem ostudzeniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Do obiadów i kolacji, oraz dań porcjowych w zakładach ze spożyciem na miejscu wolno podawać każdej osobie jeden kawałek chleba lub bułkę o wadze 40 gr., lecz tylko na zamówienie. Do śniadań i podwieczorków w kawiarniach, herbaciarniach, mleczarniach i cukierniach wolno podawać chleb i bułki tylko na zamówienie i to w ilościach, nie przekraczających 120 gr. na osobę. Pozostawianie na stole bułek, lub chleba jest zakazane. Cukier.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "W zakładach ze spożyciem na miejscu używanie cukru do słodzenia napoi zimnych i gorących, wyrobu lodów, wypieku pieczywa, sło- „dzenia i wyrobu omletów i legumin jest wzbronione. Mleko, masło, sery, śmietana,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Podawanie do kawy i herbaty mleka łącznie lub osobno, przy: rządzanie i podawanie czekolady i kakao na mleku, lub też podawanie: oraz spożywanie mleka oddzielnie w zakładach ze spożyciem na miejscu jest dozwolone tylko od godz. 8—10 rano i od godz. 7—9 wieczorem. Ograniczenie to nie stosuje się do bufetów i restauracji kolejowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "«Podawanie, sprzedawanie i spożywanie śmietanki i kremów w zakładach ze spożyciem na miejscu jest wzbronione.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Używanie mleka do wyrobu pieczywa, czekolady, czekoladek, lodów, cukrów i cukierków jest wzbronione.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Przetwarzanie mleka nieodtluszczonego i śmietany w przedsiębiorstwach przemysłowych jest zakazane, z wyjątkiem wyrobu masła.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Dawanie mleka nieodtłuszczonego zwierzętom, wyłączając cielęta, jest wzbronione. § 18. Masło nie może zawierać mniej, niż 80°/o tłuszczu własnego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "W zakładach ze spożyciem na miejscu od godz. 8—10 rano i 7—9 wieczór masło porcjowe może być podawane wyłącznie do pieczywa w kawałkach o wadze 15 gr. nie więcej ponad 2 kawałki na osobę i tylko na zamówienie. Pozostawianie masła na stołach w lokalach ze spożyciem na miejscu jest zakazane.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Używanie masła krowiego do wyrób ciast, czekoladek, cukierków jest zakazane.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Używanie masła krowiego w przedsiębiorstwach PRRLAIOW IE) do wyrobu mydła i na cele techniczne jest zakazane.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Przemysłowy wyrób, sprzedaż i podawanie do spożycia serów jest dozwolone tylko z mleka odtłuszczonego.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Zakazuje się przemysłowego wyrobu i sprzedaży t. zw. serów tłustych i półtiustych."
+    },
+    {
+     "type": "text",
+     "text": "Mięso i potrawy mięsne. § 23. Zakazuje się wszelkiej sprzedaży tak w miejscach sprzedaży hurtowej i detalicznej, jak i w handlu domokrążnym, oraz spożywania w zakładach ze spożyciem na miejscu w środy i piątki — mięsa we wszelkiej formie, surowej, gotowanej i wędzonej, z wyjątkiem drobiu i dziczyzny. Sprzedaż, podawanie i spożywanie ryb jest dozwolone. 8 24. Zakazuje się wyrobu i sprzedaży wędlin wędzonych i solonych, z wyjątkiem kiełbasy zwyczajnej, kiszki kaszanej i pasztetowej, serdelków i salcesonu. 8 25. W zakładach ze spożyciem na miejscu powinny być podawane obiady od godz. 1—5 pp., kolacje od godz. 7—11 wiecz. Od godziny 5—7 jest wzbronione wydawanie obiadów i potraw wszelkiego rodzaju. Przepis ten nie stosuje się do restauracji kolejowych."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Obiady mogą się składać co najwyżej z zupy, jednego mięsa lub ryby, jarzyn, kompotu i czarnej kawy, a conajmniej z dwóch dan, t. j. z zupy i jednego mięsa lub ryby z jarzyną. Obiad z dwóch dan musi być wymieniony w cenniku i podawany. W zakładach ze spożyciem na miejscu może być podawany jednej osobie tylko jeden obiad. 8 27. W porze obiadowej wydawanie potraw na porcje jest wzbronione. W porze kolacyjnej wolno podawać jednej osobie najwyżej dwa dania, z których tylko jedno może być mięsne lub rybne. Zimne mięsa są uważane za dania w znaczeniu powyższem. Po godzinie 11-ej wieczorem podawanie potraw jest wzbrenione.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Waga samego mięsa lub ryby w daniu obiadowem lub porcjowem w stanie gotowym bez kości rie może wynosić mniej, niż 100 gr. a więcej niż 150 gr. Waga musi być podana w cenniku. 8 29. Zakazane jest sporządzanie i podawanie w zakładach ze spożyciem na miejscu:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_28/lit_a",
+     "text": "potraw smażonych, z rusztu i rożna, z wyjątkiem kotletów wieprzowych, smażonych na tłuszczu wieprzowym",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_28/lit_b",
+     "text": "ziemniaków smażonych —wogdle, :",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_28/lit_c",
+     "text": "wszystkich potraw z cielęciny i prosiąt.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Z dań mięsnych podczas obiadu nie może być sporządzone więcej, niż trzy potrawy do wyboru konsumenta, z których jedna co najwyżej może być z mięsa siekanego i jedna pieczona z mięsa niesiekanego. 8 31. Przekąski nie mogą być sporządzone na chlebie lub bułce. W skład przekąsek nie może wchodzić mięso i kiełbasa. Potrawy porcjowe zimne lub gorące mogą być wydawane tylko wprost z kuchni na zamówienia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "Umieszczanie na bufetach restauracyjnych przekąsek i kanapek, jako też podawanie ich przy bufecie—jest zakazane.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Restauracje są obowiązane wykazać cenę każdorazowo nabytych ilości mięsa w rachunku, zawierejącyrn datę, nazwisko oraz adres sprzedającego. Rachunki muszą być opatrzone liczbą porządkową i wpisane do książki kontroli obrotu.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Artykuły spożywcze zagraniczne."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "Zakazuje się podawania i sprzedaży w zakładach ze spożyciem na miejscu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_34/pkt_1",
+     "text": "cukierków, czekolady i marmolady — pochodzenia zagranicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_34/pkt_2",
+     "text": "fig, rodzynków, migdałów słodkich, daktyli, pomarańczy, owoców smażonych w cukrze, malagi, ananasów, bananów, orzechów zagranicznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_34/pkt_3",
+     "text": "wszelkich win musujących (szampańskich), oraz wódek, koniaków i likierów zagranicznych. Artykuły, wyżej wymienione, nie mogą znajdować się w miejscach hurtowej lub detalicznej sprzedaży na składzie, ani w wystawach zakładów ze spożyciem na miejscu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przepisy ogólne."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "Restauracje powinny umieszczać ceny wszystkich potraw i obiadów w cennikach, przyczem cenniki powinny znajdować się na każdym stole i na każde żądanie być okazywane gościom.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "W cenniku obok nazwy powinna być umieszczona waga potraw mięsnych i rybnych w stanie gotowym. Do ceny powinna być doliczona usługa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "Niniejsze rozporządzenie w wyciągach, dotyczących danego zakładu przemysłowego, wraz z sankcją karną z § 39 powinno być wywieszone w każdym lokalu zakładu przemysłowego na miejscu, widocznem i dostepnem dla konsumenta.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "Na każdym stole restauracyjnym powinna znajdować się karta z napisem: * „za przekroczenie rozporządzeń, ograniczających konsumcję, ulega karze również konsument”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "Przekroczenie przepisów i zakazów niniejszego rozporządzenia będzie karane na podstawie art. 4 ustawy z dnia 2 lipca 1920 r. o zwalczaniu lichwy wojennej grzywną do miljona marek i aresztem do 6-ciu miesięcy lub jedną z tych kar przez władze administracyjne |-ej instancji, a w obrębie miast: Warszawy, Lublina, Łodzi, Lwowa i Krakowa — przez Okręgowe (rzędy Walki z Lichwą.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Równocześnie trecą moc obowiązującą rozporządzenia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_40/pkt_1",
+     "text": "Ministra Aprowizacji z dnia 7 kwietnia 1919 r. w przedmiocie wypieku i sprzedaży ciast deserowych i drożdżowych (Monitor Polski z 1919 Ne 80) i sorostowanie tego rozporządzenia (Monitor Polski Ne 83);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_40/pkt_2",
+     "text": "Min stra Aprowizacji z dnia 31 grudnia 1919 r. w przedmiocie ograniczeń spożycia w zakładach publicznych (Dz. (Wst. R. P. r. 1920 Ne 4, poz. 21), oraz uzupełniające je rozporządzenie Ministra Aprowizacji z dnia 24 marca 1920 r. (Monitor Polski z r. 1920 Ne 96);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_40/pkt_3",
+     "text": "Ministra Aprowizacji z dnia 13 września 1919 r. w sprawie podawania potraw mięsnych w restauracjach w Warszawie w porze od godz. 7—10 wiecz. (Dz. Ust. R. P. r. 1920 Ne 69, poz. 589).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_40/pkt_4",
+     "text": "Ministra Aprowizacji z dnia 17 sierpnia 1920 r. w sprawie zmiany cen obiadów (Dz. Ost. R. P r. 190 Ne 79, poz. 536);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_40/pkt_5",
+     "text": "Mnistra Aprowizacji z dnia 4 maja 1920 r. w przedmiocie zakazu wyrobu lodów (Dz. (st. R. P. z r. 1920 Ne 38, poz. 227).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Aprowizacji: Grodziecki"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

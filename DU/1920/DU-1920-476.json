@@ -1,0 +1,102 @@
+{
+ "eli": "DU/1920/476",
+ "title": "Rozporządzenie Ministra Skarbu w przedmiocie przydziału ropy bruttowej i ustalenia cen maksymalnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/476/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Skarbu"
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie przydziału ropy bruttowej i ustalenia cen maksymalnych. J Na zasadzie austrjackiego rozporządzenia cesarskiego z dnia 10 sierpnia 1915 (Dz. u. p. Ne 239) i rozporządzenia Rady Ministrów z dnia 5 czerwca 1920 (Dz. U. P. Ne 70) zarządza się co następuje: Frt. 1. Przydziela się Państwowej Fabryce Olejów Mineralnych w Drohobyczu wszelką ropę, przypadejącą na udziały brutto na podstawie umów między właścicielami gruntu a posiadaczami kopalń (uprawnionymi do wydobywania) lub innych umów (ropę bruttową), objętą art. 2 rozporządzenia Rady Ministrów z 5 czerwca 1920 roku Dz. U. Ne 70 i to zarówno ilości już wydobyte, jak niernniej wszystkie te ilości, które w przyszłości zostaną wydobyte."
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Za ropę, przypadającą na udziały brutto ustanawia się następujące ceny maksymalne:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "50 marek za 100 kg. ropy, wyprodukowanej przed dniem 1 grudnia 1919 roku.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "90 marek za 100 kg. ropy, wyprodukowanej w czasie od dnia 1 grudnia 1919 roku do 31 maja 1920 roku.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "130 marek za 100 kg. ropy, wyprodukowanej po dniu 31 maja 1920 roku.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 3. Ceny te rozumieją się za 100 kg. netto w cysternach loco stacja nadawcza. Właścicielom gruntu, którym z mocy umów zawartych z posiadaczami kopalń (uprawnionymi do wydobywania) przysługuje prawo odbierania udziałów brutto, przyznaje się, dopóki tak grunt jak i przywiązane doń udziały pozostają ich faktyczną własnością, oprócz cen ustalonych w art. 2 tego rozporządzenia, następujące należytości dodatkowe: i do ceny 50 mk. należytość dodatkową 10 mk. za 100 kg. do ceny 90 mk. należytość dodatkową 15 mk. za 100 kg. do ceny 140 mk. należytość dodatkową 20 mk. za 100 kg."
+      },
+      {
+       "type": "text",
+       "text": "Art. 44 Państwowy Urząd Naftowy wypłacać będzie należną cenę kupna w miarę odbioru rovy wedle szczególnych postańowień, które wydane zostaną w tym względzie przez Państwowy Urząd Naftowy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Zarówno kopalnie ropy, jak i przedsiębiorstwa magazynowe i Hoczniowe obowiązane są oprócz wyjaśnień, przepisanych art. V rozpo-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "rządzenia b. austrjackiego ministerstwa robót publicznych z d. 16 sierpnia 1915 Dz. u. p. Ne 240, przedkładać Państwowemu (Urzędowi Naftowemu wszelkie przezeń zarządzone wykazy, zestawienia i sprawozdania, jak niemniej prowadzić zapiski i rachunki, które Państwowy Urząd Naftowy w wykonaniu niniejszego rozporządzenia uzna za potrzebne."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Przekroczenie tego rozporządzenia podlega karom, przewidzianym w austrjackiem rozporządzeniu cesarskiem z d. 11 sierpnia 1915 Dz. u. p. Ne 239.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Rozporządzenie to wchodzi w życie z dniem ogłoszenia. Równocześnie traci moc obowiązującą rozporządzenie Ministerstwa Przemysłu i Handlu z dnia 14 lipca 1919 L. 719/27 J. Il. o ile niem unormowano cenę ropy bruttowej.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: W. Grabski"
+  },
+  {
+   "type": "text",
+   "text": "e i"
+  },
+  {
+   "type": "text",
+   "text": "\"Tłoczono w Drukarni Państwowej z polecenia Ministra Sprawiedliwości. Ma 10697 Cena 4 mk-"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

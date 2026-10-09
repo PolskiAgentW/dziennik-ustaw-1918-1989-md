@@ -1,0 +1,2703 @@
+{
+ "eli": "DU/1921/414",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych z dnia 13 czerwca 1921 r. w przedmiocie \"Przepisów Przewozowych obowiązujących na kolejach polskich\", stanowiących część I Taryfy Ogólnej na przewóz towarów, zwłok i zwierząt.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/414/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Kolei Żelaznych z dnia 13 czerwca 1921 r. w przedmiocie Przepisów Przewozowych, obowiązujących na kolejach polskich”, stanowiących część I-ą Taryfy Ogólnej na przewóz towarów, zwłok i zwierząt. Na mocy dekretu z dnia 7 lutego 1919 r. o tymczasowem przekazaniu Ministrowi Komunikacji prawa wydawania przepisów o przewozie pasażerów, bagażu i towarów oraz ustalania taryf przewozowych na kolejach polskich (Dziennik Praw P. P. Ne 14, poz. 152), zarządzam w porozumieniu z Ministrami Skarbu oraz Przemysłu i Handlu co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Część I Taryfy Ogólnej na przewóz towarów, zwłok i zwierząt (Dz. Ustaw R.P. 1920 r., Ne 40 poz. 243) otrzymuje brzmienie według załącznika Ne 1 do niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Załączniki A. B. C Ne 1, CNe 2, D iE do Przepisów Przewozowych, ogłoszonych w Ne 16 Dz. (st. R. P. z 1920 r.. poz. 82 pozostają w mocy, przyczem zostają uzupełnione załącznikiem F do art, 73 Przepisów Przewozowych (załącznik Ne Il do niniejszego rozporządzenia). 8 3. Rozporządzenie niniejsze obowiązuje od dnia 1 sierpnia 1921 roku. Jednocześnie tracą moc obowiązującą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "artykuły 1 — 9 i 44 — 100 Przepisów Przewozowych, obowiązujących na kolejach polskich (Dz. Ustaw R. P. z 1920 r. Ne 16, poz. 82, i",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "„Część I Przepisy przewozowe” Taryfy Ogólnej na przewóz towarów, zwłok i zwierząt (Dz. Ustaw R. P. z 1920 r. Ne 40, poz. 243) wraz z wszystkiemi późniejszemi zmianami i uzupełnieniami. Minister Kolei Żelaznych: w z. /. Eberhardt",
+     "children": [
+      {
+       "type": "text",
+       "text": "Załącznik Ne do rozporządzenia Ministra Kolei Żelaznych z dnia 13 czerwca 1921 r."
+      },
+      {
+       "type": "text",
+       "text": "TARYFA OGOLNA. na przewóz towarów, zwłok i zwierząt. '"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ 1",
+   "text": "PRZEPISY PRZEWOZOWE wraz z postanowieniami wykonawczemi. A. POSTANOWIENIA WSTĘPNE."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Zakres działania przepisów. Niniejsze przepisy przewozowe obowiązują na wszystkich kolejech normalnotorowych i szerokotorowych w obrębie Państwa Polskiego, oddanych do ruchu publicznego.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Uzupełnienia i zmiany przepisów.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Wszelkie uzupełnienia i zmiany przepisów niniejszych mogą następować jedynie w trybie przez prawo określonym. Postanowienia wykonawcze do niniejszych przepisów przewozowych, wydane przez Ministra Kolei Żelaznych trybem przez prawo przewidzianym, mają taką samą moc prawną, jak i przepisy przewozowe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "B. POSTANOWIENIA OGÓLNE."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Obowiązek przewozu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "* Kolej nie może odmówić przewozu z wyjątkiem przypadków następujących:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_3/lit_a",
+     "text": "jeżeli podróżny lub nadawca przesyłki nie uczyni zadość obowiązującym przepisom przewozowym i zarządzeniom kolejowym;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_3/lit_b",
+     "text": "jeżeli przewóz jest wstrzymany na mocy prawnie wydanych rozporządzeń lub ze względu na zachowanie porządku publicznego na jednej z kolei, leżących na linji przewozu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_3/lit_c",
+     "text": "jeżeli wysyłane przedmioty należą do kategorji przesyłek, objętych, chociażby na części przewozu, przywilejem pocztowym;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_3/lit_d",
+     "text": "jeżeli przewóz nie może być dokonany posiadanemi przez kolej środkami przewozowemi; . e) jeżeli przewozowi stoi na przeszkodzie siła wyższa;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_3/lit_f",
+     "text": "jeżeli wysyłane przedmioty nie nadają się do przewozu ze względu na warunki budowy lub eksploatacji jednej z kolei, leżących na linji przewozu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "art_3/lit_g",
+     "text": "jeżeli wysyłane przedmioty wymagają szczególnych urządzeń do naładowania lub wyładowania, kolej zaś takich urządzeń na odnośnych stacjach nie posiada.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Pociągi.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Przewóz odbywa się w pociągach, kursujących bądź regularnie według ustalonych rozkładów jazdy, bądź w miarę potrzeby.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "O każdej przerwie w ruchu pociągów, trwającej dłużej niż jedną dobę, Zarząd kolejowy powinien podać do wiadomości publicznej w sposób, określony przez odnośne przepisy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_4/ust_3",
+     "text": "Zamówienia na pociągi nadzwyczajne uwzględnia kolej w miarę możności.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 55 Odpowiedzialność kolei za czynności pracowników."
+      },
+      {
+       "type": "text",
+       "text": "Kolej ponosi odpowiedzialność za czynności służbowe swych pracowników oraz tych osób, z których pomocy korzysta przy dokonywaniu przewozi, o ile czynności te, w myśl przepisów niniejszych oraz przepisów taryfowych, wchodzą w zakres obowiązków kolei."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Taryfy.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Warunki przewozu, przewoźne oraz opiaty dodatkowe określają taryfy kolejowe, wydawane i ogłaszane trybem, przez prawo ustalonym. Tak wydane i ogłoszone taryfy obowiązują zarówno kolej jak i jej klijentów.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Zażalenia na działalność organów kolejowych.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Zażalenia można zgłaszać ustnie lub piśmiennie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "Zażalenia powinny być przez kolej rozpatrzone i rozstrzygnięte w czasie możliwie krótkim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Nieporozumienia. Nieporozumienia pomiędzy publicznością i służbą kolejową rozstrzyga na stacjach zawiadowca stacji lub jego zastępca, a w pociągach — nadkonduktor względnie kierownik pociągu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "Waluta. Wszelkie opłaty uskuteczniać należy w walucie krajowej, mającej obieg prawny. Na poszczególnych stacjach, lub w pewnych pociągach, stosownie do uznania kolei, może ona przyjmować monetę państw obcych według kursu, jaki ogłosi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "C. POSTANOWIENIA SZCZEGÓŁOWE."
+    },
+    {
+     "type": "text",
+     "text": "lL Przewóz zwłok. (Dział IV. „Przepisów przewozowych, obowiązujących na kolejach polskich”). ."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "44",
+   "path": "art_44",
+   "text": "Nadawanie.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_44/ust_1",
+     "text": "Zwłoki mogą być przyjmowane do przewozu jako przesyłki zwyczajne lub pośpieszne. Zwłoki powinny być zgłoszone do przewozu na stacji początkowej pociągu przynajmniej na 6 godzin, na stacjach pośrednich — przynajmniej na 12 godzin przed czasem odejścia odnośnego pociągu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_44/ust_3",
+     "text": "Zwłoki powinny być hermetycznie zamknięte w metalowej trumnie, ta zaś ostatnia powinna być umieszczona w trumnie lub skrzyni drewnianej tak szczelnie, aby się nie mogła w niej poruszać. Nadawca przy nadawaniu zwłok powinien złożyć pozwolenie na przewóz, wydane przez odpowiednie władze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_44/ust_9",
+     "text": "Na przewożone zwłoki powinny być sporządzane listy przewozowe stosownie do art. 55 i 55,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_44/ust_6",
+     "text": "Załadowanie zwłok jest obowiązkiem nadawcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_44/ust_7",
+     "text": "Należność za przewóz zwłok musi być opłacona przy nadaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_44/ust_8",
+     "text": "Jeżeli zwłoki zostały nadane pod fałszywą nazwą, to nadawca powinien dopłacić różnicę przewoźnego za całą przestrzeń od stacji nadania do stacji przeznaczenia i oprócz tego uiścić karę w wysokości poczwórnego przewoźnego, niezależnie od ewentualnej odpowiedzialności karnej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 45, Przewóz."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_44/ust_1",
+     "text": "Zwłoki przewożone są w oddzielnych krytych wagonach towarowych. Załadowywanie innych przesyłek razem ze zwłokami jest wzbronione. Kilka zwłok, nadanych równocześnie na jednej stacji i do jednej stacji przeznaczenia, można załadować do jednego wagonu. Zwłoki, nadawane w zamkniętych karawanach, powinny być przewożone na niekrytych wagonach towarowych. (Post. wyk.) Wianki, kwiaty, rośliny żywe, całuny i inne przedmioty, nadawane do przewozu wraz z zwłokami, przewozi się w jednym z niemi",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wagonie bezpłatnie w ilości do 500 kg. wagi. Za całość tych przedmiotów kolej nie odpowiada."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_44/ust_2",
+     "text": "Zwłokom towarzyszy dozorca, który powinien zaopatrzyć się w bijet przejazdowy i może, jeżeli chce, jechać w tym samym wagonie, w którym znajdują się zwłoki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_44/ust_3",
+     "text": "Zwłok nie wolno w drodze przeładowywać bez istotnej potrzeby. Przewozić je należy możliwie szybko i bez zatrzymywania w drodze.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "46",
+   "path": "art_46",
+   "text": "Wydawanie.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_46/ust_1",
+     "text": "Wydania zwłok na stacji przeznaczenia można żądać natychmiat po przybyciu pociągu, którym zwłoki były przewiezione, z uwzględnieniem jednak czasu, niezbędnego do załatwienia właściwych formalności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_46/ust_2",
+     "text": "Przy wydaniu zwłok kolej zwraca odbiorcy pozwolenie na przewóz (art. 44 ust. 4). 3 Zwłoki winny być przez odbiorcę wyładowane i zabrane w ciągu 6 godzin od chwili przybycia odnośnego pociągu na stację przeznaczenia, w przeciwnym razie mogą być oddane do rozporządzenia miejscowej policji. Jeżeli zwłoki przybędą po godzinie 6-tej wieczorem, termin ich wyładowania i zabrania liczy się od godziny 8-mej rano dnia następnego. W razie przekroczenia terminu wyładowania i zabrania zwłok, kolej ma prawo pobrać opłatę- taryfowq za przetrzymanie wagonu (postojowe). FArt. 47. Przewóz zwłok do prosektorjów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_46/ust_1",
+     "text": "Zwłoki, przesyłane z urzędów policyjnych, zakładów karnych, więzień, szpitali i t. p. do prosektorjów, wyższych zakładów naukowych lub też wysyłane przez nie dalej, mogą być przewożone bez dozorców. Zwłoki takie powinny być nadawane w szczelnie zamkniętych skrzyniach lub trumnach i przewożone pociągami towarowemi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "I. Przewóz zwierząt żywych. (Dział V „Przepisów przewozowych,] obowiązujących na kolejach polskich\")."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "48",
+   "path": "art_48",
+   "text": "Zasady ogólne.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_48/ust_1",
+     "text": "Przewóz zwierząt odbywa się na zasadach, określonych w dziale III, © ile przepisy niniejsze nie zawierają odmiennych omówień lub postanowień.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_48/ust_2",
+     "text": "Przewóz pojedyńczych sztuk lub niewielkich partji zwierząt odbywać się może pomiędzy wszystkiemi stacjami, otwartemi dla ruchu towarowego, przewóz większych partji zwierząt — pomiędzy stacjami, wymienionemi w odpowiednich taryfach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_48/ust_3",
+     "text": "Na stacjach, otwartych do przewozu większych partji zwierząt, powinny znajdować się stosowne urządzenia do ich załadowania i wyładowania. Do pojenia i karmienia przewożonych zwierząt w drodze powinny znajdować się stosowne urządzenia na stacjach, określonych przez odnośne władze i wymienionych w taryfach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "49",
+   "path": "art_49",
+   "text": "Nadawanie.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_49/ust_1",
+     "text": "Zwierzęta przewozi się w zasadzie pociągami, które wyznacza kolej i podaje o tem do wiadomości publicznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_49/ust_2",
+     "text": "Przewóz zwierząt powinien być zgłoszony przynajmniej na £4 godziny przed czasem odejścia odnośnego pociągu; kolej może odr ówić przewozów, zgłoszonych po tym terminie. Kolej nie ma obowiązku przyj-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "mowania zwierząt do przewozu w niedziele i święta, nie ma réwnis: obowiązku przyjmowania do przewozu zwierząt chorych. Zwierząt dzikich może kolej nie przyjąć do przewozu, jeżeli nadawca ich nie spełnił wszystkich wymagań kolei, zmierzających do zapewnienia bezpieczeństwa publicznego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_49/ust_3",
+     "text": "Zwierzęta powinny być dostarczone na stacje tak, aby załadowanie ich mogło być ukończone przynajmniej na godzinę przed czasem odejścia odnośnego pociągu; zwierzęta powinny być należycie nakarmione i napojone przez nadawcę przed wysłaniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_49/ust_4",
+     "text": "Klatki, skrzynie, kosze, worki it. p., używane do przewozu, powinny być dostatecznie obszerne, przewiewne, czyste i urządzone w sposób, zabezpieczający wagony od zanieczyszczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_49/ust_5",
+     "text": "Ładowanie zwierząt do wagonów powinno być dokonywane przez nadawcę, który również powinien dostarczyć wszelkich niezbędnych do przewozu przyborów i umocować je w razie potrzeby w sposób, wykluczający uszkodzenie wagonów. Zwierzęta muszą być tak umieszczone w wagonach, aby nie były ściśnięte wzajemnie lub przyciśnięte do ścian wagonu. Zwierzęta rozmaitych gatunków, ładowane do jednego wagonu, powinny być oddzielone od siebie odpowiedniemi przegrodami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_49/ust_6",
+     "text": "Na przewóz zwierząt powinny być sporządzane listy przewozowe stosownie do art. 55 i 56. Nadawca ma prawo wskazać w liście przewozowym drogę przewozu, jeżeli do stacji przeznaczenia prowadzi więcej niż jedna droga. Kolej ma prawo żądać opłacenia należności za przewóz zwierząt przed ich wysłaniem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "50",
+   "path": "art_50",
+   "text": "Przewóz.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_50/ust_1",
+     "text": "Kolej ma prawo wymagać, aby przowożonym zwierzętom towarzyszył dozorca w celu opiekowania się niemi w drodze. Dozorca powinien mieć bilet na przejazd i może żądać miejsca do przejazdu. Kolej ma prawo wymagać, aby dozorca jechał w jednym wagonie ze zwierzętami; jeżeli to potrzebne do bezpieczeństwn przewozu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_50/ust_2",
+     "text": "Zwierzęta powinny być karmione i pojone w drodze przez dozorcę na przeznaczonych do tego stacjach (art. 48 ust. 4).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_50/ust_3",
+     "text": "Szczegółowe postanowienia o przewozie zwierząt żywych zawiera załącznik A.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 51. Terminy dostawy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_50/ust_1",
+     "text": "Termin dostawy zwierząt, przewożonych pociągami towarowemi, oblicza się na zasadach, ustanowionych dla przewozu towarów (art. 75). Bieg terminu dostawy przerywa się w przypadkach, przewidzianych w art. 75, ust. 8, na czas postoju na stacjach, gdzie się odbywa karmienie i pojenie zwierząt, i na czas trwania oględzin weterynaryjnych. Termin dostawy zwierząt, przewożonych pociągiem osobowym, upływa bezzwłocznie po przybyciu pociągu na stację przeznaczenia, z uwzględnieniem jednak czasu niezbędnego do załatwienia formalności celnych, podatkowych lub policyjnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "52",
+   "path": "art_52",
+   "text": "Wydawanie.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_52/ust_1",
+     "text": "Kolej powinna poczynić wszelkie zarządzenia do możliwie bezzwłocznego wydania zwierząt po przybyciu ich na stację przeznaczenia. Odbiorca powinien je wyładować i zabrać w ciągu 2 godzin, licząc od chwili dania mu możności ich wyładowania.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_52/ust_2",
+     "text": "Jeżeli po przybyciu na stację przeznaczenia zwierząt, przewożonych bez dozorcy, nie zgłosi się nikt, upoważniony do ich odbioru, kolej powinna zawiadomić odbiorcę o przybyciu przesyłki w terminie, ustalonym dla zawiadomień o przybyciu przesyłek pośpiesznych. W tych przypadkach termin wyładowania i odbioru zwierząt (ust. 1) rozpoczyna się po upływie 2 godzin od zawiadomienia odbiorcy o ich przybyciu (art. 79 ust. 3).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_52/ust_3",
+     "text": "Terminy wyładowania i zabrania zwierząt przerywają się na czas załatwiania formalności celnych, policyjnych i weterynaryjnych, o ile w wykonaniu ich nie nastąpiła zwłoka z winy nadawcy, odbiorcy lub dozorcy zwierząt.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_52/ust_4",
+     "text": "Jeżeli przybyłe zwierzęta nie zostaną wyładowane i zabrane w oznaczonym wyżej terminie, kolej ma prawo oddać je na koszt i ryzyko właś- „ciciela na wyżywienie lub też, jeżeli zezwoli na dalsze zatrzymanie ich w wagonie lub na stacji, pobierać opłatę, określoną w taryfie.",
+     "children": [
+      {
+       "type": "text",
+       "text": "II. Przewóz towarów."
+      },
+      {
+       "type": "text",
+       "text": "(Dział VI „Przepisów przewozowych, obowiązujących na kolejach polskich\")."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "53",
+   "path": "art_53",
+   "text": "Przewóz bezpośredni.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Kolej jest obowiązana przewozić towary od i do wszystkich stacji, otwartych dla ruchu towarowego, bez udziału zainteresowanych osób przy przejściu towarów z jednej kolei na drugą."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "54",
+   "path": "art_54",
+   "text": "Ograniczenia przewozu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "„l. Kolej nie przyjmuje do przewozu: A) Przedmiotów, stanowiących przywilej poczty (art. 3). A a padąPaJRych przedmiotów, o ile nie zachodzą wyjątki wskazane w ust. :",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) materjalow wybuchowych;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) amunicji;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) materjałów zapalających i ogni sztucznych;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) gazów zgęszczonych i skroplonych;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) materjałów, wytwarzających w zetknięciu z wodą gazy zapalne lub podtrzymujących palenie;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "f) materjałów samozapalnych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Kolej przyjmuje do przewozu warunkowo. A) Przedmioty, wyszczególnione w załączniku B, na warunkach, wskazanych w tymże załączniku. B) Złoto, srebro i platynę w sztabach, proszku i wyrobach, pieniądze i monety ze szlachetnych metali, papiery wartościowe, dokumenty, drogie kamienie, perły, cenne koronki i hafty, oraz inne kosztowności, wreszcie dzieła sztuki, jako to: malowidła, obrazy, rzeźby, antyki o wartości artystycznej. Warunki przewozu tych przedmiotów określa odpowiednia taryfa. Znaczki pocztowe, arkusze stemplowe, znaczki stemplowe i inne temu podobne urzędowe znaki wartościowe nie są uważane za papiery watościowe. (Post. wyk.). I. Przedmioty, wymienione w p. 2 B), oprócz dzieł sztuki, powinny być opakowane w dobrze zamkniętych skrzyniach lub beczkach, nadawane wyłącznie jako przesyłki pośpieszne i przewożone tylko pociągami osobowemi. Przesyłki takie nie mogą być nadawane do przechowania w składzie. Przesyłkom tych przedmiotów może towarzyszyć dozorca,",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "w",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "opłacający koszta przejazdu według taryfy, któremu przysługuje prawo przejazdu w tym samym wagonie, w którym znajduje się przesyłka. (Post. wyk.). Il. Działa sztuki, jak: malowidła, obrazy, rzeźby, antyki o wartości artystycznej; mogą być przewożone zarówno w przesyłkach pośpiesznych, jak i zwyczajnych. Za podstawę do określenia odszkodowania za wszystkie przedmioty, wymienione w p. 2 B), przyjmuje się zwykła wartość handlowa podobnych przedmiotów, nie wyżej jednak nad 200 mk. za 1 kg. wagi. C) Przedmioty, których naładowanie lub przewóz, ze względu na warunki budowy lub eksploatacji kolei, leżących na linji przewozu, nastręczają niezwykłe trudności (art. 3). Kolej może uskutecznić przewóz takich przedmiotów na warunkach, specjalnie omówionych z nadawcą. (Post. wyk.). Do ustalenia tych warunków powołaną jest odnośna Dyrekcja Kolejowa. D) Tabor kolejowy, przewożony na własnych kołach. Tabor taki musi być w stanie, zdatnym do biegu, co kolej powinna odpowiednio sprawdzić i zaświadczyć. Parowozom, tendrom i wagonom motorowym powinien towarzyszyć fachowy dozorca, wyznaczony przez nadawcę. (Post. wyk.). I. (1) Tabor kolejowy, przyjmowany jest do przewozu na własnych kołach tylko wówczas, jeżeli jego zdolność do biegu została wypróbowaną przez zarząd kolejowy i zaświadczoną bądź na samym parowozie lub wagonie, bądź w osobnem poświadczeniu. . (Post. wyk.). (2) Do załadowania taboru kolejowego innemi przedmiotami niezbędne jest osobne zezwolenie kolei. Za przedmioty takie pobiera się przewoźne według obowiązujących taryf. (Post. wyk.). Il. (1) Przesyłkom parowozów i tendrów towarzyszy obowiązkowo dozorca, który dokonywa ich smarowania w drodze. Obecność dozorcy przy przesyłkach wagonów nie jest obowiązkową. W razie nieobecności dozorcy smarowania wagonów dokonywa kolej na rachunek nadawcy. (Post. wyk.). (2) Za przewóz dozorcy, zajmującego miejsce w dozorowanym taborze, opłaty się nie pobiera. W razie przejazdu dozorcy w wagonie innym opłaca on przewoźne według taryfy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Frt. 55. List przewozowy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Na każdą przesyłkę powinien być sporządzony list przewozowy oraz jego wtórnik na blankietach podług wzoru Nr. 1 dla przesyłek zwyczajnych i wzoru Nr. 2 dla przesyłek pośpiesznych, wskazanych w załączniku C.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Wszystkie stacje kolejowe obowiązane są sprzedawać blankiety listów przewozowych po cenie, określonej w taryfie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Wyjątki od powyższych zasad ogólnych mogą być dopuszczone na mocy postanowienia Ministra Kolei Żelaznych. (Post. wyk.). I. Ceny blankietów listów przewozowych, oręż opłaty za stemplowanie listów przewozowych, drukowanych nie przez kolej, wskazane są w Wykazie opłat dodatkowych (Cz. Il taryfy). (Post. wyk.). ll. Czasowo zezwala się, w myśl ust. 3, aby listy przewozowe były drukowane dwustronnie, w formacie zmniejszonym o połowę, w taki sposób, aby na stronie odwrotnej pierwszej połowy listu przewozowego, zawierającej dane o przesyłce, zamieszczona była druga połowa listu z obrachunkiem przewoźnego i innych opłat.",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Art. 56. Treść listu przewozowego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Nadawca powinien zamieścić w liście przewozowym:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) nazwę stacji nadawczej;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) nazwę stacji i kolei przeznaczenia; A, imię, nazwisko i adres odbiorcy; (Post. wyk.). Jako odbiorca może być wskazana jedna tylko osoba lub firma.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) zastrzeżenie w odnośnych wypadkach, aby ładunek pozostał na . stacji przeznaczenia na składzie do czasu zgłoszenia się po niego odbiorcy; zastrzeżenie to powinno być wpisane w miejscu, przeznaczonem do wskazania nazwiska i adresu odbiorcy;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) rodzaj i numer wagonu, o ile towar ładowai sam nadawca;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "f) nazwę towaru, rodzaj opakowania, a w miarę możności i jego wagę; (Post. wyk.) Nazwa towaru powinna możliwie ściśle odpowiadać Nomenklaturze i klasyfikacji towarów (Część III taryfy).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "g) dla przesyłek drobnych—także cechę i numer każdej sztuki, iłość sztuk i rodzaj opakowania;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "h) wykazy załączonych dowodów celnych, podatkowych i policyjnych oraz nazwy stacji, na których mają być załatwione formalności cełne i podatkowe;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "i) w razie życzenia nadawcy, wskazanie drogi przewozu, jeżeli do stacji przeznaczenia prowadzi więcej niż jedna droga;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "k) wzmiankę, w odnośnych wypadkach, o ubezpieczeniu dostawy przesyłki; |) zaliczenie, obciążające, w odnośnych wypadkach, przesyłkę;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "m) wzmiankę, czy i jakie koszta przewozowe mają być opłacone przy nadaniu przesyłki;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "n) miejsce i datę sporządzenia listu przewozowego;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "o) podpis i adres nadawcy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Kolej ma prawo wymagać, aby na każdy ładunek wagonowy był sporządzony oddzielny list przewozowy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Za jednym listem przewozowym można nadać większą ilość przedmiotów, o ile ich wspólne załadowanie i przewóz są możliwe ze względu na ich właściwości naturalne oraz o ile to nie sprzeciwia się przepisom celnym lub policyjnym.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. Oddzielne listy przewozowe powinny być sporządzane na przesyłki, których ładowanie przez nadawcę lub wyładowywanie przez odbiorcę jest zastrzeżone w odpowiednich przepisach, oraz oddzielne na towary, dopuszczone do przewozu warunkowo (art. 54 ust. 2).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5. Jeśli miejsce, wyznaczone na blankiecie listu przewozowego do określenia przesyłki, nie będzie wystarczające, to należy do listu przewozowego doszyć lub dokleić arkusze dodatkowe tegoż formatu, które nadawca podpisuje. W liście przewozowym powinna być zamieszczona wzmianka o dołączeniu arkuszy dodatkowych. W tych wypadkach ogólna waga przesyłki powinna być wymieniona w odpowiedniej rubryce listu przewozowego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "6. Przy towarach, należących do różnych klas taryfy, należy wskazać wagę dla każdej klasy taryfowej osobno, jeżeli żąda się oddzielnego obliczenia przewoźnego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "7. W liście przewozowym, nadawca może zamieścić żądanie, aby waga względnie ilość sztuk przesyłki, była sprawdzona na stacji przeznaczenia przy wydaniu towaru; kolej pobiera za to opłatę, przewidzianą w taryfie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "8. Na odwrotnej stronie listu przewozowego może być wydrukowana firma nadawcy, jak również mogą być zamieszczane dla wiadomości odbiorcy następujące uwagi, dotyczące przesyłki: „przesyłka pochodząca od NN,",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "z polecenia NN, do rozporządzenia NN, celem dalszego przesłania dla NN, ubezpieczone w NIN”. Notatki te do niczego kolei nie zobowiązują. (Post. wyk.). W braku miejsca na samym liście przewozowym — przy dwustronnem drukowaniu listów przewozowych—uwagi powyższe mogą być zamieszczone ne oddzielnym arkuszu, dołączanym do listu przewozowego.",
+     "quoted": true
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_54/ust_9",
+     "text": "Zamieszczanie w liście przewozowym innych oświadczeń oraz dołączanie innych dowodów, nie wskazanych w niniejszych przepisach, jest wzbronione.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "art_54/ust_10",
+     "text": "List przewozowy powinien być wypełniony w języku polskim wyraźnie atramentem, drukiem lub stemplem. Listy przewozowe, zawierające poprawki bez omówienia, podskrobywane lub nadmiernie zabrudzone nie będą przyjmowane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "57",
+   "path": "art_57",
+   "text": "Odpowiedzialność nadawcy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Nadawca odpowiada przed koleją za zgodność z rzeczywistością, dokładność i dostateczność wszystkich oświadczeń, zamieszczonych przezeń w liście przewozowym, i ponosi wszelkie następstwa, które mogą wyniknąć z niezgodności, niedokładności i niedostateczności tych oświadczeń. Odpowiedzialność nadawcy nie ulega zmianie i w tym wypadku, jeżeli na jego żądanie wypełnienia listu przewozowego dokonała kolejowa ekspedycja towarowa."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "58",
+   "path": "art_58",
+   "text": "Sprawdzanie zawartości, ustalanie ilości sztuk i wagi przesyłki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_58/ust_1",
+     "text": "Kolej ma prawo sprawdzać czy ilość sztuk, waga i zawartość przesyłki zgodne są z oświadczeniem nadawcy w liście przewozowym. Przy sprawdzeniu może być obecna osoba, uprawniona do rozporządzania przesyłką. W razie nieobecności tej osoby powinni być wezwani dwaj świadkowie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_58/ust_2",
+     "text": "Jeżeli się okaże, że podane w liście przewozowym oświadczenia nie są zgodne z prawdą, osoba uprawniona do rozporządzania przesyłką, niezależnie od opłat, przewidzianych w art. 60, uiszcza opłaty, wskazane w taryfie, oraz ponosi wszelkie inne koszta, związane z takiem sprawdzeniem. Jeżeli nadawca nie podał wagi przesyłki w liście przewozowym, kolej jest obowiązana wagę tę ustalić sama na stacji nadawczej albo, w braku na niej stosownych urządzeń, na którejkolwiek z innych stacyj, leżących na linji przewozu. Za ustalenie wagi przesyłki kolej pobiera opłatę, wskazaną w taryfie. s",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_58/ust_4",
+     "text": "Kolej obowiązana jest również ustalić ilość sztuk i wagę tych przesyłek. które załadowuje sama, bez względu na to, czy nadawca podał wagę i ilość sztuk przesyłki czy nie. Za czynność tę opłaty się nie pobiera, jeżeli waga i ilość sztuk, podane przez nadawcę, zgadzają się z rzeczywistością.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_58/ust_5",
+     "text": "Kolej może dokonywać ważenia przesyłek wagonowych na wadze . Wagonowej, przyjmując pod uwagę wagę własną wagonu, na nim oznaczoną. Na żądanie jednak osoby, uprawnionej do rozporządzania przesyłką, kolej powinna sprawdzić wagę własną wagonu, jeżeli na to pozwalają warunki ruchu. Za takie sprawdzenie kolej pobiera opłatę, określoną w taryfie. (Post. wyk.). Jeżeli sprawdzenie wagi przesyłki na wadze wagonowej nie wykaże różnicy większej nad 2%0 od wagi, podanej w liście przewozowym, to wagę tę uważać należy za zgodną rzeczywistością.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_58/ust_6",
+     "text": "Dokonane przez kolej ustalenie ilości sztuk i wagi przesyłki powinno być zaznaczone przez kolej w liście przewozowym. Jeżeli ustalenie to nastąpiło na stacji nadawczej, zaznaczenie powyższe powinno być zamieszczone również i we wtórniku listu przewozowego. Za ustalenie ilości",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "sztuk przesyłek wagonowych na żądanie nadawcy kolej pobiera opłatę, przewidzianą w taryfie. Kolej jednak nie jest obowiązana do takiego ustalania ilości sztuk."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "59",
+   "path": "art_59",
+   "text": "Ładowanie.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_59/ust_1",
+     "text": "Towary powinny być przez nadawcę lub, kolej naładowane stosownie do wskazówek, zawartych w niniejszych przepisach i w odnośnych taryfach. „2. Jeżeli na wagonie jest oznaczona jego ładowność i nośność, to miarodajną normą przy naładowaniu wagonu jest jego ładowność. Wagon może być naładowany ponad ładowność do całkowitej nośności tylko w tym razie, jeżeli ze względu na rodzaj towaru i warunki atmosferyczne niema obawy, aby nośność wagonu mogła być w drodze przekroczona. Ładowanie wagonu ponad jego nośność jest bezwzględnie niedozwolone. Jeżeli na wagonie oznaczona jest tylko jego ładowność, to można przy ładowaniu wagonu przekrączyć ją o 5%/o. (Post. wyk.). l. W razie przeciążenia wagonu nadwyżka towaru powinna być przez kolej odładowana na tej stacji, na której została ona ujawnioną. Za wagę towaru, pozostałego w wagonie. przewożne oblicza się od stacji nadania, do stacji przeznaczenia Za wyładowaną nadwyżkę przewożne za odległość przebytą oblicza się według tej samej taryfy, która stosowaną była do przesyłki zasadniczej. Nadwyzka oddawana jest na przechowanie do składu, a od nadawcy zażądaną być winna wskazówka co do dalszego postępowania. (Post. wyk.). Il. Jeżeli na skutek zarządzenia nadawcy nadwyżka ma być przesłana na stację pierwotnego przeznaczenia, uważaną ona jest pod względem taryfowym za nową przesyłkę. Jeżeli jednak nadawca zażąda zwrotu nadwyżki na stację nadania, przewożne winno być obliczone według tych samych taryf, które zastosowane były do przesyłki zasadniczej za odległość od stacji nadania do stacji odładowania radwyżki Nadawcy przysługuje prawo doładować nadwvżkę wagi do innej przesyłki, idącej z tej samej stacji nadania i przechodzącej przez stację odiadowania nadwyżki. Żądanie o tem powinien on zamieścić w liście przewozowym. Przewożne wówczas oblicza się za całą wagę przesyłki, łącznie z doładowaną na stacji pośredniej nadwyżką, za odległość od stacji nadania do stacji przeznaczenia. (Post. wyk.). lll. Za wyładowanie i naładowanie nadwyżki wagi, jak również za spowodowane przez to zatrzymanie wagonu, pobiera się opłaty, przewidziane w Wykazie opłat dodatkowych (Część Il taryfy). (Post. wyk.). IV. Za przesyłki wagonowe, przeładowywane w drodze, nie z winy nadawcy, żadnych dodatkowych opiat się nie pobiera. (Post. wyk.). V. Czasowo, aż do odwołania, zezwala się przekraczać oznaczoną na wagonie ładowność o 10°),.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "60",
+   "path": "art_60",
+   "text": "Dopłaty.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_60/ust_1",
+     "text": "W razie ujawnienia niezgodnego z rzeczywistością oznaczenia zawartości, wagi lub ilości sztuk przesyłki, jak również zaniedbania przepisów ostrożności, wskazanych w załączniku B, pobierane są następujące dopłaty, bez względu na to, czy wina nadawcy może, czy nie może być udowodnioną:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_60/ust_1/lit_a",
+       "text": "jeżeli do przewozu nadane zostały przedmioty, wymienione w art. 54 ust. 1 Bi 2 A, pod nazwą, nie odpowiadającą rzeczywistej zawartości, albo też nie zostały zachowane przepisy ostrożności, wskazane w załączniku B, dopłata od każdego kilograma wagi brutto przesyłki, w której przedmiot podobny ujawniony został, stanowi:",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_60/ust_1/lit_a",
+       "text": "za przedmioty, które stosownie do art. 54 ustępu B są zupełnie wyłączone z przewozu, oraz za materjały wybuchowe i samozapalne, wymienione w ustępach i II załącznika B— 20 mk;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_60/ust_1/lit_b",
+       "text": "za płyny i materjały palne, trujące i gryzące, wymienione w ustępach Ill, IV i V załącznika B—5 mk;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_60/ust_1/lit_c",
+       "text": "za przedmioty, łatwo ulegające gniciu, wymienione w ustępie VI załącznika B—1 mk.; b) we wszystkich innych wypadkach dopłata stanowi 10 mk., od każdego listu przewozowego, jeżeli to nie mogło pociągnąć za sobą zmniejszenia opłaty przewozowej; jeżeli zaś mogło, to pobiera się podwójną różnicę pomiędzy opłatą przewozową, obliczoną podług nieprawidłowego określenia przesvłki, i opłatą za to, co okazało się w rzeczywistości, od stacji nadawczej do stacji przeznaczenia; c) jeżeli do przewozu nadaną została przesyłka, oznaczona niezgodnie z rzeczywistą ilością sztuk, wymiarami lub wagą przesyłki i okoliczność ta mogła spowodować zmniejszenie przewoźnego, dopłata stanowi również podwójną różnicę pomiędzy opłatą, przypadającą za przewóz istotnej ilości sztuk, wymiaru lub wagi przesyłki od stacji nadawczej do stacji przeznaczenia, a opłatą za przewóz przesyłki, obliczoną według oświadczeń nadawcy; d) za przeciążenie wagonu ładowanego przez nadawcę ponad jego nośność pobieraną jest dopłata w wysokości sześciokrotnej opłaty za przewóz od stacji: nadawczej do stecji odbiorczej tej wagi przesyłki, która przenosi najwyższe normy ładunkowe, określone w art. 59 niniejszych przepisów; e) dopłaty, przewidziane pod lit. a)—d) są pobierane niezależnie za każdy przypadek jednoczesnego przekroczenia kilku z wymienionych przepisów; jeżeli nieprawidłowe podanie zawartości przesyłki, powodujące obniżenie przewoźnego, zbiega się z niezgodnem z rzeczywistością oznaczeniem ilości sztuk lub wagi przesyłki, która nie zawiera przedmiotów, wyszczególnionych w art. 54 ust. I B lub 2 A—dopłata stanowi wówczas podwójną różnicę pomiędzy opłatą, obliczoną z jednej strony podług zawartości, liczby sztuk lub: wagi wskazanego w liście przewozowym towaru, a z drugiej—za istotną zawartość, liczbę sztuk lub wage rzeczywiście nadanego do przewozu towaru.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Prócz tego powinna być uiszczona różnica w opłacie przewoźnego oraz , pokryte powstałe wskutek tej nieprawidłowości szkody i pobrane kary, przewidziane w odnośnych przepisach prawnych."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_60/ust_2",
+     "text": "Dopłata nie może być pobieraną: a) w razie podania nieprawidłowej wagi lub przeciążenia wagonu, jeżeli kolej obowiązaną była według przepisów zważyć dany ładunek; b) w razie zwiększenia w drodze wagi przesyłki, nie pociągającego za sobą przeciążenia wagonu, jeżeli nadawca udowodni, że zwiększenie wagi powstało wskutek wpływów atmosferycznych;",
+     "children": [
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_60/ust_2/lit_c",
+       "text": "w razie powstałego w drodze wskutek działań atmosferycznych przeciążenia wagonu, jeżeli nadawca udowodni, że przy załadowywaniu wagonu zachowane były obowiązujące przepisy i ładowność wagonu przekroczona nie była.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_60/ust_3",
+     "text": "Dopłaty obowiązują z chwilą zawarcia umowy o przewóz (art. 61). Uiszczać dopłaty powinien nadawca przesyłki. Jeżeli odbiorea przyjmie list przewozowy i przesyłkę, ponosi on, w myśl art. 76 ustępu 4, odpowiedzialność za uiszczenie dopłat solidarnie z nadawcą.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_60/ust_4",
+     "text": "Żądania uiszczenia dopłaty oraz zwrotu dopłaty w razie nieprawiddłowego jej pobrania, mają moc prawną w ciągu sześciu miesięcy. Termin sześciomiesięczny dla zgłoszeń o uiszczenie dopłat rozpoczyna się z chwilą pobrania opłaty przewozowej, jeżeli zaś przewoźne pobrane nie było — z chwilą nadania przesyłki do przewozu. Termin sześciomiesięczny dla żądania zwrotu dopłat nieprawidłowo pobranych, liczy się od chwili uiszczenia dopłaty. Art. 71 ust. 2 reguluje zawieszenie lub przerwę w biegu tego terminu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "61",
+   "path": "art_61",
+   "text": "Zawarcie umowy o przewóz.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_61/ust_1",
+     "text": "Umowę o przewóz należy uważać za zawartą z chwilą, kiedy stacja nadawcza przyjęła do przewozu przesyłkę wraz z listem przewozowym. Na znak przyjęcia stacja kładzie na liście przewozowym stempel z datą przyjęcia przesyłki. W takiż sam stempel powinny być zaopatrzone i wszystkie dołączone do listu przewozowego arkusze dodatkowe w myśl art. 56 ust. 5.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_61/ust_2",
+     "text": "Ostemplowanie powinno być uskutecznione bezpośrednio po całkowitem przyjęciu wymienionej w liście przewozowym przesyłki i, na żądanie nadawcy, dokonane w jego obecności, po pobraniu sum, podlegających opłacie z góry. i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_61/ust_3",
+     "text": "Ostemplowany list przewozowy służy za dowód zawarcia umowy © przewóz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_61/ust_4",
+     "text": "Zawarte w liście przewozowym dane co do wagi i liczby sztuk przesyłki, załadowanej do wagonu przez nadawcę, mogą służyć za dowód przeciw kolei tylko w tym wypadku, jeżeli kolej dokonała sprawdzenia wagi i ilości sztuk przesyłki i zgodność wskazanych przez nadawcę oświadczeń potwierdziła w liście przewozowym. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_61/ust_5",
+     "text": "Kolej jest obowiązana stwierdzić przyjęcie przesyłki do przewozu w dołączonym do listu przewozowego wtórniku oraz podać datę rzeczonego przyjęcia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_61/ust_6",
+     "text": "Wtórnik nie posiada tego znaczenia co list przewozowy, ma charakter pokwitowania z przyjęcia przesyłki do przewozu i służy za legitymację nadawcy w razie zleceń dodatkowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "62",
+   "path": "art_62",
+   "text": "Opakowanie i cechowanie.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_62/ust_1",
+     "text": "Przesyłka powinna być opakowana odpowiednio do swych właściwości w czlu zabezpieczenia jej od zniszczenia, braku albo uszkodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_62/ust_2",
+     "text": "Jeżeli przesyłka nie jest należycie opakowana, kolej może odmówić przyjęcia jej do przewozu albo żądać, aby nadawca stwierdził w liście przewozowym brak lub wadliwości opakowania. O ile nadawca zechce stale nadawać na daną stację przesyłki bez opakowania lub w opakowaniu niedostatecznem, może złożyć oświadczenie ogólne według wzoru, wskazanego w załączniku E. W tym wypadku należy zrobić za każdym razem wzmiankę o tem oświadczeniu w liście przewozowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_62/ust_3",
+     "text": "Artykuły 84 i 86 określają bliżej jaką odpowiedzialność ponosi kolej za szkody, spowodowane tak wadliwością opakowania, zaznaczoną w liście przewozowym, jak i nie zaznaczoną, a nie dającą się zewnętrznie zauważyć. Jeżeli o widocznej zewnętrznie wadliwości opakowania niema wzmianki w liścia przewozowym, kolej może być zwolniona od odpowie: działności za szkody, wynikłe z wad opakowania tylko w tym przypadku, kiedy nadawca działał podstępnie. Opakowanie powinno być takie, aby towar nie mógł być uszkodzony podczas zwykłych czynności kolejowych. W razie przeciwaym kolej, © ile zechce przyjąć przesyłkę do przewozu, może zażądać od nadawcy",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wniesienia do listu przewozowego oświadczenia, wskazanego wyżej w ust. 2-im. Za szkody, powstałe wskutek wadliwości opakowania, stwierdzonych w powyższy sposób, lub nie dających się zewnętrznie zauważyć, ponosi odpowiedzialność nadawca przesyłki. Jeżeli wadliwość opakowania, dająca się zewnętrznie zauważyć, nie była w liście przewozowym zaznaczona, nadawca przesyłki odpowiada za szkody tylko w tym przypadku, kiedy działał podstępnie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_62/ust_5",
+     "text": "Kolej ma prawo żądać, aby drobne przedmioty (drobne wyroby żelazne i t. p. rzeczy), których przyjmowanie i ładowanie połączone są ze znaczną stratą czasu, były łączone lub wiązane wspólnie w celu zmniejszenia ilości pojedyńczych sztuk przesyłki. Dla towarów, nie wymienionych w art. 54, które jednak z powodu właściwości swoich, mogą podczas przewozu spowodować pewne niedogodności, kolej może ustalić w taryfie przepisy o opakowaniu i sposobie naładowania. ł",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_62/ust_7",
+     "text": "Przesyłki drobne powinny być cechowane w sposób trwały i wyraźny, uniemożliwiający zamianę. Cechy powinny zgadzać się całkowicie z cechami, podanemi w liście przewozowym. Wszystkie poprzednie znaki i cechy (kolejowe, pocztowe lub inne, mogące utrudniać rozpoznanie przesyłki) powinny być usunięte. Kolej może żądać, aby przesyłki drobne były przez nadawcę zaopatrzone w trwale i wyraźnie wypisaną nazwę stacji przeznaczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "63",
+   "path": "art_63",
+   "text": "Przyjmowanie przesyłek.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_63/ust_1",
+     "text": "Kolej obowiązana jest przyjmować do przewozu przesyłki tylko wtedy, kiedy przewóz ich może być uskuteczniony bezzwłocznie. Jeżeli warunki eksploatacji kolejowej lub inne wyjątkowe względy uniemożliwią bezzwłoczne uskutecznienie przewozu, wówczas zawieszenie lub ograniczenie przyjmowania do przewozu przesyłek może nastąpić jedynie na mocy zarządzenia Zarządu kolejowego. który powiadamia o tem Ministerstwo Kolei.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_63/ust_2",
+     "text": "Przesyłki powinny być dostarczane koiei w godzinach służbowych, ustalonych przez kolej i podanych do wiadomości publicznej za pomocą stosownych ogłoszeii na stacjach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_63/ust_3",
+     "text": "W niedziele i dni świąteczne kolej może nie przyjmować przesyłek towarowych zwyczajnych, przesyłki zaś pośpieszne obowiązana jest przyjmować, jeżeli nie stają temu na przeszkodzie formainości celne lub podatkowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_63/ust_4",
+     "text": "Jeżeli przyjęcie przesyłki, którą powinna naładować sama kolej, jest wstrzymane przez to, że nadawca nie dostarczył w ciągu 24 godzin wszystkich przedmiotów, wymienionych w liście przewozowym, że w ciągu 24 godzin od chwili rozpoczęcia przyjmowania przesyłki nie doręczył kolei należycie sporządzonego listu przewozowego, zamiast nieprzyjętego przez ekspedycję wskutek nieprawidłowości lub niedostateczności oświadczeń, lub że nie uiścił w tym samym terminie opłat przewozowych i kosztów dodatkowych, podlegających opłacie przy nadaniu, kolei ma prawo pobrać za towar, złożony na stacji, składowe, przewidziane w taryfie. (Post. wyk.) Jakie przesyłki powinna ładować kolej, a jakie nadawca — podają Postanowienia taryfowe (Część II taryfy). Za wstrzymanie z winy nadawcy przyjęcia przesyłek, ładowanych przez kolej, pobiera kolej składowe—a w razie rozpoczęcia załadowywania przesyłki i powstałego przez to przetrzymywania wagonu — również postojowe w wysokości, przewidzianej w Wykazie opłat dodatkowych (Część li taryfy).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_63/ust_5",
+     "text": "Podstawienie wagonu dla przesyłki, której naładowanie należy do nadawcy, powinno być ustalone na dzień określony, stosownie do złożonych oświadczeń o rodzaju przesyłki i przybliżonej jej wadze oraz o stacji przeznaczenia. Jeżeli wagony nie mogą być na ten czas przygotowane, to.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "© tem, w miarę możności, powinna być uprzedzona osoba, zamawiająca wagony. Jeżeli osoba, zamawiająca wagon, odwoła swe zamówienie już po podstawieniu wagonu, ale jeszcze przed upływem terminu, ustalonego dla naładowania, powinna ona uiścić przewidzianą w taryfie opłatę, która nie może przenosić wysokości opłaty, należnej za przetrzymanie wagonu w ciągu 1 doby. Jeżeli jednak to odwołanie zamówienia nastąpiło już po upływie terminu dla naładowania, zamawiający powinien uiścić opłatę, przewidzianą w taryfie, za przetrzymanie wagonu (postojowe). Przy zamówieniu wagonu kolej ma prawo żądać zabezpieczenia do wysokości wyżej wymienionej opłaty. (Post. wyk.) |. Wagony należy zamawiać piśmiennie na stacji nadawczej, nie mniej, jak na 43 godzin przed dostarczeniem przesyłki do ekspedycji. Przy zamawianiu należy wskazać liczbę i rodzaj żądanych wagonów, a przy wysyłce zwierząt — także liczbę i rodzaj zwierząt, wraz z wskazówką, czy żądane są wagony piętrowe. (Post. wyk.) Il. Wagony specjalne oraz wagony o określonej sile nośnej lub powierzchni ładunkowej kolej dostarcza według możności. Od każdego zamówionego wagonu pobiera się kaucję, wskazaną w wykazie opłat dodatkowych (Część II taryfy). Jeżeli cofnięcie zamówienia nastąpiło przed upływem terminu, ustalonego dla załadowania, opłatę za przetrzy: manie wagonu pobiera się w wysokości postojowego, określonego w Wykazie opłat dodatkowych, nie mniej jednak, niż za 12 godzin. Jeżeli cofnięcie to nastąpiło już po upływie terminu dla załadowania, opłatę za postojowe pobiera się nie mniej, niż za 24 godziny."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_63/ust_6",
+     "text": "Naładowanie, dokonywane przez nadawcę, powinno być uskutecznione podczas godzin służbowych i musi być zakończone w ciągu terminu, ustalonego przez kolej i podanego do powszechnej wiadomości przez odpowiednie ogłoszenia na stacji. Jeżeli termin ten będzie przekroczony, albo nadawca nie doręczy kolei w ciągu tego terminu należycie sporządzonego listu przewozowego, zamiast nieprzyjętego przez ekspedycję wskutek nieprawidłowości lub niedostateczności oświadczeń, albo też nie uiści przed upływem tego terminu zastrzeżonych w liście przewozowym przewożnego i opłat dodatkowych, — to nadawca obowiązany jest uiścić przewidzianą w taryfie opłatę za przetrzymanie wagonu (postojowe). Opłatę za przetrzymanie wagonu przez niedziele i dni świąteczne pobiera się tylko wówczas, kiedy termin ładowania upłynął już dnia poprzedniego. Jeżeli kilka dni świątecznych i niedzielny następują z kolei, opłatę za przetrzymanie wagonu pobiera się tylko za dzień jeden. W wypadkach, kiedy termin ładowania przekroczony został więcej niż o 24 godziny, kolei przystuguje prawo na rachunek i odpowiedzialność nadawcy towar wyładować i przyjąć na skład albo też oddać go na przechowanie ekspedytorowi lub składnikowi. Na stacjach, otwartych w niedziele i święta dla czynności ładunkowych, opłatę za przetrzymanie wagonu przez niedziele i dni świąteczne pobiera się na tych samych zasadach co i w dni powszednie. (Post. wyk.). Termin załadowania przesyłki, dokonywanego przez nadawce, stanowi 6 godzin służbowych od chwili podstawienia wagonu do ładowania, za wyjątkiem przesyłek, załadowywanych do wagonów 30-tonnowych oraz przesyłek ropy, nafty, benzynyi olejów mineralnych w wagonach kotłach (cysternach), dla których termin ten przedłuża się: dla wagonów 30-tonnowych do 9 godzin służbowych, dla cystern—do 8 godzin, a dla olejów ciężkich w miesiącach grudniu, styczniu i lutym — do 10 godzin służbowych. Dla naładowania wagonów kotłów (cystern) w rafinerjach oraz kopalniach powyższe terminy przedłuża się do 12 godzin służbowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_63/ust_7",
+     "text": "Bieg terminów, przewidzianych w ust. 4 i 6m zawiesza się na czas dokonywania formalności celnych, podatkowych i policyjnych, o ile",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "one nie ulegną zwłoce z winy nadawcy, a na stacjach, zamkniętych w nie: „dziele i święta dla czynności ładunkowych, także na przeciąg dni niedzielnych i świątecznych. Kolej może podjąć się dostarczania na stację przesyłek drobnych z miejscowości, leżących w pobliżu stacji, bądź sama za opłatą, podaną do wiadomości powszechnej, bądź też do dokonania tego zamówić przedsiębiorcę przewozowego. Osoby, dokonywujące tego przewozu, uważane sę. za pracowników kolejowych w myśl art. 5. Służba przedsiębiorcy przewozowego powinna posiadać przy sobie taryfę opłat i okazywać ją na żądanie osób zainteresowanych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_63/ust_9",
+     "text": "Nadawcy przysługuje prawo albo skorzystać z powyższej organizacji kolejowej, albo dostarczyć przesyłki samemu, albo też zlecić to inne: mu przedsiębiorcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "art_63/ust_10",
+     "text": "Kolej ma prawo zamieścić w taryfach przepis, że przeładowanie towarów, mających na stacji nadawczej przejść ze statków bezpośrednio na kolej, dokonywane będzie albo przez samą kolej za opłatą, określoną w taryfie lub wskazaną w ogłoszeniach, wywieszonych na stacji, albo też przez specjalnego przedsiębiorcę. Osoby, dokonywujące tego przeładowania, uważane są, w myśl art. 5, za pracowników kolei.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "art_63/ust_11",
+     "text": "Skrócenie terminów dla naładowania oraz czasu wolnego od opłaty składowego, jak również podwyższenie opłat za przetrzymywanie wagonu i za składowe może nastąpić na zasadzie przepisów, podanych w art. 80 ust. 8.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 64. Czasowe przechowywanie przesyłek."
+      },
+      {
+       "type": "text",
+       "text": "Kolej obowiązana jest przyjmować do przechowania czasowego za odpowiedniem pokwitowaniem przesyłki, których nie można wysłać bezzwłocznie, o ile na stacjach są odpowiednie składy. Przytem kolej może zastrzec, iż przyjęcie przesyłki do przewozu nastąpi dopiero wówczas, kiedy przewóz ten stanie się istotnie możliwym. Nadawca powinien wyrazić na to swą zgodę w liście przewozowym oraz w jego wtórniku. W tym przypadku kolej ponosi odpowiedzialność aż do czasu zawarcia umowy o przewóz (art. 61 ust. 1) na zasadach umowy o przechowywaniu towarów. Kolej może się uchylić od przechowywania towarów, łatwo ulegających zepsuciu, oraz przedmiotów, wymienionych w art. 54 ust. 2."
+      },
+      {
+       "type": "text",
+       "text": "Frt. 65. Przepisy celne, podatkowe i policyjne."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_63/ust_1",
+     "text": "Nadawca przesyłki jest obowiązany dołączyć do listu przewozowego wszelkie dowody, niezbędne do wypełnienia przepisów celnych, podatkowych czy policyjnych, dokonywanych przed wydaniem przesyłki odbiorcy, dowody te powinny być szczegółowo wymienione w liście przewozowym. Kolej nie jest obowiązana sprawdzać prawidłowości i dostateczności rzeczonych dowodów. Nadawca przesyłki odpowiada wobec kolei, jeżeli wina jej nie zostanie udowodnioną, za wszystkie skutki, powstałe z powodu braku, niedostateczności lub nieprawidłowości dowodów; równocześnie nadawca obowiązany jest do płacenia przewidzianych w taryfie opłat składowego lub postojowego, jeżeli z powodu wadliwości lub niedokładności dowodów powstała zwłoka w przewozie, przenosząca 48, godzin. (Post. wyk.). Jeżeli przesyłka załadowaną została na wagon niekryty i ma być przewieziona pod zamknięciem urzędu celnego lub podatkowego. nadawca jest obowiązany dostarczyć środków do nakrycia wagonu, odpowiadającego przepisom celnym czy podatkowym. Jeżeli opon dostarczy kolej, pobiera ona za to opłatę, wskazaną w Wykazie opłat dodatkowych. (Część II taryfy).",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_63/ust_2",
+     "text": "Formalności celne, podatkowe i policyjne w czasie przewozu przesyłki załatwia kolej za pobraniem określonych w taryfie opłat. Czynności te może kolej zlecić ekspedytorowi na rachunek osoby, uprawnionej do rozporządzania przesyłką, lecz ponosi za nie odpowiedzialność. Jeżeli zlecenia, danego przez nadawcę przesyłki, nie można wykonać w sposób przez niego wskazany, kolej obowiązana jest załatwić sprawę w sposób, który uzna za najdogodniejszy dla nadawcy, i zawiadomić o tem nadawcę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_63/ust_4",
+     "text": "Nadawca przesyłki może zaznaczyć w liście przewozowym, |iż pragnie sam albo przez specjalnie do teqo upoważnioną osobę być obecnym przy dokonywaniu formalności celnych lub podatkowych. Na żądanie oraz za zwrotem połączonych z tem kosztów, nadawca lub jego pełnomocnik powinien być zawiadomiony o przybyciu przesyłki na stację, na której mają być dokonane rzeczone formalności. Nadawca lub jego pełnomocnik mogą udzielić niezbędnych wyjaśnień co do przesyłki, nie przysługuje im jednak prawo odebrania przesyłki lub dokonywania samym formalności celnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_63/ust_5",
+     "text": "Na stacji przeznaczenia odbiorca ma prawo dokonywania formalności celnych lub podatkowych, jeżeli w liście przewozowym nadawca nie dał innego zlecenia. O ile czynności tych nie dokona odbiorca, albo, stosownie do odpowiedniej wzmianki w liście przewozowym, nadawca lub osoba trzecia, obowiązana jest do nich kolej, która ma prawo zlecić dokonanie ich ekspedytorowi na rachunek osoby, uprawnionej do rozporządzania przesyłką, z zachowaniem odpowiedzialności kolei. Ministerstwo Kolei może wydać przepisy osobne o dołączaniu do przesyłek dowodów statystycznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "66",
+   "path": "art_66",
+   "text": "Używanie wagonów krytych lub niekrytych.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_66/ust_1",
+     "text": "[Nadawca przesyłki, jeżeli temu nie sprzeciwiają się przepisy celne, podatkowe lub policyjne, albo też istotne wymagania eksploatacji, ma prawo wyrazić w liście przewozowym żądanie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_66/ust_1/lit_a",
+       "text": "przewozu w wagonach krytych takich przesyłek, dla których taryfa przewiduje przewóz w wagonach niekrytych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_66/ust_1/lit_b",
+       "text": "przewozu w wagonach niekrytych przesyłek, których przewóz ma być według taryf uskuteczniany w wagonach krytych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_66/ust_2",
+     "text": "W wypadku pierwszym kolej może pobrać za przewóz opłatę wyższą, ustaloną w taryfie. Odnośna taryfa rozstrzyga o tem, czy i na jakich warunkach kolej dostarcza opon dla wagonów niekrytych. i (Post. wyk.). Przepisy o przewozie przesyłek w wagonach niekrytych, o dostarczaniu opon oraz o sposobie obliczania przewoźnego zawarte są w Postanowieniach taryfowych (Część Il taryfy).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "67",
+   "path": "art_67",
+   "text": "Sposób i kolejność przewozu.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_67/ust_1",
+     "text": "Przesyłka powinna być przewożona jako przesyłka zwyczajna, albo jako przesyłka pośpieszna, zgodnie z obranym przez nadawcę listem przewozowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_67/ust_2",
+     "text": "Nadawca może w liście przewozowym wskazać drogę przewozu, jeżeli do stacji przeznaczenia prowadzi więcej niż jedna droga, urząd celny lub podatkowy, w którym odnośne czynności powinny być dokonane, oraz żądaną do zastosowania taryfę. (Post. wyk.). Żądanie zastosowania taryfy może być spełnione tylko wtedy, jeżeli to jest zgodne z obowiązującemi przepisami.",
+     "children": [
+      {
+       "type": "text",
+       "text": "da Kolej może zmienić wskazaną przez nadawcę drogę tylko z zachowaniem następujących warunków: ‘"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_67/ust_2/lit_a",
+       "text": "aby formalności celne i podatkowe były w każdym razie dokonane na stacji, wskazanej przez nadawcę;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_67/ust_2/lit_b",
+       "text": "aby termin dostawy nie był przez to przedłużony;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_67/ust_2/lit_c",
+       "text": "aby przewożne nie było pobrane wyższe od przewoźnego, obliczonego według drogi, wskazanej przez nadawcę. W każdym razie o zmianie drogi stacja nadawcza powinna zawiadomić nadawcę przesyłki. Jeżeli nadawca wskaże w liście przewozowym taryfę, której zastosowania żąda, kolej ma prawo zastosowania jej nawet wówczas, gdyby przewoźne obliczone według innej taryfy, było niższe.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_67/ust_5",
+     "text": "W razie braku wskazówek, wyszczagólnionych w ust. 2-m, kolej powinna dokonać ekspedycji przesyłki w sposób, który zapewnia przesyłce najniższą opłatę przewozową, albo, przy równości opłat, najdogodniejsze warunki przewozu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_67/ust_6",
+     "text": "Przesyłki mają być wysyłane z zachowaniem kolejności, w jakiej przyjmowane one były do przewozu, o ile nie dające się usunąć warunki eksploatacji kolejowej lub interes publiczny nie nakażą uczynienia wyjątku. Postępowanie wbrew tym przepisom daje podstawę do poszukiwania odszkodowania za poniesione straty.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 68. Obliczenie przewoźnego, opłat dodatkowych i wydatków w gotowiźnie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_67/ust_1",
+     "text": "Kolej obowiązana jest wpisać do listu przewozowego opłaty przewozowe, określone na podstawie obowiązujących taryf, oraz opłaty dodatkowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_67/ust_2",
+     "text": "Kolej poza temi opłatami może pobrać tylko wydatki, wyłożona przez nią w gotowiźnie, naprzykład: uiszczone cło, poniesione koszta przewozu końmi lub samochodem, wydatki na reparację opakowania oraz na zachowanie towaru w należytym stanie. Sumy powyższe powinny być również wpisane do listu przewozowego z dołączeniem, w miarę. możności, dowodów, usprawiedliwiających powyższe wydatki. Za poczynione w gotowiźnie wydatki kolej ma prawo pobierać opłaty komisowe (prowizję), przewidziane w taryfie; wolne są od takich opłat (prowizji): przewoźne, opłaty dodatkowe, opłaty pocztowe i stemplowe. (Post. wyk.). Opłaty komisowe (prowizje) za wydatki w gotowiźnie kolej pobiera w wysokości, przewidzianej w Wykazie opłat dodatkowych Część Il taryfy).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "69",
+   "path": "art_69",
+   "text": "Uiszczanie przewoźnego.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_69/ust_1",
+     "text": "Stacja nadawcza ma prawo żądać uiszczenia z góry opłaty przewozowej za przesyłki, uznane przez nią za łatwo ulegające zepsuciu, za przesyłki, niezabezpieczające kosztów przewozu wskutek swej małej wartości albo wreszcie za przesyłki, nadane w opakowaniu wadliwem, nie zabezpieczającem ich całości. Kolei przysługuje również prawo określać w taryfie, czy za przewóz przesyłek, do których stosuje się taryfy zniżone (wyjątkowe), przewoźne ma być pobierane z góry przy nadaniu, czy też może być przekazane na odbiorcę przesyłki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_69/ust_2",
+     "text": "We wszystkich innych wypadkach nadawca przesyłki może według swego uznania albo opłaćić koszta przewozu przy nadaniu, albo też przenieść je na odbiorcę. Nadawca ma nadto prawo na rachunek opłaty przewozowej wpłacić przy nadaniu dowolną jej część. Życzenie uiszczenia przewoźnego lub jego części powinien nadawca zaznaczyć piśmiennie w liście przewozowym w przeznaczonej do tego rubryce.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 18 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_69/ust_4",
+     "text": "Jeżeli przytem nadawca nie zrobił żadnych zastrzeżeń ograniczających, obowiązany on jest do uiszczenia wszystkich opłat przewozowych, łącznie z opłatami dodatkowemi i wydatkami, poczynionemi przez stację nadawczą aż do chwili przyjęcia przesyłki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_69/ust_5",
+     "text": "Zobowiązanie uiszczenia opłat nie rozciąga się na opłaty dodatkowe i wydatki, powstałe już po przyjęciu przesyłki do przewozu. Gdyby i te oplaty nadawca pragnął pokryć, powinien on zaznaczyć to w liście przewozowym osobno.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_69/ust_6",
+     "text": "O sumach, przyjętych przez nadawcę do opłaty, stacja nadawcza powinna zrobić stosowną wzmiankę zarówno w liście przewozowym, jak iw jego wtórniku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_69/ust_7",
+     "text": "Jeżeli należności, które nadawca wziął na siebie, nie mogą być ściśle określone przy przyjęciu przesyłki, stacja nadawcza ma prawo żądać od nadawcy złożenia odpowiedniego zabezpieczenia (kaucji). Takiego zabezpieczenia może kolej żądać od nadawcy również w razie przyjęcia na siebie kosztów formalności celnych i wszelkich innych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "70",
+   "path": "art_70",
+   "text": "Nieprawidłowe obliczanie przewoźnego.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_70/ust_1",
+     "text": "W razie nieprawidłowego zastosowania taryfy lub błędnego obliczenia przewoźnego i opłat dodatkowych, różnica pomiędzy sumą należną, a pobraną powinna być zwrócona. względnie pobrana dodatkowo. Kolej powinna zawiadomić osobę, od której należy się donłata, lub której przypada zwrot nadpłaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_70/ust_2",
+     "text": "Przed wydaniem odbiorcy listu przewozowego, dopłatę powinien uiścić nadawca przesyłki; po wydaniu odbiorcy listu przewozowego, nadawca odpowiada tylko w zakresie swego zobowiązania co do ponoszenia kosztów przewozu. Po za tem do uiszczenia dopłaty obowiązany jest odbiorca przesyłki (art. 76 ust. 4).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_70/ust_3",
+     "text": "Prawo do odbioru przewyżki opłaty przewozowej, jak również do zgłoszenia roszczeń o zwrot niesłusznie pobranych opłat ma ten, kto faktycznie opłatę tę kolei uiścił. Prawo to może być przekazane (cedowane) przez odbiorcę nadawcy lub przez nadawcę odbiorcy. Innym osobom prawo to przekazane (cedowane) być nie może, co nie pozbawia osoby trzecie prawa występowania w imieniu nadawcy lub odbiorcy z roszczeniem do kolei na podstawie pełnomocnictw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_70/ust_4",
+     "text": "W razie wszczęcia powództwa sądowego do kolei o zwrot opłaty przewozowej ma zastosowanie art. 100. (Post. wyk.) I. Reklamacje należy wnosić do tej Dyrekcji kolejowej, w okręgu której opłacono należność. Do każdej reklamacji, wniesionej przez osobę w myśl ust. 3 ninieszego artykułu do odbioru nieuprawnioną, należy dołączyć na oddzielnych blankietach cesję lub pełnomocnictwo, zaopatrzone podpisem osoby uprawnionej. Podpis ten na pełnomocnictwach musi być uwierzytelniony notarjalnie lub sądownie, cesje zaś, wydawane przez nadawcę odbiorcy lub odwrotnie, jak również pełnomocnictwa, wystawiane na biura reklamacyjne przy lzbach handlowo-przemysłowych, mogą być, za zgodą kolei, od uwierzytelnienia podpisu zwalniane. (Post. wyk.) Il. Do reklamacji należy dołączyć oryginalne dowody przewozowe, względnie wtórniki listów przewozowych i rachunki przedpłat przewożnego, o ile chodzi o należności opłacone przy nadaniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "71",
+   "path": "art_71",
+   "text": "Przedawnienie roszczeń z tytułu nieprawidłowego obliczenia należności.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_71/ust_1",
+     "text": "Roszczenia kolei o. dopłatę z powodu za nisco obliczonego prze- «oźnego lub opłat dodatkowych, jak również termin zgłoszenia roszczeń",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "do kolei o zwrot za wysoko obliczonego przewożnego lub opłat dodatkowych — przedawniają się po upływie dziewięciu miesięcy, o ile roszczenia te wynikają z nieprawidłowego zastosowania taryf lub z błędów przy obliczaniu. Za początek terminu przedawnienia należy uważać dzień, w którym uskuteczniono opłatę."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_71/ust_2",
+     "text": "Bieg terminu przedawnienia dla roszczeń o zwrot opłaty wstrzymuje się w razie złożenia kolei piśmiennego podania w tej sprawie. Jeżeli podanie to spotka się z odpowiedzią odmowną, to dalszy bieg terminu rozpoczyna się ponownie z dniem, kiedy kolej zawiadomi o tem piśmiennie petenta i zwróci mu dowody, załączone przy jego podaniu. Dalsze kroki, przedsiębrane w tej sprawie, a skierowane bądź do kolei, bądź do władz przełożonych, biegu przedawnienia nie wstrzymują. Przerwa przedawnienia następuje na zasadzie prawa ogólnego. (Post. wyk.) Reklamacje, nie zawierające dostatecznych danych, a w szczególności nie podające kwot i podstaw, oraz reklamacje, do krórych nie dołączono oryginalnych dowodów przewozowych, względnie w wypadkach przewidzianych cesji lub pełnomocnictw, nie przerywają biegu przedawnienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "72",
+   "path": "art_72",
+   "text": "Zaliczenia, obciążające przesyłki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_72/ust_1",
+     "text": "Nadawca przesyłki może obciążyć ją zaliczeniem do wysokości wartości przesyłki. (Post. wyk.). O dopuszczalnej wysokości zaliczenia decyduje stacja nadawcza, żądając, w wypadkach wątpliwych przedłożenia dowodów, stwierdzających wartość przesyłki. Zaliczenie może być czynione tylko w walucie krajowej i nie może być mniejsze nad 25 mk. : Jako dowód obciążenia przesyłki zaliczeniem, stacja nadawcza wystawia o tem osobne zaświadczenie (załącznik D).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_72/ust_3",
+     "text": "Kolej po pobraniu zaliczenia powinna zawiadomić nadawcę o wykupieniu przesyłki i wypłacić mu pobrane zaliczenie. (Post. wyk.). Kolej dokonywa zawiadomienia nadawcy drogą pocztową, wypłaca zaliczenie okazicielowi zaświadczenia za pokwitowaniem i nie jest obowiązana sprawdzać tożsamości osoby i podpisu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_72/ust_4",
+     "text": "W razie wydania przesyłki odbiorcy bez pobrania zaliczenia, kolej winna jest pokryć nadawcy stratę do wysokości sumy zaliczenia, pozostawiając sobie prawo regresu do odbiorcy przesyłki. Suma zaliczenia powinna być w liście przewozowym wypisana przez nadawcę słowami w przeznaczonej de tego rubryce. Suma, wyrażona słowami, jest miarodajną w razie ujawnienia niezgodności jej z sumą, podaną w cyfrach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_72/ust_6",
+     "text": "Za obciążenie przesyłki zaliczeniem, kolej ma prawo pobierać przewidziane w taryfie opłaty komisowe (prowizję).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "73",
+   "path": "art_73",
+   "text": "Dodatkowe zlecenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "l. Nadawca może żądać, żeby przesyłka była mu zwrócona na stacji nadawczej, wstrzymana w drodze, nie wydana na stacji przeznaczenia lub wydana innemu odbiorcy, wyładowana na innej stacji lub zwrócona na stację nadawczą. Nadawca przesyłki może również żądać, żeby pierwotne zaliczenie było zmniejszone lub odwołane, i wreszcie, żeby przesyłka była wydana bez pobrania przewoźnego i innych opłat. Kolej jedynie wówczes może uchylić się od wykonania tych zleceń, odwlec ich wykonanie lub wykonać je tylko częściowo, kiedy ich wypełnienie może spowodować przeszkodę w prawidłowości ruchu towarowego. W podobnym wypadku kolej powinna niezwłocznie powiadomić o tem nadawcę przesyłki."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_73/ust_2",
+     "text": "Zlecenia innej treści są dopuszczalne tylko wówczas, jeżeli są przewidziane w taryfie. \"",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_73/ust_3",
+     "text": "Zlecenia dodatkcwe muszą się rozciągać na całość przesyłki. Należy je składać stacji nadawczej w formie piśmiennej według wzoru, ustalonego w taryfie. Podpis nadawcy może być zastąpiony przez stempel lub druk. Stacja nadawcza obowiązana jest zlecenia te wykonać możliwie szybko, a na żądanie nadawcy nawet w drodze telegraficznej, z pobraniem opłat, przewidzianych w taryfie. (Post. wyk.). Wzór formularza dla zleceń dodatkowych podany jest w załączniku F do: niniejszych Przepisów przewozowych i może być nabywany na stacjach po cenie wskazanej w Wykazie opłat dodatkowych (Część II taryfy).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_73/ust_4",
+     "text": "Żądanie nadawcy o niewydanie przesyłki odbiorcy, skierowane bezpośrednio do stacji przeznaczenia, może być czasowo uwzględnione. Nadawca powinien jednak złożyć takie zlecenie piśmiennie w ciągu terminu, ustanowionego przepisemi. W razie przeciwnym stosuje się art. 76 (Post. wyk.). Zlecenie takie winien nadawca złożyć stacji nadawczej najpóźniej w ciągu 24 godzin od chwili wysłania zawiadomienia do stacji przeznaczenia. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_73/ust_5",
+     "text": "Prawo dawania zleceń przysługuje nadawcy tylko za okazaniem wtórnika listu przewozowego, do którego powinny być zlecenia te wpisane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_73/ust_6",
+     "text": "Jeżeli odbiorca odmówi przyjęcia przesyłki, wówczas nadawcy przysługuje prawo dawania zleceń nawet wtedy, kiedy nie jest on w posiadaniu wtórnika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_73/ust_7",
+     "text": "Jeżeli nadawca zleci zatrzymać przesyłkę w drodze lub na stacji przeznaczenia, kolej ma prawo pobrać za przetrzymanie, przenoszące 6 godzin, opłatę składowego lub postojowego, przewidziane w taryfie. Jeżeli czas zatrzymania przesyłki przekroczy 24 godziny, kolei przysługuje prawo wyładować towar na odpowiedzialność i koszt nadawcy i przyjąć go na skład własny, albo też oddać składnikowi. (Post. wyk.) W razie wykonania zlecenia dodatkowego nadawcy przewoźne oblicza się w sposb następujący:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_73/ust_7/lit_a",
+       "text": "jeżeli przesyłka została zatrzymana i wyładowana na stacji pośredniej — za przewóz do tej stacji pośredniej;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_73/ust_7/lit_b",
+       "text": "jeżeli przesyłka została cofnięta ze stacji przeznaczenia, albo też ze stacji pośredniej na pierwotną stację nadawczą — w pierwszym wypadku za przewóz do stacji przeznaczenia i za przewóz z powrotem na pierwotną stację nadawczą, w drugim wypadku — za przewóz do stacji pośredniej i z powrotem od tej stacji do pierwotnej stacji nadawczej;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_73/ust_7/lit_c",
+       "text": "jeżeli przesyłka skierowana została do nowej stacji przeznaczenia (leżącej jednak na tym samym szlaku przewozu pomiędzy stacją nadania a stacją pierwotnego przeznaczenia), czy to z pierwotnej stacji przeznaczenia, czy też ze stacji pośredniej — za przewóz w pierwszym wypadku do pierwótnej stacji przeznaczenia i od niej . do nowej stacji przeznaczenia, w drugim wypadku — za przewóz do stacji pośredniej i od niej do nowej stacji przeznaczenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_73/ust_8",
+     "text": "W tych wypadkach, kiedy zlecenia dodatkowe były wywołane nie z winy samej kolei, przysługuje jej prawo, prócz pobrania zwiększonego przewoźnego, pobierania za wykonanie tych zleceń opłat dodatkowych i wydatków w gotowiźnie, a także przewidzianej w taryfie opłaty specjalnej. W razie przewozu przesyłek, łatwo ulegających zepsuciu, lub takich, których wartość nie zabezpiecza wynikających kosztów, opłata za zlecenia dodatkowe może być wymagana z góry.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 21 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(Post. wyk.). l. Specjalną opłatę za wykonanie zleceń nadawcy kolej w wysokości, przewidzianej w Wykazie opłat dodatkowych (Część Il taryfy). (Post. wyk.). Il. W razie odwołania lub zmniejszenia sumy zaliczenia pobrana prowizja za zaliczenie zwrotowi nie podlega. Prawo nadawcy dawania zleceń ustaje z chwilą, kiedy po przybyciu przesyłki na miejsce przeznaczenia list przewozowy będzie oddany odbiorcy, lub też odbiorca, w myśl art. 76 ust. 2, wystąpi z powództwem przeciw kolei. Kolej może wówczas uwzględnić jedynie zlecenia odbiorcy; w razie zaniedbania tego obowiązku kolej odpowiada wobec odbiorcy za przesyłkę."
+      },
+      {
+       "type": "text",
+       "text": "Frt. 74. Przeszkody w przewozie przesyłki."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_73/ust_1",
+     "text": "Jeżeli przewóz przesyłki po zawarciu umowy o przewóz nie może być dokonany wskutek jakichkolwiek przeszkód drogą, przez nadawcę lub samą kolej wskazaną, wówczas kolej jest obowiązana dostarczyć przesyłkę do stacji przeznaczenia inną drogą okólną bez pobierania za to jakiejkolwiek dopłaty. Kolejom pozostawione -jest prawo przeprowadzenia odnośnego rozrachunku pomiędzy sobą. 1",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_73/ust_2",
+     "text": "Jeżeli niema drogi okólnej, kolej powinna zwrócić się po odpowiednie wskazówki do nadawcy. Nadawca może w takim wypadku uznać umowę o przewóz za zerwaną. Jednakże jeżeli to nastąpiło nie z winy kolei, nadawca obowiązany jest uiścić jej opłatę przewozową za odległość przebytą oraz przewidziane w taryfie opłaty za czynności, poprzedzające przewóz, i za wyładowanie. W tych przypadkach, kiedy nadawca na żądanie kolei udzieli wskazówek co do postępowania dalszego z przesyłką, ale nie jest w stanie złożyć wtórnika listu przewozowego, nie mogą one dotyczyć ani zmiany osoby odbiorcy, ani miejsca przeznaczenia przesyłki. / Jeżeli nadawca, pomimo zapytania kolei, nie udzieli żadnych wskazówek, należy postąpić z przesyłką stosownie do art. 81.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "75",
+   "path": "art_75",
+   "text": "Termin dostawy.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_75/ust_1",
+     "text": "Termin dostawy przesyłki nie może przekraczać następujących norm maksymalnych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_75/ust_1/lit_a",
+       "text": "dla przesyłek pośpiesznych:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_75/ust_1/pkt_1",
+       "text": "na przyjęcie przesyłki do przewozu — 1 dobę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_75/ust_1/pkt_2",
+       "text": "na przewóz — na każde rozpoczęte 250 klm. odległości tary- „fowej — 1 dobę;",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_75/ust_1/pkt_2/lit_b",
+         "text": "dla przesyłek zwyczajnych: . 1) na przyjęcie przesyłki do przewozu — 2 doby,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_75/ust_1/pkt_2",
+       "text": "na przewóz — na każde rozpoczęte 250 klm. odległości tary fowej — 2 doby.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_75/ust_2",
+     "text": "Termin na przyjęcie przesyłki oblicza się tylko raz jeden bez względu na ilość kolei, uczestniczących w przewozie. Termin na przewóz określa się na podstawie całkowitej odległości tarvfowej pomiędzy stacją nadawczą, a stacją przeznaczenia,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_75/ust_3",
+     "text": "Za zgodą Ministra Kolei, Zarządy kolejowe mogą ustalić dodatkowe terminy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_75/ust_3/lit_a",
+       "text": "na czas niezwykłych warunków ruchu na kolejach;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_75/ust_3/lit_b",
+       "text": "na przewóz od albo do dodatkowych ekspedycji towarowych (stacje miejskie, ładownie i t. p.);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_75/ust_3/lit_c",
+       "text": "na przejście przesyłki z jednej kolei na drugą o torach rozmaitej szerokości lub połączonych z sobą osobnemi linjami (łącznicami), jak również na przejście przesyłki na — lub z kolei zagranicznej;",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_75/ust_3/lit_d",
+       "text": "na przewóz kolejami o znaczeniu drugorzędnem. (Post. wyk.) Z uwagi na wyjątkowe warunki ruchu w okresie powojennym ustala się czasowo następujące dodatkowe terminy dostawy: w myśl p. a) ust. 3:go — dla wszystkich przesyłek pośpiesznych — 3 doby, a dla przesyłek zwyczajnych — 5 dni na każde rozpoczęte 250 km. odległości; w myśl p. c) ust. 3-go— przy przejściu przesyłki na kolej o odmiennej szerokości toru, przy przejściu przez węzły kolejowe w Warszawie, Łodzi, Krakowie i Lwowie, oraz przez stacje pograniczne: dla przesyłek pośpiesznych — dobę, dla przesyłek zwyczajnych — 2 doby.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_75/ust_4",
+     "text": "W okolicznościach nadzwyczajnych przewozu Zarządy kolejowe mogą w drodze wyjątku wyznaczyć terminy dodatkowe, z warunkiem późniejszego zatwierdzenia ich przez Ministra Kolei Żelaznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_75/ust_5",
+     "text": "Terminy na przyjęcie do przewozu przesyłki oraz na jej przewóz (ust. 1), jak również terminy dodatkowe, wyszczególnione w ust. 3-im powinny być ustalone w taryfie. Terminy dodatkowe z ust. 4 go powinny być podawane do wiadomości powszechnej osobno i nie mogą być wprowadzone w życie przed wywieszeniem odpowiednich ogłoszeń na stacjach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_75/ust_6",
+     "text": "Termin dostawy przesyłek rozpoczyna się od północy, po dniu przyjęcia przez kolej przesyłki wrez z listem przewozowym. Termin dostawy uważa się za zachowany, jeżeli odbiorca przed jego upływem będzie zawiadomiony o przybyciu przesyłki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_75/ust_7",
+     "text": "Dla przesyłek, które mają pozostać ną składzie do czasu zgłoszenia się odbiorćy, a co do których niema w liście przewozowym zastrzeżenia nadawcy o zawiadomieniu odbiorcy, jak również dla przesyłek, co do których odbiorca zrzekł się pigmiennie zawiadomienia o przybyciu, termin dostawy należy uważać za zachowany, jeżeli przed jego upływem przesyłka będzie gotowa do odbioru na stacji przeznaczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_75/ust_8",
+     "text": "Bieg terminu dostawy zawiesza się na czas dokonywania formalności celnych, podatkowych i policyjnych, na czas zwłoki, wywołanej przez dodatkowe rozporządzenie nadawcy i wreszcie na czas przerwy w ruchu, powstałej nie z winny kolei, a powodującej czesowe wstrzymanie wysłania lub przewozu. .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_75/ust_9",
+     "text": "Jeżeli dzień, następujący po dniu przyjęcia przesyłki do przewozu, jest niedzielny lub świąteczny, początek terminu dostawy przesyłek zwyczajnych przenosi się o jedną dobę później.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "art_75/ust_10",
+     "text": "Jeżeli ostatni dzień terminu dostawy przypada na niedzielę lub dzień świąteczny, termin dostawy przesyłek zwyczajnych upływa następnego dnia poświątecznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "76",
+   "path": "art_76",
+   "text": "Wydanie przesyłki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_76/ust_1",
+     "text": "Kolej jest obowiązana wydać odbiorcy w miejscu przeznaczenia przesyłkę wraz z listem przewozowym za pokwitowaniem i po pobraniu wszystkich należności, wypływających z umowy o przewóz. Złożenie przesyłki do składu urzędu celnego lub podatkowego, jeżeli składy te nie są pod dozorem kolei, jest równoznaczne z wydaniem jej odbiorcy tak samo, jak i przekazanie przesyłki ekspedytorowi lub składnikowi w wypadkach, przewidzianych w niniejszych przepisach. (Post. wyk.). I. Za upoważnionego do odbioru przesyłki stacja przeznaczeniu może uważać każdego, kto okaże jej zawiadomienie o przybyciu przesyłki, zaopatrzone w pokwitowanie z odbioru. Kolej nie jest obowiążą: na sprawdzać ani tożsamości osoby odbiorcy, ani własnoręczności jego podpisu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(Post. wyk.). Il. Przesyłki, pozostające na składzie do czasu zgłoszenia się odbiorcy, o których przybyciu kolej nie jest obowiązana zawiadamiać odbiorcę, wydaje się osobie, która wykaże się odpowiedniemi dowodami, uprawniającemi do odbioru. Do tego służy w pierwszym rzędzie wtórnik listu przewozowego, który stacja przeznaczenia zatrzymuje przy wydaniu przesyłki. (Post. wyk.). Ill. Jeżeli odbiorca chce odbiór przesyłek lub też odbiór"
+      },
+      {
+       "type": "text",
+       "text": "~"
+      },
+      {
+       "type": "text",
+       "text": "zawiadomienia o przesyłkach do niego nadchodzących powierzyć osobie trzeciej, oraz jeżeli chce upoważnić do kwitowania z odbioru osobę trzecią, powinien złożyć stacji przeznaczenia odpowiednie oświadczenie o tem i zaopatrzyć tę osobę w odpowiednie pełnomocnictwo."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_76/ust_2",
+     "text": "Po przybyciu przesyłki na miejsce przeznaczenia i wypełnieniu obowiązków względem kolei, odbiorca może dochodzić praw swoich, wypływających z umowy o przewóz, bez względu na to, czy działa on we własnym, czy też w cudzym interesie. W szczególności może żądać od kolei wydania mu przesyłki wraz z listem przewozowym, jeżeli nadawca w myśl art. 73 nie dał kolei odmiennego zlecenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_76/ust_3",
+     "text": "Jako miejsce wydania przesyłki w myśl ust. 1 i 2 należy uważać oznaczoną przez nadawcę stację odbiorczą (niezależnie od art. 78 ust. 1) nawet wtedy, kiedy w liście przewozowym nadawca wskazał inne miejsce prze: znaczenia przesyłki. Przez fakt przyjęcia listu przewozowego i przesyłki odbiorca zobowiązuje się wobec kolei do uiszczenia jej opiat, wypływających z umowy o przewóz (art. 70 ust. 2).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_76/ust_5",
+     "text": "Stacja przeznaczenia powinna pobrać przy wydaniu przesyłki wszystkie opłaty, wypływające z umowy o przewóz, jako to: przewoźne, opłaty dodatkowe, zaliczenie, cło i inne wydatki. W razie potrzeby, służy kolei prawo zastawu na towarze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_76/ust_6",
+     "text": "Przepisy taryfowe decydują o tem, czy towar ma być wyładowany przez kolej, czy też przez odbiorcę, jeżeli niniejsze przepisy nie podają w tym względzie wyraźnych wskazówek. (Post. wyk.). Jakie przesyłki obowiązany jest wyładowywać odbiorca, a jakie kolej, podają Postanowienia taryfowe (Część II taryfy). Kolej ma prawo bądź dostarczyć wyładowane przez nią przesyłki drobne odbiorcy na jego koszt, bądź zawiadomić go o ich przybyciu. Stacje, które same dostarczają przesyłki odbiorcom, podają o tem do wiadomości przez wywieszenie w ekspedycji towarowej odpowiedniego ogłoszenia. O przybyciu innych przesyłek kolej powinna odbiorcę zawiadomić. Kolej może wskazać w taryfie, że przeładowanie towarów w połączeniach kolejowych i wodnych z wagonów na statki lub odwrotnie ma być dokonane przez samą kolej, albo przez specjalnych przedsiębiorców pod warunkiem uiszczenia opłat, wskazanych w taryfie lub w specjalnem obwieszczeniu. Osoby, użyte do tego przeładowania, uważane są w myśl art. 5 za pracowników kolejowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_76/ust_9",
+     "text": "Przy wydaniu przesyłki, oprócz pokwitowania z odbioru, nie mogą być wymagane inns poświadczenia, np. o należytem lub w terminie uskutecznionem wydaniu. Towary, które wyładowuje sama kolej, powinny być oddane odbiorcy do zabrania na rampach wyładunkowych, inne towary — na placach wyładunkowych. Odbiorca powinien okazać list przewozowy opłacony i pokwitowany.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Act. 77. Sprawdzanie ilości, wagi i zawartości przesyłek na stacji przeznaczenia."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_76/ust_1",
+     "text": "Odbiorca może przy wydaniu przesyłki wymagać, aby w jego obecności na stacji kalejowej sprawdzoną była ilość, zawartość i waga",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "przesyłki. Za dokonanie tych czynności odbiorca powinien uiścić opłaty, przewidziane w taryfie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_76/ust_2",
+     "text": "Kolej jest obowiązana dokonać żądanego sprawdzenia ilości i wagi przesyłek, jeżeli posiada potrzebne do tego urządzenia wagowe, oraz jeżeli charakter przesyłki i warunki przewozowe pozwalają na ustalenie ilości sztuk. Jeżeli żądanie sprawdzenia wagi będzie przez kolej uchylone, odbiorcy przysługuje prawo na najbliższej odpowiedniej wadze dokonać takiego sprawdzenia w obecności osoby, upełnomocnionej przez kolej. Obowiązany on jest jednak pokryć powstałe wskutek tego koszta wraz ze zwrotem wynagrodzenia osoby upełnomocnionej. / (Post. wyk.). Jeżeli sprawdzenie wagi przesyłki na wadze wagonowej nie wykaże różnicy większej nad 2°/o wagi, podanej w liście przewozowym, to wagę tę uważać należy za zgodną z rzeczywistością.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_76/ust_3",
+     "text": "Jeżeli przy przeliczeniu lub przeważeniu będzie stwierdzony brak sztuk albo brak wagi, za który kolej odpowiada, wówczas kolej nie pobiera żadnej opłaty za sprawdzenie ilości lub wagi i powinna zwrócić odbiorcy powstałe wskutek tego koszta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "78",
+   "path": "art_78",
+   "text": "Dostawa przesyłki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_78/ust_1",
+     "text": "Kolej może dostarczyć przesyłki drobne do miejscowości, leżących w pobliżu stacji przeznaczenia, albo sama za opłatą, podaną do wiadomości powszechnej przez ogłoszenia, albo też zlecić to prywatnęmu przedsiębiorcy przewozowemu. (lżyte do tego przewozu osoby uwazané są za prą cownikéw kolejowych w myśl art. 5. Obsługa przedsiębiorstwa przewozowego powinna posiadać przy sobie taryfę opłat przewozowych i okazywać ją ua żądanie osób zainteresowanych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_78/ust_2",
+     "text": "Odbiorcy przysługuje prawo odebrać przesyłkę osobiście nawet na tych stacjach, na których dostawą zarządza Kolej, albo też zlecić to przedsiębiorcy innemu, niż ten, którego umówiła kolej. Odbiorca, pragnący z tego prawa skorzystać, powinien zawiadomić o tem stację przeznaczenia piśmiennie przed nadejściem przesyłki. Kolej może jednak, ze względu na ogólny interes przewozowy, ograniczać lub zawieszać prawo to odbiorcy w każdym poszczególnym wypadku, a w razach wyjątkowych także na czas dłuższy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_78/ust_3",
+     "text": "Jeżeli przesyłka ma być dostarczona do składu zarządu celnego lub podatkowego, leżącego poza obrębem stacji kolejowej, kolej może to załatwić sama za zwrotem kosztów, albo też zlecić to ekspedytorowi na swoją odpowiedzialność na rachunek osoby, uprawnionej do rozporządzania przesyłką, nawet w tych wypadkach, kiedy odb.orca zastrzegł sobie prawo osobistego odbioru przesyłki.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_78/ust_4",
+     "text": "Terminy dostarczania przez kolej przesyłek odbiorcom kolej podaje do powszechnej wiadomości przez umieszczenie w ekspedycjach towarowych odpowiednich ogłoszeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "79",
+   "path": "art_79",
+   "text": "Zawiadomienie odbiorcy o przybyciu przesyłki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_79/ust_1",
+     "text": "Kolej zawiadamia odbiorcę o przybyciu przesyłki (art. 76 ust. 7) według własnego uznania: pocztą, depeszą, telefonogramem, albo też pismem przez specjalnego posłańca. Na żądanie piśmienne odbiorcy kolej może ustalić i inny sposób zawiadamiania go. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_79/ust_2",
+     "text": "Zawiadomienie o przesyłkach tak zwyczajnych jak pośpiesznych powinno nastąpić zaraz po przygotowaniu towaru do odbioru. Zawiadomienie uważa się za spełnione po upływie 2-ch godzin od chwili nadania listu na poczcie, wysłania depeszy czy posłańca, bądź zawiadomienia przez telefon.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 25 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_79/ust_4",
+     "text": "Samo zawiadomienie sporządza się bezpłatnie, jednakże za doręczenie zawiadomienia kolej ma prawo żądać zwrotu kosztów własnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_79/ust_5",
+     "text": "Nie zawiadamia się odbiorcy, jeżeli on zrzekł się tego piśmiennie. Również co do przesyłek, mających pozostać na składzie stacji przeznaczenia, nie zawiadamia się odbiorcy, jeżeli nadawca nie wyraził w liście przewozowym żądania zawiadomienia odbiorcy. 6, Jeżeli przesyłkę wagonową przeładowano w drodze wskutek uszkodzenia wagonu, należy 'o tem uprzedzić odbiorcę równocześnie z zawiadomieniem o jej przybyciu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "80",
+   "path": "art_80",
+   "text": "Terminy odbioru przesyłek.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_80/ust_1",
+     "text": "Przesyłki, które kolej jest obowiązana wyładoweć, powinny być zabrane w godzinach służbowych w terminie, wskazanym w taryfie (art. 63 ust. 2). Termin liczy się od chwili zawiadomienia odbiorcy o przybyciu przesyłki i ma wynosić conajmniej 24 godziny (art. 79 ust. 3). (Post. wyk.). Termin odbioru przesyłek, wyładowywanych przez kolej, stanowi 24 godziny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_80/ust_2",
+     "text": "Terminy do odbioru przesyłek, które obowiązany jest wyładować odbiorca, podaje się w taryfie lub wywiesza się odpowiednie ogłoszenia w ekspedycji. Termin odbioru takich przesyłek rozpoczyna się z chwilą zawiadomienia odbiorcy o przybyciu przesyłki. Jeżeli wagony nie zostały we właściwym terminie podstawione do wyładowania, to początek terminu odracza się. do czasu ich podstawienia. Kolej może wymagać, aby przesyłki były wyładowane i zabrane przez odbiorcę podczas godzin służbowych. (Post. wyk.). Termin odbioru przesyłek, wyładowywanych przez odbiorcę, stanowi 6 godzin służbowych, za wyjątkiem przesyłek, wyładowywanych z wagonów 30-tonnowych, dla których termin ten ustala się na 9 godzin służbowych oraz przesyłek ropy, nafty, benzyny i olejów mineralnych w wagonach-kotłach (cysternach), dla których termin ten przedłuża się do 8-u godzin, a dła olejów ciężkich w miesiącach grudniu, styczniu i lutym — do 10-:u godzin służbowych. Dla wyładowania wagonów-kotłów w rafinerjach powyższe terminy przedłuża się do 12-u godzin służbowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_80/ust_3",
+     "text": "Jeżeli przesyłka ma pozostawać na składzie do czasu zgłoszenia się odbiorcy i nadawca nie żądał wyrażnie w liście przewozowym zawiadomienia odbiorcy, albo odbiorca zrzekł się piśmiennie zawiadomienia, albo też zawiadomienie to było niemożliwe do uskutecznienia, wówczas termin odbioru przesyłki rozpoczyna się z chwilą przygotowania jej do odbioru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_80/ust_4",
+     "text": "W niedziele i dni świąteczne kolej może nie wydawać przesyłek zwyczajnych; przesyłki zaś pośpieszne obowiązana jest wydawać, jeżeli nie stoją na przeszkodzie czynności celne lub podatkowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_80/ust_5",
+     "text": "Do terminu odbioru przesyłki nie wlicza się czasu trwania formalności celnych, podatkowych lub policyjnych, jeżeli przytem nie powstała inna zwłoka z winy nadawcy lub odbiorcy, zaś na stacjach, zamkniętych w niedziele i święta dla czynności ładunkowych, do terminu tego nie wlicza się także niedziel i dni świątecznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_80/ust_6",
+     "text": "Jeżeli przesyłka nie została zabrana w ustalonym terminie, narasta składowe lub postojowe. Kolej może również wyładować na koszt i odpowiedzialność odbiorcy przesyłki przez niego nie wyładowane. Za niedziele i święta pobiera się postojowe tylko wówczas, kiedy termin wyładowania upłynął już dnia poprzedniego. Jeżeli niedziela i dni świąteczne następują po sobie, wówczas postojowe pobiera się tylko za jeden dzień. Na stacjach, otwartych w niedziele i święta dla czynności ładunkowych opłata za przetrzymanie wagonu przez niedziele i święta pobiera się na tych samych zasadach, co i w dni powszednie. Kolei przysługuje prawo w wypadkach wyjątkowych wyładować przesyłki podobne także przed upływem terminu",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 26 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "odbioru, nie może ona jednak pobierać w tym wypadku opłaty za wyładowanie.."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_80/ust_7",
+     "text": "Jeżeli odbiorca, zawiadomiony o przybyciu przesyłki, zgłosi się po jej odbiór i nie może otrzymać przesyłki z winy kolei w ciągu 3-ch godzin po zgłoszeniu się, kolej powinna mu zwrócić poniesione z tego powodu koszta. Kolej, na żądanie odbiorcy, powinna to poświadczyć w liście prze: wozowy m. -",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_80/ust_8",
+     "text": "Jeżeli nadmierne nagromadzenie przesyłek może zagrażać prawidłowości ruchu, kolei przysługuje prawo skracania terminów wyładowania i terminów, wolnych od składowego i postojowego oraz podwyższania opłaty składowego i postojowego. Zarządzenia powyższe powinny bvć jednocześnie zakomunikowane wraz z motywami Ministerstwu Kolei Żelaznych do późniejszego zatwierdzenia i podane do wiadomości publicznej przez wywieszenie ogłoszeń na stacjach. Takiż porządek zachowuje się i przy odwołaniu tych zarządzeń.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "81",
+   "path": "art_81",
+   "text": "Przeszkody w wydawaniu przesyłek i zwłoka w odbiorze.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_81/ust_1",
+     "text": "Jeżeli odbiorca nie może być odszukany, jeżeli odmówi przyjęcia towaru, jeżeli nie wykupi listu przewozowego w terminie, przewidzianym w taryfie, jeżeli w ogóle zajdzie jaka przeszkoda w wydaniu towaru, stacja przeznaczenia powinna niezwłocznie zawiadomić nadawcę za pośrednictwem stacji nadawczej o przeszkodach w wydaniu i zażądać odpowiedniego rozporządzenia (art. 73 ust. 6). Nadawca może w liście przewozowym wyrazić żądanie, aby o przeszkodach w wydaniu towaru kolej zawiadomiła go na jego koszt bezpośrednio telegraficznie albo przez pocztę; wówczas może on skierować swoje rozporządzenie bezpośrednio do stacji przeznaczenia w sposób, przewidziany w taryfie. Nadawca może także z zachowaniem warunków taryfowych zastrzec w liście przewozowym, ażeby towar w razie jakiejkolwiek przeszkody w wydaniu był mu zwrócony bez uprzedniego eg zawiadomienia go. (Post. wyk.) List przewozowy powinien być wykupiony przez odbiorcę w terminie określonym dla odbioru przesyłki (art. 80. Rozporządzenie nadawcy, skierowane bezpośrednio do stacji przeznaczenia, powinno być zaopatrzone w podpis jego, poświadczony przez odnośne władze. Jeżeli odbiorca odmówił przyjęcia przesyłki i nadawcę o tem zawiadomiono, wówczas przesyłka może być wydana tylko za zgodą nadawcy. We wszystkich innych przypadkach należy przesyłkę wydać odbiorcy, zgłaszającemu się później po jej odbiór, jedynie wówczas, jeżeli do tego czasu nie nadeszło do stacji przeznaczenia odmienne rozporządzenie nadawcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_81/ust_3",
+     "text": "Jeżeli nie możaa zawiadomić nadawcy, albo nadawca zwleka z daniem rozporządzenia, albo też rozporządzenie to nie może być wykonane, wówczas kolej powinna wziąć przesyłkę na skład na odpowiedzialność i koszt nadawcy. Kolei ma również prawo złożyć takie przesyłki u ekspedytora, albo u składnika na koszt i odpowiedzialność osoby, uprawnionej do rozporządzania przesyłką, za pobraniem wszystkich ciążących na niej należności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_81/ust_4",
+     "text": "Oprócz tego kolei przysługuje prawo sprzedać możliwie najkorzystniej bez dalszych formalności: a) bezzwłocznie — takie przesyłki, które nie zostały zabrane, a ulegają szybkiemu zepsuciu, jak również przesyłki, które wobec braku składów lub innych warunków iniejscowych nie mogą być przyjęte na skład kolei, przekazane ekspedytorowi, lub oddane składnikowi prywatnemu, b) w 2 tygodnie po upływie czasu wolnego od składowego — wszelkie inne przesyłki nie odebrane ani przez odbiorcę, ani przez nadawcę. Jeżeli jednak wartość tych przesyłek wskutek dłuższego przechowania mogłaby ulec znacznemu zmniejszeniu, albo też koszta składo-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 27 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wego nie stałyby w żadnym stosunku do wartości przesyłki, wówczas sprzedaż możliwie korzystna może być dokonana wcześniej. O sprzedaży powinni być powiadomieni uprzednio, jeżeli to jest możliwe, nadawca i odbiorca przesyłki. Jeżeli kolej sama dokonywa sprzedaży, może ona, niezależnie od zwrotu wydatków w gotowiźnie, związanych ze sprzedażą, pobrać za uskutecznienie sprzedaży opłatę, ustaloną w taryfie. (Post. wyk.) l. Za uskutecznienie sprzedaży kolej pobiera opłatę, podaną w Wykazie opłat dodatkowych (Część II taryfy). (Post. wyk.) II. Czasowo, aż do odwołania, nałeży przed sprzedażą z licytacji przesyłek nieodebranych wyłączać w miarę możności i w każdym razie protokularnie przedmiotv, mogące być przydatnemi dla armji, kolei, szpitali i instytucji użyteczności publicznej. Po dokonaniu oceny przez rzeczoznawców należy przedmioty te sprzedawać z wolnej ręki organom Ministerstwa Spraw Wojskowych, następnie Ministerstwu Kolei, poczem dopiero urzędom pozostałych Ministerstw lub organizacjom użyteczności publicznej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_81/ust_5",
+     "text": "Kolej powinna zawiadomić bez zwłoki, jeżeli to jest możliwe, nadawcę i odbiorcę o złożeniu przesyłki na skład, jak również o dokonanej sprzedaży. Jeżeli kolej tego zaniedba, odpowiada ona za wynikłe z tego szkody. Sumę, otrzymaną ze sprzedaży, oddaje się do rozporządzenia nadawcy przesyłki po potrąceniu wydatków i opłat dodatkowych. (Post. wyk.) W tych wypadkach, kiedy przewoźne nie było pobrane przy nadaniu przesyłki, z sumy, otrzymanej ze sprzedaży, potrąca się także przewoźne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_81/ust_6",
+     "text": "Jeżeli odbiorca wykupi list przewozowy ale przesyłki nie zabierze w określonym terminie, powinien on być raz jeszcze wezwany do odbioru i zawiadomiony, że przesyłka pozostaje na składzie na jego koszt i odpo-",
+     "children": [
+      {
+       "type": "text",
+       "text": "- mima Ed m. ikonki lll ll le 0 aE wiedzialność. Przechowywanie przesyłki na składzie, przekazanie jej ekspedytorowi lub składnikowi oraz sprzedaż dokonywane są z zachowaniem przepisów ust. 3-go i 5-go niniejszego artykułu. W razie sprzedaży uzyskana summa pozostaje do rozporządzenia odbiorcy po potrąceniu kosztów. (Post. wyk.) Niepokrytą przez sprzedaż przesyłki część przewoźnego lub innych opłat ściąga kolej od nadawcy, a w razie wykupienia listu przewozowego — od odbiorcy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "82",
+   "path": "art_82",
+   "text": "Ustalenie przez kolej braku wagi towaru lub jego ilości, uszkodzenia lub zaginięcia przesyłki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_82/ust_1",
+     "text": "Jeżeli kolej zauważy lub poweźmie przypuszczenie o braku wagi albo ilości towaru, jak również o uszkodzeniu przesyłki, albo osoba, upraw - niona do rozporządzenia przesyłką, zawiadomi o tem, przed odbiorem przesyiki, wówczas kolej obowiązana jest bez zwłoki ustalić na piśmie w formie protokółu stan przesyłki i wysokość szkody oraz, jeżeli można, przyczynę, miejsce i czas powstania szkody. Tak samo protokularnie powinna kolej ustalić i zaginięcie przesyłki. .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_82/ust_2",
+     "text": "Odpis protokułu kolej jest obowiązana na żądanie doręczyć oso: bie uprawnionej do rozporządzania przesyłką. ,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_82/ust_3",
+     "text": "Do stwierdzenia braku wagi lub faktu uszkodzenia przesyłki powinni być wezwani dwaj bezstronni świadkowie, w razie potrzeby rzeczoznawca oraz, jeżeli można, także osoba, uprawniona do rozporządzania przesyłką.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_82/ust_4",
+     "text": "Jeżeli dochodzenie, podjęte na żądanie uprawnionego do rozporządzania przesyłką, nie stwierdzi braku wagi albo uszkodzenia, albo też tylko potwierdzi już uznane przez kolej braki, czy uszkodzenia przesyłki, wówczas żądający sprawdzenia ponosi powstałe wskutek tego koszta.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 28 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "63",
+   "path": "art_63",
+   "text": "Ustalenie braków przesyłki przez rzeczoznawców albo przez sąd. Niezależnie cd postępowania, przewidzianego w art. 62, każdy uczestnik umowy o przewóz może przed odbiorem przesyłki żądeć określenia przez rzeczoznawców, wyznaczonych z urzędu, rozmiarów uszkodzenia Jub braku wagi przesyłki. Do tego sprawdzania należy wezwać przedstawiciela kolei. Przepisy niniejsze nie zmieniają w niczem przepisćw przewodu cywilnego o zabezpieczeniu dowodów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art. 844 Odpowiedzialność ogólna kolei za zeginięcie, brak wagi lub uszkodzenie przesyłki. Kolej ponosi odpowiedzialność za straty, wynikłe wskutek zaginięcia, braku wagi, lub uszkoczenia przesyłki, powstałe od chwili przyjęcia przez kolej przesyłki do przewozu, do czasu jej wydania, o ile straty te nie powstały z winy !ub wskutek zleceń osoby, uprawnionej do rozporządzania przesyłką, wskutek siły wyższej, wadliwości opakowania, nie dającego się zauważyć zewnętrznie, albo wskutek właściwości towaru, mianowicie z powodu zepsucia wewnętrznego, ulatniania się lub wycieku."
+    },
+    {
+     "type": "text",
+     "text": "Frt. 85. Ograniczenie odpowiedzialności odnośnie do miejsca przeznaczenia."
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_63/ust_1",
+     "text": "Jeżeli w liście przewozowym wskazane jest miejsce przeznaczenia. gdzie niema ekspedycji towarowej, przystosowanej do przyjęcia danej przesyłki, wówczas kolej ponosi odpowiedzialność, jako przedsiębiorca przewozowy, tylko do ostatniej, odpowiednio przystosowanej stacji kolejowej. Ne dalszy przewóz kolej może przyjąć obowiązki ekspedytora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_63/ust_2",
+     "text": "Jeżeli kolej zaprowadzi urządzenia, zapewniające przewóz dalszy przesyłki (art. 78 ust. 1), odpowiedzialność jej, jako przedsiębiorstwa przewozowego, trwa aż do miejsca ostatecznego przeznaczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "86",
+   "path": "art_86",
+   "text": "Ograniczenie odpowiedzalności z powodu szczególnego niebezpieczeństwa przewozu..",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_86/ust_1",
+     "text": "Kolej nie ponosi odpowiedzialności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_86/ust_1/lit_a",
+       "text": "za straty, wynikłe z niebezpieczeństwa, połączonego z przewozem towarów, które według niniejszych przepisów, albo, według taryfy, albo też stosownie do osiągniętego z nadawcą porozumienia, wyrażonego w liście przewozowym, naładowane są na wagony niekryte; (Post. wyk.). Jeżeli kolej, na żądanie nadawcy, wyrażone w liście przewozowym, dostarczyła opon, to nie ponosi ona w stosunku do przesyłek, które w myśl Postanowień taryfowych . (Część Il taryfy) przewożone być mogą w wagonach niekrytych, odpowiedzialności większej nad tę, która ciąży na kolei przy przewozie takich przesyłek na wagonach niekrytych bez opon.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_86/ust_1/lit_b",
+       "text": "za straty, powstałe wskutek niebezpieczeństwa, połączonego z brakiem lub wadliwością opakowania towarów, które, chociaż z powodu swych właściwości wymagają opakowania dla ochrony przed zaginięciem lub uszkodzeniem, były jednak, zgodnie z oświadczeniem nadawcy w liście przewozowym, oddane do przewozu bez opakowania lub w opakowaniu niedostatecznem;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_86/ust_1/lit_c",
+       "text": "za straty, powstałe wskutek niebezpieczeństwa, połączonego z załadowaniem, wyładowaniem lub wadliwym sposobem naładowania towarów, których naładowanie i wyładowanie, stosownie de",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 29 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "niniejszych przepisów lub w myśl taryfy, lub też wskutek osiąqniętego z nadawcą i wyrażonego w liście przewozowym porozumienia, powinny być dokonane przez nadawcę lub odbiorcę;"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_86/ust_1/lit_d",
+       "text": "za straty, powstałe wskutek niebezpieczeństwa, połączonego z przewozem towarów, które dla swych przyrodzonych właściwości narażone są na szczególne niebezpieczeństwo zaginięcia, braku lub uszkodzenia wskutek połamania, rdzy, wewnętrznego zepsucia, wzmożonego wycieku, usychania lub rozsypania;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_86/ust_1/lit_e",
+       "text": "za szkody, powstałe wskutek szczególnego rodzaju niebezpieczeństwa, połączonego z przewozem zwierząt żywych;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_86/ust_1/lit_f",
+       "text": "za szkody, wyn'kłe z niebezpieczeństwa, połączonego z przewozem przesyłek lub zwierząt, którym stosownie do niniejszych przepisów, wymagań taryfy albo porozumienia z nadawcą, wyrażonego w liście przewozowym, towarzyszyć powinien dozorca.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_86/ust_2",
+     "text": "Jeżeli tylko z okoliczności wynika, iż szkoda mogła powstać z powodów, wymienionych w ustępie l-ym, należy uważać, że szkoda wynikła rzeczywiście z tego powodu. Powyższe przepisy nie zwalniają kolei od odpowiedzialności, w razie jeżeli wina jej zostanie udowodnioną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "87",
+   "path": "art_87",
+   "text": "Ograniczenie odpowiedzialności za brak wagi.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_87/ust_1",
+     "text": "W razie przewozu towarów, które wskutek swych właściwości przyrodzonych tracą regularnie na wadze podczas przewozu, kolej ponosi odpowiedzialność za ujawniony brak wagi po potrąceniu niżej podanych norm:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_87/ust_1/lit_a",
+       "text": "2°/o wagi pierwotnej w razie przewozu towarów płynnych, wilgotnych oraz następujących suchych: tartego i mielonego drzewa tarbiarskiego, kory, korzeni, tytuniu krajanego, tłuszczów i olejów twardych, świeżych owoców, świeżych liści tytuniowych, wełny owczej, skór wyprawionych i niewyprawionych, owoców suszonych i smażonych, żył, kopyt, rogów, kości (całych i mielonych), ryb suszonych, chmielu i kitu świeżego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_87/ust_1/lit_b",
+       "text": "1%o wagi pierwotnej w razie przewozu wszystkich innych towarów, wskazanych w części pierwszej niniejszego ustępu, w stanie suchym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_87/ust_2",
+     "text": "Normy powyższe, o ile za tym samym listem przewozowym nadana jest większa ilość sztuk jednakowego towaru, powinny być określone dla każdej sztuki osobno, jeżeli waga poszczególnych sztuk wskazana jest w liście przewozowym lub też może być określona w inny sposób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_87/ust_3",
+     "text": "Jeżeli okoliczności wskazują, że zmniejszenie wagi nie nastąpiło wskutek właściwości przyrodzonych towaru, albo też przyjęta norma nie odpowiada tym właściwościom albo innym okolicznościom, ograniczenie nie może mieć zastosowania. ,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_87/ust_4",
+     "text": "Jeżeli przesyłka zaginęła, na rachunek straty w wadze nic potrącone być nie może. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_87/ust_5",
+     "text": "Przytoczone wyżej postanowienia nie przesądzają dalej idących ograniczeń odpowiedziainości kolei, wyszczególnionych w art. 86 ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "88",
+   "path": "art_88",
+   "text": "Wysokość odśzkodowania za zaginięcie, brak albo uszkodzenie przesyłki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_88/ust_1",
+     "text": "Jeżeli kolej na podstawie umowy o przewóz zmuszona jest uiścić odszkodowanie za zaginięcie lub brak przesyłki, odszkodowanie to oblicza się według zwyczajnych cen handlowych, a w razie ich braku, według wartości zwykłej, którą towar tego samego rodzaju i jakości posiadał w miejscu nadania i w czasie przyjęcia przesyłki do przewozu; ponadto podlegają",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 30 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "zwrotowi sumy, wypłacone na rachunek ceł lub innych wydatków oraz uiszczone przewożne. Minister Kolei ma prawo, w porozumieniu z Ministerstwami Skarbu oraz Przemysłu i Handlu, ustanawiać czasowo normy, ograniczające wysokość odszkodowania, przypadającego za zaginięcie, brak lub uszkodzenie przesyłki."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_88/ust_2",
+     "text": "W razie uszkodzenia przesyłki wypłaca się odszkodowanie za zmniejszenie jej wartości, określonej według ust. Przypadki, w których kolej powinna uiścić odszkodowanie całkowite, wskazane są w art. 95. . (Post. wyk.) W myśl ust. 1-go niniejszego artykułu Minister Kole! Żelaznych w porozumieniu z Ministerstwami Skarbu oraz Przemysłu i Handlu ustala czasowo normę maksymalną, ograniczającą wysokość odszkodowania, przypadającego za zaginięcie lub brak przesyłki na 20 mk. za każdy kilogram wagi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "89",
+   "path": "art_89",
+   "text": "Ograniczenie wysokości odszkodowania.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_89/ust_1",
+     "text": "W warunkach specjalnych kolej może (przy zastosowaniu tary! wyjątkowych) ustalić maksymalne normy odszkodowania za zaginięcie, brak wagi lub uszkodzenie przesyłki, jeżeli stosowanie tych taryf wyjątkowych pociąga obniżenie opłaty przewozowej w porównaniu z taryfami normalnemi. O ile nadawca żąda zastosowania takiej taryfy wyjątkowej, obowiązany jest zaznaczyć to w liście przewozowym, wskazując taryfę, której zastosowania żąda. Kolej ma prawo określić w taryfie wysokość odszkodowania za zaginięcie, brak wagi lub uszkodzenie przedmiotów, wyszczególnionych w art. 54 ust. 2B.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_89/ust_3",
+     "text": "O przypadkach, w których odszkodowanie ma być uiszczone w pełnej sumie, stanowi art. 95.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "90",
+   "path": "art_90",
+   "text": "Uznanie przesyłki za zaginioną.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Osoba, uprawniona do odbioru, może bez dalszych formalności uznać przesyłkę za zaginioną, jeżeli stacja nie mogła jej wydać w ciągu 30 dni po upływie terminu dostawy."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "91",
+   "path": "art_91",
+   "text": "Odnalezienie przesyłki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_91/ust_1",
+     "text": "Osoba, uprawniona do otrzymania odszkodowania za przesyłkę zaginioną, może przy jego odbiorze zamieścić na pokwitowaniu żądanie, aby ją zawiadomiono bezzwłocznie o odnalezieniu przesyłki, jeżeli to nastąpi przed upływem 4 miesięcy od dnia zgłoszenia tego żądania. Otrzymanie takiego żądania kolej powinna poświadczyć piśmiennie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_91/ust_2",
+     "text": "W ciągu dni 30, po otrzymaniu zawiadomienia, osoba uprawniona może zażądać, aby przesyłka była jej zwrócona bez kosztów dodatkowych na stację nadawczą lub przeznaczenia. Pobrane odszkodowanie powinno być zwrócone kolei po potrąceniu odszkodowania za ewentualne straty z powodu przekroczenia terminu dostawy, stosownie do art. 94.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_91/ust_3",
+     "text": "We wszystkich innych przypadkach kolej może z odnaleziona przesyłką postąpić według swego uznania. .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "92",
+   "path": "art_92",
+   "text": "Ubezpieczenie dostawy.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_92/ust_1",
+     "text": "Nadawca może w liście przewozowym ubezpieczyć w określonej sumie ewentualne straty, wynikłe z nieterminowej dostawy, zaginięcia, braku lub uszkodzenia przesyłki. Za takie ubezpieczenie pobiera się opłatę, wskazaną w taryfie.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 31 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_92/ust_2",
+     "text": "Suma takiego ubezpieczenia powinna być wyrażona literami w liście przewozowym, w miejscu na to przeznaczonem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_92/ust_3",
+     "text": "Jeżeli, w myśl art. 88 i 89, odpowiedzialność kolei jest ograniczona, ubezpieczenie dostawy nie może przekraczać tej sumy, jaka jest przewidziana przy zastosowaniu ograniczenia, , _ (Post. wyk.) Czasowo, aż do przywrócenia całkowitej odpowiedzialności, ubezpieczenie dostawy może przekraczać sumę maksymalną, ograniczającą wysokość odszkodowania za zaginięcie lub brak przesyłki (por. post. wyk. do art. 88).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "93",
+   "path": "art_93",
+   "text": "Wysokość odszkodowania za zaginięcie przesyłki, brak wagi lub uszkodzenie w razie ubezpieczenia dostawy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Jeżeli dostawa była ubezpieczona, to w razie zaginięcia, braku wagi iub uszkodzenia przesyłki, może być żądane oprócz odszkodowania, okreśłonego w art. 83, wynagrodzenie dalsze udowodnionych szkód do wysokości sumy ubezpieczenia."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "94",
+   "path": "art_94",
+   "text": "Odpowiedzialność za przekroczenie terminu dostawy.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_94/ust_1",
+     "text": "W razie przekroczenia terminu dostawy kolej winna jest uiścić odszkodowanie za udowodnioną stratę, a mianowicie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_94/ust_1/lit_a",
+       "text": "jeżeli dostawa nie była ubezpieczona—do wysokości przewoźnego;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_94/ust_1/lit_b",
+       "text": "jeżeli dostawa była ubezpieczona — do wysokości sumy ubezpieczenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_94/ust_2",
+     "text": "Jeżeli szkoda nie powstała wskutek przekroczenia terminu dostawy lub też nie została udowodnioną, kolej winna uiścić:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_94/ust_2/lit_a",
+       "text": "jeżeli dostawa nie była ubezpieczona — za każdy dzień przekroczenia terminu dostawy 5°/, przewoźnego, nie wyżej jednak nad 50°/o sumy przewoźnego; %b) jeżeli dostawa była ubezpieczona — za każdy dzień przekroczenia terminu dostawy 10°/o przewoźnego, nie wyżej jednak całkowitej sumy przewoźnego. (Post. wyk.). Za przewoźne uważa sią jedynie opłata taryfowa za przewóz, bez żadnych opłat dodatkowych. Żądania odszkodowań, wypływające z powyższych przepisów, mogą być zgłaszane równocześnie z żądaniem odszkodowania za zaginiony towar, brak wagi lub uszkodzenie. Jeżeli dostawa była u>ezpieczona, to oprócz odszkodowania, obliczonego na zasadzie art. 88, może być żądane odszkodowanie za dalszą stratę (art. 93), które łącznie z odszkodowaniem za przekroczenie terminu dostawy nie może przewyższać sumy ubezpieczenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_94/ust_4",
+     "text": "Kolej nie odpowiada w tych przypadkach, kiedy przekroczenie terminu dostawy powstało z przyczyn, które nie były przez nią wywołane, ani nie mogły być przez nią usunięte.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "95",
+   "path": "art_95",
+   "text": "Odszkodowanie w razie złej woli lub niedbalstwa pracowników kolei. We wszystkich przypadkach, kiedy szkoda powstała wskutek udowodnionej złej woli lub wyraźnego niedbalstwa pracowników kolei, odszkodowanie powinno być uiszgzone w całej sumie poniesionych przez poszkodowanego strat.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "96",
+   "path": "art_96",
+   "text": "Utrata praw do odszkodowania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Kolej nie ponosi żadnej odpowiedzialności, wypływającej z umowy o przewóz, jezeti do przewozu nadane zostały pod nazwą nieprawidłową przedmioty, których przewóz według przepisów prawnych lub z uwagi na bezpieczeństwo ogólne jest wzbroniony, albo też przedmioty z przewozu"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 32 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "czasowo wyłączone lub dopuszczone tylko pod pewnemi warunkami, lub też jeżeli nadawca nie zachował przepisanych środków ostrożności."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "97",
+   "path": "art_97",
+   "text": "Utrata praw do zgłaszania roszczeń z chwilą uiszczenia opłaty przewozowej i przyjęcia przesyłki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_97/ust_1",
+     "text": "Z chwilą, kiedy przewożne i inne ciążące na przesyłce opłaty zostały uiszczone i przesyłka odebrana, wygasają wszelkie roszczenia do kolei z tytułu umowy o przewóz.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_97/ust_2",
+     "text": "Wyjątek stanowią:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_97/ust_2/lit_a",
+       "text": "roszczenia o odszkodowania za straty, powstaie wskutek udowodnionej złej woli lub wyraźnego niedbalstwa pracowników kolei;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_97/ust_2/lit_b",
+       "text": "roszczenia o odszkodowania za straty, powstałe wskutek przekroczenia terminu dostawy, jeżeli zostały zgłoszone piśmiennie do jednej ze wskazanych w art. 100 kolei, nie później, jak w ciągu 14 dni, nie licząc dnia odbioru przesyłki;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_97/ust_2/lit_c",
+       "text": "roszczenia o wynagrodzenie za szkody, spowodowane przez takie braki w przesyłce, które w myśl art. 82 i 83 ustalone były przed odbiorem, albo których ustalenie wbrew art. 82 nie zostało dokonane z winy kolei; :",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_97/ust_2/lit_d",
+       "text": "roszczenia o nieprawidłowo pobrane dopłaty do przewoźnego, jak również mylnie obliczone przewoźne i inne należności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_97/ust_3",
+     "text": "Jeżeli odbiorca zażąda stwierdzenia braku w przesyłce, to do czasu spełnienia przez kolej jego żądania, może nie odbierać przesyłki, chociażby otrzymał był list przewozowy i wszystkie opłaty kolei uiścił. Wszelkie zastrzeżenia przy odbiorze przesyłki mają znaczenie tylko wówczas, jeżeli poczynione one zostały za zgodą kolei. Jeżeli z przedmiotów jednei przesyłki, wymienionych w liście przewozowym, zabraknie niektórych przy wydaniu, odbiorca ma prawo zaznaczyć ten, brak w pokwitowaniu z odbioru.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Frt. 98. Przedawnienie roszczeń do kolei za zaginiony towar, brak jego lub uszkodzenie, albo za przekroczenie terminu dostawy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_97/ust_1",
+     "text": "Roszczenia do kolei z powodu zaginięcia przesyłki, braku wagi lub uszkodzenia, jak również z powodu przekroczenia terminu dostawy, wygasają po upływie sześciu miesięcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_97/ust_2",
+     "text": "Przedawnienie liczy się w wypadkach uszkodzenia lub braku wagi — od dnia wydania przesyłki, w wypadkach zaś zaginięcia lub przekroczenia terminu dostawy od dnia upływu terminu dostawy. Bieg przedawnienia zawiesza się od chwili złożenia kolei roszczenia na piśmie. W razie odmowy termin przedawnienia liczy się w dalszym ciągu od dnia, kiedy kolej zawiadomi o tem petenta piśmiennie i zwróci mu załączone przy podaniu dowody. Dalsze poszukiwania wszczynane w tej sprawie, skierowane bądź do kolei, bądź do władz przełożonych, nie zawieszają biegu przedawnienia. . (Post. wyk.) Reklamacje, nie zawierające dostatecznych danych, a w szczególności nie podające kwot i podstaw, oraz reklamacje, do których nie dołączono oryginalnych dowodów przewozowych, względnie w wypadkach przewidzianych cesji lub pełnomocnictw, nie przerywają biegu przedawnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_97/ust_4",
+     "text": "Przerwy przedawnienia mogą mieć miejsce tylko na zasadzie ogdlnych przepisów prawnych. ; Ograniczony sześciomiesięczny termin przedawnienia nie ma zastosowania w wypadkach powództwa wzajemnego kolei.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 33 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "99",
+   "path": "art_99",
+   "text": "Dochodzenie praw, wypływających z umowy o przewóz.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_99/ust_1",
+     "text": "Tylko osoba, która ma prawo rozporządzać przesyłką, jest uprawnioną do dochodzenia wobec kolei praw, wypływających z umowy o przewóz, z wyjątkami, wskazanemi w art. 60 i 70. Prawo to może być przekazane (cedowane) tylko przez odbiorcę nadawcy lub przez nadawcę odbiorcy. Innym osobom prawo to przekazane (cedowane) być nie może, co nie pozbawia osoby trzecie prawa występowania w imieniu nadawcy lub odbiorcy z roszczeniem do kolei na podstawie pełnomocnictw. (Post. wyk.) Do każdej reklamacji, wniesionej przez osobę w myś! ust. 1 niniejszego artykułu do tego nieuprawnioną, należy dołączyć na oddzielnych blankietach cesję albo pełnomocnictwo, zaopatrzone podpisem osoby uprawnionej. Podpis ten na pełnomocnictwach musi być uwierzytelniony notarjalnie lub sądownie, cesje zaś, wydawane przez nadawcę odbiorcy lub odwrotnie, jak również pełnomocnictwa, wystawiane na biura reklamacyjne przy Izbach handlowo-przemysłowych mogą być, za zgodą kolei, od uwierzytelnienia podpisu zwalniane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_99/ust_2",
+     "text": "Jeżeli nadawca, któremu przysługuje prawo rozporządzania przesyłką, nie może przedstawić wtórnika listu przewozowego, to może on zgłosić roszczenie tylko za zgodą odbiorcy, lub też winien udowodnić, że odbiorca zrzekł się odbioru przesyłki i listu przewozowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_99/ust_3",
+     "text": "Roszczenia, nie skierowane na drogę sądową, powinny być składane na piśmie kolei, wskazanej w art. 100. Jeżeli list przewozowy był doręczony odbiorcy, powinien on być złożony kolei. W razie dochodzenia odszkodowania za zaginięcie, brak wagi lub uszkodzenie przesyłki należy dołączyć dowody o wartości przesyłki. Kolej powinna sprawdzić zgłoszone roszczenie w czasie możliwie krótkim, a jeżeli porozumienie nie zostało osiągnięte, powiadomić o tem piśmiennie petenta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "100",
+   "path": "art_100",
+   "text": "Odpowiedzialność kolei, uczestniczących w przewozie przesyłki.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_100/ust_1",
+     "text": "Kolej, wysyłająca przesyłkę, ponosi odpowiedzialność za przewóz aż do chwili wydania przesyłki odbiorcy bez względu na to, czy przewóz ten odbywa się tylko po własnej linji, czy też i po linjach innych kolei.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_100/ust_2",
+     "text": "Każda kolej następna, przyjmując przesyłkę wraz z pierwotnym listem przewozowym, przystępuje tem samem do umowy o przewóz i przyjmuje na siebie całkowity obowiązek przewozu stosownie do brzmienia listu prze-",
+     "children": [
+      {
+       "type": "text",
+       "text": "wozowego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_100/ust_3",
+     "text": "Roszczenia, wypływające z umowy o przewóz, mogą być kierowane w drodze powództwa tylko do kolei, wysyłającej przesyłkę, albo do kolei, która ostatnio przyjęła przesyłkę wraz z listem przewozowym albo wreszcie do kolei, na której szkoda powstała. Nie zmniejsza to w niczem prawa wzajemnego regresu poszczególnych kolei do siebie. Wybór kolei należy do powoda. Prawo wyboru ustaje z chwilą wszczęcia powództwa sądowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_100/ust_4",
+     "text": "Jeżeli na zasadzie niniejszych Przepisów jedna z uczestniczących w przewozie kolei uiściła odszkodowanie, to przysługuje jej prawo regresu do kolei, która szkodę spowodowała. Jeżeli ta nie może być ujawnioną, to odszkodowanie za szkodę ponoszą wspólnie uczestniczące w przewozie koleje stosownie do długości tych linji, któremi one w przewozie uczestniczyły, o ile poszczególne koleje nie dowiodą, że szkoda powstała nie na ich linji. Nie pozbawia to jednak koleje prawa rozstrzygnięcia podobnych spraw iw drodze innego porozumienia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Kolei Żelaznych: w z. /. Eberhardt"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 34 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik Ne Il do rozporządzenia Ministra Kolei Żelaznych z dnia 13 czerwca 1921 r."
+      },
+      {
+       "type": "text",
+       "text": "Załącznik F. (do art. 73)."
+      },
+      {
+       "type": "text",
+       "text": "Zlecenie dodatkowe."
+      },
+      {
+       "type": "text",
+       "text": "Upraszam ekspedycję towarową stacji --. Dyrekcji aby nadaną dn. — .... = — r. do stacji. Dyrekcji... ..._.. za listem przewozowym Ne . następującą przesyłkę: Cechy i numer Ilość sztuk es Zawartos¢ przesyłki Waga w ka"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_100/ust_4/pkt_1",
+       "text": "wydała mi z powrotem na stacji nadawczej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_100/ust_4/pkt_2",
+       "text": "zatrzymała w drodze i wydała na stacji................. (nazwisko i adres)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_100/ust_4/pkt_3",
+       "text": "zwróciła na stację nadawczą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_100/ust_4/pkt_4",
+       "text": "wydała na stacji przeznaczenia nowemu odbiorcy p... uuu... (nazwisko i adres)",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_100/ust_4/pkt_5",
+       "text": "wydała za pobraniem zaliczenia, zmniejszonego do kwoty ....................",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "literami"
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_100/ust_4/pkt_6",
+       "text": "wydała bez pobrania zaliczenia;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_100/ust_4/pkt_7",
+       "text": "wydała bez pobrania przewoźnego i innych należności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_100/ust_4/pkt_8",
+       "text": "zatrzymała na stacji przeznaczenia do dalszego rozporządzenia! (podpis) Tissier: OM O RCA jb emer UWAGA. Zlecenia zbyteczne należy przekreślić.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

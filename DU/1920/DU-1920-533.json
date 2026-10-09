@@ -1,0 +1,221 @@
+{
+ "eli": "DU/1920/533",
+ "title": "Rozporządzenie Ministra Spraw Wojskowych, Ministra Kolei Żelaznych i Ministra Skarbu w przedmiocie wykonania ustawy o kolejach w czasie wojny.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/533/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra. Spraw Wojskowych, Ministra Kolei Żelaznych i Ministra Skarbu w przedmiocie wykonania ustawy o kolejach w czasie wojny. Na zasadzie art. 8 ustawy z dn. 27 marca 1920 r. o kolejach w czasie wojny (Dz. Ust. R. P. Ne 27, poz. 160) zarządza się, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Pracownicy kolejowi powołani do wojskowej służby kolejowej na podstawie ustawy z dnia 27 marca 1920 r. o kolejach w czasie wojny otrzymują z funduszów wojskowych pełne uposażenie na zasadach ogólnie w wojsku obowiązujących odpowiednio do ich szarży wojskowej, względnie funkcji w wojsku sprawowanych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Jeżeli, przewidziane w art. 1 uposażenie wojskowe powołanych na podstawie ustawy z dn. 27 marca 1920 r. pracowników kolejowych, okaże się niższe od uposażenia odpowiednich stanowisk służbowych cywilnych, wówczas osoby te otrzymują różnicę między pełnem uposażeniem wojskowem a cywilnem, a mianowicie:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "pracownicy instytucji państwowych —z funduszów tej władzy cywilnej, na której etacie pozostają,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "pozostali z funduszów Ministerstwa Spraw Wojskowych. Różnicę między uposażeniem wojskowem a cywilnem pobieranem przez pracowników wymienionych w punkcie b, oblicza się w ten sposób, że stanowisko zajmowane przez nich w wojskowej służbie kolejowej porównywa się z takiem samem stanowiskiem w służbie kolejowej cywilnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Przy obliczaniu różnicy uposażenia należy rozumieć:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "Jako pełne uposażenie wojskowe:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_3/pkt_1/lit_a",
+       "text": "u oficerów i im równorzędnych — płacę podstawową łącznie ze wszystkiemi pieniężnemi dodatkami,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_3/pkt_1/lit_b",
+       "text": "u szeregowych żołd ze wszystkiemi dodatkami;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "jako pełne uposażenie cywilne- płacę zasadniczą iącznie ze wszystkiemi dodatkami.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "le"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Niezależnie od wymienionego w art. 1 pełnego uposażenia wojskowego, lub różnicy uposażenia wypłaconej w myśl art. 2, ci pracownicy kolejowi powołani na mocy art. 7 ustawy, którzy wskutek powołania zmienili miejsce stałego swego pobytu, otrzymują następujące dodatki procentowe od każdorazowej ogólnej sumy uposażenia cywilnego:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_4/lit_a",
+     "text": "nieżonaci i wdowcy bezdzietni . . . 150/0",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_4/lit_b",
+     "text": "żonaci bezdzietni i nieżonaci obarczeni rodziną (1 osoba) 250/0",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_4/lit_c",
+     "text": "żonaci z jednem dzieckiem, wdowcy z jednem dzieckiem i nieżonaci obarczeni rodzina (2 osoby). . 30/0 ) żonaci z dwojgiem dzieci, wdowcy z 2-iem dzieci i nieżonaci obarczeni rodziną (3 osoby) . . . 350/0",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "art_4/lit_e",
+     "text": "żonaci z 3-iem dzieci, wdowcy z 3-iem dzieci i nieżonaci",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "art_4/lit_f",
+     "text": "żonaci z 4-iem i WISZĄ dzieci i wdowcy z 4-iem i więcej obarczeni rodziną (4 lub więcej osób) . . : 40° /o",
+     "children": [
+      {
+       "type": "text",
+       "text": "\"dzieci . . . . . NE =o = BM 4 ; 45°/o"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Za rodzinę „= w rozumieniu niniejszych przepisów uważać należy żonę, dzieci niżej lat 18-tu, dzieci od 18-tu do 24 lat, pozostające na utrzymaniu powołanego wskutek uczęszczania do zakładów naukowych, oraz bez żadnych ograniczeń dzieci ułomne, które nie są w stanie zarobkować. Za rodzinę powołanego uważać należy również rodziców i nieletnie rodzeństwo niżej lat 18-tu, również z uwzględnieniem wyjątków wyszczególnionych w poprzednim ustępie, o ile powołany bezpośrednio przed powołaniem utrzymywał ich, a własnych środków na życie osoby te nie mają.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Wymienione w art. 4 procentowe dodatki otrzymują powołani, o ile są pracownikami państwowemi z funduszów tej władzy, na której etacie pozostają, reszta zaś z funduszów Ministerstwa Spraw Wojskowych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Wypłatę różnicy uposażenia (art. 2) i dodatków procentowych (art. 4) pracowników państwowych do wojska powołanych, uskuteczniają właściwe władze cywilne na podstawie danych dostarczonych przez władze wojskowe. Pozostałym pracownikom wspomnianą różnicę i dodatki procentowe wypłacają właściwe Komisje Gospodarcze, w-razie zaś gdy powołany pobory te przekazał rodzinie, wypłatę uskutecznia bómieja Gospodarcza najbliższa miejsca zamieszkania rodziny.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Pracownicy kolejowi powołani korzystają z ogólnie obowiązujących przepisów dla osób wojskowych przepisów w przedmiocie diet i kosztów podróży, umundurowania i wszystkich innych świadczeń w naturze, przysługujących osobom wojskowym.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Rrt. 9. Rodziny powołanych w myśl ustawy z dn. 27 marca 1920 r. Dz. U. Ne 27, p. 160 nie mają prawa do zasiłków rodzinnych, wypłaconych przez powiatowe Komisje Zasiłkowe."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Rozporządzenie niniejsze obowiązuje począwszy od dn. 27 marca 1920 r. t. j. od dnia wejścia w życie ustawy z dnia 27 marca 1920 r. Przypaść mogącą na podstawie niniejszego rozporządzenia nadwyżkę uposażenia właściwe władze mają wypłacić dodatkowo za czas począwszy od dnia 1 kwietnia 1920 r.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Z dniem ogłoszenia ustawy z dnia 27 marca 1920 r. straciła w myśl art. 12 (tejże ustawy moc obowiązującą w porównaniu do pracowników kolejowych ustawa z dnia 2 sierpnia 1919 r. Dz. Pr. Ne 65, poz. 396). Zastosowuje się przeto niniejsze przepisy również do tych pracowników",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "= nn"
+    },
+    {
+     "type": "text",
+     "text": "kolejowych ponad wiek poborowy, którzy powołani zostali do wojskowej służby kolejowej przed dniem ogłoszenia tejże ustawy."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "Unormowane niniejszem rozporządzeniem procentowe dodatki od uposażenia cywilnego należą się powołanym do wojskowej służby kolejowej od driia wejścia w życie ustawy t. j. od dnia 27 marca 1920 r., lub od daty powołania, o ile nastąpiło ono w czasie późniejszym. Za czas wojskowej służby kolejowej do dnia 27 marca 1920 r. należą się powołanym dodatki procentowe od uposażenia cywilnego w myśl art. 7 ustawy z dnia 11 lipca 1919 r. Dz. U. Ne 9, poz. 357 bez względu na dodatki familijne, pobierane przez nich z funduszów wojskowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Warszawa, dnia 8 sierpnia 1920 r."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wojskowych: J. Leśniewski"
+  },
+  {
+   "type": "text",
+   "text": "Minister Skarbu: w. z. Weinfeld Minister Kolei Żelaznych: K. Bartel"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

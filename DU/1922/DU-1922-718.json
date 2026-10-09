@@ -1,0 +1,62 @@
+{
+ "eli": "DU/1922/718",
+ "title": "Obwieszczenie Ministra Kolei Żelaznych z dnia 9 września 1922 r. w sprawie sprostowania omyłek w rozporządzeniu Ministra Kolei Żelaznych z dnia 9 sierpnia 1922 r. o zmianie tablic opłat za przewóz towarów kolejami wąskotorowemi.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1922/718/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Obwieszczenie Ministra Kolei Żelaznych"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 9 września 1922 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sprostowania omyłek w rozporządzeniu Ministra Koiei Żelaznych z dnia 9 sierpnia 1922 r. o zmianie tablic opłat za przewóz towarów kolejami wąskotorowemi (Dz. U. R.P. z dnia 25 sierpnia 1922 r. Ne 69, poz. 624)."
+  },
+  {
+   "type": "text",
+   "text": "W tekście powyżej wymienionego rozporządzenia prostuje się niniejszem następujące omyłki:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Na str. 1215 w § 1 w wierszu drugim i plerwszym od dołu zarniast (Dz. U. R. P. Ne 30 z 1922r. poz. 252)”, winno być „(Dz. U. R. P, Ne 60 z r. 1922, poz. 545)”.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Na str. 1218 przed § 2 przepuszczono ustęp następujący: „Na wymienionej w rozdziale XXV Postanowień taryfowych (Dz. U. R.P. oH Ne 60 z 1922 r. poz. 545, str. 1031) w pn. 94 linji Hntonówka-Chinocz opłaty przewozowe pobiera się z podwyższeniem o 50°%/o, a nie o 100°/o, jak było pierwotnie ogłoszone”.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Kolei Żelaznych: Ludwik Zagórny-Marynowski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Jastrzębski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Przemysłu i Handlu: w z. Henryk Strasburger"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

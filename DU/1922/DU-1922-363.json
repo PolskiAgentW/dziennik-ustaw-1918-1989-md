@@ -1,0 +1,107 @@
+{
+ "eli": "DU/1922/363",
+ "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 1 czerwca 1922 r. o zaprowadzeniu wzajemnej wymiany paczek pocztowych między Polską a Rumunją.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1922/363/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 1 czerwca 1922 r. o zaprowadzeniu wzajemnej wymiany paczek pocztowych między Polską a Rumunją."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy art. 10 ustawy z dnia 27 maja 1919 r. o państwowej wyłączności poczty, telegrafu i telefonu (Dz. P. P. P. Ne 44, poz. 310) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Od dnia 15 czerwca 1922 r. zaprowadza się wzajemną wymianę paczek pocztowych między Polską a Rumunią.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W obrocie wzajemnym dopuszcza się paczki bez podanej wartości i paczki z podaną wartością do 1000 franków w złocie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Waga paczęk nie może przekraczać 20 klg. Dopuszcza się więc paczki: 1 klg., 5 klg., 10 klg., 15 klg. i 20 klg. 8 4. Z obrotu wykluczone są narazie paczki pośpieszne i pilne paczki za pobraniem i bez pobierania opłat celnych i pocztowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Do każdej paczki musi być dołączany 1 adres pomocniczy i dwie deklaracje celne. 8 6. Paczki muszą być opłacane z góry przy nadaniu.",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_5/lit_a",
+     "text": "Opłaty wynoszą: Za każde 5 klg. wagi paczki pobiera się po 40 centymów w złocie, za paczki zaś do 1 kig. wagi po 30 centymów w złocie, dla kraju nadania i przeznaczenia;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_5/lit_b",
+     "text": "Za paczki ochronne wspomniane opłaty podwyższa się o 50/a;",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "670 Dziennik Ustaw. ———__"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_5/lit_c",
+     "text": "Przy paczkach z podaną wartością pobierana będzie należytość asekuracyjna za każde 300 franków lub część 300 franków—50 centymów w złocie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_5/lit_d",
+     "text": "Ponadto za paczki z podaną wartością pobierana będzie należytość ekspedycyjna w kwocie 50 centymów w złocie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "W razie ubytku, uszkodzenia lub zaginięcia paczki bez podanej wartości wypłacać się będzie odszkodowanie za każdy kilogram lub jego część 2 franki w złocie, przy paczkach z podaną wartością w granicach wysokości podanej wartości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Ekwiwalent marki polskiej do franka złotego odnośnie do opłat i wypłaty odszkodowania ustala się: 1 fr. zi.=700 marek polskich,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Poczt i Telegrafów: Sfesłowicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,79 @@
+{
+ "eli": "DU/1922/96",
+ "title": "Rozporządzenie Rady Ministrów z dnia 3 lutego 1922 r. w sprawie kwot ryczałtowych na koszty wyższych urzędów ubezpieczeń.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1922/96/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Rady Ministrów"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 lutego 1922 r. +"
+  },
+  {
+   "type": "text",
+   "text": "w Sprawie kwot ryczałtowych na koszty wyższych urzędów ubezpieczeń."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy art. 18 ustawy z dnia 1 sierpnia 1919 r. o tymczasowej organizacji zarządu b. dzielnicy pruskiej (Dz. P. P. P. Ne 64 poz. 385) i § 80 ust. 3 ordynacji ubezpieczeniowej Rzeszy Niemieckiej z dnia 19 lipca 1911 r. zarządza się co następuje:."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Instytucje lub władze, przeprowadzające ubezpieczenia na podstawie ordynacji ubezpieczeniowej Rzeszy Niemieckiej z dnia 19 lipca 1911 r. opłacają za każdą do rozstrzygnięcia zgłoszoną sprawę, w której biorą udział, kwotę ryczałtową do kosztów wyższego urzędu ubezpieczeń.",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "w zakresie ubezpieczenia na wypadek choroby . . . . . . 720 mk.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "w zakresie ubezpieczenia od wypadków s © 6 « 6 « a «= = GD",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "w zakresie ubezpieczenia od inwalidztwa i ubezpieczenia pozostałych rodzin. « « s « « « 720 ,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Niniejsze rozporządzenie wchodzi w życie z dniem ogłoszenia. Z dniem tym uchyla się rozporządzenie z dnia 12 listopada 1918 r. dotyczące dalszego pobierania kwot ryczałtowych, opłacanych do kosztów wyższych urzędów ubezpieczeń przez instytucje lub władze, przeprowadzające ubezpieczenia (Dz. Ust. Rzeszy Niem. str. 1309).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezydent Ministrów: Antoni Ponikowski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Micbalski"
+    },
+    {
+     "type": "text",
+     "text": "Minister b. Dzielnicy Pruskiej: Wybicki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

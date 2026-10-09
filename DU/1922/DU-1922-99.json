@@ -1,0 +1,65 @@
+{
+ "eli": "DU/1922/99",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych z dnia 15 stycznia 1922 r. w sprawie zmiany w przepisach o kolejności przyjmowania ładunków, nadawanych do wysyłania, oraz o wykonaniu planu przewozowego na zasadzie kolejności.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1922/99/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Kolei Żelaznych"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 15 stycznia 1922 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany w przepisach o kolejności przyjmowania ładunków, nadawanych do wysyłania, oraz o wykonaniu planu przewozowe” go na zasadzie kolejności."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy dekretu z dnia 7 lutego 1919 roku o tymczasowem przekazaniu Ministrowi Komunikacji prawa wydawania przepisów o przewozie pasażerów, bagażu i towarów, oraz ustalenia taryf przewozowych na kolejach polskich (Dz. P. P. P. Ne 14, poz. 152) w i w porozumieniu z Ministrami Skarbu oraz Przemysłu i Handlu—zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W pozycji 3 listy kolejności ładunków zamieszczonej w § 1 rozporządzenia z dnia 22 października 1921 r. w sprawie przepisów o kolejności przyjmowania ładunków, nadawanych do wysyłania oraz o wykonaniu planu przewozowego na zasadzie kolejności (Dz. U. R. P. 1921 r. Ne 86, poz. 630) wykreśla się wyrazy: „AF. Za listami przewozowemi Komitetu Węglowego... nadawane przez kopalnie;",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "koks i brykiety. B. Za zwykłemi listami przewozowemi: „po wyrazach zaś: „a) węgiel kamienny i brunatny” włącza się wyrazy: „koks i brykiety węglowe”; wskutek czego punkty a), b), c), d) wykreślonej pozycji B. otrzymują kolejne oznaczenie: b), c), d), e). W pozycji 8a) tejże Listy kolejności wykreśla się wyrazy: „lub Głównego Urzędu Zaopatrywania Armji (G. U. Z. A.)” po wyrazach zaś: „Spraw Wojskowych” wstawia się wyraz „lub”.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Kolei Żelaznych: Sikorski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu: Micbalski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Przemysłu i Handlu: w z. Henryk Strasburger"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,49 @@
+{
+ "eli": "DU/1928/686",
+ "title": "Obwieszczenie Ministrów: Rolnictwa, Spraw Wewnętrznych, Skarbu, i Komunikacji z dnia 20 czerwca 1928 r. o sprostowaniu błędów w rozporządzeniu Ministra Rolnictwa z dnia 9 stycznia 1928 r., wydanem w porozumieniu z Ministrami: Spraw Wewnętrznych, Skarbu i Komunikacji w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 sierpnia 1927 r. o zwalczaniu zaraźliwych chorób zwierzęcych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1928/686/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Obwieszczenie Ministrów: Rolnictwa, Spraw Wewnętrznych, Skarbu, i Komunikacji , z dnia 20 czerwca 1928 r o sprostowaniu błędów w rozporządzeniu Ministra „Rolnictwa z dnia 9 stycznia 1928 r., wydanem w porozumieniu z Ministrami: Spraw Wewnętrznych, Skarbu i Komunikacji w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 sierpnia 1927 r. o zwalczaniu zaraźliwych chorób zwierzęcych, Na podstawie art. 5 pkt. b) rozporządzenia Prezydenta Rzeczypospolitej z dnia 23 grudnia 1927 r. . w sprawie wydawania Dziennika Ustaw Rzeczypospolitej Polskiej (Dz. U. R. P. z r. 1928 Nr. 3, poz. 18) © podaje się do wiadomości, że w rozporządzeniu Ministra Rolnictwa z dnia 9 stycznia 1928 r., wydanem w porozumieniu z Ministrami: Spraw Wewnętrznych, Skarbu i Komunikacji w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 sierpnia 1927 r. o zwalczaniu zaraźliwych chorób zwierzęcych (Dz. U. R. P. Nr. 19, poz. 167):"
+  },
+  {
+   "type": "text",
+   "text": "a) w § 152 w ustępie 2-gim zamiast wyrazu ,,fgaszone' powinno być ,,niegaszone”,",
+   "quoted": true
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "w § 199 w ustępie 2-im zamiast wyrazów: „kwasu forminowego' powinno być „kwasu mrówkowego', i.",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "w § 201 w końcu ustępu po cyfrze ,,197\" należy dodać: „i 199 ust. 2,3 i 4\",",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "d",
+   "path": "lit_d",
+   "text": "w § 210 w pkt. b) zamiast wyrazu „uboju” winno być ,,udoju”. Minister Rolnictwa: K. Niezabytowski Minister Spraw Wewnętrznych: Sławoj Składkowskł Minister Skarbu: G. Czechowicz",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Komunikacji: Kiihn"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

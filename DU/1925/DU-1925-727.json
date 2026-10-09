@@ -1,0 +1,57 @@
+{
+ "eli": "DU/1925/727",
+ "title": "Obwieszczenie Ministra Skarbu z dnia 30 września 1925 r. o sprostowaniu rozporządzenia Ministra Skarbu z dnia 3 sierpnia 1925 r. o urządzeniu i kontroli gorzelni.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1925/727/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Obwieszczenie Ministra Skarbu"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 września 1925r."
+  },
+  {
+   "type": "text",
+   "text": "o sprostowaniu rozporządzenia Ministra Skarbu z dnia 3 sierpnia 1925 r. o urządzeniu i kontroli gorzelni."
+  },
+  {
+   "type": "text",
+   "text": "W Dz. U. R. P. Ne 84, poz. 579 w rozporzą: dzeniu Ministra Skarbu z dnia 3 sierpnia 1925 r. o urządzeniu i kontroli gorzelni zaszły następujące błędy: ."
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "WS§ 28 w końcu drugiego zdania zamiast 5-0 powinno być 50. . 2) W końcu § 75 zamiast § 87 powinno być",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 80 rozp. Ministra Skarbu z dnia 10 marca 1925 r."
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "W § 109 w przykładzie ostatecznego rozliczenia ubytków za kampanję w sumie „razem” należy skreślić (w rubr. 7) 229. - 4) W załączniku B. w przykładzie pierwszym w końcu opuszczono mnożnik 16; zamiast 5495 X 0.55 = 483.56 powinno być 5495 X0.55 X 16 = 483.56.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: W. Grabski"
+  },
+  {
+   "type": "text",
+   "text": "Warszawa. Tłoczono w Drukarni Państwowej z polecenia Ministra Sprawiedliwości. 30286 P Cena 25 groszy. Zn Konto czekowe Pocztowej Kasy Oszczędności Ne 30130."
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

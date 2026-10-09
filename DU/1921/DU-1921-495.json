@@ -1,0 +1,55 @@
+{
+ "eli": "DU/1921/495",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych z dnia 17 sierpnia 1921 r. w przedmiocie podwyższenia taryfy osobowej i bagażowej oraz zmiany dotychczasowego sposobu obliczania opłat bagażowych na państwowych kolejach wąskotorowych warszawskiej dyrekcji kolei państwowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/495/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Kolei Żelaznych z dnia 17 sierpnia 1921 roku w przedmiocie podwyższenia taryfy osobowej i bagażowej oraz zmiany dotychczasowego sposobu obliczania opłat bagażowych na państwowych kolejach wąskotorowych warszawskiej dyrekcji kolei państwowych. Na mocy dekretu z dnia 7 lutego 1919 r. o tymczasowem przekazamiu Ministrowi Komunikacji prawa wydawania przepisów przewozowych na kolejach polskich (Dz. Praw. Ne 14, poz. 152) i w porozumieniu z Ministerstwami: Skarbu oraz Przemysłu i Handlu zarządzam co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Na państwowych kolejach wąskotorowych warszawskiej dyrekcji kolejowej podwyższa się opłaty za przewóz osób: do 5 marek — za osobę i kilometr w klasie III i do 7 mk. 50 fen. — ” ” ” „* h, ”",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Znosi się dotychczasowy sposób obliczania opłat za przewóz bagażu: po 36 marek od każdej sztuki, wagi do 50 kg. bez względu na odtegłość, a wprowadza się dwa rodzaje przesyłek, mianowicie: wagi do 50 kg.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "oraz wagi ponad 50 do 100 kg. z obliczeniem przewoźnego według zasad następujących: Opłaty przewozowe od każdych 10 km. wynoszą:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "od każdej sztuki bagażu wagi do 50 kg. — 20 mk., wagi zaś ponad 50 do 100 kg. — 40 mk;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "od każdej sztuki przesyłek nadzwyczajnych wagi do 50 kg.— 40 mk., wagi zaś ponad 50 do 100 kg. —80 mk. i ©płaty powyższe oblicza się strefami po 10 km. licząc rozpoczętą strefę za pełną. = 8 3. Rozporządzenie niniejsze obowiązuje od dnia 25 sierpnia 1921 r. Minister Kolei Żelaznych: Jasiński",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

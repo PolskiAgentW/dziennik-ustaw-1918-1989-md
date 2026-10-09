@@ -1,0 +1,80 @@
+{
+ "eli": "DU/1923/506",
+ "title": "Rozporządzenie Ministra Robót Publicznych z dnia 26 maja 1923 r. w przedmiocie normalizacji napięć elektrycznych oraz częstotliwości prądów zmiennych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1923/506/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Robót Publicznych z dnia 26 maja 1923 r."
+  },
+  {
+   "type": "text",
+   "text": "w przedmiocie normalizacji napięć elektrycznych oraz częstotliwości prądów zmiennych."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy art. 16 Ustawy Elektrycznej z d. 21 mar: ca 1922 r. (Dz. U. R. P. Ne 34, poz. 277) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Za normalne napięcia elektryczne robocze w granicach między 100 woltami i 100,000 woltów, czyli 100 kilowoltami, uważa się następujące napięcia:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "w urządzeniach elektrycznych prądu stałego— 110, 220 i 440 V, 4",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "w urządzeniach elektrycznych prądu zmiennego, jednofazowego lub trójfazowego, — 125, 220, 380 oraz 3.000, 6.000, 15.000, 35.000, 60.000 i 100.000 V. Napięcie 110 wzgl. 125 woltów należy uważać za normalne tylko dla urządzeń elektrycznych, w któ: rych, ze względu na ich charakter, utrzymanie normalnej izolacji jest utrudnione.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przez napięcie robocze rozumieć należy średnie napięcie u odbiorników, dołączonych do sieci elektrycznej, a więc lamp, silników, transformatorów i t. p.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Normalna częstotliwość prądów zmiennych jednofazowych i trójfazowych wynosi 50 okresów czyli 100 zmian na sekundę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Nowopowstające zakłady i urządzenia elektryczne winny być wykonywane na normalne napięcia robocze i na częstotliwość normalną. W wyjątkowych okolicznościach, za zgodą Ministra Robót Publicznych, mogą być stosowane napięcia inne, niż normalne. 8 5. Przy rozszerzaniu istniejących zakładów elektrycznych mogą być stosowane napięcia dotychczasowe.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie niniejsze nie dotyczy zakładów, służących wyłącznie do celów trakcji elektrycznej, urządzeń trakcyjnych, oraz urządzeń elektrycznych na statkach. 8 7. Rozporządzenie niniejsze zyskuje moc obowiązującą z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Robót Publicznych: J. Łopuszański"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

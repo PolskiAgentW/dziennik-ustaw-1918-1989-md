@@ -1,0 +1,175 @@
+{
+ "eli": "DU/1929/462",
+ "title": "Rozporządzenie Ministra Komunikacji z dnia 11 maja 1929 r. wydane w porozumieniu z Ministrem Spraw Wojskowych i Ministrem Spraw Wewnętrznych o systemie znaczenia statków powietrznych i sposobie umieszczania znaków na statkach.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1929/462/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA KOMUNIKACJI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 maja 1929 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrem Spraw Wojskowych i Ministrem Spraw Wewnętrznych o systemie znaczenia statków powietrznych i sposobie umieszczania znaków na statkach,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 15 rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 marca 1928 roku o prawie lotniczem (Dz. U. R, P. Nr, 31, poz. 294) zarzadza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Każdy statek powietrzny, wpisany do polskiego rejestru państwowego, powinien być oznaczony grupą znaków, składającą się z pięciu liter wielkich alfabetu łacińskiego. Pierwszemi literami tej śrupy powinny być litery SP, oznaczające polską przynależność państwową statku powietrznego; powinny być one oddzielone poziomą kreską od pozostałych trzech liter, sta-",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Nr. 59. Dziennik Ustaw. Poz. '462."
+    },
+    {
+     "type": "text",
+     "text": "nowiących znak rejestracyjny statku powietrznego"
+    },
+    {
+     "type": "text",
+     "text": "np: SP—LOT"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Litery znaku rejestracyjnego ustala Ministerstwo Komunikacji przy rejestrowaniu statku powietrznego. Znak rejestracyjny może się składać z różnych -kombinacyj trzech liter całego alfabetu łacińskiego. W znaku rejestracyjnym nie mogą być używane kombinacje liter: SOS, XXX, PANi TTT, jak również kombinacje, w których litera W znajdowałaby się w środku. Znak rejestracyjny, ustalony dla statku powietrznego, nie podlega żadnym zmianom i.nie może być nadany innemu statkowi powietrznemu, dopóki statek, mający ten znak, nie zostanie skreślony z rejestru państwowego statków powietrznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Grupa znaków, określona w § 1, powinna być namalowana i rozmieszczona na statku powietrznym w sposób następujący:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "Na samolotach umieszcza się grupę znaków na powierzchni dolnej płatów dolnych, na powierzchni górnej płatów górnych, oraz po obu stronach kadłuba między skrzydłami i płatami ogona. Litery znaków na płatach dolnych i górnych powinny być zwrócone górną częścią do przedniej krawędzi płatów, Na jednopłatowcu umieszcza się grupę znaków na górnej i dolnej powierzchni płata w sposób wyżej wskazany. Na samolocie, nie mającym kadłuba, umieszcza się grupę znaków na obu bokach łodzi, zastępującej kadłub.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "Na sterowcach umieszcza się grupę znaków po obu bokach możliwie najbliżej największego przekroju poprzecznego oraz na górnej powierzchni sterowca w równej odległości od znaków bocznych. Na balonach kulistych umieszcza się przy linji największeśo obwodu poziomego dwie śrupy znaków, jak najdalej od siebie oddalone. Na innych balonach znaki te powinny być umieszczone po obu bokach, możliwie najbliżej najwięk-. szego przekroju poprzecznego takiego balonu, bezpośrednio pod pasem osprzętu linowego lub punktami zaczepienia lin podwieszenia kosza, Znaki umieszczone na bokach sterowców i balonów, powinny być dobrze widoczne tak z boku jak i z dołu,",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 4, Wymiary znaków przynależności państwowej i rejestracyjnego powinny być następujące:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "na samolotach: wysokość znaków na skrzydłach powinna wynosić cztery piąte szerokości skrzydeł, „wysokość zaś znaków na kadłubie lub na łodzi powinna wynosić cztery piąte największej wysokości mierzonej w najwęższej części kadłuba lub łódki, na której to części znaki te mają być wymalowane;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "na sterowcach: wysokość znaków powinna wynosić dwunastą część obwodu największego przekroju sterowca;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_3/lit_c",
+     "text": "na balonach kulistych: wysokość znaków powinna wynosić piętnastą część obwodu największego przekroju poprzecznego balonu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_3/lit_d",
+     "text": "na innych balonach: wysokość znaków powinna wynosić dwunastą część, obwodu największego przekroju poprzecznego takich balonów. . Na wszystkich statkach powietrznych wysokość znaków nie powinna przekraczać 2,5 metra.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Litery znaków powinny być malowane kolorem farby wyraźnie odcinającym się od koloru skrzydeł lub kadłuba, na których znaki te namalowano. Litery powinny yć wykonane w formie pełnego druku, wszystkie jednego typu i wymiaru; odstęp zaś między literami powinien być równy połowie szerokości liter. Szerokość liter, o ile na to pozwala koństiwcja statku, powinna być równa dwum trzecim ich wysokości, a grubość — jednej szóstej tej wysokości. Długość kreski, oddzielającej znak przynależności państwowej statku od znaku rejestracyjnego powinna równać się szerokości jednej litery, grubość zaś tej kreski powinna być taka sama jak grubość liter,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Na tablicy metalowej o wymiarze 10 X 15 cm. umieszczonej w miejscu widocznem na kadłubie lub łodzi zarejestrowanego statku powietrznego, powinny być wyryte: imię, nazwisko i miejsce zamieszkania właściciela statku oraz znak przynależności państwowej statku i znak rejestracyjny. Tablica metalowa o wymiarze 7 X 10 cm. z takim samym napisem powinna być umieszczona rów= nież wewnątrz kabiny pasażerskiej statku przedsiębiorstwa komunikacji lotniczej,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Na statku powietrznym powinno być uwi- 87. „docznione największe dozwolone obciążenie użyteczne statku, wskazane w świadectwie sprawności technicznej. Napis uwidoczniający dozwolone obciążenie statku winien być dokonany literami o wysokości 10 cm. i umieszczony po prawej stronie kadłuba lub łodzi statku powietrznego w części, przeznaczonej dla pasażerów i ładunku; w odległości 1/6 szerokości kadłuba od jego krawędzi dolnej."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Znaki i tablice powinny być rozmieszczone na statku powietrznym przy uwzględnieniu jego formy, oraz powinny być stale utrzymywane w czy» stości i być stale widoczne, .",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Znaki przynależności państwowej i rejestracji polskiego statku powietrznego stanowią jednocześnie znak wywoławczy tego statku, Znak ten powinien być używany zawsze, gdy statek powietrzny zamierza nadawać lub ma odbierać sygnały przewidziane w rozporządzeniu Ministra Komunikacji z dnia 26 listopada 1928 roku 'o syśnalizacji lotniczej i o lotniczych znakach naziemnych (Dz. U. R. P. z r. 1929 Nr. 1, poz. 9):lub wiadomości i komunikaty przewidziane w rozporządzeniu Ministra Komunikacji z dnia 8 maja 1929 roku o lotniczej służbie radjoelektrycznej oraz o używaniu aparatów radjotechnicznych na pokładzie statków powietrznych (Dz. U, R. P, Nr, 59, poz, 460).",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 10, Znaki i tablice z napisami powinny być umieszczone na statku powietrznym niezwłocznie po jego zarejestrowaniu."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "W przypadku wykreślenia statku powietrznego z rejestru państwowego statków powietrznych znak przymależności państwowej i znak rejestracyjny powinny być natychmiast ze statku usunięte."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "ozporządzenie niniejsze wchodzi w życie w dwa miesiące od dnia jego ogłoszenia. Z chwilą wejścia w życie rozporządzenia niniejszego traci moc swą rozporządzenie Ministra Komunikacji z dnia 23 maja 1928 roku (Dz. U. R. P. Nr. 74, poz. 672). Minister Komunikacji: Kiihn Minister Spraw Wojskowych: J. Piłsudski",
+   "children": [
+    {
+     "type": "text",
+     "text": "„Minister Spraw Wewnętrznych: Sławoj Składkowski",
+     "quoted": true
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,386 @@
+{
+ "eli": "DU/1925/576",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 24 czerwca 1925 r. wydane w porozumieniu z Ministrem Spraw Wewnętrznych i Ministrem Sprawiedliwości w celu wykonania ustawy z dnia 14 grudnia 1923 r. o uprawnieniach organów wykonawczych władz skarbowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1925/576/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Skarbu z dnia 24 czerwca 1925 r. wydane w porozumieniu z Ministrem Spraw Wewnętrznych i Ministrem Sprawiedliwości „w celu wykonania ustawy z dnia 14 grudnia 1923 r. o uprawnieniach organów wykonawczych władz skarbowych."
+  },
+  {
+   "type": "text",
+   "text": "Na zasadzie art. 10 ustawy z dnia 14 grudnia 1923 roku o uprawnieniach organów wykonawczych władz skarbowych (Dz. O. R.P. z 1924r. Ne 5, poz. 37) zarządza się co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "§ 1 (do art. 1 ustawy). Organami wykonawczemi władz skarbowych, powołanemi do spełniania czynności określonych w artykułach 2 do 4 ustawy są:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w dziedzinie podatków bezpośrednich i opłat skarbowych: -a) buchalterzy — kontrolerzy;",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "sekwestratorowie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w dziedzinie ceł:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "poza miejscem urzędowania urzędów celnych na obszarze powiatów granicznych: straż celna; ,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "wewnątrz kraju poza miejscem urzędowania urzędów celnych i poza pasem granicznym: urzędnicy kontroli skarbowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w dziedzinie podatków spożywczych i monopolów państwowych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "urzędnicy kontroli skarbowej na całym ob szarze Państwa",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "straż celna w pasie granicznym, 0 ile przy sposobności wykonywania swych właściwych obowiązków służbowych wykryje czyny karygodne przewidziane w przepisach o podatkach spożywczych i monepolach państwowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "we wszystkich trzech powyższych dziedzinach (1, 2, 3) urzędnicy skarbowi delegowani przez — władze skarbowe w sprawach poszczególnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Czynności służbowe skarbowych organów wykonawcych (§ 1) rozciągają się zasadniczo na ich własny rejon służbowy. Spostrzeżenia lub doniesienia tyczące się obcych rejonów należy udzielać do do wiadomości właściwym organom wykonawczym, aby je mogły odpowiednio zużytkowywać przy wykona niu swej słyżby. Jeżeliby jednak nagłość sprawy nie pozwalała na zwłokę, wówczas organ wykonawczy obowiązany jest przedsięwziąć potrzebne czyn: ności służbowe także i w obcych rejonach, a o wykonaniu tych czynności zawiadomić w drodze służbowej przełożonego obcego rejonu. Jeżeli organ wykonawczy wykryje przestępstwo, nie wolno mu pominąć tego milczeniem, lecz jest . obowiązany poczynić wszelkie dożwolone zarządzenia potrzebne do wdrożenia przepisanego ustawą postępowania karnego i do zabezpieczenia kary.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 3 (do art. 2 lit. b ustawy). Celem wyko: nanią postanowień art. 2 lit. b) ustawy przysługuje straży celnej i urzędnikom kontroli skarbowej (§ 1 L. 2 i 3) prawo żądania od osób zawodowo transportujących towary okazania dokumentów celnych, przewozowych i innych mających związek z towarem i dokładnego podania, gdzie, kiedy i kto oddał im towar, który transportują, tudzież dokąd i dla kogo jest tenże przeznaczony. Wobec innych osób wolno w ten sposób postępować tylko wtedy, gdy transportują towary w ilości przekraczającej widocznie znacznie ich własną potrzebę albo wtedy, gdy zachodzi uzasadnione podejrzenie, że dopuszczono się przekroczenia przepisów celnych. Na drogach nałeży sprawdzać zgodność ladgnku z tem, co strona podeje tylko o tyłe, o ile można to uczynić, nie zmieniając położenia ładunku ani nie otwierając naczyń lub opakowania. Gdy to jest niemożliwe, ma interesowany na żądanie straży celnej, względnie urzędnika kontroli skarbowej, udać się wraz z ładunkiem do najbliższego urzędu celnego, względnie innego urzędu skarbowego, ewentualnie placówki straży celnej, lub do urzędu gminnego, gdzie należy zbadać ładunek w przepisany sposób. Nie wolno jednak pod odpowiedzialnością dyscyplinarną żądać otworzenia ładunku i dostawienia go do urzędu skarbowego (celnego, gminnego lub płacówki straży celnej), jeżeli podejrzęnie nie jest oparte na ważnych podstawach."
+    },
+    {
+     "type": "text",
+     "text": "§ 4 (do art. 3 ustawy). Do kontrolowania i przeszukiwania przedsiębiorstw podłegających urzędowemu dozorowi skarbowemu nie potrzebują urzędnicy skarbowi wymienieni w § 1 L 3) i 4) osobnego upoważnienia; są oni obowiązani przedsiębrać te czynności tak często, jak to jest przepisane lub jak tego wymaga potrzeba."
+    },
+    {
+     "type": "text",
+     "text": "Ne 83."
+    },
+    {
+     "type": "text",
+     "text": "© ile specjalne ustawy i rozporządzenia nie stanowią inaczej, kontrolowanie ogranicza się do bacznego, ale tylko ogólnego śledzenia toku czynności kontrolowanego przedsiębiorstwa w tełu wykrycia ewentualnych łatwo spostrzec się dających nieprawidłości."
+    },
+    {
+     "type": "text",
+     "text": "Przeszukiwanie polega na szczegółowem badaniu obrctów przedsiębiorstwa, prowadzonych przezeń dokumentów 1 ksiąg, oraz dokonywanych w nim innych czynności, jak niemniej należących dor urządzeń i pomieszczeń, a to w celu wykrycia przekrój czeń skarbowych, albo też przedmiotu lub śladu tychże. i"
+    },
+    {
+     "type": "text",
+     "text": "Wszelkie kontrole i przeszukiwania należy w zasadzie wykonywać w dzień, a tylko wówczas, gdy ruch kontrolowanego przedsiębiorstwa odbywa się w porze nocnej, lub gdy nagłość sprawy albo uzasadnione podejrzenie tego wymaga, także i w nocy, i to o ile możności niespodziewanie, przyczem zwracać należy baczną uwagę na to, aby nie przeszkadzać prawidłowemu ruchowi przedsiębiorstwa i hie zwracać ogólnej uwagi. Do czynności tych powinno się przybrać osobę, do której należą pomieszczenia, gdzie przeprowadza się te czynności lub która ma dozór nad temi pomieszczeniami."
+    },
+    {
+     "type": "text",
+     "text": "Dokumenty i księgi prowadzone w przedsiębiorstwie wolno przeglądać tylko w granicach okreśłonych w art. 3 p. 3 ustawy."
+    },
+    {
+     "type": "text",
+     "text": "§5 (do art. 4 p. a ustawy). Straż celna i urzędnicy kontroli skarbowej powinni robić użytek z przyznanego im w art. 4 ustawy prawa dokonywawania tymczasowego zajęcia i wzięcia w przechówanie towarów i innych przedmiotów przewożonych lub przenoszonych tylko wtedy, gdy zachodzi uzasadnione podejrzenie, iż pozostają w związku z popełnieniem przestępstwa skarbowego (celnego). W miarę zachodzących okoliczności może organ wykonawczy ograniczyć się do obszukania zewnętrznego podejrzanej osoby zaraz na miejscu przytrzymania, o ile ta osoba wyraźnie na takie obszukanie się zgodzi."
+    },
+    {
+     "type": "text",
+     "text": "Jeżeli obszukanie zewnętrzne nie usunie pddejrzeń, lub też jeżeli osoba podejrzana rzeczy przechowanej przy sobie wydać nie chce, - należy odstawić ją do najbliższego urzędu skarbowego (celnego, placówki straży celnej), a w braku tegoż na posterunek policji państwowej lub do najbliższej zwierzchności gminnej i tutaj przedsięwziąć szczegółową rewizję osobistą, bacząc przytem, aby czynności tej dokonano z taktem, bez przyczynienia zbytnich przykrości osobom rewidowanym i bez obrażenia ich godności osobistej. Każda nieuzadniona rewizja (np. nacechowana złą wolą) będzie karana nietylko w drodze dyscyplinarnej, ałe w miarę okoliczności także w drodze sądowej. ."
+    },
+    {
+     "type": "text",
+     "text": "Kobiety mogą być obszukiwane zewnętrznie lub rewidowane tylko przez kobiety; rewizja Szczegółowa kobiet może być dokonywana tylko w nieobecności mężczyzn. Jeżeli zachodzi niemożność dokonania otszukania lub rewizji przez kobiety pozostaące w służbie państwowej, natenczas organ wykonawczy może zarządzić dokonanie powyższych"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "czynności przez godną zaufania osobę płci żeńskiej za jej zgodą."
+    },
+    {
+     "type": "text",
+     "text": "Tego rodzaju doraźne rewidentki mogą o trzy- \"mać za każdą czynność wynagrodzenie, którego wy: sokość ustala urząd skarbowy akcyz i monopołów (celny). Ze wzgłędu na postanowienia art. 4 lit. a) ust. 3 ustawy, ograniczające tymczasowe zajęcie i wzięcie w przechowanie towarów łub innych przed- „miotów do dni 8-miu, obowiązkiem organu wykonawczego, który zajęcia dokonał, jest protokół karny skierować bezzwłocznie drogą służbową do właściwego urzędu skarbowego (celnego), celem zadecydowania, czy zajęcie utrzymuje się w mocy, czy też należy zajęty towar, względnie przedmiot, wydać interesowanemu."
+    },
+    {
+     "type": "text",
+     "text": "Na odnośnym . protokóle karnym względnie sprawozdaniu należy zamieścić słowa „Sprawa terminowa”."
+    },
+    {
+     "type": "text",
+     "text": "Obowiązkiem urzędu skarbowego (celnego) będzie zwracać na tego rodzaju sprawy szczególną uwagę i dołożyć starań, aby decyzja co do zwolnienia towaru lub przedmiotu, względnie utrzymania zajęcia w mocy, zapadła jak najspieszniej i bezwarunkowo w ciągu ośmiu dni została wysłana."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Doniesienia o przekroczeniach skarbowych (celnych) należy zawsze przyjmować i po ich sprawdzeniu uczynić przedmiotem dalsżej czynności urzędowej. Nazwisko donosiciela należy zachować w tajemnicy. Z bezimiennych doniesień można wprawdzie korzystać w celu wdrożenia poufnych dochodzeń, rewizje pomieszczeń jedńak wolno w takich wypadkach przeprowadzać, stosując się zresztą do postanowień art. 4 lit. b) ustawy tylko wtedy, gdy z dochodzeń okaże się, że zachodzą warunki, pod któremi rewizje takie są dozwolone (musi mianowicie zachodzić uzasadnione podejrzenie, że w odnośnych pomieszczeniach złożone są lub ukryte podejrzańe przedmioty, jak np. księgi i dokumenty, towary podlegające opodatkowaniu (ocleniu, zakazowi przywozu lub wywozu) lub opłacie stemplowej, albo przyrządy służące do wyrobu takich towarów lub wyrobu produktów, będących przedmiotem monapolu pań: stwowego).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Jeżeliby okazało się jednak z dochodzeń przeprowadzonych wskutek doniesienia, że ono jest zmyślone, lub że prawdę podstępnie przekręcono, wówczas należy je przesłać drogą służbową władzy przełożonej, która skierowuje je do właściwego prokuratora."
+    },
+    {
+     "type": "text",
+     "text": "§ 7 (do art. 4 p. b. ustawy). Do przeprowadzenia rewizji pomieszczeń: ma się przeznaczać zasadniczo doświadczonego i dokładnie obznajomionego z przepisami urzędnika kontroli skarbowej, straży celnej względnie innego urzędnika skarbowego. Rewizje przeprowadza się w obecności organu miejscowej władzy bezpieczeństwa publicznego—o ile tylko to jest możliwe, oraz dwóch wiarygodnych i zasługujących na zaufanie osób postrontych."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Jeżeli skarbowy organ wykonawczy dokona w myśl art. 4 ustawy tymczasowego zajęcia. i wzięcia w przechowanie towarów lub innych przedmiotów, co do których zachodzi podejrzenie, iż pozostają w związku z popełnieniem przestępstwa skarbowego i jeżeli, celem ustalenia ich pochodzenia, odstawi je do urzędu gminnego, natenczas obowiązkiem tego urzędu jest o każdej porze dnia i nocy towary te lub przedmioty przyjąć w przechowanie i stwierdzić tę okoliczność w protokóle sporządzenym przez skarbowy organ wykonawczy. W razie jeżeli urząd gminny odmówi stwierdzenia zajęcia i wzięcia w przechowanie towarów zakwestjonowanych przez organ wykonawczy, lub też nie przyjmie poświadczenia, o którem mowa w powyższym artykule ustawy, względnie jeżeli odmówi czynnej pomocy, o którą zwróci się do niego skarbowy organ wykonawczy w wypadku przewidzianym w art. 8 ustawy, natenczas władze przełożone organu wykonawczego obowiązane są bezzwłocznie odnieść się do właściwej władzy administracyjnej instancji o pociągnięcie winnych do odpowiedzialności. Skarbowy organ wykonawczy mimo tych przeszkód dokonać winien czynności urzędowej. Ń",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Organ policji państwowej obowiązany jest na wezwanie skarbowego organu wykonawczego udzielić mu asystencji przy dokonaniu rewizji w wy: padkach przewidzianych w art. 4 lit. b) i c) ustawy, a sporządzony z odbytej rewizji lub innej czynności protokół podpisać i przyjąć do dalszego urzędowa: nią odpis protokółu doręczony mu pitzez skarbowy organ wykonawczy, który rewizji dokonał.",
+   "children": [
+    {
+     "type": "text",
+     "text": "8 10 (do art. 4 p. c) i art. 5 ustawy). Jeżeli policja państwowa zamierza przeprowadzać dochodzenia co do przestępstw pospolitych, przy których zachodzi możliwość wykrycia przestępstwa skarbowego (cełnego), natenczas obowiązana jest zawiadomić o tem najbliższy urząd skarbowy (celny), względnie urzędnika skarbowego (organ. straży cel-"
+    },
+    {
+     "type": "lit",
+     "num": "nej",
+     "path": "par_9/lit_nej",
+     "text": "celem współdziałania, wyjąwszy, jeśli spowodowana tem zwłoka groziłaby udaremnieniem dochodzeń. Kierownictwo dochodzeń należy wówczas do organu policji państwowej, a obowiązkiem urzędnika skarbowego jest stosować się do wskazówek tego, to dgchodzeniami kieruje. W razie, jeżeli przy tych dochodzeniach znaleziono towary i rzeczy, co do których zachodzi podejrzenie, iż posłużyły do popełnienia przestępstwa skarbowego — i jeżeli zostaną one zajęte przez organ policji państwowej, jaka dowody rzeczowe — natenczas organ ten winien odpis odnośnego protokółu zajęcia udzielić urzędnikowi skarbowemu, który kieruje go wraz. ze stosewnym doniesieniem do właściwego urzędu skarbowego (celnego). O ile rzeczy tych organ policji państwowej nie zajmie, wówczas urzędnik skarbowy winien je zająć i postąpić przy dokonaniu tej czynności wedle $§ 518 niniejszego rozporządzenia, w każdym razie zaś ustalić jakość i ilość tych przedmiotów w sposób potrzebny do wdrożenia dochodzenia karno-sądowego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "W wypadkach przewidzianych w art. 4 lit. c) ustawy mają organa wykonawcze, korzystając z ogólnych uprawnień, przysługujących władzom bezpieczeństwa publicznego przy ściganiu przestępstw przewidzianych w ogólnej ustawie karnej, o ile przed-"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "miotem dochodzenia są przestępstwa ścigane w drodze sądowej, a popełnione w związku z przestępstwami skarbowemi, stosować ogólne przepisy ustawy o postępowaniu karnem. Przy współdziałaniu z policją państwową organa skarbowe stosują się do jej wskazówek. Władze sądowe należy zawiadamiać za pośrednictwem policji państwowej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Organa policji państwowej nie stosujące się do zarządzeń $§ 9 i 10 lub też odmawiające pomocy urzędnikom skarbowym w wypadkach określonych w art. 8 ustawy, podlegają niezależnie od odpowiedzialności dyscyplinarnej w miarę okoliczności odpowiedziałności karno-sądowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Jeżeli straż celna przy sposobności wykonywania swych właściwych obowiązków służbowych wykryje czyny karygodne przewidziane w przepisach o podatkach spożywczych i monopolach państwowych (§ 1 L.3 it. b), natenczas obowiązana jest zawiadomić o tem najbliższy urząd skarbowy akcyz i monopoli państwowych, względnie właściwego urzędnika kontroli skarbowej celem współdziałania, wyjąwszy, jeśliby zwłoka groziła udaremnieniem dochodzeń. W tym ostanim wypadku organ straży celnej wstępuje w uprawnienia i obowiązki urzędników kontroli skarbowej unormowane niniejszem rozporządzeniem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Protokóły tymczasowego zajęcia i wzięcia w przechowanie (art. 4 lit. a) ustawy) i protokóły rewizji pomieszczeń (art. 4 lit. b) ustawy) należy sporządzać na drukach wedle wzorów zamieszczonych w załączniku 1 i 2. Formularze protokółów są zbroszurowane w formie zeszytu; każdy zeszyt jest formatu arkuszowego, zawiera 30 protokółów i w ten sposób ułożony, że nadaje się do kopjowania. Każdy protokół oznaczony jest numerem bieżącym od 1—30. Protokóły opatrzone samemi numerami (bez liter) są wygotowaniami pierwszemi (oryginałami), następne zaś opatrzone numerami i literami (a i b) odpisami. Pierwsze wygotowania (oryginały) przesyła skarbowy organ wykonawczy wraz z przepisanym sprotokółem karnym i z krótkiem doniesieniem drogą służbową do właściwego urzędu skarbowego (celne-",
+   "children": [
+    {
+     "type": "lit",
+     "num": "go",
+     "path": "par_13/lit_go",
+     "text": "do dalszego urzędowania, a odpis opatrzony tym samym numerem bieżącym i literą a) wręcza posiadaczowi towarów lub przedmiotów, zajętych i wziętych w przechowanie względnie posiadaczowi pomieszczenia, w którem przeprowadzono rewizję. Jeżeli rewizja nie wydała rezultatu, należy zawsze wyraźnie zaznaczyć to w odnośnej rubryce protokółu. Drugi odpis protokółu oznaczony numerem i lit. b) pozostawia się w urzędzie, który przyjął zajęte towary. lub przedmioty w przechowanie, względnie w wypadku rewizji pomieszczeń doręcza się bezzwłocznie miejscowej policji państwowej. Zeszyty obydwóch powyższych rodzajów protokółów dostarczają władze Il instancji urzędom skarbowym (władzom celnym), a te inspektorom kontroli skarbowej (straży celnej), którzy numerują je i stwierdzają własnym podpisem, oraz odciskiem pieczęci urzędowej ilość zawartych w zeszytach protokółów. Inspektorowie kontroli skarbowej względnie inspektorowie straży celnej przesyłają je podwładriym urzędnikom (eksponowanym), a w szczególności kierownikom oddziałów kontroli skarbowej 'i komendantom placówki straży celnej za potwierdzeniem odbioru. Kierownik oddziału kontroli skarbowej względnie komendant placówki straży celnej wyznacza numery zeszytów poszczególnym urzędnikom, którzy stwierdzają w odnośnym zapisku odbiór zeszytów własnoręcznym podpisem; urzędnikom eksponowanym, oraz kierownikom oddziałów kontroli skarbowej wyznacza numery zeszytów protokółów inspektor kontroli skarbowej, który dla swego użytku służbowego zatrzymuje również jeden zeszyt, a numer jego podaje do wiadomości właściwemu urzędowi skarbowemu akcyz i monopolów. Inspektorowie straży celnej postępują analogicznie jak inspektorowie kontroli skarbowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Każdy urzędnik skarbowy otrzymawszy zeszyt protokółów, jest odpowiedzialny służbowo (tytuł drugi rozdział V ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej— Dz. U. R. P. Ne 21,'poz. 164) za prawidłowe użycie protokółu. W razie niezawinionego (przypadkowego) zniszczenia lub uszkodzenia całego zeszytu lub poszczególnych formularzy protokółów należy je wraz z usprawiedliwieniem zniszczenia lub uszkodzenia przesłać w drodze służbowej właściwej władzy przełożonej. Urzędnik skarbowy, przeniesiony do innego rejonu służbowego, obowiązany jest zeszyt protokółu niezużyty zwrócić drogą służbową władzy przełożonej, która stwierdza ilość prawidłowo zużytych protokółów, a zeszyt z pozostałemi protokółami przydziela innemu urzędnikowi skarbowemu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Co do: sposobu postępowania urzędników skarbowych przy wykonywaniu czynności urzędowych, oraz przy ściganiu przestępców na gruntach lub pomieszczeniach, służących dla celów wojskowych, względnie przy wykonywaniu 'czynności urzędowych w pomieszczeniach należących do cywilnych władz państwowych, należy się stosować do przepisów art. 6 i 7 ustawy o uprawnieniach organów wykonawczych władz skarbowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Z chwilą 'wejścia w życie niniejszego rozporządzenia tracą moc obowiązującą postanowienia dotychczasowych przepisów sprzeczne z postanowieniami niniejszego rozporządzenia,",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: W. Grabski"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Spraw Wewnętrznych: W. Raczkiewicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: A. Życbliński"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Załączniki: do rozp. Min. Skarbu Izba Skarbowa w ———_______ . ą P Dyrekcja Ceł w. (Potrójnie). . z dn. 24 czerwca 1925 r. (poz. 576). Urząd skarbowy w———___________ Wzór Na 1 Urząd Celny W wan (do § 13). Insp. Kontr. skarb. w Insp. Straży celnej w-"
+  },
+  {
+   "type": "text",
+   "text": "PROTOKÓŁ WM 1 (t-a, 1-b)"
+  },
+  {
+   "type": "text",
+   "text": "tymczasowego. zajęcia i wzięcia w przechowanie."
+  },
+  {
+   "type": "text",
+   "text": "SPORY Wo gs UA scccracenencnerncnecacrianceecnmenusns oy) eee przez *) w obecności Powód zajęcia **)"
+  },
+  {
+   "type": "text",
+   "text": "Z powodu koniecznej potrzeby przeprowadzono osobistą rewizję Z EE EZ z-następującym WYTTKIEM eee anwad aan a a"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "Po stwierdzeniu tożsamości osoby posiadacza przedmiotów zajętych wręczono mu odpis niniejszego protokółu, co tenże własnym podpisem stwierdza .................-...--eemmmmemmeemeemeaenenanm AMA mowa - roku. Podpis posiadacza",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "Ponieważ posiadacz przedmiotów nieobecny Gnesńj —— \"\" łęg protokółu złożono w urzędzie gminnym Wana ANIA... a ee BOKU ee 2 L. S. Odpis odpisu protokółu stwierdza naczelnik gminy cen Urząd skarbowy, celny, gminny °°\") Wu oswoić stwierdza wzięcie w pie \"chowanie wyżej wymienionych przedmiotów. sedate ae pce ts ANIA awk TOKU LS Podpis urzędnika Podpis naczelnika urzędu lub tegoż zastępcy",
+   "children": [
+    {
+     "type": "text",
+     "text": "*) Wymienić imię, nazwisko i charakter służbowy urzędnika kontroli skarbowej. **) Wymienić przestępstwo skarbowe, z popełnieniem którego przedmiot GIER pozostaje w związku. ***) Niepotrzebne wyrazy skreślić."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Izba Skarbowa w NL,"
+    },
+    {
+     "type": "text",
+     "text": "Wzór Ne 2 Dyrekcja Ceł ws (Potrójnie). (do § 13). Urząd skarbowy w... UA G8I0Y W cote Insp. Kontr. skarb. w................e.m.-eu-e... m Insp. Straży celnej We ecsesecsssssissssencscneseme PROTOKÓŁ"
+    },
+    {
+     "type": "text",
+     "text": "Ne 1 (t-a, 1-b) rewizji POZ ai spisany —______ dni -uae aan EEE - roku w Po okazaniu posiadaczowi pomieszczenia zarządzenia. KSEEEEENEEEAA — Z dnia. wwa uprawniającego do przeprowadzenia rewizji i po pouczeniu go o następstwach karnych w razie udaremnienia rewizji przystąpiono do przeprowadzenia rewizji w obecności: posiadacza pomieszczenia — organu władzy bezpieczeństwa publicznego"
+    },
+    {
+     "type": "text",
+     "text": "NN |||..."
+    },
+    {
+     "type": "text",
+     "text": "świadka ...........num nama"
+    },
+    {
+     "type": "text",
+     "text": "———"
+    },
+    {
+     "type": "text",
+     "text": "\"Ponieważ zachodzi podejrzenie, że znalezione w czasie rewizji-———.—_-______ pozostają w związku z popełnieniem przestępstwa skarbowego, przeto zajęto je (i wzięto w przechowanie), sporządzając,na tę okoliczność protokół zajęcia Ne... Po odczytaniu i po przedłożeniu obecnym (w razie odmowy podpisu, wymienić przyczynę) organ władzy bezpieczeństwa publicznego ............_........—-."
+    },
+    {
+     "type": "text",
+     "text": "do przejrzenia, podpisano: Posada pomieszczenia"
+    },
+    {
+     "type": "text",
+     "text": "Świadek— EE na a i np LJ urzędnik kontroli skarbowej (straży celnej).... Odpis niniejszego protokółu otrzymano:"
+    },
+    {
+     "type": "text",
+     "text": "SS reper SP SP P98 00 a r az AA"
+    },
+    {
+     "type": "text",
+     "text": "dnia roku."
+    },
+    {
+     "type": "text",
+     "text": "Podpis posiadacza pomieszczenia"
+    },
+    {
+     "type": "text",
+     "text": "Podpis organu miejscowej policji państwowej"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

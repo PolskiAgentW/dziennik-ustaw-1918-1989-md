@@ -1,0 +1,778 @@
+{
+ "eli": "DU/1928/323",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 16 marca 1928 r. o umowie o pracę pracowników umysłowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1928/323/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Prezydenta Rzeczypospolitej"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 marca 1928 r."
+  },
+  {
+   "type": "text",
+   "text": "o umowie o pracę pracowników umysłowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 44 ust. 6 Konstytucji i ustawy z dnia 2 sierpnia 1926 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 78, poz. 443) postanawiam co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "I. Postanowienia ogólne,"
+  },
+  {
+   "type": "text",
+   "text": "Art. 11 Wszelkie postanowienia umów indywidualnych, regulujące stosunek pracy mniej korzystnie dla pracowników umysłowych, aniżeli to czyni rozporządzenie niniejsze, są nieważne, a w miejsce ich obowiązują właściwe postanowienia rozporządzenia niniejszego."
+  },
+  {
+   "type": "text",
+   "text": "Il. Zakres działania,"
+  },
+  {
+   "type": "text",
+   "text": "Art. 2, Za pracowników umysłowych w rozumieniu rozporządzenia niniejszego: uważa się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "osoby spełniające czynności „administracyjne i nadzorcze, jako to: zarządców i kierowników wszelkich przedsiębiorstw i zakładów gospodarstw \"rolnych i leśnych lub połączonych z niemi przedsiębiorstw, inżynierów, techników, konstruktorów, sztygarów, kontrolerów, oficjalistów rolnych i leśnych, majstrów, którzy kierują technicznie pracą w zakładzie pracy lub jego oddziałach i są za całość tej pracy odpowiedzialni, oraz następujące kategorje dozorców górniczych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "wszystkich dozorców z ukończonem średniem wykształceniem zawodowem, posiadających charakter sztygarów lub ich zastępców,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "dozorców pól śórniczych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "dozorców materjałów wybuchowych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_1/lit_d",
+     "text": "wszystkich tych dozorców kopalnianych, których czynności przekraczają miarę zwykłego dozoru i polegają na wykonywaniu kontroli i nadzoru nad podwładnymi im robotnikami z prawem rozporządzania tymi robotnikami i z odpowiedzialnością za wykonywane przez nich prace, ewentualnie, którzy wykonywują prócz zwykłej czynności dodatkowe prace piśmienne;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "osoby uprawiające sztuki wyzwolone bez względu na wartość artystyczną produkcyj (malarze, rzeźbiarze, śpiewacy, muzycy i t. p.);",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "artystyczny personel teatrów, orkiestr, wytywórni filmowych, stacyj nadawczych radjowych oraz doradców literackich i muzycznych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "dziennikarzy;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "personel lekarski, dentystyczny, weterynaryjny oraz wykwalifikowany pomocniczy personel lekarski, dentystyczny i weterynaryjny;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "osoby spełniające czynności biurowe i kanę celaryjne oraz czynności rachunkowe, rysunkowe i kalkulacyjne;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "telefonistéw i telegrafistéw;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "farmaceutów, drogistów, kasjerów, dysponentów, sprzedawców podróżujących, akwizytorów;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "sprzedawców i ekspedjentów sklepowych i księgarskich, o ile ukończyli 6 klas szkoły średniej ogólnokształcącej państwowej lub prywatnej z prawami szkół państwowych, albo szkołę średnią zawodową, albo o ile ukończyli zawodową szkołę dokształcającą i odbyli praktykę, której warunki",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "„określi w tym celu rozporządzenie Ministra Pracy i Opieki Społecznej, wydane w porozumieniu z Ministrem Przemysłu i Handlu oraz Ministrem Wyznań Religijnych i Oświecenia Publicznego. Warunki zaliczenia do pracowników umysłowych w rozumieniu rozporządzenia niniejszego tych sprzedawców i ekspedjentów sklepowych i księgarskich, którzy w chwili wejścia w życie rozporządzenia niniejszego pełnili te obowiązki, a nie posiadają określonego wyżej wykształcenia, oraz sprzedawców i ekspedjentów, którzy są lub będą zatrudnieni w powiatach i miastach wydzielonych z powiatów, gdzie nie istnieją lub istnieją w niedostatecznej liczbie szkoły doksztaicające, określi rozporządzenie Ministra Pracy i Opieki Społecznej, wydane w porozumieniu z Ministrem Przemysłu i Handlu oraz Ministrem Wyznań Religijnych i Oświecenia Publicznego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Za pracowników umysłowych w rozumieniu rozporządzenia niniejszego będą uważani ci sprzedawcy i ekspedjenci sklepowi i księgarscy, którzy do dnia 31 grudnia 1928 r. lub do chwili wejścia w życie wyżej wspomnianego rozporządzenia wykonawczego, o ile to wcześniej nastąpi, korzystali ze świadczeń i uprawnień, przysługujących na mocy przepisów ustawowych pracownikom umysłowym,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 3, Minister Pracy i Opieki Społecznej w porozumieniu z Ministrem Przemysłu i Handlu względnie z innymi zainteresowanymi ministrami może po zasięgnięciu opinji organizacyj pracodawców i pracowników rozciągnąć w drodze rozporzą dzenia działanie niniejszych przepisów na inne kategorje pracowników, niewyszczegélnionych w art. 2 rozporządzenia niniejszego, a których czynności uzasadniają zaliczenie ich do pracowników umysłowych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 4, Rozporządzenie niniejsze nie dotyczy:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) uczniów i praktykantéw;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) osób, zatrudnionych na statkach morskich;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) osób, zatrudnionych w urzędach i. instytucjach państwowych lub samorządowych, których stosunek pracy jest unormowany specjalnemi przepisami ustawowemi lub rozporządzeniami, wydanemi w wykonaniu ustaw.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Ill, Zawarcie umowy o pracę,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 55 Umowę o pracę zawiera się:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) na okres próbny;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) na okres wykonania określonej roboty;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) na czas określony;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) na czas nieokreślony,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 66 Pracownik umysłowy ma prawo żądać od pracodawcy pisemnego potwierdzenia zawartej umowy 0 pracę, zawierająceśo wyszczególnienie istotnych warunków umowy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 7. Okres próbny nie może przekraczać trzech miesięcy, licząc od chwili przystąpienia do pracy. Okres ten wlicza się do czasu, przepracowanego w zakładzie pracy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Nr. 35,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "IV, Prawa i obowiązki stron,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "11. W ogólności",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 8, O ile nie umówiono się wyraźnie o ro» dzaj i zakres obowiązków lub o wynagrodzenie, należy w tym względzie stosować zawartą dla danego obszaru umowę zbiorową lub też zwyczaj miejscowy, przyjęty w danej gałęzi pracy. W braku takiego zwyczaju żądać można takich usług i takiego wynagrodzenia, jakie w danych okolicznościach przedsta wiają się jako odpowiednie,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2 Zakaz konkurencji.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art 9, Pracownikom nie wolno bez zezwolenia pracodawcy prowadzić własnego przedsiębiorstwa. Nie wolno im również bez zezwolenia pracodawcy dokonywać tranzakcyj, czy na własny, czy na cudzy rachunek, wchodzących w zakres tego przedsiębiorstwa, w którem pracownik jest zatrudniony.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 10. Umowa, która ogranicza pracownika w jego zarobkowaniu na pewien czas po rozwiązaniu stosunku pracy (klauzula konkurencyjna), może być zawarta ważnie tylko z pracownikiem pełnoletnim. Do ważności jej wymaga się nadto, aby zawarta została na piśmie i aby pracodawca zobowiązał się w niej do wypłacania pracownikowi przez czas trwania ograniczenia tytułem odszkodowania co najmniej połowy: wynagrodzenia, pobieranego przeciętnie w ostatnich trzech latach, a jeżeli stosunek pracy trwał krócej, — połowy wynagrodzenia, pobieranego przeciętnie w ciągu całego okresu trwania stosunku pracy. Umową powyższa obowiązuje tylko co do zarobkowania w tej gałęzi pracy, w której pracownik był zatrudniony, i co najwyżej na przeciąg jednego roku, Umowa powyższa traci moc prawną, jeżeli sto« sunek pracy został rozwiązany na podstawie art, 31 z winy pracodawcy, lub jeżeli ostatnie wynagrodzenie pieniężne pracownika nie przekraczało sumy sześciu tysięcy złotych w stosunku rocznym.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 11. Odszkodowanie, wymienione w ust. i art. 10, winno być wypłacane najpóźniej w końcu każdego miesiąca kalendarzowego. W razie wydalenia pracownika na podstawie art. 32 z jego winy, tenże traci prawo do odszkodo« wania, przewidzianego w art. 10.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3, Wynagrodzenie,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 12, Jeżeli według umowy lub zwyczaju pracownikowi należy się oprócz stałego wynagrodzenia gratyfikacja (świąteczne, 'bilansowe i t. p.), a wynagrodzenie przypada mu tylko za pewną część roku, w takim razie należy mu się również stosun« kowa część gratyfikacji. i Jeżeli wynagrodzenie składa się w całości lub w części z udziału w czystym zysku (tantjema), a stosunek pracy trwał tylko przez pewną część roku, pracownikowi należy się stosunkowy udział w tantjemie,",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Art. 13, Pracodawca powinien dokonywać wypłaty wynagrodzenia nieniężnego w gotówce.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 14, Pracodawca obowiązany jest prowadzić wykaz płacy i przechowywać go przez okres pięcioletni, Minister Pracy i Opieki Społecznej w porozumieniu z zainteresowanymi ministrami ustali w drodze rozporządzenia wzory wykazów płacy dla poszczególnych kategoryj zakładów pracy. Wykazy płacy winny być okazywane na każde żądanie organom inspekcji pracy i innym osobom urzędowym, upoważnionym do tego przez obowiązujące ustawy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 15. Wypłata należącego się pracownikowi wynagrodzenia stałego odbywać się winna najpóźniej w końcu każdego miesiąca kalendarzowego. W razie zawinionej niewypłaty w terminie pracodawca obowiązany jest do opłacania procentów zwłoki w wysokości od 2 do 3% miesięcznie — począwszy od dnia zwłoki.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 16. Pracodawca obowiązany jest na żądanie pracownika, którego wynagrodzenie w myśl umowy o pracę składa się częściowo lub całkowicie z udziału w zyskach lub procentów od obrotu, produkcji lub oszczędności, przedłożyć mu przy obrachunku odpis bilansu, względnie wykaz pisemny obrotu, produkcji lub oszczędności, na których podstawie oblicza się wynagrodzenie, Doroczny obrachunek i wypłata przypadającego z tego tytułu wynagrodzenia powinna nastąpić najpóźniej w cztery miesiące po upływie roku operacyjnego, a w przedsiębiorstwach, rządzących się własńemi statutami, najpóźniej w jeden miesiąc po zatwierdzeniu bilansu przez czynniki do tego powołane, Postanowienie art. 15, dotyczące opłacania procentów zwłoki, ma tu odpowiednie zastosowanie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 17. Obrachunek i wypłata prowizji winny następować najpóźniej w końcu każdego kwartału kalendarzowego, w razie zaś gdy stosunek pracy kończy się przed upływem danego kwartału,—przy wystąpieniu z pracy, Pracodawca winien na żądanie pracownika udzielić mu wyciąg z ksiąg co do tranzakcyj, od których przypada prowizja. Postanowienie art. 15, dotyczące opłacania procentów zwłoki, ma tu również odpowiednie zastosowanie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 18. Pracownikowi nie wolno bez zezwolenia pracodawcy przyjmować żadnego wynagrodzenia od osób trzecich z tytułu pełnionych przez niego cbowiązków.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 19, W razie niemożności pełnienia przez pracownika obowiązków wskutek choroby lub nieszczęśliwego wypadku, jeżeli one nie zostały wywołane rozmyślnie, wskutek powołania go do ćwiczeń wojskowych rezerwy lub do pełnienia obowiązków sędziego przysiegiego albo ławnika sądu pracy, albo też wskutek wykluczenia go od zajęć przez władzę sanitarną dla zapobieżenia rozwleczeniu choroby zaraźliwej, — pracownik zachowuje przez okres trzechmiesięczny prawo do wynagrodzenia w całości, chyba że w ciągu tych trzech miesięcy umowa o pracę ulegnie rozwiązaniu wskutek upływu czasu, wskutek ukończenia okresu wykonania określonej roboty, na który umowę zawarto, lub wskutek wypowiedzenia, dokonanego przed zaistnieniem jednej z przyczyn wyżej wymienionych. Pracodawca może z wynagrodzenia strącać kwoty, jakie pracownik otrzyma ze Skarbu Państwa w czasie ćwiczeń wojskowych, pełnienia obowiązków sędziego przysięgłego lub ławnika sądu pracy, albo też wykluczenia go od zajęć przez władze sanitarne. W razie choroby lub nieszczęśliwego wypadku pracodawca może z wynagrodzenia strącać te kwoty, jakie pracownik otrzyma w gotówce z tyłu« łu ubezpieczenia prawno - publicznego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 20, Pracownik zatrzymuje również prawo do wynagrodzenia w razie niemożności pełnienia obowiązków z ważnej przyczyny przez krótki okres",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "czasu,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 21, Z wynagrodzenia pracownika wolno potrącać tylko następujące należności:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) bieżące i zaległe daniny i opłaty publiczne w granicach ustawowego upoważnienia pracodawcy do ich potrącania;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) sumy egzekwowane na mocy tytułów wykonawczych lub egzekucyjnych;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) zaliczki pieniężne, udzielone pracownikowi na poczet wynagrodzenia;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) kary umowne, nałożone przez pracodawcę na pracownika z powodu jego uchybienia warunkom",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "umowy o pracę. Potrąceń, wymienionych pod pp. 1 i 2 poprzedniego ustępu, wolno dokonywać przy każdorazowej wypłacie, a w szczególności: potrąceń, wymienionych pod p. 1, całkowicie i przed potrąceniami pod p. 2, — ostatnich zaś w granicach, ustanowionych przepisami ustawy z dnia 17 lutego 1922 r. o państwowej służbie cywilnej (Dz. U. R. P. Nr. 21, poz. 164). : Potrąceń zaliczek pieniężnych wolno dokonywać bez względu na potrącenia, wymienione w ust. 1 pod pp. 1i2, z tem atoli ograniczeniem, że potrącenia pod pp. 1, 2 i 3 nie mogą łącznie przewyższać połowy wynagrodzenia, przypadającego do wypłaty. Potrącenia kar, wymienionych pod p, 4, wolno dokonywać przy wypłacie bez względu na potrącenia, wymienione w ust, 1 pod pp. 1, 2 i 3, z tem ograniczeniem, że potrącenie to nie może przekraczać 10% wynagrodzenia pieniężnego, przypadającego do wypłaty po dokonaniu potrąceń pod pp. 1, 2i3.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": ". Art, 22, Zastaw na prawie do wynagrodzenia nie może go obciążać w większej mierze, aniżeli dopuszczalne jest potrącenie dla należności, wymienionych w p. 2 ust. 1 art. 21. Prawo pracownika do wynagrodzenia nie może być odstąpione osobie innej,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 23. W razie ogłoszenia upadłości pracodawcy, wszelkie należności pracowników, oparte na przepisach rozporządzenia niniejszego, korzystają na obczarze województw: białostockiego, kieleckiego,",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "lubelskiego, łódzkiego, nowogródzkiego, poleskiego, warszawskiego, wileńskiego i wołyńskiego oraz m. st. Warszawy z pierwszeństwa zaspokojenia w rozmiarze przysługującym należnościom z tytułu zasług (art. 9 p. 4 prawa o przywilejach i hipotekach z roku 1825), a na pozostałym obszarze Państwa z pierwszeństwa według obowiązujących tam przepisów o zaspokojeniu należności służbowych w upadłości (§ 51 p. 2 austr, ord. upadł. oraz § 61 p. 1 niem. ord. upadł.).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4, Świadectwa.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 24. Pracodawca winien na żądanie pracownika zwrócić mu natychmiast. wszystkie świadectwa, 'znajdujące się u- pracodawcy w przechowaniu. Pracodawca obowiązany jest na żądanie pracownika wydać mu niezwłocznie, a w każdym razie nie później niż w ciągu miesiąca od daty żądania, świadectwo co do czasu trwania pracy i rodzaju zatrudnienia pracownika. . Pracodawcy nie wolno umieszczać w świadectwie żadnych znaków ani uwag, mogących utrudnić pracownikowi uzyskanie nowego stanowiska.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "V. Rozwiązanie umowy o pracę,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 25. Umowa o pracę rozwiązuje się:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) w okresie próbnym pierwszego lub szesnastego.dnia miesiąca kalendarzowego, po uprzedniem dwutygodniowem wypowiedzeniu;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) po ukończeniu roboty, dla której wykonania umowa była zawarta;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) po upływie czasu, na który była zawarta;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) po upływie trzech miesięcy od wypowiedzenia umowy przez jedną ze stron, jeżeli umowę tę zawarto na czas nieokreślony. Okres wypowiedzenia wynosić ma całkowite trzy miesiące kalendarzowe i kończyć się musi zawsze ostatniego dnia miesiąca kalendarzowego. Wypowiedzenie nastąpić winno najpóźniej w. ostatnim dniu . miesiąca kalendarzowego, poprzedzającego okres wypowiedzenia;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5) w razie' wcielenia pracownika, jako. poborowego do służby czynnej w wojsku stałem; .",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "6) na mocy wzajemnego porozumienia stron;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "7) w razie śmierci pracownika.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 26. W razie przedłużenia umowy bez oznaczenia czasu trwania, stosunek pracy rozwiązuje się w myśl p. 4 art. 25.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 27. Umowa o pracę, zawarta w gospodarstwie rolnem lub leśnem, albo w związanem z niemi przedsiębiorstwie przynajmniej na okres roczny, przedłuża się na rok następny, jeżeli na trzy miesiące przed jej upływem nie nastąpi wypowiedzenie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 28, Pracodawca, który w okresie wypowiedzenia umowy o pracę pracownikowi umysłowerau cofnął to wypowiedzenie, może:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) wypowiedzieć ponownie umowę o pracę dopiero po upływie tego okresu wypowiedzenia;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) rozwiązać natychmiast stosunek pracy przed upływem okresu cofniętego wypowiedzenia, lecz z warunkiem niezwłocznej wypłaty wynagrodzenia za okres wypowiedzenia, przewidziany. w art. 25 rozporządzenia niniejszego. Po upływie okresu wypowiedzenia umowy na czas nieokreślony zawarcie z tymże pracownikiem trzech bezpośrednio po sobie następujących umów o pracę na czas określony, z których żadna nie przekracza terminu 3 miesięcy, równoznaczne jest z zawarciem umowy na czas nieokreślońy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 29. Wypowiedzenie przez pracodawcę umowy o pracę nie może nastąpić podczas urlopu, choroby pracownika lub wykluczenia go od zajęć przez władzę sanitarną, o ile choroba lub wykluczenie od zajęć nie trwa dłużej niż trzy miesiące, oraz podczas odbywania ćwiczeń wojskowych i pełnienia obowiązków sędziego przysięgłego lub ławnika sądu pracy. Jeżeli pracownik zachoruje, zostanie wykluczony od zajęć, powołany do ćwiczeń wojskowych lub do pełnienia obowiązków sędziego przysięgłego albo też ławnika sądu pracy, powinien zawiadomić o tem pracodawcę niezwłocznie pod rygorem utrącenia uprawnień z ust. 1 artykułu niniejszego wynikających. ,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 30. Po wypowiedzeniu umowy o pracę przez jedisą ze stron, pracownik powinien otrzymać na swoje żądanie stosowny czas w godzinach pracy w celu szukania nowej posady co najmniej w ilości trzech dni roboczych miesięcznie, a w gospodarstwach rolnych i leśnych oraz w związanych z niemi przesiebiorstwach — w ilości sześciu dni za cały okres wypowiedzenia. Ustalenie czasu wolnego na szukanie nowej posady nastąpi w drodze porozumienia pracownika z pracodawcą. W razie niedojścia do porozumienia decyduje obwodowy inspektor pracy, a do czasu tej decyzji pracownik ma prawo skorzystać z połowy czasu, przysługującego mu z mocy artykułu niniejszego, w terminie, pozostawionym jego uznaniu, ale za uprzedniem zawiadomieniem pracodawcy przynajmniej na dwa dni naprzód. W stosunku do pracowników linij komunikacyjno - powietrznych, wodnych, kolei żelaznych, do pracowników zakładów dobra publicznego i przedsiębiorstw użyteczności publicznej, jak wodociągi, gazownie, elektrownie i tramwaje, oraz w wypad-. kach, w których tego rodzaju przerwanie pracy mogłoby spowodować całkowite zatrzymanie biegu przedsiębiorstwa, przepisy ust. 2 artykułu niniejsze-. go, dotyczące poszukiwania pracy przed decyzją obwodowego inspektora pracy, nie mają zastosowania.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 31. Pracownikowi umysłowemu, służy prawo niezwłocznego rozwiązania umowy o pracę z ważnych przyczyn, a w szczególności:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) w razie śmierci lub wzięcia z poboru do wojska członka jego rodziny, jeżeli skutkiem tego na pracownika przechodzi obo-- wiązek prawny utrzymania tej rodziny;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) w razie stwierdzonego przez lekarza państwowego, samorządowego, kasy chorych",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "i",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "— = =",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "lub lekarza zakładu pracy, szkodliwego wpływu pracy w zakładzie pracy na zdrotą „wie pracownika; .. ©) w razie obrazy lub znieważenia pracownika przez pracodawcę, jak również w razie tolerowania przez pracodawcę takich czynów ze strony przełożonych pracownika;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) w razie niezachowania przez pracodawcę istotnych warunków umowy;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) w razie, jeżeli pracodawca lub przełożeni pracownika dopuszczają się przy prowadzeniu przedsiębiorstwa lub nakłaniają pracownika do czynów przeciwnych prawu lub dobrym obyczajom. W wypadkach, przewidzianych w p. c i e, w wypadkach, przewidzianych w p. d, o ile zachodzi zła wola lub niedbalstwo ze strony pracodawcy, tudzież w innych podobnych wypadkach — rozwiązanie umowy następuje z winy pracodawcy. Jeżeli niezwłoczne zaprzestanie pracy przez pracowników w przedsiębiorstwach, wymienionych w ustępie ostatnim art. 30, zagraża bezpieczeństwu lub prawidłowości ruchu w przedsiębiorstwie, ptacownicy ci, w razie rozwiązania umowy o pracę na podstawie przepisów artykułu niniejszego, mogą być zatrzymani w pracy przez pracodawcę, nie dłużej jednak niż na przeciąg trzech dni od daty powiadomienia go o rozwiązaniu umowy o pracę.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 32. Pracodawcy służy prawo niezwłocznego rozwiązania umowy z ważnych przyczyn, ą w szczególności:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a) w razie, jeżeli pracownik nadużywa zaułania pracodawcy, np. przyjmuje bez jego zgody prowizję lub inne wynagrodzenie od osób trzecich, lub jeżeli dopuszcza się rozmyślnego uszkodzenia majątku przedsiębiorstwa;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "b) w razie niestawienia się pracownika do pracy wskutek nieszczęśliwego wypadku lub choroby w ciągu więcej niż trzech miesięcy;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "c) w razie obrazy lub znieważenia pracodawcy, jego zastępców lub przełożonych przez pracownilza;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "d) w razie niezachowania przez pracownika istotnych warunków umowy o pracę;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "e) w razie prowadzenia przez pracownika bez zgody pracodawcy własnego przedsiębiorstwa, lub dokonywania tranzakcyj na własny lub cudzy rachunek, wchodzących w zakres tego przedsiębiorstwa, w którem pracownik jest zatrudniony;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "f) w razie zdrady przez pracownika tajemnicy technicznej lub handlowej przedsiębiorstwa; i $) w razie, jeżeli umowa o pracę została zawarta na zasadzie fałszywego lub sfałszowanego świadectwa;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "h) w razie utraty przez pracownika uprawnień koniecznych do zajmowania danego stanowiska.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "_ W wypadkach, przewidzianych w p. a, c, e, £, ś, w wypadkach, przewidzianych w p. d, o ile zachodzi zła wola lub niedbalstwo ze strony pracownika, tudzież w innych podobnych wypadkach — rozwiązanie umowy następuje z winy pracownika.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 33, W wypadkach siły wyższej, jak pożar, powódź i t. p., czyniących zupełnie niemożliwem zatrudnienie pracownika, pracodawca ma prawo w okresie czasu nie dłuższym, niż w przeciągu jednego miesiąca od chwili zajścia faktu siły wyższej, rozwiązać umowę bezzwłocznie. Zawiadomienie o rozwiązaniu umowy powinno być dokonane pisemnie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 34, W razie ogłoszenia upadłości pracodawcy umowa o pracę nie rozwiązuje się. W razie zwolnienia pracownika przez zarząd masy upadłościowej z powodu zamknięcia przedsiębiorstwa, pracownikowi należy się trzechmiesięczne wynagrodzenie od daty zamknięcia przedsiębiorstwa. Przepis ten nie narusza dalej idących praw pracownika z mocy umowy o pracę.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 35. Jeżeli majątek lub przedsiębiorstwo przejdzie w czasie trwania stosunku pracy w posiadanie innej osoby, stosunek pracy trwa nadal bez zmiany. Pracownik może jednak w ciągu miesiąca od daty zmiany posiadacza rozwiązać umowę o pracę z zachowaniem trzechmiesięcznego terminu wypowiedzenia, chociażby umowa była zawarta na czas określony,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 36. W wypadkach obrazy prawo do rozwiązania umowy gaśnie po upływie dwóch tygodni od chwili obrazy, względnie od chwili, kiedy obraza doszła do wiadomości strony, uważającej się za obra-",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "zona. zi W wypadkach rozwiązania umowy z powodu ważnej przyczyny, lub z winy strony przeciwnej, prawo rozwiązania umowy. gaśnie z upływem miesiąca od chwili, kiedy strona pragnąca umowę rozwiązać uzyskała wiadomość o istnieniu ważnej przyczyny lub winy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art 37, Pracodawca ma prawo niezwłocznie rozwiązać umowę w wypadku niestawienia się pracownika w terminie rozpoczęcia stosunku pracy, o ile w umowie terminowe rozpoczęcie tego stosunku zostało wyraźnie jako warunek zastrzeżone. W razie niezastrzeżenia w umowie powyższego warunku pracownik może tylko z ważnych powodów i co najwyżej przez dwa tygodnie nie stawić się do rozpoczęcia pracy,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 38. W razie rozwiązania umowy z winy pracodawcy lub wydalenia pracownika bez ważnej przyczyny, pracownik ma prawo tak długo zajmować mieszkanie służbowe, jak długo przysługiwałoby mu to mieszkanie, gdyby umowa została rozwiązana prawidłowo, Jeżeli pracownik użytkował grunta deputatowe, a rozwiązanie umowy z winy pracodawcy lub wydalenie pracownika bez ważnej przyczyny nastąpiło przed zbiorami, pracownik ma prawo do odszkodowania za zasiew, obrobienie i koszta ubezpieczenia, nie tracąc ewentualnych: dalszych roszczeń o odszkodowanie, jakie mu przysługują z mocy ogólnych przepisów prawa cywilnego.",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "; Art. 39, Jeżeli umowa była zawarta na czas nieokreślony, a nastąpiło rozwiązanie jej z winy pracodawcy lub wydalenie pracownika bez ważnej przyczyny, pracownikowi należy się pełne wynagrodzenie za miesiąc, w którym rozwiązanie lub wydalenie nastąpiło, i za następne trzy miesiące, o ile z umowy nie wynikają dla pracownika dalej idące uprawnienia. Jeżeli umowa była zawarta na czas określony, wówczas w wypadkach powyższych należy się pracownikowi wynagrodzenie za cały czas aż do wygaśnięcia umowy. Wynagrodzenie, przypadające w myśl ust. 1 i 2 artykułu niniejszego, jest płatne odrazu z procentem prawnym od daty u chybionego terminu, jednakowoż bez tantjemy oraz gratylikacji, co do których płatności obowiązują postanowienia ogólne,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 40. W razie rozwiązania umowy z winy pracownika lub wystąpienia jego przed czasem bez ważnej przyczyny, pracodawcy służy prawo do wynagrodzenia szkód i strat. :",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 41, Roszczenia pracownika, co do których przepis art. 39 postanawia natychmiastową płatność, przedawniają się w terminie sześciomiesięcznym.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 42, W razie rozwiązania umowy wskutek śmierci pracownika, pracodawca bez względu na ubezpieczenie emerytalne pracownika, powinien, jeżeli pracownik pracował co najmniej 10 lat w przedsiębiorstwie, wypłacić jego rodzinie, mającej ustawowe prawo do utrzymania i przez niego utrzymywanej, odprawę w wysokości ostatnio pobieranego 3-miesięczneśo wynagrodzenia. Jeżeli stosunek pracy trwał co najmniej 20 lat, odprawę stanowić będzie ostanio pobierane 6-miesięczne wynagrodzenie. Odprawa należy się w całości tylko wówczas, jeżeli zmarły pracownik pozostawił małżonka i zstępnego lub zstępnych. We wszystkich innych wypadkach odprawa wynosi połowę wyżej oznaczonej normy. Odprawa płatna jest po upływie miesiąca, licząc od dnia śmierci pracownika, w równych ratach miesięcznych. ;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "EY VI. Regulamin pracy. \"7 '",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 43. W zakładach pracy, zatrudniających pracowników, objętych rozporządzeniem niniejszem, może być wprowadzony regulamin pracy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 44, Regulamin pracy powinien zawierać:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) oznaczenie codzienneśo początku i końca",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "czasu pracy oraz przerw pracy;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) wykaz dni wolnych od pracy;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) termin wypłaty wynagrodzenia;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) przepisy porządkowe. Oprócz postanowień, zawartych w ustępie poprzednim, regulamin pracy może zawierać wyciągi z przepisów prawnych, dotyczących stosunku pracy. Dla poszczególnych oddziałów zakładów pracy lub dla poszczególnych kategoryj pracowników mogą być wydawane odrębne regulaminy,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Nr. 35,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 45, Proiekt nowego lub zmienionego regulaminu pracy powinien być przez pracodawcę przesłany obwodowemu inspektorowi pracy oraz podany do wiadomości tym pracownikom, do których się odnosi. Pracownicy mogą w ciągu tygodnia od dnia podania im do wiadomości przez pracodawcę projektu regulaminu zgłosić obwodowemu inspektorowi pracy uwagi dotyczące projektu. Obwodowy inspektor pracy może uwagi pracowników, uznane przez siebie za uzasadnione, za-+ proponować pracodawcy do uwzględnienia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "_ Art. 46, Inspektor pracy winien w ciągu miesiąca od daty otrzymania projektu regulaminu regu- ‘lamin ten zatwierdzić albo odrzucić, jeżeli jest on niezgodny z obowiązującemi przepisami prawa. Regulamin, którego inspektor pracy w powyższym terminie nie odrzuci, uważany będzie za zatwierdzony,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 47, Regulamin pracy powinien być wy» wieszony w lokalu zakładu pracy w miejscach widocznych dla wszystkich pracowników i utrzymywany zawsze w stanie czytelnym. Regulamin pracy w taki sposób wywieszony posiada dla pracowników i pracodawców moc obowiązująca, i",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "; Art. 48, Pracodawca obowiązany jest podawać nowowstępującym pracownikom regulamin pracy do wiadomości.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 49, W tych zakładach pracy, które nie posiadają regulaminu pracy, powinno być, z wyjątkiem gospodarstw rolnych i leśnych oraz związanych z niemi przedsiębiorstw, — wywieszone obwieszczenie zawierające następujące punkty:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) oznaczenie codziennego początku i końca czasu pracy oraz przerw w pracy;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) wykaz dni wolnych od pracy;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) terminy wypłaty wynagrodzenia, Pozatem obwieszczenie może zawierać wyciągi z przepisów prawnych, dotyczących stosunku pracy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 50, W razie stwierdzenia przez inspektora pracy niezgodności obwieszczenia wewnętrznego z obowiązującemi przepisami prawa, pracodawca obowiązany jest na żądanie inspektora pracy zastąpić to obwieszczenie w przeciągu trzech dni nowem, zgodnem z obowiązującemi przepisami prawa, .",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 51. Postanowienia przepisów, zawartych w art. 43 — 50, nie mają zastosowania do urzę: dów państwowych i samorządowych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "oj VIL Przepisy karne.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 52, Winni przekroczenia postanowień art. 21 ulegają karze grzywny od pięćdziesięciu złotych do tysiąca złotych, o ile czyn nie ulega karze = i w myśl postanowień innych ustaw kar< nych. Na wypadek niemożności ściąśnięeia grzywny należy ją zamienić na karę aresztu zastępczego, jednak nie ponad dwa tygodnie, Do orzekania powołane są sądy powiatowe (pokoju).",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Art. 53, Winni naruszenia obowiązków, wy- 324, nikających z postanowień art. 6, 13, 14 i 24 oraz z rozporządzeń na podstawie art. 14 wydanych, uieśają karze grzywny od dziesięciu złotych do pięciuset złotych. Grzywny na wypadek nieściągalności zamienić należy na karę aresztu zastępcześo na czas nie dłuższy, niż tydzień. ł",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 54, Do orzekania o czynach, przewidzia- * nych w art. 53, powołani są inspektorzy pracy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 55. Kierownicy zakładów pracy państwowych, samorządowych lub znajdujących się pod zarządem państwowym, winni przekroczeń, wymienionych w art. 53, podlegają karom w tymże artykule przewidzianym wyłącznie w drodże sądowej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "VIII.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Przepisy końcowe,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 56. Przepisy rozporządzenia niniejszego mają również zastosowanie do umów o pracę, obowiązujących w chwili wejścia w życie tych przepisów.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 57, Wykonanie rozporządzenia niniejsze- $o porucza się Ministrowi Pracy i Opieki Społecznej w porozumieniu z właściwymi ministrami, a w odniesieniu do postanowień karnych — w porozumieniu z Ministrem Sprawiedliwości.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 58, Rozporządzenie niniejsze wchodzi w życie na całym obszarze Rzeczypospolitej Polskiej z wyjątkiem województwa śląskiego w cztery miesiące po ogłoszeniu, na obszarze zaś województwa śląskiego w cztery miesiące po ogłoszeniu zgody Sejmu Śląskiego na rozporządzenie niniejsze. Na obszarze górnośląskiej części województwa śląskiego do czasu wprowadzenia inspekcji pracy obowiązki inspektora pracy, wynikające z przepisów rozporządzenia niniejszego, porucza się Komisarzowi Demobilizacyjnemu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 59, Z chwilą wejścia w życie rozporządzenia niniejszego tracą moc prawną przepisy sprzeczne z przepisami rozporządzenia niniejszego,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej: I. Mościcki Prezes Rady Ministrów i Minister Spraw Wojskowych: i J. Piłsudski Minister: K. Bartel",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Sławoj Składkowski Minister Spraw Zagranicznych: August Zaleski Minister Skarbu: G. Czechowicz",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Minister Sprawiedliwości: A. Meyszłowicz Minister Wyznań Religijnych i Oświecenia Publicznego: Dr. Dobrucki",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Minister Rolnictwa: K. Niezabytowski Minister Przemysłu i Handlu: E. Kwiatkowski Minister Komunikacji: Romocki Minister Robót Publicznych: Moraczewski Minister Pracy i Opieki Społecznej: Dr. Jurkiewicz Minister Reform Rolnych: Witold Staniewicz Minister Poczt i Telegrafów: Bogusław Miedziński",
+     "quoted": true
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

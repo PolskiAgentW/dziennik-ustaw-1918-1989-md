@@ -1,0 +1,834 @@
+{
+ "eli": "DU/1929/582",
+ "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 29 października 1929 r. wydane w porozumieniu z Ministrem Przemysłu i Handlu o dozorze nad wyrobem i obiegiem mąki i wyrobów mącznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1929/582/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 października 1929 r."
+  },
+  {
+   "type": "text",
+   "text": "wydane w porozumieniu z Ministrem Przemysłu i Handlu o dozorze nad wyrobem j obiegiem maki i wyrobów mącznych,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art, 8 pkt. a, b, c, d, e, § rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r, o dozorze nad artykułami żywności i przedmiotami użytku (Dz, U, R. P, Nr. 36, poz. 343) zarządza się co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział L",
+   "text": "Postanowienia ogólne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przepisom niniejszego rozporządzenia podlegają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "maka, przeznaczona do spożycia przez ludzi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wyroby mączne:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "pieczywo (chleb, bułki i t, p.); bj wyroby z ciasta (makarony i t, p.);",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "wyroby cukiernicze (ciasta, ciastka, paczki, pierniki i t. p.);",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "miejsca wyrobu, przechowywania, sprzedaży mąki i wyrobów mącznych oraz przewóz mąki i wyrobów mącznych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "handel uliczny pieczywem i wyrobami cukierniczemi;",
+     "children": [
+      {
+       "type": "text",
+       "text": "= —— ‘"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "naczynia i przyrządy, używane przy wyrobie i sprzedaży mąki i wyrobów mącznych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 2, (1) Pod nazwą „mąka rozumie się produkt, otrzymany z ziarn zbożowych przez zmielenie."
+      },
+      {
+       "type": "text",
+       "text": "(2) Pod nazwą „pieczywo rozumie się produkty, wytworzone z mąki z dodatkiem odpowiednich domieszek (woda, drożdże, zaczyny, sól, tłuszcze, jaja it. d.) i poddane procesowi pieczenia."
+      },
+      {
+       "type": "text",
+       "text": "(3) Pod nazwą „wyroby z ciasta” rozumie się produkty, wytworzone z mąki, z dodatkiem wody (względnie jaj i soli) i poddane procesowi suszenia."
+      },
+      {
+       "type": "text",
+       "text": "(4) Pod nazwą „wyroby cukiernicze” rozumie się produkty o smaku przeważnie słodkim, wytworzone z mąki, z dodatkiem, poza wyszczegśólnionemi w ustępie 2 materjałami, innych materjałów odpowiednio do rodzaju wyrobów (proszki do pieczenia, mleko, miód, mak, owoce, przyprawy korzenne i t..p.) i poddane procesowi pieczenia lub smażenia."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Pieczywo, wyroby z ciasta oraz wyroby cukiernicze powinny być sporządzone z materjałów nienagannych co do jakości, w szcześólności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "mąka, używana do tych celów, powinna być przed użyciem do wypieku dokładnie przesiana przez odpowiednie sita;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "woda do rozczyniania ciasła, do zwilżania pieczywa it. p. powinna być bezwzględnie czysta i odpowiadać warunkom, wymaganym dla dobrej wody do picia dla ludzi;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "drożdże, zaczyny powinny mieć własności prawidłowe; proszki do pieczenia nie mogą zawierać",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "substancyj, szkodliwych dla zdrowia (kwas szczawiowy, sole glinu, siarczany, nierozpuszczalne fosforany i t. p.);"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "sól powinna być gatunku, właściwego do spożycia dla ludzi; niedopuszczalna do tych celów jest sól tak zwana ,,bydleca” i wszelka skażona;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "masło, tłuszcze, barwniki powinny odpowiadać obowiązującym przepisom;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_3/pkt_6",
+     "text": "środki zapachowe oraz wszelkie inne domieszki powinny być całkowieie nieszkodliwe dla zdrowia i mieć własności prawidłowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "(1) Pieczywo powinno być dobrze wyrośnięte, dobrze wypieczone, pulchne, na przekroju porowate, bez zakalca, bez pustych przestrzeni pomiędzy skórką i ośrodkiem; pieczywo nie może zawierać ciał obcych, niewyrobionych części ciasta, nięroztartej soli, śrudek mąki.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Pieczywo wagi % kg. i więcej powinno być oznaczone nazwą, odpowiadającą rodzajowi mąki, z której zostało wytworzone, uwidocznioną na kartkach z firmą i adresem wytwórni, O ile pieczywo jest wypiekane z mieszanin mąki różnego rodzaju, powinno to być uwidocznione na tych kartkach. Kartki te należy umieszczać na bochenkach przed wstawieniem ciasta do pieca. Nalepianie kartek tych po wypieku jest wzbronione."
+    },
+    {
+     "type": "text",
+     "text": "(3) Chleb powinien być wypiekany w bochenkach wagi 1/2, 1, 2 kg. Ubytek na wadze wynosić może w chlebie świeżym najwyżej 3%, w czerstwym najwyżej 5%."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "(1) Wyroby z ciasta (makarony, kluski, zacierki i t p.) powinny być wytworzone z mąki pszennej. Wyroby tę nie mogą być zepsute, stęchłe, spleśniałe, kwaśne.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Wyroby z ciasta, oznaczone jako „jajeczne lub „na jajkach”, powinny zawierać co najmniej 45 sr. substancji jajecznej (1 jajko) na kilogram mąki."
+    },
+    {
+     "type": "text",
+     "text": "(3) Na skrzyniach i paczkach, zawierających wyroby z ciasta, oraz na opakowaniu tych wyrobów powinna być umieszczona nazwa wytwórni, jej adres oraz data wyprodukowania wyrobu."
+    },
+    {
+     "type": "text",
+     "text": "(4) O ile wyroby będą sztucznie zabarwione, należy obok tej nazwy umieścić wyraźny, rzucający się w oczy napis „barwione”,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Wyroby cukiernicze (ciasta, ciastka, paczki, pierniki, herbatniki i t. p.), których oznaczenie (np. strucla misdałowa, strucla makowa, piernik miodowy i t, p.) wskazuje, że w skład ich wchodzą czy to jaja, czy mleko, czy masło, czy miód lub t. 9., powinny w istocie zawierać materjały, oznaczone w nazwie, Przepisy § 5 ust, 1 zdanie drugie mają tu odpowiednie zastosowanie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Zabrania się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "wprowadzania w o bieś oraz używania do wyrobu pieczywa, wyrobów z ciasta i wyrobów cukierniczych mąki: zepsutej, gorzkiej, stęchłej, spleśniałej, kwaśnej, barwionej, słałszowanej lub z domieszkami niedopuszczalnemi, zanieczyszczonej pasorzytami, piaskiem, plewami, kąkolem i t. p., oraz",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "sporyszem;"
+    },
+    {
+     "type": "text",
+     "text": "Nr. 78."
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "dodawania do maki związków chemicznych:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_2/lit_a",
+       "text": "w celu poprawy złego wygladu lub podniesienia stopnia wypiekalności mąki, b) w celu zwiększenia wagi mąki;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "bielenia mąki z pomocą: kwasu siarkawego, kwasu azotawego, chloru; wprowadzanie w obieg 1 stosowanie do wyrobów mącznych mąki bielonej jest dopuszczalne jedynie przy stosowaniu metod bielenia, śwarantujących całkowicie nieszkodliwość tej mąki dla zdrowia, i pod warunkiem uwidocznienia sposobu bielenia maki na jęj opakowaniu;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_7/pkt_4",
+     "text": "posypywania desek i form do ciasta zmiotkami mącznemi oraz sproszkowanemi związkami chemicznemi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Zabrania się wprowadzania w o bieś:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "pieczywa zanieczyszczonego, z ośrodkiem lepkim, spieśniałym, ciągnącym się w nitki (obecność bacilli mesenterici);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "chleba z zawartością wilgoci powyżej 42% i wykazującego kwasowość powyżej 8\".",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 9, (1) Wszystkie pomieszczenia wytwórni pieczywa, wyrobów z ciasta i wyrobów cukierniczych powinny być utrzymywane w dokładnej czystości. W szczególności: ściany powinny być bielone lub malowane jasną farbą olejną. Podłogi powinny być myte codziennie po skończonej pracy; zamiatanie na sucho jest niedopuszczalne. Śmiecie, zmiotki mączne j inne odpadki powinny być codziennie usuwane."
+      },
+      {
+       "type": "text",
+       "text": "(2) We wszystkich pomieszczeniach powinny być spluwaczki wodne, codziennie opróżniane i myte. W izbie do rozczyniania ciasta powinna być umywalnia z wodą bieżącą, mydłę, ręcznik i szczotka do mycia rąk."
+      },
+      {
+       "type": "text",
+       "text": "(3) Wszystkie pomieszczenia powinny być dokładnie przewietrzane przynajmniej raz na dzień."
+      },
+      {
+       "type": "text",
+       "text": "(4) Lampy przy oświetleniu naitowem powinny być umieszczone tak, by nie powodowały zanieczyszczeń."
+      },
+      {
+       "type": "text",
+       "text": "(5) Lokal powinien być wolny od myszy, szezurów, robactwa it. p, W razie ich pojawienia się należy je wytępić szybko i radykalnie z zastosowaniem wszelkich ostrożności przy używaniu środków, szkodliwych dla zdrowia ludzkiego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "(1) Do czynności, związanych z wyrobem, pakowaniem, przewozem i sprzedażą mąki i wyrobów mącznych, nie mogą być dopuszczone osoby, dotknięte ostrą chorobą zakaźną lub gruźlicą w postaci niebezpiecznej dla otoczenia, chorobą skórną zaraźliwą lub wzbudzającą wstręt oraz osohy, stykające się z zakaźnie chorymi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) W razie wystąpienia choroby zakaźnej oraz stwierdzenia lub uzasadnionego podejrzenia o nosicielstwo zarazków u osób, zatrudnionych czynnościami przy mące i wyrobach mącznych, właściciel przedsiębiorstwa jest obowiązany usunąć te osoby od pełnienia powierzonych im czynności."
+    },
+    {
+     "type": "text",
+     "text": "(3) Pracownicy przed rozpoczęciem pracy powinni obmyć się pod natryskiem (§ 18 ust. b), względnie umyć ręce, oczyścić paznogcie i przebrać się w białe fartuchy, białe czapki i pantofle, a podczas pracy przestrzegać wzorowej czystości."
+    },
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Wytwórnie mąki oraz jej przewóz i sprzedaż."
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "(1) Pomieszczenia, w których odbywa się przemiał ziarna na make (młyny), powinny być utrzymywane w czystości, w szczególności zabezpieczone przed pasorzytami, molami mącznemi oraz przed szkodnikami, jak myszy, szczury.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Składy mąki powinny być suche, przewiewne, należycie przewietrzane, utrzymywane w czystości, wolne od pasorzytów, owadów oraz zwierząt, mogących make zanieczyścić lub zakazić. Wór.<i z mąką powinny być umieszczane na legarach (podstawach)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Mąka, przeznaczona do obiesu, powinna być ładowana do worków czystych, oczyszczonych w młynach, przewożona na wozach. ulrzymywanyc w czystości, i zabezpieczona w czasie transportu przed wilgocią. Worki powinny być opatrzone plombą i etykietą z napisem nazwy młyna, gatunku mąki oraz ustalonych typu względnie procentowości przemiału mąki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Zabrania się siadania i leżenia na workach z mąką oraz przewożenia na wozach z workami mąki osób chorych, zwierząt, szmat, odpadków i wszelkich materjałów, mogących mąkę zanieczyścić, zakazić lub nadać jej nienormalny zapach.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 14, W handlu detalicznym mąka powinna być umieszczona zdała od wszelkich artykułów żywności, wydzielających woń specyficzną (śledzie, sery i t. p.). Nabieranie mąki powinno odbywać się z pomocą specjalnych szuflii Torebki do mąki powinny być zrobione z papieru czystego; używanie do tego celu makulatury jest wzbronione."
+    },
+    {
+     "type": "text",
+     "text": "Rozdział 3,"
+    },
+    {
+     "type": "text",
+     "text": "Wytwórnie wyrobów mącznych,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "(1) Wytwórnie pieczywa (piekarnie) w osiedlach, mających na całym obszarze urządzenia wodociągowe i kanalizacyjne, mogą się mieścić tylko w lokalach, połączonych z siecią wodociągową i kanalizacyjną.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) W osiedlach, mających urządzenia wodociągowe i kanalizacyjne nie na całym obszarze, lub niemających tych urządzeń, wytwórnie te mogą się mieścić tylko w lokalach, zaopatrzonych w wodę, uznaną za zdatną do picia, i w miejscowe urządzenia do usuwania nieczystości."
+    },
+    {
+     "type": "text",
+     "text": "(3) Woda, używana do wyrobu pieczywa w wytwórniach nieskanalizowanych, musi być badana nie rzadziej, niż raz na rok."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "(1) Wytwórnie pieczywa nie mogą mieścić się w sutetenach. Wytwórnie, mieszczące się w lokalach skanalizowanych, muszą być położone w odległości co najmniej 5 metrów od stajen, obór, chlewów, śnojowisk, śmietników i ustępów osólnych; w lokalach nieskanalizowanych — w odległości co najmniej 10 metrów od tych miejsc.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) O ile na danej nieruchomości lokal, przegnaczony na wytwórnię pieczywa, przylega do ustępu, położonego na nieruchomości sąsiedniej, lokal teń powinien być izolowany z pomocą dodatkowej"
+    },
+    {
+     "type": "text",
+     "text": "1133"
+    },
+    {
+     "type": "text",
+     "text": "ściany izolacyjnej wewnętrznej, odległej od istniejącej ściany co najmniej na 30 cm,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "(1) Lokal wytwórni pieczywa powinien składać się z pomieszczeń na:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_17/lit_a",
+     "text": "rozczynianie ciasta,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_17/lit_b",
+     "text": "wypiek chleba (bułek),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_17/lit_c",
+     "text": "skład mąki,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_17/lit_d",
+     "text": "skład pieczywa,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_17/lit_e",
+     "text": "ubierainie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "natryski.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Ponadto w piekarniach powinno być przeznaczone oddzielne pomieszczenie dla chłodzenia przed wypiekiem wyrobów z mąki pszennej."
+      },
+      {
+       "type": "text",
+       "text": "(3) Zabrania się wynoszenia na podwórze ciasta wytobioneśo w celu chłodzenia."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "(1) Wysokość pomieszczeń wytwórni pieczywa powinna wynosić co najmniej 3 m. lzby powinny być tak obszerne, aby na każdego zatrudnione io pracownika przypadało co najmniej 4 mtr. kw. powierzchni.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Stosunek powierzchni świetlnej do powierzchni podłogi powinien wynosić co najmniej 1:10."
+    },
+    {
+     "type": "text",
+     "text": "(3) Podłogi powinny być z trwałego nieprzepuszczalneśo materjału, szczelne i gładkie."
+    },
+    {
+     "type": "text",
+     "text": "(4) Ściany izb powinny być bielone i opatrzone do wysokości co najmniej 2 metrów jasrą lamoerją olejną, względnie z materjału, dającego się łatwo myć."
+    },
+    {
+     "type": "text",
+     "text": "(5) Okna, otwierane w porze letniej, należy zabezpieczać przed owadami gestemi, trwałemi siatkami."
+    },
+    {
+     "type": "text",
+     "text": "(6) Natryski z wodą ciepłą powinny być urządzone w każdej wytwórni, zatrudniającej 5 i więcej pracowników,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "(1) Wytwórnie pieczywa w osiedlach, zaopatrzonych w energje eleklryczną, muszą mieć odpowiednie urządzenia mechaniczne do przesiewania mąki, mieszania i zagniatania ciasta.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) W osiedlach, liczących powyżej 25.000 mieszkańców, stawianie pieców o bezpośredniem opalaniu na trzonie jest wzbronione."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "(1) Rozczynianie ciasta i wypiek chleba (bułek) mogą odbywać się w jednem, dostatecznie obszernem, pomieszczeniu, niestykającem się z ubieralnią ani ustępem.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Drewniane dzieże (bajty) do rozczyniania ciasta, stoły, deski i łopaty do pieczywa powinny być sporządzone z drzewa niesmolistego, heblowane, gładkie, bez szczelin i szpar, spajane (nieklejone). Dzieże metalowe powinny być należycie ocynowane. Pobiała wewnętrzna nie może zawierać zanieczyszczeń ponad 1%. W szczególności dzieze (baj-"
+    },
+    {
+     "type": "lit",
+     "num": "ty",
+     "path": "par_20/lit_ty",
+     "text": "powinny być tak urządzone, aby wraz z ty'ną swą deską mośły być odsuwane od ścian. Deski do pieczywa powinny być ustawiane na wzniesieniu, łopaty zaś układane na drą$ach lub kołkach.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(3) Kotły do grzania wody. używanej do rozczyniania ciasta, powinny być dokładnie ocynowane. Kotły te muszą mieć kran, umieszczony nad urządzeniem do odprowadzania wody do kanału lub do ścieków. Studzienka (lesża) powinna być również połączona ż kanałem lub ściekiem."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "(4) W pomieszczeniu do rozczyniania ciasta powinna znajdować się skrzynia z przykryciem, przeznaczona na mąkę, oraz skrzynia, wyłożona blachą cynkową, a przeznaczona na odpadki."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "(1) Pomieszczenia na skład mąki i skład pieczywa powinny być suche, widne, należycie przewietrzane; skład pieczywa nie może mieścić się w suterenie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Mąkę, cukier oraz inne surowce w opakowaniu workowem należy umieszczać na drewnianych heblowanych legarach (podstawach), a pieczywo na półkach z drzewa niesmolistego."
+    },
+    {
+     "type": "text",
+     "text": "(3) Zabrania się ustawiania worków z mąką oraz układania pieczywa na podłodze."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Ubieralnia powinna znajdować się w tym samym lokalu, co wytwórnia. W ubieralni powinny być: umywalnia z bieżącą wodą, czystemi ręcznikami i mydłem, szała do ubrań pracowników i oddzielna szafa do fartuchów, czapek, pantofli oraz ławki lub krzesła.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 23, Lokal wytwórni pieczywa nie może łączyć się bezpośrednio z mieszkaniem lub służyć za miejsce zamieszkania, wypoczynku lub noclegu oraz za miejsce sprzedaży pieczywa."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Zabrania się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_24/pkt_1",
+     "text": "przesiadywać na stołach, sprzętach, przeznaczonych do wyrobu pieczywa, lub na workach z mąką;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_24/pkt_2",
+     "text": "mieć przy pracy obnażone ciało, prócz ramion;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_24/pkt_3",
+     "text": "spluwać na podłogę;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_24/pkt_4",
+     "text": "palić tytoń;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_24/pkt_5",
+     "text": "chodzić do ustępu w fartuchach piekarnianych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_24/pkt_6",
+     "text": "wpuszczać do wytwórni osoby obce w czasie trwania pracy;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_24/pkt_7",
+     "text": "wpuszczać do wytwórni zwierzęta domowe.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "(1) Wytwórnie, produkujące wyroby z ciasta, powinny być zaopatrzone w mechaniczne urządzenia do wyrobu tych produktów oraz podlegają przepisom, zawartym w §§ 15, 16, 18, 20, 21, 22, 23 i 24 tego rozporządzenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Wytwórnie te powinny się składać co najmniej z 2-ch izb i pomieszczenia na ubieralnię."
+    },
+    {
+     "type": "text",
+     "text": "§ 26, Wytwórnie wyrobów cukierniczych powinny odpowiadać przepisom dla wytwórni pieczywa, z tem jednakże, że w wytwórniach cukierniczych skład mąki może być łączony ze składem pieczywa w jednem pomieszczeniu, o ile nie mieści się on w suterenie. Ponadto wytwórnie wyrobów cukierniczych, zatrudniające nie więcej, niż 2-ch pracowników, mogą być zwolnione przez wojewódzkie władze administracji ogólnej od obowiązku wprowadzenia mechanicznych urządzeń do przesiewania mąki, mieszania i zagniatania ciasta."
+    },
+    {
+     "type": "text",
+     "text": "§ 27, Wszelkie naczynia i przyrządy, używane do wyrobu produktów, wymienionych w § 1 pkt. 2, powinny być utrzymywane stale w dokładnej czystości, Dzieże drewniane (bajty) należy codziennie, po ukończeniu przygotowania ciasta, dokładnie oczyszczać przez skrobanie i mycie wrzącą wodą, dzieże"
+    },
+    {
+     "type": "text",
+     "text": "Nr. 78."
+    },
+    {
+     "type": "text",
+     "text": "metalowe przez mycie wrzącą wodą; deski i łopaty należy codziennie po ukończeniu pracy dokładnie oczyszczać ze starego ciasta przez skrobanie. Kotły, kubełki do wody, formy do ciasta, blachy i t. p. nie mogą być używane do żadnych innych celów i powinny być codziennie oczyszczane. Studzienki (le-"
+    },
+    {
+     "type": "lit",
+     "num": "sze",
+     "path": "par_25/lit_sze",
+     "text": "lub zastępujące je naczynia żelazne należy również codziennie oczyszczać i myć.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rozdział 4,"
+      },
+      {
+       "type": "text",
+       "text": "Przewóz i sprzedaż wyrobów mącznych,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "(1) Wozy, kosze i wszelkie inne przyrządy do rozwożenia i roznoszenia pieczywa i wyrobów cukierniczych powinny mieć przykrywy, zabezpieczające produkty te od zanieczyszczenia, być utrzymane w czystości i nieużywane do żadnych innych celów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Zabrania się:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_28/lit_a",
+     "text": "przenosić w rękach pieczywo z wozów i koszów do miejsc sprzedaży,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_28/lit_b",
+     "text": "stawiać kosze, wzślędnie inne przyrządy z pieczywem lub wyrobami cukierniczemi bezpośrednio na ziemi lub na podłodzę.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(3) O ile kosze i inne przyrządy do rozwożenia i roznoszenia pieczywa i wyrobów cukierniczych są umieszczane w szczelnych zamkniętych wozach, np. w specjalnych samochodach, wówczas przepis, dotyczący zaopatrzenia tych koszów i przyrządów w przykrywy nie jest wymagany."
+      },
+      {
+       "type": "text",
+       "text": "te"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "(1) Sklepy, w których odbywa się sprzedaż pieczywa oraz wyrobów cukierniczych, nie mogą mieścić się w suterenach i powinny być położone w odległości co najmniej 5 m, od ustępów ogólnych, od obór, stajen, chlewów, śmietników i gnojowisk w nieruchomościach skanalizowanych i w odległości 10 m, w nieruchomościach nieskanalizowanych, '",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Ściany tych sklepów powinny być bielone, mieć dwumetrową jasną lamperję olejną lub z materjału, dającego się łatwo myć, ,"
+    },
+    {
+     "type": "text",
+     "text": "(3) Stoły do sprzedaży, o ile nie mają wierzchów marmurowych lub szklanych, oraz półki na pieczywo lub wyroby cukiernicze, powinny być z drzewa niesmolistego, gładkie, bez szpar i szczelin."
+    },
+    {
+     "type": "text",
+     "text": "(4) Produkty, umieszczane na stołach, półkach i w oknach wystawowych, powinny być zabezpieczone przed dotykaniem ich rękami: kupujących, przed owadami oraz przed wszelkiemi zanieczyszczeniami (lady oszklone), Wystawianie tych produktów w drzwiach sklepowych jest niedopuszczalne,"
+    },
+    {
+     "type": "text",
+     "text": "(5) Wyroby cukiernicze deserowe, jak torty, ciastka tortowe, kremowe, z owocami i t. p., powinny być umieszczane w gablotkach oszklonych lub pod kloszami na talerzach, podstawach szlanych, por- ' celanowych (fajansowych), lub metalowych (z metali nieszkodliwych dla zdrowia)."
+    },
+    {
+     "type": "text",
+     "text": "(6) Przy wyrobach cukierniczych powinien być umieszczony na widocznem miejscu wyraźny napis, wskazujący firmę wytwórni i jej adres."
+    },
+    {
+     "type": "text",
+     "text": "(7) Sklepy, w których sprzedaż pieczywa oraz wyrobów cukierniczych stanowi zasadniczą część przedsiębiorstwa, nie mogą sprzedawać takich produktów, których zapach może się udzielać pieczywu oraz wyrobom cukierniczym. Sklepy, w których"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "sprzedaż pieczywa i wyrobów cukierniczych stanowi dodatkową część przedsiębiorstwa, powinny mieć dla pieczywa oddzielne miejsce zdała od innych artykułów żywności."
+    },
+    {
+     "type": "text",
+     "text": "(8) Do pakowania pieczywa i wyrobów cukierniczych używać należy czystego papieru (torebek). ~ Używanie do tego celu makulatury jest wzbronione."
+    },
+    {
+     "type": "text",
+     "text": "(9) Postanowienia § 9, § 10 ustęp 1 i 2 i § 27 zdanie pierwsze maja tu odpowiednie zastosowanie."
+    },
+    {
+     "type": "text",
+     "text": "(10) Osoby, zajęte sprzedażą, powinny nosić białe czyste fartuchy z rękawami, mieć czyste ręce i używać do wydawania wyrobów cukierniczych spe- -cjalnych szczypców lub łopatek,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "(1) Sprzedaż pieczywa oraz wyrobów cukierniczych na ulicach, straganach, targach i rynkach dopuszczalna jest jedynie przy zastosowaniu specjalnych urządzeń, zabezpieczających te produkty od wszelkich zanieczyszczeń (gablotki, szatki, wózki oszklone). Urządzenia te należy utrzymywać w bezwzględnej czystości; postanowienia § 10 ust, 1 i 2 oraz § 29 ust. 10 mają tu odpowiednie zastosowanie, ‘ (2) Handel domokrążny wyrobami macznemi jest wzbroniony.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Postanowienia końcowe,"
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Przepisy niniejszego rozporządzenia, dotyczące poszcześólnych miejsc wyrobu i sprzedaży pieczywa, wyrobów z ciasta i wyrobów cukierniczych, powinny być wywieszone na widocznem miejscu. '",
+   "children": [
+    {
+     "type": "text",
+     "text": "|; §32. Mąka, wyroby z ciasta i wyroby cukiernicze, sprowadzane z zagranicy i przeznaczone do obiegu oraz wywożone zagranicę, powinny co do jakości, opakowania i oznaczenia odpowiadać przepisam niniejszego rozporządzenia,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Istniejące w chwili wejścia w życie niniejszego rozporządzenia wytwórnie i miejsca sprzedaży mąki i wytobów mącznych powinny być doprowadzone do stanu, wymaganego niniejszem rozporządzeniem, do dnia 31 grudnia 1930 r:, a w stosunku do postanowień § 15 ust, 1 — do dnia 30 czerwca 1931 r. W przeciwnym razie u leśną one zamknięciu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 34, (1) Wytwórnie pieczywa, wyrobów z ciasta i wyrobów cukierniczych, istniejące w chwili wejścia w życie niniejsześo rozporządzenia w pomieszczeniach suterenowych, mogą pozostawać w nich nadal, o ile odpowiadają wszystkim innym przepisom dla tych wytwórni, o czem w każdym poszczególnym przypadku decyduje wojewódzka władza administracji ogólnej,"
+    },
+    {
+     "type": "text",
+     "text": "(2) Władza ta wyznaczać będzie terminy, do jakich wytwórnie pieczywa będą mogły być pozostawione w suterenach, termin ten jednak nie może być dłuższy nad 4 lata, licząc od chwili wejścia w życie rozporządzenia. W przypadku pozostawienia wytwórni w suterenie powinna być urządzona wzorowa wentylacja sztuczna, zastępująca otwieranie okien."
+    },
+    {
+     "type": "text",
+     "text": "(3) W stosunku do istniejących wytwórni wojewódzka władza administracji ogólnej uprawniona jest do czynienia ustępstw również co do postanowień, dotyczących łączenia składu mąki i pieczywa w jednem pomieszczeniu oraz ubieralni i natrysków w drugiem pomieszczeniu, pod warunkiem odgrodzenia zupełnego natrysków, oraz co do postanowień, przewidzianych w § 18 ust. 1,"
+    },
+    {
+     "type": "text",
+     "text": "§ 35, W wytwórniach, istniejących w chwili wejścia w życie niniejszego rozporządzenia, o terminie wprowadzenia mechanicznych urządzeń, wymienionych w § 19, decyduje w każdym poszczególnym przypadku wojewódzka władza administracji ogólnej w zależności od miejscowych warunków gospodarczych i technicznych; termin ten jednak nie może być przedłużony poza 31 grudnia 1933 r."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "V/inni naruszenia właściwych przepisów rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. (Dz. U, R. P. Nr. 36, poz. 343) podlegają karom, przewidzianym w rozdziale III tego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "(1) Rozporządzenie niniejsze wchodzi w życie dnia 24 listopada 1929 roku,",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Jednocześnie tracą moc obowiązującą rozporządzenia Ministra Zdrowia Publicznego z dnia 26 lutego 1921 r. w przedmiocie urządzenia i utrzymywania piekarń i sklepów z pieczywem oraz wypieku chleba (Dz. U. R. P. Nr. 26, poz. 151) oraz z dnia 7 marca 1921 r. w przedmiocie używania domieszek do mąki i chleba (Dz. U, R. P. Nr. 29, poz. 167)."
+    },
+    {
+     "type": "text",
+     "text": "Minister Spraw Wewnętrznych: Sławoj Składkowski"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: E, Kwiatkowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

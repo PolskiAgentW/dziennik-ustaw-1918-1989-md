@@ -1,0 +1,65 @@
+{
+ "eli": "DU/1922/515",
+ "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 13 lipca 1922 r. o częściowej zmianie taryfy listowej w obrocie z Rumunją.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1922/515/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 13 lipca 1922 r. o częściowej zmianie taryfy listowej w obrocie z Rumunją."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy art. 10 ustawy z dnia 27 maja 1919r. o parstwowej wyłączności poczty, telegrafu i telefonu (Dz. P. P. P. Ne 44, poz. 310) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Od dnia 1 sierpnia 1922 r. wprowadza się w obrocie z Rumunją zniżone stawki dla listów do wagi 20 gramów i dla kartek pocztowych, a mianowicie.",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "Listy zwykłe: do wagi 20 gramów „. 40 marek polskich za każde dalsze 2Z0gramów 25 i 3",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "Kartki pocztowe 25 R s 8 2. W części polskiej Górnego Śląska, gdzie obowiązuje narazie odmienna waluta, wynoszą powyższe opłaty:",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "Listy zwykłe: do wagi 20 gramów . . 4.50 mk. niemieckich za każde dalsze 20 gramów 3.— , ż",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "Kartki pocztowe 2.75 , s",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Poza powyższemi zniżkami ma zastososowanie ogólna taryfa zagraniczna. Minister Poczt i Telegrafów: w z. Dobrowolski",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

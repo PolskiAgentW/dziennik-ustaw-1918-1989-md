@@ -1,0 +1,53 @@
+{
+ "eli": "DU/1920/531",
+ "title": "Rozporządzenie Ministrów Skarbu oraz Przemysłu i Handlu w sprawie zniesienia cła w złocie od tkanin jedwabnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/531/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "Ministrów Skarbu oraz Przemysłu i Handlu w sprawie zniesienia cła w złocie od tkanin jedwabnych."
+  },
+  {
+   "type": "text",
+   "text": "Na zasadzie art. 14 Rozporządzenia Ministrów Skarbu oraz Przemysłu i Handlu o taryfie celnej (Dz. Ustaw Ne 51 z 1920 r., poz. 314) zarządza się, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Z zawartej w Rozporządzeniu Ministrów Skarbu oraz Przemysłu i Handlu z dnia 20 lutego 1920 r. w sprawie płacenia cła od niektórych towarów w złocie (Dz. Ustaw Ne 19 z 1920 r., poz. 98) listy towarów, obłożonych cłem w efektywnym złocie, wykreśla się: poą. 195 p. 1. Jedwabne: tkaniny, chustki tkane, fulary (oprócz wymienionych w poz. 196), wstążki, taśmy, tiul, tkaniny wschodnie, - aksamit, plusz i szenila.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "196",
+     "path": "art_1/ust_196",
+     "text": "Fulary jedwabne, drukowane po utkaniu i chustki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia «w „Dzienniku Ustaw Rzeczypospolitej Polskiej\". Warszawa, dnia 29 lipca 1920 r",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Skarbu: w z. Rvbarski Minister Przemysłu i Handlu: W. Chrzanowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

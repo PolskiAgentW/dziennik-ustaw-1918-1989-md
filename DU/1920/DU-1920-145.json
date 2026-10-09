@@ -1,0 +1,69 @@
+{
+ "eli": "DU/1920/145",
+ "title": "Rozporządzenie Ministra Skarbu, dotyczące złożenia kaucji przez obcokrajowe zakłady ubezpieczeniowe, działające na ziemiach b. monarchji Austro-Węgierskiej, należących obecnie do Państwa Polskiego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/145/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Skarbu, dotyczące złożenia kaucji przez obcokrajowe zakłady ubezpieczeniowe, działające na ziemiach b. monarchji Austro- Węgierskiej, należących obecnie do Państwa Polskiego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 25 Dekretu 9 tymczasowej organizacji władz naczelnych z dnia 3 stycznia 1918 r. (Dz. Pr. Ne 1, poz. 1) i § 17 rozporządzenia Ministrów Spraw Wewnętrznych, Sprawiedliwości, Handlu i Skarbu, b. Monarchji Austrjackiej z dn. 5 maja 1896 r. (Dz. ust. Ne 31) oraz stosownie do art. 5 rozporządzenia z dnia 22-go kwietnia 1919 r. (Monitor Polski Ne 96) postanawiam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Wszystkie obcokrajowe zakłady ubezpieczeń, działające na ziemiach b. monarchji Austro-Węgierskiej, należących obecnie do Państwa Polskiego, winny do dnia 30 kwietnia 1920 r. złożyć kaucję w Polskiej Krajowej Kasie Pożyczkowej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wysokość kaucji wynosi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_2/lit_a",
+     "text": "dla działu ubezpieczeń na życie: całkowitą rezerwę premji od ubezpieczeń zawartych na terenie terytorjum, określonych w art. 1. Jeżeli rezerwa premji nie może być obecnie dokładnie obliczoną, kaucja oblicza się w wysokości 1/5 tej rezerwy, która przypadała według ostatniego sprawozdania Towarzystwa, albo jego jeneralnej Reprezentacji, dla całej b. monarchji Austro-Węgierskiej. Jak w jednym jednak tak i w drugim wypadku minimum kaucji wynosi marek 400.000 (czterysta tysięcy) marek;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_2/lit_b",
+     "text": "dla innych działów ubezpieczeń: kaucja wynosi 400.000 (czteryst tysięcy) marek, jednakże Ministerstwo pozostawia sobie prawo wyznaczania w poszczególnych wypadkach wyższych kaucji w zależności od zakresu działalności zakładu ubezpieczeń na terytorjum, określonem w art. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Kaucja winna być złożona w gotówce lub w walorach, mających pupilarne bezpieczeństwo na obszarze ziem wskazanych w art. 1.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Wykonanie niniejszego rozporządzenia, określenie wysokości kaucji stosownie do art. 2 rozporządzenia, poleca się Wydziałowi Ubezpieczeniowemu przy Ministerstwie Skarbu. Frt. 5. Towarzystwom, które nie zadośćuczyniły we wskazanym terminie wymaganiom niniejszego rozporządzenia, zostanie wzbroniona dalsza akwizycja ubezpieczeń. ‘Warszawa, dnia 9 lutego 1920 roku.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: W. Grabski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

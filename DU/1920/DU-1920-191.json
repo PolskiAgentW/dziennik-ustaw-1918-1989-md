@@ -1,0 +1,40 @@
+{
+ "eli": "DU/1920/191",
+ "title": "Rozporządzenie Ministra Aprowizacji w sprawie zmiany art. 1, ust. C, lit. a rozporządzenia z dnia 31 grudnia 1919 r. w sprawie ograniczeń spożycia w zakładach publicznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/191/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Aprowizacji w sprawie zmiany art. 1, ust. C, lit. a rozporządzenia z dnia 31 grudnia 1919 r. w sprawie ograniczeń spożycia w zakładach publicznych (Dz. Ost. R.P. r. 1920 Ne 4 poz. 21). Na podstawie dekretu Naczelnika Państwa z dn. 11 stycznia 1919 r. (Dz. Pr. Ne 7, poz. 109) i art. 9 ustawy z dn. 18/11 1919 r. (Dz. Ustaw R. P. Ne 89, poz. 485) zarządza się co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W rozporządzeniu z dn. 31 grudnia 1919 r. (Dz. Ost. R. P. r. 1920, Ne 4, poz. 21) w przedmiocie ograniczeń spożycia w zakładach publicznych zmienia się art. 1, ust. C, lit. a, w sposób następujący:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "podawanie do kawy i herbaty mleka łącznie lub osobno, lub przyrządzanie -czekolady i kakao na mleku oraz spożywanie jest dozwolone od godz. 6 do 12 rano i od godz. 5 do 11 wieczorem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia w Dzienniku (staw R. P. Warszawa, dnia 9 kwietnia 1920 r. Minister Aprowizacji: St. Sliwiński +",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

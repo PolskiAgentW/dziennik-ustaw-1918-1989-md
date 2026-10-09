@@ -1,0 +1,86 @@
+{
+ "eli": "DU/1920/680",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych w przedmiocie zmiany opłat za przewóz osób, psów i bagażu między Polską a Piotrowicami na Śląsku i Cieszynem.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/680/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Kolei Żelaznych w przedmiocie zmiany opłat za przewóz osób, psów i bagażu mię dzy Polską a Piotrowicami na Śląsku i Cieszynem."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy dekretu z 7 lutego 1919 (Dziennik Praw Ne 14, poz. 152). konstytucyjnie zatwierdzonego 7 kwietnia 1919 (Monitor Polski Ne 82), iw porozumieniu z Ministerstwami Skarbu, oraz Przemysłu i Handlu zarządzam co następuje: Mimo przesunięcia granicy państwa Czesko-słowackiego poza stacje Piotrowice na Śląsku i Cieszyn, Kolei Koszycko-Bogumińskiej, odprawiać się będzie osoby, psy i bagaż z Polski do tych stacji loco i naodwrót nadal bezpośrednio, przyczem jednak doliczać się będzie od 1-go listopada r. b.: w komunikacji z Piotrowicami n/S_ loco:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "do ceny dotychczasowej biletu całego w pociągach: zwyczajnych kl. |-—14.40 mk., ki. Il—7.20 mk., kl. IIl—3.60 mk. pospiesznych „ „ 2160 „ „ „ 1080 , „ , 540 ,",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "do opłaty dotychczasowej za przewóz 1 go psa—2.70 mk.",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "do opłaty za przewóz bagażu polskiemi kolejami państwowemi za każdych 10 kg. w pociągach zwyczajnych 0.90 mk., w pociągach pospiesznych 1.35 mk.;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "d",
+   "path": "lit_d",
+   "text": "do opłaty za przewóz przesyłki nadzwyczajnej polskiemi kolejami państwowemi za każdych 10 kg. 1.35 mk;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w komunikacji z Cieszynem K. K. B. loco: Ę",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "do ceny dotychczasowej biletu całego kl. I — 10.80 mk. kl. 115.40 mk., KI. III-2.70 mk,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "do opłaty dotychczasowej za przewóz l-go psa—2.70 mk.,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "do opłaty za przewóz bagażu polskiemi kolejami państwowemi za każdych 10 kg.—0.90 mk,,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "do opłaty za przewóz przesyłek nadzwyczajnych polskiemi kolejami państwowemi za każdych 10 kg.—1.35 mk. Warszawa, dn. 30 października 1920 r. Minister Kolei Żelaznych: w z. /. Eberhardt",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

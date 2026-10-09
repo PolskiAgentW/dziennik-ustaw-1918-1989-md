@@ -1,0 +1,64 @@
+{
+ "eli": "DU/1927/649",
+ "title": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa z dnia 8 sierpnia 1927 r. w sprawie uzupełnienia pozycji 228 taryfy celnej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/649/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 8 sierpnia 1927 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie uzupełnienia pozycji 228 taryfy celnej."
+  },
+  {
+   "type": "text",
+   "text": "Na zasadzie art. 7 ustęp a) ustawy z dnia 31 lipca 1924 r. w przedmiocie uregulowania stosunków celnych (Dz. U. R. P. Ne 80, poz. 777) zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Uzupełnia się § 1 rozporządzenia Ministrów: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Dóbr Państwowych z dnia 26 lipca 1925 r. w sprawie ceł wywozowych. (Dz. U. R. P. Ne 76, poz. 536) następującą uwagą: Pozycja taryfy Cło od 100kqg. celnej zł. gr.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "228",
+     "path": "par_1/ust_228",
+     "text": "Uwaga 2. Dłużyce i kłody drzew iglastych, spławiane z polskich terenów, położonych w dorzeczu Czeremosza za pozwoleniem Ministerstwa Skarbu. . — 15",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: G. Czechowicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu i Handlu: E. Kwiatkowski"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa: K, Niezabytowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

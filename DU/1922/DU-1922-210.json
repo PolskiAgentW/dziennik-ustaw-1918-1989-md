@@ -1,0 +1,97 @@
+{
+ "eli": "DU/1922/210",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych z dnia 30 marca 1922 r. o wprowadzeniu na wąskotorowych kolejach prywatnych, znajdujących się w zarządzie Dyrekcji kolei państwowych we Lwowie, nowej taryfy na przewóz osób, bagażu, psów, czasopism, broszur i książek oraz na zamówione pociągi i wagony.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1922/210/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Kolei Żelaznych."
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 marca 1922 r."
+  },
+  {
+   "type": "text",
+   "text": "© wprowadzeniu na wąskotorowych kolejach prywatnych, znajdujących się w zarządzie Dyrekcji kolei państwowych we Lwowie, nowej taryfy na przewóz osób, bagażu, psów, czasopism, broszur i książek oraz za zamówione pociągi i wagony."
+  },
+  {
+   "type": "text",
+   "text": "Na mocy dekretu z dnia 7 lutego 1919 r. o przekazaniu Ministrowi Komunikacji prawa wydawania przepisów o przewozie osób, bagażu i towarów, oraz ustalania taryf przewozowych na kolejach polskich (Dz. P. P. P. Ne 14 poz. 152) i w porozumieniu z Ministrami Skarbu oraz Przemysłu i Handlu zarządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Na wąskotorowych kolejach prywatnych; Przeworsk—Bachórz—Dynów i Łupków— Cisna, znajdujących się w zarządzie Dyrekcji kolei państwowych we Lwowie, wprowadza się następujące opłaty za przewóz osób:",
+   "children": [
+    {
+     "type": "text",
+     "text": "10 mk. w klasie Ill od osoby i kilometra i 1 ” ” ” ” » ” ”"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wprowadza się również nowy sposób obliczania opłat za przewóz bagażu i przesyłek nadzwyczajnych, mianowicie ustala się dwa rodzaje przesyłek wagi do 50 kg. oraz wagi ponad :50 do 100 kg. Przewoźne oblicza się od każdych 10 km.",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "od każdej sztuki bagażu wagi do 50 kg.— 60 mk., wagi zaś ponad 50 do 100 kg.—120 mk.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "od każdej sztuki przesyłek nadzwyczajnych wagi do 50 kg. — 120 mk., wagi zaś ponad 50 do 100 kg. — 240 mk. \\",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Przewóz psów w wagonach osobowych, o ile na to zgodzą się podróżni, odbywa się za pełnym biletem osobowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Za przewóz czasopism, broszur i książek pociągami osobowemi i mięszanemi opłata oblicza się od każdych 10 km. Od każdej paczki wagi do 50 kg. — 45 mk,, wagi zaś ponad 50 do 100 kg. — 90 mk.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Za pociągi nadzwyczajne i wagony zamówione opłata oblicza się wediug norm zawartych w rozdziale VII części Il Taryfy osobowej i bagażowej kolei normalnotorowych (Dz. U. R.P. 1921 r. Ne 97 poz. 708) powiększonych o 150%o,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie niniejsze obowiązuje z dniem 10 kwietnia 1922 r. Jednocześnie traci moc obowiązującą dotychczasowa taryfa na przewóz osób, bagażu i psów rzeczonych kolei wąskotorowych. Minister Kolei Żelaznych: J. Marynowski Minister Skarbu: Micbalski",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Przemysłu i Handlu: Stefan Ossowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

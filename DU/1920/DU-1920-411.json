@@ -1,0 +1,71 @@
+{
+ "eli": "DU/1920/411",
+ "title": "Rozporządzenie Ministra Zdrowia Publicznego w przedmiocie udzielania koncesji na zakładanie aptek.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/411/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Zdrowia Publicznego w przedmiocie udzielania koncesji na zakładanie aptek."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 p. 13 i art. 11 Zasadniczej Ustawy Sanitarnej z dnia 19 lipca 1919 r. Dzień. Pr. P. Ne 63 poz. 371 w art. 7 ustawy 2 sierpnia 1919 Dz. P. P. Ne 65 poz. 395, zarządzam co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Do udzielania koncesji na zakładanie aptek powołane są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "W pierwszej instancji Państwowe władze administracyjne I! instancji.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "W drugiej instancji Ministerstwo Zdrowia Publicznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Zasady, któremi Państwowe władze administracyjne Il instancji mają się kierować przy nadawaniu. koncesji na zakładanie aptek, określi osobna instrukcja, która ogłoszona będzie w „Monitorze Polskim”.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Rozporządzenie niniejsze obowiązuje na obszarze b. zaboru rosyjskiego. Warszawa, dn. 10 lipca 1920 r. Minister Zdrowia Publicznego: w z. Lhodźka",
+   "children": [
+    {
+     "type": "text",
+     "text": "SPROSTOWANIE."
+    },
+    {
+     "type": "text",
+     "text": "W Ne 56 Dziennika Ustaw z dnia 15 lipca 1920 r. poz. 348 w ustawie z d. 9 lipca 1920 r. o aprowizacji na rok gospodarczy 1920/21 w art. 1 ustęp 2 a słowo „ornej”, należy zastąpić przez słowo: „obsianej”."
+    },
+    {
+     "type": "text",
+     "text": "ułaczono w Drukarni Państwowej z polecenia Ministra Sprawiedliwości. Ne 16631 P m ~ Cena 1 mk. 60 fen."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

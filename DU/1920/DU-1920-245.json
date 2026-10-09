@@ -1,0 +1,45 @@
+{
+ "eli": "DU/1920/245",
+ "title": "Rozporządzenie Ministra Kolei Żelaznych o rozciągnięciu Przepisów Przewozowych, obowiązujących na kolejach polskich, na koleje b. zaborów austrjackiego i pruskiego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1920/245/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE Ministra Kolei Żelaznych o rozciągnięciu Przepisów Przewozowych, obowiązujących na kolejach polskich, na koleje b. zaborów austrjackiego i pruskiego. Na mocy dekretu z dnia 7 lutego 1919 r. (Dz. Praw Ne 14, poz. 152), konstytucyjnie zatwierdzonego w dniu 7 kwietnia 1919 r. (Monitor Polski Ne 82) i w porozumieniu z Ministerstwami Skarbu oraz Przemysłu i Handlu zarządzam, aby z dniem 1 czerwca 1920 r. na kolejach normalnotorowych tak państwowych, jak i prywatnych, położonych na terenie b. zaborów austrjackiego i pruskięgo, zostały wprowadzone w życie „Przepisy .Przewozowe, obowiązujące na kolejach polskich*, ogłoszone w Dzienniku (staw Ne 16 z dnia 23 !Iutego 1920 r. Z chwilą wprowadzenia oznaczonych „Przepisów Przewozowych*, t. j. od 1 czerwca 1920 r. tracą moc obowiązującą:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "na terenie b. zaboru austrjackiego: „Eisenbahn-Betriebsreglement fiir die Eisenbahnen der im Reichsrate vertretenen Kónigreiche und Lander vom 1 Janner 1910*. („Regulamin ruchu dla kolei żelaznych w królestwach i krajach, reprezentowanych w Radzie Państwa z dnia 1 stycznia 1910 r.“).",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "na terenie b. zaboru pruskiego: „Eisenbahn- Verkehrsordnung vom 1 April 1909\". Warszawa, dnia 12 maja 1920 r. Minister Kolei „Żelaznych: K. Bartel",
+   "children": [
+    {
+     "type": "text",
+     "text": "— A z polecenia Ministra Sieuutsalinotes: 9875 P"
+    },
+    {
+     "type": "text",
+     "text": "Tłoczono w Drukarni Państwowe."
+    },
+    {
+     "type": "text",
+     "text": "Cena 9 mk. 40 fen."
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,63 @@
+{
+ "eli": "DU/1922/189",
+ "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 3 marca 1922 r. o opłacaniu przesyłek pocztowych przy nadaniu w obrocie wewnętrznym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1922/189/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Poczt i Telegrafów"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 marca 1922 r. o. opłacaniu przesyłek pocztowych przy nadaniu w obrocie wewnętrznym. Na mocy art. 10 ustawy z dnia 27 maja 1919r. o państwowej wyłączności poczty, telegrafu i telefonu (Dz. P. P. P. Ne 44 poz. 310) zatządza się co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Z dniem 1 kwietnia 1922 r. wszystkie przesyłki pocztowe, nadawane w obrocie wewnętrznym muszą być opłacane przy nadaniu. Wyjątek stanowią:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "przesyłki pocztowe, wolne od opłaty poczto- „wej w obrocie wewnętrznym na podstawie art. 12 ustawy z dnia 27 maja 1919r. o państwowej wyłączności poczty, telegrafu i telefonu (Dz. P. P. P. Ne 44 poz. 310)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "zwykłe listy i kartki pocztowe, które mogą być nadawane nieopłacone lub tylko częściowa opłacone.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "zwykłe druki, próbki towarowe i papiery handlowe, które muszą być przynajmniej częściowo przy nadaniu opłacone.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 kwietnia 1922 r. i obowiązuje na całym obszarze Rzeczypospolitej. Jednocześnie tracą moc obowiązującą wszelkie dotychczasowe przepisy, sprzeczne z niniejszem rozporządzeniem.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Poczt i Telegrafów: Stestowicz dzonej lustracji lustracji"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

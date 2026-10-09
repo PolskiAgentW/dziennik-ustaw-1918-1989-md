@@ -1,0 +1,65 @@
+{
+ "eli": "DU/1925/788",
+ "title": "Rozporządzenie Ministra Skarbu z dnia 19 października 1925 r. o częściowej zmianie cen soli.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1925/788/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Skarbu z dnia 19 października 1925 r. © częściowej zmianie cen soli. Na zasadzie postanowień & 4 rozporządzenia Prezydenta Rzeczypospolitej z dnia 30 grudnia 1924 r. (Dz. U. R. P. Ne 117, poz. 1043) zarządza się co następuje: ;"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Zmienia się § 2 rozporządzenia Ministra Skarbu z dnia 19 lutego 1925 r. (Dz. U. R.P. Ne 19, poz. 142) w następujący sposób: Cenę sprzedaży soli dla hurtownych sprzedawców ustanawia się następującą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "warzonka z Wieliczki 22 zł.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "warzonka z innych salin 20 zł.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "kamienna sól mielona z kopalni w Wapnie 20 zł.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_1/lit_d",
+     "text": "kamienna sól mielona z innych kopalń t. zw. szara 13.20 zł.",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_1/lit_e",
+     "text": "omoki 14 zł. Sól kamienna wymieniona pod c) i d) w kru- \" chach 0.0.20 zł. taniej. Ceny powyższe rozumie się za 100 kg. soli franco wagon kopalnia, względnie salina bez opakowania. 8 2. Rozporządzenie niniejsze wchodzi w życie z dniem 31 października 1925 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Skarbu: W. Grabski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

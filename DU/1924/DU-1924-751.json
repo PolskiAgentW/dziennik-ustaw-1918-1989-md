@@ -1,0 +1,150 @@
+{
+ "eli": "DU/1924/751",
+ "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 sierpnia 1924 r. o udzieleniu poręki państwowej na listy zastawne, obligacje i inne zobowiązania.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1924/751/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 27 sierpnia 1924 roku o udzieleniu poręki państwowej na listy za» stawne, obligacje i inne zobowiązania. Na podstawie art. 1 p. E—1 oraz art. 2 ustawy z dnia 31 lipca 1924 r. o naprawie Skarbu Państwa i poprawie gospodarstwa społecznego (Dz. U. R. P. Ne 71, poz. 687) oraz zgodnie z uchwałą Rady Ministrów z dnia 26 sierpnia 1924 r. zarządza się co następuje: 8 1. Udzielenie poręki (gwarancji) państwowej nastąpić może do sumy 500.000.000 złotych dla następujących zobowiązań:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "zobowiązań towarzystw kredytowych ziemskich i miejskich oraz banków hipotecznych, z tytułu wydawania listów zastawnych, odpowiadających następującym warunkom:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "znajdujących pokrycie w pierwszej połowie wartości przynoszących stały dochód nieruchomości wiejskich i miejskich, na których hipotekę została udzielona pożyczka i ustanowione prawo zastawu dla tych listów;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "mających oznaczony okres umorzenia, względnie terminowych;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "wydawanych pod nadzorem rządowym i zgodnie z warunkami zatwierdzonemi dla każdej",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "instytucji emitującej listy zastawne z osobna przez Ministra Skarbu;"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "zobowiązań zapłaty kapitału i odsetek obligacji, wypuszczanych zgodnie z p. 15 art. 16 ustawy z dnia 14 października 1921 r. o udzielaniu koncesji na koleje żelazne prywatne (Dz. U. R. P. Ne 88 poz. 646) na cele budowy i początkowego zaopatrzenia linji kolejowych normalno-torowych użytku publicznego;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "zobowiązań zapłaty kapitału i odsetek obligacji, wypuszczanych przez ciała samorządowe na cel budowy nowych i ulepszenia istniejących urządzeń użyteczności publicznej, jak również na wznoszenie i rozszerzanie budowli mieszkalnych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "zobowiązań Centralnej Kasy Spółek Rolniczych i innych związków o charakterze spółdzielczym, mających dostateczne zabezpieczenie w majątku tych związków i w zobowiązaniach ich członków;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "zobowiązań osób fizycznych i prawnych, zabezpieczonych:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_5/lit_a",
+     "text": "w pierwszej połowie szacunku nieruchomości, ustalonego przez Komisję Rządową, działającą na zasadach, określonych przez Ministra Skarbu, lub",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_5/lit_b",
+     "text": "zastawu towarów, przeznaczonych na wywóz, do wysokości 50°/o ceny rynkowej tych towarów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W granicach określonych § 1 niniejszego rozporządzenia upoważnia się Ministra Skarbu do ustalania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "przedmiotu poręki,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "zakresu odpowiedzialności Skarbu Państwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "ewentualnych warunków dodatkowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wykonanie niniejszego rozporządzenia powierza się Ministrowi Skarbu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej: 5. Wojciechowski"
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów i Minister Skarbu: W. Grabski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

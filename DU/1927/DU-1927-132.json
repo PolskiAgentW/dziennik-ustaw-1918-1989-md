@@ -1,0 +1,102 @@
+{
+ "eli": "DU/1927/132",
+ "title": "Rozporządzenie Ministra Komunikacji z dnia 4 lutego 1927 r. wydane w porozumieniu z Ministrami: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Dóbr Państwowych w sprawie zasad przy ustaleniu odległości pomiędzy stacjami, służących do obliczenia należytości taryfowych za przewóz osób, bagażu, zwierząt i towarów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1927/132/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Komunikacji z dnia 4 lutego 1927 r. wydane w porozumieniu z Ministrami: Skarbu, Przemysłu i Handlu oraz Rolnictwa i Dóbr Państwowych w sprawie zasad przy ustaleniu odległości pomiędzy stacjami, służących do obliczenia należytości taryfowych za przewóz osób, bagażu, zwierząt i towarów. Na mocy art. 4 punkt 9 ustawy z dnia 12 czerwca 1924 r. o zakresie działania Ministra Kolei Żelaznych i o organizacji urzędów kolejowych (Dz. U. R.P. Ne 57, poz. 580) oraz art. 2 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 września 1926 r. w sprawie ustanowienia urzędu Ministra Komunikacji (Dz. O. R. P. Ne 97, poz. 567) zarządza się co następuje:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Odległości taryfowe określa się od-",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "dzielnie:",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Na 17."
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_1/lit_a",
+     "text": "pomiędzy stacjami niewęzłowemi, leżącemi między . dwiema sąsiedniemi stacjami wezłowemi;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "od każdej stacji niewęzłowej do najbliższych stacyj węzłowych i odwrotnie;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "od każdego punktu granicznego do niewęzłowej, względnie do najbliższej stacji węzłowej;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_1/lit_d",
+     "text": "pomiędzy najdalszemi stacjami węzłowemi.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "Odległości te oblicza się od osi do osi stacji względnie od lub do punktu granicznego, przyczem ułamki kilometrów zaokrągla się wzwyż w każdej relacji do całego kilometra.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "Odległości taryfowe pomiędzy stacjami niewęzłowemi względnie punktami granicznemi, oddzielonemi od siebie dwiema lub więcej stacjami węzłowemi, określa się przez sumowanie odległości, obliczonych i zaokrąglonych stosownie do puktu b), c) i d) ustępu 1-go.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Za wzniesienia, względnie spadki linji kolejowej równe 15 tysiącznym i więcej dolicza się do faktycznej odległości międzystacyjnej 50°/o długości linji, posiadającej wzniesienia względnie spadek.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Równocześnie traci moc obowiązującą rozporządzenie Ministra Kolei Żelaznych z dnia 30 lipca 1920 r. (Dz. U. R.P. Ne 71, poz. 485).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Komunikacji: Romocki Minister Skarbu: G. Czechowicz Minister Przemysłu i Handlu: E. Kwiatkowski Minister Rolnictwa i Dóbr Państwowych: K. Niezabytowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

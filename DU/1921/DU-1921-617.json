@@ -1,0 +1,86 @@
+{
+ "eli": "DU/1921/617",
+ "title": "Rozporządzenie Ministra Skarbu oraz Ministra Przemysłu i Handlu z dnia 8 września 1921 r. w przedmiocie podwyższenia dopłaty (agio) do cła.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/617/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Rozporządzenie Ministra Skarbu oraz Ministra Przemysłu i Handlu z dnia 8 września 1921 r. w przedmiocie podwyższenia dopłały (agio) do cła. Na mocy art. 14 rozporządzenia Ministrów Skarbu oraz Przemysłu i Handlu z dnia 11 czerwca 1920 r. o taryfie celnej (Dz. U. R. P. z 1920r. Ne 51 poz. 314) zarządza się co następuje:"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wysokość dopłaty (agio) do cła na towary, wyszczególnione w § 1 rozporządzenia Ministra Skarbu i Ministra Przemysłu i Handlu z dn. 17 maja 1921 r. w przedmiocie podwyższenia (agio) od cła na towary o charakterze zbytkownym (Dz. U. R. P. z 1921 r. Ne 46 poz. 284) wynosić będzie aż do nowego zarządzenia 79.900°/o (mnożnik stawek celnych 800).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wysokość dopłaty (agio) do cła na inne towary, nieprzewidziane w § 1 niniejszego rozporządzenia, wynosić będzie aż do nowego zarządzenia 39.900%/ (mnożnik stawek celnych 400). . Postanowienie to nie dotyczy towarów, objętych rozporządzeniem Ministra Skarbu i Ministra Przemysłu i Handlu z dnia 18 sierpnia 1921 r. w przedmiocie ulg celnych (Dz. O. R. P. z 1921 r. Ne 70, poz. 471).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Obowiązujące dotychczas wysokości agia 29.900°/o (mnożnik 300) na towary przewidziane w § 1 i 14.900°/o (mnożnik 150) na towary, przewidziane w § 2 niniejszego rozporządzenia, można przejściowo stosować do © towarów:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_3/lit_a",
+     "text": "co do których na podstawie listów przewozowych (frachtów lub konosamentów) będzie można wykazać, że zostały nadane do przewozu z przeznaczeniem dla odbiorców w polskim obszarze celnym najpóźniej w dniu poprzedzającym dzień wejścia niniejszego rozporządzenia w życie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "zalegających w dniu wejścia niniejszego rozporządzenia w życie w celnych składach urzędowych, kolejowych oraz nieurzędowych. Ulgi wskazane w punktach a) i b) tracą moc po upływie 30 dni od dnia wejścia w życie niniejszego rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Niniejsze rozporządzenie wchodzi w życie siódmego dnia po ogłoszeniu w Dzienniku Ustaw R. P., uważając dzień następny po ogłoszeniu za pierwszy w tej rachubie. Jednocześnie z dniem wejścia w życie niniejszego rozporządzenia tracą moc obowiązującą: '1) rozporządzenie Ministra Skarbu oraz Ministra Przemysłu i Handlu z dn. 25 sierpnia 1921 r. w przedmiocie podwyższenia dopłaty",
+   "children": [
+    {
+     "type": "text",
+     "text": "(agio) do cła na towary o charakterze zbytkownym (Dz. U. R. P. z 1921 r. Ne 75 poz. 518) i"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "rozporządzenie Ministra Skarbu oraz Ministra Przemysłu i Handlu z dnia 23 czerwca 1921 r. (Dz. U. R. P. z 1921 r. Ne 57, poz. 366).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Skarbu: Michalski"
+      },
+      {
+       "type": "text",
+       "text": "Minister Przemysłu i Handlu: w z. Henry? Strasburger"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
