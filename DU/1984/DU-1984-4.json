@@ -1,0 +1,99 @@
+{
+ "eli": "DU/1984/4",
+ "title": "Rozporządzenie Rady Ministrów z dnia 30 grudnia 1983 r. zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników urzędów państwowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1984/4/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 grudnia 1983 T."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie zasad wynagradzania pracowników urzędów państwowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21 ust. 3, art. 22 ust. 2 i art. 24 ust. 2 oraz w związku z art. 43 ust. 1—3, art. 44, 46 i 53 ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. Nr 31, poz. 214) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Rady Ministrów z dnia 8 listopada 1982 r. w sprawie zasad wynagradzania pracowników urzędów państwowych (Dz. U. z 1982 r. Nr 39, poz. 259 oraz z 1983 r. Nr 44, poz. 206 i Nr 58, poz. 263) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 4 dodaje się ust. 3 w brzmieniu: „3. Pracownikom miejskiej służby porządkowej mogą być przyznane dodatki operacyjne w wysokości od 500 do 2.500 zł.\";",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w załączniku nr 2 w tabeli B dodaje się:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w lp. 3 w rubryce 2 po wyrazach: „Kierownik urzędu stanu cywilnego” wyrazy: „komendant miejskiej służby porządkowej”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w lp. 4 w rubryce 2 w wierszu plórważyci po wyrazach: „jednostki równorzędnej\" wyrazy: „zastępca komendanta miejskiej służby porządkowej\",",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "po lp. 4 — Ip. 4a w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "starszy inspekmiejskiej tor służby porządkowej"
+        },
+        {
+         "type": "text",
+         "text": "6"
+        },
+        {
+         "type": "text",
+         "text": "inspektor miejskiej służby porządkowej"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: gen. armii W. Jaruzelski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

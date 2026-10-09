@@ -1,0 +1,1621 @@
+{
+ "eli": "DU/1988/111",
+ "title": "Rozporządzenie Ministra Finansów z dnia 2 maja 1988 r. w sprawie szczegółowych zasad ustalania podatku od ponadnormatywnych wypłat wynagrodzeń oraz terminów jego płatności.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1988/111/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 maja 1988 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych zasad ustalania podatku od ponadnormatywnych wypłat wynagrodzeń oraz terminów jego płatności."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ust 3 i art. 34 ust. 1 ustawy z dnia 26 łutego 1982 r. o opodatkowaniu jednostek gospodarki uspołecznionej (Dz. U. z 1987 r. Nr 12, poz. 77) oraz w związku z załącznikiem nr 2 do rozporządzenia Prezesa Rady Ministrów z dnia 30 grudnia 1987 r. w sprawie określenia kompetencji niektórych naczelnych i centralnych organów administracji państwowej zastrzeżonych w szczę: gólnych przepisach ustawowych dla organów zniesionych oraz o zmięnionym zakresie działania (Dz. U. Nr 42, poz. 250) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Użyte w rozporządzeniu określenia oznaczają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "ustawa — ustawę z dnia 26 lutego 1982 r. o opodatkowaniu jednostek gospodarki uspołecznionej~ (Dz. U. z 1987 r. Nr 12, poz. 77),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "rozporządzenie —- rozporządzenie Rady Ministrów z dnia 18 listopada 1985 r. w sprawie stawek podatku od ponadnormatywnych wypłat wynagrodzeń oraz zasad ustałania kwot wynagrodzeń wolnych od podatku (Dz, U. z 1988 r. Nr 15, poz. 110),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "podatek — podatek od ponadnormatywnych wyrlat wynagrodzeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "wynagrodzenia — wypłaty pieniężne' oraz wartość świadczeń w naturze bądź ich ekwiwalentów, zaliczane do wynagrodzeń zgodnie z przepisami o klasyfikacji wynagrodzeń, ohciążające koszty działalności eksploatacyjnej, inwestycyjnej, socjalnej oraz innych rodzajów działalności wyodrębnionej finansowo; na równi z kosztami traktuje się straty nadzwyczajne wymienionych wyżej działalności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "kwota wynagrodzeń wolna od podatku — kwotę wynagrodzeń zaliczonych w ciężar kosztów wolną od podatku, o której mowa w § 3 ust. 1—3 rozporządzenia oraz w art. 31 ustawy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "formuła:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_6/lit_a",
+       "text": "opodatkowania indywidualnych wynagrodzeń —- sposób ustalania kwot wołnych od podatku określony w § 3 ust. 1 i 2 rożporządzenia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_6/lit_b",
+       "text": "progowa — sposób ustalania kwot wolnych cd podatku: określony w § 3 ust. 3 rozporządzenia, z uwzględnieniem § 3 rozporządzenia Rady Ministrów z dnia 28 marca 1988 r. zmieniającego rozporządzenie w sprawie stawek podatku od ponadnormatywnych wypłat wynagrodzeń oraz zasad ustalania kwot wynagrodzeń wolnych od podatku (Dz. U. Nr 10, poz. 80)",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_6/lit_c",
+       "text": "miernikowo-przyrostowa — sposób ustalania kwoty wolnej od podatku określony w art. 31 ustawy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "zysk — zweryfikowany zysk bilansowy lub nadwyżkę dochodów nad wydatkami,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "nagrody i premie — nagrody i premie z zysku do podziału, z nadwyżki bilansowej, w tym również wypłaty dla członków spółdzielni pracy z tytułu wkładu pracy, nagrody i premie z innych nadwyżek dochodów nad wydatkami,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "jednostki — jednostki gospodarcze, które na podstawie ustawy są obowiązane do obliczania podatku i jego uiszczania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "jednostki nowo powstałe — jednostki powstałe w wyniku inwestycji, utworzone lub połączone w celu prowadzenia nowej działalności gospodarczej, a także jednostki, które uzyskały osobowość prawną w wyniku zmian organizacyjnych połegających na podziale,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_1/pkt_11",
+     "text": "zweryfikowanie bilansu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_11/lit_a",
+       "text": "w państwowych jednostkach gospodarczych i w przedsiębiorstwach mieszanych — zweryfikowanie biłansu przez izbę skarbową lub inny upoważniony organ administracji państwowej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_11/lit_b",
+       "text": "w jednostkach spółdzielczych — zatwierdzenie bilansu przez walne zgromadzenie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_11/lit_c",
+       "text": "w organizacjach społecznych — zatwierdzenie bilansu przez zarząd organizacji społecznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_11/lit_d",
+       "text": "w spółkach — zatwierdzenie bilansu przez zgromadzenie wspólników,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_1/pkt_12",
+     "text": "rok (okres) poprzedni — rok (okres) poprzedzający rok podatkowy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_1/pkt_13",
+     "text": "inne osoby fizyczne — osoby fizyczne nie będące pracownikami danej jednostki, z którymi zawarto umowę zlecenia lub umowę o dzieło.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Z kwoty wynagrodzeń, zaliczonych według zasad sprawozdawczości Głównego Urzędu Statystycznego do wynagrodzeń obciążających koszty roku poprzedniego i podatkowego, ustalonej na podstawie ewidencji księgo- „wej, wyłącza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "wynagrodzenia z tytułu umów o prace autorskie i realizatorskie (honoraria),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "wynagrodzenia uczniów pobierane w okresie trwania nauki zawodu oraz wynagrodzenia studentów odbywających praktyki robotnicze i zawodowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "premie za oszczędność paliw płynnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "wynagrodzenia wypłacane członkom zakładowych zespołów gospodarczych za wykonywanie remontów, regenerację części zamiennych oraz wytwarzanie narzędzi na rzecz jednostki macierzystej, a także wynagrodzenia emerytów, rencistów i osób korzystających z urlopów wychowawczych za pracę w zakładowych zespołach gospodarczych,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "wynagrodzenia osób, które na zlecenie jednostki gospodarki uspołecznionej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_5/lit_a",
+         "text": "wykonały pracę niezbądną do opracowania i oceny projektów wynalazczych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_5/lit_b",
+         "text": "wykonały dokumentację przydatną do stosowania projektów wynalazczych (w tym model, prototyp).",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_5/lit_c",
+         "text": "wykonały pracę przy realizacji i wdrożeniu projektów wynałazczych do produkcji,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "wynagrodzenia wypłacane z funduszu rehabilitacji inwalidów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_1/pkt_7",
+       "text": "wynagrodzenia związane z usuwaniem awarii i szkód spowodowanych klęskami żywiołowymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_1/pkt_8",
+       "text": "wynagrodzenia pracowników grup awaryjno-remon- - . towych przedsiębiorstw (zakładów) gospodarki komunałnej, wypłacane na podstawie zleceń na naprawy i remonty awaryjne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_8/lit_a",
+         "text": "urządzeń wodociągowo-kanalizacyjnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_8/lit_b",
+         "text": "urządzeń centralnego ogrzewania i ciepłej wody,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_8/lit_c",
+         "text": "sprzętu specjalnego i transportowego do oczyszczania miast,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_1/pkt_9",
+       "text": "wynagrodzenia prowizyjne z tytułu kolportażu książek i biletów wstępu na imprezy artystyczne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/ust_1/pkt_10",
+       "text": "wynagrodzenia złotowe osób zatrudnionych poza granicami kraju,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/ust_1/pkt_11",
+       "text": "wynagrodzenia osób zatrudnionych w ramach ochotniczych hufców pracy, .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/ust_1/pkt_12",
+       "text": "wypłaty z rezerw na wynagrodzenia, .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_2/ust_1/pkt_13",
+       "text": "kwotę ulgi z tytułu produkcji eksportowej, o której mowa w § 4 rozporządzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_2/ust_1/pkt_14",
+       "text": "kwotę ulgi z tytułu pracy w systemie ciągłym, 4-zmianowym i 3-zmianowym, o której mowa w § 5 pkt 2 rozporządzenia, w jednostkach stosujących -formułę progową.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Dla formuły opodatkowania indywidualnych wynagrodzę: przez rok poprzedni rozumie się rok 1987,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "W celu ustalenia kwoty wynagrodzeń za 1987 r. kwotę ulgi, o której mowa w ust. i pkt 13, przyjmuje siz w wysokości wykazanej w rozliczeniu podatku za 1987 7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Kwotę wynagrodzeń ustaloną zgodnie z ust. 1i2 kła 1987 r. pomniejsza się o przyrost wynagrodzeń określony w art. 30 ust. 2 pkt 2 ustawy, od którego jednostka jest obowiązana uiścić podatek.",
+     "children": [
+      {
+       "type": "text",
+       "text": "- Rozdział 2"
+      },
+      {
+       "type": "text",
+       "text": "Formula opodatkowania indywidualnych wynagrodzeń"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "W celu ustalenia przeciętnego rocznego wynagrodzenia za 1987 r., o którym mowa w § 3 ust. i lit. a) rozporządzenia, kwotę wynagrodzeń ustaloną zgodnie z § 2 pomniejsza się o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "wynagrodzenia bezosobowe i agencyjno-prowizyjne innych osób fizycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "wynagrodzenia osób odbywających zastępczą służbę poborowych, żołnierzy odbywających zasadniczą służbę wojskową oraz junaków obrony cywilnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "wynagrodzenia skazanych i ukaranych",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "i dzieli się przez przeciętne zatrudnienie ustalone zgodnie z ust. 2."
+      },
+      {
+       "type": "text",
+       "text": "Poz. lil"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Przeciętne roczne zatrudnienie ustala się według sprawozdawczości Głównego Urzędu Statystycznego bez. osób zatrudnionych w zakładach ne zryczałtowanym rozrachunku i bez osób, których wynagrodzenia zostały wymienione w ust. 1 pkt 2 i 3 oraz w § 2 ust. 1 pkt 2, 6, 10, 11, a powiększone o przeciętne zatrudnienie osób wy- -konujących pracę nakładczą, wyliczone zgodnie z ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Przeciętne roczne zatrudnienie osób wykonujących pracę nakładczą ustala się jako iloraz kwoty ich wynagrodzeń i przeciętnego wynagrodzenia w jednostce, ustałonego na podstawie sprawozdawczości Głównego Urzędu Statystycznego, bez nagród i premii z zysku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Roczną kwotę wynagrodzeń wolną od podatku w jednostce stanowi suma:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "60%» przeciętnego rocznego wynagrodzenia ustalonego zgodnie z § 3,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "rezerwy na wynagrodzenia ustalonej jako iloraz kwoty rezerwy na wynagrodzenia utworzonej w 1987 r. i przeciętnego zatrudnienia tego roku wyliczonego zgodnie z § 3 ust. 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "dodatkowych kwot wolnych określonych w centralnym planie rocznym, przeliczonych w stosunku rocznym, zmniejszenia zatrudnienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "kwoty wynikającej ze obliczonej zgodnie z § 5.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Dła wyliczenia kwoty ulgi eksportowej, o której mowa w § 4 ust. 1 i 2 rozporządzenia, kwotę wynagrodzeń wolną od podatku stanowi suma:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "kwoty wynagrodzeń 1987 r. ustalonej zgodnie z § 2, pomniejszonej o wynagrodzenia wymienione w § 3 ust. 1 pkt 1—3, rezerwy na wynagrodzenia utworzonej w",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "kwoty 1987 r.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "iloczynu sumy kwot wymienionych w pkt i i 2 i wskaźnika wzrosiu cen detalicznych określonego w centralnym planie rocznym na dany rok.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Kwotę wynagrodzeń wynikającą ze zmniejszenia zatrudnienia oblicza się jako iloczyn liczby osób, o którą zmniejszono przeciętne zatrudnienie w roku podatkowym w stosunku do 1987 r. (ustalone według zasad określonych w § 3 ust. 2), i przeciętnego wynagrodzenia roku poprzedniego ustalonego zgodnie z § 3 ust. I, powiększonego o wskaźnik wzrostu cen detalicznych, określony w centralnym planie rocznym na dany rok. Tak ustaloną kwotę dzieli się przez przeciętne zatrudnienie roku podatkowego, ustalone zgodnie z § 3 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Kwoty wynagrodzeń wynikającej ze zmniejszenia zatrudnienia nie ustalają jednostki, w których zmniejszenie zatrudnienia następuje w wyniku reorganizacji, o której mowa w § 22, lub delegowania pracowników do pracy za granicą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Jednostki wprowadzające nowe rozwiązania ‘konstrukcyjno-technologiczne, w tym również wykonujące wyroby prototypowe, wymagające wydatkowania wynagrodzeń przed uzyskaniem efektów produkcyjnych, mogą pomniejszyć kwotę wynagrodzeń roku podatkowego c część kwoty wynagrodzeń związanej z tymi pracami. Kwotę tego zmniejszenia, w okresie nie dłuższym niż 2 lata, ustała właściwa izba skarbowa.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Wynagrodzenia indywidualne pomniejsza się o iloraz kwoty, o której mowa w ust. 1, i przeciętnej liczby pracowników w roku podatkowym, ustalonej zgodnie Z §3 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Jednostka, która dokonała zmniejszenia indywidualmych wynagrodzeń pracowników zgodnie z ust. 2, powiększa indywidualne wynagrodzenia pracowników przez okres nie dłuższy niż 2 lata od wprowadzenia nowych rozwiązań do produkcji. Suma kwot powiększających wynagrodzenia indywidualne nie może być niższa ol kwoty zmniejszenia, o której mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Przepis ust. 1 nie dotyczy wynagrodzeń wydatkowanych na nowe rozwiązania konstrukcyjno-technołogiczne i wyroby prototypowe, które zostały sprzedane przed wdrożeniem tych rozwiązań do produkcji lub eksploatacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Kwotę indywidualnego wynagrodzenia pracownika w roku (okresie) podatkowym, obliczoną z uwzględnieniem § 2 ust. 1 pkt 1—11, pomniejsza się o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_1/pkt_1",
+       "text": "kwotę określoną w § 6 ust. 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_1/pkt_2",
+       "text": "wynagrodzenia sporadyczne określone w § 8 ust. 2, a powiększa o wynagrodzenie określone w § 6 ust. 3.",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "indywidualnego wynagrodzenia ustaloną"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Kwotę zgodnie z ust. 1 pomniejsza się, według zasad określonych w ust. 3, o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "wypłaty z rezerw na wynagrodzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "ulgę eksportową, stosownie do przepisów § 4 rozporządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Pomniejszenie wynagrodzeń indywidualnych w roku (okresie) podatkowym z tytułu wypłat z rezerwy na wynagrodzenia i ulgi eksportowej ustala się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "jako iloczyn kwoty indywidualnego wynagrodzenia pracownika —- po wyłączeniu składników wynagrodzeń, określonych w ust. 1, przed przeliczeniem na pełny wymiar czasu pracy, oraz wskaźnika ustalonego w pkt 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "wskaźnik, o którym mowa w pkt 1, ustala się jako iloraz kwoty wypłat z rezerwy na wynagrodzenia w roku (okresie) podatkowym lub kwoty ulgi eksportowej wyliczonej zgodnie z § 4 rozporządzenia i sumy wynagrodzeń indywidualnych, po wyłączeniach określonych w ust. 1 i przed przeliczeniem na pełny wymiar czasu pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Jednostki nowa powstałe w roku poprzednim lub w roku podatkowym dla obliczenia pomniejszenia z tytułu ulgi eksportowej, o którym mowa w ust. 3, przyjmują sumą indywidualnych wynagrodzeń pracowników z roku (okresu) podatkowego, ustalonych zgodnie z ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Podstawę opodatkowania stanowi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "nadwyżka indywidualnego wynagrodzenia pracownika ustalonego zgodnie z § 7 w roku (okresie) podatkowym ponad kwotę wolną, ustaloną zgodnie z § 3—5,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "kwota wynagrodzeń sporadycznych roku (okresu) podatkowego.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Poz. 1il"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Do wynagrodzeń sporadycznych, o których mowa w ust. pkt 2, zalicza się: ~",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_2/pkt_1",
+       "text": "nagrody jubileuszowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_2/pkt_2",
+       "text": "odprawy emerytalne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_2/pkt_3",
+       "text": "wartość umundurowania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Na równi z wynagrodzeniami sporadycznymi traktuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_3/pkt_1",
+       "text": "wynagrodzenia bezosobowe i agencyjno-prowizy jne innych osób fizycznych,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "premie byłych pracowników, >"
+      },
+      {
+       "type": "text",
+       "text": "—"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_3/pkt_3",
+       "text": "wynagrodzenia osób odbywających zastępczą służbę poborowych, żołnierzy odbywających zasadniczą służbę wojskową oraz junaków obrony cywilnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_3/pkt_4",
+       "text": "wynagrodzenia skazanych i ukaranych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_8/ust_3/pkt_5",
+       "text": "wynagrodzenia osób pracujących nie dłużej niż 3 miesiące.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Kwotę podatku za rok (okres) podatkowy stanowi suma podatków naliczonych od nadwyżek indywidualnych wynagrodzeń pracowników oraz podatku obiiczonego od wynagrodzeń sporadycznych i wynagrodzeń zrównanych z wynagrodzeniami sporadycznymi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W celu obliczenia podatku od indywidualnych wynagrodzeń:",
+     "children": [
+      {
+       "type": "text",
+       "text": "1} pracowników zatrudnionych w niepełnym wymiarze czasu pracy — należy ich wynagrodzenia przeliczyć na pełny wymiar czasu pracy,"
+      },
+      {
+       "type": "text",
+       "text": "<2) pracowników, którzy przepracowali łącznie w roku kalendarzowym dłużej niż 3 miesiące — należy ich wynagrodzenia przeliczyć na wynagrodzenia całoroczne, przyjmując za rok 360 dni, a za miesiąc 30 dni."
+      },
+      {
+       "type": "text",
+       "text": "Podatek ustalony od przeliczonych wynagrodzeń zgodnie z pkt 1 i-2 uwzględnia się w kwocie naliczonego podatku za dany rok (okres) proporcjonalnie do wymiaru czasu pracy pracowników. i"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Podatek od wynagrodzeń sporadycznych i wynagrodzeń zrównanych z wynagrodzeniami sporadycznymi ustala cig jako iloczyn kwoty tych wynagrodzeń i procentowego wskażnika relacji podatku od wynagrodzeń indywidualnych pracowników do ich wynagrodzeń za rok (okres) podatkowy w wysokości przyjętej do wyliczenia podatku zgodnie z § 7 przed przeliczeniem na skutki",
+     "children": [
+      {
+       "type": "text",
+       "text": "roczne."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Jednostki, które w roku podatkowym lub w ciągu roku poprzedniego uruchomiły nowe zakłady, wydziały i inne organizacyjnie wydzielone obiekty, mogą pomniejszyć podatek o iloczyn przyrostu przeciętnego zatrudnienia z tytułu uruchomienia nowego zakładu, ustalonego zgodnie z § 3 ust. 2, w stosuńku do roku poprzedniego i przeciętnej kwoty podatku obliczonej zgodnie z ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Przeciętną kwotę podatku, o której mowa w ust. t, oblicza się jako iloraz podatku za rok podatkowy i przeciętnego zatrudnienia roku podatkowego ustalonego zgodnie z § 3 ust. 2.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Poz. iit"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Jednostki, które dokonują zaliczkowych wpłat podatku za poszczególne kwartały w sposób określony w § 26 ust. 1 pkt 1, mogą stosować zasadę określoną w",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 6 i 10 również w okresach kwartalnych."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Formula progową"
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Kwotę wynagrodzeń wolną od podatku stanowi suma:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "t",
+     "path": "par_12/lit_t",
+     "text": "kwoty wynagrodzeń roku (okresu) poprzedniego, ustelonej zgodnie z § 2,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "kwoty rezerwy na wynagrodzenia,sutworzonej w roku poprzednim,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_12/pkt_3",
+     "text": "iloczynu sumy kwot wymienionych w pkt Li 2 i procentowego przyrostu wynagrodzeń wolnego od podatku, określonego w centralnym planie rocznym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_12/pkt_4",
+     "text": "dodatkowych kwot wolnych, określonych w central- ‘nym planie rocznym, ponad kwoty uwzględnione w procentowym przyroście wynagrodzeń, o którym mowa w pkt 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Kwotę wynagrodzeń roku (okresu) podatkuwegó, ustaloną zgodnie z § 2 ust. 1 pkt 1—12, pomniejsza się o ulgę eksportową obliczoną stosownie do przepisów § 4 rozporządzenia oraz o ulgę z tytułu pracy w systemie ciągłym, 4-zmianowym i 3-zmianowym, stosownie do przepisu § 5 pkt 2 rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Kwotę ulgi eksportowej, o której mowa w ust. I, Ustala się jako iloczyn równowartości odpowiedniej procentowej części kwoty wynagrodzeń wolnej od podatku, bez uwzględnienia w niej dodatkowych kwot wolnych określonych w centralnym planie rocznym, i wskaźnika relacji sprzedaży na eksport wyrażonej w cenach transakcyjnych do wagqjości produkcji sprzedanej ogółem w ce- — nach realizacji (w tym eksport w cenach transakeyjnych), pomniejszonej o podatek obrotowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Do obliczenia ulgi z tytułu pracy w systemie ciągłym, 4-zmianowym i 3-zmianowym, przyjmuje się równowartość 20%0 kwoty wynagrodzeń wolnej od podatku, bez uwzględnienia w niej dodatkowych kwot wołnych, określonych w centralnym planie rocznym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "Jednostki nowo powstałe w roku poprzednim luh podatkowym dla obliczenia kwoty ulgi ekspórtowej i ulgi z tytułu pracy w systemie ciągłym, 4-zmianowym i 3-zmianowym, o których mowa w ust. 1—3, w miejsce kwcty wynagrodzeń wolnej od podatku przyjmują kwotę wynagrodzeń z roku (okresu) podatkowego, ustaloną zgodnie z § 2 ust. t pkt 1—12.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Jednostki wprowadzające nowe rozwiązania konstrukcyjno-technologiczne, w tym również wykonujące wyroby prototypowe, wymagające wydatkowania wynagrodzeń przed uzyskaniem efektów produkcyjnych, mogą pomniejszyć kwotę wynagrodzeń roku (okresu) podatkowego o część kwoty wynagrodzeń związanej z tymi pracami. Kwotę tego zmniejszenia przez” okres nie dłuższy niż 2 lata, na wniosek jednostki, ustala właściwa izba skarbowa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Jednostka, która zmniejszyła kwotę wynagrodzeń w roku (latach) podatkowym, powiększa o tę kwotę wynagrodzenia roku (lat), w którym nowe rozwiązania zostaną wprowadzone do produkcji, przez okres nie dłuższy niż 2 lata. Łączna wysokość kwot powiększających wynagrodzenia w roku (latach) podatkowym nie może być niższa od kwoty zmniejszenia, o której mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Przepis ust. 1 nie dotyczy wynagrodzeń wydatkowanyci na nowe rozwiązania konstrukcyjno-technologiczne i wyroby prototypowe, które zostały sprzedane przed wdrożeniem tych rozwiązań do produkcji lub eksploatacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Jednostki, które w roku podatkowym lub w ciągu roku poprzedniego uruchomiły nowe zakłady, wydziały i inné organiżacyjnie i ewidencyjnie wydzielone obiekty, w wyniku czego nastąpił wziost zatrudnienia ogółem w jednostce, mogą zmniejszyć kwotę wynagrodzeń roku podatkowego o wynagrodzenia pracowników nowo zatrudnionych w tych zakładach lub o przyrost wynagrouzeń, jeżeli uruchomienie nastąpiło w roku poprzednim.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Podstawę opodatkowania w ioku (okresie) podatkowym stanowi nadwyżka wynagrodzeń ustałonych zgodnie z § 2 ust. 1 pkt t—12, z uwzględnieniem § 13—15, ponad kwotę wynagrodzeń wolną od podatku ustaloną zgodnie z § 12.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Jednostki, w których kwota wynagrodzeń roku podaikowego, ustalona zgodnie z § 2 ust. 1 pkt 1—!2, z uwzględnieniem § 13--15, jest niższa od kwoty wynagrodzeń wolnej od podatku, określonej w § 12, mogą tworzyć rezerwę na wynagrodzenia do wysokości tej różnicy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "t. Jednostki, dla których Minister Finansów ustalił jako podstawę opodatkowania nadwyżkę przeciętnego wynagrodzenia ponad przeciętne wynagrodzenie wolne od podatku, ustalają przeciętne wynagrodzenia, dzieląc kwotę wynagrodzeń roku poprzedniego i roku podatkowego, ustaloną zgodnie z § 12—15, z wyłączeniem wynagrodzeń osób wykonujących pracę nakładczą oraz osób skazanych i ukaranych, przez przeciętne zatrudnienie wykazane w sprawązdawczości Głównego Urzęcu Statystycznego, z wyłączeniem:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "osób zatrudnionych w zakładach na zryczałtowanym rozrachunku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "pracowników zatrudnionych poza granicami kraju,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_17/pkt_3",
+     "text": "osób skazanych i ukaranych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_17/pkt_4",
+     "text": "pracowników zatrudnionych w nowo uruchomionych zakładach lub przyrostu zatrudnienia, jeżeli nowa uruchomienie miało miejsce w roku poprzednim w jednestkach, o których mowa w § 15,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_17/pkt_5",
+     "text": "pracowników wynagradzanych z funduszu rehabilitacji inwalidów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Podatek ustala się jako iloczyn podatku obliczorego od nadwyżki przeciętnego miesięcznego wynaqgrodzenia z roku (okresu) podatkowego ponad przeciętne miesięczne wynagrodzenie wolne od podatku, liczby miesiący i przeciętnego zatrudnienia z roku (okresu) podatkowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Formuła miernikowo-przyrostowa"
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Kwotę wynagrodzeń wolną od podatku ustala się jako sumę:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "kwoty wynagrodzeń z roku",
+       "children": [
+        {
+         "type": "text",
+         "text": "(okresu) poprzedniego, 1 pkt 5, 12 i 13 oraz ustalonej zgodnie z § 2 ust. ust. 2:"
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_18/ust_1/pkt_1/lit_a",
+         "text": "pomniejszonej o kwotę podlegającą podatkowi w roku poprzednim — w jednostkach, w których wystąpiła nadwyżka wynagrodzeń ponad kwotę wolną od podatku, ustaloną zgodnie z obowiązującą formułą,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_18/ust_1/pkt_1/lit_b",
+         "text": "powiększonej o kwotę wynagrodzeń w wysokości uprawniającej jednostkę do utworzenia rezerwy na wynagrodzenia w roku poprzednim,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "iloczynu kwoty wymienionej w pkt 1 i procentowego przyrostu (spadku) produkcji sprzedanej netto, skorygowanego współczynnikiem w wysokości 0,4 (przy spadku 0,65),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_1/pkt_3",
+       "text": "dodatkowej kwoty wolnej z tytułu syntetycznej oceny płac.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Przyrost produkcji sprzedanej netto (sprzedaży netto) oblicza się w cenach bieżących, bez wyłączania wpływu zmian cen. W jednostkach prowadzących działa!- ność rolniczą stosuje się —— zamiast produkcji sprzedanej netto — produkcję końcową netto.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Kwotę wynagrodzeń z roku (okresu) pom datkowego, ustaloną zgodnie z § 2 ust. 1 pkt 51 12, pomniejsza się o ulgę eksportową stosownie do przepisów § 4 rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Kwotę ulgi eksportowej, o której mowa w ust. I, ustała siz jako iloczyn równowartości odpowiedniej procentowej części kwoty wynagrodzeń wolnej od podatku —— bez uwzględnienia w niej dodatkowej kwoty wolnej z tytułu syntetycznej oceny płac, o której mowa w § 18 ust. i pkt 3 — i wskaźnika relacji sprzedaży na eksport, wyrażonej w cenach transakcyjnych, do wartości produkcji sprzedanej ogółem w cenach realizacji (w tym eksport w cenach transakcyjnych) pomniejszonej o podatek obrotowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Jednostki nowe powstałe w roku poprzednim lub w roku podatkowym dla obliczenia kwoty ulgi eksportowej, o której mowa w ust. 1 i 2, przyjmują kwotę wynagrodzeń z roku (okresu) podatkowego ustałoną zgodnie z § 2 ust, I pkt 5i 12.",
+     "children": [
+      {
+       "type": "text",
+       "text": "-§ 20. 1. Podstawę opodatkowania w roku (okreSie) podatkowym stanowi nadwyżka wynagrodzeń ustalonych zgodnie z § 2 ust. 1 pkt 5 i 12, z uwzględnieniem § 19, ponad kwotę wynagrodzeń wolną od podatku, ustaloną zgodnie z § 18."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Jednostki, w których kwota wynagrodzeń z roku podatkowego, ustalona zgodnie z § 2 ust. 1 pkt 5 i 12, z uwzględnieniem § 19, jest-ńiższa od kwoty wynagrodzeń wołnej od podatku, ustałonej zgodnie z § 18, mogą. utworzyć rezerwę na wynagrodzenia do wysokości tej różnicy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Uregulowania współne dla stosowanych formuł"
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Na wniosek jednostki nowo powstałej w roku poprzednim lub w roku podatkowym kwotę wolną od podatku ustała właściwa izba skarbowa, uwzględniając:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_1/pkt_1",
+       "text": "przeciętne wynagrodzenie w gospodarce uspołecznionej w roku podatkowym i poprzednim oraz województwie —— siedzibie jednostki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_21/ust_1/pkt_2",
+       "text": "liczbę i strukturę zatrudnienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_1/pkt_3",
+       "text": "rodzaj prowadzonej działalności.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Do jednostek nowo powstałych nie ma zastosowania § 5 oraz § 6 ust. 2, 8 i 9 rozporządzenia,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Dla jednostek, które zostały utworzone w roku podatkowym lub w roku poprzednim w wyniku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_1/pkt_1",
+       "text": "wyodrębnienia z kombinatu, p:zedsiębiorstwa, spółdzielni lub innej jednostki gospodarki uspołecznionej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_1/pkt_2",
+       "text": "podziału jednostki gospodarczej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_1/pkt_3",
+       "text": "połączenia jedńostek gospodarczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_22/ust_1/pkt_4",
+       "text": "przekształcenia formalno-organizacy jnego, izba skarbowa na wniosek zainteresowanej jednostki ustala kwotę \"wynagrodzeń wolną od podatku na podstawia tych wielkości przed wyodrębnieniem, podziałem, połączeniem lub przekształceniem formalno-organizacyjnym, z uwzględnieniem skutków ewentualnych zmian zatrudnienia wynikających *z nowej struktury organizacyjnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Jednostki stosujące tormule progową i miernikowo- -przyrostową w przypadku reorganizacji, polegającej na przejęciu lub przekazaniu jednostek organizacyjnych (zakładów, wydziałów, działów), dokonają odpowiedniej korek-. ty kwoty wynagrodzeń i produkcji sprzedanej netto roku poprzedniego. Korekta kwot bezwzględnych jest identyczna w każdej z jednostek, Stosownej korekty kwoty wynagrodzeń i produkcji sprzedanej netto z roku poprzedniego dokonuje także jednostka w przypadku likwidacji wydzielonych organizacyjńie zakładów, wydziałów lub działów. O dokonanej korekcie jednostka powiadamia właściwy urząd skarbowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Zrzeszenia przedsiębiorstw państwowych, zwiqzki spółdzielcze i organizacje społeczne, przy których działają wyodrębnione jednostki organizacyjne prowadzące działalność gospodarczą, mogą obliczać podatek odrębnie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "'1) z tytułu działalności gospodarczej poszczególnych jednostek samobilansujących."
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_23/pkt_2",
+     "text": "od nadwyżki wynagrodzeń wypłaconych w zrzeszeniu lub w związku ponad kwotę wolną, ustałoną według zasad obowiązujących te jednostki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Opodatkowanie nagród i premii z zysku do podziału"
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Przy ustałaniu normatywnego wskaźnika udziału wypłat nagród i premii w odniesieniu do kwoty zysku ponad zysk bazowy, uwzględnia się koszty działalności eksploatacyjnej. Koszty działalności eksploatacyjnej pomniejsza się o wynagrodzenia osób wykonujących pracę nakładczą — w razie opodatkowania w roku podatkowym nadwyżki przeciętnego wynagrodzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Jednostka powstała w ciągu 1984 r. przy ustałaniu. normatywnego wskaźnika udziału wypłat nagród i premii przelicza wielkości dotyczące wynagrodzeń, żysku i kosztów tego roku na wielkości całoroczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_24/ust_3",
+     "text": "Jednostka powstała z dniem 1 stycznia 1985 r. ustałając normatywny wskaźnik udziału wypłat nagród i premii, przyjmuje średnie wielkości. wynagrodzeń, zysku i kosztów z lat 1985 i 1986.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_24/ust_4",
+     "text": "Jednostka powstała w ciągu 1985 r., ustalając normatywny wskaźnik udziału wypłat nagród i premii, przy jmuje średnie wielkości wynagrodzeń, zysku i kosztów z",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF nie ma czytelnej warstwy tekstowej. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng). Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "ocr",
+       "text": "Dżieńnik Ustaw Nr 15"
+      },
+      {
+       "type": "ocr",
+       "text": "tego okresu w przeliczeniu na wielkości całoroczne i z 1986 r. ."
+      },
+      {
+       "type": "ocr",
+       "text": "5. Jednostka powstała z dniem i stycznia roku poprzedniego, ustałając normatywny wskażnik udziału wypłat nagród i premii w zysku za ten rok, przyjmuje wielkość wynagrodzeń, zysku i kosztów z tego roku. a w przypadku powstania w ciągu roku poprzedniego — w przeliczeniu na wielkości całoroczne."
+      },
+      {
+       "type": "ocr",
+       "text": "6. Dla celów ustalenia kwoty wolnej dla wypłat premii i nagród z zysku do podziału w drugim roku i następnych latach działalności, jednostka określa normatywny wskaźnik udziału wypłat nagród i premii, przyjmując średnie wielkości wynagrodzeń, zysku i kosztów z pierwszego roku działalności, ustalone zgodnie z ust. 5, oraz z drugiego roku działalności."
+      },
+      {
+       "type": "ocr",
+       "text": "7. W razie wystąpienia straty bilansowej w jednym z dwóch lat, z których zysk przyjmowany jest do ustalenia normatywnego wskaźnika udzialu premii i nagród, wskażnik ten ustala się przyjmując wielkość zysku w jednym roku."
+      },
+      {
+       "type": "ocr",
+       "text": "8. Normatywne wskaźniki udziału wypłat nagród i premii z zysku do podziału ustala się z dokładnością do trzech miejsc po przecinku. -"
+      },
+      {
+       "type": "ocr",
+       "text": "5 25. 1. Podstawę do obliczenia kwoty nagród i premii wołnej od podatku w roku podatkowym stanowi zysk za rok poprzedni."
+      },
+      {
+       "type": "ocr",
+       "text": "2. Kwotę nagród i premii podlegającą podatkowi stanowią wypłaty dokonane w roku podatkowym, łącznie z kwotą środków przekazanych z funduszu załogi innej jednostce, przekraczające kwotę wolną od podatku."
+      },
+      {
+       "type": "ocr",
+       "text": "3. Kwotę nagród i premii podlegającą podatkowi, ustałoną zgodnie z ust. 1, pomniejsza się o:"
+      },
+      {
+       "type": "ocr",
+       "text": "1) wypłaty za oszczędność surowców, materiałów, paliw i energii, zwolnione od podatku na podstawie $ 9 rozporządzenia,"
+      },
+      {
+       "type": "ocr",
+       "text": "2) wypłaty ze środków . otrzymanych z funduszu załogi innych jednostek,"
+      },
+      {
+       "type": "ocr",
+       "text": "3) wypłaty dla pracowników wynagradzanych z funduszu rehabilitacji inwalidów,"
+      },
+      {
+       "type": "ocr",
+       "text": "4) wypłaty dla członków spółdzielni zatrudnionych w zakładach na zryczałtowanym rozrachunku,"
+      },
+      {
+       "type": "ocr",
+       "text": "5) wypłaty dla osób wykonujących pracę nakładczą w przypadku opodatkowania nadwyżki przeciętnego wynagrodzenia w formule progowej."
+      },
+      {
+       "type": "ocr",
+       "text": "Kwota zmniejszenia z tytułu wypłat wymienionych w pkt 3—5 nie może być wyższa niż kwota wynikająca z dłóczynu diczby osób, o których mowa w pkt 3—5, oraz przeciętnej nagrody i premii przypadającej na jednego zatrudnionego."
+      },
+      {
+       "type": "ocr",
+       "text": "4. Kwotę nagród i premii, o której mowa w ust. 3, sumuje się z kwotą przekazaną z zysku do podziału za rok poprzedni na żakładowy fundusz socjalny, z wyłączeniem środków przekazanych na rachunek amortyzacji środków trwałych służących zakładowej działalności socjalnej, przekraczającą 120076 kwoty odpisu podstawowego za rok podatkowy."
+      },
+      {
+       "type": "ocr",
+       "text": "Poz. iit"
+      },
+      {
+       "type": "ocr",
+       "text": "Rozdział 7"
+      },
+      {
+       "type": "ocr",
+       "text": "Terminy it tryb rozliczenia podatku"
+      },
+      {
+       "type": "ocr",
+       "text": "§ 26. 1. Jednostki stosujące opodatkowanie indywidualnych wynagrodzen dokonują zaliczkowych wpłat podatku za poszczególne kwartały według jednego z wymienionych sposobów:"
+      },
+      {
+       "type": "ocr",
+       "text": "1) odpowiednio jako 1/4, 1/2 i 3/4 kwot podatku za rok podatkowy w rozliczeniach za I, II i III kwartał oraz kwoty rocznego podatku za IV kwartal, wyliczonych zgodnie z § 8—II,"
+      },
+      {
+       "type": "ocr",
+       "text": "2) odpowiednio jako 1/4, 1/2 i 3/4 kwot podatku za rok podatkowy od nadwyżki przeciętnego wynagrodzenia za I II i III kwartał oraz kwoty rocznego podatku za IV kwartał w rachunku narastającym ponad kwote; wolną, ustaloną zgodnie z $ 3—5."
+      },
+      {
+       "type": "ocr",
+       "text": "2. Przeciętne wynagrodzenie, o którym mowa w ust. 1 pkt 2, wylicza sie jako iloraz kwoty wynagrodzeń obciazajacej koszty I, II, IM i IV kwartału, ustalonej zgodnie z $ 2 ust. 1 w rachunku narastającym, i przeciętnego zatrudnienia z analogicznych okresów, ustalonego zgodnie z $ 3 ust. 2."
+      },
+      {
+       "type": "ocr",
+       "text": "3. Kwotę zaliczkowej wpłaty podatku za okresy, o których mowa w ust. 1 pkt 2, stanowi kwota wynikająca z przemnożenia podatku ustalonego od nadwyżki przeciętnego wynagrodzenia ponad kwotę wolną i przeciętnego zatrudnienia z analogicznego okresu, ustalonego zgodnie z $ 3 ust. 2."
+      },
+      {
+       "type": "ocr",
+       "text": "4. Przy obliczaniu podatku za poszczególne kwartały jednostki stosujące formułę progową lub miernikowo- -przyrostowa przyjmują odpowiednio 1/4, 1/2 i 3/4 kwoty wynagrodzeń wolnej od podatku, ustalonej zgodnie z rozdziałami 3 i 4."
+      },
+      {
+       "type": "ocr",
+       "text": "5. Jednostki wymienione w ust. 4 mogą przyjąć przy kwartalnym rozliczeniu podatku kwotę wynagrodzeń wolną od podatku z analogicznych okresów roku poprzedniego."
+      },
+      {
+       "type": "ocr",
+       "text": "6. Zastosowany w rozliczeniu pódatku za I kwartał sposób ustalania kwoty wynagrodzeń wolnej od podatku, o którym mowa w ust. 4 lub 5, obowiązuje przez cały rok podatkowy."
+      },
+      {
+       "type": "ocr",
+       "text": "7. Wpłaty podatku dokonuje się zaliczkowo za okresy kwartalne w rachunku narastającym od początku roku w terminach:"
+      },
+      {
+       "type": "ocr",
+       "text": "1) do dnia 31 maja za I kwartał,"
+      },
+      {
+       "type": "ocr",
+       "text": "2) do dnia 25 następnego miesiąca po upływie II i I kwartału,"
+      },
+      {
+       "type": "ocr",
+       "text": "3) do dnia 28 grudnia za IV kwartał."
+      },
+      {
+       "type": "ocr",
+       "text": "8. Ostatecznego rozliczenia wpłat podatku za rok podatkowy dokonuje się w ciągu 20 dni od dnia wyznaczonego przez Główny Urząd Statystyczny dla złożenia rocznego sprawozdania finansowego, a w jednostkach, w których termin taki nie obowiązuje — do końca lutego roku następnego po roku' podatkowym."
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "par_24/ust_9",
+     "text": "Jednostki, w których w wyniku weryfikacji bilansu wystąpią zmiany w rozliczeniu wpłat podatku, dokonują uzupełniającego rozliczenia tego podatku w ciągu 10 dni od dnia zweryfikowania bilansu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "par_24/ust_10",
+     "text": "Jednostki prowadzące działalność rolniczą obliczają podatek za poszczególne kwartały w terminach określonych w ust. 7, natomiast wpłaty podatku dokonują jednorazowo po zakończeniu roku podatkowego w terminie określonym w ust. 8.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "par_24/ust_11",
+     "text": "Rozliczenia i wpłaty podatku z tytułu wypłat nagród i premii przekraczających kwoty wolne od podatku dokonuje się w terminach określonych w ust. 7i8.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "par_24/ust_12",
+     "text": "Wpłat podatku dokonuje się na rachunki dochodów budżetu centralnego we właściwych urzędach skarbowych, z uwzględnieniem § 11 rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "par_24/ust_13",
+     "text": "Jeżeli w wyniku rozliczenia podatku za okresy kwartalne narastająco od początku roku powstanie nadpłata, podlega ona zwrotowi w ciągu miesiąca od dnia złożenia w urzędzie skarbowym deklaracji, o której mowa w § 27.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "par_24/ust_14",
+     "text": "Nadpłata, powstała w wyniku ostatecznego rozliczenia podatku za dany rok, podlega zwrotowi w ciągu miesiąca od dnia złożenia tego rozliczenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_14/pkt_1",
+       "text": "z rachunku urzędu skarbowego — jeżeli jednostka \"gospodarcza dokonała wpłaty podatku na ten rachunek,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_24/ust_14/pkt_2",
+       "text": "z funduszu scentralizowanego utworzonego na podstawie odrębnych przepisów — jeżeli jednostka gospodarcza dokonała wpłaty podatku na ten fundusz.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Jednostki przekazują urzędowi skarbowemu deklarację dotyczącą rozliczenia podatku według wzoru ustalonegó w odrębnym trybie, w terminach określonych w § 26 ust. 7—10.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 8",
+   "text": "Przepisy przejściowe i końcowe"
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Wskażnik wzrostu cen detalicznych, o którym mowa w § 4 ust 2 i w § 6 ust. 2 rozporządzenia, przyjmuje się na 1988 r. w wysokości 36\"/.",
+     "children": [
+      {
+       "type": "text",
+       "text": "_ 2. Jednóstki, w których w 1988 r. nastąpił przyrcst zatrudnienia z tytułu uruchomienia nowych zakładów, wydziałów i innych organizacyjnie wydzielonych obiektów, przy stosowaniu § 6 ust. 2 rozporządzenia mogą przyjąć — zamiast przyrostu wynagrodzeń — przyrost przeciętnych wynagrodzeń."
+      },
+      {
+       "type": "text",
+       "text": "— . Poz. ill"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "W celu obliczenia \"ulg w podatku za 1988 r. przyjęte określenie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_29/pkt_1",
+     "text": "w § 6 ust. 2 rozporządzenia „zysk do podziału” oznacza:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_29/pkt_1/lit_a",
+       "text": "w przedsiębiorstwach państwowych — zysk do podziału ustalony zgodnie z art. 5 ust. 1 ustawy z dnia 26 lutego 1982 r. o gospodarce finansowej przedsiębiorstw państwowych (Dz. U. z 1986 r. Nr 8, poz. 44, Nr 39, poz. 192 i Nr 47, poz. 226 oraz z 1987 r. Nr 33, poz. 181),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_29/pkt_1/lit_b",
+       "text": "w spółdzielniach — nadwyżkę bilansową, ustałoną zgodnie z art, 75 ustawy z dnia 16 września 1982 r. — Prawo spółdzielcze (Dz. U. Nr 30, poz. 210, z 1983 r. Nr 39, poz. 176, z 1986 r. Nr 39, poz. 192 i z 1987 r. Nr 33, poz. 181);",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "przez należny podatek dochodowy rozumie się podatek, który jednostka jest obowiązana uiścić, po uwzględnieniu ulg w tym podatku, pomniejszonych o ulgi przyznane, pod warunkiem ich przeznaczenia na właściwe fundusze (rachunki) utworzone poza jednostką,"
+      },
+      {
+       "type": "text",
+       "text": "w § 5 pkt 1, § 6 ust. 7'i 8 oraz § 7 ust. 2 rozporządzenia „należny podatek\" oznacza podatek od ponad: normatywnych wypłat wynagrodzeń, od wynagrodzeń obciążających koszty:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_29/pkt_1/lit_a",
+       "text": "w jednostkach, które nie są uprawnione do ulgi określonej w § 6 ust. 2 rozporządzenia —- równy podatkowi obliczonemu według obowiązującej skali,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_29/pkt_1/lit_b",
+       "text": "w „jednostkach, które stosują przepis § 6 ust. 2 rozporządzenia —- równy kwocie odpowiadającej 250/6 zysku do podziału.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia I stycznia 1988 r., z tym ze:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_30/pkt_1",
+     "text": "do wypłat premii i nagród z zysku z lat -1986 i 1987, dokonywanych w 1988 r., mają zastosowanie przepisy § 15, z wyjątkiem ust. 8a, i § 16 rozporządzenia Ministra Pracy, Płac i Spraw Socjalnych z dnia 7 lutego 1986 r. w sprawie szczegółowych zasad obliczania podatku od ponadnormatywnych wypłat wynagrodzeń (Dz. U. Nr 7, poz. 43, Nr 38, poz. 189 iz 1987 r Nr fa poz. 68),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_30/pkt_2",
+     "text": "przepisy dotyczące ulg z tytułu pracy w systemie ciągłym, 4-zmianowym i 3-zmianowym, o których mowa w § 2 ust. 1.pkt 14 oraz w § 13 ust. 1, 3i4, mają zastosowanie począwszy od dnia 1 kwietnia 1988 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: B. Samojlik"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

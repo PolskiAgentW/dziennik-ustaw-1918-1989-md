@@ -1,0 +1,2595 @@
+{
+ "eli": "DU/1983/255",
+ "title": "Rozporządzenie Rady Ministrów z dnia 19 września 1983 r. w sprawie postępowania arbitrażowego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/255/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 września 1983 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie postępowania arbitrażowego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 44 ust. 2 i art. 50 ustawy z dnia 23 października 1975 r. o Państwowym Arbitrażu Gospodarczym (Dz. U. z 1975 r. Nr 34, poz. 183 i z 1982 r. Nr 31, poz. 214) oraz art. 104 § 3 Kodeksu pracy (Dz. U. z 1974 r. Nr 24, poz. 141, z 1975 r. Nr 16, poz. 91, z 1981 r. Nr 6, poz. 23 i z 1982 r. Nr 31, poz. 214) zarządza się, co nas, stępuje: ;"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy wstępne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie normuje postępowanie arbilrażowe w sporach o piawa majątkowe, o zawarcie i ustalenie treści umowy (spory przedumowne), o zmianę lub rozwiązanie umowy, o usłalenie stosunku prawnego lub prawa oraz w innych sporach przekazanych do posłępowania arbitrażowego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Arbitraż udziela jednostkom gospodarki uspołecznionej — na ich wniosek — pomocy w czynnościach zmierzających do osiągnięcia porozumienia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Arbitraż powinien w każdym stadium postepo-, wania dążyć do zawarcia przez strony ugody, jeżeli jej gawarcie nie naruszy prawa lub interesu społecznego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W postępowaniu arbitrażowym mogą brać udział przedstawiciele rady pracowniczej lub innych organów samorządowych strony w celu przedstawienia opinii tych organów w rozpoznawanym sporze.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Przepisy o prawach i obowiązkach przewodniczącego stosuje się odpowiednio do pracowników o rzecz- „nictwa Państwowego Arbitrażu Gospodarczego rozpoznających spory jednoosobowo. § 6. 1. Okręgowa ee arbitrazowa rozpoznaje spór jednoosobowo, jeżeli:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "strona. pozwana nie złożyła odpowiedzi na wniosek lub uznała jego żądanie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "powód wycofał wniosek,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "wartość przedmiotu sporu nie przekracza 50000 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Prezes okręgowej komisji arbitrażowej może za- \"rządzić rozpoznania jednoosobowo sporu e wartości",
+     "children": [
+      {
+       "type": "text",
+       "text": "*"
+      },
+      {
+       "type": "text",
+       "text": "\"4."
+      },
+      {
+       "type": "text",
+       "text": "przedmiotu sporu wyższej niż określona w ust, I pkt 3, jeżeli spór nie jest zawiły i nie ma charakteru piecedensowego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "arbitrażu — rozumie się przez to Główną Komisję Arbitrażową 1 okręgowe komisje arbitrażowe,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "prezesie arbitrażu — rozumie .Się przez to Prezesa Państwowego Arbitrażu Gospodarczego i prezesa okręgowej komisji arbitrażowej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "przewodniczącym — rozumie sią przez to przewodniczącego zespołu orzekającego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Właściwość miejscowa."
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Wniosek o rozpoznanie sporu składa się do okręgowej komisji arbitrażowej właściwej według siedziby strony pozwanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Jeżeli wniosek składa się łącznie przeciwko kilku pozwanym, dla których są miejscowo właściwe różne okręgowe komisje arbitrażowe, wybór komisji należy do powoda..",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Jeżeli wniosek został wniesiony do arbitrażu niewłaściwego, prezes tego arbitrażu zarządza przekazanie wniosku arbitrażowi właściwemu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Jeżeli przyczyni się to do przyspieszenia po» stępowania, zmniejszenia jego kosztów lub jest celowe z innych względów, Prezes Państwowego Arbitrażu Gospodarczeqo moża:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "ustalić dla rozpoznania określonej kategorii sporów jako właściwą miejscowo ińną okręgową komisję arbitrażową niż wymieniona w § 8 ust. 1,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "zarządzić przekazanie sporu do rozpoznania innej okręgowej komisji „arbitrażowej niż wymienione w § 8 ust.",
+     "children": [
+      {
+       "type": "text",
+       "text": "I oraz w pkt niniejszego paragrafu. § li. Spory o właściwość miejscową między okręgowymi komisjami arbitrażowymi rozstrzyga Prezes Państwowego Arbitrażu Gospodarczego,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dalennik Ustaw Nr 57 m"
+      },
+      {
+       "type": "text",
+       "text": "' Rozdział 3"
+      },
+      {
+       "type": "text",
+       "text": "Pełnomocnicy stron. I"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "W postępowaniu arbitrażowym stronę reprezentuje jej kierownik, przedstawiciel ustawowy: lub pełnomocnik, Pełnomocnikiem może’ być radła prawny. Jeżeli ustanowienie radcy prawnego pełnomocnikiem nie jest możliwe, pełnomocnikiem może być inny pracownik strony. ‘",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Pełnomocnikiem spółdzielni lub organizacji społecznej może być również osoba nie będąca jej pracownikiem, jeżeli jest członkiem jej organu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Pełnomocnikiem państwowej jednostki organizaayjnej nie będącej przedsiębiorstwem może być również pracownik organu sprawującego nad nią nadzór. § 13. Pełnomocnikiem strony może być także inna osoba niż wymieniona w § 12, jeżeli stosownie do przepisów ustawy z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. Nr 19, poz. 145) wykonuje obsługę prawną strony.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Pełnomocnictwo powinno być udzielone na piśmie. :",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Jeżeli z pełnomocnictwa nie wynika inaczej, obejmuje ono umocowanie do: „A wszystkich łączących się ze sporem czynności w postępowaniu arbitrażowym, nie wyłączając wniosku wzajemnego, wniosku .o wznowienie postępowania, podania. o wnięsienie rewizji nadzwyczajnej i postępowania wywołanego ich wniesieniem,",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_15/ust_1/pkt_2",
+       "text": "wszelkich czynności dotyczących zabezpieczenia - i egzekucji, p",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_1/pkt_3",
+       "text": "zawarcia ugody, cofnięcia wniosku albo zrzeczenia się roszczenia lub uznania żądania wniosku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Pełnomocnictwo w sporze, o którym mowa w",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 19 pkt 2, obejmuje również umocowanie do zawarcia i ustalenia treści, zmiany lub rozwiązania umowy."
+      },
+      {
+       "type": "text",
+       "text": "U *"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Wszczęcie postępowania."
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Postępowanie arbitrażowe wszczyna sę na wniosek strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Postępowanie arbitrażowe może być wszczęte również przez prezesa arbitrażu, jeżeli brak wniosku strony © rozpoznanie sporu może narazi¢ gospodarkę narodową na straty lub naruszyć ważny interes społeczny, w razie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_16/ust_2/pkt_1",
+       "text": "zastosowania ceny towaru lub roboty (usługi) wyższej od ceny obowiązującej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_16/ust_2/pkt_2",
+       "text": "dostarczenia towaru lub wykonania ‘roboty (usługi) z wadami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_16/ust_2/pkt_3",
+       "text": "niewykonania zobowiązania służącega realizacjł podstawowych celów społeczno-gospodarczych,.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_16/ust_2/pkt_4",
+       "text": "naruszenia zasad ochrony, środowiska.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Wszczęcie postępowania arbitrażowego, o którym mowa w ust. 2, następuje zwłaszcza na podstawie intormacji organów państwowych oraz organizacji spółdzielczych i społecznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Zarządzając wszczęcię. postępowania arbitrażowego prezes arbitrażu oznacza strony pcstepowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_16/ust_5",
+     "text": "Przepisów ust 2—4 nie stosuje się w sporach między jednostkami « ganizacy jnymi resortów „obrony narodowej i spraw wewnętrznych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "RY i Poz. 255"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Strona występująca z wnioskiem o rozpoznanie sporu jest obowiązana przed zgłoszeniem wniosku wezwać strońę przeciwną do dobrowolnego spełnienia roszczenia w wyznaczonym terminie. W wezwaniu naiezy dokładnie określić żądanie ze wskazaniem okoliczności faktycznych uzasadniających żądanie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Strona pozwana wezwana do dobrowolnego spełnienia roszczenia jest obowiązana udzielić odpowiedzi na wezwanie. Jeżeli strona pozwana „kwestionuje zgłoszone jej żądanie, w odpowiedzi powinna uzasadnić odmowę spełnienia żądania ze wskazaniem okoliczności faktycznych, załączając w razie potrzeby dowody stwierdzające te okoliczności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Strona zadajaca spełnienia roszczenia, w razie: kwestionowania przez stronę przeciwną tego roszczenia i podtrzymania swego żądania, powinna podjąć próbę wyjaśnienia spornych kwestii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Przepisy ust. 1—3 nie mają zastosowania, jeżeli odrębne przepisy przewidują szczególny tryb postępo- - wania reklaniacyjnego oraz w razie wszczęcia sporu, o którym mowa w § 16 ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "par_17/ust_18",
+     "text": "1. Wniosek o rozpoznanie sporu składa sięj na piśmie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Wniosek powinien zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_17/ust_2/pkt_1",
+       "text": "oznaczenie arbitrażu, do którego jest kierowany,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_17/ust_2/pkt_2",
+       "text": "nazwy i adresy jednostek, kióre mają bye stronamł w sporze,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_17/ust_2/pkt_3",
+       "text": "nazwę i siedzibę banku finansującego oraz numer rachunku rozliczeniowego powoda.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_17/ust_2/pkt_4",
+       "text": "oznaczenie wartości przedmiotu sporu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_17/ust_2/pkt_5",
+       "text": "dokładne określenie żądania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_17/ust_2/pkt_6",
+       "text": "zwięzły opis stanu faktycznego sporu oraz wykaz dowodów ze wskazaniem, jakie okoliczności mają być nimi udowodnione,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_17/ust_2/pkt_7",
+       "text": "podpis (podpisy) osoby uprawnionej (osób uprawnionych) do reprezentowania powoda.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Do wniosku należy załączyć: odpisy wezwania do dobrowolnego spełnienia roszczenia i odpowiedzi na to wezwanie, oryginały lub poświadczone przez stronę odpisy dokumentów powołanych we wniosku, jeżeli znajdują się w posiadaniu strony, odpisy wniosku i załączników dla jednostek uczestniczących w sporze oraz pełnomocnictwo, w razie gdy strona ma być reprezentowana. przez pełnomocnika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Jeżeli odrębne przepisy przewidują obowiązek przeprowadzenia szczególnego trybu postępowania reklamacyjnego, do wniosku należy załączyć odpis-reklamacji wraz Z odpisami załączonych -do niej dokumentów i dowodem jej ANON oraz odpis odpowiedzi na reklamac je.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_17/ust_5",
+     "text": "Z wnioskiem o rozpoznanie sporu można pdłączyć i wniosek 0 zabezpieczenie roszczenia lub dowodu, jak 10wniez wniosek ‘o nieuwzględnienie upływu: przedawnienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_17/ust_6",
+     "text": "Powód może on we 'wniosku członka zespołu orzekającego spośród. osób powołanych na członków ze-' społów orzekających w arbitrażu, jeżeli spór podlega rozpoznaniu: w zespole orzekającym. -",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Przedmiotem wniosku może być żądanie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_19/pkt_1",
+     "text": "zasądzenia świadczenia, ustalenia treści, zmiany lub rozwiązania _ 2) zawarcia i umowy, ‘ ‘ A",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_19/pkt_3",
+     "text": "ustalénia stosinkiu ‘pławnego lub prawa.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "OE - o 7k. —"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Jednym wnioskiem można dochodzić kilku roszczeń przeciwko temu samemu pozwanemu; można również jednym wnioskiem dochodzić roszczeń przeciwko kilku pozwanym, jeżeli roszczenia te opierają się na tej samej podstawie faktycznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Arbitraż może wyłączyć do odrębnego rozpoznania poszczególne roszczenia, jeżeli przyczyni się to do uproszczenia lub przyspieszenia postępowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Arbitraż może połączyć do wspólnego rozpoznania spory wszczęte z wniosków jednego lub kilku powodów i przeciwko kilku pozwanym, jeżeli roszczenia są oparte na tej samej podstawie prawnej lub faktycznej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Jednostce, która może być stroną w postępowaniu arbitrażowym, przysługuje prawo przystąpienia do toczącego się postępowania w charakterze współuczestnika, jeżeli wykaże, że ma w tym interes prawny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Przewodniczący może wezwać jednostkę, o której mowa w ust, 1, do wzięcia udziału w toczącym się postępowaniu w charakterze współuczestnika. Jednostka ta jest obowiązana wziąć udział w postępowaniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Zgłoszenie przez stronę wniosku o wezwanie do - udziału w toczącym się postępowaniu jednostki, o której mowa w ust. 1, wywołuje skutki, jakie przepisy wiążą ze złożeniem wniosku o rozpoznanie sporu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_21/ust_4",
+     "text": "Współuczestnik w postępowaniu arbitrażowym m prawa i obowiązki strony. WE",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 22 1. Jeżeli wniosek o rozpoznanie sporu nie odpowiada wymaganiom formalnym, a ich brak uniemożliwia nadanie Sprawie biegu, prezes arbitrażu zwraca wniosek."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Prezes arbitrażu może, nie zwracając wniosku nie odpowiadającego wymaganiom formalnym, wezwać stronę do jego poprawienia lub uzupełnienia w terminie siedmiu dni, a po bezskutecznym upływie terminu — zwrócić wniosek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "W razie zwrotu wniosku z powodu braków formalnych, ponowne złożenie poprawionego lub uzupełnionego wniosku w terminie wskazanym w wezwaniu, o którym mowa w ust. 2, powoduje zachowanie skutków wniesienia wniosku w pierwotnym terminie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Strona może cofnąć wniosek aż do wydania orzeczenia w postępówaniu odwoławczym. i 2, Wniosek cofnięty nie wywołuje skutków, jakie przepisy wiążą ze złożeniem wniosku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Przepisy § 17-20 stosuje sią odpowiednio do wniosków zgłaszanych przez jednostki wymienione w § 21. Do zarządzeń o wszczęciu postępowania arbitrażowego, o którym mowa w § 16 ust. 2, stosuje się odpowiednio przepisy § 18—20.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Arbitraż wydaje orzeczenie odrzucające wniosek, jeżeli:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_25/pkt_1",
+     "text": "droga postępowania arbitrażowego jest niedopuszczalna,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_25/pkt_2",
+     "text": "w sporze o to samo roszczenie toczy się postępowanie arbitrażowe między tymi samymi stronami lub spór ten został już prawomocnie rozstrzygnięty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Wyjaśnienia stron."
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Prezes arbitrażu, nadając bieg sprawie, zarządza doręczenie odpisu wniosku stronie pozwanej i wzywa ją do złożenia w określonym terminie odpowiedzi na wniosek oraz do wskazania dowodów na podane w tej odpowiedzi okoliczności faktyczne. Jeżeli spór wynikł na tle niewykonania lub nienależytego wykonania świadczenia albo dotyczy zawarcia lub ustalenia treści umowy zobowiązującej do świadczenia, prezes arbitrezu może wezwać stronę pozwaną również do podania przyczyn niewykonania lub nienależytego wykonania świadczenia albo odmowy zawarcia umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Termin do złożenia edpewiedzi na wniosek wynosi czternaście dni, a w sporach o zawarcie i ustalenie treści, zmianę lub rozwiązanie umowy — siedem dni od dnia doręczenia stronie pozwanej wniosku. Prezes: arbitrażu może w wyjątkowym wypadku przedłużyć ten termin.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_26/ust_3",
+     "text": "Strona pozwana, składając odpowiedź na wniosek, jest obowiązana wskazać nazwę i siedzibę banku finansującego oraz numer rachunku rozliczeniowego. Może również wskazać członka zespołu: orzekającego spośród osób powołanych na członków zespołów orzekających w arbitrażu, jeżeli spór podleqa rozpoznaniu w zespole orzeka jącym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Strona pozwana, składając odpowiedź na wniosek, może zgłosić wniosek wzajemny, jeżeli roszczenie wzajemne pozostaje w związku z roszczeniem powoda lub nadaje się do potrącenia albo gdy rozpoznania wniosku wzajemnego może mieć wpływ na rozstrzygnię- ‘Cie o roszczeniu powoda.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Do wniosku wzajemnego stosuje się odpowiednio przepisy dotvczące wniosku arbitrażowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Strony są obowiązane do udzielania wyjaśnień zgodnie z prawdą.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Strona, składając w toku postępowania pisma i załączniki, jest obowiązana dołączyć dowód przesłania ich odpisów listem poleconym stronie przeciwnej bądź dowód, że są one w posiadaniu tej strony,",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Protokoły i doręczenia."
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Arbitraż sporządza protokół z każdej czynności, która może mieć znaczenie dla rozstrzygnięcia sporu. r",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "W protokole należy podać datę i miejsce przeprowadzenia czynności, nazwiska osób biorących w niej \" udział, dokładny opis czynności oraz treść złożonych oświadczeń lub zeznań, Protokół podpisują przewodniczący i protokolant.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_30/ust_3",
+     "text": "Strony mogą żądać sprostowania lub uzupełnienia protokołu w terminie siedmiu dni od daty czynności objętej protokołem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Arbitraż dokonuje zawiadomień i wezwań na piśmie, telefonicznie lub telegraficznie O zawiadomieniu i o wezwaniu telefonicznym zamieszcza się w aktach sporu notatkę stwierdzającą datę przeprowadzonej rozmowy telefonicznej i nazwiska osób, które nadały i odebrały wezwanie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "1.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Arbitraż doręcza pisma przez pocztę,"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Doręczeń dokunuje się w lokalu siedziby adresata lub w miejscu jego zamieszkania do rąk osób uprawnionych do odbioru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Doręczenie może nastąpić również w lokalu arbitrażu osobie upoważnionej do odbioru,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "C="
+    },
+    {
+     "type": "text",
+     "text": "4 34. Odbierający potwierdza doręczenie podpisem ze wskazaniem daty doręczenia."
+    },
+    {
+     "type": "text",
+     "text": "4 35. 1. Strona jest obowiązana zawiadomić arbitraż e zmianie swojego adresu."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "W razie niedopęłnienia obowiązku, o którym mowa w ust. 1, nie doręczone z tego powodu pismo może być pozostawione w aktach sporu ze skutkiem doręczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "Przepis ust. 2 stosuje się odpowiednio, jeżeli adresat odmówił przyjęcia pisma.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "ist"
+  },
+  {
+   "type": "text",
+   "text": "Dowody."
+  },
+  {
+   "type": "text",
+   "text": "4 36. 1. Przedmiotem dowodu są fakty mające istotne znaczenie dla rozstrzygnięcia sporu i ustalenia przyczyn jego powstania. ,"
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Nie wymagają dowodu fakty powszechnie znane, fakty znane arbitrażowi urzędowo, ani też przyznane przez stronę przeciwną, jeżeli przyznanie nie budzi wątpliwości co do zgodności ze stanem faktycznym.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Powołana pizez stronę okoliczność faktyczna może być uznana za przyznaną, jeżeli nie została zakwestionowana przez stronę przeciwną.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 37 Dowodami mogą być wszystkie środki niezbędne do wyjaśnienia okoliczności faktycznych, w związku z którymi wynikł spór. W szczególności dowodami mogą być dokumenty, opinie biegłych, zeznania świadków oraz oględziny. j § 38. 1. Przewodniczący zarządza przeprowadzenie postępowania dowodowego co do faktów mających istotne znaczenie dla rozstrzygnięcia sporu i ustalenia przyczyn jego powstania. Przewodniczący ozńacza fakty podiegające stwierdzeniu i środek dowodowy oraz ustala, czy postępowanie dowodowe odbędzie się na posiedzeniu arbitrażu."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Postępowanie dowodowe może być przeprowadzone przez inną okręgową komisję arbitrażową w ramach pomocy prawnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "Arbitraż może zwrócić się do właściwego organu orzekającego lub organu administracji państwowej © przeprowadzenie dowodu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "Organy państwowe i inne państwowe jednostki „organizacyjne oraz organizacje spółdzielcze i społeczne powinny udzielać arbitrażowi informacji oraz dostarczać dokumentów niezbędnych do rozpoznania sporu i ustalenia przyczyn jego powstania, chyba że dokument zawiera tajemnicę państwową.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 40 1. Zawiadomienie stron o terminie przesłuchania biegłego lub świadka, przeprowadzenia oględzin lub innego dowodu oraz wezwanie biegłego lub świadka powinno nastąpić nie później niż w terminie przewidzienym dla zawiadomienia stron o posiedzeniu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "Niestawiennictwo stron na posiedzeniu arbitrażu nie wstrzymuje przeprowadzenia dowodu, chyba że otiecność stron lub jednej z nich okaże się konieczna.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_39/ust_3",
+     "text": "Jeżeli strona nie była obecna przy przeprowadzaniu dowodów. należy jej umożliwić zapoznanie się x wynikami postępowania dowodowego i złożenie wy- Jjaśnień w terminie frzewidzianym dla zawiadomienia stron o posiedzeniu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz. 258."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_41/ust_1",
+     "text": "Jeżeli okaże się, że do rozstrzygnięcia sporu są niezbędne wiadomości specjalne, arbitraż zażąda wydania opinii od właściwej jednostki uprawnionej do wydawania opinii, a w razie niemożności uzyskania opinil od takiej jednostki — zażąda wydania opinii od biegiego, wyznaczonego spośród rzeczoznawców ustanowionych i uprawnionych do wydawania opinii. W razie braku zasięgnięcia opinii odpowiedniego © rzeczo- \"możliwości znawcy, arbitraż może zażądać opinii od nych specja= Mstów w danej gałęzi wiedzy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_41/ust_2",
+     "text": "Żądając złożenia opinit arbitraż określa zagadnienia, co do których biegły ma się wypowiedzieć, oraz wyznacza biegłemu termin na opracowanie opinii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_41/ust_3",
+     "text": "Jeżeli wydanie opinii przez biegłego jest uzależnione od dokonania przez niego oględzin rzeczy lub dokumentów znajdujących się u strony, jest ona obowią= zana do udostępnienia biegłemu tych rzeczy lub dokumentów w terminie przez niego określonym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_41/ust_4",
+     "text": "Arbitraż może zażądać wyjaśnienia opinii, a w razie potrzeby — zażądać dodatkowej opini od tego samego lub innego biegłego. .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "Strona powołująca się na dowód ze świadków jest obowiązana dokładnie oznaczyć fakty, które mają być stwierdzone zeznaniami świadków, i wskazać adresy zamieszkania świadków lub miejsca ich zatrudnienia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_43/ust_1",
+     "text": "Świadkami nie mogą być:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_43/ust_1/pkt_1",
+       "text": "osoby niezdolne do spostrzegania lub komunikowania swoich spostrzeżeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_43/ust_1/pkt_2",
+       "text": "osoby obowiązane do zachowania tajemnicy państwowej I służbowej na okoliczność objętą. tajemnicą, jeżeli nie zostały w trybie określonym w obowiązujących przepisach zwolnione od obowiązku zachowania tajemnicy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_43/ust_2",
+     "text": "W sprawach nie uregulowanych w przepisach niniejszego rozdziału dotyczących świadków stosuje się . odpowiednie przepisy Kodeksu postępowania cywilnego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 44. Strona powołująca się na dokument znajdujący się w aktach innego organu państwowego jest obowiązana przedstawić urzędowo poświadczony przez ten organ odpis lub wyciąg z dokumentu. Arbitraż zażąda wydania odpisu lub wyciągu z dokumentu, jeżeli strona sama nie może go uzyskać. © ."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "Przepisy o obowiązku przedstawienia dokumentu stosuje się odpowiednio do przedstawienia przedmiotu oględzin.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "Prezes arbitrażu może zarządzić przeprowadzenie dowodów jeszcze przed złożeniem wniosku o rozpoznanie sporu lub przed złożeniem wyjaśnień przez stronę pozwaną, jeżeli istnieje obawa, że późniejsze przeprowadzenia dowodów stanie się niewykonalne lub zbyt utrudnione. .",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "Należności świadków i biegłych przyznaje { ustala przewodniczący w drodze zarządzenia. Zarządzenie to doręcza się z urzędu świadkom, biegłym 1 stronom. Do należności świadków i biegłych stosuje się poza tym odpowiednie przepisy o należnościach świadków t biegłych w postępowaniu sądowym.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 8",
+   "text": "Posiedzenia."
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_48/ust_1",
+     "text": "Przewodniczący, kierując spór na posiedzenie. wyznacza termin posiedzenia i wskazuje dowody, które mają być przeprowadzone na posiedzeniu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— #9 — Dziennik Ustaw Nr SF"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_48/ust_2",
+     "text": "Pósiedzenie arbitrażu może odbyć się w-siedzibie- (zakładzie pracy) strony, jeżeli może to przyczynić się do: usunięcia źródeł nieprawidłowości w działalności strony lub usprawnienia współpracy stron.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_48/ust_3",
+     "text": "Jeżeli nieprawidłowe postępowanie strony stwarza trudności jednostkom nie uczestniczącym w sporze w ich działalności lub we wzajemnej współpracy, na posiedzenie arbitrażu mogą być wezwane te jednostki w celu wyjaśnienia przyczyn tych trudności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_49/ust_1",
+     "text": "O terminie posiedzenia arbitrażu strony i członkowie zespołu orzekającego powinni być zawiadomieni przynajmniej na siedem dni przed posiedzeniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_49/ust_2",
+     "text": "Zawiadamiając strony o terminie posiedzenia, należy wskazać, czy stawiennictwo .jest obowiązkowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_49/ust_3",
+     "text": "Przewodniczący może odstąpić od zawiadomienia stron, jeżeli w świetle zebrariego materiału jest oczywiste, że ich udział w posiedzeniu nie może mieć wpływu na treść orzeczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_49/ust_4",
+     "text": "Przewodniczący, w uzasadnionym wypadku, zawiadamia o terminie posiedzenia i przedmiocie sporu organ założycielski strony lub inny właściwy organ państwowy bądź organizację spółdziełczą lub społeczną. wskazując na celowość wydelegowania przedstawiciela dla złożenia: wyjaśnień. .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_49/ust_5",
+     "text": "W sporach, w których zosłaną ujawnione okoliczności wskazujące na istotne nieprawidłowości w działalności strony, które powodują dla strony lub gospodarki marodowej straty albo naruszają ważny interes Społeczny, przewodniczący zawiadamia o terminie posiedzenia radę pracowniczą lub organ samorządu spółdzielczego bądź inny orqan samorządowy strony.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "Na posiedzeniu poza osobami przybyłymi w wyniku zawiadomienia lub wezwania mogą być obecne inne osoby, jeżeli arbitraż uzna, że ze względu na interes społeczny jest to wskazane. i",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_51/ust_1",
+     "text": "Na posiedzeniu referuje sprawę przewodniczący lub arbiter. wyznaczony przez przewodniczącego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_51/ust_2",
+     "text": "Posiedzenie z udziałem stron obejmuje postępowanie ugodowe, a w razie nieosiągnięcia porozumienia — wyjaśnienia stron i w miarę potrzeby postępowanie dowodowe. Przed zamknięciem posiedzenia przewodniczący udziela głosu stronom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_51/ust_3",
+     "text": "Jeżeli w wyniku postępowania ugodowego strony osiągnęły: porozumienie, jego treść wpisuje się w formie ugody do protokołu posiedzenia. Strony podpisują ugodę wpisaną do protokołu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_51/ust_4",
+     "text": "Przewodniczący moża odroczyć posiedzenie z ważę nych przyczyn.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "Przewodniczący może upomnieć osobę, która narusza powagę, spokój lub porządek posiedzenia albo innych czynności, a po bezskutecznym upomnieniu może \"ją wydalić z miejsca dokonania czynności:",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 9",
+   "text": "Zawieszenie { umorzenie postępowania."
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_53/ust_1",
+     "text": "Arbitraż może wydać orzeczenie zawieszające postępowanie: z",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_53/ust_1/pkt_1",
+       "text": "jeżeli rozstrzygnięcie sporu zależy od wyniku innego sporu lub uprzedniej decyzji innego organu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_53/ust_1/pkt_2",
+       "text": "jeżeli ujawni się czyn, którego ustalenie w drodze karnej, służbowej luc dyscyplinarnej mogłoby mieć wpływ na rozstrzygnięcie sporu, i",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_53/ust_1/pkt_3",
+       "text": "na zgodny wniosek stron. 7",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_53/ust_2",
+     "text": "Arbitraż wydaje orzeczenie zawieszające postępowanie, jeżeli w stosunku do strony zostało wszczęte postępowanie upadłościowe, a spór dotyczy przedmiotu wchodzącego w skład masy upadłości. .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_53/ust_3",
+     "text": "Postępowanie zawieszone może być podjęte z urzędu lub na wniosek strony.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_54/ust_1",
+     "text": "Arbitraż wydaje orzeczenie umarzające postępowanie, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_54/ust_1/pkt_1",
+       "text": "wniosek o podjęcie postępowania zawieszonego na zgodny wniosek stron nie został zgłoszony w ciągu roku od- daty: wydania orzeczenia zawieszającego postępowanie, a podjęcie postępowania z urzędu po tym terminie nie byłoby celowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_54/ust_1/pkt_2",
+       "text": "rozstrzygnięcie sporu stało się zbędne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_54/ust_2",
+     "text": "Jeżeli orzeczenie o umorzeniu postępowania, wydane przez Główną Komisję Arbitrażową, dotyczy jedvnie postępowania odwoławczego. powoduje ono uprawomocnienie się orzeczenia pierwszej instancji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 10",
+   "text": "Orzeczenie."
+  },
+  {
+   "type": "par",
+   "num": "55",
+   "path": "par_55",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_55/ust_1",
+     "text": "Arbitraż wydaje orzeczenie rozstrzygające spór, gdy uzna, że okoliczności mające znaczenie dla rozstrzygnięcia zostały dostatecznie wyjaśnione.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_55/ust_2",
+     "text": "Jeżeli dostatecznie zostanie wyjaśnióna część żądania lub niektóre z żądań strony, może być wydane orzeczenie częściowe.",
+     "children": [
+      {
+       "type": "text",
+       "text": "3., Arbitraż wydaje orzeczenie zatwierdzające ugodą zawartą przez strony w toku postępowania arbitrażowego, jeżeli nie narusza ona prawa lub interesu społecznego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_55/ust_4",
+     "text": "W fazie stwierdzenia przy rozpoznaniu sporu istotnych nieprawidłowości w działaniu strony, arbitraż zawiadamia właściwe jednostki i organy o stwierdzonych nieprawidłowościach, a, także o konieczności usunięcia przyczyn tych nieprawidłowości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "Arbitraż może wydać orzeczenie wstępne tyiko co do samej zasady, co do spornej zaś wysokości roszczenia i innych wniosków zarządzić dalsze postępowanie. Okręgowa komisja arbitrażowa zarządzi dalsze postępo- - wanie dowodowe po uprawomocnieniu się orzeczenia wstępnego. ; :",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "Jeżeli w sporze o odszkodowanie arbitraż uzna, że ścisłe udowodnienie wysokości żądania jest niemożliwe lub zbyt utrudnione, może orzec obowiązek zapłaty odpowiedniej sumy «według swojej oceny opartej na rozważeniu wszystkich okoliczności sporu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "58",
+   "path": "par_58",
+   "text": "Orzeczenie zapada większością głosów. Członek zespołu orzekającego, który przy głosowaniu nie zgodził się z większością, może „przy podpisywaniu sentencji zgłosić zdanie odrębne. Zdanie odrębne wymaga uzasadnienia na piśmie. i",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "59",
+   "path": "par_59",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_59/ust_1",
+     "text": "Sentencja orzeczenia powinna zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_59/ust_1/pkt_1",
+       "text": "oznaczenie arbitrażu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_59/ust_1/pkt_2",
+       "text": "datę wydania orzeczenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_59/ust_1/pkt_3",
+       "text": "skład zespołu orzekającego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_59/ust_1/pkt_4",
+       "text": "wymienienie stion i oznaczenie przedmiotu sporu,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Palennik Ustaw Nr_57 ="
+        },
+        {
+         "type": "text",
+         "text": "ar"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_59/ust_1/pkt_8",
+       "text": "rozstrzygnięcie o roszczeniach stron t o kosztach postępowania, 6} pouczenie o odwołaniu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_59/ust_2",
+     "text": "Orzeczenie powinno zawierać uzasadnienie. W uzasadnieniu należy wskazać podstawę faktyczną rozstrzygnięcia z uwzględnieniem oceny wyniku postępowania dowodowego oraz powołać podstawę prawną.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_59/ust_3",
+     "text": "Sentencje orzeczenia podpisują wszyscy członkowie zespołu orzekającego, a uzasadnienie tylko przewodniczący. \"14 60. 1. Orzeczenie powinno być wydane w ciągu trzech miesięcy od dnia wpływu wniosku o rozpoznanie sporu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_59/ust_2",
+     "text": "Orzeczenie doręcza się stronom z urzędu w ciągu czternastu dni od daty jego wydania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "61",
+   "path": "par_61",
+   "text": "Arbitraż może sprostować w orzeczeniu niedokładności, błędy pisarskie, rachunkowe lub inne oczywiste omyłki w terminie czternastu dni od dnia doręczenia stronie orzeczenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "62",
+   "path": "par_62",
+   "text": "Jeżeli arbitraż nie orzekł o całości żądań wniosku lub o wszystkich wnioskach, strona może w ciągu czternastu dni od daty doręczenia orzeczenia wystąpić do arbitrażu o wydanie orzeczenia uzupełniającego. W tym samym terminie orzeczenie uzupełniające może być wydane z urzędu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "63",
+   "path": "par_63",
+   "text": "Arbitraż, który wydał orzeczenie, rozstrzyga na wniosek prezesa arbitrażu lub strony wątpliwości co do treści orzeczenia, które powstały przy jego wykonaniu (wykładnia orzeczenia). § 64. Wniosek o sprostowanie, \"uzupełnienie lub wykładnię orzeczenia nie ma wpływu na bieg terminu do złożenia odwołania. 4 65. 1. Główna Komisja Aisiiticia wydaje zbiór ogólnych wytycznych orzecznictwa arbitrażowego i orzeczeń arbitrażowych zawierających rozstrzygnięcia o istotnym znaczeniu dla stosunków między jednostkami gospodarki uspołecznionej.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_63/ust_2",
+     "text": "Opublikowanie orzeczenia arbitrażowego wymaga zgody Prezesa Państwowego Arbitrażu Gospodarczego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 11",
+   "text": "Środki odwoławcze."
+  },
+  {
+   "type": "par",
+   "num": "66",
+   "path": "par_66",
+   "text": "Od orzeczenia okręgowej komisji arbitrażowej stronom przysługuje odwołanie. . 5",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "67",
+   "path": "par_67",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_67/ust_1",
+     "text": "Odwołanie powinno odpowiadać ogólnym wymaganiom przepisanym dla wniosku o rozpoznanie sporu, a ponadto zawierać oznaczenie zaskarżonego orzeczenia, zwięźle uzasadnione przyczyny odwołania, wskazanie w razie potrzeby nowych faktów i dowodów oraz żądanie uchylenia lub zmiany orzeczenia w całości lub w części.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_67/ust_2",
+     "text": "Przepisy § 22 stosuje się odpowiednio.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4 68. Jeżeli odwołanie odpowiada wymaganiom formalnym, prezes okręgowej komisji arbitrażowej przesyła je wraz z aktami sporu do Głównej Komisji Arbitrezcewe}, która doręcza stronie przeciwnej odpis. odwołania."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "69",
+   "path": "par_69",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_69/ust_1",
+     "text": "Główna Komisja Arbitrazowa po rozpoznaniu pdwołania może zaskarżóne orzeczenie w całości lub w części utrzymać w mocy, zmienić lub uchylić i* przekazać spór do ponownego rozpoznania okręgowej komisji arbitrażowej. ' ~",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_69/ust_2",
+     "text": "Główna Komisja Arbitrażowa nie jest związana wnioskami odwołania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_69/ust_3",
+     "text": "W postępowaniu odwoławczym stosuje się odpowiednio przepisy § 9 oraz rozdziałów 4—10.",
+     "children": [
+      {
+       "type": "text",
+       "text": "at § 70. 1. Główna Komisja Arbitrażowa orzeka na podstawie materiału dowodowego zebranego w toku postępowania przed okręgową komisją arbitrażową. Może jednak przeprowadzić dowody uzupełniające bądź zlecić przeprowadzenie tych dowodów okręgowej komisji arbitrażowej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_69/ust_2",
+     "text": "Główna Komisja Arbitrażowa może pominąć powołane przez stronę w odwołaniu nowe fakty. lub dowody, jeżeli strona mogła z nich skorzystać w postępowaniu przed okręgową komisją arbitrażową, chyba ze potrzeba ich powołania jest uzasadniona treścią zaskarżonego orzeczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_69/ust_3",
+     "text": "okrgjówa komisja arbitrażówa, rozpoznając, spór ponownie, jest związana oceną prawną i wskazaniami co do dalszego postępowania, zawartymi w orzeczeniu Głów= nej Komisji Arbitrażowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ Fl. 1. Na zarządzenie prezesa okręgowej komisji arbitrażowej i przewodniczącego przysługuje zażalenie, jeżeli przedmiotem zarządzenia jest:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_69/ust_3/pkt_1",
+       "text": "odmowa zabezpieczenia foszczenia lub dowodu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_69/ust_3/pkt_2",
+       "text": "zwrot wniosku, odwołania lub zażalenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_69/ust_3/pkt_3",
+       "text": "odrzucenie odwołania lub zażalenia, 4 '4) odtworzenie akt zaginionych lub zniszczonych albo podjęcie postępowania na podstawie akt odtworzonych, =",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_69/ust_3/pkt_5",
+       "text": "zaopatrzenie tytułu egzekucyjnego w klauzulę wykonalności, zarządzenie egzekucji, zawieszenie lub umorzenie postępowania egzekucyjnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_69/ust_3/pkt_6",
+       "text": "odmowa zwrotu opłaty arbitrażowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_69/ust_3/pkt_7",
+       "text": "przyznanie należności świadkom i biegłym,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_69/ust_2",
+     "text": "Zażalenie przysługuje:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_69/ust_2/pkt_1",
+       "text": "stronom — na zarządzenia wymienione w ust. 1 pkt 1—7, - i",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_69/ust_2/pkt_2",
+       "text": "świadkom i biegłym — na zarządzenia wymienione w ust. 1 pkt 7.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_69/ust_3",
+     "text": "Do zażaleń na zarządzenia prezesa okręgowej komisji arbitrażowej stosuje się odpowiednio przepisy § 67—70. . 4 Zażalenia na zarządzenia wymienione w ust. pkt 7 powinny zawierać oznaczenie zaskarżonego zarządzenia oraz zwięzłe uzasadnienie żądania jego zmiany. § 72. Do zarządzeń, na które przysługuje zaŻaikaie, stosuje się odpowiednio przepisy § 59—64.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rozdział /12"
+      },
+      {
+       "type": "text",
+       "text": "Wznowienie postępowania."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "73",
+   "path": "par_73",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_73/ust_1",
+     "text": "Arbitraż może, z urzędu lub na wniosek strony, orzec wznowienie postępówania zakończonego prawomocnym orzeczeniem na tej podstawie, że:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_73/ust_1/pkt_1",
+       "text": "orzeczenie zostało oparte na dokumencie podrobionym bądź sfałszowanym lub na skazującym wyroku karnym następnie uchylonym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_73/ust_1/pkt_2",
+       "text": "w związku z postępowaniem dopuszczono się przestępstwa, a istnieje uzasadniona podstawa do _przy* jęcia, że mogło to mieć wpływ na treść orzeczenia,",
+       "children": [
+        {
+         "type": "text",
+         "text": "+4"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "FFL. _ Poz. 258"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_73/ust_1/pkt_3",
+       "text": "zostały ujawnione takie nowe ókoliczności faktyczne . lub środki dowodowe, które mogłyby mieć istolny wpływ na wynik sporu, a z których strona nie mogła skorzystać w poprzednim postępowaniu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_73/ust_2",
+     "text": "O wznowieniu postępowania orzeka arbitraż, który wydał prawomocne. orzeczenie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_73/ust_3",
+     "text": "Nie można żądać wznowienia postępowania po upływie roku od uprawomocnienia się orzeczenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_73/ust_4",
+     "text": "Arbitraż odrzuca wniosek o wznowienie postępowania, jeżeli brak podstaw do wznowienia albo jeżeli wniosek został wniesiony po terminie. § 74. 1. Spór po wznowieniu postępowania rozpoznaje arbitraż, który wydał -orzeczenie w pierwszej instancji. -",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_73/ust_2",
+     "text": "Z dniem wydania nowego orzeczenia w sporze, w którym postępowanie wznowiono, tracą moc orzeczenia wydane w tym sporze przed wznowieniem postępowania; należy to podać w sentencji orzeczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "75",
+   "path": "par_75",
+   "text": "W sprawach nie uregulowanych przepisami niniejszego rozdziału do wniosku o wznowienie postępo- „wania i postępowania z tego wniosku oraz do. rozpozna- \"wania sporu po wznowieniu stosuje się odpowiednio przepisy rozdziałów 4—11.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 13",
+   "text": "Rewizja. nadzwyczajna."
+  },
+  {
+   "type": "par",
+   "num": "76",
+   "path": "par_76",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_76/ust_1",
+     "text": "Rewizja nadzwyczajna powinna zawierać oznaczenie zaskarżonego orzeczenia, przytoczenie podstaw rewizyjnych i ich uzasadnienie oraz żądanie uchylenia lub zmiany orzeczenia w całości lub w. części.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_76/ust_2",
+     "text": "Główna Komisja Arbitrażowa doręcza stronom od-, pisy rewizji nadzwyczajnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_76/ust_3",
+     "text": "Przewodniczący zawiadamia strony i organ, który wniósł rewizję nadzwyczajną, o terminie posiedzenia, jeżeli spór ma charakter precedensowy lub szczególne znaczenie dla gospodarki narodowej bądź dla ochrony interesu społecznego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "77",
+   "path": "par_77",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_77/ust_1",
+     "text": "Główna Komisja Arbitrazowa,. rozpoznając rewizję - nadzwyczajną, może ją oddalić, a w razie uwzględnienia rewizji nadzwyczajnej może zaskarżone orzeczenie w całości lub w części zmienić albo uchylić t przekazać spór do ponownego rozpoznania. Jeżeli rewizję nadzwyczajną wniesiono od orzeczenia Głównej Komisji Arbitrażowej, wydanego w wyniku rozpoznania odwołania, zmiana lub uchylenie może dotyczyć orzeczeń wydanych w obu instancjach,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_77/ust_2",
+     "text": "Arbitraż, rozpoznając spór ponownie, jest związany oceną prawną i wskazaniami co do dalszego postępowania, zawartymi w orzeczeniu wydanym »na skutek rewizji nadzwyczajnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "78",
+   "path": "par_78",
+   "text": "W postępowaniu rewizyjnym stosuje się poza tym odpowiednio przepisy rozdziałów 3 i 11.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 14",
+   "text": "Postępowanie upominawcze,"
+  },
+  {
+   "type": "text",
+   "text": "4 79. 1. Prezes arbitrażu. wydaje nakaz zapłaty bez wzywania pozwanego do złożenia wyjaśnień, jeżeli przedmiotem roszczenia jest należność pieniężna nie przekraczająca kwoty 30000 zł i do wniosku załączono odpisy -rachunku.i pisma zawierającego. wezwanie dłużnika do dobrowolnej zapłaty wraz z dowodami przesłania ich dłużnikowi, a z oświadczenia wnioskodawcy lub z treści wniosku wynika, że dłużnik nie kwestionował dochodzonej należności."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Nakaz zapłaty wydaje się bez względu na wysokość roszczenia, jeżeli oprócz dowodu wezwania dłużnika “do dobrowolnej zapłaty załączono da wniosku:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "odpis pisemnego oświadczenia dłużnika o uznaniu należności bądź odpis zwróconego przez bank zada- . nią zapłaty zaakceptowanego przez dłużnika, nie pokrytego z powodu braku środków na rachunku bankowym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "w sporach o zapłatę kwoty nałóżnej bankowi — odpowiedni wyciąg z ksiąg banku, stwierdzający wysokość dochodzonego roszczenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Nakaz zapłaty może być ponadto wydany bez względu na wysokość roszczenia, jeżeli: -",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_3/pkt_1",
+     "text": "z załączonych do wniosków dowodów albo z oświadczenia wnioskodawcy wynika, że strona pozwana nie udzieliła odpowiedzi na wezwanie do dobrowolnego spełnienia roszczenia lub nie wskazała przyczyn odmowy zaspokojenia roszczenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_3/pkt_2",
+     "text": "strona pozwana nie dopełniła obowiązku udzielenia odpowiedzi na doręczony: jej wniosek.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "80",
+   "path": "par_80",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_80/ust_1",
+     "text": "Prezes arbitrażu orzeka w nakazie zapłaty, że strona pozwana jest obowiązana zaspokoić dochodzone roszczenie wraz z należnymi odsetkami i kosztami postępowania arbitrażowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_80/ust_2",
+     "text": "Nakaz zapłaty wraz z odpisami wniosku i załączników doręcza się z urzędu stronie pozwanej z pouczeniem o prawie. wniesienia sprzeciwu i skutkach jego niewniesienia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "81",
+   "path": "par_81",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_81/ust_1",
+     "text": "Strona pozwana może w terminie czternastu dni od dnia doręczenia nakazu zapłaty wnieść sprzeciw.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_81/ust_2",
+     "text": "Prezes arbitranu odrzuca sprzeciw WRIEMSAY pa terminie. A",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_81/ust_3",
+     "text": "Prezes arbitrażu może -przywrócić termin do wniesienia sprzeciwu, jeżeli uchybienie terminu nastąpiło bez winy strony. Wniosek o przywrócenie terminu będzie rozpoznany, jeżeli zostanie zgłoszony wraz ze sprzeciwem najpóźniej w ciągu siedmiu dni od dnia ustania przyczyny, która spowodowała uchybienie terminu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_81/ust_4",
+     "text": "Przepisy. § 22, 26 ust. 3, § 67 ust. 1, § 71 ust. 1 pkt 2 i 3 oraz § 59—64 stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_81/ust_5",
+     "text": "Sprzeciw wnosi się do arbitrażu, którego przej wydał nakaz zapłaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_81/ust_6",
+     "text": "Na skutek wniesionego sprzeciwu arbitraż rozstrzyga spór w postępowaniu. zwykłym i wydaje orzeczenie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "82",
+   "path": "par_82",
+   "text": "Nakaz zapłaty, od którego nie wniesiono w terminie sprzeciwu, zostaje zaopatrzony w klauzulę wykonalności i doręczony powodowi. Nakaz taki ma moc prawomocnego orzeczenia i jest tytułem wykonawczym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "83",
+   "path": "par_83",
+   "text": "Jeżeli wniosek strony o rozpoznanie sporu w postępowaniu upominawczym nie odpowiada wymaganiom",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 79 albo zasadność wniosku w całości lub w części budzi wątpliwości, prezes arbitrażu zarządzi rozpoznanie sporu ,w postępowaniu zwykłym. . ,"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 15",
+   "text": "Postępowanie w razie zaginięcia lub zniszczenia akt."
+  },
+  {
+   "type": "text",
+   "text": "§ 84 1. Prezes arbitrażu wydaje zarządzenia:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "określające sposób i zakres odtworzenia akt zaginionych lub zniszczonych w całości albo w części bądź",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "ustalające. że odtworzenie akt jest niemożliwe, alba",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "odrzucające wniosek o odtworzenie akt wskutek niezachowania terminu do jege wniesienia.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Prezes arbitrażu wydaje również zarządzenie co do podjęcia postępowania na podstawie akt pozostałych { odtworzonych.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Odtworzenia akt sporu nie można żądać po upływie dwóch lat od zaginięcia lub zniszczenia akt sporu będącego w toku albo od uprawomocnienia się orzeczenia” kończącego spór.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "4",
+   "path": "ust_4",
+   "text": "W sprawach nie uregulowanych przepisami niniejszego rozdziału do postępowania w sprawie odtworzenia akt stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego dotyczące postępowania w razie zaginięcia lub zniszczenia akt.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 16",
+   "text": "Wykonanie orzeczeń."
+  },
+  {
+   "type": "text",
+   "text": "ry"
+  },
+  {
+   "type": "par",
+   "num": "85",
+   "path": "par_85",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_85/ust_1",
+     "text": "Prezes arbitrażu zaopatruje tytuł egzekucyjny w klauzułę wykonalności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_85/ust_2",
+     "text": "Klauzula wykonalności powinna zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_85/ust_2/pkt_1",
+       "text": "wzmiankę, że roszczenie podlega zaspokojeniu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_85/ust_2/pkt_2",
+       "text": "datę nadania klauzuli, podpis prezesa arbitrażu i odcisk pieczęci arbitrażu.,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_85/ust_3",
+     "text": "W razie wstrzymania wykonania orzeczenia lub zarządzenia do ' czasu uprawomocnienia się, zaopatrzenie w klauzulę wykonalności następuje na wniosek strony po uprawomocnieniu się orzeczenia lub zarządzenia",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_85/ust_4",
+     "text": "W razie utraty tytułu egzekucyjnego zaopatrzonego w klauzulę wykonalności ponowne wydanie lakiego dokumentu może nastąpić po stwierdzeniu, ze tytuł eqzekucyjny nie został zrealizowany na podstawie uprzednio uzyskanej klauzuli. W treści ponownie wydanej klauzuli wykonalności czyni się wzmiankę o jej wydaniu w za: mian pierwotnej",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 86 1 W razie wniesienia odwołania. wystąpienia \"e wykładnię lub sprostawanie orzeczenia albo o wznowienie postępowania. prezes arbitrażu może wstrzymać wykonanie tytułu egzekucyjnego do czasu rozstrzygnięcia odwołania lub wniosku a wykładnię, lub o sprostowania orzeczenia albo o wznowienie pos!cpowania, jeżeli uzna, że są podstawy do uwzqlednienia odwołania lub wniosku, a strona uprawdopodobni. że wskutek wykonania tytułu egzekucywego może wyniknąć dla niej bądź dla gospodarki narodowej niepowetowana szkoda, Z dniem wznowienia postępowania traca wykonalność orzeczenia wydane w sprawie przed -wynowieniem. 2, Prezes Państwowego Arbitrażu Gospodarczego może wstrzymać wykonanie orzeczenia, od którego została wniesiona rewizja nadzwyczajna § 87 1. Tytuł egzekucyjny zaopatrzony w klauzulę wykonalności (tytuł wykonawczy) wierzyciel składa we właściwym banku w celu pokrycia roszczeń pieniężnych z rachunku bankowego dłużnika. A"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_85/ust_2",
+     "text": "Tytuł egzekucyjny, o którym mowa w ust. 1, nie podlega wykonaniu, jeżeli dłużnik przedstawi zarządzenie prezesa arbitrażu wstrzymujące wykonanie tego tytułu lub orzeczenie o wznowieniu postępowania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "88",
+   "path": "par_88",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_88/ust_1",
+     "text": "Jeżeli dłużnik nie zaspokoił wierzyciela w ciągu siedmiu dni od dnia doręczenia mu wezwania da dobrowolnego wykonania świadczenia, a użyskanie zaspokojenia w sposób przewidziany w § 87 nie jest możliwe, wierzyciel może zwrócić się do piezesa arbitrażu, w którym sprawę rozpoznano w pierwszej inslancji, z wnioskiem o zarządzenie egzekucji, wskazując sposób jej przeprowadzenia. -",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_88/ust_2",
+     "text": "Do wniosku należy załączyć tyluł egzekucyjny zaopatrzony w klauzulę wykonalności i odpis wezwania do dobrowolnego wykonania tytułu z dowodem doręczenia tego wezwania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "89",
+   "path": "par_89",
+   "text": "Jeżeli prezes arbitrażu wstrzyma wykonanie tytułu egzekucyjnego w związku z wnioskiem o wykładnię lub o sprostowanie orzeczenia bądź o wznowienie postępowania albo w związku z wniesieniem rewizji nedr zwyczajnej, bieg przedawnienia roszczeń stwierdzonych tymi rytułami ulega zawieszeniu na okres od dnia zarządzenia wstrzymującego wykonanie do dnia doręczenia orzeczenia zawierającego -wykladnie, odmawiającego wznowienia postępowania, oddalającego rewizję albo wydanego w Sprawie sprostowania orzeczenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "90",
+   "path": "par_90",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_90/ust_1",
+     "text": "Zarządzenie egzekucyjne do tytułu wykonawczego wydaje prezes arbitrażu. 22 Ww zarządzeniu prezes oznaczy Świadczenie, które ma być spełnione, oraz sposób egzekucji, jaki stosownie. do okoliczności uważa za odpowiedni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "91",
+   "path": "par_91",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_91/ust_1",
+     "text": "Postępowanie egzekucyjne przeprowadza się w trybie przepisanym w Kodeksie postępowania cywilnego, z tym że:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_91/ust_1/pkt_1",
+       "text": "ilekroć Kodeks postępowania cywilnego przewiduje właściwość sądu 'w postępowaniu egzekucyjnym, właściwy jest arbitraż, którego prezes wydał zarządzenie egzekucyjne; obejmuje to w szczególności rozpoznanie skargi na czynności komornika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_91/ust_1/pkt_2",
+       "text": "podstawą egzekucji jest zarządzenie egzekucyjne wydane w myśl § 90. a 3",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_91/ust_2",
+     "text": "Prezes arbitrażu, który wydał zarządzenie egzekucyjne, zarządza zawieszenie i umorzenie postępowania egzekucyjnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "92",
+   "path": "par_92",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_92/ust_1",
+     "text": "Prezes arbitrażu może z urzędu lub na wniosek strony wydać zarządzenie tymczasowe w celu zabezpieczenia roszczeń wniosku złożonego w arbitrażu, jeżeli roszczenie jest wiarygodne, a niezabezpieczenie mogłoby pozbawić wierzyciela zaspokojenia żądania wniosku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_92/ust_2",
+     "text": "Zarządzenie tymczasowe jest natychmiast wyko- „nalne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_92/ust_3",
+     "text": "Do zarządzeń tymczasowych stosuje się odpowiednio przepisy niniejszego rozdziału.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 17",
+   "text": "Koszty postępowania."
+  },
+  {
+   "type": "par",
+   "num": "93",
+   "path": "par_93",
+   "text": "Od'stron pobiera się opłaty arbitrażowe; opłaty są stosunkowe lub stałe.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "94",
+   "path": "par_94",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_94/ust_1",
+     "text": "Do uiszczenia opłaty jest zobowiązana strona składająca wniosek o’dokonanie czynności powodu iącej opłatę. Opłatę uiszcza się w formie polecenia przelewu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_94/ust_2",
+     "text": "Strona zobowiązana do uiszczenia opłaty powinna załączyć do wniosku oryginał potwierdzenia banku o wykonaniu polecenia przelewu. W potwierdzeniu tym strona zobowiązana do uiszczenia opłaty oprócz sumy powinna podać pełną nazwę strony przeciwnej i wartość przedmiotu sporu oraz w miarę możliwości wskazać numer -sporu w arbitrażu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "95",
+   "path": "par_95",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_95/ust_1",
+     "text": "Jeżeli strona nie załączyła do wniosku o dokonanie czynności powodującej opłatę dowodu, o którym mowa w § 94 ust. 2, lub z załączonego dowodu wynika, że opłatę uiściła tylko częściowo, wniosek zwraca się stronie i uważa się za nie wniesiony, z zastrzeżeniem przepisu ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_95/ust_2",
+     "text": "Jeżeli w ciągu czternastu dni od daty zwrotu stwierdzonej na wniosku zostanie on złożony powtórnie wraz z dowodem uiszczenia opłaty, uważa się, że wniosek został złożony w terminie pierwotnym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "96",
+   "path": "par_96",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_96/ust_1",
+     "text": "Opłaty stosunkowe w wysokości zależnej od wartości przedmiotu sporu lub przedmiotu zaskarżenia „pobiera się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_96/ust_1/pkt_1",
+       "text": "od wniosku o rozpoznanie sporu w postępowaniu zwykłym lub upominawczym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_96/ust_1/pkt_2",
+       "text": "od wniosku wzajemnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_96/ust_1/pkt_3",
+       "text": "od odwołania, z wyjątkiem odwołań:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_96/ust_1/pkt_3/lit_a",
+         "text": "od orzeczenia wstępnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_96/ust_1/pkt_3/lit_b",
+         "text": "od orzeczenia odrzucającego wniosek,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_96/ust_1/pkt_3/lit_c",
+         "text": "od orzeczenia oddalającego żądanie wniosku z powodu przedawnienia roszczenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_96/ust_1/pkt_3/lit_d",
+         "text": "od orzeczenia zawieszającego postępowanie, . @) od orzeczenia wydanego w sprawie o wznowienie postępowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_96/ust_1/pkt_3/lit_f",
+         "text": "od orzeczenia w sprawie sprostowania orzeczenia.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_96/ust_2",
+     "text": "Opłaty, o których mowa w ust. 1, wynoszą;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_96/ust_2/pkt_1",
+       "text": "przy wartości przedmiotu sporu lub zaskarżenia do. włącznie — 4°%o, nie mniej jednak niż 50000 zł 1500 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_96/ust_2/pkt_2",
+       "text": "przy wartości przedmiotu sporu lub zaskarżenia ponad 50000 zł — 2000 zł od pierwszych 50000 zł, od nadwyżki do 1000000 zł włącznie — 3%, a od nadwyżki ponad 1000000 zł — 2%.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_96/ust_3",
+     "text": "Opłaty stałe w wysokości 2000 zł pobiera się od wniosku i od odwołania w sporach o zawarcie i ustalenie treści, zmianę lub rozwiązanie umowy, o ustalenie stosunku prawnego lub prawa, a także od odwołania od \"orzeczenia wstępnego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_96/ust_4",
+     "text": "Opłaty stałe w wysokości 1000 zł pobiera się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_96/ust_4/pkt_1",
+       "text": "od zażaleń na zarządzenia prezesa okręgowej komisji arbitrażowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_96/ust_4/pkt_2",
+       "text": "od odwołań od orzeczeń odrzucających wniosek albo oddalających żądanie wniosku z powodu przedawnienia roszczenia, od orzeczeń zawieszających postępowanie oraz wydanych w sprawach o wznowienie postępowania i o sprostowanie orzeczenia.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_96/ust_4/pkt_3",
+       "text": "od wniosków o wstrzymanie wykonania orzeczenia, wznowienie postępowania, zabezpieczenie roszczenia, ponowne wydanie klauzuli wykonalności oraz zarządzenie egzekucji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_96/ust_4/pkt_4",
+       "text": "od podania o wniesienie rewizji nadzwyczajnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_96/ust_3",
+     "text": "Od zgłoszonego spizeciwu w postępowaniu upominawczym pobiera się opłatę stałą w wysokości 1 000 zł, a jeżeli sprzeciw wniesiono od nakazu zapłaty wydanego na podstawie § 79 ust. 3 — 2000 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_96/ust_6",
+     "text": "Końcówkę należnej opłaty arbitrażowej nie przekraczającą kwoty 5 zł pomija się, a przekraczającą te kwotę zaokrągla się wzwyż do pełnych 10 zł.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 97, 1. W razie rozpoznania sporu wszczętego przez prezesa arbitrażu lub wniesienia rewizji nadzwyczajnej w interesie strony, arbitraż ustali w orzeczeniu, czy i która ze stron ma obowiązek uiszczenia opłaty."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_96/ust_2",
+     "text": "Wysokość opłaty w wypadkach wymienionych w ust. 1 ustala się stosując odpowiednie przepisy § 96 o.opłatach od wniosku i od odwołania z zastrzeżeniem ust. 3. ‘",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_96/ust_3",
+     "text": "W razie rozpoznania sporu wszczętego przez prezesa arbitrażu może być nałożony na powoda obowiążek uiszczenia opłaty arbitrażowej w wysokości do 30% zasądzonej należności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "98",
+   "path": "par_98",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_98/ust_1",
+     "text": "Prezes arbitrażu zarządza zwrot opłaty arbltrażowej, gdy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_98/ust_1/pkt_1",
+       "text": "opłatę uiszczono nienależnie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_98/ust_1/pkt_2",
+       "text": "wniosek o dokonanie czynności powodującej opłatą nie został rozpoznany z powodu nieuzupełnienia opłaty lub nieusunięcia braków formalnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_98/ust_1/pkt_3",
+       "text": "wniosek został odrzucony z powodu niedopuszczalności drogi postępowania arbitrażowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_98/ust_2",
+     "text": "W wypadku wymienionym w ust. 1 pkt 3 zwrot opłaty arbitrażowej następuje po zmniejszeniu jej o 50%, nie więcej jednak niż o 2000 zł.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_98/ust_3",
+     "text": "W wypadkach wymienionych w ust. 1 pkt 1i2 zwrot opłaty arbitrażowej następuje po potrąceniu opłaty manipulacyjnej w kwocie 1000 zł. Nie dotyczy to wypadku, w którym nienałeżne uiszczenie opłaty arbitrażowej nastąpiło w wyniku zarządzenia prezesa arbitrażu,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_98/ust_4",
+     "text": "Zwrot opłaty «następuje na wniosek strony po’ przedstawieniu oryginału dowodu uiszczenia opłaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_98/ust_5",
+     "text": "Wie można żądać zwrotu opłaty po upływie roku od dnia jej uiszczenia, a w wypadkach przewidzianych w ust. 1 pkt 2 i 3 od. dnia zwrotu stronie wniosku niedostatecznie opłaconego albo od dnia uprawomocnienia się zarządzenia prezesa arbitrażu w sprawie zwrotu wniosku łub uprawomocnienia się orzeczenia odrzucającego wniosek. . -",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "99",
+   "path": "par_99",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_99/ust_1",
+     "text": "Jeżeli strony w toku postępowania arbitrażowego przed przystąpieniem do postępowania dowodowego zawarły ugodę, arbitraż orzeka o zwrocie 50%/e opłaty arbitrażowej uiszczonej przez stronę,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_99/ust_2",
+     "text": "Przepis ust. 1 stosuje się odpowiednio do opłaty uiszczonej od odwołania, jeżeli do zawarcia ugody doszło w postępowaniu odwoławczym. \"§ 100. Niezależnie od opłat arbitrażowych prezes arbitrażu może nałożyć na stronę lub strony obowiązek wpłacenia zaliczki na. pokrycie wydatków. takich jak: należności świadków, biegłych i tłumaczy, Koszty ogłoszeń w pismach, koszty opłat telefonicznych i telegraficznych oraz innych wydatków wynikłych w toku po: stępowania. Przepisy § 94 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "101",
+   "path": "par_101",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_101/ust_1",
+     "text": "Do kosztów póstepowania oprócz opłat arbitrażowych oraz wynikłych w toku postępowania wydatków. o których mowa w § 100, zalicza się koszty przejazdu i diet jednej osoby delegowanej przez stronę na posiedzenie. Zwrot kosztów przejazdu i diet ‘może być",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "° => JĄ —"
+      },
+      {
+       "type": "text",
+       "text": "gasadzony od strony przeciwnej tylko wówczas, gdy © strona, która koszty te poniosła, zgłosi wniosek o ichy zasądzenie przed, zamknięciem posiedzenia bezpośrednio poprzedzającego wydanie orzeczenia."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_101/ust_2",
+     "text": "Arbitraż zasądza ponadto tytułem kosztów postępowania od strony, którą te koszty obciążają, na rzecz strony przeciwnej ryczałt na pokrycie kosztów ogóinych związanych z prowadzeniem sporu arbitrażowego w wysokości 50%o opłat arbitrażowych, nie więcej. jednak niż 4000 zł, jeżeli dochodzenie praw lub obrona wymagały znacznego nakładu pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "102",
+   "path": "par_102",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_102/ust_1",
+     "text": "Koszty postępowania obciążają stronę przegrywaiaca spór. Jeżeli strona nie przegrywa sporu w całości, koszty postępowania rozdziela się stosunkowo lub znosi się wzajemnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_102/ust_2",
+     "text": "Strona pozwana nie ponosi kosztów postępowania minio zasadności roszczenia strony przeciwnej, jeżeli nią dała powodu do wytoczenia sporu i przy pierwszej czynności uznała żądanie wniosku i je zaspokoiła.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_102/ust_3",
+     "text": "Arbitraż może obciążyć stronę kosztami postępowania niezależnie od wyniku sporu, jeżeli postępowanie zostało spowodowane niewłaściwym zachowaniem się strony, a w szczególności uchyleniem się od .złożenia wyjaśnień, udzieleniem wyjaśnień niezgodnych z prawdą lub opóźnionym powołaniem lub złożeniem dowodów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "103",
+   "path": "par_103",
+   "text": "Arbitraż, ustalając, że dochodzenie roszczenia jednym wnioskiem arbitrażowym przeciwko kilku pozwanym było nieuzasadnione, może pobrać dodatkowo od powoda do 50% opłaty arbitrażowej od wniosku, nie mniej jednak niż 1000 zł, w stosunku do każdego z pozwanych, w odniesieniu do których dochodzenie roszczenia było nieuzasadnione.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "104",
+   "path": "par_104",
+   "text": "Jeżeli na skutek niestosowania się strony do przepisów postępowania arbitrażowego nastąpiła konieczność uzyskania dodatkowych wyjaśnień lub dowodów albo dokonania innych czynności, arbitraż może — niezależnie od wyniku sporu — nałożyć na stronę obowiązek pokiycia powstałych w związku ż tym koszłów w wysokości zryczałtowanej, nie mniej niż 500 zł i-nie więcej nik 4000 zł. § 105. Opłaty arbitrażowe i inne należności arbitrażowe uiszcza się na poczet dochodów budżetowych Pań-. stwowego Arbitrażu Gospodarczego.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 18",
+   "text": "Udział członków zespołów orzekających w posiedzeniach,"
+  },
+  {
+   "type": "text",
+   "text": "$ -106. 1. Zakład pracy jest obowiązany zwolnić pracownika od pracy w celu pełnienia obowiązków członka zespołu orzekającego. Czas zwolnienia od pracy nie może przekroczyć dwunastu dni w ciągu roku."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Za czas zwolnień od pracy przewidzianych w ust, i osoba. wyznaczona na członka zespołu orzekającego zachowuje prawo do wynagrodzenia w swoim zakładzie pracy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "107",
+   "path": "par_107",
+   "text": "Przepisy § 106 stosuje się odpowiednio do członków Rady Państwowego Arbitrażu Gospodarczego.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 19",
+   "text": "Przepisy przejściowe I końcowe."
+  },
+  {
+   "type": "par",
+   "num": "108",
+   "path": "par_108",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_108/ust_1",
+     "text": "Postępowanie wszczęte przed dniem wejścia w życie rozporządzenia toczy się od tej chwili według przepisów niniejszego rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_108/ust_2",
+     "text": "Czynności dokonane w czasie przed dniem wejścia w życie rozporządzenia są skuteczne, jeżeli odpowiadają przepisom dotychczasowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "109",
+   "path": "par_109",
+   "text": "Traci moc rozporządzenie Rady Ministrów z dnia 21 listopada 1975 r. w sprawie postępowania arbitrażowego (Dz. U. Nr 39, poz. 209).",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 110, Rozporządzenie wchodzi w życie z dniem ogłoszenia. :"
+    },
+    {
+     "type": "text",
+     "text": "5 Prezes Rady Ministrów: w z. J. Obodowski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

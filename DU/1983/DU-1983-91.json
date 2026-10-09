@@ -1,0 +1,783 @@
+{
+ "eli": "DU/1983/91",
+ "title": "Rozporządzenie Ministra Leśnictwa i Przemysłu Drzewnego z dnia 22 marca 1983 r. w sprawie bezpieczeństwa i higieny pracy w przemyśle papierniczym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/91/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA LEŚNICTWA I PRZEMYSŁU DRZEWNEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 marca 1983 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie bezpieczeństwa i higieny pracy w przemyśle papierniczym. Na podstawie. art. 208 § 3 Kodeksu pracy {Dz. U. z 1974 r. Nr 24, poz. 141, z 1975 r. Nr 16, poz. 91, z 1981 r. Nr 6, poz. 23 i z 1982 r. Nr 31, poz. 214) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie dotyczy warunków bezpieczeństwa i higieny pracy w zakładach przemysłu papierniczego, produkujących masę celułozową, masę półchemiczną, ścier, papier, karton, tekturę oraz jprzetwory papiernicze — zwanych dalej „zakładami”.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Wydawane przez zakłady szczegółowe instrukcje dotyczące bezpieczeństwa i higieny pracy na stanowiskach pracy (art. 226 § 2 Kodeksu pracy) powinny uwzględniać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "wymagania i wskazania producentów lub dostawców maszyn, urządzeń i technologii, dotyczące ich bezpiecznej'i prawidłowej eksploatacji, aj informacje i wymagania wynikające ze specyfiki WE",
+       "children": [
+        {
+         "type": "text",
+         "text": "= stępujących zagrożeń,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "wymagania wynikające z warunków lokalnych, technologicżnych, produkcyjnych, transportowych, organizacyjnych i innych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "dotychczasową wiedzę i doświadczenie, a w uzasadnionych wypadkach — także wyniki prób i badań, informacje zawarte w innych materiałach, np. publi-",
+       "children": [
+        {
+         "type": "text",
+         "text": "5"
+        },
+        {
+         "type": "text",
+         "text": "— kacjach krajowych i zagranicznych."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Instrukcje, o których mowa w ust. 1, powinny być stale dostępne dla pracowników.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W nowo budowanych i modernizowanych zakładach należy zapewnić:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "mechanizację prac związanych z podawaniem materiałów do maszyn i ich odbiorem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "łączenie maszyn wykonujących powtarzalne operacje w samoczynne ciągi produkcyjne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "urządzenia do montażu i demontażu ciężkich maszyn lub ich elementów, technologie wykluczające szkodliwości przemysłowe",
+     "children": [
+      {
+       "type": "text",
+       "text": "4"
+      },
+      {
+       "type": "text",
+       "text": "— lub ograniczające je do wielkości dopuszczalnych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Miejsca niebezpieczne powinny być oznaczone znakami ostrzegawczymi i tablicami z zakazem wstępu osobom nie upoważnionym,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Części maszyn, urządzeń i instalacji, których temperatury przekraczają 60°C i z którymi styka się pracownik, powinny być izolowane.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Transport i składowanie,"
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Transport surowców, wyrobów gotowych i innych materiałów powinien odbywać się na drogach odpowiednio do tego przygotowanych i z zastosowaniem urządzeń eliminujących nadmierny wysiłek pracowników.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Zakład powinien zapewnić miejsce i sposób składowania surowców papierniczych, półfabrykatów i przetworów, zapobiegające ich przemieszczaniu się.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Pomiędzy górną powierzchnią ręcznie składowanego materiału a elementami konstrukcji lub wyposażenia budynków (np. strop lub suwnica) powinna być zachowana odległość co najmniej 1,5 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Przy składowaniu wyrobów dostarczanych przez inne przemysły, takich jak np. chemikalia lub materiały pomocnicze, należy stosować zasady i przepisy dotyczące ich składowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Składowiska surowców, materiałów i urządzeń powinny być dostosowane do wymagań przeciwpożarowych, mieć odpowiednią i sprawną instalację oświetleniową i wentylacyjną oraz nawierzchnie i drogi odpowiadające stosowanym środkom transportu. §8. 1. Przy układaniu ręcznym surowce drzewne powinny być składowane na wysokość nie większą niż 2 m. Wysokość składowania surowców drzewnych z użyciem urządzeń mechanicznych uzależnia się od zastosowanych urządzeń i bezpiecznych metod pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Szerokość przejazdów między stosami drewna, stosami makulatury lub szmat powinna być dostosowana do rodzaju środka transportu; lecz nie mniejsza niż 1,5 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Odległość stosu drewna od główki szyny toru bocznicy kolejowej powinna być nie mniejsza niż 2,5 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Ręczne ładowanie surowców drzewnych na szynowe wózki transportowe dopuszczalne jest do wysokości 2 m od główki szyny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Oddziały produkcyjne."
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Ściany pomieszczeń, w których odbywają się procesy produkcyjne powodujące znaczne zawilgocenia lub zanieczyszczenia, powinny mieć powierzchnie nienasiąkliwe i łatwo zmywalne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Pomieszczenia, w których istnieje możliwość rozlewania się masy papierniczej, cieczy warzelnych i innych, powinny być wyposażone w punkty czerpalne wody do zmywania podłóg. Podłogi te powinny mieć: określony spadek w kierunku kanałów odpływowych oraz być wykonane z materiału zabezpieczającego pracowników przed poślizgnięciem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Otwory i zagłębienia w podłogach powinny być zakryte lub zabezpieczone barierkami o wysokości co najmniej 1,1 m oraz odpowiednio oznakowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Miejsca, w których znajdują się wyłączniki urządzeń elektrycznych i sprzęt przeciwpożarowy, powinny być łatwo dostępne i odpowiednio oznakowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Pomieszczenia, w których znajdują się urządzenia „niebezpieczne, np.. warzełnie, bielarnie i kotłownie sodowe, powinny mieć co najmniej jedno dodatkowe sprawne wyjście ewakuacyjne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_9/ust_6",
+     "text": "Okna i świetliki przewidziane do wentylacji po-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "winny być przystosowane do otwierania i zamykania ich z poziomu podłogi."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_9/ust_7",
+     "text": "Pomieszczenia o znacznym zagrożeniu pożarowym należy wyposażyć w odpowiedni sprzęt przeciwpożarowy i instalację sygnalizacyjną. § 10. 1. Procesy produkcyjne powodujące wydzielanie się szkodliwych pyłów, gazów, par i dymów, jak również cuchnących lub drażniących wyziewów, powinny odbywać się w aparatach i instalacjach zhermetyzowanych, a jeżeli jest to niemożliwe, jak np. przy filtrach, powlekarkach i innych urządzeniach, miejsca wydzielania się substancji szkodliwych powinny być wyposażone w odciągi miejscowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Pomieszczenia, w których występują czynniki szkodliwe określone w ust. 1, powinny być wyposażone w układy wentylacyjne, zapewniające odpowiednią wymianę powietrza i wykluczające jego recyrkulację. Wyłączenie lub awaria urządzenia wentyłacyjnego powinny być sygnalizowane w sposób łatwe dostrzegałny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "W nowo budowanych i modemizowanych oddziałach produkcyjnych, w których występują czynniki szkodliwe, jak np. w warzelni, bielarni, rębalni, dla obsługi pomieszczenia należy wydzielić kabiny lub sterownie klimatyzowane i wyciszane do zdalnego sterowania i kontroli procesów produkcyjnych. § 11. Maszyny i urządzenia powinny mieć wyłączniki awaryjne umieszczone przy stanowiskach obsługi oraz w pobliżu miejsc szczególnie niebezpiecznych. Wyłączniki powinny być łatwo dostępne i odpowiednio oznakowane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Uruchomienie maszyn i urządzeń powinno odbywać się po sprawdzeniu, czy w strefach zagrożenia nie znajdują się pracownicy, oraz po ostrzeżeniu ich sygnałem dźwiękowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Zabrania się czyszczenia, konserwacji i naprawy maszyn oraz urządzeń w czasie ich ruchu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Maszyny i urządzenia powinny być odpowiednio zabezpieczone przed ich uruchomieniem przez osoby niepowołane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Rurociągi z materiałów kruchych, jak np. szkło i ceramika, lub z tworzyw sztucznych, którymi przepływają niebezpieczne substancje, powinny być zabezpieczone przed uszkodzeniem mechanicznym lub termicznym oraz odpowiednio oznakowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Kołnierze i inne połączenia rurociągów, którymi przepływają niebezpieczne substancje, nie powinny znajdować się nad trasami komunikacyjnymi i stanowiskami pracy, a jeżeli zachowanie tego wymagania nie jest możliwe, należy je odpowiednio osłonić.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Przelewy zbiorników powinny być wyposażone w zabezpieczenia chroniące pracowników przed oblaniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "Górne krawędzie otwartych zbiorników, kadzi, mieszalników itp. powinny znajdować się co najmniej na wysokości 1,1 m nad poziomem podłogi (podestu) lub powinny być zabezpieczone barierką o tej wysokości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_13/ust_5",
+     "text": "Wysokość przejść pod konstrukcjami lub rurociągami powinna wynosić co najmniej 2,1 m, a jeżeli wy-- sokość ta nie może być zachowana, przejścia należy oznakować i odpowiednio zabezpieczyć, np. przez wyłożenie miękkim materiałem. ,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Mechaniczna obróbka Surowców włóknistych, § 14. Stanowiska ręcznego korowania (dokorowywa-"
+  },
+  {
+   "type": "text",
+   "text": "nią) papierówki powinny być wyposażone w osłony chroniące pracowników przed wpływami atmosferycznymi. § 15. 1. Urządzenia korujące powinny być wyposażone w osłony chroniące pracowników przed odpryskami kory i drewna."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Odbiór i transport kory z urządzeń korujących powinien być zmechanizowany. § 16. 1. Noże rębakowe przed ich założeniem powinny być dokładnie SPRRÓWAE. pod względem ich przydatności.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Górna krawędź rynny zsuwowej rębaka powinna znajdować się na wysokości co najmniej 1,25 m od podłogi (podestu). 8 17. Zasobniki rębaków powinny mieć budowę wykluczającą tworzenie się w nich zatorów i zwisów. § 18. Zabrania się: ~",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "korowania papierówki poza miejscami do tego celu wyznaczonymi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "wchodzenia do zasobników zrębków w czasie ich ładowania lub opróżniania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "manipulowania papierówką w komorze prasowej ścieraka,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "ręcznego manipulowania drewnem na przenośnikach przy urządzeniach korujących i rębakach w czasie ich ruchu, używania noży uszkodzonych, np. pękniętych lub wyszczerbionych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_2/pkt_5",
+     "text": "ręcznego odkleszczania papierówki w czasie ruchu rębaka.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Pyły gromadzące się w pomieszczeniach produkcyjnych powinny być systematycznie usuwane, w sposób wykluczający zagrożenia wybuchowe i pożarowe.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Pomieszczenia do suchego przerobu szmat powinny mieć wentylację mechaniczną, zapewniającą odpowiednią wymianę: powietrza, z wyłączeniem jego recyrkułacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Urządzenia do odkurzania i szarpania szmat oraz ręcznego ich sortowania powinny być wyposażone w miejscowe wyciągi pyłu. 8 20. 1. Prace wymagające wchodzenia do rozwłókniaczy, gniotowników, kadzi, warników, dyfuzorów itp. urządzeń zalicza się do prac szczególnie niebezpiecznych, przy których należy zachować wzmożoną ostrożność i wymagane środki bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Prace, o których mowa w ust. 1, powinny być wykonywane przy unieruchomionych urządzeniach, zabezpieczonych przed przypadkowym uruchomieniem, zgodnie z obowiązującą w tym zakresie instrukcją.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Pomosty przy maszynach papierniczych, odwadniarkach celulozy i maszynach do produkcji tektury . powinny być po obu stronach zabezpieczone poręczami i krawężnikami. Miejsca szczególnie niebezpieczne, majdujące się pomiędzy poręczami a krawężnikami, powinny być dodatkowo zabezpieczone siatką lub prętami pionowymi o rozstawieniu nie większym niż 0,2 m. Przy pomostach poprzecznych dopuszcza się zabezpieczenie poręczami tylko z jednej strony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Walce maszyn celulozowych, papierniczych i przetwórczych powinny mieć zabezpieczenie chroniące pracownika przed wciągnięciem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Ręczne zaprowadzanie wstęgi papieru w maszynie papierniczej jest dopuszczalne tylko przy jej szybkości do 90 m/min. W razie ręcznego zaprowadzania wstęgi, odległość wałków prowadzących suszniki od cylindrów suszących w miejscach wejścia powinna wynosić co najmniej 0,12 m.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "W miejscach przewidzianych na przejścia dla obsługi pomiędzy podłogą a najniżej położonym elementem części suszącej w maszynach papierniczych odległość powinna wynosić co najmniej 2 m.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "_Poz. 91 Dziennik Ustaw Nr 20 —"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Przecinanie zwojów (rolek) papieru, ścieru lub masy celulozowej powinno być zmechanizowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Usuwanie obcinków bocznych przy nowych urządzeniach powinno odbywać się samoczynnie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 5",
+   "text": "Produkcja przetworów papierniczych."
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Maszyny i urządzenia powinny mieć odpowiednią obudowę lub być wyposażone w osłony zabezpieczające przed wypadkiem; dotyczy to w szczególności:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_24/pkt_1",
+     "text": "krajarek, które powinny być wyposażone w osłony; każdorazowe uchylenie osłony powinno samoczynnie wyłączać napęd krajarki,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_24/pkt_2",
+     "text": "krajarek bezdrągowych, które powinny mieć budowę zabezpieczającą przed wypadnięciem zwoju,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_24/pkt_3",
+     "text": "kalandrów satynujących, frykcyjnych i wytłaczających, które powinny być wyposażone w zabezpieczenia uniemożliwiające wciągnięcie ręki pracownika lub dostanie się pomiędzy wały niepożądanych przedmiiotów,.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_24/pkt_4",
+     "text": "gilotyn i noży w bobiniarkach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_24/pkt_5",
+     "text": "przekrawaczy, krajalnic, maszyn drukujących, formujących i wycinających, nagniatających i odcinających, w których części wirujące w miejscach dostępnych powinny mieć zabezpieczenia w postaci osłon,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_24/pkt_6",
+     "text": "zszywarek ramieniowych, pras wytłaczających, wycinających, nagniatających i formujących, pracujących metodą dociskową,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_24/pkt_7",
+     "text": "tygli dociskowych, wycinających lub drukujących, które powinny mieć samoczynne urządzenia chroniące pracownika nakładającego arkusze w chwili zbliżenia się płyty dociskowej do formy wycinającej lub drukującej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_24/pkt_8",
+     "text": "powlekarek wałkowych, szczotkowych, z nożem powietrznym, kąpielowych i kurtynowych, które powinny być wyposażone w zabezpieczenia uniemożliwiające okaleczenie obsługi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_24/pkt_9",
+     "text": "ścieraczek brzegów papieru, które powinny mieć obudowę bębna ściernego z wyciągiem pyłu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_24/pkt_10",
+     "text": "wielooperacyjnych agregatów liniujących, które powinny być wyposażone w wyłączniki przy każdym zespole.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "W maszynach do produkcji tektury falistej nad cylindrami i wałami formującymi powinny być zainstalowane wyciągi oparów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Parametry wytrzymałościowe cylindrów grzewczych i innych urządzeń pracujących pod ciśnieniem, a nie objętych nadzorem Urzędu Dozoru Technicznego, powinny być okresowo kontrolowane przez jednostki do tego upoważnione. Jednostki te określają każdorazowo następny termin badania kontrolnego. § 26. 1. Powlekarki, o których mowa w § 24 pkt 8, w miejscach wydzielania się oparów lub substancji szkodliwych powinny być wyposażone w wyciągi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "W razie stosowania do powlekania mieszanek łatwo palnych lub wydzielających opary tworzące z powietrzem mieszanki wybuchowe, powinny być zachowane wymagania przeciwwybuchowe i przeciwpożarowe, zawarte w szczegółowych przepisach.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "W razie powstawania w czasie procesu technologicznego ładunków elektryczności statycznej na zwojach papieru, tamborach lub elementach maszyn i \"urządzeń należy zapewnić w sposób ciągły neutralizację tych ładunków.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 6",
+   "text": "Chemiczne procesy aparaturowe. § 28. 1. Stan techniczny kotła sodowego powinien być systematycznie badany przez osoby sprawujące kierownictwo i dozór nad eksploatacją kotła, niezależnie od badań wynikających z przepisów o dozorze technicznym."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Urządzenie odprowadzające stop sodowy powinno mieć zabezpieczenie chroniące pracowników przed poparzeniem odpryskami stopu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "W zakładach wykorzystujących do produkcji chlor i jego związki oraz dwutlenek siarki powinno być zorganizowane na wszystkich zmianach pogotowie gazowe. i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "W zakładach, o których mowa w ust. 1, powinny być programy i instrukcje akcji ratowniczej, wywieszone w miejscach widocznych i utrzymywane w stanie czytelnym. Instrukcje te w zakresie pracy wykonywanej w - styczności z chloranem sodu powinny zawierać szczególne wymagania bezpieczeństwa i higieny pracy, z uwzględnieniem czynników przeciwwybuchowych i przeciwpożarowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_29/ust_3",
+     "text": "W zakładach, w których znajdują się instalacje zawierające substancje szkodliwe, jak: chlor, dwutlenek chloru i dwutlenek siarki, powinien znajdować się w oznaczonym i łatwo dostępnym miejscu sprzęt ochrony osobistej, jak: ubrania awaryjne, aparaty powietrzne oraz sprzęt, narzędzia i materiały niezbędne do usuwania awarii.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_29/ust_4",
+     "text": "Pracownicy zatrudnieni w oddziałach, o których mowa w ust. 3, powinni być okresowo kontrolowani w: zakresie \"umiejętności używania sprzętu ochronnego, umiejętności udzielania pierwszej pomocy oraz likwidacji awarii gazowych. W zagrożonych pomieszczeniach powinno być systematycznie badane stężenie chloru, dwutlenku chłoru, dwutlenku siarki i innych szkodliwych substancji. § 30. Pracownicy zatrudnieni w styczności z chloranem sodu powinni:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_29/ust_4/pkt_1",
+       "text": "korzystać z wydzielonych pomieszczeń i urządzeń higienicznosanitarnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_29/ust_4/pkt_2",
+       "text": "po pracy myć się starannie pod natryskiem oraz zmieniać odzież i bieliznę, a zakład pracy powinien zapewnić odpowiednie w tym zakresie warunki.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Zbiorniki ługów i kwasów powinny być zamknięte lub przynajmniej przykryte.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Kondensaty z wyparek powinny być odprowadzane w sposób uniemożliwiający przedostawanie się szkodliwych substancji lotnych do pomieszczeń. § 32. 1. Transport, dozowanie i inne operacje wapnem powinny . odbywać się w sposób zapobiegający pyleniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Odprowadzanie z gaśników niegaszących się części wapna powinno być zmechanizowane.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 7",
+   "text": "Przepisy końcowe."
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Traci moc rozporządzenie Ministra Leśnictwa i Przemysłu Drzewnego z dnia 25 czerwca 1968 r. w sprawie bezpieczeństwa i higieny pracy w przemyśle papierniczym (Dz. U. Nr 26, poz. 179). § 34. Rozporządzenie wchodzi w życie z dniem 1 maja 1983 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Leśnictwa i Przemysłu Drzewnego: W. Kozłowski"
+  },
+  {
+   "type": "text",
+   "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych d„Tamka', Zakład nr 1, Warszawa, ul. Tamka 3."
+  },
+  {
+   "type": "text",
+   "text": "Zam. 0366-1300-83."
+  },
+  {
+   "type": "text",
+   "text": "Cana 16,00 zł"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

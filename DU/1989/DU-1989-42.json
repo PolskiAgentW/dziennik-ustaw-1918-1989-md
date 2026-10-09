@@ -1,0 +1,71 @@
+{
+ "eli": "DU/1989/42",
+ "title": "Rozporządzenie Rady Ministrów z dnia 20 lutego 1989 r. zmieniające rozporządzenie w sprawie wykonania ustawy o przedsiębiorstwach państwowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1989/42/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 lutego 1989 r. - ="
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie wykonania ustawy o przedsiębiorstwach państwowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 30 ustawy z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 1987 r. Nr 35, poz. 201) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Rady Ministrów z dnia 30 listopada 1981 r. w sprawie wykonania ustawy o przedsiębiorstwach państwowych (Dz. U. Nr 31, poz. 170, z 1987 r. Nr 37, poz. 213 oraz z 1988 r. Nr 6, poz. 51 i Nr 12, poz. 95) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "§ 6 skreśla się,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w § 18 w ust. 2 pkt 1 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "wi",
+       "path": "par_1/pkt_2/lit_wi",
+       "text": "przedsiębiorstwo nie realizuje celów, dla których zostało utworzone, lub ustało albo wydatnie zmniejszyło się zapotrzebowanie społeczne na działalność, do jakiej przedsiębiorstwo zostało powołane, a przedsiębiorstwo nie ma ekonomicznie uzasadnionych możliwości podjęcia innej działalności\".",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: M. F. Rakowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,258 @@
+{
+ "eli": "DU/1983/10",
+ "title": "Rozporządzenie Ministra do Spraw Cen z dnia 31 grudnia 1982 r. w sprawie zasad ustalania kosztów uzasadnionych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/10/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "5 ROZPORZĄDZENIE MINISTRA DO SPRAW CEN"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 grudnia 1982 r. w sprawie zasad ustalania kosztów uzagadnionych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 ust. 12 oraz art. 5 ust. 2 ustawy z dnia 26 lutego 1982.r. o cenach (Dz. U. Nr 7, poz. 52) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Kosztami uzasadnionymi Kiódukcji towarów -",
+   "children": [
+    {
+     "type": "text",
+     "text": "i świadczenia usług są koszty obliczone według zasad określonych w § 2—5."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Koszty uzasadnione stanowią podstawę do sporządzania kalkulacji na potrzeby ustalania cen urzędowych i regulowanych; kalkulację sporządza się według obowiązujących w jednostce gospodarki uspołecznionej zasad ewidencji i kalkulacji kosztów, z uwzględnieniem niniejszych zasad.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "* Dziennik Ustaw Nr f m"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Przy obliczaniu posieźcgólnych tlementów kosztów bezpośrednich należy uwzględnić:",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Koszty specjalne (przygotowanie nowej produkcji i wartości narzędzi i przyrządów specjalnych), o których . \"mowa w ust. I pkt 3, powinny być w całości rozliczone",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_3/pkt_1",
+       "text": "w zakresie materiałów” (bezpośrednich): ow ciągu lat trzech lub — gdy uzasadnia to długotrwałość",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_3/pkt_1/lit_a",
+         "text": "zużycie w ilościach określonych w normach zakładowych, i",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_3/pkt_1/lit_b",
+         "text": "straty technologiczne nie w¥zsze niż określone w normach zakładowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_3/ust_3/pkt_1/lit_c",
+         "text": "zmniejszenie zużycia materiałów z.tytułu odr de kow użytkowych (np. żelastwa użytkowego, złomu metali i innych śurowców wtórnych),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_3/ust_3/pkt_1/lit_d",
+         "text": "ceny:",
+         "children": [
+          {
+           "type": "text",
+           "text": "— urzędowe — w stosunku do surowców i materiałów oraz innych środków produkcji, na które ustala się te ceny, — regułowane — w stosunku do towarów, na które ustala się te ceny; w razie zakupu towarów o różnych cenach ceny te mogą być odpowiednio uśrednione, — umowne, potwierdzone fakturami (rachunkami) — w stosunku do towarów, na .które nie ustala się cen urzędowych i regulowanych,"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_3/pkt_2",
+       "text": "w zakiesie płac::",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_3/pkt_2/lit_a",
+         "text": "normy zakładowe czasowe pracochłonności, śkórygowane o średni,procent ich wykonania, przemnożone przez przecięlną faktyczną stawkę wynagro- „dzenia za 1 godzinę — z podziałem na poszczególne operacje technologiczne lub ich grupy oraz operacje maszynowe i ręczne, albo",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_3/pkt_2/lit_b",
+         "text": "normy zakładowe czasowe dla poszczególnych operacji technologicznych, przemnożone przez stawkę godzinową, odpowiadającą kategorii zaszeregowania tych operacji, zgodną z tarylikatorem — z podziałem na poszczególne operacje technologiczne lub ich grupy ofaz operacje maszynowe i ręczne,",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "oraz wyszczegÓlnienie narzutów do płac bezpośrednich (tytuły, stawki procentowe, kwoty narzutów), które na podstawie odrębnych przepisów żaliczane są do kosztów bezpośrednich, Fa"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_3/pkt_3",
+       "text": "w zakresie innych kosztów bezpośrednich (specjalnych) — wyszczególnienie tych kosztów, z podaniem \"dla każdej pozycji kwoty oraz sposobu obliczenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_3/pkt_4",
+       "text": "w zakresie kosztów usunięcia wad towarów ujawnionych w pizedsiębiorstwie i poza nim, w tym takżę w ramach udzielonych gwarancji — koszty w wysokości określonej w normach technologicznych, a w braku noim — w wysokości połowy procentowego wskaźnika tych kosztów, wynikającego z rzeczywistego wy: kenania w roku ubiegłym.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2 Nórmy zakładowe, o których mowa w ust. I pkt 1 i 2, nie mogą być wyższe od wskaźników rzeczywiście osiąganych przy produkcji zbliżonych towarów. W „razie braku zakładowych norm zużycia materiałów i norm czasu pracy do kalkulacji przyjmuje się wielkości szacunkowe, z tym że założone wskaźniki wykorzystania materiałów (strat, zaników produkcyjnych), wydajności pracy itp. nie mogą być gorsze od wskaźników rzeczywiście osiąganych przy produkcji zbliżonych towarów."
+        },
+        {
+         "type": "text",
+         "text": "produkcji i wysokość kosztu — lat pięciu, a jeśli prze-- widywany okres' produkcji jest krótszy niż trzy lata — w okresie, w którym faktycznie produkcja będzie wykónywana."
+        },
+        {
+         "type": "text",
+         "text": "\"8 4. 1. Przy obliczaniu kosztów pośrednich stosuje sią — w zakresie kosztów wydziałowych i ogólnozakładowych (ogólnych) — stawki narzutów ustalone na podstawie kwot kosztów faktycznie poniesionych w ubiegłym roku, ~ z tym że podstawę, do której te koszty są doliczane (np. płace bezpośrednie), należy określić przy założeniu pełnej obsady stanowisk roboczych i rzeczywistej zmianowości pracy, co najmniej jednak: pracy na dwie zmiany."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Przedsiębiorstwo może, za zgodą organu założycielskiego, przyjąć inny wskaźnik zmianowości, jężeli wynika.to.z procesu technologicznego lub jeżeli w latach ubiegłych przedsiębiorstwo nie pracowało na pełne dwie zmiany. Spółdzielnia może. przyjąć inny wskaźnik zmianowości za zgodą właściwego terytorialnie okręgowego urzędu cen,",
+     "children": [
+      {
+       "type": "text",
+       "text": "3, Jeżeli koszty zakupu i sprzedaży nie są uwzględnione w kosztach bezpośrednich, narzuty tych kosztów przyjmuje się w wysokości rzeczywistego wskaźnika ż roć ku ubiegłego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Jeżeli w stosunku do roku ubiegłego nastąpił wzrost kosztów pośrednich z przyczyn niezależnych od przedsiębiorstwa (zmiana taryf przewozowych, stawek podatków obciążających koszty itp.), właściwy terytorialnie okręgowy urząd cen może zezwolić na podniesienie narzutów „(stawek narzutów) uwzględnianych w kalkulacji ceny.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Przy opracowywaniu kalkulacji kosztu własnego produkcji maszym urządzeń oraz innych towarów, których produkcja:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "podejmowana jest w nowych zakładach, :",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "opiera się na zakupionej licencji na nowe towary, .3) wymaga uruchomienia nowych linii technologicznych,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "przez koszt ten należy rozumieć koszt produkcji opanowa-- nej technicznie, tj. średni koszt własny produkcji obliczony jako iłoraz sumy przewidywanych kosztów i projekto= wane] przewidywanej) ilości produkcji: . — dla całego okresu produkcji towa jeśli okres ten nie przekracza 3 lat, — dla 3 lat, jeśli przewiduje się produkcję towaru w . okresie dłuższym niż 3 lata,"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Przepis ust. 1 dotyczy również innych towarów, w których obowiążek opracowania kalkulacji kosztów produkcji opanowanej technicznie określony został, sg doe mi przepisami. ‘ i",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie *raliódzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1983 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister do Spraw Cen: Z, Krasiński"
+  },
+  {
+   "type": "text",
+   "text": "Redakcja: Urząd Rady Ministrów — Biuro Prawne, Warszawa, Al. Ujazdowskie 1/3. Administracja: Administracją Wydawnictw Urzędu Rady Ministrów, ul, Powsińska 69/71 00-979 Warszawa (skcyżka pocztowa 81); tel’ 28-90-01 w. 608 i 42-14-78."
+  },
+  {
+   "type": "text",
+   "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamika”, Zakład nr 1, Warszawa, uł. Tamka 3."
+  },
+  {
+   "type": "text",
+   "text": "a ~ Zam. 0054-1300-83."
+  },
+  {
+   "type": "text",
+   "text": "Cena 24,00 zł"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

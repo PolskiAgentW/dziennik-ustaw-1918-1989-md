@@ -1,0 +1,86 @@
+{
+ "eli": "DU/1988/115",
+ "title": "Rozporządzenie Rady Ministrów z dnia 13 maja 1988 r. zmieniające rozporządzenie w sprawie rozciągnięcia niektórych przepisów ustawy o jednostkach badawczo-rozwojowych na zakłady badawczo-rozwojowe resortu górnictwa i energetyki.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1988/115/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 maja 1988 r. 7"
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie rozciągnięcia hiektórych przepisów ustawy o jednostkach badawczo-rozwojowych na zakłady badawczo-rozwojowe resortu górnictwa i energetyki. Na podstawie art. 79 ust. 2 ustawy z dnia 25 lipca 1985 r. o jednostkach badawczo-rozwojowych (Dz. U. Nr 36, poz. 170) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Rady Ministrów z dnia 29 września 1986 r. w sprawie rozciągnięcia niektórych przepisów ustawy o jednostkach badawczo-rozwojowych na zakłady badawczo-rozwojowe resortu górnictwa i energetyki (Dz. U. Nr 40, poz. 196) wprowadza się naStępujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w tytule i w § 1 rozporządzenia oraz w tytule załącznika do rozporządzenia wyrazy „resortu górnictwa i energetyki\" zastępuje się wyrazami „resortu przemysłu”; i",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w tabeli stanowiącej załącznik do rozporządzenia:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w Ip. 3.w kolumnie 3 wyrazy „Pion Naukowo- _-Badawezy, Katowice\" zastępuje się wyrazami",
+       "children": [
+        {
+         "type": "text",
+         "text": "„Ośrodek Badawczy Elektrotechniki i Automatyki Górniczej, Katowice”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "dodaje się Ip. 6 w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Ośrodek Badawczy In--"
+        },
+        {
+         "type": "text",
+         "text": "Centralny Ośrodek Informatyki i Ekonomiki formatyki Górnictwa, Górnictwa\" Katowice"
+        },
+        {
+         "type": "text",
+         "text": "Rozporządzenie wchodzi w życie z. dniem § 2. ogłoszenia."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: Z. Messner"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

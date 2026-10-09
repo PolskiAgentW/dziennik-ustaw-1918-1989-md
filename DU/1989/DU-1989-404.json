@@ -1,0 +1,180 @@
+{
+ "eli": "DU/1989/404",
+ "title": "Rozporządzenie Ministra Rolnictwa, Leśnictwa i Gospodarki Żywnościowej z dnia 18 listopada 1989 r. w sprawie urzędowego spisu leków stosowanych wyłącznie u zwierząt.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1989/404/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ROLNICTWA, LEŚNICTWA I GOSPODARKI ŻYWNOŚCIOWEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 listopada 1989 r. w sprawie urzędowego spisu leków stosowanych wyłącznie u zwierząt."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 oraz art. 28 ust. 4 ustawy z dnia 28 stycznia 1987 r. o środkach farmaceutycznych, artykułach sanitarnych i aptekach (Dz. U. Nr 3, poz. 19 i z 1988 r. Nr 41, poz. 324) zarządza się, co następuje: § 1. Środki farmaceutyczne i artykuły sanitarne stosowane wyłącznie u zwierząt, dopuszczone do obrotu, zamieszcza się w urzędowym spisie leków stosowanych wyłącznie u zwierząt."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Do urzędowego spisu leków stosowanych wyłącznie u zwierząt wpisuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "nazwę surowca, leku lub artykułu sanitarnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "postać i dawkę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "rodzaj i wielkość opakowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "oznaczenia informujące o:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_4/lit_a",
+         "text": "sposobie wydawania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_4/lit_b",
+         "text": "leku silnie działającym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_4/lit_c",
+         "text": "leku bardzo silnie działającym.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Nazwę, o której mowa w ust. 1 pkt 1, wpisuje się zgodnie z nazwą przyjętą w certyfikacie rejestracyjnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Oznaczenia, o których mowa w ust. 1 pkt 4, wpisuje się przy poszczególnych pozycjach, a ich objaśnienie zamieszcza się na końcu urzędowego spisu leków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Urzędowy spis leków stosowanych wyłącznie u zwierząt dzieli się na części zawierające:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "leki gotowe, i",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "surowice,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "szczepionki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "preparaty diagnostyczne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "artykuły sanitarne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Srodki farmaceutyczne i artykuły sanitarne objęte urzędowym spisem leków stosowanych wyłącznie u zwierząt umieszcza się w poszczególnych częściach wymienionych w ust. 1 w porządku alfabetycznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Urzędowy spis leków stosowanych wyłącznie u zwierząt publikuje się w formie obwieszczenia w Dzienniku Urzędowym Ministerstwa Rolnictwa, Leśnictwa i Gospodarki Żywnościowej. § 5. Urzędowy spis leków stosowanych wyłącznie u zwierząt podlega okresowej weryfikacji, uwzględniającej zmiany w rejestrze środków farmaceutycznych i artykułów sanitarnych. § 6. Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa, Leśnictwa i Gospodarki Żywnościowej: C. Janicki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

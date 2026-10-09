@@ -1,0 +1,136 @@
+{
+ "eli": "DU/1989/81",
+ "title": "Rozporządzenie Rady Ministrów z dnia 14 marca 1989 r. w sprawie zgłaszania mienia osób krajowych znajdującego się za granicą oraz mienia osób zagranicznych znajdującego się w kraju.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1989/81/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 14 marca 1989 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zgłaszania mienia osób krajowych znajdującego się za granicą oraz mienia osób zagranicznych znajdującego się w kraju."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 17 ust. 4 ustawy z dnia 15 lutego 1989 r. — Prawo dewizowe (Dz. U. Nr 6, poz. 33) zarzadza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Osoby krajowe, z wyjątkiem cudzoziemców, są obowiązane zgłosić Narodowemu Bankowi Polskiemu następujące rodzaje ich mienia, znajdującego się za granicą, a także jego utratę:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "udziały w spółkach i przedsiębiorstwach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "nieruchomości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "waluty obce, jeżeli ich równowartość przekracza kwotę 1000000 zł, z wyjątkiem: *",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_1/pkt_3/lit_a",
+         "text": "walut obcych nie podlegających sprowadzeniu do kraju na podstawie zezwolenia dewizowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_1/pkt_3/lit_b",
+         "text": "walut obcych będących w dyspozycji przedstawi cielstw dyplomatycznych, urzędów konsularnych i innych przedstawicielstw korzystających z im- ,munitetu i przywilejów dyplomatycznych lub konsularnych albo stanowiących przedmiot statutowej działalności polskiego banku dewizowego, akcje, obligacje, listy zastawne emitowane lub wy: 4) stawiane w walucie obcej, jeżeli ich równowartość przekracza łącznie 1000000 zł, 5) złoto i platynę w postaci stanowiącej wartość dewizową, jeżeli łączna masa czystego kruszcu każdego z tych metali przekracza 250 g; obowiązek zgłaszania nie dotyczy kruszców stanowiących przedmiot statutowej działalności polskiego banku dewizowego.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Wartość mienia oblicza się w złotych, według kursu walut obcych, ustalonego przez Prezesa Narodowego Banku Polskiego, przyjmując za podstawę obliczenia wartość nominalną mienia, a w razie jej braku lub. niemożności ustalenia — jego wartość szacunkową, określoną z uwzględnieniem aktualnych cen w miejscu, w którym znajduje się mienie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Osoby zagraniczne, z zastrzeżeniami wyłączenia, o którym mowa w art. 17 ust. 2 ustawy z dnia 15 lutego 1989 r. — Prawo dewizowe (Dz. U. Nr 6, ‘poz. 33), są obowiązane zgłosić Narodówemu Bankowi Polskiemu ich mienie, o którym mowa w § 1 ust. 1 pkt 1 i 2, znajdujące się w kraju, a także jego utratę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Zgłoszenie mienia powinno być dokonane w terminie 30 dni od daty nabycia własności lub uzyskania wiadomości o jej nabyciu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Zgłoszenie utraty mienia powinno być dokonane w terminie 30 dni od jego utraty lub uzyskania wiadomości o jego utracie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zgłoszenia mienia, a także jego utraty, należy dokonać w Narodowym Banku Polskim na formularzu ustalanym przez Prezesa Narodowego Banku Polskiego, obejmującym w szczególności następujące dane dotyczące tego mienia: kraj i miejsce, w którym znajduje się mienie, rodzaj mienia i jego wartość, ustanowione obciążenia, a w razie utraty mienia — sposób i termin utraty.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Rozporządzenie wchodzi w życie z dniem 15 marca 1989 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: w z. J. Patorski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,90 @@
+{
+ "eli": "DU/1982/103",
+ "title": "Rozporządzenie Rady Ministrów z dnia 26 kwietnia 1982 r. zmieniające rozporządzenie w sprawie praw i obowiązków pracowników państwowego przedsiębiorstwa \"Polska Poczta, Telegraf i Telefon\".",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/103/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 kwietnia 1982 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie praw i obowiązków pracowników państwowego przedsiębiorstwa „Polska Poczta, Telegrat i Teleion\". ;"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 298 Kodeksu pracy (Dz. U. z 1974r. Nr 24, poz. 141, z 1975 r. Nr 16, poz. 91 i z 1981 r. Nr 6, poz. 23) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 27 grudnia 1974 r. w sprawie praw i obowiązków pracowników państwowego przedsiębiorstwa „Polska Poczta, Telegraf i Telefon” (Dz. U. z 1974 r. Nr 51, poz. 329 i z 1978r. Nr 8, poz. 30) wprowadza się następujące zmiany:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w § 3 ust. 1 dodaje się pkt 9 w brzmieniu: „9) daje rękojmię należytego wykonywania zadań. uf",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "w ust. 2 dodaje się pkt 4 i 5 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„4) w wyniku zmian organizacyjnych, polegających na likwidacji lub połączeniu komórek,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) w razie utraty rękojmi należytego wykonywania zadań na zajmowanym stanowisku.”,",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "w ust. 3 po wyrazach: „pkt 1” dodaje się przecinek oraz wyrazy: „4 lub 5\";",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w § 16 ust. 1 pkt 1 dodaje się lit. c) w brzmieniu 4",
+   "children": [
+    {
+     "type": "lit",
+     "num": "nc",
+     "path": "pkt_3/lit_nc",
+     "text": "utraty rękojmi należytego wykonywania zadań.\"",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: gen. armii W. Jaruzelski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

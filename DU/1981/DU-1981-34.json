@@ -1,0 +1,1460 @@
+{
+ "eli": "DU/1981/34",
+ "title": "Rozporządzenie Rady Ministrów z dnia 25 lutego 1981 r. w sprawie dozoru technicznego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1981/34/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 lutego 1981 r."
+  },
+  {
+   "type": "text",
+   "text": "\"w sprawie dozoru technicznego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 1 ust. 2 i 3, art. 3 ust. 3 oraz art. 4 ust. 3 ustawy z dnia 31 stycznia 1961 r. o dozorze technicznym (Dz. U. Nr 5, poz. 31) zarządza się, co następuje;"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "- Przepisy ogólne."
+  },
+  {
+   "type": "text",
+   "text": "51"
+  },
+  {
+   "type": "ust",
+   "num": "1",
+   "path": "ust_1",
+   "text": "._Rozporządzenie określa: '1) rodzaje urządzeń technicznych, podlegających dozo- \"rowi technicznemu, - 2) zakres dozoru technicznego nad poszczególnymi urządzeniami technicznymi,",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_1/pkt_3",
+     "text": "organy dozoru technicznego, ich. organizację, peflno* rządkowanie oraz zakres działania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "ustawie —. rozumie się przez to ustawę z dnia 31 stycznia 1961 r. o dozorze technicznym (Dz. U. Nr 5, poz. 31),. i : _ 2) przepisach dozoru technicznego — rozumie się przez to: .",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "ust_2/pkt_1/lit_a",
+       "text": "przepisy ustawy, .",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "ust_2/pkt_1/lit_b",
+       "text": "przepisy wydane na podstawie ustawy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "ust_2/pkt_1/lit_c",
+       "text": "techniczne warunki dotyczące poszczególnych rodzajów « urządzeń technicznych podlegających oe zorowi technicznemu. .",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Dozór techniczny polega na wykonywaniu czynności zmierzających do zapewnienia bezpiecznego funkcjonowania podlegających dozorowi technicznemu urządzeń technicznych, które mogą stwarzać zagrożenie dla zdrowia i życia ludzkiego, mienia lub środowiska.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Dozór techniczny nad poszczególnymi rodzą- Jami urządzeń technicznych jest wykonywany w pełnym rozmiarze czynności dozorowych określonych w art. 3, ust, I ustawy (dozór stały) lub w rozmiarze ograniczonym ‘do wykonywania niektórych czynności dozorowych z zakresu dozoru stałego w zależności od zagrożenia, jakie \"stwarzają te urządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Czynności dozorowe mogą być wykonywane także w toku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "opracowywania projektów urządzeń oraz budowy ich prototypów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "wytwarzania materiałów przeznaczonych do budowy urządzeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "wytwarzania urządzeń.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Urządzenia techniczne powinny być projek- „towane, wytwarzane, eksplóatowane i naprawiane zgodnie z normami oraz przepisami dozoru technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Urządzenia techniczne podlegające. dozorowi technicznemu, dla których polskie organy dozoru technicznego <nie ustaliły technicznych warunków, mogą być: projektowane, wytwarzane, eksploatowane i naprawiane według",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ka — 112 — Poz. 34"
+      },
+      {
+       "type": "text",
+       "text": "technicznych warunków, które zostaną uznane przez polski organ dozoru technicznego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Wykonywanie przez organ dozoru technicznego czynności dozorowych nie zwalnia projektantów, wytwór ców, użytkowników oraz jednostek naprawiających urządzenia techniczne podlegające dozorowi technicznemu od odpowiedzialności za ich odpowiednią jakość, zgodność z normami, przepisami dozoru technicznego oraz innymi przepisami szczególnymi, a także dbałości o ich właściwą eksploatację i naprawy,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Rodzaje urządzeń technicznych podlegających dozorowi i > + w technicznemu."
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Dozorowi technicznemu podlegają następujące rodzaje urządzeń technicznych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "urządzenia ciśnieniowe, w których są zawarte płyny (ciecze, gazy) lub materiały sypkie, o ciśnieniu różnym od atmosferycznego, a w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/pkt_1/lit_a",
+       "text": "kotły parowe, przeznaczone do wytwarzania pary z cieczy energetycznej z użyciem ciepła uzyskanego w drodze reakcji egzotermicznych lub z energii elektrycznej,",
+       "children": [
+        {
+         "type": "text",
+         "text": "*b) kotły wodne, przeznaczone do podgrzewania wody bez zmiany stanu skupienia, pobierające ciepło uzyskane w drodze reakcji egzotermicznych lub z energii elektrycznej,"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_5/pkt_1/lit_c",
+       "text": "zbiorniki stałe, przeznaczone do magazynowania płynów lub materiałów sypkich albo do prowadzenia w nich procesu technologicznego pod ciśnieniem różnym od atmosferycznego, w tym również wymienniki ciepła, tj. zbiorniki złożone z dwóch albo -więcej przestrzeni oddzielonych ściankami, przeznaczone do wymiany ciepła między przepływającymi czynnikami,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_5/pkt_1/lit_d",
+       "text": "zbiorniki przenośne (transportowe), przeznaczone do transportu płynów lub materiałów sypkich, zmieniające miejsce między napełnieniem i opróżnieniem albo przeznaczone do magazynowania .paliwa dla pojazdu, z którym są trwale połączone,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_5/pkt_1/lit_e",
+       "text": "wytwornice acetylenowe. stałe i przenośne, przeznaczone do wytwarzania acetylenu w wyniku reakcji chemicznej między wodą i węglikiem wapnia, wraz ze zbiornikami służącymi do magazynowania, schładzania, osuszania i oczyszczania -acetylenu oraz urządzeniami zabezpieczającymi, umieszczonymi na przewodach rozprowadzających albo bezpośrednio na wytwornicy,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "dźwignice, tj. środki transportu o zasięgu ograniczonym i ruchu przerywanym, przeznaczone do przeamieszczania osób lub ładunków, a w szczególności:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/pkt_2/lit_a",
+       "text": "wciągarki i wciągniki, przeznaczone do przemieszczania osób lub ładunków w pionie lub w pionie i poziomie w jednej płaszczyżnie pionowej za pośrednictwem cięgna zakończonego urządzeniem chwytającym, wraz z koniecznym wyposażeniem,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/pkt_2/lit_b",
+       "text": "suwnice, przeznaczone do przemieszczania © ładunków w pionię, poziomie lub w pionie i poziomie w przestrzeni ograniczonej skrajnymi położeniami wciągarki lub wciągnika oraz ce ecfini ad ‘mi suwnicy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_5/pkt_2/lit_c",
+       "text": "żurawie, których wysięgnik może wykonywać ruchy obrotowe w płaszczyźnie poziomej, pionowej lub pionowej i poziomej jednocześnie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_5/pkt_2/lit_d",
+       "text": "układnice, przeznaczone do składowania ładunków w magazynach, zwane dalej „magazynowymi”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_5/pkt_2/lit_e",
+       "text": "dźwigi składające się z podstawy ładunkowej (kabiny, platformy itp.), prowadzonej w prowadnicach, i przemieszczającego ją zespołu napędowego (wciągarki, wciągnika, dźwignika śrubowego, tłokowego lub zębatkowego), przeznaczone do pionowego przemieszczania osób lub ładunków, i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_5/pkt_2/lit_f",
+       "text": "wyciągi towarowe, w tym również wyciągi statków, składające się z podstawy ładunkowej (wózek, kosz itp.), prowadzonej w pochyłych prowadnicach, przystosowane do pochyłego przemieszczania ładunków za pomocą wciągarek lub wciągników,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_5/pkt_2/lit_g",
+       "text": "podesty ruchome, przystosowane do przemieszczania w pionie platform roboczych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_5/pkt_2/lit_h",
+       "text": "dźwignice linotorowe, w których jedna lub więcej lin nośnych rozpiętych między podporami stanowi tor jezdny do przemieszczania ładunków.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W celu zapewnienia bęzpieczeństwa w obiektach jądrowych, a także w transporcie materiałów promieniotwórczych, poddaje się przępisom ustawy następujące urządzenia techniczne: urządzenia obiektów wyposażonych w reaktory ją- 1) drowe, a w szczególności: »",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/ust_1/lit_a",
+       "text": "zbiorniki i elementy konstrukcyjne -reaktoréw,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/ust_1/lit_b",
+       "text": "systemy i urządzenia chłodzenia reaktorów, w tym chłodzenia powyłączeniowego i awaryjnego, oraz systemy wytwarzania pary,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_6/ust_1/lit_c",
+       "text": "systemy i urządzenia stabilizacji ciśnienia w obiegach chłodzenia reaktorów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_6/ust_1/lit_d",
+       "text": "rurociągi i ich urządzenia wsporcze z wyłączeniem rurociągów w obiegu wtórnym o średnicy mniejszej niż 0,032 m,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_6/ust_1/lit_e",
+       "text": "zawory, z wyłączeniem zaworów w obiegu wtórnym o średnicy mniejszej niż 0,032 m,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_6/ust_1/lit_f",
+       "text": "pompy obiegowe i zasilające,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_6/ust_1/lit_g",
+       "text": "zbiorniki cieczy i gazów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "urządzenia (i wyposażenie) gospodarki paliwem jądrowym i gospodarki odpadami promieniotwórczymi, elementy konstrukcyjne zabudowane w reaktorach, 3) w których znajduje się inny czynnik niż chłodziwo reaktora, niezależnie od jego ciśnienia, a także jeśli jest nim' ten sam czynnik, ale 6 różnym ciśnieniu (sondy, pętle itp.).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Przepisom ustawy poddaje się ponadto następujące urządzenia techniczne: kotły cieczowe, nie wymienione w § 5 pkt 1 lit. b), a) \"przeznaczone do podgrzewania cieczy bez zmiany jej stanu skupienia, bezciśnieniowe zbiorniki-cysterny, przeznaczone do przewozu drogowego i kolejowego materiałów niebezpiecznych, których przewóz jest dopuszczony na podstawie przepisów szczególnych, oraz kontenery do transportu wypalonego paliwa jądrowego, 3) rurociągi parowe oraz ich armatura, łączące kocioł z turbiną w blokach energetycznych, i „przenośniki przeznaczone do przemieszczania. osób w pionie, w poziomie -hub pod kątem jako środki trans-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "portowe o zasięgu ograniczonym i ruchu ciqgtym, aw -§ 8. Dozorem stałym są objęte następujące „urządzę-* szczególności: , nią techniczne:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/ust_2/lit_a",
+       "text": "przenośniki kabinowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "kotły \"parowe o nadciśnieniu wyższym od 007 MPa",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_2/pkt_1/lit_b",
+         "text": "schody ruchome, \"",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_6/ust_2/pkt_1/lit_c",
+         "text": "chodniki ruchome, urządzenia techniczne baz pfzeładunkowych w \"por- 5) tach morskich, a w szczególności; '. a). urządzenia służące do manipulacji kontenerami w płaszczyźnie poziomej i pionowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_2/pkt_1/lit_b",
+         "text": "urządzenia ciągów technologicznych przetadow- 2) czych towarów, składające się z urządzeń załadowczych, wyładowczych lub podających towary, 6) układnice do układania torów, których udźwig jest równy 5 t lub większy od 5 t,. 7) rurociągi technologiczne o _ średnicy nominalnej większej od 50 mm, służące do transportu: 3)",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_2/pkt_1/lit_a",
+         "text": "cieczy lub gazów toksycznych o ciśnieniu roboczym powyżej 0,6 MPa (6 kG;/cm?), ‘b) cieczy lub gazów palnych o ciśnieniu powyżej 0,6 MPa (6 kG/cm?®), :",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_6/ust_2/pkt_1/lit_c",
+         "text": "pary wodnej o ciśnieniu roboczym powyżej 3,2 MPa (32 kG/cm?),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_6/ust_2/pkt_1/lit_d",
+         "text": "wody gorącej w instalacjach kotłowych o temperaturze powyżej 423 K (150°C), urządzenia transportowe linowe i linowo-terenowe, 8) służące do publicznego przewozu .osób w celach turystyczno-sportowych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Zakres dozoru technicznego nad poszczególnymi rodzajami urządzeń technicznych."
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Dozór techniczny wykonywany w pełnym rozmiarze czynności dozorowych, określonych w art. 3 ust. 1 ' ustawy (dozór stały), polega na: 1) prowadzeniu rejestracji urządzeń technicznych, sprawdzaniu i ocenie dokumentacji technicznej proto- 2) typów urządzeń technicznych i urządzeń technicznych produkowanych jednostkowo, z punktu widzenia jej zgodności z normami oraz przepisami dozoru technicz-- nego, 4, wydawaniu wytwórcom materiałów i urządzeń technicznych zezwoleń. na spawanie urządzeń. technicznych podlegających dozorowi technicznemu oraz wy- 4) konywaniu~u tych wytwórców kontroli przestrzegania warunków zezwolenia, . wykonywaniu badań odbiorczych urządzeń technicz- 4) nych przed dopuszczeniem ich do ruchu, dopuszczaniu do ruchu urządzeń technicznych, 5) wykonywaniu okresowych i nadzwyczajnych badań 6) urządzeń technicznych, i 5) wstrzymywaniu ruchu urządzeń technicznych w razie 7) nieprzestrzegania przez użytkowników przepisów dozoru technicznego lub gdy dalsze użytkowanie utządzeń może stwarzać bezpośrednie zagrożenie dla zdrowia i życia ludzkiego, mienia lub środowiska, 8) sprawdzaniu kwalifikacji osób obsługujących i konserwujących urządzenia techniczne w wypadkach przewidzianych w przepisach dozoru technicznego, nad przestrzeganiem przepisów =: 9) nadzorze i kontroli 6) dozoru technicznego we eee apron oer technicznego,",
+   "children": [
+    {
+     "type": "text",
+     "text": "(0,7 kG/cm?*), z wyjątkiem objętych, dozorem ograni- . czonym kotłów o nadciśnieniu nie. wyższym od 0,5 MPa (5 kG/cm?) i iloczynie nadciśnienia oraz. pojemności nie wyższym od 0,06 MPa X m* (600 kG/ jcm* X 1), jeżeli są one wyposażone w odpowiednią automatykę i ogrzewane grzałkami elektrycznymi lub paliwem spalanym. strumieniowo, i"
+    },
+    {
+     "type": "text",
+     "text": "kotły cieczowe, w tym wodne, o temperaturze cieczy przekraczającej temperaturę wizenia, przy nadciśnieniu 0,07 MPa (0,7 kG/cm*), z wyjątkiem objętych- dozorem ograniczonym kotłów o iloczynie nadciśnienia i pojemności nie wyższym od 0,03 MPa X m* (300 kG/ /cm® X 1), j"
+    },
+    {
+     "type": "text",
+     "text": "zbiorniki stałe o nadciśnieniu wyższym od 0,07 MPa (0,7 kG/cm?), -z wyjątkiem : objętych dozorem aE czonym:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_7/lit_a",
+     "text": "zbiorników o nadciśnieniu nie wyższym od 1,6 MPa (16 kG/cm*) i pojemności nie większej od 5 m: (5000 1), wchodzących w skład instałacji wodociągowych zabezpieczonych przed dostępem: osób” postronnych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_7/lit_b",
+     "text": "zbiorników sprężonego powietrza c nadciśnieniu nie wyższym od 1,6. MPa (16 kG/cm$) i iloczynie nadciśnienia oraz pojemności nie wyższym od 1 MPa.X m* (10000 kG/cm? X 1),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_7/lit_c",
+     "text": "powietrznych zbiorników hamulcowych, zainstalowanych na pojazdach mechanicznych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_7/lit_d",
+     "text": "zbiorników w instalacjach chłodniczych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "par_7/lit_e",
+     "text": "zbiorników powietrza użytkowanych w instalacjach wyłącznie w związku z potrzebami ruchowymi rozdzielni i stacji elektroenergetycznych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "par_7/lit_f",
+     "text": "zbiorników o iloczynie nadciśnienia i pojemności nie wyższym od 0,03 MPa X m* (300 kG/cm* X 1),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "par_7/lit_g",
+     "text": "zbiorników o nadciśnieniu nie wyższym od 3 MPa (30 kG/cm*), wypełnionych całkowicie -cieczą o temperaturze nie przekraczającej temperatury wrzenia przy nadciśnieniu 0,07 MPa (0,7 kG/cm?),",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "par_7/lit_h",
+     "text": "rozdzielaczy i kolektorów w „instalacjach rurociągowych, © \"",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "par_7/lit_i",
+     "text": "schładzaczy pary poza kotłem, kondensatorów turbin oraz odoliwiaczy i odwadniaczy, : zbiorniki powietrza o nadciśnieniu wyższym od 1,6 MPa (16 kG/cm*) i pojemności większej od 5 m*, użytkowane w instalacjach w związku z potrzebami ‘ruchowymi rozdzielni i stacji elektroenergetycznych, ustawiane w budynkach rozdzielni i stacji elektroenergetycznych ze stałą obsługą albo w budynkach, w których są lokale mieszkalne, wymienniki ciepła o przestrzeni grzanej będącej kotłem cieczowym 'i przestrzeni grzejnej będącej zbiornikiem stałym, jeżeli kocioł lub zbiornik stały podlega dozorowi stałemu, z wyjątkiem objętych dozorem ograniczonym wymienników. ciepła o temperaturze cieczy grzanej nie wyższej od temperatury wrzenia przy nadciśnieniu 0,07 MPa (0,7 kG/cm*) oraz iloczynie nadciśnienia i pojemności wyższym od 0,03 MPa X X m* (300 kG/cm* X 1), jeżeli zbiornik stały jest wężownicą.. i zbiorniki przenośne: o nadciśnieniu wyższym od 0,07 MPa (0,7 kG/cm*) oraz pojemności większej od",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "„0,002 m* (2 1), z wyjątkiem objętych dozorem ograni-' czonym:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) zbiorników stanowiących część składową gaśnic pożarniczych o nadciśnieniu próbnym nie wyższym od 3 MPa (30 kG/cm?) i pojemności większej od 0.00035 m* (350 cm*), ale nie większej od 0,012 m*_ (12 1), .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) zbiorników przeznaczonych do magazynowania paliwa dla pojazdu, z którym są trwale połączone,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "-7) bezciśnieniowe zbiorniki-cysterny, przeznaczone do przewozu drogowego i kolejowego materiałów niebezpiecznych, oraz kontenery do transportu wypalonego paliwa jądrowego, -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) wytwornice acetylenowe, z wyjątkiem objętych dozorem ograniczonym wytwornic acetylenowych:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) służących do zasilania urządzeń do oświetlania, 4 gotowania lub ogrzewania, jednak bez. zastosowania sprężonego powietrza lub tlenu oraz jeżeli ładunek karbidu nie przekracza 0,5 kg,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) o. ładunku karbidu do 10 kg i nadciśnieniu nie wyższym od 0,01 MPa (1000 mm słupa wody), je- ' żeli będą użytkowane jako wytwornice przenośne bądź, jeżeji będą przyłączone do rurociągu stałego , zasilającego nie więcej niż dwa punkty odbioru acetylenu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) rurociągi parowe i ich armatura, łączące kocioł z turbiną w blokach energetycznych, oraz rozdzielacze i kolektory tych rurociągów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) suwnice z napędem nieręcznym, zwanym dalej „napę= dem mechanicznym”, zaliczone do 5 i 6 grupy nażęże: nią pracy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) żurawie z napędem mechanicznym o udźwigu większym od 0,25 t lub momencie obciążenia większym od 10 kNm (1000 kGm), wytwarzane jednostkowo, oraz te żurawie wytwarzane seryjnie, których udźwig jest równy 4 t lub większy od 4 t albo moment obciążenia jest większy od 300 kNm (30 Tm),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) układnice do układania torów, których udźwig jest równy 5 t lub większy od 5 t,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) dźwigi osobowe i osobowo-towarowe,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14) wyciągi towarowe o udźwigu równym 5 t lub większym od 5 t, -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15) dźwignice linotorowe o udźwigu -równym 0,5 t lub większym od 0,5 t,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16) przenośniki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17) urządzenia transportowe linowe i linowo-terenowe, służące do publicznego przewozu osób w celach tury: styczno-sportowych, ~",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18) dzwignice nie wymienione w pkt 10—16, eksploatowane w pomieszczeniach i przestrzeniach zewnętrznych zagrożonych wybuchem albo służące do prze- - mieszczania materiałów niebezpiecznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "19) urządzenia techniczne wymienione w § 6 ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 9.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Dozorem technicznym ograniczonym do wykonywania czynności dozorowych określonych w § 7 pkt 1—5, 7 i 8 oraz do nadzwyczajnych badań urządzeń Technicznych są objęte następujące urządzenia techniczne:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "z) kotły parowe: -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Poz.. 34",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) o nadciśnieniu nie wyższym od 0,07 MPa (0,7 kG/ /cm*),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) o nadciśnieniu nie wyższym od 05 MPa (5 kG /cm*) i iloczynie nadciśnienia oraz pojemności nie wyższym od 0,06 MPa X m* (600 kG/cm? X 1), jeżeli są one wyposażone w odpowiednią automatykę i ogrzewane grzałkami elektrycznymi lub paliwem spalanym-strumieniowo, _2) kotły cieczowe, w tym wodne:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) o temperaturze cieczy nie przekraczającej temperatury wrzenia, przy nadciśnieniu 0,07 MPa (0,7 kG/cm*), a przewyższającej temperaturę wrzenia przy ciśnieniu atmosferycznym,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) o temperaturze cieczy przekraczającej temperaturę wrzenia przy nadciśnieniu 0,07 MPa (0,7 kG/ /cem?) i iloczynie nadciśnienia oraz pojemności nie wyższym od 0,03 MPa X m* (300 kG/em* x1),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) następujące - \"zbiorniki stałe o nadciśnieniu wyższym od 0,07 MPa (0,7 kG;/cm*?):",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) zbiorniki o nadciśnieniu nie wyższym od 1,6 MPa (16 kG/cm*) i pojemności nie większej od 5 m (5000 1), wchodzące w skład instalacji wodociągo= \"wych żabezpieczonych przed dostępem osób postronnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) zbiorniki sprężonego powietrza o nadciśnieniu nie wyższym od 1,6 MPa (16 kG/cm?) i iloczynie nadciśnienia oraz pojemności nie wyższym od 1 MPa X, X m? (10000 kG/cm? X 1),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) powietrzne zbiorniki hamulcowe zainstalowane na pojazdach mechanicznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) zbiorniki w instalacjach chłodniczych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) zbiorniki” powietrza użytkowane w instalacjach wyłącznie w związku z potrzebami ruchowymi 'róż= dzielni i stacji elektroenergetycznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "_ 4) nie objęte dozorem stałym wymienniki ciepła o przestrzeni grzanej będącej kotłem cieczowym.i przestrzeni: grzejnej będącej zbiornikiem stałym, jeżeli kocioł lub zbiornik stały podlega dozorowi technicznemu ograniczonemu do czynności dozorowych określonych w ust. 1, a także wymienniki ciepła o temperaturze cieczy grzanej nie wyższej od ' temperatury wrzenia przy nadciśnieniu- 0,07 MPa (0,7 kG/cm*) i iloczynie ' nadciśnienia oraz pojemności wyższym od 0,03 MPa X, X m* (300: kG/cm* X 1), jeżeli zbiornik stały jest wężownicą,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_7/pkt_5",
+     "text": "zbiorniki przenośne o nadciśnieniu wyższym od 0,07 MPa (0,7 kG/cm*) i pojemności większej od 0,00035 m* (350 cm*), ale nie większej od 0,002 m* (2 1), oraz następujące zbiorniki przenośne nie objęte dozorem stałym:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_5/lit_a",
+       "text": "zbiorniki stanowiące część składową gaśnic pożarniczych o nadciśnieniu próbnym nie przekraczającym 3 MPa (30 kG/cm?) i pojemności większej od 0,00035 m* (350 cm‘), ale nie większej od 0,012 m (12 1),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_5/lit_b",
+       "text": "zbiorniki przeznaczone do magazynowania paliwa dla pojazdu, z którym są trwale połączone,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_7/pkt_6",
+     "text": "wytwornice acetylenowe o ładunku karbidu do 10 kg i nadciśnieniu nie wyższym od 0,01 MPa (1000 mm słupa wody), jeżeli będą użytkowane jako wytwornice przenośne bądź jeżeli będą przyłączone do rurociągu stałego zasilającego nie więcej niż a punkty odbioru acetylenu,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "+ ae"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_7/pkt_7",
+     "text": "wciągarki i wciągniki:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_7/lit_a",
+       "text": "z napędem ręcznym: o udźwigu równym 1 t lub większym od 1 t,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_7/lit_b",
+       "text": "z napędem mechanicznym o udźwigu równym 0,25 t lub większym od 0,25 t,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_7/pkt_8",
+     "text": "suwnice:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_8/lit_a",
+       "text": "z napędem ręcznym o udźwigu POWA 1 t lub większym od 1 t, -' b) z napędem mechanicznym o udźwigu równym 1t lub większym od 0,25 t,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_7/pkt_9",
+     "text": "żurawie: ‘ 5",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_7/pkt_9/lit_a",
+       "text": "z napędem ręcznym o udźwigu równym 1 t lub) większym od 1 t lub momencie obciążenia przekraczającym 50 kNm (5000 kGm),.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_7/pkt_9/lit_b",
+       "text": "z napędem mechanicznym o. udźwigu równym 0,125 t lub większym od 0,125 t lub momencie obciążenia przekraczającym 5 kNm (500 kGm), z wyjątkiem żurawi specjalnych drogowego pogo- ‘ łowią technicznego, przeznaczonych do ściągania pojazdów,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_7/pkt_9/lit_c",
+       "text": "wchodzące w skład maszyn uniwersalnych .(np. koparki, maszyny rolnicze) albo stanowiące wyposażenie samochodów, przyczep lub naczep, a służące do ich załadowania lub wyładowania,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_7/pkt_10",
+     "text": "układnice magazynowe o. udźwigu równym 0,125 t lub większym od 0,125 t, jeżeli wraz z wodzakiem przemieszczającym ładunek porusza się kabina lub platforma sterownicza,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_7/pkt_11",
+     "text": "dźwigi towarowe o udźwigu równym 0,5 t lub większym od 0,5 t, .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_7/pkt_12",
+     "text": "podesty ruchome o wysokości podnoszenia powyżej 3 m. -",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Dozorem technicznym ograniczonym dó wykony- — wania czynności dozorowych określonych w § 7 pkt 2,3 i 9 oraz nadzwyczajnych badań urządzeń technicznych są objęte następujące urządzenia techniczne:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "kotły cieczowe, w tym wodne — o ciśnieniu wyższym od atmosferycznego i terńperaturze cieczy niższej od: temperatury wrzenia przy ciśnieniu atmosferycznym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "zbiorniki stałe o nadciśnieniu nie wyższym od 0,07 MPa (0,7 kG/cm?),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_2/pkt_3",
+       "text": "następujące zbiorniki stałe o ) nadciśnieniu wyższym od 0,07 MPa (0,7 kG/cm*) nie objęte dozorem stałym: - a) zbiorniki o iloczynie nadciśnienia i pojemności nie wyższym od 0,03 MPa X m* (300 kG/cm* X 1),",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_2/pkt_3/lit_b",
+         "text": "zbiorniki o nadciśnieniu nie wyższym od 3 MPa (30 kG/cm*), wypełnione całkowicie cieczą o temperaturze nie przekraczającej temperatury wrzenia przy nadciśnieniu 0,07 MPa (0,7. kG/cm?),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_2/pkt_3/lit_c",
+         "text": "rozdzielacze i kolektory w instalacjach rurociągowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_7/ust_2/pkt_3/lit_d",
+         "text": "schładzacze pary poza. kotłem, kondenssior tur= bin óraz odoliwiacze i odwadniacze,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_2/pkt_4",
+       "text": "wymienniki ciepła nie objęte dozorem stałym i ograniczonym do czynności dozorowych wymienionych w ust. 1, o przestrzeni grzanej będącej kotłem cieczowym i przestrzeni grzejnej będącej zbiornikiem stałym, jeżeli: kocioł lub sw stały podlega dozorowi ograniczonemu do czynności określonych w ust. 2,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_2/pkt_5",
+       "text": "wytwornice acetylenowe służące do zasilania urządzeń do oświetlania, gotowania lub ogrzewania, jed-",
+       "children": [
+        {
+         "type": "text",
+         "text": "Poz.. 34"
+        },
+        {
+         "type": "text",
+         "text": "nak bez zastosowania sprężonego powietrza lub tlenu oraz jeżeli ładunek karbidu nie pzesretza 0,5 kg,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_7/ust_2/pkt_6",
+       "text": "wciągarki i wciągniki:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_2/pkt_6/lit_a",
+         "text": "z napędem ' ręcznym o udźwigu mniejszym od it,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_2/pkt_6/lit_b",
+         "text": "z napędem mechanicznym o udźwigu mniejszym od 0,25 t,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_7/ust_2/pkt_7",
+       "text": "suwnice: .",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_2/pkt_7/lit_a",
+         "text": "z napędem ręcznym o udźwigu mniejszym od 1 t,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_2/pkt_7/lit_b",
+         "text": "z. napędem mechanicznym o udźwigu mniejszym od 0,25 t,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_7/ust_2/pkt_8",
+       "text": "żurawie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_7/ust_2/pkt_8/lit_a",
+         "text": "z napędem ręcznym .o udźwigu mniejszym od 1t albo momencie obciążenia równym 50 kNm lub. mniejszym od 50 kNm (5000 kGm),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_7/ust_2/pkt_8/lit_b",
+         "text": "z napędem mechanicznym o udźwigu mniejszym od 0,125 t albo momencie obciążenia równym 5 kNm lub mniejszym od 5 kNm (500 kGm),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_7/ust_2/pkt_8/lit_c",
+         "text": "specjalne drogowego pogotowia technicznego przeznaczone do ściągania pojazdów,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_7/ust_2/pkt_9",
+       "text": "układnice magazynowe o udźwigu mniejszym od 0,125 t, jeżeli wraz z wodzakiem przemieszczającym ładunek porusza się kabina lub platforma sterownicza, oraz inne układnice nie wymienione w § 9 ust. 1, niezależnie od udźwigu i sposobu sterowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_7/ust_2/pkt_10",
+       "text": "dźwigi towarowe o udźwigu mniejszym od 0,05 t,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_7/ust_2/pkt_11",
+       "text": "podesty ruchome o wysokości „podnoszenia równej 3 m lub niższej od 3 m.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Dozór techniczny nad urządzeniami technicz= nymi wymienionymi w § 9 ust. 1, produkowanymi seryjnie (w liczbie nie mniejszej od 50 sztuk rocznie), na pods stawie tej samej dokumentacji, według tej samej technologii, które opuszczają zakład wytwórczy w stanie przys gotowanym do eksploatacji (urządzenia typowe), nie ohej- \"muje czynności dozorowych określonych w § 7 pkt 1, 4 „1 6, a dopuszczenie ich do ruchu i obrotu jako urządzeń typowych następuje. na podstawie decyzji właściwego organu dozoru technicznego oraz pod warunkiem oznaczenia ich trwałym (stałym) znakiem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Dopuszczenie do ruchu i obrotu urządzeń tech= nicznych wymienionych w § 9 ust. 2 następuje pod warunkiem oznaczenia ich trwałym (stałym) znakiem. '",
+     "children": [
+      {
+       "type": "text",
+       "text": "__ 3. Przez oznaczenie trwałym (stałym) znakiem, o którym mowa w ust. 1 i 2, wytwórca stwierdza, że urządzenie techniczne oznaczone tym znakiem zostało wyprodukowane w sposób ściśle odpowiadający przepisom dozpru technicznego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Minister Energetyki i Energii Atomowej w porozumieniu z Ministrami Handlu Zagranicznego i Gospodarki Morskiej oraz Komunikacji ustali wzór trwałego (stałego) znaku oraz szczegółowe zasady oznaczania urządzeń „technicznych tym znakiem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_10/ust_5",
+     "text": "Warunek oznaczenia urządzeń technicznych określonych w ust. 1 i 2 trwałym (stałym) znakiem uważa się za spełniony, jeżeli urządzenia zostały oznaczone znakiem bezpieczeństwa stosownie do przepisów wydanych na podstawie art. 14 ustawy z dnia 8 lutego 1979 r. o ja-: kości wyrobów, usług, robót i cbiektów budowlanych (Dz. U. Nr 2, poz. 7).",
+     "children": [
+      {
+       "type": "text",
+       "text": "-§ 11. W odniesieniu do urządzeń technicznych podlegających dozorowi technicznemu, nie wymienionych w"
+      },
+      {
+       "type": "text",
+       "text": "§ 8 i 9, stosuje się przepisy dozoru technicznego w zakresie niezbędnym do zapewnienia bezpieczeństwa."
+      },
+      {
+       "type": "text",
+       "text": "="
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Organy dozoru technicznego."
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Organami dozoru technicznego są:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "Urżąd Dozoru Technicznego, zwany dalej ,,Urzędem\", oraz podległe mu terenowe organy dozoru technicz- ' nego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "specjalistyczne organy dóżóńi technicznego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_12/pkt_3",
+     "text": "organy „wojskowego dozoru technicznego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Organ dczoru technicznego przy wykonywa-",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "niu czynności dozorowych może korzystać z wyników badań diagnostycznych, opinii i ekspertyz wyspecjalizowanych jednostek, w tym również jednostek projektujących lub wytwarzających urządzenia oraz specjalistów.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "W razie potrzeby organ dozoru technicznego może zażądać przeprowadzenia odpowiednich. badań określonych urządzeń lub elementów przez specjalistyczne planaukowo-badawcze. Koszty tych badań ponoszą cówki jednostki projektujące, wytwarzające lub użytkujące urządzenia, których dotyczą: badania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Dokumenty wydane za granicą przez właściwy w danym państwie organ dozoru technicznego, stwierdzające dokonanie odbioru lub \"dopuszczające urządzenie techniczne do ruchu i obrotu, mogą być uznane w Polsce za ważne na równi z odpowiednimi polskimi. dokumentami, po stwierdzeniu przez polski organ dozoru technicznego, właściwy do decydowania w sprawach dopuszczania do ruchu i obrotu niektórych urządzeń technicznych, że warunki teghniczne, na podstawie których urządzenie zostało odebrane lub dopuszczone do ruchu i obro- * tu za granicą, zapewniają bezpieczeństwo nie mniejsze niż ‘polskie przepisy dozoru technicznego. -",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Z wnioskami w sprawie uznania dokumentu oraz dopuszczenia do ruchu i do obrotu urżądzeń technicznych w wypadkach, o których mowa w ust. 1, występują jednostki organizacyjne, na których wniosek urządzenia ma- _ ją być zakupione za granicą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "„l. Czynności dozorowe wykonują upoważnieni pracownicy organów dozoru technicznego, zwani dalej „pracownikami dozoru technicznego”, na podstawie poleceń kierowników organów dozoru technicznego oraz legitymacji służbowych. Wzór polecenia ustala dyrektor Urzędu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "2. Pracownik dozoru technicznego jest uprawniony do wstępu do pomieszczeń i obiektów, w których znajdują się urządzenia techniczne podlegające dozorowi technicznemu, oraz do poruszania się w tych pomieszczeniach i obiektach, chyba że przepisy szczególne stanowią inaczej. y",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Pracownik dozoru technicznego nie podlega rewizji osobistej przewidzianej w wewnętrznych regulaminach jednostki, w której wykonuje czynnąści dozorowe.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 16. Użytkownik lub wytwórca, u którego znajdują się urządzenia techniczne podlegające dozorowi technicznemu, jest obowiązany:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) zapewnić środki i warunki niezbędne do sprawnego \"wykonania czynności dozorowych przez pakowkika dozoru technicznego, :",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) udzielić pracownikowi dozoru technicznego FABERYCH informacji.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "\\ * § 17. Organy dozoru technicznego przy wydawaniu. decyzji w sprawach dozoru technicznego są niezależne i kierują się obowiązującymi przepisami dozoru technicznego. § 18.. Urząd jest organem kierującym wykonywaniem + dożoru technicznego nad urządzeniami technicznymi podlegającymi dozorowi technicznemu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 19.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Do zakresu działania Urzędu należy ogólne kierownictwo, nadzór i kontrola nad wykonywaniem dozoru technicznego, a w szczególności:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) wykonywanie kgntroli nad przestrzeganiem przepisów „dozoru technicznego i zasad bezpieczeństwa techniki,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) opracowywanie projektów przepisów dozoru technicznego oraz interpretacji tych przepisów,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) ustalanie technicznych warunków dotyczących poszczególnych rodzajów urządzeń technicznych podle- = gających dozorowi technicznemu, .",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) prowadzenie działalności normalizacyjnej, w tym’ opracowywanie norm i innych dokumentów normali- . zacyjnych, w zakresie bezpieczeństwa urządzeń technicznych podlegających dozorowi technicznemu,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5) udzielanie zezwoleń na odstępstwa od wymagań przewidzianych w przepisach dozoru technicznego, jeżeli przepisy te przewidują taką możliwość,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "6) stałe i dorażne kontrolowanie działalności terenowych organów dozoru technicznego,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "7) organizowanie i prowadzenie: działalności mającej na celu podnoszenie kwalifikacji osób zatrudnionych w organach ' dozoru technicznego oraz osób zatridnio- « nych w innych jednostkach w zakresie bezpieczeństwa techniki,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "8) inicjowanie badań naukowo-technicznych w zakręgie bezpieczeństwa techniki, = :",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "9) występowanie z odpowiednimi wnioskami w .sprawach przestrzegania przepisów dozoru technicznego,.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "10) prowadzenie prac mających na celu ustalanie metod \"badań diagnostycznych i ekspertyzowych oraz wdrażanie ustalonych metod, inicjowanie, organizowanie, prowadzenie i nadzoro- 1) wanie działalności w dziedzinie pomiarów technicznych, diagnostyki i ekspertyz w zakresie: niezbędnym do prawidłowej eksploatacji urządzeń technicznych, weryfikowanie form i metod nadzorowania, prowadzo- 12) ne na podstawie oceny stopnia zagrożenia oraz analiz awaryjności poszczególnych rodzajów i grup urządzeń technicznych, ; rozpatrywanie odwołań od decyzji wydawanych przez 13) terenowe organy dozoru technicznego, © popularyzowanie zagadnień związanych z bezpieczeń- 14) stwem techniki oraz organizowanie doradztwa w tym zakresie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Urząd wykonując swoje zadania współdziała z właściwymi organami administracji państwowej, placówkami naukowo-badawczymi, stowarzyszeniami naukowo- -technicznymi, inspekcją pracy, związkami zawodowymi — oraz innymi organami i organizacjami.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": ".§ 20.°1. Urzędem kieruje dyrektor.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Dyrektora Urzędu i jego zastępców powołuje i odwołuje Minister Energetyki i",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Energii Atomowej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 21.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Terenowymi orgańami dozoru. technicznego -są inspektoraty dozoru technicznego.",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "2. Inspektoraty dozoru technicznego tworzy i znosi Minister Energetyki i Energii Atomowej, określając ich terytorialny zakres działania oraz siedzibę.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 22. Do zakresu działania inspektoratów dozoru technicznego należy:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) wykonywanie kontroli nad przestrzeganiem przepisów dozoru technicznego i zasad bezpieczeństwa techniki na obszarze działania inspektoratu dozoru technicznego,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) prowadzenie rejestracji i wykonywanie odbioru techniczaegosurządzeń technicznych przed ich dopuszczeniem do ruchu,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) wykonywanie okresowych i nadzwyczajnych badań urządzeń. technicznych podlegających dozorowi tech- „nicznemu,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) sprawdzanie i ocena projektów przedsięwzięć inwestycyjnych, w tym także modernizacyjnych, w zakresie dozoru technicznego z punktu widzenia bezpieczeństwa techniki,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5) sprawdzanie i ocena dokumentacji technicznej proto-' typów urządzeń technicznych podlegających dozorowi technicznemu z punktu widzenia jej zgodności z normami, przepisami dozoru technicznego oraz Zasadami bezpieczeństwa techniki,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "6) wydawanie wytwórcom materiałów i urządzeń technicznych zezwoleń na. spawanie urządzeń technicznych podlegających dozorowi technicznemu oraz wykonywanie u tych wytwórców kontroli przestrzegania „ warunków -zezwolenia,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "7) dopuszczanie do ruchu oraz wstrzymywanie ruchu urządzeń technicznych podlegających dozorowi technicznemu,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "8) dopuszczanie do ruchu i obrotu niektórych urządzeń technicznych jako typowych,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "9) prowadzenie działalności mającej na celu podnoszenie kwalifikacji pracowników inspektorat6w oraz innych pracowników w zakresie szczególnych badań i metod badawczych,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "10) sprawdzanie kwalifikacji osób obsługujących i konserwujących urządzenia techniczne w wypadkach przewidzianych w przepisach dozoru technicznego,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "11) udzielanie zezwoleń na odstępstwa od warunków technicznych w indywidualnych wypadkach, jeżeli przepisy dozoru technicznego przewidują taką możli- , wose,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "12) kontrola i nadzór nad przestrzeganiem przez projektantów, wytwórców i użytkowników urządzeń norm i przepisów dozoru technicznego oraz występowanie z odpowiednimi wnioskami w razie ich naruszenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 23. Inspektoratem dozoru technicznego kieruje kierownik powoływany i odwoływany przez dyrektora Urzędu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 24.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Organizację wewnętrzną Urzędu, zasady organizacji wewnętrznej terenowych organów dozoru technicznego oraz zaplecza badań diagnostycznych i ękspertyzowych określa statut Urzędu, nadany przez Ministra \"Energetyki i Energii Atomowej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Szczegółową organizację wewnętrzną inspektoratów dozoru technicznego oraz zaplecza badań diagnostycznych i ekspertyzowych.ustala dyrektor Urzędu na wniosek kierownika właściwej jednostki, 8 25. 1. Specjalistycznymi organami dozoru technicz- \"nego Są:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) organy dozoru technicznego żeglugi morskiej — podlegające Ministrowi Handlu Zagranicznego i Gospodarki Morskiej,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) organy kolejowego dozoru technicznego — podlegające Ministrowi Komunikacji.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Organami dozoru technicznego żeglugi morskiej są:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) Główny Inspektorat Dozoru Technicznego w resorcie handlu zagranicznego i gospodarki morskiej,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) urzędy morskię,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) Polski Rejestr Statków,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "_ 3. Organami kolejowego dozoru technicznego są: -1) Główny Inspektorat Kolejowego Dozoru Technicznego (w przedsiębiorstwie „Polskie Koleje Państwowe\") i podległe mu",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) inspektoraty, kolejowego dozoru technicznego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. Kierowników specjalistycznych organów dozoru technicznego powołują i odwołują ministrowie, którym te organy podlegają,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5. Szczegółową organizację wewnętrzną specjalistycznych organów dozoru schmtnega określają właściwi ministrowie. m",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 26. Spacjalistycznemu dozorowi technicznemu organów dozoru technicznego żegługi morskiej podlegają urządzenia techniczne na statkach morskich, dźwignice służące do przeładunków towarów w portach morskich oraz urządzenia techniczne w specjalistycznych portowych bazach przeładunkowych, których miejscem pracy jest teren „ administrowany przez urzędy morskie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 27. Specjalistycznemu dozorowi technicznemu organów kolejowego dozoru technicznego podlegają urządzenia techniczne:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) zainstalowane na obszarze i taborze kolejowym,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) eksploatowane przez przedsiębiorstwo „Polskie Koleje Państwowe\" oraz przez przedsiębiorstwa stanowiące zapłecze kolei i przedsiębiorstwa żeglugi śródlądo= wej, podległe Ministrowi Komunikacji,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) urządzenia transportowe linowe i linowo-terenowe służące do publicznego przewozu osób w celach tury: styczno-sportowych,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 28.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Do zakresu działania Głównego Inspektoratu Dezoru Technicznego w resorcie handlu zagranicznego 1 gospodarki morskiej oraz Głównego Inspektoratu Kolejowego Dozoru Technicznego (§ 25 BĘ 2 pkt 1 i ust. 3 pkt 1) należy:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) wykonywanie kontroli nad przestrzeganiem przepisów dozoru technicznego i zasad bezpieczeństwa techniki,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) opracowywanie projektów 'przepisów dotyczących urządzeń technicznych, podlegających specjalistycznemu dozorowi technicznemu, o których: mowa w art. 13 ust. 2 i 3 ustawy, oraz interpretacji tych przepisów,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) ustalanie technicznych warunków dotyczących poszczególnych rodzajów urządzeń -technicznych podlegających specjalistycznemu dozorowi technicznemu,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) udzielanie zezwoleń na odstępstwa od wymagań przewidzianych w przepisach i technicznych warunkach, o których mowa w pkt 2 i 3, jeżeli te przepisy i warunki przewidują możliwość udzielania takich zezwoleń, . :",
+     "quoted": true
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

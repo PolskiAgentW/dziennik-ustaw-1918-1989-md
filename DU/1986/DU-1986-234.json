@@ -1,0 +1,470 @@
+{
+ "eli": "DU/1986/234",
+ "title": "Rozporządzenie Rady Ministrów z dnia 23 grudnia 1986 r. w sprawie urządzeń zaopatrzenia w wodę i urządzeń kanalizacyjnych oraz opłat za wodę i wprowadzanie ścieków.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1986/234/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 grudnia 1986 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie urządzeń zaopatrzenia w wodę i urządzeń kanalizacyjnych oraz opłat za wodę i wprowadzanie ścieków."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 107 ust. 3 pkt 1--3 ustawy z dnia 24 października 1974 r. — Prawo wodne (Dz. U. Nr 38.. poz. 230, z 1980 r. Nr 3, poz. 6 i z 1383 r. Nr 44, poz. 201) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Obowiązek właściciela urządzeń zaopatrzenia w wodę i urządzeń kanalizacyjnych miast oraz urządzeń zbiorowego zaopatrzenia w wodę i zbiorczych urządzeń kanalizacyjnych wsi, w zakresie utrzymania i eksploatacji tych urządzeń, dotyczy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "urządzenia wodociągowego do zaworu głównego za wodomierzem lub miejscem przeznaczonym na jego umieszczenie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "studni publicznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "urządzenia kanalizacyjnego — do pierwszej studzienki na przykanaliku lub do miejsca przeznaczonego na jej wybudowanie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Utrzymywanie i eksploatacja urządzeń, o których mowa w § 1, polega na:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "dostarczaniu wody i odprowadzaniu ścieków,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "zainstalowaniu wodomierza i jego utrzymaniu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "likwidacji zbędnego podłączenia wodociągowego i kanalizacyjnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "określaniu godzin poboru wody w przypadku jej niedoboru,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "wstrzymaniu lub ograniczeniu dopływu wody po uprzednim podaniu czasu ich trwania w razie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_5/lit_a",
+       "text": "braku wody na ujęciu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_5/lit_b",
+       "text": "zanieczyszczenia wody na ujęciu w sposób niebezpieczny dla zdrowia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_5/lit_c",
+       "text": "potrzeby zwiększenia dopływu wody do hydrantów pożarowych.",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_5/lit_d",
+       "text": "konieczności przeprowadzenia niezbędnych napraw urządzeń wodociągowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_5/lit_e",
+       "text": "uszkodzenia instalacji odbiorczej grożącego niebezpieczeństwem.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Studnie publiczne wykonywane na terenie miast powinny być lokalizowane na obszarach zabudowy mieszkaniowej, z tym że co najmniej jedna studnia powinna przypadać na 3.000 stałych mieszkańców, a jej wydajność nie może być mniejsza niż 7,5 l/dobę na jednego mieszkańca.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Właściciel nieruchomości, do której doprowadzono na koszt Państwa urządzenie zbiorowego zaopatrzenia w wodę wsi i założono punkt poboru wody lub",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "do której doprowadzono zbiorcze urządzenie kanalizacyjne wsi, jest zobowiązany do zwrotu części kosztów tych urządzeń."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Należność za urządzenia zbiorowego zaopatrzenia w wodę wsi i zbiorcze urządzenia kanalizacyjne wsi z tytułu zwrotu części kosztów wykonania tych urządzeń, zwaną dalej „należnością', ustala się jako równowartość pieniężną żyta, według ilości podanej w tabeli:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wyszczególnienie"
+      },
+      {
+       "type": "text",
+       "text": "Budowa: urządzeń zbiorowego zaopatrzenia w wodę zbiorczych urządzeń kanalizacyjnych Odbudowa urządzeń, które osiągnęły normatywny czas technicznej eksploatacji: urządzeń zbiorowego zaopatrzenia w wodę zbiorczych urządzeń kanalizacyjnych"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Należność oblicza się, stosując urzędową cenę żyta kontraktowanego, obowiązującą w uspołecznionych jednostkach skupu w dniu i stycznia roku, w którym oddano urządzenia do eksploatacji lub podłączono nieruchomość do urządzeń oddanych do eksploatacji, z wyłączeniem premii okresowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Właścicielowi nieruchomości, którego wyłącznym źródłem utrzymania jest praca w gospodarstwie rolnym i który nie płaci podatku rolnego od dochodów z działów specjalnych produkcji rolnej, należność obniża się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "jeżeli powierzchnia gospodarstwa nie przekracza 2 ha przeliczeniowych ustalonych dla celów podatku rolnego — o 30%,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "jeżeli powierzchnia gospodarstwa nie przekracza 5 ha przeliczeniowych ustalonych dla celów podatku rolnego — o 15%.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Właścicielowi nieruchomości, którego wyłącznym żródłem utrzymania jest emerytura lub renta albo świąd czenia alimentacyjne, należność obniża się o 90/0.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Należność zakładu będącego jednostką gospodarki uspołecznionej, z zastrzeżeniem przepisu ust. 4, stanowi ustalona proporcjonalnie do ilości pobieranej wody 1 odprowadzanych ścieków część kosztów budowy i odbudowy urządzeń zbiorowego zaopatrzenia w wodę wsi i zbiorczych urządzeń kanalizacyjnych wsi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Należność zakładu będącego uspołecznioną jednostką organizacyjną gospodarki rolnej stanowi 20% należności, o której mowa w ust. 3.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_6/ust_5",
+     "text": "Właścicielowi. który na własny koszt podłączył nieruchomość do urządzeń zbiorowego zaopatrzenia w wodę i zbiorczych urządzeń kanalizacyjnych wsi po ich oddaniu do eksploatacji, należność obniża się o 50%, z tym że właścicielowi temu nie przysługuje ulga, © której mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_6/ust_6",
+     "text": "W przypadku współwłasności nieruchomości, ulgi, o których mowa w ust. i 2, mogą być stosowane, jeśli warunki w nich określone spełniają wszyscy współwłaściciele.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Należność zmniejsza się o wartość odszkodowania przysługującego właścicielowi nieruchomości za szkody poniesione w związku z wykonaniem urządzeń zbiorowego zaopatrzenia w wodę i zbiorczych urządzeń kanalizacyjnych wsi. stanowiących własność Państwa. § 8. Wymiaru należności dokonuje terenowy organ administracji państwowej o właściwości szczególnej do spraw rolnictwa stopnia podstawowego w terminie 2 miesięcy od dnia oddania urządzeń do eksploatacji, a w przypadku określonym w § 6 ust. 5 — od dnia podłączenia nieruchomości do urządzeń oddanych do eksploatacji. § 9. 1. Należność podlega spłacie w okresie 10 lat w równych częściach rocznych. Część roczna jest spłacana w ratach i terminach płatności niektórych podatków należności pieniężnych pobieranych w formie łącznego zobowiązania pieniężnego.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Jeżeli urządzenie zostało oddane do eksploatacji w pierwszym półroczu, połowa pierwszej rocznej części należności przypada do zapłaty w drugim półroczu, jeżeli zaś oddanie do eksploatacji nastąpiło w drugim półroczu, płatność pierwszej rocznej części należności przypada do zapłaty w następnym roku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Terenowy organ administracji państwowej o właściwości szczególnej do spraw rolnictwa stopnia podstawowego może zmniejszyć należność do 50°%/o lub przedłużyć okres jej spłaty do 15 lat, jeżeli właściciel nieruchomości ma trudności płatnicze spowodowane inwestycjami rozwojowymi, klęskami losowymi i chorobami.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Przepisy ust. 1—3 nie dotyczą jednostek, o których mowa w § 6 ust. 3 i 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "W razie jednorazowej przedterminowej zapłaty co najmniej połowy należności, pozostałą kwotę należności obniża się o 10°, a w razie zapłaty całej należności w roku, w którym przypada termin płatności jej pierwszej rocznej części, wysokość należności obniża się o 20°/o.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Przepis ust. 1 stosuje się odpowiednio w razie zaliczenia odszkodowania na poczet należności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Opłatę za wodę pobieraną z urządzeń zaopatrzenia w wodę miast i za ścieki wprowadzane do urządzeń kanalizacyjnych miast ustala terenowy organ administracji państwowej będący organem założycielskim przedsiębiorstwa eksploatującego te urządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Podstawę do ustalania opłaty, o której mowa w ust. 1, stanowią:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "dla gospodarstw domowych — planowane roczne koszty utrzymania i eksploatacji urządzeń zaopatrzenia w wodę miast i urządzeń kanalizacyjnych miast ma obszarze województwa; koszty te ustala terenowy organ administracji państwowej o właściwości szczególnej do spraw gospodarki komunalnej stopnia wojewódzkiego na podstawie informacji przedsiębiorstwa o kosztach utrzymania i eksploatacji tych urządzeń, pomniejszonych o kwotę odpisów amortyzacyjnych i powiększonych o narzut zysku w wysokości 10°/o,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "dla innych niż gospodarstwa domowe odbiorców — planowane roczne koszty utrzymania i eksploatacji urządzeń zaopatrzenia w wodę miast i urządzeń kanalizacyjnych miast, ponoszone przez przedsiębiorstwo (bez pomniejszania o kwotę odpisów amortyzacyjnych), powiększone o narzut zysku w wysokości 10°/o.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Wysokość opłaty ustala się, dzieląc podstawę przez planowaną ilość pobieranej wody i wprowadzanych ścieków w danym okresie.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Terenowy organ administracji państwowej będący organem założycielskim przedsiębiorstwa może ustalić opiatę niższą, niż wynikałaby z zastosowania zasady określonej w ust. 2 pkt 1 i ust. 3, jeśli nie spowoduj2 to dotowania działalności przedsiębiorstwa w tym zakresie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_11/ust_5",
+     "text": "Opłatę obliczoną od podstawy, o której mowa w ust. 2 pkt 2, zwiększa się o opłatę dodatkową wynoszącą 10 zł od 1 m* wody i 10 zł od 1 m* ścieków. Opłaty tej nie pobiera się od jednostek gospodarki komunalnej, indywidualnych i uspołecznionych gospodarstw rolnych oraz od jednostek zaliczonych przez Główny Urząd Statystyczny do sfery poza produkcją materialną i od zakładowej gospodarki mieszkaniowej jednostek sfery produkcji materialnej. Opłata dodatkowa jest przeznaczona na iinansowanie budowy, rozbudowy i moder nizacji urządzeń wodociągowych i kanalizacyjnych w miastach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_11/ust_6",
+     "text": "Opłatę za wędę pobieraną z urządzeń zbiorowego zaopatrzenia w wodę wsi i za wprowadzanie ścieków dc zbiorczych urządzeń kanalizacyjnych wsi ustalają terenowe organy administracji państwowej o właściwości ogólnej stopnia wojewódzkiego w wysokości średnich kosztów dostarczania 1 m* wody i odprowadzania 1 m? ścieków za pomocą tych urządzeń na obszarze województwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "i§ 12. 1. Ilość pobieranej wody ustala właściciel urządzeń, o którym mowa w § 1, na podstawie wskazań wodomierzy, a w razie ich braku — według wytycznych, ustalonych przez Ministra Budownictwa, Gospodarki Przestrzennej i Komunalnej w porozumieniu z Ministrem Rolnictwa. Leśnictwa i Gospodarki Żywnościowej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "par_11/ust_12",
+     "text": "Opłatę za wodę pobieraną z urządzeń zaopatrzenia w wodę miast i za ścieki wprowadzane do urządzeń kanalizacyjnych miast pobiera zakład eksploatujący te urządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Opłatę za wodę pobieraną z urządzeń zbiorowego zaopatrzenia w wodę wsi i za ścieki wprowadzane du urządzeń kanalizacyjnych wsi pobiera:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_3/pkt_1",
+       "text": "terenowy organ administracji państwowej o właściwości szczególnej do spraw rolnictwa stopnia podstawowego — od osób fizycznych i osób prawnych nie będących jednostkami gospodarki uspołecznionej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_3/pkt_2",
+       "text": "zakład eksploatujący urządzenia -— od pozostałych osób prawnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_11/ust_4",
+     "text": "Ilość ścieków wprowadzanych do stanowiących własność Państwa urządzeń kanalizacyjnych miast i wsi ustala się na podstawie i!ości pobranej wody z własnych ujęć i z urządzeń zaopatrzenia w wodę stanowiących własność Państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_11/ust_5",
+     "text": "Tryb określania ilości pobieranej wody i wprowadzanych ścieków przez jednostki Sił Zbrojnych ustali Minister Budownictwa, Gospodarki Przestrzennej i Komunalnej w porozumieniu z Ministrami Obrony Narodowej, Spraw Wewnętrznych oraz Rolnictwa, Leśnictwa i Gospodarki Żywnościowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Decyzję o przyznaniu odszkodowania za szkody wyrządzone w związku z wykonaniem, utrzymaniem i eksploatacją urządzeń zaopatrzenia w wodę i urządzeń kanalizacyjnych stanowiących własność Państwa wydaje terenowy organ administracji państwowej o właściwości szczególnej do spraw gospodarki komunalnej lub rolnictwa stopnia podstawowego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 14, 1. Należność za urządzenia zbiorowego zaopatrzenia w wodę wsi i zbiorcze urządzenia kanalizacyjne wsi oddane do użytku w 1986 r. ustala się na zasadach określonych w dotychczasowych przepisach, z tym że przychód szacunkowy z gospodarstwa rolnego ustala się stosując zasady ustalania tego przychodu obowiązujące w dniu 31 grudnia 1984 r."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Wymiaru należności, o których mowa w ust. 1, terenowy organ administracji państwowej o właściwości szczególnej do spraw rolnictwa stopnia podstawowego dokonuje w terminie do dnia 30 czerwca 1987 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Utrzymuje się bez zmian opłatę za wodę pobraną z urządzeń zaopatrzenia w wodę miąs. na potrzeby gospodarstw , domowych i za ścieki wprowadzane do urządzeń kanalizacyjnych miast przez te gospodarstwa w wypadkach, w których wysokość tych opłat, obliczona w sposób określony w § 11 ust. 2 pkt I i ust. 3, okaże się niższa aniżeli obowiązująca w dniu wejścia w życie niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Traci moc rozporządzenie Rady Ministrów z dnia 4 lutego 1977 r. w sprawie urządzeń zaopatrzenia w wodę i urządzeń kanalizacyjnych oraz opłat za wodę i wprowadzanie ścieków (Dz. U. Nr 7, poz. 29 i z 1982 r. Nr 43, poz. 279 oraz z 1985 r. Nr 2, poz. 8).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1987 r., z wyjątkiem § 14, który wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: Z. Messner"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

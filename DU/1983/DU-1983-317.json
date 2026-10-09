@@ -1,0 +1,3794 @@
+{
+ "eli": "DU/1983/317",
+ "title": "Rozporządzenie Ministra Komunikacji z dnia 8 grudnia 1983 r. w sprawie warunków technicznych i badań pojazdów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/317/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA KOMUNIKACJI wee z dnia 8 grudnia 1983 r. w sprawie warunków techriicznych i badań w ojazaów.. i Na podstawie art. 57 ust. 1 pkt 1 i art. 66 pkt 1 ustawy z dnia 1 łutego 1983 r. — Prawo o ruchu drogowym (Dz. U. Nr 6, .poz. 35) żarządza się, co następuje:"
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Wysokość pojazdu nie może przekraczać 4 m. Dopuszczalna masa całkowita pojazdów nie “§ 3. 1. “może przekraczać:",
+   "children": [
+    {
+     "type": "text",
+     "text": "~ Rozdział 1"
+    },
+    {
+     "type": "text",
+     "text": "Przepisy ogólne."
+    },
+    {
+     "type": "text",
+     "text": "Zakres obowiązywania."
+    },
+    {
+     "type": "text",
+     "text": "Pojazdy dopuszczóne w kraju do ruchu naj - §1 1. drogach powinny odpowiadać warunkom technicznym ' ekreślonym w niniejszym rozporządzeniu."
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przepis ust. 1 nie dotyczy;",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "pojazdów specjalnych Sił Zbrojnych oraz organów '- i jednostek organizacyjnych podległych Ministrowi Spraw Wewnętrznych, z wyjątkiem przedsiębiorstw,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "pojazdów specjalnych straży ip ch i Służby Wię- ~ ziennej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "tramwajów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "\"3. Pojazdy zarejęstrowane za granicą, znajdujące sią , czasowo na terytorium Polskiej Rzeczypospolitej Ludowej. _ powinny odpowiadać warunkom technicznym określonym . w Konwencji o ruchu drogowym."
+      },
+      {
+       "type": "text",
+       "text": "\"Wymiary i masy pojazdów."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Długość pojazdów nie może przekraczać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "pojedynczego pojazdu .. — 12 m,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "pojazdu członowego — 16 m,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "zespołu złożonego z pojazdu dljnikowógo i przyczepy albo autobusu przegubowego — 18 m,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "zespołu złożonego z trzech pojazdów, w którym pojazdem” ciągnącym jest pojazd wolnobieżny lub ciągnik rolniczy — 22m, '5) zespołu złożonego z motocykla lub roweru i przyczepy — 4m.",
+       "children": [
+        {
+         "type": "text",
+         "text": "2.- Szerokość pojazdu, z zastrzeżeniem § 40 ust. 3 pkt 1, § 48 ust. 3 i § 58 ust. 1 pkt 1, nie może przekraczać 2,5 m; szerokość nie obejmuje lusterek na przegu- 'bowych wysięgnikach, świateł umieszczonych na bokach pojazdu oraz elementów elastycznych, wykonanych z gu- A lub > tworzyw kepięznych: Eo i"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "pojazdu pojedynczego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_1/lit_a",
+         "text": "dwuosiowego 16 t,' _b) o liczbie osi większej niż dwię 24- t,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "pojazdu członowego lub zespołu złożonego z pojazdu silnikowego i przyczepy (przyczep):",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_2/lit_a",
+         "text": "o liczbie osi nie większej niż cztery — 32 t _b) o liczbie osi większej niż cierY . — 42 t, '3) autobusu przegubowego ~ — 28. t.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "jw ust. 1 nie dotyczą walców drogowych. § 4. Nacisk osi pojedynczej, z zastrzeżeniem ust: 4, nie może ska m 80 kN (8 T).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Nacisk osi wielokrotnej nie może przekraczać sumy dopuszczalnych nacisków -osi składowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Nacisk osi składowej, z zastrzeżeniem ust. 4, nie może przekraczać przy odległości od sąsiedniej bliższej osi: składowej: 57,5 kN (5,75 T),",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "do 1,20 m 65,0 kN (6,50 T),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "powyżej 1,20 m do 1,30 m 72,5 kN (7,25 T).",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_3/pkt_3",
+       "text": "powyżej 1,30 m ~ Fi",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_2/ust_4",
+     "text": "Pojazdy, których nacisk osi przekracza wielkości określone w-ust.-1 lub 3, lecz nie przekracza 100 kN} (10 T). w odniesieniu do osi pojedynczej i wielkości. określonych w ust. 5, dopuszcza się do ruchu na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_4/pkt_1",
+       "text": "drogach oznaczonych znakami szlaków Atógjo dych z numerami dróg międzynarodowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_4/pkt_2",
+       "text": "drogach oznaczonych znakami szlaków drogowych z numerami jednocyfrowymi i dwucyfrowymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_4/pkt_3",
+       "text": "odcirikach dróg oznaczonych znakami szlaków drogowych z numerami trzycyfrowymi, z obrzeżem składającym ‘się z białych i czarnych kwadratów, wymienionych w załączniku nr 1 do rozporządzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_4/pkt_4",
+       "text": "innych odcinkach dróg, których wykazy prowadzą i udostępniają dyrekcje okręgowe dróg publicznych, 5). odcinkach dróg oznaczonych znakami zakazu wjazdu pojazdów o nacisku osi większym niż 100 kN (10 T), „6) drogach przelotowych leżących w ciągu dróg. wymię- „nionych w pkt 1-—5 oraz na trasach regularnej ko-",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Dzłennik Ustaw Nr 70 : ie _ — Poz."
+        },
+        {
+         "type": "text",
+         "text": "munikacji. autobusowej, w granicach administracyjnych miast."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_2/ust_5",
+     "text": "Nacisk osi składowej pojazdów, o których mowa w ust. 4, nie może przekraczać przy odległości od sąsiedniej bliższej osi składowej: 5: 57,5 kN ‘(5,75 T),",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_5/pkt_1",
+       "text": "do 1;100m * sa",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_5/pkt_2",
+       "text": "powyżej 1,10 m do 1,20 m — 65,0 kN (6,50 T), 72,5 KN (7,25 The’",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_5/pkt_3",
+       "text": "powyżej 1,20 m do 1,30 m — 80,0 kN (8,00 T).",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_5/pkt_4",
+       "text": "powyżej 1,30 m > =",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_2/ust_6",
+     "text": "Przednie zderzaki pojazdów, o których mowa w ust. 4, powinny być oznakowane Kwadratami na przemian . barwy białej i czarnej o wymiarach boków równych sze- „rokości zderzaka; nie dotyczy to autobusów, pojazdów . dokonujących przewozu drogowego w ruchu międzynarodowym, pojazdów Sił Zbrojnych oraz pojazdów organów i jednostek organizacyjnych podległych Ministrowi Spraw Wewnętrznych, z wyjątkiem przedsiębiorstw. Zabrania się oznaczania w taki sposób innych pojazdów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_2/ust_7",
+     "text": "Za oś pojedynczą uważa się oś oddaloną od osi sąsiedniej więcej niż o 2 m, za oś wielokrotną zaś — zespół złożony z dwóch lub więcej osi, zwanych „osiami składowymi”, w którym odległość między sąsiednimi osiami składowymi jest nie mniejsza niż 1 m i nie większa niż 2 m; dwie sąsiednie osie oddalone od siebie mniej niż o 1 m uważa się za oś pojedynczą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Dopuszczalną ładowność lub dopuszczalną masę całkowitą pojazdu oraz liczbę miejsc w pojeździe określa organ dokonujący rejestracji pojazdu na podstawie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "danych zawartych w świadectwie homologacji, a w odniesieniu do pojazdów, na które takie świadectwo” nie zostało wydane — danych wytwórni, z zachowaniem przepisów § 3 i 4,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "stwierdzenia stacji kontroli pojazdów upoważnionej do dokonywania badań technicznych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_2/lit_a",
+         "text": "w razie niemożliwości ustalenia danych, o których mowa w pkt 1, .",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_2/lit_b",
+         "text": "w razie dokonania przeróbki pojazdu powodującej . zmianę. jego dopuszczalnej ładowności lub dopuszczalnej masy całkowitej albo liczby miejsc,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_2/lit_c",
+         "text": "w odniesieniu do pojazdu złożonego z elementów różnego pochodzenia, których ADA określa się jako „SAM\".",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W przypadkach okieśicniych w ust. 1 pkt 2 organ dokonujący rejestracji pojazdu może ponadto zażądać opinii uprawnionego rzeczoznawcy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Pojazdy samochodowe i przyczepy przeznaczone do łączenia z tymi pojazdami. ,"
+  },
+  {
+   "type": "text",
+   "text": "Warunki ogólne."
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Pojazdy samochodowe i przyczepy zwane są w skrócie w dalszych przepisach niniejszego rozdziału „pójazdami”, -",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Zderzaki i klamki drzwi pojazdu nie mogą powodować niebezpieczeństwa Bae Per innego uczestnika ruchu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Daszek reflektora albo krawędź wystającej części reflektora lub nadwozia, przykrywającej częściowo reflektor, powinny być zaokrąglone.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Pojazd, którego zwis tylny jest większy niż 600 mm i wzniesiony nad powierzchnią jezdni więcej niż",
+     "children": [
+      {
+       "type": "text",
+       "text": "700 mm przy pojeździe nie obciążonym, powinien być wyposażony w tylny zderzak lub inne urządzenie ochronne, zabezpieczające przed wjechaniem pod niego innego po» ~ jazdu, odpowiadające warunkom określonym w ust. 1 oraz warunkom następującym:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "odległość dolnej krawędzi od powierzchni jezdni nie może przekraczać 700 mm,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "odległość od tylnego obrysu pojazdu nie może prze- _ kraczać 600 mm,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_7/ust_3/pkt_3",
+       "text": "szerokość nie może być: mniejsza od szerokości pojazdu więcej niż o 100 mm z każdej strony pojazdu; jeżeli składa się z więcej niż jednego elementu, dopuszcza się między elementami przerwę w kierunku 600 mm, poziomym o długości nie przekraczającej",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_7/ust_3/pkt_4",
+       "text": "końce powinny być ZA PN PHA w „kierunku do 'przodu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_7/ust_3/pkt_5",
+       "text": "powinny mieć odpowiednią wytmotoce i być dobrze zamocowane.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Zderzaka lub, urządzenia ochronnego (ust. 3) nie wymaga się na pojazdach, których konstrukcja uniemożliwia wjechanie pod. nie innego. pojazdu, na samochodach i przyczepach samowyładowczych, na ciągnikach siodłowych i przyczepach dłużycowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Kabina kierowcy oraz pomieszczenie przezna- : czone do przewozu osób powinny być wyposażone w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "urządzenie zapewniające przewietrzanie i ogrzewanie wnętrza, jeżeli są one pomieszczeniami zamkniętymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "drzwi zaopatrzone w zamki uniemożliwiające samoczynne lub niezamierzone ich otwarcie się.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Zawiasy drzwi umieszczonych z boku pojazdu i otwieranych na boki powinny znajdować się z przodu; dotyczy to. pojazdów, których konstrukcja umożliwia ” rozwijanie prędkości para cause 40 km/h,” z wyjątkiem pojazdów Sił Zbrojnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Wnętrze kabiny kierowcy oraz pomieszczeń przeznaczonych do przewozu osób powinno odpowiadać, następującym warunkom:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_3/pkt_1",
+       "text": "jeżeli jest pomieszczeniem zamkniętym —. powinno ~~ być szczelne i uwzględniać określone odrębnymi przepisami warunki dotyczące dopuszczalnego poziomu hałasu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_3/pkt_2",
+       "text": "siedzenia powinny być przymocowane do nadwozia, również gdy są przesuwne — w sposób uniemożli- - wiający nie zamierzone zmiany ich położenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_3/pkt_3",
+       "text": "górna część oparcia przednich siedzeń samochodu osobowego powinna być miękko wyściełana; nię dotyczy to samochodu z napędem na obie osie (terenowego),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_3/pkt_4",
+       "text": "tablica rozdzielcza powinna być przynajmniej u dołu zaokrąglona,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_8/ust_3/pkt_5",
+       "text": "mechanizm do otwierania i zamykania dachu powinien być tak urządzony, aby nie działał SAM ZYJE: również w razie zderzenia. 4, Szyby pojazdu:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_3/pkt_1",
+       "text": "nie powinny dawać ostrych odprysków w razie tozbi cia; przednia szyba powinna: zapewniać kierowcy pełną i wyraźną widoczność bez zniekształcenia obrazu, a w razie rozbicia — zapewniać jeszcze do- \" stateczną widoczność drogi, -",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_3/pkt_2",
+       "text": "powinny być umocowane w taki sposób lub sporządzone z takiego tworzywa, aby w razie konieczności istniała możliwość wyjścia na zewnątrz pojazdu co najmniej przez jeden otwór okienny z każdej strony pojazdu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_3/pkt_3",
+       "text": "powinny być ocechowane w me widocznym paź zewnątrz.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "— 908: = Dziennik Ustaw Nr 70"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Pojazd powinien być tak zbudowany i utrzymany, aby:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_9/ust_1/pkt_1",
+       "text": "poziom hałasu zewnętrznego, mierzony podczas postoju pojazdu 7 odległości 3 m, nie przekraczał w odniesieniu do:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_1/pkt_1/lit_a",
+         "text": "pojazdu samochodowego o dopuszczalnej masie całkowitej większej niż 12 t, z silnikiem o mocy 94 dB (A), powyżej 147 kW (200 KM) —",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/ust_1/pkt_1/lit_b",
+         "text": "pojazdu samochodowego 6 do- i puszczalnej masie całkowitej większej niż 12 t, z silnikiem o mocy nie przekraczającej 147 kW (200 KM) — 92 dB (A),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_9/ust_1/pkt_1/lit_c",
+         "text": "pojazdu samochodowego 0 do- , puszczałnej masie całkowitej większej niż 3,5 t, lecz nie większej niż 12 t — 89 dB (A),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_9/ust_1/pkt_1/lit_d",
+         "text": "pojazdu samochodowego „innego , ©. niż wymienione pod lit. a) — c), . 2 wyjątkiem. motocykla — 85 dB (A),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_9/ust_1/pkt_1/lit_e",
+         "text": "motocykla z silnikiem o pojemności skokowej: JM, — nie przekraczającej 125 ¢m* — 84 dB (A), — większej niż 125 cm! — 86 dB (A),",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_9/ust_1/pkt_2",
+       "text": "zawartość tlenku węgla w spalinach pojazdu z silnikiem o zapłonie iskrowym, mierzona na biegu jałowym, nie- przekraczała 4,5°o, a w odniesieniu do motocykla — 5,5%/o objętości spalin, a",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_9/ust_1/pkt_3",
+       "text": "wielkość dymienia pojazdu z silnikiem o zapłonią samoczynnym, mierzona przy swobodnym przyspieszaniu silnika, nie przekraczała wartości odpowiadającej 70% w skali dymomierza określonego w obowiązującej normie, dotyczącej pomiaru zadymienia spalin metodą absorpcji światła,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_9/ust_1/pkt_4",
+       "text": "urządzenia zapłonu iskrowego nie wytwarzały zakłóceń radioelektrycznych przekraczających . poziom określony w opa wazującej normie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_9/ust_1/pkt_5",
+       "text": "układ zasilania:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_1/pkt_5/lit_a",
+         "text": "był szczelny, kiówaieżńia od warunków zewnętrznych oraz drgań występujących. podczas pracy pojazdu, _b) był zabezpieczony przed możliwością. zetknięcia ‘się z przeszkodami znajdującymi się na drodza oraz przed nadmiernym nagrzewaniem, tarciem i innymi nienaturalnymi warunkami, . €) był zabezpieczony przed korozją,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_9/ust_1/pkt_6",
+       "text": "zbiornik paliwa, w tym również zbiornik paliwa niezależnej instalacji ogrzewczej, z wyjątkiem zbiornika paliwa motocykla:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_1/pkt_6/lit_a",
+         "text": "nie był umieszczony w kabinie kierowcy lub w pomieszczeniu przeznaczonym do przewozu osób ani też bezpośrednio do niego nie przylegał; prze- . groda iub ścianka oddzielająca zbiornik od tych pomieszczeń powinna być ers z materiału niepalnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/ust_1/pkt_6/lit_b",
+         "text": "byt tak umieszczony, aby w razie jego uszkodzenia lub przelania: paliwo nie ściekało na elementy układu wydechowego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_9/ust_1/pkt_6/lit_c",
+         "text": "nie miał wlewu paliwa w kabinie kierówcy: w pomieszczeniu przeznaczonym do przewozu osób, w komorze silnikowej lub w bagażniku; jeżeli wlew paliwa umieszczony jest z boku pojazdu, to korek wlewu w położeniu zamkniętym nie może wystawać poza obrys nadwozia; przepisy lit. a) i c) nie- dotyczą pojazdów Sił zb BYĆ",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_9/ust_1/pkt_7",
+       "text": "instalacja elekryczna: .",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_9/ust_1/pkt_7/lit_a",
+         "text": "była zabezpieczona przed uszkodzeniem mechanicznym wskutek tarcia o inne elementy pojazdu, a także, przed korozją, '",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_9/ust_1/pkt_7/lit_b",
+         "text": "była wyposażona w umieszczony w łatwo dostępnym miejscu wyłącznik, umożliwiający odłączenia akumulatora od instalacji elektrycznej bez użycia narzędzi; dotyczy to samochodów ciężarowych i specjalnych o dopuszczalnej masie całkowitej przekraczającej 3,5 t, ciągników siodłowych i balastowych oraz autobusów o liczbie miejsc — szej niż 15 łącznie z miejscem kierowcy,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_9/ust_1/pkt_8",
+       "text": "istniała możliwość jazdy do tyłu; nie dotyczy to motocykli. „ 2. Metody pomiaru wielkości, o' których mowa w ust. I pkt 1 i 2, określają odrębne przepisy. \" .3. Kierownica w pojeździe samochodowym o liczbie kół większej niż trzy,: którego konstrukcja umożliwia rozwijanie prędkości przekraczającej 40 km/h, powinna . być umieszczona po lewej stronie pojazdu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Wózek boczny motocykla powinien być umieszczony po jego prawej stronie. i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "Pojazd samochodowy o nacisku osi kierowanej lub sumie nacisków osi kierowanych przekraczających 45 kN (4,5 T) powinien mieć układ kierowniczy z mechanizmem wspomagającym. W razie uszkodzenia tego mechanizmu powinna być zapewniona Kkierowalność pojazdem. - ,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Wyposażenie."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "1: Pojazd samochodowy powinien być wyposażony:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "w tabliczkę metalową, umieszczoną w miejscu łatwo dostępnym, podającą .co najmniej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_10/pkt_1/lit_a",
+       "text": "markę, fabryczną, typ i model „pojąziw",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_10/pkt_1/lit_b",
+       "text": "rok produkcji pojazdu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_10/pkt_1/lit_c",
+       "text": "rozpoznawczy numer fabryczny lub numer pod wozia (nadwozia), 2).w samoczynne wycieraczki przedniej szyby w liczbie zapewniającej dostateczne pole widzenia kierowcy “oraz w urządzenie do zmywania tej szyby: nie dotyczy to pojazdów wyposażonych w przednią szybą 0 takich wymiarach .i kształcie, że kierowca bez zmiany normalnej. pozycji może obserwować drogą nie poprzez tę szybę,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_10/pkt_3",
+     "text": "w prędkościomierz umieszczony w „DAME widzenia kiarowcy oraz w drogomierz,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_10/pkt_4",
+     "text": "w lusterka:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_10/pkt_4/lit_a",
+       "text": "co najmniej jedno lusterko zewnętrzne po lewej stronie pojazdu — w OTAISNICPAC do samochodów osobowych i motocykli,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_10/pkt_4/lit_b",
+       "text": "co najmniej dwa lusterka zewnętrzne, jedno po lewej i jedno po prawej stronie pojazdu — w odniesieniu do pozostałych pojazdów oraz do samochodów osobowych ciągnących przyczepę,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_10/pkt_4/lit_c",
+       "text": "wewnętrzne — w odniesieniu do autobusów i samochodów osobowych; lusterka powinny zapewniać co najuiej strefę wi- - „doczności drogi do tyłu: — wewnętrzne — szerokości 20 m, po 10 m z obu \"stron podłużnej płaszczyzny symetrii pojazdu, w odległości 60 m od oczu kierowcy, — zewnętrzne lewe — szerokości 2,5 m w lewo od lewego bocznego obrysu pojazdu, w odległości 10 m od oczu kierowcy, — zewnętrzne prawe — szerokości 3,5 m w prawo od prawego bocznego obrysu pojazdu, w odległości",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "30 m od oczu kierowcy, z tym ze w odległości 4 m od oczu kierowcy: szerokość ta powinna wynosić 0,75 m, :"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_10/pkt_5",
+     "text": "w sygnał dźwiękowy o ciągłym i nieprzeraźliwym \"_ tonie, o poziomie dźwięku, mięrzonym podczas postoju pojazdu z odległości 3 m, nie mniejszym niż: _a) 87 dB (A) w odniesieniu do motocykli, : b) 96 dB (A) w odniesieniu do pozostałych pojazdów; metodę pomiaru. poziomu dźwięku określają- odrębne przepisy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_10/pkt_6",
+     "text": "w punkty kotwiczenia pasów. bezpieczeństwa:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_10/pkt_6/lit_a",
+       "text": "na przednich siedzeniach — w pojazdach samo- - chodowych o dopuszczalnej masie całkowitej nie ' przekraczającej 2,5 t, \"b) na siedzeniach innych niż przednie © — w samochodach o sokowych; nie dotyczy to pojazdów z nadwóziem otwartym,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_10/pkt_7",
+     "text": "w pasy bezpieczeństwa na przednich siedzeniach; do- \"tyczy to samochodów osobowych, z wyjątkiem pojazdów ż nadwoziem otwartym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_10/pkt_8",
+     "text": "co najmniej w tylne błotniki o szerokości nie mniejszej niż szerokość opony, a gdy chodzi o koła bliżniacze — nie mniejszej niż odległość między zewnętrznymi krawędziami opon; błotników nie wymaga się na pojazdach samochodowych wyjąskowej konstrukcji, © '",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_10/pkt_9",
+     "text": "w fartuchy odpowiednio przedłużające tylne błotniki - od tyłu ałbo umieszczone dalej od kół niż błotniki — jeżeli błotnik: [ub inny znajdujący się za tylnym kołem element nadwozia lub podwozia, leżący w płaszczyźnie tylnego koła, położony jest wyżej niż 0,25 odległości tego elementu od osi tylnego koła, przy czym odległość dolnej krawędzi fartucha od jezdni nie powinna przekraczać tej wielkości; sztywność fartuchów powinna zapewniać ograniczenie do minimum ochlapywania pojazdów jadących z tyłu; fartuchów nie wymaga się na pojazdach © konstrukcji uniemożliwiającej ich umieszczenie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_10/pkt_10",
+     "text": "w urządzenie zabezpieczające PORA użyciem przez osoby niepowołane,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_10/pkt_11",
+     "text": "w trójkąt do ustawiania na drodze, przeznaczony do ostrzegania o obecności unieruchomionego pojazdu; nie dotyczy to motocykli jednośladowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_10/pkt_12",
+     "text": "w gaśnicę umieszczoną w miejscu łatwo dostęphym w razie potrzeby jej użycia; nie way: to motocykli i samochodów osobowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_10/pkt_13",
+     "text": "w tłumik wydechu — w odniesieniu “ab pojazdów napędzanych silnikiem spalinowym; wylot rury wy-. dechowej nie może być skierowany w prawą stronę,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_10/pkt_14",
+     "text": "w urządzenie ' rejestrujące samoczynnie prędkość jazdy, czas jazdy oraz postoju; dotyczy to pojazdów >0 dopuszczalnej masie całkowitej 9 t i powyżej, z „ wyjątkiem -autobusów używanych w komunikacji \"miejskiej i pojazdów Sił Zbrojnych.",
+     "children": [
+      {
+       "type": "text",
+       "text": ". 2. Przepisy ust. 1 pkt 1, 8, 9i 11 stosuje się również do przyczep. ~ '"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Pojazd samochodowy nie może być wyposażony * w silnik: 1). dwusuwowy; dotyczy to samochodów dsakowych, 2 o zapłonie iskrowym; nie dotyczy to pojazdów o dopuszczalnej masie całkowitej nie przekraczającej 3.5 t, pojazdów specjalnych, pojazdów Sił Zbrojnych oraz pojazdów organów i jednostek organizacyjnych podległych Ministrowi Spraw See ees z wyjątkiem przedsiębiorstw.",
+     "children": [
+      {
+       "type": "text",
+       "text": "\"Poz. 317"
+      },
+      {
+       "type": "lit",
+       "num": "pee",
+       "path": "par_10/ust_3/lit_pee",
+       "text": "=",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Pojazd powinien być wyposażony w ogumienie pneumatyczne o nośności dostosowanej do nacisku koła oraz dostosowane do maksymalnej prędkości pojazdu; ciśnienie w ogumieniu powinno być zgodne z zaleceniami wytwórni dla danej opony i obciążenia pojazdu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_10/ust_5",
+     "text": "Pojazd nie może być wyposażony:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_5/pkt_1",
+       "text": "w opony różnej konstrukcji na kołach jednej osi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_5/pkt_2",
+       "text": "w odniesieniu do pojazdu samochodowego o dwóch osiach z kołami pojedynczymi:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_5/pkt_2/lit_a",
+         "text": "w opony diagonalne lub diagonalne z opasaniem na kołach tylnej osi, jeżeli na kołach przedniej _ osi znajdują się opony radialhe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_5/pkt_2/lit_b",
+         "text": "w opony diagonalne na kołach tylnej osi, jeżeli na kołach przedniej osi znajdują się opony diago- . Nalne z opasaniem, .",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_5/pkt_3",
+       "text": "w opony różnej konstrukcji na osiach wdiodzącich” w skład 'osi wielokrotnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_5/pkt_4",
+       "text": "w opony, których wskaźniki pokazują graniczne zużycie bieżnika, a w odniesieniu do opon nie zaopatrzonych w takie wskaźniki — o głębokości rzeźby bieżnika mniejszej niż 1 mm,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_5/pkt_5",
+       "text": "w opony o widocznych pęknięciach obnażających lub - naruszających ich osnowę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_10/ust_5/pkt_6",
+       "text": "w. opony z umieszczonymi trwale, wystającymi na zewnątrz przeciwślizgowymi elementami metalowymi.",
+       "children": [
+        {
+         "type": "text",
+         "text": "~ Światła."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Pojazd powinien być wyposażony 'w następujące światła zewnętrzne: .",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "drogowe — pojazd samochodowy, którego ' AS konstrukcja umozliwid rozwijanie prędkości BrZekraceeig? cej 40 km/h,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "mijania — poiazd samochodowy, *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_1/pkt_3",
+       "text": "kierunkowskazy — pojazd samochodowy i przyi czepa, , A) hamowania „stop”- — pojazd samochodowy i przyczepa, ;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_11/ust_1/pkt_5",
+       "text": "oświetlające tylną — pojazd samochodowy i przy-- tablicę rejestracyjną czepa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_11/ust_1/pkt_6",
+       "text": "pozycyjne przednie —- pojazd samochodowy i przy- Ein czepa o szerokości ASA . ie jacej 1,6 m, :",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_11/ust_1/pkt_7",
+       "text": "pozycyine tylne — pojazd samochodowy i przy- : czepa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_11/ust_1/pkt_8",
+       "text": "odblaskowe tylne inne niż trójkątne pojazd samochodowy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_11/ust_1/pkt_9",
+       "text": "odblaskowe tylne trójkątne. — Przyczea",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_11/ust_1/pkt_10",
+       "text": "odblaskowe przed- “nie |. — przyczepa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_11/ust_1/pkt_11",
+       "text": "odblaskowe boczne — pojazd Zamdchodońóy” o dłu- Ć gości przekraczającej 6 mr ciągnik siodłowy i przyczepa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_11/ust_1/pkt_12",
+       "text": "awaryjne — pojazd samochodowy, z wyjątkiem motocykla, i przy: czepa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_11/ust_1/pkt_13",
+       "text": "przeciwmgłowe ' — pojazd sańochodówj i przytylne czepa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_11/ust_1/pkt_14",
+       "text": "cofania — pojazd samochodówy, z wys wail jatkiem motocykla,.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_11/ust_1/pkt_15",
+       "text": "obrysowe — pojazd samochodowy i przy: . €zepa, których szerokość przekracza 2,1 m; przepisy pkt 12—15 nie dotyczą pojazdów Sił Zbrojnych,",
+       "children": [
+        {
+         "type": "text",
+         "text": "4"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "i"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Ponadto dopuszcza się wyposażenie pojazdu w następujące Światła:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "drogowe pojazdu samochodowego inneb go niż wymieniony w ust, 1 pkt 1,- przednie \"pojazdu EWEMAI",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "przeciwmgłowe",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "pozycyjne przednie — przyczepy innej niż wymieniona: w ust. 1 pkt 6, _",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_2/pkt_4",
+       "text": "postojowe — pójazdu samochodowego 0 długości nie przekraczającej 6 m; zabrania się umieszczania tych świateł na innych pojazdach, .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_11/ust_2/pkt_5",
+       "text": "odblaskowe boczne pojazdu samochodowego innego niż wymieniony w ust. 1 pkt 11,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_11/ust_2/pkt_6",
+       "text": "odblaskowe przednie pojazdu samochodowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Na wózku bocznym motocykla:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_3/pkt_1",
+       "text": "powinny być umieszczone światła:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_11/ust_3/pkt_1/lit_a",
+         "text": "pozycyjne przednie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_11/ust_3/pkt_1/lit_b",
+         "text": "pozycyjne tylre,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_11/ust_3/pkt_1/lit_c",
+         "text": "odblaskowe tylne, i „ odpowiadające warunkom określonym dla tych świateł, światła pozycyjne powinny się. włączać i wyłączeć równocześnie ze światłami pozvcyjnymi motocykla.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_3/pkt_2",
+       "text": "zabrania się umieszczania światła drogowego, światła mijania i światła przeciwmgłowego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Światła powinny odpowiadać następującym warunkom ogólnym: “",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "światła przeznaczone do oświetlenia drogi powinny być umieszczone w sposób umożliwiający łatwą regulację kierunku strumienia świetlnego, .2) osie świateł sygnalizacyjnych powinny być równoległe do płaszczyzny jezdni, osie świateł odblaskowych bocznych powinny być ponadto prostopadłe do podłużnej płaszczyzny symetrii pojazdu, a osie pozostałych świateł sydnalizacyjnych — równoległe do tej płaszczyzny; dopuszcza się odchylenia od powyższych kierunków nie większe niż 3°,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "światła tego samego rodzaju powinny mieć takie sama właściwości świetlne i powinny być umieszczone symetrycznie względem podłużnej płaszczyzny symetrii pojazdu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_1/pkt_4",
+       "text": "nie powinny oślepiać innych uczestników ruchu; nie ~ dotyczy to świateł drogowych, $) światła czerwone nie mogą być widoczne z przodu, a światła białe (żółte selektywne) — z tyłu, z wyjątkiem światła cofania oraz świateł dodatkowych przewidzianych w § 22 pkt 8, § 24 ust. 2, § 25 ust. 3,",
+       "children": [
+        {
+         "type": "text",
+         "text": "§ 26 ust. 2 oraz w § 30 ust. 1,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_12/ust_1/pkt_6",
+       "text": "połączenia elektryczne powinny zapewniać, aby:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_12/ust_1/pkt_6/lit_a",
+         "text": "światła pozycyjne przednie i tylne, światła o bryi",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "sowę oraz światło oświetlające tylną tablicę rejestracyjną włączały się i wyłączały równocześnie,"
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_12/ust_1/pkt_6/lit_b",
+         "text": "światła drogowe, Światła mijania i światła przeciwmgłowe przednie włączały się tylko wówczas, gdy włączone są światła wymienione .pod lit. a) lub równocześnie z tymi światłami; nie dotyczy .to przypadków, gdy światła drogowe lub. światła „mijania używane są jako sygnał świetlny poiega- „jacy na ‘kilkakrotnym krótkotrwałym włączeniu jednego z tych świateł lub na przemian obydwu. ~",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Światła powinny ponadto odpowiadać warunkom szczegółowym, określonym w załączniku nr 2. do rozporządzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Hamulce."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Pojazd samochodowy. z wyjątkiem motocykla i trzykołowego pojazdu samochodowego o dopuszczalnej masie całkowitej nie przekraczającej 1 t, powinien: być wyposażony w następujące rodzaje hamulców:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "hamulec roboczy działający na wszystkie koła pojazdu — przeznaczony do zmniejszania prędkości pojazdu i zatrzymywania go w sposób- niezawodny, szybki i skuteczny, niezależnie od jego prędkości i obciążenia oraz od kąta wzniesienia lub spadku jezdni, z możliwością: \"a) regulowania intensywności hamowania,",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_13/ust_1/pkt_1/lit_b",
+         "text": "dokonywania hamowania z miejsca kierowcy bez użycia rąk; w odniesieniu do pojazdu inwalidzkiego dopuszcza się użycie jednej ręki, hamulec awaryjny działający na koła co najmniej 2) jednej osi pojazdu — przeznaczony do zatrzymywania pojazdu w razie awarii hamulca roboczego, z możliwością: :",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_13/ust_1/pkt_1/lit_a",
+         "text": "regulowania intensywności hamowania,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_13/ust_1/pkt_1/lit_b",
+         "text": "dokonywania hamowania z miejsca kierowcy z możliwością trzymania „kiąrowniey przynajmniej jedną ręką, hamulec postojowy ==. przeznaczony do unierucha-",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_1/pkt_3",
+       "text": "miania pojazdu na wzniesieniu i spadku, z możliwością:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_13/ust_1/pkt_3/lit_a",
+         "text": "działania podczas nieobecności - kierowcy, przy czym robocze części hamulca powinny pozostawać w położeniu zahamowania za pomocą wyłącznie mechanicznego urządzenia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_13/ust_1/pkt_3/lit_b",
+         "text": "dokonywania hamowania z miejsca kierowcy; hamulca postojowego nie wymaga się, jeżeli hamulec awaryjny (pkt 2) spełnia warunki określone w niniejszym punkcie.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Trzykołowy pojazd. samochodowy o dopuszczalnej masie całkowitej nie przekraczającej 1 t powinien być wyposażony w:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_2/pkt_1",
+       "text": "dwa niezależne hamulce, łącznie działające na wszyst= kie koła, hamulec postojowy działający na koło (koła) co naj- 2) mniej jednej osi; hamulec ten może mieć wspólne części z jednym z hamulców wymienionych w pkt 1 i powinien być niezależny od hamulca działającego na koło (koła) drugiej osi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_13/ust_3",
+     "text": "Motocykl powinien być wyposażony w dwa niezależne hamulce, z których jeden działa na przednie koło (koła), a drugi na tylne koło (koła). 4, Motocykl z bocznym wózkiem powinien być wyposażony w hamulce wymienione w ust. 3, z tym że. jeżeli skuteczność hamowania spełnia wymagania określona w § 15 ust. 1 pkt 2, hamulec działający na koło wózka nie jest wymagany.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_13/ust_5",
+     "text": "Przyczepa powinna być wyposażona w następująca rodzaje hamulców: Ą",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_5/pkt_1",
+       "text": "hamulec roboczy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_13/ust_5/pkt_1/lit_a",
+         "text": "spełniający wymagania określone w ust. 1 pkt 1, » uruchamiany z miejsca kierowcy jednym: ruchem łącznie z hamulcem roboczym pojazdu ciągnącego, z zastrzeżeniem przepisu ust 'c) zapewniający samoczynne zatrzymanie przyczepy,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "* Dziennik Ustaw Nr 70 :"
+          },
+          {
+           "type": "text",
+           "text": "w razie zerwania podczas jazdy połączenia z pojazdem ciągnącym,"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_5/pkt_2",
+       "text": "hamulec postojowy: i ‘",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_13/ust_5/pkt_2/lit_a",
+         "text": "działający również, gdy przyczepa jest odłączona od pojazdu ciągnącego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_13/ust_5/pkt_2/lit_b",
+         "text": "uruchamiany z zewnątrz, a w odniesieniu do przyczepy przeznaczonej do przewozu. osób — .uruchamiany z wnętrza przyczepy; przez uruchamianie rozumie się również zwalnianie hamulca.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_13/ust_6",
+     "text": "Przepis ust. 5 nie dotyczy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_6/pkt_1",
+       "text": "przyczepy lekkiej, pod warunkiem że niezależnie od urządzenia łączącego przyczepa ta ma dodatkowe połączenie (łańcuch, lina), które w razie zerwania głównego urządzenia łączącego będzie zapobiegało dotykaniu jezdni przez dyszel i zapewniało niezbędną kierowalność przyczepy; jeżełi jednak dopuszczalna masa całkowita takiej pxzyczepy jest większa niż połowa masy własnej pojazdu ciągnącego, powinna ona spełniać wymagania określone w ust. 7, '2) jednoosiowej przyczepy dłużycowej,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_13/ust_7",
+     "text": "W przyczepie o dopuszczalnej masie całkowitej nie przekraczającej 3,5 t, przeznaczonej do ciągnięcia przez pojazd, którego dopuszczalna „masa całkowita wynosi nie mniej niż 1,33 dopuszczalnej masy całkowitej przyczepy, dopuszcza się hamulec roboczy typu bezwładnościowego (najazdowy), działający tylko na koła jednej osi; nie dotyczy to naczepy oraz przyczepy autobusowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Hamulce pojazdu powinny zachowywać wymaganą sprawność, niezależnie od drgań i wpływów atmosferycznych, na jakie są narażone w normalnych warunkach eksploatacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Hamulce powinny ponadto odpowiadać następijącym warunkom:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "równoczesne uruchomienie hamulca roboczego i awaryjnego nie może ujemnie wpływać na działanie żadnego z nich. zarówno w razie gdy oba hamulce są sprawne, jak i w razie uszkodzenia jednego z nich,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_2/pkt_2",
+       "text": "w razie uszkodzenia hamulca roboczego powinna być zapewniona możliwość hamowania takiej liczby kół przez działanie na hamulec roboczy, aby skuteczność hamowania nie byla mniejsza niż 30% wymaganej skuteczności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_14/ust_2/pkt_3",
+       "text": "działanie hamulca roboczego powinno być odpowiednio rozłożone między osiami oraz powinno być jedna-. , kowe dla kół tej samej osi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_14/ust_2/pkt_4",
+       "text": "zużycie hamulców powinno być łatwó kompensowane systemem ręcznej lub samoczynnej. regulacji; elementy układu hamulcowego powinny mieć taki zapas ruchu. aby po nagrzaniu hamulców lub po osiągnięciu określonego stopnia zużycia okładzin możliwe było hamowanie bez konieczności natychmiastowej regulacji, $) w przypadku hamulca uruchamianego za pomocą energii znajdującej się w zbiorniku, jeżeli hamowanie z wymaganą skutecznością nie jest możliwe bez użycia zgromadzonej energii, pojazd powinien być wyposażony, poza manometrem, w urządzenie wysyłające świetlne lub akustyczne sygnały, ostrzegające o obniżeniu zapasu energii do poziomu równego lub mniejszego niż 65% normalnego poziomu.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_14/ust_2/pkt_6",
+       "text": "w przypadku hamulca pneumatycznego połączenie pojazdu ciągnącego z przyczepą powinno składać się co najmniej z dwóch przewodów, nw przypadku hamulca hydraulicznego zbiorniczek płynu hamulcowego powinien być * umieszczony w „miejscu łatwo dostępnym dla kontroli. § 15. 1. Hamulce uważa się za sprawne, jeżeli droga hamowania całkowicie obciążonego pojazdu lub zespołu pojazdów przy prędkości 30 km/h, na drodze poziomej o nawierzchni twardej, równej, suchej i czystej, mierzona od miejsca, w którym kierowca uruchomił hamulec, do miejsca zatrzymania pojazdu, nie przekracza:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_2/pkt_1",
+       "text": "motocykla jednośladowego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_14/ust_2/pkt_1/lit_a",
+         "text": "7,5 m przy równoczesnym użyciu obu hamulców,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_14/ust_2/pkt_1/lit_b",
+         "text": "10,5 m przy użyciu tylko hamulca działającego na tylne koło, '2) motocykla z bocznym wózkiem i trzykołowego pojazdu samochodowego o dopuszczalnej masie całkowitej nie przekraczającej 1 t — 8,5 m przy: równo- - czesnym użyciu obu hamulców, a",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_14/ust_2/pkt_3",
+       "text": "samochodu osobowego i zespołu złożonego z samo-* chodu osobowego i przyczepy lekkiej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_14/ust_2/pkt_3/lit_a",
+         "text": "9 m przy użyciu hamulca roboczego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_14/ust_2/pkt_3/lit_b",
+         "text": "18 m przy użyciu hamulca awaryjnego, autobusu: ; 4)",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_14/ust_2/pkt_3/lit_a",
+         "text": "11,5 m przy „użyciu hamulca roboczego, -b) 23 m przy użyciu hamulca awaryjnego,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_14/ust_2/pkt_5",
+       "text": "zespołu pojazdów, z wyjątkiem zespołu złożonego z samochodu osobowego i przyczepy lekkiej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_14/ust_2/pkt_5/lit_a",
+         "text": "13,5 m przy użyciu hamulca roboczego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_14/ust_2/pkt_5/lit_b",
+         "text": "27 m przy użyciu hamulca awaryjnego,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_14/ust_2/pkt_6",
+       "text": "pojazdów samochodowych innych niż wymienione w pkt 1—5:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_14/ust_2/pkt_6/lit_a",
+         "text": "12,5 m przy użyciu hamulca roboczego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_14/ust_2/pkt_6/lit_b",
+         "text": "25 m przy użyciu hamulca awaryjnego.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Hamulec postojowy powinien zapewniać unieruchomienie' całkowicie obciążonego pojazdu na pochyłości co najmniej 160%, a całkowicie obciążonego zespołu pojazdów — na pochyłości co najmniej 8%.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Sposób sprawdzania skuteczności działania hamulców określają odrębne przepisy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "„dodatkowe dla autobusów Warunki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 16.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Liczba miejsc dla pasażerów siedzących stojących powinna być tak ustalona, aby nie była przekroczona dopuszczalna masa całkowita autobusu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Przyjmuje się średnią masę jednego pasażera wraz z bagażem w wysokości: 68 kg,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) dla autobusu miejskiego",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dla pozostałych autobusów 71 kg.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 17.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Autobus powinien być wyposażony:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) po prawej stronie co najmniej w jedne drzwi, a autobus regularnej komunikacji publicznej — co najmniej w dwoje drzwi, wyposażonych w uchwyty lub poręcze; w razie urządzenia oddzielnego przedziału kie- © rowcy, przedział ten powinien mieć osobne drzwi prowadzące na zewnątrz autobusu, w wyjścia awaryjne — w odniesieniu do autobusu 2) o długości przekraczającej 6 m; dostęp do tych wyjść nie powinien być niczym utrudniony; siedzenia z oparciem odchylanym oraz -z oparciem nie wyższym niż 450 mm nie uważa się za utrudnienie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) w dwie gaśnice, z których jedna powinna być umieszczona możliwie blisko kierowcy, a druga. wewnątrz autobusu, w miejscu łatwo dostępnym w razie potrzeby jej użycia; autobus o długości nie przekraczającej 6 m może, być wyposażony w jedną gaśnicę,",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "e ŚW wać § __ Poz. SIR Dziennik Ustaw _Nr 70",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) w zasłonę za miejscem kierowcy, zabezpieczającą przed pogorszeniem widoczności drogi w razie włą- 'czenia oświetlenia wnętrza autobusu; nie dotyczy to autobusów o długości nie przekraczającej 6 m,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) w apteczkę dorażnej pomocy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) w ogumione koło zapasowe,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) w urządzenie do oświetlania wnętrza,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) w zasłony w bocznych oknach, jeżeli nie jest wyposażony w szyby przeciwsłoneczne,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) w urządzenie służące do dawania sygnałów z wnętrza * autobusu do kierowcy, jeżeli znajduje się on w oddzielnym pomieszczeniu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) w bagażnik urządzony w taki sposób, aby umieszczony w nim bagaż .był zabezpieczony przed wypadnięciem, uszkodzeniem łub zanieczyszczeniem,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) w napis wskazujący dopuszczalną liczbę miejsc do siedzenia i do stania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) w tablice kierunkowe — na autobusie regularnej komunikacji publicznej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Przepisy ust. 1 pkt 5, 6, 8 i 10 nie dotyczą autobusów miejskich.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Ponadto autobus może być wyposażony w:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) dachowe wyjścia awaryjne,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) światło przeznaczone do oświetlania wejścia lub wyjścia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 18. 1, Liczba wyjść awaryjnych (§ 17 ust. f pkt.2) hie może być mniejsza niż:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) przy liczbie miejsc dla pasażerów nie większej niż 22 — trzy: dwa z prawej strony 1 jedno z lewej strony lub z tyłu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przy liczbie miejsc dla pasażerów większej niż 22, lecz nie większej niż 35 — cztery: dwa x prawej strony i dwa z lewej strony albo dwa z prawej strony, jedno z lewej strony i jedno z tyłu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) przy liczbie miejsc dla pasażerów większej niż 35 — pięć: dwa z prawej strony, dwa z lewej strony i jedno z tyłu albo trzy z prawej strony i dwa z lewej © strony.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jeżeli miejsce kierowcy znajduje się w pomieszczeniu nie połączonym drzwiami z pomieszczeniem dla pasażerów, pomieszczenie takie powinno być wyposażone w wyjście awaryjne umieszczone w innej ścianie nił drzwi wejściowe, niezależnie od wyjść awaryjnych dla SAGAZEDAWĘ (ust. 1). § 19. Światło przeznaczone do oświetlanta wejścia lub wyjścia (§ 17 ust. 3 pkt 2) powinno odpowiadać nar stępującym warunkom:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) liczba: co najmniej jedno,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) barwa: biała,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) rozmieszczenie: nad górną. krawędzią drzwi,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) połączenia elektryczne: włączenie światła może nastąpić po otwarciu drzwi lub równocześnie z otwarciem drzwi, a wyłączenie musi nastąpić równocześnie z zamknięciem drzwi, \"'5) nie może być bezpośrednio widoczne z zewnątrz autobusu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 20. i. Autobus regularnej komunikacji publicznej powinien być wyposażony w tablice kierunkowe (§ 17 ust. 1 pkt 12): czołową i boczną, a autobus regularnej komunikacji publicznej kursujący na linii oznaczonej numerem lub literą — również w tylną i wewnętrzną.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Tablice kierunkowe powinny zawierać następujące napisy: ‘",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) czołowa — oznaczenie punktów końcowych trasy komunikacyjnej, a w przypadku linii oznaczonej numerem lub literą — numer (literę) linii,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) boczna — określenie trasy komunikacyjnej z wyszczególnieniem stacji (przystanków) początkowej i końcowej oraz ważniejszych przystanków na trasie, a w przypadku linii oznaczonej numerem lub literą — również numer (literę) linii,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) tylna — numer (literę) linii,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wewnętrzna — napis określony w pkt 2. x",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Wymiary tablic powinny wynosić co najmnieft",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) czołowej:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) bez numeru (litery) linii — 600 X 150 mm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) z numerem (literą) linii — 300 X 200 mm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) bocznej:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) bez numeru (litery) linii — 600 X 150 mm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) z numerem (literą) linii — 500 X 250 mm, .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) tylnej — 300 X 200 mm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wewnętrznej — 500 X 250 mm.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Tablice kierunkowe powinny być umieszczone w następujący sposób:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) czołowa — w świetliku nad aaadntą. daj a ną autobusie bez świetlika — wewnątrz autobusu w prawym górnym narożniku przedniej szyby w taki sposób, aby nie ograniczała w istotny sposób pola wi- „dzenia kierowcy, albo z prawej strony. pod przednią szybą, ‘",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) boczna — na zewnątrz z prawej strony nadwozia poniżej okien albo wewnątrz autobusu za szybą jednego z okien z prawej strony,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) tylna — w świetliku nad tylną szybą, a w autobuste bez świetlika — wewnątrz autobusu w prawym dolnym narożniku tylnej szyby albo w osi autobusu poniżej górnej krawędzi tylnej szyby,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wewnętrzna — na ściance za kierowcą.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Napisy na tablicach kierunkowych powinny odpowiadać następującym warunkom:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) barwa: czarna na białym tle, a w przypadku tablic autobusów nie zatrzymujących się na wszystkich przystankach — czerwona na białym tle,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) powinny być wykonane pismem prostym (blokowym),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) wielkość liter i cyfr powinna umożliwiać odczytanie napisów z odległości co najmniej 20 m przy dobrej przejrzystości powietrza,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) numer (litera) linii na tablicach bocznej i wewnętrznej powinien być umieszczony z lewej strony tablicy w czerwonej obwódce o, kształcie koła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Miejsca przeznaczone do umieszczenia tablic czołowej i bocznej powinny być wyposażone w światło oświetlające te tablice, odpowiadające następującym warunkom:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) liczba świateł, ich umieszczenie i natężenie oświetlenia powinny umożliwiać odczytanie napisów z odległości co najmniej 20 m po zapadnięciu zmroku i przy dobrej przejrzystości powietrza,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) barwa: biała,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) nie może być bezpośrednio widoczne z zewnątrz I ł wewnątrz autobusu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) włączanie i wyłączanie powinno być niezależne od innych. świateł.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 21. Przepisy 4 16—20 stosuje sią odpowiednią również do trolejbusów i przyczep autobusowych.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Warunki.dodatkowe ala taksówek. § 22. Taksówka powinna być wyposażona w: „4), zalegalizowany taksometr,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) co najmniej dwa miejsca dla pasażórów., a, takGCAA. - bagażowa — co najmniej w jedno leńce dla pasażera,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) co najmniej dwoje drzwi z każdego baku nadwozia; nie dotyczy to taksówki bagażowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) pomieszczenie na podręczny bagaż „pasażerów. taksówki osobowej, p",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) gaśnicę umieszczoną w miejscu łatwo dóstępnym w „razie potrzeby jej użycia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) apteczkę doraźnej pomocy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) ogumione koło zapasowe, :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) dodatkowe światło z napisem „TAXI”, odpowiadające następującym warunkom:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) liczba: jedno,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) rozmieszczenie: na dachu, z zachowaniem wymagań § 12 ust. h pkt 3, w części siodkowej lub przedniej, ;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) barwa: biała z czarnymi napisami widocznymi z przodu i z tyłu pojazdu; w taksówce bagażowej napis może być widoczny tylko z przodu pojazdu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) połączenia elektryczne: światło może być włączone wówczas, gdy taksometr jest wyłączony, niezależnie od włączenia innych świateł i położenia urządzenia umożliwiającego pracę silnika; włączenie lub wyłączenie taksometru powinno powodować równoczesne odpowiednio wyłączenie lub włączenie światła, e), powinno być widoczne po zapadnięciu zmroku z „odległości co najmniej 50 m przy dobrej przejrzystości powietrza.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Warunki dodatkowe dla pojazdów samochodowych uprzywilejowanych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 23. Pojazdami samochodowymi uprzywilejowanymi mogą być:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) pojazdy straży osad",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) karetki sanitarne pogotowia ratunkowego, ź",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) pojazdy górniczego pogotowia ratunkowego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) pojazdy jednostek ratownictwa chemicznego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) pojazdy organów i jednostek organizacyjnych podległych Ministrowi Spraw Wewnętrznych, z wyjątkiem przedsiębiorstw, =",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) pojazdy Sił Zbrojnych, °F) pojazdy Służby Więziennej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) inne pojazdy, używane w związku z ratowaniem życia lub mienia albo w celu zmniejszenia skutków katastrofy — na podstawie zezwolenia wydanego przez wojewodę.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 24.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Pojazd samochodowy uprzywilejowany powinien być wyposażony. w sygnały PACC",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) dźwiękowy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) świetlny błyskowy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Poiazd samochodowy uprzywilejowany może być ponadto wyposażony w umieszczone na zewnątrz dodatkowe światło barwy białej lub żółtej selektywnej umocowane w sposób umożliwiający zmianę kierunku strumienia świetlnego (szperacz): światło to powinno być włączane i wyłączane niezależnie od innych świateł.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8 25.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Urządzenia wysyłające ostrzegawcze sygnały dźwiękowe powinny spełniać następujące wymagania:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wysyłać sygnały dźwiękowe o zmiennym tonie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) być umieszczone na zewnątrz pojazdu, <2) fale dźwiękowe powinny być wysyłane do modk a oś ich rozchodzenia się powinna.być równoległa do podłużnej osi symetrii pojazdu;. dopuszcza się odchy- ©leńie od tego kierunku nie większe niż 15°,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) być tak urządzone, aby ich włączenie nie było możliwe bez równoczesnego włączenia sygnału świetlnego błyskowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Ostrzegawczy sygnał świetlny błyskowy powinien cd powisdae następującym „warunkom: ai ,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) liczba świateł: jedno lub dwa. a w odniesieniu do pójazdów straży pożarnych — pożarniczych o dopuszczalnej masie całkowitej przeknaczającej 35 t — trzy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) rozmieszczenie: na dachu nadwozia (kabiny) w podłużnej płaszczyźnie symetrii pojazdu, a jeżeli są dwa światła — po lewej i po prawej stronie, symetrycznie względem tej płaszczyzny; jeżeli konstrukcja lub wyposażenie pojazdu uniemożliwia takie rozmieszczenie, dopuszcza się umieszczenie świateł w innym miejscu przy zapewnieniu wymaganej widoczności; trzecie światło powinno być umieszczone z tyłu pojazdu pożarniczego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) barwa: niebieska,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) włączanie świateł błyskowych powinno być niezależne od położenia urządzenia umożliwiającego pracę silnika oraz od włączenia sygnałów dźwiękowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) powinien być widoczny co najmniej z przodu i z boków pojazdu z odległości co najmniej 150 m przy „oświetleniu słonecznym i nie powinien oślepiać innych uczestników ruchu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Pojazdy Sił Zbrojnych oraz organów i jednostek organizacyjnych podległych Ministrowi Spraw Wewnętrznych, z wyjątkiem przedsiębiorstw, mogą być dodatkowo wyposażone .w Sygnały świetlne błyskowe barwy czer- _w onej,. odpowiadające warunkom określonym w ust. 2 pkt 1, 2 i 4, widoczne ze wszystkich stron pojazdu z odległości co najmniej 150 m przy oświetleniu słonecznym i nie oślepiające innych uczestników ruchu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 26.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Pojazdy samochodowe straży pożarnych — pożarnicze, z wyjątkiem wymienionych w ust. 2, powinny mieć barwę czerwieni sygnałowej, błotniki zaś i zderzaki — barwę białą. Dopuszcza się pojazdy pożarnicze o barwie khaki, również w odniesieniu do błotników i zderzaków.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Samochody osobowe operacyjne straży pożarnych z nadwoziem zamkniętym powinny być oznakowane pasem wyróżniającym barwy czerwieni sygnałowej. Po obu stronach pojazdu powinny być umieszczone napisy »STRAŻ\" barwy białej lub czerwonej. Na dachu pojazdu może być umieszczony świetlny napls „STRAŻ\" barwy białej na tle czerwonym.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Przepisy ust. 1 i 2 nie dotyczą pojazdów wojskowych straży pożarnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 27.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Karetki sanitarne pogotowia ratunkowego powinny mieć barwę kremową łub żółtą samochodową z niebieskim pasem wyróżniającym. Dla karetek reanimacyjnych dopuszcza się dodatkowo pasy wyróżniające barwy czerwonej, umieszczone wokół dachu oraz bezpośrednio pod pasem barwy niebieskiej. .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Przepis ust. 1 nie dotyczy wojskowych karetek sanitarnych, które powinny być oznakowane emblema-",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "sA 911 Dziennik Ustaw Nr 70 '",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "m",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„tem czerwonego krzyża na białym .tle, umieszczonym co najmniej na każdym boku pojazdu; karetki: te. mogą -być również oznakowane pasem wyróżniającym - barwy -nie-- bea ier 5 28. Pojazdy: górniczego poqotowia ratunkowego powinny być oznakowane pasem wyróżniającym barwy czerwonej, a.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 29. Pojazdy: jednostek ratownictwa chemicznego powinny być oznakowane pasem wyróżniającym barwy srebrzystej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 30.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. półiżdw. o których mowa w § 23 pkt 5, z wyjątkiem motocykli, powinny być oznakowane pasem wyróżniającym barwy. białej. Po obu stronach pojazdu _powinny być umieszczone napisy ,MILICJA\" barwy białej. Na dachu pojazdu może być umieszczony świetlny napis ,MILICJA\" barwy białej na tle niebieskim.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2 W_ wyjątkowych- przypadkach dopuszcza się pojazdy, o których mowa w ust. 1, nie oznakowane pasem oraz nie pace warunku określonego. w § 25 ust. 1 va",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pkt 2. : 3, Mótóżykie, o których mowa w § 23 pkt 5, po-- Z przodu motocykla .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "winny mieć błotniki barwy białej. powinien być umieszczony napis „MILICJA”\".",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 31.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Pojazdy Sił Zbrojnych, inne niż wymieniona w § 76 ust. 3, § 27 ust. 2 i § 32, z wyjątkiem motocykli, powinny być oznakowane pasem wyróżniającym barwy białej. Po obu stronach pojazdu powinny być umieszczone napisy barwy białej, określające jego przynależność . do określonego organu wpiżkówogo.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Motocykle Sił Zbrojnych, z wyjątkiem wymienionych w § 32 ust. 2, powinny mieć błotniki barwy bia- . łej. Z przodu motocyk!a powinien być umieszczony ńapis .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "K . Poz. 317",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Warunki dodatkowe dla pojazdów samochodowych przeznaczonych do wykonywania czynności na drodze oraz dla innych pojazdów samochodowych, na które ze względu na bezpieczeństwo tuchu nałeży Zwracaé szczególną p uwagę. § 37. Pojazdy samochodowe przeznaczone do wykonywania czynności na drodze, pojazdy pomocy drogowej i ciągniki balastowe ciągnące: przyczepy o szerokości przekraczającej 2,5 m powinny być wyposażone w ostrzegawczy Sygnał świetlny błyskowy barwy żółtej samochodowej. widoczny ze wszystkich stron pojazdu z odległości co najmniej 150 m przy dobrej przejrzystości powietrza i nie powodujący oślepiania innych uczestników ruchu oraz odpowiadający warunkom określonym w ms 25- ust. 2 pkt 1, 2 i 4,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 38.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Części urządzeń zamontowanych na pojeździe; wystające poza obrys pojazdu, powinny być oznakowane pasami barwy na przemian białej i czerwonej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Części, o których mowa w ust. 1, powinny być . wyposażone w:.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) światło barwy białej, . widoczne z przodu i z boków pojazdu — jeżeli część wystaje poza przedni obrys pojazdu na odległość: większą niż 1 m,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) światło-barwy czerwonej, widoczne z tyłu pojazdu — jeżeli część wystaje poza tylny. obrys pojazdu ną odległość. większą niż I m, światło barwy białej, widoczne z przodu pojazdu, 3) i barwy czerwonej, widoczne z tyłu. pojazdu — jeżeli część wystaje poza boczny obrys pojazdu ną odległość większą niż 40 cm od zewnętrznych krawędzi powierzchni świetlnych przednich lub tylnych „świateł pozycyjnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Światła, o których mowa w ust. 2, powinny włą- . A sal AS : :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "- czać się i wyłączać jednocześnie ze światłami pozycyjbarwy khaki, określający jego przynależność do określonego organu wojskowego. § 32. 1. Pojazdy Wojsk Ochrony: Pógranieża, z wy» jątkiem motocykli, powinny być oznakowane. pasem wyróżniającym barwy jasnozielonej. Po obu. stronach pojazdu powinny być umieszczone napisy „WOP” barwy jasnozielonej. O ‘ a",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. RD na Wojsk Ochrony Pogranicza powinny mieć błotniki barwy jasnozielonej, Z przodu motocykla powinien być umieszczony napis ,WOP\" barwy jasnozielonej. -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "-§ 33. Pojazdy Służby Więziennej powinny być oznakowane pasem wyróżniającym barwy granatowej. Po obu „stronach pojazdu powinny być umieszczone napisy AE, barwy białej lub granatowej. § 34. Inne pojazdy uprzywilejowane na podstawie zezwolenia wydanego przez wojewodę powinny być oznakowane pasem wyróżniającym barwy pomarańczowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 35. Pasy wyróżniające o szerokości 8—15 cm, z zastrzeżeniem § 27 ust. 1, powinny być umieszczone wokół pojazdu poniżej dolnej krawędzi okien.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "\"'§ 36. Oznakowanie określone w § 26—34 nie moża być stosowane na pojazdach innych niż pojazdy, dla któ- GA zostało ono przewidziane, nymi pojazdu oraz nie powinny oślepiać innych Menai: nikow ruchu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Warunki dodatkowe dla samochodów ciężarowych przewożących ośoby.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 39.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Samochód ciężarowy przewożący osoby. poza kabiną kierowcy powinien odpowiadać następującym warunkom:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) nadwozie powinno być typu furgon albo śkecyniowe kryte opończą,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wysokość burt nadwozia skrzyniowego nie może być mniejsza niż 1100 mm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) odchylane burty boczne powinny być krótko spięte, _ a tylna burta zabezpieczona przed samoczynnym lub niezamierzonym otwarciem. 2.. Samochód ciężarowy przewożący seeby poza kas bina kierowcy powinien być wyposażony w:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) stopnie lub drabinkę z poręczą, zapewniającą - bez-.. pieczne wsiadanie i wysiadanie. i",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) oświetlenie wnętrza,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) okienka służące do oświetłenia i do przewietrzania wnętrza, jeżeli nie ma innych odwietrzników,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) przymocowane ławki o długości co najmniej 400 mm na jedną osobę i szerokości (głębokości) nie mniejszej niż 300 mm; odstęp między dwiema sąsiednimi ławkami ustawionymi jedna za drugą nie powinien być mniejszy niż 650 mm, a ustawionymi przeciw-",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "i; 912: —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "legle — 900: mm, wliczając w' to: szerokość (głębokość) jednej ławki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) urządzenie sygnalizacyjne (świetlne lub akustyczne) zapewniające łączność przewożonych osób z kierowcą,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) apteczkę pierwszej pomocy, A",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) ogumione koło zapasowe; koło to może być umieszczone na powierzchni ładunkowej, jeżeli konstrukcja samochodu przewiduje umieszczenie tam tego koła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Samochód ciężarowy przewożący osoby poza ka- ' bing kierowcy powinien być oznakowany:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) z przodu — napisem „PRZEWÓZ OSÓB!” barwy czarnej na białym tle, umieszczonym na prostokątnej tablicy o powierzchni co najmniej 800 cm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) z tyłu — znakiem określającym dopuszczalną prędkość, jeżeli jest ona ograniczona odrębnymi przepisami. -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Przepisy ust. : 1—3 nie dotyczą pojazdów:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) przewożących konwojentéw, drużyny rolnicze i osoby wykonujące czynności ładunkowe,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Sił Zbrojnych oraz organów i jednostek organizacyj- „onych podległych Ministrowi",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Spraw Wewnętrznych, z wyjątkiem przedsiębiorstw.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Przepisy ust. 2 i ust. 3 pkt 2 dotyczą sealed przyczep dopuszczonych do przewozu osób na podstawie art. 52 ust. 1 ustawy z dnia 1 lutego 1983 r. — Prawo. o ruchu drogowym (Dz. U. Nr-6, poz. 35).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ciągniki rolnicze i pojazdy wolnobieżne oraz przyczepy przęmieczone do łączenia z tymi pojazdami.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„Warunki ogólne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 40.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ciągniki rolnicze, pojazdy wolnobieżne oraz przyczepy przeznaczone do łączenia z tymi pojazdami powinny być tak zbudowane i utrzymane, aby:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wystające części, które mogą naruszyć stateczność pojazdu lub zagrażać bezpieczeństwu innych uczestników ruchu, mogły być na czas jazdy zdemontowane lub złożone; przepisy § 38 stosuje się odpowiednio,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) poziom hałasu zewnętrznego, . mierzony podczas postoju pojazdu silnikowego z odległości 3 m, nie prze- 'kraczał 94 dB (A); przepis 4 9 ust. 2 stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do pojazdów, o których mowa w ust. 1, stosuje się przepisy § 7 ust. 1, § 8 ust. 3 pkt 2 i ust. 4 §9 ust. 1 pkt 2—5, pkt 6 lit. a) i b), pkt 7 lit. a) i „pkt 8 oraz ust. 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Dopuszcza się również:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) pojazdy wolnobieżne i przyczepy specjalne o szerokości nie przekraczającej 3 m,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) pojazdy z gąsienicowym układem jezdnym, jeżeli:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) dopuszczalna masa całkowita pojazdu nie prze- =",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "kraczą 16 t,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) nacisk gąsienicy między 'skrajnymi krążkami bieżnymi nie przekracza 40 kN (4 T) na 1 m; przy mechanizmie półgąsienicowym lub przy zastosowaniu dwóch gąsienic, jedna za drugą, nacisk ten nie może przekraczać 60 kN (6 -T), pod warunkiem ‘ze odległość pomiędzy środkami powierzchni styku z jezdnią pierwszei gąsienicy lub kół przedniej osi a środkami powierzchni styku z jezdnią drugiej gąsienicy wynosi co najmniej 3 my",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) gąsienice nie mają ostrych krawędzi, mogących ' uszkodzić nawierzchnię drógi, prędkość maksymalna jest konstrukcyjnie ogranid) czona do 10 km/h: nie dotyczy to pojazdów na gąsienicach gumowych lub z innego tworzywa o odpówiedniej elastyczności, jednak bez elementów metalowych, mogących uszkodzić nawierzchnię drogi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wyposażenie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 41.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Pojazdy silnikowe, ó których mowa w § 40, powinny: :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) być wyposażone w: ;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) wycieraezke przedniej szyby, zapewniającą dostateczne pole widzenia kierowcy; nie dotyczy to pojazdów wyposażonych w. przednią szybę o takich 4 wymiarach i kształcie, że kierowca może obserj w ować drogę nie 'poprzez . tę szybę, bez zmiany normalnej pozycji,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) drogomierz lub licznik motogodzin,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) odpowiadać warunkom określonym w $",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10 ust. 1 pkt 1, pkt 4 lit. b), pkt 5 lit. b), pkt 10, 11 i 13, ust. 4 oraz ust. 5 pkt 1 i 4—6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do przyczep, o których mowa w § 40, stosuje się przepisy § 10 ust. 1 pkt 1 i 11, ust. 4 oraz ust. 5, pkt 1 i 4—%6. 3.. Dopuszcza się przyczepy lekkie specjalne: '1) z kołami nieogumionymi, pod warunkiem że nacisk koła nią drogę nie przekracza 1,5 kN (150 -kG) ną 1 cm szerokości obręczy, przy ograniczeniu prędkości jazdy do 10 km/h,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) z kołami na pełnych obręczach gumowych, pod warunkiem że nacisk koła na drogę nie. przekracza 1 kN. (100 kG) na 1 cm szerokości obręczy gumowej, przy ograniczeniu prędkości jazdy. do 25 km/h.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ".",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Światła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 42. Do pojazdów, o których mowa w § 40, stosuje się przepisy § 11 ust. 1 i 2 oraz § 12, z tym zastrzeżeniem że: 2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) nie wymaga się wyposażenia w światła: -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) mijania i hamowania „stop” — pojazdu, którego konstrukcja uniemożliwia rozwijanie prędkości przekraczającej 10 km/h. ;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) kierunkowskazy — przyczepy specjalnej, pod warunkiem zachowania widoczności kierunkowskazów pojazdu ciągnącego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) awaryjne,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) przeciwmgłowe tylne,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) cofania; © *",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "jeżeli jednak pojazdy te.wyposażone są w powyższe światła, światła te powinny odpowiadać określonym dla nich warunkom,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dopuszcza się wyposażenie w światła: obrysowe zamiast pozycyjnych — pojazdów : wola) „nobieżnych i przyczep specjalnych o asymetrycznej konstrukcji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) mijania: — nie odpowiadające wymaganiom § 2 lp. 2 kol. 9 załącznika nr 2 do rozporządzenia, — umieszczone na wysokości nie większej niż 1500 mm,. odmiennie od przepisu § 2 Ip. 2 kol. 10 załącznika nr 2 do rozporządzenia —. jeżeli",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "konstrukcja pojazdu nie pozwala na zachowanie wysokości nie większej niż 1200 mm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) tylne Swidtla odblaskowe inne niż trójkątne, umieszczone na wysokości nie większej niż 1200 mm, odmiennie od przepisu § 2 Ip. 8 kol. 10 załącznika nr 2 do. rozporządzenia — jeżeli konstrukcja pojazdu nie pozwała na żachowanie wy- _, Sokości nie większej niż 900. mm, ;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) o których mowa w § 37 — pojazdów silnikowych o szerokości przekraczającej 2,5 m albo ciągnących przyczepę przekraczającą tę szerokość.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Hamulce.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 43.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Pojazdy silnikowe, o których mowa w § 40, powinny. być wyposażane w ' następujące rodzaje hamulców: -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) hamulec robóczy działający na koła co najmniej jednej osi — przeznaczony do zmniejszania prędkości pojazdu i zatrzymywania go w sposób niezawodny, szybki i skuteczny, niezależnie od jego prędkości, obciążenia oraz kąta wzniesienia lub. spadku jezdni, z możliwością: ' a) regulowania intensywności * hamowania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) dokonywania hamowania z miejsca .kierowcy, z możliwością trzymania urządzenia kierowniczego przynajmniej jedną ręką; jeżeli hamulec roboczy składa się z lewego i prawego hamhlca, powinien . być tak urządzony, aby mógł być uruchamiany jednym ruchem; lewy i prawy hamulec powinien . mieć samoczynny system regulacji, przy zachowaniu możliwości swobodnej regulacji równomier= ności działania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) hamulec postojowy — określony w § 13 ust. -1 pkt 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Przyczepy, o których mowa w § 40, powinny być wyposażone w następujące rodzaje hamulców:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) hamulec roboczy, spełniający wymagania określone w ust. 1 pkt 1 lit. a), a ponadto:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) uruchamiany z miejsca kierowcy jednym ruchem łącznie z hamulcem roboczym pojazdu ciągnącego, _ z zastrzeżeniem przepisu ust. 3,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) zapewniający samoczyńne zatrzymanie przyczepy w razie zerwania podczas jazdy połączenia z pojazdem ciągnącym,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) hamulec postojowy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) działający również, gdy przyczepa jest odłączona od pojazdu ciągnącego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) uruchamiany z zewnątrz przez osoby znajdujące się na drodze; przez uruchamianie rozumie się również zwalnianie hamulca.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W przyczepie, której dopuszczalna masa całkowita nie przekracza 5 t, dopuszcza się hamulec roboczy:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) niezależny od hamulca pojazdu ciągnącego, pod warunkiem że urządźenie sterowania hamulcem przyczepy jest umieszczone w pojeździe ciągnącym w taki sposób, aby mogło być łatwo uruchamiane z miejsca * kierowcy, albo",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) typu bezwładnościowego Śaiżzddwyj.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "'4, Przepis ust. 2 nie dotyczy przyczepy, której dopuszczalna masa całkowita nie: przekracza 1,5 t. Jeżeli jednak przyczepa taka wyposażona jest w hamulec roboczy, powinien on spełniać wymagania określone w ust. 3, z tym że w odniesieniu do przyczepy -jednoosiowej nie stosuje się przepisu ust. 2 pkt 1 lit. b), pod warunkiem, że przyczepa ta ma dodatkowe połączenie (łańcuch, lina), które w razie zerwania urządzenia łączącego zapobiega dotykaniu jezdni przez dyszel i zapewnia niezbędną kierowalność przyczepy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "-§ 44. Hamulce pojazdów silnikowych, o których mowa w § 40, powinny odpowiadać warunkom określonym w § 14 ust. 1 i ust. 2 pkt 4, z tym że:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w razie uszkodzenia ' hamulca. robączego powinna być zapewniona możliwość zahamówania pojazdu przez działanie na hamulec roboczy: lub hamulec postojowy ze skutecznością nie mniejszą niż 50> wymaganej skuteczności,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w pojazdach o masie własnej nie przekraczającej 2 t, których konstrukcja ogranicza prędkość do 25 km/h, dopuszcza się jeden hamulec spełniający funkcje hamulca roboczego i hamulca postojowego, pod warunkiem że w razie uszkodzenia. hamulca będzie za- - pewnione hamowanie co najmniej jednego koła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) działanie hamulca roboczego powinno być jednakowe dla kół tej samej osi, a jeżeli hamulec działa na koła więcej niż jednej osi, działanie jego powinno * być odpowiednio rozłożone między osiami.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 45. Układy hamulcowe przyczepy, o której mowa w § 40, powinny odpowiadać warunkom określonym w '§ 14 ust. 1 i ust. 2 pkt 4 oraz'§ 44 pkt 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 46.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Hamulce uważa się za sprawne, jeżeli droga hamowania całkowicie obciążonego pojazdu lub zespołu pojazdów na drodze poziomej o nawierzchni twardej, równej, suchej i czystej, mierzona od miejsca, w, którym kierowca uruchomił hamulec, do miejsca zatrzymania pojazdu, nie przekracza 10 m, a opóźnienie podczas hamowania nie jest mniejsze niż 2,5 m/s*; hamowania dokonuje się przy największej dopuszczalnej prędkości, a w odniesieniu do ciągnika rolniczego — nie większej jednak niż 30 km/h.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Przepisy § 15 ust. 2 i 3 stosuje się odpowiednio.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rowery, wózki inwalidzkie i pojazdy zaprzęgowe.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 47.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rower powinien być wyposażony:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) z przodu — w jedno światło pozycyjne barwy białej lub żółtej selektywnej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) z tyłu — w jedno światło pozycyjne barwy czerwonej oraz w jedno światło odblaskowe barwy czerwonej o kształcie innym niż trójkąt, =",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) co najmniej w jeden skutecznie działający hamulec,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) w dzwonek lub inny sygnał ostrzegawczy o nieprzeraźliwym dźwięku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Motorower o szerokości nie przekraczającej 80 « cm powinien być wyposażony:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) z przodu — w jedno światło barwy białej lub żółtej selektywnej, oświetlaiące drogę na odległość co najmniej 30 m przed pojazdem przy dobrej przejrzystości powietrza i spełniające wymaganie określone w § 12 ust. 1 pkt 4,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) z tyłu — w jedno światło pozycyjne barwy czerwonej oraz w jedno światło odblaskowe barwy czerwonej o kształcie innym niż trójkąt. :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Motorower o szerokości przekraczającej 80 cm powinien być wyposażony:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) z przodu — w jedno światło barwy białej lub żółtej wje dośoci, edpowiadajace warunkom określonym w",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ae 2 Dziennik Ustaw Nr 70",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "ust. 2 pkt 1 oraz w dwa ota pozycyjne barwy białej, - z tyłu — w dia światła pozycyjne barwy czerwonej 2) oraz w dwa światła odblaskowe barwy czerwonej o kształcie innym niż trójkąt. . 4, Motorowery powinny być ponadto wyposażone w:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) dwa niezależne, skutecznie działające hamulce,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dzwonek lub inny sygnał ostrzegawczy -0 nieprzeaźliwym dźwięku, tłumik wydechu, * 3) lusterka wsteczne umieszczone - po lewej stronie pojazdu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Poziom hałasu żawnieliiwnówo motoroweru, mierzony podczas postoju pojazdu z odległości 3 m, nie może przekraczać 78 dB (A). Przepis. § 9 ust. 2 stosuje się odpowiednio. aki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 48.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wózek inwalidzki bez silnika pomocniczego powinien odpowiadać przepisom § 47 ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Dopuszcza się wózki inwalidzkie napędzane silnikiem pomocniczym. pod warunkiem:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) konstrukcyjnego ograniczenia maksymalnej pródkości do 30 km/h, - =",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przy użyciu silnika spalinowego — nieprzekroczenia 50 cm* jego pojemności skokowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) spełnienia wymagań określonych w § 47 ust. 2—5. \"3. Szerokość wózka inwalidzkiego nie może przekraczać 15 m. .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pojazd zaprzęgowy powinień być wyposa-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 49.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. żony w:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) jedno światło pozycyjne barwy białej widoczne z przodu oraz jedno światło pozycyjne barwy czerwo-\" nej widoczne z tyłu; dopuszcza się dwa światła pozycyjne barwy białej oraz dwa światła pozycyjne barwy czerwonej, dwa światła odblaskowe barwy białej widoczne z 2) przodu oraz dwa światła odblaskowe barwy czerwonej widoczne .z tyłu; tylne światła odblaskowe powinny mieć kształt trójkąta równobocznego o długości boku nie mniejszej niż 15 cm, zwróconego wierzchołkiem do gory; trójkąt odblaskowy może być jednolity lub stanowić ramkę o bokach szerokości eo najmniej 2 cm albo może być złożony z sześciu okrągłych odbłyśników o średnicy 5 cm, po trzy na każdym z boków trójkąta, : 3) ogumiene koła, tabliczkę o wymiarach. nie mniejszych niż 25 X 15 cm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) umieszczoną na prawym boku pojazdu, podającą imię i nazwisko (nazwę) właściciela pojazdu oraz jego adres; jeżeli jeden właściciel posiada ki:ka pojazdów zaprzęgowych, na tabliczce należy dodatkowo ufnieścić numer kolejny pojazdu. _",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Dopuszcza się pojazdy zaprzęgowe:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wyposażone w koła nieogumione, pod warunkiem ze nacisk koła na drogę nie przekracza iS kN (150 kG) na 1 cm szerokości obręczy, 2).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "na płozach; jeżeli masa całkowita pojazdu przekra- „cza 300 kg, płoza powinna mieć w dolnej części co najmniej 120 cm długości i 10 cm szerokości. Światła pojazdów, o których mowa wi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 50.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. § 47—49, powinny odpowiadać następującym warunkom:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) światła pozycyjne oraz światła odblaskowe oświetlone światłem drogowym innego pojazdu powinny być widoczne w nocy przy dobrej przejrzystości powietrza „Z odległości co najmniej 150 m,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2 powinny być umieszczone nie wyżej niż 900 mm i nie niżej niż 350 -mm od*powierzchńb jezdni, 3 o>» światła pojedyncze na: pojazdach wiełośladowych* po» 3) u",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "winny być. umieszczona po: lewej-stronie:: pojazdu możliwie najbliżej ‘jego: bocznego obrysu; jednak nie ~dalej niż 150: mm 'ad tego obrysu; nie. dotyczy: to świateł _ oświetlających : sdragę;: kom pawiany być umieszczone: pośrodku, _4) dwa światła powinny być umieszczone swikakójjznie ‘ po- obu stronach pojazdu możliwie „najbliżej, jego bocznego obrysu, jednak nie dalej niż 100 mm od . tego obrysu oraz na jednakowej wysokości nad jezdnią; widoczność. dwóch świeteł BOW Wye jednakowa, 5",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) światła czerwone nie mogą być widóczne z przodu, a światła białe (żółte selektywńe) —'z tyłu. = **",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Dopuszcza się umieszczanie świateł odblaskowych barwy żółtej samochodowej: \" ae",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) na bocznych płaszćzyznach kół pojazdów, o których” mowa w § 47-49, ż tym zastrzeżeniem że z Każdego boku pojazdu powinny (być widoczne dwa światła: jedno umieszczone na kole ZA osi, a drugie — na kole tylnej osi, :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) na pedałach - rowerów i motorowerów; do świateł tych nie stosuje się przepisów ust. 1 pkt 2—4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli -do pojazdu zaprzęgowego lub roweru (motoroweru) przyczepiony jest inny pojazd, maszyna lub urządzenie, powinny one być wyposażone co najmniej: w jedno światło pozycyjne: barwy czerwonej oraz w jed: no światło odblaskowe barwy czerwonej widoczne z'tyłu, a ponadto w jedno Światło pozycyjne barwy białej widoczne z przodu, jeżeli szerokość pojazdu ciągniętego (maszyny, urządzenia) przekracza szerokość pojazdu ciągnącego; światła.te powinny odpowiadać warunkom okreś- „lonym w ' ust. 1 ‘ Ę",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Do przepisów niniejszego paragrafu mają zastoso- „wanie określenia podane w § 1 ust, 2—4 załącznika nr 2 do rozporządzenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 5 Ę P",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "x Homologacja.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "\" 8 51. 1. Producenci krajowi i importerzy, produkujący lub importujący rocznie co najmniej 50 sztuk jednego typu pojazdów samochodowych, ciągników roini- . czych, mótorowerów lub przyczep, obowiązani są uzyskać świadectwo homologacji danego typu pojazdu.. Świadectwo. homologacji może być wydane również w razie produkcji lub importu mniejszej liczby pojazdów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Świadectwo homologacji wydaje się na podstawie dodatnich wyników badań homologacyinych, polegających na sprawdzeniu, czy ABY typ pojazdu odpowiada warunkom określonym w: L",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) przepisach niniejszego rozporządzenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przyjętych do stosowania przez Polska Rażczoczpólitą Ludową regulaminach, .stanowiących załączniki da Porozumienia dotyczącego przyjęcia jednolitych warunków homologacji i wzajemnego uznawania homologacji ki. sę My części pojazdów samochodowych (Dz. z 1979 r. Nr 16, poz. 98 i 99), RĘKĘ SĄ normach. — w razie braku odpowied- 3) niego regulaminu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W celu uzyskania świadcteć homologacji pojazdu producent lub importer pojazdów -zgłasza do Minister-",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "stwa Komunikacji «wniosek według: ustalonego wzoru -(w dwóch egzemplarzach) z dołączeniem:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) rysunków zestawieniowych 'całego pojazdu oraz rysunków urządzeń kierowniczych, urządzeń hamulcowych i zawieszenia: oraz układu 'tłumiącego wydech,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) schematów instalacji 'oświetleniowej i sygnalizacyjnej, *.3) dwóch egzemplarzy instrukcji obsługi danego: po- * jazdu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "oraz pizedstawia jeden egzemplarz pojazdu w celu przeprowadzenia badań homologacy jnych. - 4. Przepisy ust. 1 i 2 stosuje się odpowiednio da przedmiotów wyposażenia i części pojazdów, jeżeli dotyczą ich wymagania określone w przepisach, o których mowa w uśt. 2 pkt 2 i 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5.-Przepis ust. 4 nie dotyczy .przedmictów wyposażenia i części pojazdów, homologowanych w innym kraju i oznaczonych cechą zawierającą literę „E\" na podstawie międzynarodowej umowy, o której mowa w ust. 2 pkt 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. Przedmioty wyposażenia i części, inne niż w typie pojazdu, na który zostało wydane świadectwo homologacji, lub w nim nie występujące, mogą być stosowane w pojeździe pod warunkiem spełnienia wymagań określonych w ust. 4 lub 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "\"?. W razie stwierdzenia, że nowo produkowany pojazd, przedmiot wyposażenia lub część pojazdu, należące do typu, na który zostało wydane świadectwo homologacji, nie odpowiadają wymaganiom i warunkom wskazanym w świadectwie, świadectwo może być cofnięte.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. Zabrania się oznaczania cechą zawierającą i tarę rE\" przedmiotów wyposażenia i części:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) na które świadectwo homologacji nie zostało wydane lub zostało cofnięte,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) produkowanych przez innego producenta niż ten, dla którego świadectwo homologacji zostało wydane.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 52. Producent krajowy lub importer obowiązany jest:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zgłaszać organowi, który wydał świadectwo Kióńiót: gacji, wszelkie *' zmiany konstrukcyjne, zmieniające charakterystykę techniczną pojazdu określoną wę wniosku (§ 51 ust. 3) lub parametry techniczne, mające wpływ na bezpieczeństwo ruchu, . 2) dołączać do każdego pojazdu, należącego do homologowanego typu, wyciąg ze świadectwa homologacji, zawierający dane określone w odrębnych przepisach.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ": Rozdział 6",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Badania techniczne pojazdów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 53.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Do przeprowadzania badań technicznych po- „jazdów mogą być upoważnione:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) stacje kontroli pojazdów podległe wojewodom,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przedsiębiorstwa i instytucje państwowe lub spółdzielcze. dg",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) organizacje społeczne posiadające zezwolenie na prowadzenie działalności gospodarczej. —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jednostki, ć których mowa w ust. 1, powinny: ©",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) być wyposażone w odpowiednie stanowisko kontrolne, spełniające wymagania określone w § 54,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dysponować pracownikami odpowiadającymi wymaganiom określonym w § 55. 5",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Stanowisko kontroli (§ 53 ust. 2 pkt 1) po-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 54, winno: a=",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) być wyposażone w:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) poziomą powierzchnię mieszczącą badany pojazd: , oraz urządzenia i przyrządy pomiarowo-kontrolne,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) kanał przeglądowy «i «urządzenie do podnoszenia osi; kanał przeglądowy może być zastąpiony urządzeniem do podnoszenia całego pojazdu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) umożliwiać korzystanie ze sprężonego powietrza w ilości odpowiadającej zapotrzebowaniu, wystarczającej co najmniej: do .pompowania -ogumienia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Stanowisko kontroli powinno być wyposażone co najmniej w następujące urządzenia i przyrządy. pomiarowo-kontrolne:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) odcinek drogi do pomiaru drogi hamowania (§ 15 ust. 1) albo urządzenie rolkowe lub płytowe (najazdowe) do pomiaru siły hamującej lub w inne, urządzenie służące do sprawdzania skuteczności działania hamulców,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przyrząd do pomiaru prawidłowości ustawienia kół.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) przyrząd do pomiaru i regulacji ciśnienia OE sa w ogumieniu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) kątomierz do pomiaru luzu sumarycznego na kole kierownicy, ;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) przyrząd do sprawdzania ustawienia i pomiaru światłości świateł, =",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) przyrząd do pomiaru poziomu hałasu zewnętnega pojazdu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) przyrząd do pomiaru zawartości tlenku węgla (CO) w spalinach pojazdu z silnikiem o zapłonie iskrowym,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) przyrząd do pomiaru poziomu dymienia pojazdu z silnikiem o zapłonie samoczynnym, —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) analizator spalin,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) przyrząd do pomiaru prędkości obrotowej silnika,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) odpowiedni zestaw narzędzi monterskich.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Przyrządy i urządzenia, stanowiące wyposażenie stanowiska kontroli, powinny być zaopatrzone w odpowiednie instrukcje obsługi. Stanowisko kontroli powinno być wyposażone w. dane dotyczące kryteriów oceny badanych zespołów lub układów, ustalone na podstawie obowiązujących przepisów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 55.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Pracownicy jednostki, którzy dokonują badań technicznych pojazdów (§ 53 ust. 2 pkt 2), powinni posiadać co najmniej następujące kwalifikacje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) wyższe wykształcenie techniczne o specjalności sa-_ mochodowej i 1 rok praktyki w stacji obsługi pojazdów lub w zakładzie (warsztacie) naprawy pojazdów, albo i i średnie wykształcenie techniczne o specjalności sa- 2) mochodowej i 3 lata praktyki, w tym Z lata w stacji obsługi pojazdów lub w zakładzie (warsztacie) naprawy pojazdów, albo L",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) uprawnienia montera i ukończoną co najmniej szkołę podstawową oraz co najmniej 10 lat praktyki w stacji obsługi pojazdów lub w zakładzie (warsztacie) \"naprawy pojazdów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Praktyka, o której mowa w ust. 1 pkt 1 i 2, powinna być dwukrotnie dłuższa, jeżeli posiadane wykształcenie techniczne należy do innej specjalności niż samochodowa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Poza kwalifikacjami, o których mowa w ust. 1 i 2, pracownicy, którzy dokonują badań technicznych pojazdów, powinni posiadać zaświadczenie z ukończenia z wynikiem dodatnim przeszkolenia w zakresie przeprowadzania badań technicznych pojazdów, odbytego w uprawnionych przez Ministra Komunikacji jednóstkach i według programu zatwierdzonego przez Ministra Komunikacji.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dziennik Ustaw. Nr 70",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4 56. 1. Jeżeli jednostka spełnia wymagania określone w § 53, może ona po zaopiniowaniu przez naczelnika “gminy właściwego ze względu: na siedzibę jednostki wystąpić do wojewody z wnioskiem o udzielenie jej upoważnienia do dokonywania badań technicznych pojazdów. Wzór wniosku określają odrębne przepisy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wojewoda, po rozpatrzeniu wniosku i stwierdzeniu, że jednostka spełnia wymagane warunki, wydaje upoważnienie do dokonywenia badań technicznych, określając w nim:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) pojazdy, których badanie może być pizeprowadzane w danej jednostce.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) imiennie pracowników wyznaczonych do dokonywania badań technicznych pojazdów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Badań technicznych mogą dokonywać wyłącznie pracownicy jednostki wyznaczeni w upoważnieniu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 57.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W razie stwierdzenia, że jednostka przeprowadzająca badania techniczne przestała spełniać” wymagane warunki albo nie przestrzega warunków upoważnienia, wojewoda może:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zażądać w wyznaczonym terminie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) usunięcia stwierdzonych niedociągnięć,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) zmiany pracowników wyznaczonych do dokonywania badań technicznych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) cofnąć upoważnienie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Kontrolę w zakresie przestrzegania przez jednostkę warunków, o których mowa w ust. 1, wojewoda przeprowadza co najmniej raz na pół roku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 7",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przepisy przejściowe i końcowe.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 58.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Dopuszcza się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) rejestrowane po raz pierwszy przed dniem 1 stycznia 1986 r. pochodzące z importu samochody ciężarowe, ciągniki siodłowe i balastowe o szerokości nie przekraczającej 2.7 m, a nie spełniające wymagań § 2 ust. 2, pod warunkiem:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) oznakowania pojazdu (zespołu. pojazdów) z przodu i z tyłu znakiem „= 2,7 +\" widocznym w dzień z odległości co najmniej 50 m przy dobrej przejrzystości powietrza,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) wyposażenia pojazdu w światła obrysowe (8 11 , ust. 1 pkt 15),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) rejestrowane po raz pierwszy przed dniem wejścia w życie rozporządzenia:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) pojazdy wyposażone w kierunkowskazy barwy białej świecące do przodu i barwy czerwonej świecące do byłu, nie spełniające wymagań § 2 lp. 3a kol. 7 i lp. 3b kol. 7 załącznika nr 2 do rozporządzenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) pojazdy organów i jednostek organizacyjnych podległych Ministrowi Spraw Wewnętrznych, z wyjątkiem przedsiębiorstw, oznakowane pasem wyróżniającym barwy niebieskiej oraz napisami barwy niebieskiej, nie spełniające wymagań § 30 ust. 1. 2 Wydane przed dniem wejścia w życie rozporządzenia: „1) zaświadczenia dopuszczalności typu pojazdu i decyzje uznające za zbędne uzyskiwanie takiego zaświadczę- \"nią zachowują ważność w okresie, ha który zostały wydane,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) upoważnienia do dokonywania badań technicznych",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Poz. 31?",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Shy Bł 98a 1 „dk gar” j pojazdów zachowują ważność do nite 30: czerwca 1984 r. pos cią Mt EE ge 0 Że 4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 59.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rozporządzenie. wchodzi w życie! z „dniem 1 stycznia 1984 r., z tym zastrzeżeniem że: 4",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) § 7 ust. 3 stosuje się do. pojazdów rejestrowanych po raz pierwszy po dniu 1 stycznia 1966. r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) § 8 ust. 1 pkt 1 w zakresie, wyposażenia w urządzenie zapewniające ogrzewanie wnętrza nie. stosuje się do pojazdów rejestrowanych po raz pierwszy przed dniem wejścia w życie rozporządzenia, z wy jatkien, autobusów, oraz do motocykli,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) § 8 ust. 2 stosuje się do pojazdów rejestrowanych po raz pierwszy po dniu 4 stycznia, 1973 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) § 8 ust. 4 pkt 3 stosuje się do pojazdów rejestrowanych po raz pierwszy po dniu 1 stycznia 1969 r.,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) § 9 ust. 1 pkt 1—3 stosuje się od dnia 1 lipca 1986 r.,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) § 9 ust. 1 pkt 6 lit. a) i c), pkt 7 lit. b) oraz ust. 3 stosuje się do pojazdów rejestrowanych po raz pierwszy po dniu 1 stycznia 1985 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) § 10 ust. 1 pkt 2 w zakresie wyposażenia w urządzenia do zmywania przedniej szyby stosuje się do samochodów osobowych rejestrowanych po raz pierwszy po dniu 1:lipca 1971 r., a do pozostałych pojazdów samochodowych, z wyjątkiem piatocykii — po dniu 1 lipca 1972 r.,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) § 10 ust. I pkt 4 lit. a) stosuje się od dnia:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) 1 stycznia 1985 r. — do samochodów osobowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) 1 stycznia 1986 r. — do motocykli; i przepisy lit. a) i b) nie dotyczą pojazdów kierowanych przez osoby głuchonieme lub głuche,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) § 10 ust. 1 pkt 4 lit. b) stosuje się do samochodów. „osobowych od dnia 1 stycznia 1985 r.,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) § 10 ust. 1.pkt 5 lit. a) i b) stosuje się od dnia 1 pes 1986 r.,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) § 10 ust. 1 pkt 6 lit. a) stosuje się do pojazdów rejestrowanych po raz pierwszy po dniu 1 lipca 1971, r., i",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) § 10 ust. I pkt 6 lit. b) stosuje się do pojazdów rejestrowanych po raz pierwszy pó dniu 1 stycznia 1985 r. 13)-§ 10 ust. 1 pkt 7 stosuje się da rejestrowanych po raz pierwszy: -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) po dniu 1 lipca 1971 r. samochodów osobowych z silnikiem o pojemności skokowej powyżej 1400 cm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) po dniu 1 stycznia 1972 r. samochodów osobowych z silnikiem o pojemności skokowej od 1000: cm* do 1400 cm,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) po dniu 1 lipca 1972 r. pozostałych samochodów: osobowych, =",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14) § 40 ust. 1 pkt 11 stosuje się do samochodów ciężarowych o dopuszczalnej masie całkowitej przekraczającej 3,5 t i do autobusów, a do pozostałych pojazdów — od dnia 1 stycznia 1986 r.,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15) § 10 ust. 1 pkt 12 stosuje się od dnia 1 stycznia 1985 r.; nie dotyczy to samochodów ciężarowych przewożących osoby (§ 39),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16) § 10 ust. 1 pkt 14 stosuje się do pojazdów rejestrowanych po raz pierwszy po dniu wejścia w życia rozporządzenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17) § 10 ust. 3 \"stosuje się do pojazdów rejestrowanych po raz pierwszy po dniu 1 stycznia 1986 r.,.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18) § 11 ust. 1 pkt 3 nie stosuje się do motocykli jednośladowych rejestrowanych po raz pierwszy przed dniem 1 stycznia 1986 r.. i",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "19) § 11 ust. 1 pkt 6 w odniesieniu do -przyczep stosuje ' się od dnia 1 stycznia 1985 r.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "25)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "20) § 11 ust. 1 pkt 1 stosuje się od dnia 1 stycznia +*1985 ry eR ob Se Bit",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "21) § 11 ust. 1 pkt 12—15 sinning się a pojazdów reje- 26) _. Strowanych po raz pierwszy po.dniu 1 stycznia 1986 r, 27)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22) § 13 ust. 7 stosuje, się również do przyczep o do- - 28) puszczalnej masie całkowitej nie przekraczającej 5 t, rejestrowanych po raż pierwszy przed dniem 1 stycz- „ mia 1968 r., ; 29)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "23) § 14 ust. 2 pkt 2 stosuje się do rejestrowanych po raz 30) , pierwszy: 31)",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) po dniu 1 stycznia 1970 .r. — autobusów o dopusz- , czalnej masie całkowitej przekraczającej 5 t i samochodów ciężarowych o dopuszczalnej i. masie całkowitej przekraczającej 12 t,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 17 ust. 1 pkt 2 stosuje się do autobusów rejestrowanych po raz pierwszy po dniu 1 stycznia 1966 r., § 22 pkt 8 lit. d) stosuje się od dnia 1 lipca 1985 r.,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 40 ust. 1 pkt 2 stosuje się od dnia 1 lipca 1986 r., § 42 pkt 1 lit. c) stosuje się do pojazdów rejestrowanych po raz pierwszy przed dniem stycznia 1987 r., § 47 ust. 4 pkt 4 stosuje się od dnia 1 stycznia 1986 r.,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 54 ust. 2 pkt 6—8 stosuje się od dnia 1 lipca 1986 r.,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 2 lp. 2 kol. 16 załącznika nr 2 do rozporządzenia stosuje się do pojazdów rejestrowanych po raz pierwszy po dniu 1 lipca 1976 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Pojazdy, do. których na podstawie ust. 1 nie jest",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) po dniu wejścia w życie rozporządzenia — pozo- \"wymagane stosowanie wymienionych w nim przepisów, stałych pojazdów, mogą jednak odpowiadać tym przepisom.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "24) § 14 ust. 2 pkt 6 stosuje się do pojazdów rejestrowanych po raz pierwszy po dniu 1 stycznia 1986 r.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Komunikacji: J. Kamiński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik nr 1 do rozporządzenia Ministra Komunikacji z dnia 8 grudnia 1983 r. (poz. 317)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ ODCINKÓW DRÓG OZNACZONYCH ZNAKAMI SZLAKÓW DROGOWYCH Z NUMERAMI NA KTÓRYCH DOPUSZCZA SIĘ TRZYCYFROWYMI,"
+    },
+    {
+     "type": "text",
+     "text": "RUCH POJAZDÓW O NACISKU OSI NIE PRZEKRACZAJĄCYM 100 kN (10 T)"
+    },
+    {
+     "type": "text",
+     "text": "Nazwa drogi"
+    },
+    {
+     "type": "text",
+     "text": "3 7"
+    },
+    {
+     "type": "text",
+     "text": "1 107 (Warszawa) Zakroczym— W yszogród—Płock"
+    },
+    {
+     "type": "text",
+     "text": "Uwagi"
+    },
+    {
+     "type": "text",
+     "text": "2 108 Łódź —Źgierz Piątek Kutno —Gostynin—Łąck—Płock—Bielsk—Drofin 3 109 (Płock) plate MME ERC ERĄ (Olsztyn)"
+    },
+    {
+     "type": "text",
+     "text": "4 121 Warszawa—Piaseczno—Góra WASTE onie i Ożarów—Sandomierz z wyłączeniem odcinka Łódź— Kutno"
+    },
+    {
+     "type": "text",
+     "text": "z wyłączeniem odcinka Bielsk— * Sierpc / ZmolcE \"NRA\" 5 125 Kielce—Ruda Maleniecka—Żarnów—Sulejów (Piotrków Trybunalski) = 6, 126 Kielce—Łagów—Opatów—Wyszmontów—Ożarów—Annopol--Kraśnik (Lublin) 1 128 Kielce—Chmielnik—Busko-Zdrój—Stopnica—Szczucin— Dąbrowa Tarnowska— i Tarnów t & . 144 Kalisz—Rychwał—Konin—Ślesin—Strzelno (Inowrocław) 9 155° Poznań—Oborniki—Chodzież—Ujście—Piła— Jastrowie"
+    },
+    {
+     "type": "text",
+     "text": "="
+    },
+    {
+     "type": "text",
+     "text": ")"
+    },
+    {
+     "type": "text",
+     "text": "10 160 Bydgoszcz—Koronowo--Sępólno Krajeńskie—Człuchów (Koszalin) 11 162 Bydgoszcz—Złotniki Kujawskie— Inowrocław 12 165 (Poznań) Gniezno—Strzelno—Inowrocław—Toruń is 167 Wilocltawek—Lipno 14 170 Toruti—Brodnica—Nowe Miasto Taka wki Lubawa\" OaródeOlestya 15 172 Grudziądz—Łasin—lława—Ostróda (Olsztyn) —"
+    },
+    {
+     "type": "text",
+     "text": "2 wyłączeniem odcinka Łasin— Rawa 16 , 173 ; (Toruń) Stolno—Grudziądz—Kwidzyn—Sztum—Malbork—Nowy Dwór Gdański"
+    },
+    {
+     "type": "text",
+     "text": "1"
+    },
+    {
+     "type": "text",
+     "text": "% wyłączeniem odcinka Grudziądz Sztum 11 ; 182 j Olsztyn—Biskupiec—Mrągowo—Mikołajki—Orzysz—Ełk— Kalinowo—Augustów— Lipsk— granica państwa"
+    },
+    {
+     "type": "text",
+     "text": "Z wyłączeniem odcinków Mrągowo— Ełk i Augustów—granica państwa z wyłączeniem odcinka Szelków— \"18 p 183 (Warszawa) Szelków—Maków Mazowiecki—Przasnysz—Chorzele—Szczytno— _ Aj Biskupiec 19 190 Białystok—Mońki—Grajewo—Ełk"
+    },
+    {
+     "type": "text",
+     "text": "Chorzele"
+    },
+    {
+     "type": "text",
+     "text": "20 192 Białystok—Zabłudów— Bielsk Podlaski—Siemiaty cze—Łosice—Międzyrzec Podlaski— Radzyń Podlaski (Lublin) z wyłączeniem odcinków Trześń—"
+    },
+    {
+     "type": "text",
+     "text": "21 201 (Sandomierz) Trześń—Stałowa Wola—Nisko—Leżajsk— Jarosław ; Stalowa Wola i Tryńcza—- Jarosław 22 205 Rzeszów—Domaradz—Brzozów—Sanok— Lesko— Ustrzyki Dolne—Krościenko— granica państwa 23 208 Nowy. Sgcz—Gorlice— ] aslo—Krosno—Sanok"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "24 210 Sandomierz—T: arno brzeg—M isGshia : „| : 25 17 212 ‘Braesko—Tymown —J urków—Czchów—Nowy dęta Krysiica=M u szyna—Leluchów— \"a wyłączeniem odcinka Muszyna— granica państwa granica państwa 26 „ „813 Nowy Sącz—Limanowa— Mszana Dolna— Rabka (Chabówka) : > 27 214 Mszana Dolna— Lubień 28 217 Kraków — Brzesko Nowe—Koszyce—Nowy Korczyn—Pacanów—Osiek—Sandomierz— z wyłączeniem odcinka F Annopo: 29 219 Olkusz— Wolbrom—Miechów"
+    },
+    {
+     "type": "text",
+     "text": "Sandomierz—Annopol : 30 221 (Katowice) Tychy—Bieruń Gray deda\" Wiadlewios Sicha) Shonileins Biala—Rabka (Nowy S4cz) i 31 223 Bielsko-Biala —Żywiec—Las—Sucha (Zakopane) 32 226 Podwarpie— Dąbrowa Górnicza—Mysłowice—Tychy—Pszczyna— Bielsko-Biała 33 221 Katowice—Tychy 34 229 (Kraków) Chrzanów—Ośw ięcim—Brzeszcze— Pszczyna—Żory—Rybnik— Racibórz 35 230 Gliwice—Rybnik— Wodzisław Śląski—Chałipki—granica państwa 36 234 (Katowice) Siewierz—Zawiercie—Szczekociny—N aglowice— Jędrzejów, (Kielce) \" 37 236 Częstochowa—Kłobuck—Krzepice— Wieluń— Walichnowy (Kępno) 38 242 Opole—Krapkowice—Koźle—Racibórz— Krzyżanowice—Chałupki 39 245 Gliwice— Koźle— Prudnik—Nysa—Paczków—Kłodzko 40 254 Ę Świebodzice— W ałbrzych—Nowa Ruda—Kłodzko - NE 41, -285 (Pila) W ałcz— Czaplinek — Połczyn-Zdrój —Białogard—Kołobrzeg > ; 42 \"294 (Grudziądz) Warłubie—Skórcz—Zblewo— Kościerzy na—Bytéw—Suchorze—Shupsk— z wyłączeniem odcinka Warlubie— Ustka 43 295 Gdynia —Żukowo— Kościerzyna—Korne—Chojnice 44 298 (Gdynia) Reda—Puck— Władysławowo 45 310 Łoniów—Nagnajów"
+    },
+    {
+     "type": "text",
+     "text": "&"
+    },
+    {
+     "type": "text",
+     "text": "Zblewo"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2 do rozporządzenia Ministra Komunikacji z dnia 8 grudnia 1983 r. (poz. 317)",
+   "body": [
+    {
+     "type": "text",
+     "text": "WARUNKI SZCZEGÓŁOWE DOTYCZĄCE ŚWIATEŁ ZEWNĘTRZNYCH POJAZDÓW SAMOCHODOWYCH I PRZYCZEP a"
+    },
+    {
+     "type": "text",
+     "text": "Dwa' lub więcej świateł, takich samych lub 81 1 różnych, lecz o jednakowym przeznaczeniu i jednakowej barwy, uważa się za jedno światło, jeżeli rzut ich powierzchni świetlnych na płaszczyznę poprzeczną zajmuje co najmniej 60%u powierzchni najmniejszego prostokąta opisanego na rzutach tych powierzchni świetlnych oraz pod warunkiem, że światła te zostały homologowane jako jedno światło; nie dotyczy to świateł drogowych, świateł mijania i świateł przeciwmgłowych przedńich."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Ilekroć w niniejszych przepisach jest mowa o odległości rozmieszczenia świateł, należy rozumieć, że:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_2/pkt_1",
+       "text": "największą wysokość mierzy się od płaszczyzny jezdni do najwyższego punktu powierzchni świetlnej przy pojeździe nie obciążonym, :",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "najmniejszą wysokość mierzy się od płaszczyzny jezdni do najniższego punktu powierzchni * świetlnej przy pojeździe nie obciążonym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "odległość od bocznego obrysu pojazdu. mierzy się do najbardziej odległego od podłużnej płaszczyzny symetrii pojazdu punktu powierzchni świetlnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "odległość od przedniego lub tylnego obrysu pojazdu mierzy się do najbardziej wysuniętego odpowiednio do przodu lub do tyłu punktu powierzchni świetlnej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "odległość między dwoma światłami skierowanymi w tę samą. stronę mierzy się między najbliższymi punktami rzutów ich powierzchni świetlnych na: płaszczyznę prostopadłą do osi tych świateł.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Powierzchnia świetlna oznacza dla świateł .widoczną powierzchnię wysyłającą światło, a dla świateł odblaskowych — widoczną powierzchnię odbijającą światło.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Boczny obrys pojazdu oznacza płaszczyznę równo- - legła do podłużnej płaszczyzny symetrii pojazdu, przechodzącą przez najdalej wysunięty punkt na zewnątrz pojazdu, z wyjątkiem lusterek, świateł bocznych i elementów elastycznych (§ 2 ust. 2 rozporządzenia).",
+     "children": [
+      {
+       "type": "text",
+       "text": "$. Przedni lub tylny obrys pojazdu oznacza pionową płaszczyznę prostopadłą do podłużnej płaszczyzny sy- , metrii pojazdu, przechodzącą przez najdalej wysunięty odpowiednio do przodu lub do tyłu punkt pojazdu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Przewidziane w § 2 kol. 12 i 13: 5",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_6/pkt_1",
+       "text": "kontrolny sygnał włączenia wskazujący, że urządzenie zostało włączone, ale nie wskazujący, czy działa ono normalnie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_6/pkt_2",
+       "text": "kontrolny sygnał działania wskazujący, że urządzenie zostało włączone i działa normalnie. jeżeli są to sygnały świetlne, powinny być umieszczone w miejscu zapewniającym kierowcy dobrą. ich widoczność i nie powinny utrudniać obserwacji drogi; kontrolny. sygnał włączenia może być zastąpiony kontrolnym sygna- - łem działania; jeżeli umieszczenie kontrolnego sygnału włączenia jest zabronione, nie. oznacza to, że zabronione.: jest umieszczenie kontrolnego syghaki działania.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "par_2",
+     "text": "Światła powinny odpowiadać warunkom poz. w „poniższej tabeli: .",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

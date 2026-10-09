@@ -1,0 +1,298 @@
+{
+ "eli": "DU/1988/269",
+ "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 20 września 1988 r. w sprawie szczegółowych zasad i trybu ustalania urzędowego spisu leków oraz innych wykazów środków farmaceutycznych i artykułów sanitarnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1988/269/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA I OPIEKI SPOŁECZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 września 1988 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie szczegółowych zasad i trybu ustalania urzędowego Spisu lekéw oraz innych wykazów Środków farmaceutycznych i artykułów sanitarnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 28 ust. 4 ustawy z dnia 28 stycznia 1987 r. o środkach farmaceutycznych, artykułach sanitarnych i aptekach (Dz. U. Nr 3, poz. 19) oraz w związku z uchwałą Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 19 września 1988 r. w sprawie powierzenia Rządowi pełnienia obowiązków (Monitor Polski Nr 26, poz. 228) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Środki farmaceutyczne i artykuły sanitarne dopuszczone do obrotu zamieszcza się w:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "urzędowym spisie leków, obejmującym środki i artykuły produkowane w kraju oraz objęte importem planowym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wykazie środków farmaceutycznych i artykułów sanitarnych produkowanych za granicą, nie objętych importem planowym,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "wykazie środków farmaceutycznych i artykułów sanitarnych, służących do pielęgnowania zdrowia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W urzędowym spisie leków i wykazach wi „mienionych w § 1 pkt 2 i 3 wpisuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "nazwę surowca, leku lub artykułu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "postać i dawkę,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "rodzaj i wielkość opakowania, 7",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "oznaczenia informujące o:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_4/lit_a",
+         "text": "sposobie wydawania z aptek,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_4/lit_b",
+         "text": "leku bardzo silnie działającym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_4/lit_c",
+         "text": "leku silnie działającym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_4/lit_d",
+         "text": "leku działającym na sprawność psychofizyczną osób prowadzących pojazdy mechaniczne.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Nazwy, o których mowa w ust. 1 pkt 1, wpisuje się stosując nazwy międzynarodowe w języku łacińskim, ustalone przez Światową Organizację Zdrowia, oraz nazwy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "w odniesieniu do środków farmaceutycznych i artykułów sanitarnych produkowanych w kraju — zgodnie z nazwami przyjętymi w zezwoleniu na produkcję,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "w odniesieniu do środków farmaceutycznych i artykułów sanitarnych produkowanych za granicą — zgodnie z nazwami przyjętymi w certyfikacie rejestracyjnym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Oznaczenia, o których niowa w ust. 1 pkt 4, wpisuje się przy poszczególnych pozycjach, a ich objaśnienie zamieszcza się na koficu urzędowego spisu leków i wykazów wymienionych w § 1 pkt 2 i 3.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Urzędowy spis leków dzieli się na części §3. 1. zawierające:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "surowce farmaceutyczne przeznaczone do sporządzania leków w aptece.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "łęki gotowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_3/pkt_3",
+       "text": "preparaty diagnostyczne,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_3/pkt_4",
+       "text": "surowice i szczepionki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_3/pkt_5",
+       "text": "artykuły sanitarne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Środki farmaceutyczne i artykuły sanitarne objęte urzędowym spisem leków umieszcza się w poszczególnych częściach, wymienionych w ust. 1 w porządku alfabetycznym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Urzędowy spis leków i wykazy, o których mowa w § 1 pkt 2 i 3, sporządza się na podstawie rejestru środków farmaceutycznych iub artykułów sanitarnych, a jeżeli środek lub artykuł nie jest wpisany do rejestfu — na podstawie Farmakopei Polskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Zamieszczenie środka farmaceutycznego lub artykułu sanitarnego w urzędowym spisie leków lub w jednym z wykazów następuje po zasięgnięciu opinii odpowiedniego krajowego nadzoru specjalistycznego z poszczególnych dziedzin medycyny i krajowego nadzoru specjalistycznego z dziedziny farmacji, a także w razie potrzeby — innych specjalistów z dziedziny nauk medycznych i wybitnych praktyków.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Urzędowy spis leków i wykazy, o których mowa w § 1 pkt 2 i 3, publikuje się w formie obwieszczenia w Dzienniku Urzędowym Ministerstwa Zdrowia i Opieki Społecznej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "*§ 6. Urzędowy spis leków i wykazy, o których mowa w § 1 pkt 2 i 3, podlegają okresowej weryfikacji, uwzględniającej zmiany w rejestrze środków farmaceutycznych ' i artykułów sanitarnych."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "p.o."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia i Opieki Społecznej: J. Komender"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "UWAGA P. T. PRENUMERATORZY DZIENNIKA USTAW I MONITORA POLSKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "Wydział Administracji Wydawnictw Urzędu Rady Ministrów uprzejmie informuje, że rozpoczął przyjmowanie przedpłat na prenumeratę na rok 1989. W celu dokonania wpłaty na prenumeratę: Dziennika Ustaw Polskiej Rzeczypospolitej Ludowej,"
+  },
+  {
+   "type": "text",
+   "text": "Załącznika do Dziennika Ustaw Polskiej Rzeczypospolitej Ludowej, Monitora Polskiego — Dziennika Urzędowego Polskiej Rzeczypospolitej Ludowej — odbiorcy indywidualni otrzymają blankiety przekazów, — instytucje i urzędy otrzymają druki „wpłata-zamówienie” (polecenie przelewu rozszerzone o część dotyczącą zamówienia) wraz z informacją o sposobie wypełnienia. Nowi prenumeratorzy otrzymują blankiety i druki po zgłoszeniu zapotrzebowania pisemnie lub telefonicznie do Wydziału Administracji Wydawnictw Urzędu Rady Ministrów. Cena prenumeraty 1 egzemplarza wynosi rocznie: Dziennika Ustaw zł 3200,—"
+  },
+  {
+   "type": "text",
+   "text": "Załącznika do Dziennika Ustaw zł 700,— Monitora Polskiego s zł 2000,—- Dokonanie wpłaty na prenumeratę do dnia 31 października 1988 r. i prawidłowe wypełnienie blankietów przekazów i „wpłat-zamówień” zapewni terminowe rozpoczęcie wysyłki. W. razie przekroczenia terminu; zamówienie będzie realizowane z opóźnieniem i spowoduje . dodatkowe koszty związane z wysyłką zaległych egzemplarzy. Zamawiający prenumeratę Dziennika Ustaw i Monitora Polskiego dla podległych jednostek proszeni są o przesłanie przy „wpłacie-zamówieniu” rozdzielników zawierających nazwę odbiorcy (instytucji lub urzędu) i pełny adres. z numerem kodu pocztowego. O wszelkich zmianach nazwy prenumeratora lub adresu prosimy \" informować Wydział Administracji Wydawnictw Urzędu Rady Ministrów."
+  },
+  {
+   "type": "text",
+   "text": "UWAGA:"
+  },
+  {
+   "type": "text",
+   "text": "Prenumeratę Załącznika do Dziennika Ustaw, w którym publikowane są m.in. obszerniejsze akty prawne z dziedziny stosunków międzynarodowych, proponujemy tym odbiorcom, którym jest on niezbędny w pracy. Wszelkich informacji o prenumeracie udziela Wydział Administracji Wydawnictw Urzędu Rady Ministrów, ul. Powsińska 69/71, 00-979 Warszawa, skr. poczt. 81, tel. 42-14-78 lub 694-67-50."
+  },
+  {
+   "type": "text",
+   "text": "WYDZIAŁ ADMINISTRACJI WYDAWNICTW URZĘDU RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Zakład nr- 1, Warszawa, ;ul. Tamka 3."
+  },
+  {
+   "type": "text",
+   "text": "Zam. 0422-1300-88. A"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

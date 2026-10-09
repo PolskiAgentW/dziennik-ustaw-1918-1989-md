@@ -1,0 +1,951 @@
+{
+ "eli": "DU/1983/157",
+ "title": "Rozporządzenie Rady Ministrów z dnia 6 czerwca 1983 r. w sprawie zasad obliczania zasiłków z ubezpieczenia społecznego oraz pokrywania wydatków na te zasiłki.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/157/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 czerwca 1983 r."
+  },
+  {
+   "type": "text",
+   "text": "4"
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad obliczania zasiłków z ubezpieczenia społecznego oraz pokrywania wydatków na te zasiłki."
+  },
+  {
+   "type": "text",
+   "text": "Na „podstawie art. 11 ust. 7, art, 13, art. 34 ust. 3 i art. 59 ustawy z dnia 17 grudnia 1974 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 1983 r. Nr 30, poz. 143) oraz art. 298 Kodeksu pracy (Dz. U. z 1974 r. Nr 24, poz. 141, z 1975 r. Nr 16, poz. 91, z 1981 r. Nr 6, poz. 23 i z 1982 r..Nr 31, poz. 214) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Podstawę wymiaru zasiłku chorobowego stanowi, z uwzględnieniem § 3—5, przeciętne miesięczne wynagrodzenie wypłacone pracownikowi za okres:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "3 miesięcy kalendarzowych poprzedzających miesiąc, w którym powstało prawo. do zasiłku, albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "12 miesięcy kalendarzowych poprżedzających miesiąc, w którym powstało prawo do zasiłku, gdy wynagrodzenie ulega znacznemu wahaniu ze względu na charakter pracy lub zasady wynagradzania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Za wynagrodzenie ulegające znacznemu wahaniu ze względu na charakter pracy lub zasady wynagradzania w rozumieniu § 1 pkt 2 uważa się wynagrodzenie osiągane przez pracowników zatrudnionych: ' 1) w charakterze rybaków w państwowych przedsiębiorstwach rybołówstwa morskiego i śródlądowego albo jako członkowie spółdzielni pracy rybołówstwa morskiego i śródlądowego, a także w charakterze ryba-. ków zatrudnionych w Polskim Związku Wędkarskim,",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "na statkach żeglugi przybrzeżnej- oraz na kutrach indywidualnego rybołówstwa morskiego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "w charakterze personelu pływającego żeglugi śródlądowej oraz personelu latającego i pokładowego Polskich Linii Lotniczych „LOT”,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "w kółkach rolniczych i spółdzielniach kółek rolni- * czych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "w państwowych przedsiębiorstwach gospodarki rolnej wynagradzanych według systemu godzinowego lub akordowego.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "w charakterze akwizytorów przedsiębiorstwa państwowego „Powszechna Agencja Handlowa\",",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_1/pkt_7",
+       "text": "w charakterze komorników sądowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_1/pkt_8",
+       "text": "w charakterze pośredników ubezpieczeniowych Państwowego Zakładu Ubezpieczeń,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_1/pkt_9",
+       "text": "w charakterze dziennikarzy wynagradzanych według układu zbiorowego pracy dziennikarzy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_2/ust_1/pkt_10",
+       "text": "w charakterze realizatorów programów radiowych i telewizyjnych lub w charakterze pracowników artystycznych oraz organizatorów i realizatorów imprez artystycznych, wynagradzanych według układu zbiorowego pracy dla pracowników radia i telewizji lub układu zbiorowego pracy dla pracowników instytucji artystycznych, ,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_2/ust_1/pkt_11",
+       "text": "w biurach i pracowniack projektowych, w przedsiębiorstwach geodezyjno-kartograficznych oraz w wojewódzkich biurach geodezji i terenów rolnych, jeżeli przeciętne ich wynagrodzenie za czas urlopu ustala się z okresu dłuższego niż 3 miesiące.",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_2/ust_1/pkt_12",
+       "text": "w Przedsiębiorstwie Wagonów Syptainych i Restauracji , Wars\", 'wynagradzanych w systemie prowizyjnym i czasowo-prowizyjnym, obsługujących: © .a) wagony sypialne i z miejscami do leżenia,",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_12/lit_b",
+         "text": "bary i bufety wagonowe oraz wagony restauracyjne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_12/lit_c",
+         "text": "gastronomiczne bary i buiety oraz restauracje dworcowe. i",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Minister Pracy, Płac i Spraw Socjalnych na wniosek właściwego ministra (kierownika urzędu centralnego) może wyrazić zgodę na ustalanie podstawy wymiaru zasiłków z okresu dłuższego niż 3 mięsiące dla innych grup pracowników, poza wymienionymi w ust. 1, jeżeli wynagrodzenie tych grup pracowników ulega znacznemu wahaniu ze względu na charakter pracy lub zasady wynagradzania, z =e",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Jeżeli prawo do zasiłku chorobowego powstało przed upływem okresów, o których mowa w $ J, do podstawy wymiaru zasiłku przyjmuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "przeciętne miesięczne wynagrodzenie za pełne kalendarzowe miesiące zatrudnienia albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "wynagrodzenie, Które by pracownik osiągnął, gdyby pracował pełny miesiąc kalendarzowy, jeżeli niezdolność do pracy powstała przed upływem pierwszego kalendarzowego miesiąca zatrudnienia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W wypadkach, o których mowa w ust. I pkt 2, do podstawy wymiaru zasiłku chorobowego przyjmuje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "wynagrodzenie miesięczne określone w umowie o pracę lub w innym akcię nawiązującym stosunek pracy, jeżeli wynagrodzenie przysługuje w stałej miesięcznej wysokości, albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "wynagrodzenie miesięczne obliczone przez podzielenie wynagrodzenia osiągniętego za przepracowane dni robocze przez liczbę dni przepracowanych i pomnożone przez liczbę dni, które pracownik był obowiązany przepracować w tym miesiącu. ‘",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Przeciętne miesięczne wynagrodzenie stanowiące podstawę wymiaru zasiłku chorobowego ustala się przez podzielenie wynagrodzeń osiągniętych przez pracownika w okresie 3 lub 12 miesięcy zatrudnienia przez liczbę miesięcy, w których pracownik wynagrodzenia te osiągnął. j ‘",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Jeżeli w okresie, o którym mowa w ust. 1, pracownik nie osiągnął w niektórych miesiącach pełnego wynagrodzenia wobec nieprzepracowania części miesiąca z przyczyn usprawiedliwionych w myśl przepisów o porządku i dyscyplinie pracy, przy ustalaniu podstawy wymiaru zasiłku chorobowego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "wyłącza się wynagrodzenie za miesiące, w których pracownik przepracował mniej niż 50% obowiązującego go w danym miesiącu czasu pracy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "przyjmuje się — po uzupełnieniu w myśl § 3 ust. 1 pkt 2 — wynagrodzenie z miesięcy, w których. pracownik przepracował co najmniej 50% obowiązującego go w danym miesiącu czasu pracy; przepis § 3 ust. 2 pkt 1 stosuje się odpowiednio.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Jeżeli w okresie, o którym mowa w ust. I, pracownik w każdym miesiącu przepracował mniej niż 50*/o obowiązującego go czasu pracy z przyczyn usprawiedliwionych w myśl przepisów o porządku i dyscyplinie pracy, przy ustalaniu podstawy wymiaru zasiłku: chorobowego stosuje się odpowiednio przepisy § 3 ust. 2. 55 1 Jeżeli w okresie, z którego wynagrodzenie przyjmuje się do ustalenia podstawy wymiaru zasiłku chorobowego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_3/pkt_1",
+       "text": "nastąpiła zmiana wysokości wynagrodzenia w wyniku zmiany stanowiska pracy lub zmiany warunków wynagradzania ustalonych w umowie o pracę lub w innym akcie nawiązującym stosunek pracy — podstawę. wymiaru zasiłku stanowi przeciętne miesięczne wynagrodzęnie przysługujące po zmianie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_3/pkt_2",
+       "text": "pracownik zmienił pracę — uwzględnia się tylko wynagrodzenie uzyskane przez niego w zakładzie pracy, w którym powstało prawo do zasiłku. :",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W razie zmiany umowy o pracę lub innego aktu nawiązującego stosunek pracy w tym samym zakładzie pracy, polegającej na zmianie wymiaru czasu pracy, podstawę wymiaru zasiłku chorobowego stanowi wynagrodzenie ustalone dla nowego wymiaru czasu pracy, nawet jeżeli prawo do zasiłku powstało w miesiącu, w którym nastąpiła zmiana wymiaru czasu pracy. .",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 6 1. Za wynagrodzenie uwzględnianę przy ustalaniu podstawy wymiaru zasiłku chorobowego, z.zastrzeżeniem § 7—13, uważa się:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "składniki wynagrodzenia z tytułu wykonywania pracy w ramach stosunku pracy w normalnym, obowiązującym pracownika czasie pracy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "wynagrodzenie pracowników kopalń węgla kamiennego i innych kopalń głębinowych za pracę w dodatkowych dniach wolnych od pracy, obliczone jak za pracę w normalnym czasie pracy, łącznie z dodatkowym wynagrodzeniem przewidzianym w § 2 “ust. 2 i 3 uchwały nr 199 Rady Ministrów z dnia 11 września 1981 r. w sprawie środków zapewniających zwiększenie wydobycia węgla kamiennego oraz innych surowców wydobywanych w kopalniach głębinowych, jednakże bez dodatku w wysokości 100%/o wynagrodzenia wynikającego z kategorii osobistego zaszeregowania,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_2/pkt_3",
+       "text": "wynagrodzenie pracowników innych niż wymienionych w pkt 2 za pracę w dodatkowych dniach wolnych od pracy, obliczone jak za pracę w normalnym czasie pracy, bez przysługującego za tę pracę 1000%/ dodatku za pracę w godzinach nadliczbowych, a także bez innych dodatków z tego tytułu, przewidzianych w układach zbiorowych pracy lub w innych przepisach o wynagradzaniu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Nie uważa się za wynagrodzenie w rozumieniu ust. 1 świadczeń w naturze lub ekwiwalentu za te świąd-",
+     "children": [
+      {
+       "type": "text",
+       "text": "czenia."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Przy ustalaniu podstawy wymiaru zasiłku chorobowego przysługującego z tytułu zatrudnienia w uspołecznionych zakładach pracy uwzględnia się wszystkie składniki wynagrodzenia, z wyjątkiem składników wymienianych w załączniku do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przy ustalaniu podstawy wymiaru zasiłku chorobowego przysługującego z tytułu zatrudnienia w zakładach pracy nie będących zakładami uspołecznionymi lub u osób fizycznych uwzględnia się wynagrodzenie, od którego ustalono składki na ubezpieczenie społeczne, a w razie ustalenia składki od wynagrodzenia za niepełny miesiąc z powodu nieobecności w pracy z przyczyn usprawiedliwionych w myśl przepisów o porządku i dyscyplinie pracy — wynagrodzenie, od którego ustalono by składkę za pełny miesiąc.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Jeżeli podstawę wymiaru składki na ubezpieczenie społeczne stanowi kwota zryczałtowana, przyjmuje się ją również *przy ustalaniu podstawy wymiaru zasiłku chorobowego. KDE: .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Premię miesięczną wlicza się do podstawy wymiaru zasiłku chorobowego w kwocie wypłaconej pracownikowi za miesiąc kalendarzowy, z którego wynagrodzenie przyjmuje się do ustalenia podstawy wymiaru zasiłku chorobowego. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Premię kwartalną wlicza się do przeciętnego miesięcznego wynagrodzenia przyjmowanego do ustalenia podstawy wymiaru zasiłku chorobowego w wysokości części stanowiącej '/s premii, wypłaconej pracownikowi za kwartał poprzedzający miesiąc, w którym powstało prawo do zasiłku chorobowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Przepis ust. 2 stosuje się odpowiednio do premii za okresy dłuższe niż kwartał oraz do innych składników wynagrodzenia wypłacanych za okresy dłuższe niż jeden miesiąc. .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_8/ust_4",
+     "text": "Jeżeli składniki wynagrodzenia, o których mowa w ust. 1—3, nie zostały wypłacone do czasu ostatecznego sporządzenia listy wypłat zasiłków chorobowych, do podstawy wymiaru zasiłku przyjmuje się składniki wypłacone za poprzedni okres.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 9 1. Przy ustalaniu podstawy wymiaru zasiłku chórobowego. nie uwzględnia się składników wynagrodzenia, do których pracownik zachowuje prawo w okresie pobierania zasiłku w myśl postanowień układów zbiorowych pracy lub innych przepisów o wynagradzaniu."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Składników wynagrodzenia, przysługujących w mys! umowy o pracę lub innego aktu nawiązującego stosunek pracy tylko do określonego terminu, nie uwzględnia się':przy ustalaniu podstawy wymiaru zasiłku chorobowego należnego za okres przypadający po tym terminie. E",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Jeżeli w okresie, z którego wynagrodzenie przyjmuje się do ustalenia podstawy wymiaru' zasiłku chorobowego, pracownik pobierał wynagrodzenie w zmniejszonej wysokości w związku z odbywaniem ćwiczeń wojskowych, przy ustalaniu podstawy wymiaru zasiłku chorobowego uwzględnia się wynagrodzenie w pełnej wysokości.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Jeżeli w okresie, z którego wynagrodzenie przyjmuje się do ustalenia podstawy wymiaru zasiłku chorobowego, pracownik pobierał wynagrodzenie w zmniejszo- »",
+   "children": [
+    {
+     "type": "text",
+     "text": "nej wysokości w związku z pobytem w ateszcie tymczasowym, przy ustalaniu podśtawy wymiaru zasiłku chorobowego uwzględnia się wynagrodzenie w pełnej wysokości."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Jeżeli bezpośrednio przed powstaniem prawa do zasiłku chorobowego pracownik: A",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_1/pkt_1",
+       "text": "korzystał z urlopu wychowawczego — do podstawy, wymiaru zasiłku chorobowego przyjmuje się wynagrodzenie osiągnięte przed urlopem wychowawczym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_1/pkt_2",
+       "text": "odbywał rehabilitację, podczas której pobierał zasiłek wyrównawczy — do podstawy wymiaru zasiłku cho-",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Dziennik Ustaw Nr_33 , m"
+        },
+        {
+         "type": "text",
+         "text": "—_ Poz. 157"
+        },
+        {
+         "type": "text",
+         "text": "robowego przyjmuje się wynagrodzenie osiągnięte przed powstaniem prawa do zasiłku wyrównawczego,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_12/ust_1/pkt_3",
+       "text": "odbywał czynną służbę wojskową lub spełniał zastępczo obowiązek tej służby — do podstawy wymiaru zasiłku chorobowego przyjmuje się wynagrodzenie osiągnięte przed powołaniem do służby wojskowej, sam *",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_12/ust_1/pkt_4",
+       "text": "wykonywał zatrudnienie za granicą — do podstawy wymiaru zasiłku chorobowego wypłacanego w kraju przyjmuje się wynagrodzenie osiągnięte w kraju przed wyjazdem za granicę, chyba że przepisy szczególne stanowią inaczej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Podstawę wymiaru zasiłku chorobowego według wynagrodzenia, o którym mowa w ust. 1, ustala się z uwzględnieniem zmian wynikających .z regulacji płac wprowadzonej w zakładzie pracy w okresie niewykonywania przez pracownika pracy z przyczyn wymienionych w ust. 1. Podstawa wymiaru zasiłku chorobowego nie może być niższa.od kwoty najniższego wynagrodzenia pracowników zatrudnionych w uspołecznionych zakładach",
+     "children": [
+      {
+       "type": "text",
+       "text": "pracy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_12/ust_3",
+     "text": "Przepisy $ I—11 stosuje się odpowiednio.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "W razie ponownego powstania prawa do zasiłku chorobowego w czasie zatrudnienia w tym samym zakładzie pracy, zasiłek chorobowy oblicza się na nowo, jeżeli przerwa między okresami pobierania zasiłku trwała co najmniej:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "jeden miesiąc kalendarzowy, gdy podstawę wymiaru zasiłku stanowi przeciętne miesięczne wynagrodzenie za okres 3 miesięcy; .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "trzy miesiące kalendarzowe, gdy podstawę wymiaru zasiłku stanowi przeciętne miesięczne wynagrodzenie za okres 12 miesięcy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Zasiłek chorobowy oblicza się na nowo przed upływem okresów, o których mowa w ust. 1, jeżeli w o kiesach tych nastąpiła zmiana wysokości wynagrodzenia w wyniku zmiany stanowiska pracy lub zmiany warunków wynagradzania określonych w umowie o pracę lub w innym akcie nawiązującym stosunek. pracy. Podstawę wymiaru zasiłku chorobowego stanowi w takim wypadku przeciętne miesięczne wynagrodzenie przysługujące po zmianie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Do okresu zatrudnienia, od którego zależy wysokość zasiłku chorobowego, wlicza się okresy podlegojące zaliczeniu przy ustalaniu prawa do emerytury lub renty na podstawie przepisów o zaopatrzeniu emerytalnym pracowników i ich rodzin. .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Okresy nauki w szkołach podlegają jednak zaliczeniu na warunkach określonych w przepisach, o których mowa w ust. 1, jeżeli nawet nauka ta była odbywana po dniu stycznia 1983 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "W razie równoczesnego zatrudnienia w dwóch lub więcej zakładach pracy, zasiłek chorobowy oblicza się oddzielnie z tytułu zatrudnienia w każdym z tych zakładów. i",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Ilekroć przy ustalaniu prawa do zasiłku chorobowego lub jego wysokości okres jest oznaczony w. \"miesiącach, za miesiąc uważa się 30 dni.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Wyrażone w groszach końcówki kwot przypa- - dającego do wypłaty zasiłku chorohowego zaokrągla się do pełnego złotego w górę, jeżeli końcówka wynosi co najmniej 50 groszy, bądź w dół, jeżeli końcówka jest mniejsza niż 50 groszy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "1,",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przepisy § 1—17 stosuje się do:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_18/pkt_1",
+     "text": "zasiłku opiekuńczego i świadczenia rehabililacy jnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_18/pkt_2",
+     "text": "zasi.au macierzyńskiego, wyrównawczego i pogrzebowego, z uwzględnieniem ust. 2. *",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Przy ustalaniu podstawy. wymiaru zasiłku macierzyńskiego, wyrównawczego i pogrzebowego:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "uwzględnia się pełne wynagrodzenie, łącznie z wynagrodzeniem i dodatkami za pracę w godzinach nadliczbowych, z wyjątkiem składników wynagrodzenia wymienionych w ust, 2, 3 i 5—9 załącznika do rozporządzenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "uwzględnia się równowartość deputatów bądź ekwiwalenty za te deputaty,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_2/pkt_3",
+       "text": "wlicza się do podstawy wymiaru wynagrodzenie za dyżury zakładowe pełnione przez pracowników służb medycznych i weterynaryjnych — w pizeciętnej mię-. sięcznej wysokości osiągniętej w okresie zatrudnienia w ciągu ostatnich 12 miesięcy kalendarzowych przed miesiącem, w którym powstało prawo do zasiłku.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Podstawę wymiaru zasiłku macierzyńskiego dla pracownicy, która urodziła dziecko w czasie urlopu wychowawczego, stanowi wynagrodzenie, o którym mowa w ust. 2, osiągnięte przed urlopem wychowawczym, nie niższe od zasiłku wychowawczego pobieranego p:zez pracownicę w czasie tego urlopu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Wydatki na zasiłki chorobowe przysługujące pracownikom uspołecznionych zakładów pracy oraz osobom wykonującym pracę nakładczą na rzecz tych zakładów są pokrywane: .",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_1/pkt_1",
+       "text": "ze środków zakładów pracy przeznaczonych na wynagrodzenia — w czasie trwania stosunku pracy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_1/pkt_2",
+       "text": "ze środków Zakładu Ubezpieczeń Społecznych — po ustaniu stosunku pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Wydalki na zasiłki: wyrównawcze, porodowe, macierzyńskie, opiekuńcze i pogrzebowe oraz na świadczenia rehabilitacyjne są pokrywane ze środków Zakładu Ubezpieczeń Społecznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Kwoty wydatków, o których mowa w ust. 1 pkt 1, nie podlegają zaliczeniu na poczet składek na ubezpieczenie społeczne ani wyłączeniu z podstawy ich wymiaru,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Wydatki na zasiłki oraz świadczenie rehabilitacyjne, o których mowa w § 19, przysługujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_20/pkt_1",
+     "text": "pracownikom zakładów pracy nie będących zakładami uspołecznionymi lub zatrudnionym u osób fizycznych, a także pracownikom rolniczych spółdzielni produkcyjnych, pracownikom przedstawicielstw dyplomatycznych, urzędów konsularnych i innych placówek państw obcych oraz pracownikom instytucji i organizacji kościelnych i wyznaniowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_20/pkt_2",
+     "text": "członkom rolniczych spółdzielni produkcyjnych oraz adwokatom — członkom zespołów adwokackich, są pokrywane ze środków Zakładu Ubezpieczeń Społecznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Zakład Ubezpieczeń Społecznych jest uprawniony do kontrolowania prawidłowości wypłacania zasiłków z ubezpieczenia społecznego przez zakłady pracy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "W rozporządzeniu Rady Ministrów z dnia 27 grudnia 1974 r. w Sprawie praw i obowiązków pracowników kolejowych (Dz. U. z 1974 r. Nr 51, poz. 327, z 1975 r. Nr 35, poz. 194 oraz z 1981 r. Nr 9, poz. 42 i Nr 28, poz. 146) § 26 otrzymuje brzmienie: —",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "F Dziennik Ustaw Nr 33 ="
+    },
+    {
+     "type": "text",
+     "text": "»§ 26, 1. Pracownikowi mianowanemu w razie niezdolności do piacy z powodu choroby przysługuje zasiłek chorobowy na zasadach i w wysokości przewidzianych w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa przez okres nie przekraczający roku, z uwzględnieniem ust. 2."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Zasiłek chorobowy wynosi 100% wynagrodzenia stanowiącego podstawę wymiaru zasiłku, niezależnie od okresu zatrudnienia pracownika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "Zasiłek chorobowy za każde pierwsze 3 dni niezdolności do pracy z powodu choroby wynosi 50% wynagrodzenia stanowiącego podstawę,wymiaru zasiłku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_22/ust_4",
+     "text": "Przepisu ust. 3 nie stosuje się w wypadkach, o których mowa w art. 11 ust 3 i 4 pkt 1 i 2 ustawy z dnia 17 grudnia, 1974 r. o świadczę-",
+     "children": [
+      {
+       "type": "text",
+       "text": "WYKAZ SKŁADNIKÓW WYNAGRODZENIA, KTÓRYCH niach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (bz. U. ź + 1983 r. Nr 30, poz. 143).\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Traci moc rozporządzenie Rady Ministrów z dnia 24 października 1975 r. w sprawie zasad obliczania zasiłków z ubeżpieczenia społecznego oraz pokrywania wydatków na te zasiłki (Dz. U. z 1975 r. Nr 35, poz. 193, z 1976 r. Nr 40, poz. 23712 1978 r. Nr 23, poz. 105 i Nr 28, poz. 121, z 1981 r. Nr 19, poz. 96 oraz z 1982 r. Nr 25, poz. 182).",
+   "children": [
+    {
+     "type": "text",
+     "text": "dniem"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Rozporządzenie wchodzi w życie z 1 lipca 1983 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: w z. J. Obodowski"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Rady Ministrów z dnia 6 czerwca 1983 r. (poz. 157)",
+   "body": [
+    {
+     "type": "text",
+     "text": "NIE UWZGLĘDNIA SIĘ PRZY USTALANIU PODSTAWY « WYMIARU ZASIŁKU CHOROBOWEGO ="
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Dodatkowe wynagrodzenia (dopłaty) za pracę wykonywaną w ramach obowiązującego pracownika wymiaru czasu pracy, ale nie należącą do zakresu jego normalnych obowiązków wynikających ze stosunku pracy, w tym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "ust_1/pkt_1",
+       "text": "dodatkowe wynagrodzenie za wykonywanie obowiązków zakładowego społecznego inspektora pracy, jeżeli nie stanowi ono rekompensaty za utracone wynagrodzenie za Czas nie przepracowany w związku z pełnieniem tej funkcji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_1/pkt_2",
+       "text": "dodatkowe wynagrodzenie za szkolenie wewnątrzzakładowe oraz za prowadzenie nauki zawodu, wypłacane na podstawie odrębnych, przepisów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_1/pkt_3",
+       "text": "dodatkowe wynagrodzenie dla zakładowego kierownika praktyk studentów i uczniów szkół śrędnich zawodowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_1/pkt_4",
+       "text": "dodatkowe wynagrodzenie za prowadzenie i obsługę pojazdu samochodowego przez pracownika nie zatrud- -\" nionego na stanowisku kierowcy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Składniki wynagrodzenia o charakterze nieperiodycznym, które w przepisach o ich przyznawaniu nie zostały związane z żadnym okresem pracy (godzina, miesiąc, kwartał), lecz są przyznawane albo na podstawie oceny całokształtu pracy pracownika, albo po spełnieniu dodatkowych warunków stanowiących podstawę dokonania wypłaty, w tym: “\"4) negrody. gratyfikacje i odprawy,",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "ust_2/pkt_2",
+       "text": "wypłaty z funduszu mistrza (kierownika oddziału) itp.,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_2/pkt_3",
+       "text": "jednorazowe wynagrodzenia (wyrównania) wypłacane w związku ze zgłoszeniem i przyjęciem projektu wynalazczego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "ust_2/pkt_4",
+       "text": "jednorazowe premie przysługujące pracownikom szkolącym z tytułu pomyślnie zdanego egzaminu przez , szkolonego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "ust_2/pkt_5",
+       "text": "inne jednorazowe premie za spełnienie określonego zadania bądź za określone osiągnięcia, wypłacane niezależnie od premii periodycznych za podstawowe zadania pracownicze, które zostały przewidziane w. przepisach o wynagradzaniu; do premii tych zalicza się również premie stanowiące udział ściśle określonych grup pracowników w korzyściach zakładu pracy w postaci uzyskanych w procesie pracy oszczędności materiałowych, paliw, energii itp. bądź: w postaci dodatkowych wpływów w związku z polepszeniem wyników gospodarowania, których bezpośrednim źródłem pokrycia jest określona w odrębnych przepisach część tych oszczędności lub wpływów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "ust_2/pkt_6",
+       "text": "ekwiwalent za nie wykorzystany urlop,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "ust_2/pkt_7",
+       "text": "dodatkowe wynagrodzenie radcy prawnego z tytułu zastępstwa sądowego i arbitrażowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "ust_2/pkt_8",
+       "text": "dodatek objazdowy przysługujący pracownikom instytucji artystycznych, :",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "ust_2/pkt_9",
+       "text": "dodatek dla pracowników Komitetu do Spraw Radia i Telewizji „Polskie Radio i Telewizja\", zatrudnionych przy transmisjach i reportażach. :",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Dodatkowe wynagrodzenia wynikające ze szczegó|- nych przywilejów kart pracowniczych, z wyjątkiem podstawowego wynagrodzenia za staż pracy stanowiący jedyny lub podstawowy element. wynagrodzenia pracownika z tego tytułu. i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "Dodatki 4 tytułu pracy w niedziele i ustawowe dni świąteczne, nie stanowiącej pracy nadliezbowej, oraz wynagrodzenia za ustawowe dni świąteczne nie będące niedzielami, wypłacane pomimo nieświadczenia pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "Nagrody z zakładowego funduszu nagród.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "Nagrody i premie wypłacane z funduszu załogi tworzonego z zysku do podziału w przedsiębiorstwach państwowych i innych jednostkach gospodarki uspołecznionej, a także wypłaty z funduszu premiowego tworzonego z tych środków w państwowych przedsiębiorstwach gospodarki rolnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "Premie i nagrody wypłacane z nadwyżki bilansowej w spółdzielniach, a w spółdzielniach pracy także wypłaty z tych środków dokonywane z tytułu wkładu ‘pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "ust_8",
+     "text": "Wynagrodzenia i odszkodowania przysługujące pracownikowi w razie rozwiązania stosunku pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "Świadczenia wyrównawcze wypłacane ze środków zakładu pracy: pracownikom. którzy wskutek wypadku “przy pracy lub choroby zawodowej dożnali stałego lub długotrwałego uszczerbku na zdrowiu. l",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

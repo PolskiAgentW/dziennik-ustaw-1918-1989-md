@@ -1,0 +1,901 @@
+{
+ "eli": "DU/1985/215",
+ "title": "Rozporządzenie Rady Ministrów z dnia 25 lipca 1985 r. w sprawie wykonania przepisów ustawy o podatkach i opłatach lokalnych oraz poboru świadczeń pieniężnych dotyczących nieruchomości w formie łącznego zobowiązania płatniczego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1985/215/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 lipca 1985 r."
+  },
+  {
+   "type": "text",
+   "text": "w anrawie wykonania przepisów ustawy o podatkach i opłatach lokalnych oraz poboru świadczeń pieniężnych dotyczących nieruchomości w formie łącznego zobowiązania pieniężnego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawre art. 4 ust. 5, art. 6 ust. 1 i art. if ustawy z dnia 14 marca 1985 r. o podatkach i opłatach lokalnych (Dz. U. Nr 12, poz. 50) oraz art. 2 ust. 4 usta-. wy z dnia 19 grudnia 1980 r. o zobowiązaniach podatkowych (Dz. U. Nr 27, poz. 111, z 1982 r. Nr 45, poz. 289, z 1984 r. Nr 52, poz. 268 i z 1985 r. Nr 12, poz. 50) za: rządzą się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "$-1. Zwalnia się od podatku od nieruchomości:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "budynki lub ich części stanowiące własność związków wyznaniowych i ich instytucji, zakonów i konyregacji zakonnych oraz stowarzyszeń religijnych, zajęte na:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "muzea i archiwa udostępnione do użytku publicznego oraz biblioteki parafialne zarejestrowane przez terenowe organy administracji państwowej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "niepaństwowe szkały ogólnokształcące i zawodowe oraz internaty przy tych szkołach, jeżeli szkoły te mają uprawnienia szkół państwowych,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_1/lit_c",
+     "text": "domy opieki społecznej oraz domy księży eme- \"rytów,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_1/lit_d",
+     "text": "punkty katechetyczne,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_1/lit_e",
+     "text": "działalność , charytatywną w okresie jej wykonywania, :",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "budynki lub ich części stanowiące własność Katolickiego Uniwersytetu Lubelskiego, zajęte na cele dydaktyczne i administracyjne oraz internaty. ~",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Podatek od nieruchomości -od budynków podlegających ustawowemu ubezpieczeniu wynosi rocznie w stosunku do wartości budynków ustalonej według cennika na cele tego ubezpieczenia: ?",
+     "children": [
+      {
+       "type": "text",
+       "text": "1)sod domów jednorodzinnych i małych domów mieszka!nych oraz od budynków gospodarczych zajętych na cele niezarobkowe 0,05'/0,"
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "od domów letniskowych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_2/lit_a",
+         "text": "na terenie miast 0,2°/o,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_2/lit_b",
+         "text": "na terenie pozostałych miejscowości 0,1%o.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Jeżeli. w budynku mieszkalnym są prowadzone usługi hotelarskie, z których przychody są opodatkowane podatkiem od wynagrodzeń, lub. znajduje się w nim pracownia wykorzystywana przez twórcę do prowadzenia działalności w dziedzinie kultury i sztuki, część budynku zajętą na te cele uważa się za zajętą na cele mieszkalne.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Podatek od nieruchomości od części budynków mieszkalnych podlegających ubezpieczeniu ustawowemu, w których znajdują się lokale użytkowe, wynosi dodatkowo rocznie od 1 m* powierzchni tych lokali",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "zajętych na działalność wytwórczą, usługową lub handlową wykonywaną przez jednostki gospodarki nie uspołecznionej:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "na terenie mine 300 zt,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "na terenie pozostałych miejscowości 180 zt, ~",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "zajętych na garaże lub składy 100 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "zajętych na pozostałe zarobkowe cele użytkowe 150 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Podatek od nieruchomości od budynków nie podlegających ubezpieczeniu ustawowemu, w tym także od garaży, wynosi rocznie od 1 m* powierzchni:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "zajętych na działalność wytwórczą, usługową lub handlową wykonywaną przez jednostki gospodarki nie uspołecznionej: C",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_1/lit_a",
+       "text": "na terenie miast . 300 zł,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_1/lit_b",
+       "text": "na terenie pozostałych miejscowości 180 zł,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "zajętych na garaże lub składy 150 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "zajętych na pozostałe zarobkowe cele użytkowe ‘ : 150 zt,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "zajetvch na niezarobkowe cele gospodarcze 5 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "znajdujących się na terenie pracowniczych ogrodów -działkowych i nie podlegających zwolnieniu od podatku od nieruchomości na podstawie: art. 4 ust. 1 pkt 9 ustawy z dnia 14 marca 1985 r. o podatkach i opłatach lokalnych (Dz. U. Nr 12, poz. 50), zwanej dalej „ustawą\" 40 zł,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "zajętych na pracownię wykorzystywaną przez twórcę do prowadzenia działalności w dzie= * dżinie kultury i sztuki 30 zł.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Podatek od nieruchomości od budynków stanowiących własność osób wymienionych w § 1 pkt 1, zajątych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "przez zakony i kongregacje zakonne na- potrzeby własne, z wyjątkiem zajętych na wykonywanie działalności zarobkowej i na garaże, oraz zajętych na internaty alumnów seminariów duchownych i na mieszkania osób duchownych — wynosi rocznie 15 zł od m* powierzchni,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "na biura oraz kancelarie diecezji i parafii — wynosi rocznie od m? powierzchni:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_5/pkt_2/lit_a",
+       "text": "od pomieszczeń wyposażonych tylko w instalację elektryczną 120 zł,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "urządzeniami"
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_5/pkt_2/lit_b",
+       "text": "od pomieszczeń z innymi „150 zł, technicznymi",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "na pomieszczenia dydaktyczne i administracyjne seminariów duchownych — wynosi rocznie 60 zł -od I m* powierzchni.",
+     "children": [
+      {
+       "type": "text",
+       "text": "56 6. 1. Podatek od nieruchomości od gruntów nie objętych przepisami o podatku rolnym oraz części grun-"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "M Poz. 215"
+      },
+      {
+       "type": "text",
+       "text": "łów, na których są prowadzone działy specjalne produkcji rolnej zwolnione od podatku rolnego, wynosi:"
+      },
+      {
+       "type": "text",
+       "text": "Stawka Rodzaj roczna w miejscowości Strefa zł od 1-m 2"
+      },
+      {
+       "type": "text",
+       "text": "powierzchni gruntu"
+      },
+      {
+       "type": "text",
+       "text": "miejscowości do cala miejsco- 20006 mieszkańców wość 0,20"
+      },
+      {
+       "type": "text",
+       "text": "miasta do 100000 śródmieście 40 _Mieszkańców pozostały obszar 0,30"
+      },
+      {
+       "type": "text",
+       "text": "miasta ponad śródmieście 0,50 100 000 mieszkańców strefa pośrednia 0,40 pozostały - obszar 0.30"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Podatek od nieruchomości od działek przeznaczonych .pod budownictwo letniskowe lub użytkowanych na te cele wynosi rocznie od 1 m? powierzchni:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_2/pkt_1",
+       "text": "na terenie miast i miejscowości uznanych za 1,00 zł, uzdrowiska",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_2/pkt_2",
+       "text": "na terenie pozostałych miejscowości",
+       "children": [
+        {
+         "type": "text",
+         "text": "0,50 zł."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Dla określenia stref, o których mowa w ust. 1, przyjmuje się podział dokonany przez rady narodowe stopnia podstawowego, a w miestach podzielonych na dzielnice — przez rady narodowe stopnia wojewódzkiego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Pobierany na terenach miast podatek od nieruchomości, z wyjątkiem podatku pobieranego od budynków związanych z gospodarstwem rolnym i podlegających opodatkowaniu tym podatkiem, oraz świadczenia na fundusz miejski lub fundusz gminny ciążące na osobach fizycznych i osobach prawnych nie będących jednostkami gospodarki uspołecznionej, które są właścicielami lub posiadaczami samoistnymi nieruchomości nie związanych z gospodarstwem rolnym lub wykonywaniem działalności wytwórczej, handlowej lub usługowej albo wykonują działalność wytwórczą, handlową lub usługową — przypadające za dany rok od tego samego zobowiązanego, stanowią jedno łączne zobowiązanie pieniężne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Wymiaru łącznego zobowiązania pieniężnego za rok dokonuje terenowy organ administracji państwowej © właściwości szczególnej do spraw finansowych stopnia podstawowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Świadczenia pieniężne wchodzące w skład łącznego zobowiązania pieniężnego ujmuje się w jednym nakazie płatniczym w kwotach odrębnych i w sumie łącznej, a w rachunkowości i przy ich poborze — tylko w sumie łącznej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Osobą, na którą wystawia się nakaz płatniczy, dla której prowadzi się rachunkowość, wystawia tytuły wykonawcze w postępowaniu egzekucyjnym i z którą załatwia się inne sprawy ze skutkiem dla pozostałych osób, na których ciąży obowiązek uiszczenia zobowiązania pienigznego, jest podatnik podatku od nieruchomości.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Rozliczeń z wpływów na poczet świadczeu pie: niężnych wchodzących w skład łącznego zobowiązania pieniężnego na dochody budzeiów tetenowych oraz funduszu gminnego i funduszu miejskiego dokonuje terenowy organ administracjj państwowej o właściwości szczególnej do spraw (finansowych stopnia podstawowego. Podziału łącznych wpływów (bieżących i na poczet zaległości) na poszczególne tytuły należności dokonuje Się według procentowego udziału przypisu netto poszczególnych należności w ogólnej sumie przypisu łącznego zobowiązania pieniężnego w roku kalendarzowym, za który następuje rozliczenie,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Podatek drogowy wynosi rocznie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "od samochodów osobowych z silnikiem o pojemności skokowej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_1/pkt_1/lit_a",
+         "text": "do 900 cm% włącznie 600 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_1/pkt_1/lit_b",
+         "text": "powyżej 990 cm* do 1 300 cm* włącznie 1 200 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_10/ust_1/pkt_1/lit_c",
+         "text": "powyżej 1 300 cm* do 1500 cm* włącznie 1600 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_10/ust_1/pkt_1/lit_d",
+         "text": "powyżej 1 500 cm* do 1800 cm3 włącznie 5000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_10/ust_1/pkt_1/lit_e",
+         "text": "powyżej 1800 cm’, z wyjątkiem samochodów marki ,,Warszawa\" 9000 zt,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_10/ust_1/pkt_1/lit_f",
+         "text": "od samochodów marki „Warszawa” 2000 zł,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "od samochodów osobowych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_1/pkt_2/lit_a",
+         "text": "z silnikiem nie charakteryzującym się pojemnością skokową 4000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_1/pkt_2/lit_b",
+         "text": "z napędem elektrycznym 900 zł,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "od autobusów o liczbie miejsc do siedzenia łącznie z miejscem kierowcy:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_1/pkt_3/lit_a",
+         "text": "do 15 miejsc 3000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_1/pkt_3/lit_b",
+         "text": "powyżej 15 do 30 miejsc 6 000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_10/ust_1/pkt_3/lit_c",
+         "text": "powyżej 30 miejsc 11 000 zł,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_1/pkt_4",
+       "text": "od samochodów ciężarowych i ciągników siodłowych o ładowności samochodu lub nacisku na siodło ciągnika:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_1/pkt_4/lit_a",
+         "text": "do 0,5 t włącznie. 900 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_1/pkt_4/lit_b",
+         "text": "powyżej0,5 t do 1 t włącznie 1 600 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_10/ust_1/pkt_4/lit_c",
+         "text": "powyżej I tdo 2t włącznie 3.000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_10/ust_1/pkt_4/lit_d",
+         "text": "powyżej 2tdo 4 t włącznie 4000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_10/ust_1/pkt_4/lit_e",
+         "text": "powyżej 4t do 6 t włącznie 6000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "par_10/ust_1/pkt_4/lit_f",
+         "text": "powyżej 6t do 8t włącznie 7 000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "g",
+         "path": "par_10/ust_1/pkt_4/lit_g",
+         "text": "powyżej 8 t do 10 t włącznie 10000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "h",
+         "path": "par_10/ust_1/pkt_4/lit_h",
+         "text": "powyżej 10t 13000 zł,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_10/ust_1/pkt_5",
+       "text": "od samochodów. ciężarowo-osobowych o dopuszczalnej masie całkowitej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_1/pkt_5/lit_a",
+         "text": "do 2 t włącznie 900 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_1/pkt_5/lit_b",
+         "text": "powyżej 2 t 1600 zł.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_10/ust_1/pkt_6",
+       "text": "od ciągników balastowych 10000 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_10/ust_1/pkt_7",
+       "text": "od samochodów specjalnych 3 000 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_10/ust_1/pkt_8",
+       "text": "od ciągników rolniczych dopuszczonych do ruchu na drogach © 900 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_10/ust_1/pkt_9",
+       "text": "od pozostałych ciągników 2000 zł,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "par_10/ust_1/pkt_10",
+       "text": "od motocykli z silnikiem o pojemności skokowej do 50 cm* włącznie 300 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "par_10/ust_1/pkt_11",
+       "text": "od motocykli z silnikiem o pojemności skokowej powyżej 50 cm* 400 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "par_10/ust_1/pkt_12",
+       "text": "od motorowerów o pojemności skokowej silnika do 50 cm! 200 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "par_10/ust_1/pkt_13",
+       "text": "od przyczep ; 500 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "par_10/ust_1/pkt_14",
+       "text": "od łodzi motorowych o pojemności skokowej silnika powyżej 200 cm* do 2000 cm? 1 000 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "par_10/ust_1/pkt_15",
+       "text": "od łodzi motorowych o pojemności skokowej silnika powyżej 2000 cm’ 1500 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "16",
+       "path": "par_10/ust_1/pkt_16",
+       "text": "od promów i łodzi służących do zarobkowego przewozu towarów i osćb oraz jachtów kilowych 500 zł,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "17",
+       "path": "par_10/ust_1/pkt_17",
+       "text": "od koni pociągowych w wieku ponad 2 lata:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_10/ust_1/pkt_17/lit_a",
+         "text": "na obszarze miast 1 000 zł,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_10/ust_1/pkt_17/lit_b",
+         "text": "na obszarze pozostałych „miejscowości 600 zł,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "18",
+       "path": "par_10/ust_1/pkt_18",
+       "text": "od koni innych niż wymienione w pkt 17 w wieku ponad 2 lata 5 000 zł,",
+       "children": [
+        {
+         "type": "text",
+         "text": "1 Od samochodów osobowych z silnikiem o zapłonie samoczynnym wymienionych w ust. 1 pkt 1 podatek obniża się o 10%."
+        },
+        {
+         "type": "text",
+         "text": "3 Podatek pobiera się w wysokości obliczonej w stosunku miesięcznym, począwszy od tego miesiąca, w którym powstał obowiązek podatkowy."
+        },
+        {
+         "type": "text",
+         "text": "4 W razie posiadania przez osobę fizyczną lub w rodzinie dwóch lub więcej samochodów osobowych, stawki podatku określone w ust. 1 pkt 1 i 2 lit. a) po uwzględnieniu obniżki, o której mowa w ust. 2, podwyższa się o:"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "50% od drugiego samochodu, .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "100%% od trzeciego i każdego następnego samochodu. Jeżeli posiadane samochody mają różną pojemność skokową silnika, podwyżkę podatku stosuje się od samochodów o wyższej bojemności skokowej silnika,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_10/ust_5",
+     "text": "Za rodzinę uważa się małżonków oraz zamieszkujące z nimi w jednym mieszkaniu lub domu jednorodzinnym ich dzieci, synowe i zięciów, nie posiadające własnych źródeł dochodów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_10/ust_6",
+     "text": "Za łodzie motorowe uważa się łodzie napędzane silnikiem zainstalowanym zarówno na stałe, jak i tymczasowo.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "1 Zwalnia się od podatku drogowego:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_11/pkt_1",
+     "text": "pojazdy należące do jednostek budżetowych, zakładów budżetowych, gospodarstw pomocniczych prowadzonych na zasadach uproszczonych oraz organizacji społecznych dotowanych z budżetu państwa i funduszu rozwoju kultury,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_11/pkt_2",
+     "text": "pojazdy samochodowe przedsiębiorstwa Państwawej Komunikacji Samochodowej używane do pizewozów pasażerskich oraz pojazdy należące do przedsiębiorstw (zakładów) komunikacji miejskiej i oczyszczania, z wyjątkiem taksówek,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_11/pkt_3",
+     "text": "pojazdy wpisane do rejestru zabytków I ujęte w centralnej kartotece Komisji Technicznej Polskiego Związku Motorowego Pojazdów Zabytkowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_11/pkt_4",
+     "text": "pojazdy określone w § 10 ust. 1, należące do organizacji politycznych i społecznych, z wyjątkiem używanych na cele gospodarcze,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_11/pkt_5",
+     "text": "pojazdy samochodowe. należące do jednostek organizacyjnych dróg publicznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_11/pkt_6",
+     "text": "pojazdy samochodowe należące do instytucji charys tatywnych kościołów i innych związków wyznanio« wych, używane bezpośrednio na cele charytatywne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Za inwalidów, o których mowa w art, 10 pkt 2 ustawy, uważa się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "inwalidów 1 i II grupy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "inwalidów III grupy ze schorzeniami (uszkodzeniami) kończyn, którzy zgodnie z orzeczeniem zakładu społecznego służby zdrowia, upoważnionego do badań lekarskich kierowców i kandydatów na kierowców, mogą kierować pojazdem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_11/ust_2/pkt_3",
+       "text": "inwalidów, którym ze względu na rodzaj schorzenia (inwalidztwa) zostały przyznane pojazdy przez właściwy organ administracji państwowej bądź u których zakład społeczny służby zdrowia stwierdził przydał» ność posiadania pojazdu ze względu na inwalidztwo,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_11/ust_2/pkt_4",
+       "text": "inwalidów wojennych i wojskowych, inwalidów członków Związku Bojowników o Wolność i Demokrację oraz kombatantów inwalidów — niezależnie od źródeł nabycia przez nich pojazdu samochodowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Pojazdy należące do inwalidów nie są wliczane do liczby samochodów, o których mowa w § 10 ust. 4,",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, Zwolnienie od podatku określone w art. 10 pkt 2 ustawy stosuje się również, gdy pojazd jest zarejestrowany na współmałżonka lub jednego z rodziców inwalidy, pozostających z nim we wspólnym gospodarstwie domowym."
+      },
+      {
+       "type": "text",
+       "text": "§ 12, 1. Osoby fizyczne i osoby prawne nie będące jednostkami gospodarki uspołecznionej oraz jednostki organizacyjne ‘nie posiadające osobowości prawnej uiszczają bez wezwania podatek drogowy, z wyjątkiem podatku od motorowerów, promów, łodzi i koni, w urzę» dach pocztowo-telekomunikacyjnych podleglvch wojewódzkiemu urzędowi poczty, właściwemu ze względu va miejsce zamieszkania (siedzibę) posiadacza poiazdu. Wpływy z tytułu podatku wojewódzkie urzędy poczty, po potrąceniu wynagrodzenia należnego za pobór pocateu, pr.ekazuja na rachunek budżetu właściwej wojewódzkiej rady narodowej. Wpłaty te podlegają następnie podziałowi na rzecz budżetów rad narodowych stopnia podstawowego, proporcjonalnie do liczby samochodów według stanu na dzień 1 stycznia roku podatkowego."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Jedrestki gospodarki uspołecznionej — od pojazdów określonych w § 10 ust. 1 pkt 1—11 i 13 oraz osoby fizyczne i prawne nie będące jednostkami gospodarki uspołecznionej — od motorowerów, łodzi, promów i koni uiszczają bez wezwania podatek drogowy na rachunek budżetu rady narodowej miasta, dzielnicy lub gniiny, właściwych ze względu na siedzibę (miejsce zamieszkania) posiadacza lub zakładu tych jednostek sporzadzajaceya bilans.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "W razie zmiany posiadacza pojazdu dowód uiszczenia podatku zachowuje swą ważneść w stosunku do nowego posiadacza do końca roku podatkowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Traci moc rozporządzenie Rady Ministrów z dnia 29 grudnia 1975 r. w sprawie wykonania przepisów ustawy o niektórych podatkach i opłatach terenowych (Dz. U. Nr 46. poz. 243, z 1976 r. Nr 34, poz. 202, z 1977 r, Nr 38, poz. 171, z 1980 r. Nr 16, poz. 57, z 1982 r. Nr 35, poz. 231, z 1983 r. Nr 71, poz. 319 i z 1984 r. Nr 13, poz. 58).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1986 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: w z. M. Gorywoda"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
