@@ -1,0 +1,744 @@
+{
+ "eli": "DU/1962/75",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 28 lutego 1962 r. w sprawie norm dopuszczalnych zanieczyszczeń wody oraz warunków, jakim powinny odpowiadać ścieki odprowadzane do wody i do ziemi.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1962/75/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 lutego 1962 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie norm dopuszczalnych zanieczyszczeń wody oraz warunków, jakim powinny odpowiadać Ścieki odprewadzane do wody i do ziemi."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. tvustawy z dnia 31 stycznia 1961 r. a ochronie wód przed zanieczyszczeniem (Dz. U. Nr 5, poz. 33) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Normy dopuszczalnych ilości, stanu i składu substancji zanieczyszczających, jak również ilości energii, których zawartość w wodzie nie ogranicza możliwości jej nor",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "= R"
+    },
+    {
+     "type": "text",
+     "text": "malnego użytkowania, określa się w zależności od rodzaju wody i potrzeb poszczególnych dziedzin gospodarki narodowej. §2. 1. W celu określenia norm, o których mowa w § 1, wody ,dzieli się na następujące rodzaje:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "śródłądowe wody powierzchniowe i podziemne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "morskie wody wewnętrzne i terytorialńe (morze terytorialne).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Śródlądowe wody powierzchniowe dzieli się na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "wody płynące o jednokierunkowym przepływie stałym lub okresowym, rozpoczynające się naturalnym lub sztucznym źródłem wody podziemnej lub powierzchniowej i uchodzące do morza bezpośrednio lub pośrednio,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "wody stojące, a mianowicie: i",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_2/pkt_2/lit_a",
+         "text": "jeziora o powierzchni większej niż 20 ha i głębokości większej niż 6,0 m, niezależnie od tego, czy do nich uchodzą lub z nich wypływają wody płynące,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_2/pkt_2/lit_b",
+         "text": "stawy o powierzchni większej niż 20 ha i głębokości mniejszej niż 6,0 m, niezależnie od tego, czy do nich uchodzą lub z nich wypływają wody płynące,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_1/ust_2/pkt_2/lit_c",
+         "text": "drobne zbiorniki o powierzchni mniejszej niż 20 ha.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Śródlądowe wody podziemne dzieli się na wody wypełniające strukturę ziemi:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_3/pkt_1",
+       "text": "do głębokości 3,0 m pod jej powierzchnią,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_3/pkt_2",
+       "text": "poniżej 3,0 m pod jej powierzchnią.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Ilekroć w rozporządzeniu jest mowa o korzystaniu z wód śródlądowych i morskich wód wewnętrznych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "dla potrzeb komunalnych — należy przez to rozumieć korzystanie z wody (przed jej uzdatnieniem) do picia i dla potrzeb gospodarstwa domowego, dla zorganizowanych kąpielisk publicznych, dla potrzeb technologicznych przemysłu spożywczego i do wyrobu lodu oraz do pojenia i pławienia zwierząt gospodarskich,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "dla potrzeb przemysłowych — należy przez to rozumieć korzystanie z wody do chłodzenia urządzeń, do procesów produkcyjnych z wyjątkiem potrzeb technologicznych przemysłu spożywczego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "dla potrzeb rolniczych — należy przez to rozumieć korzystanie z wody do nawodnienia użytków rolnych, z wyjątkiem rolniczego wykorzystania ścieków,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "dla potrzeb rybackich — należy przez to rozumieć przydatność wody dla życia ryb oraz dla zasilania sztucznych stawów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "dla potrzeb innych — należy przez to rozumieć korzystanie z wody dla spórtu wodnego i turystyki, ozdoby miast i osiedli, utrzymania w nich zieleni, parków narodowych, rezerwatów, terenów ochronnych itp.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Podstawowe normy jakości śródlądowych wód po- 'wierzchniowych oraz morskich wód wewnętrznych na. głębokości 20 cm poniżej ich powierzchni określa załącznik nr 1 do niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W razie korzystania z wód wymienionych w § 4:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "dla potrzeb komunalnych — podstawowe normy jakości tych wód określone w załączniku nr 1 uzupełnia się do- „datkowymi normami określonymi w załączniku nr 2 do niniejszego rozporządzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "dla życia ryb łososiowatych — podstawowe normy jakości tych wód określone w załączniku nr 1 uzupełnia się dodatkowymi normami określonymi w załączniku nr 3 do niniejszego rozporządzenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "dla potrzeb rolniczych, z wyjątkiem rolniczego wykorzystania ścieków — podstawowe normy jakości tych wód określone w załączniku nr 1 uzupełnia się dodatkowymi normami określonymi w załączniku nr 4 do niniejszego rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Jeżeli śródłądowe wody powierzchniowe oraz morskie wody wewnętrzne są lub według wiążących wytycznych w zakresie ochrony wód przed zanieczyszczeniami mają być wykorzystane do zaspokojenia różnych potrzeb (§ 3) — podstawową normą jakości tych wód jes. norma zawierająca najwyższe wymagania w zakresie ich jakości. § 7. Podstawowe normy jakości śródlądowych wód podziemnych stanowi naturalny stan i skład wód, wypełniających strukturę ziemi poniżej 3,0 m pod jej powierzchnią. § 8. Podstawowe normy jakości morskich wód terytorialnych w obrębie zorganizowanych kąpielisk i plaż publicznych oraz w odległości 1 km od ich granic stenowi naturalny stan i skład tych wód. § 9. Warunki, jakim powinny odpowiadać ścieki odprowadzane do wody, określa się w zależności od rodzaju wody i sposobu korzystania z niej oraz od stopnia rozcieńczenia tych ścieków. § 10. 1. Stopień rozcieńczenia ścieków odprowadzanych do wody płynącej określa się przez porównanie ilości odprowadzanych ścieków do wielkości przepływu miurodajnego tej wody; jeżeli do tej samej wody płynącej są odprowadzane ścieki przez zakłady położone nad tą wodą w pobliżu — przez ilość odprowadzanych ścieków rozumie się łączną ilość ścieków pochodzących z tych zakładów.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Stopień rozcieńczenia ścieków odprowadzanych do wody stojącej określa się przez porównanie sumy całorocznego dopływu ścieków z pełną objętością wody, sięgającą do linii brzegu, przy czym przepływ wód płynących przez wody stojące uwzględnia się tylko w przypadku, gdy ich przepływ miarodajny jest większy niż 1,0 m*/sek.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Przez przepływ miarodajny wody płynącej rozumie się przepływ średniej niskiej wody w danym przekroju cieku. § 11, 1. Stan i skład ścieków odprowadzanych do wód płynących — przy rozcieńczeniach w stosunku od 1:6 do 1:20 — powinien odpowiadać co najmniej warunkom określonym w załączniku nr 5 do niniejszego rozporządzenia. ©",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Przy odprowadzaniu zmieszanych ścieków bytowogospodarczych i przemysłowych łączne ścieki powinny odpowiadać warunkom ustalonym dla ścieków przemysłowych. \"3. Stan i skład ścieków rozcieńczonych w stosunku. większym niż 1:20 może nie odpowiadać warunkom określo- © nym w ust. 1, o ile odprowadzane ścieki nie naruszają norm jakości, ustalonych dla danej wody płynącej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Stan i skład ścieków odprowadzanych przy rozcieńczeniu mniejszym niż 1:6 określa się dla każdego przypadku oddzielnie. § 12. 1. Stan i skład ścieków odprowadzanych do wód stojących oraz morskich wód wewnętrznych powinien odpowiadać warunkom określonym w § 11.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Przy zachowaniu warunków określonych w ust. 1 mogą być odprowadzane ścieki do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "jezior wykorzystywanych do hodowli ryb łososiowatych przy rozcieńczeniu większym niż 1 : 200;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "jezior wykorzystywanych do hodowli ryb niełososiowatych oraz do jezior bezodpływowych lub takich, przez które przepływa woda o przepływie miarodajnym mniejszym niż 1,0 m*/sek.:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_6/ust_2/pkt_2/lit_a",
+         "text": "ścieki przemysłowe przy rozcieńczeniu w stosunku większym niż 1: 150,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_6/ust_2/pkt_2/lit_b",
+         "text": "ścieki bytowo-gospodarcze przy iozeańedcaji w stosuhku większym niż 1 : 100;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_2/pkt_3",
+       "text": "stawów naturalnych i morskich wód wewnętrznych przy rozcieńczeniu w stosunku większym niż 1:50, z wyjątkiem odprowadzania ścieków z. kanałach miast i zakładów do wód portów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_2/pkt_4",
+       "text": "drobnych zbiorników, jeżeli przez odprowadzanie ścieków nie zostaną zagrożone warunki sanitarne otoczenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Do drobnych zbiorników, które na podstawie uzgodnienia lub pozwolenia właściwego do spraw gospodarki wodnej organu prezydium wojewódzkiej rady narodowej. (rady,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "|] 47% WATT wy ryby” ja R."
+      },
+      {
+       "type": "text",
+       "text": "Dziennik Ustaw Nr 17 —"
+      },
+      {
+       "type": "text",
+       "text": "narodowej miasta. wyłączonego z województwa) stanowią element oczyszczalni ścieków lub obiegu wodnego zakładu, nie stosuje się warunków określonych w ust, I i w ust, 2 pkt 4. § 13. 1. Do śródlądowych wód podziemnych, wymienionych w § 2 w ust. 3 pkt 1, mogą być odprowadzane ścieki, jeżeli:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_3/pkt_1",
+       "text": "stan i skład tych ścieków odpowiada warunkom określonym w § 11 oraz .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_3/pkt_2",
+       "text": "ścieki nie naruszają naturalnego stanu 1 składu wód podziemnych znajdujących się poniżej 3 m pod powierzchnią ziemi.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Warunek wymieniony w ust. 1 pkt 1 nie obowiązuje przy rolniczym wykorzystaniu ścieków, chyba że ścieki te zagrażałyby korzystaniu z wód dla potrzeb komunalnych. § 14. 1. Niezależnie od warunków określonych w $§ 11, 12 i 13 ścieki odprowadzane do wód, bez względu na ich ilość, nie mogą zawierać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_2/pkt_1",
+       "text": "łatwo opadającej zawiesiny, po 2-godzinnym odstaniu, w ilości powyżej 0,5 ml/l,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_2/pkt_2",
+       "text": "ciał pływających,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_2/pkt_3",
+       "text": "tłuszczy, olejów i smarów w ilości wywołującej widoczną błonkę na powierzchni wody,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_6/ust_2/pkt_4",
+       "text": "substancji wywołujących udrażający zapach, uciążliwy dla otoczenia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_6/ust_2/pkt_5",
+       "text": "substancji udzielających trwałego zapachu i smaku wodzie lub przedmiotom związanym z gospodarką rybacką,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_6/ust_2/pkt_6",
+       "text": "substancji promieniotwórczych w ilościach ustalanych odrębnymi przepisami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_6/ust_2/pkt_7",
+       "text": "bakterii i wirusów chorób zakaźnych oraz organizmów pasożytniczych, jeżeli odprowadzane ścieki pochodzą z sanatoriów, szpitali, zakładów utylizacyjnych itp,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Do ścieków odprowadzanych do stawów naturalnych i morskich wód wewnętrznych przy rozcieńczeniu w stosunku większym niż 1: 100 stosuje się tylko warunki wymienione w ust. 1 pkt 1—7.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Do ścieków odprowadzanych do morskich wód. terytorialnych w odległości większej niż 1 km od zorganizowanych kąpielisk i plaż publicznych stosuje się tylko warunki wymienione w ust. 1 pkt 1—3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Odprowadzanie ścieków z jednostek pływających regulują 'odrębne przepisy. § 16. 1. Właściwy do spraw gospodarki wodnej organ prezydium wojewódzkiej rady narodowej (rady narodowej miasta wyłączonego z województwa) w porozumieniu z wiaściwym organem tegoż prezydium do spraw zdrowia i-opiekł społecznej może:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_15/pkt_1",
+     "text": "udzielić, w uzasadnionych przypadkach, na czas ściśle oznaczony pozwolenia na odprowadzenie częściowo oczyszczonych ścieków do tych wód płynących, które w wiążących wytycznych w zakresie ochrony wód przed zanieczyszczeniem są przewidziane jeko podlegające oczyszczaniu w centralnej oczyszczalni całego odbiornika,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_15/pkt_2",
+     "text": "udzielić, w uzasadnionych przypadkach, na określanych warunkach i na czas ściśle oznaczony pozwolenia na odprowadzanie wód podziemnych, pochodzących z odwodnienia kopalń, mimo że zawartość w nich. siarczanów i chlorków oraz substancji rozpiszczonych przekracza ilość określoną dla ścieków przemysłowych w za- „łączniku nr 5 do niniejszego rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Przy wydawaniu pozwolenia na odprowadzanie do wód powierzchniowych wody chłodzącej z elektrowni cieplnej właściwy do spraw gospodarki wodnej organ, wymieniony w ust. 1, może w przypadkach uzasadnionych okolicznościami technicznymi i ekonomicznymi odstąpić od norm temperatur dla odbiornika i ścieków określonych w załącznikach m 1, nr 3 i nr 5 i ustalić wyższe normy tych temperatur.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Traci moc rozporządzenie Ministra Gospodarki Komunalnej z dnia 2 września 1950 r. w sprawie określenia warunków, jakim powinny odpowiadać ścieki wpuszczane do zbiorników wód powierzchniowych i do ziemi (Dz. U. Nr 41, poz. 371).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogła--- szenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Prezesa. Rady Ministrów z dnia 28 lułego - 1962 r. (poz. 75). Załącznik nr 1.",
+   "body": [
+    {
+     "type": "text",
+     "text": "PODSTAWOWE NORMY JAKOŚCI WÓD- POWIERZCHNIOWYCH ORAZ MORSKICH WÓD die ERE or NA GŁĘBOKOŚCI 20 cm PONIŻEJ ICH POWIERZCHNI"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Cechy fizyczne: Temperatura Zawiesina Zapach Barwa",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Stężenie jonów wodorowych pH Natlenienie Zasadowość ogólna CaCO, (CaCO,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Związki organiczne: BZT, 20°C Utlenialność Zagniwalność © 2 Azot organiczny",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Sole pokarmowe: Azotany",
+     "children": [
+      {
+       "type": "text",
+       "text": "- Sole amonewe"
+      },
+      {
+       "type": "text",
+       "text": "— poniżej 26°C mg/l — poniżej 30 — — roślinny — — naturalna"
+      },
+      {
+       "type": "text",
+       "text": "— — 6,8—9,0 ©, mg/l — powyżej 4 mvaljl — powyżej 0,6 mg/l — powyżej. 30) (nie dotyczy — wód górskich i torfowych)"
+      },
+      {
+       "type": "text",
+       "text": "Q, mg/l — poniżej 8 O, mgj/ł — poniżej 30 — — powyżej 5 dni N mg/l — poniżej 2"
+      },
+      {
+       "type": "text",
+       "text": "NNo; mg/l — od 0,1—3,0 (w wędach płynących. NNitq mg/l — pouiżej 2,"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": ": ~ 5) Składniki specjalne"
+      },
+      {
+       "type": "text",
+       "text": "5 Substancje promie *niotwóreże"
+      },
+      {
+       "type": "text",
+       "text": "-6) Wskaźniki biologiczne: Próba z rvbami ‘System saprebvwy"
+      },
+      {
+       "type": "text",
+       "text": "* Miano Coli"
+      },
+      {
+       "type": "text",
+       "text": "Metale ciężkie (Za, Cr, Ag, Cu, Hg, Cd, Pb) cznie mg/l “sw szezecdélausel: Cynk Zn mg/l Chrom Cr (6) mg/l Chrom Cr (37 mg/l Srebro Ag uagjl Miedź Cu mg/l > Rtęć © Hg mg/l Keda Cd mg/l Seten Se mg/l lew Ph mz/i - Wolny chlor Gl. mg/ Forma'dvhyd me/l- Cyjanki CN. mg/l - „Fenole F mel _ ©Oleje-tluszcze"
+      },
+      {
+       "type": "text",
+       "text": "Ekstrakt eterowy mg/l Środki niszexave —_ chwasty, owadobójcze i grzybobójcze:"
+      },
+      {
+       "type": "text",
+       "text": "Żywice, smoły itp. mg/l Syntetyczne substancje pow ierzehniowo czynne w en od rodzaju mg/l"
+      },
+      {
+       "type": "text",
+       "text": "\"Poz: 75"
+      },
+      {
+       "type": "text",
+       "text": "poniżej 1"
+      },
+      {
+       "type": "text",
+       "text": "BT „0,1 » 05 „0,005 » 01 » o 0,005 „ 0,2 s 0.05 w 0, s 82 EBY |. s 001 „0.02 brak widocznej błonki na powierzchni poniżej 5,0 ch poniżej granie szkedliwośei dla zdrowia, podanych indywidual ie dla poszczególnych środków poniżej lo poniżej 3,0 w iłościach ustalonych odrębnymi przepisami,"
+      },
+      {
+       "type": "text",
+       "text": "pozytywna do $ — mezesaprobów włącznie, przy dopnsz= ezałnym udsiałe Tubifex tubifex i Chironemus sp. w esadzie dunnym powyżej 0,1"
+      },
+      {
+       "type": "text",
+       "text": "Załącznik nr 2. 'W RAZIE KORZYSTANIA Z WÓD WYMIENIONYCH W §4 DLA POTRZEB KOMUNALNYCH PODSTAWOWE NORMY JAKOŚCI TYCH WOD PRZED UZWATNIENIEM, OKREŚLONE W TYM „PARAGRAF IE, UZUPEŁNIA SIĘ NASIĘPUJĄCO:"
+      },
+      {
+       "type": "text",
+       "text": "Zapach Smak ~ Zawiesinu na sączku",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Żelazo całkowite \"Mangan ~ Chlorki Siarczany BZT; — 20°C Utlenialność Arsen z Fluor Ołów Chrom Nikiel Fenole Miano Coli „Pasożyty. „zwierzęce ( dacóde i stadia ic) , Bakterie i wirusy .chorobetwórcze",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "‘i A mg/l",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Fe mg/l Mn mg/l Cl mg/l SO, mg/l O, mg/l",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "As mg/l F mg/l Pb mg/l Cr mg/l Ni mg/l mg/l",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pigeon poniżej 3 R niewyczuwalny poniżej 20. (z wyjątkiem nagłych przyborów wody) poniżej 1 ” 0,1 652500 » 150 ” 4 „ 528 ” 0,05 - nie więcej niż 1 „0 poniżej 0,1 » 9,05 legge 550), » 0,005:. „nie, miżej niż 10. zasadniczo siowydiowólie RA - Załącznik nr 3. 'W RAZIE KORZYSTANIA Z WÓD WYMIENIONYCH W § 4 DLA ŻYCIA RYB ŁOSOSIOWATYCH PODSTAWOWE NORMY JAKOŚCI TYCH WÓD, OKREŚLONE W TYM PARAGRAFIE, UZUPEŁNIĄ SIĘ NASTĘPUJĄCO: ,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Temperatura . a w okresie od grudnia do kwietnia Natlenienie Zawiesina"
+      },
+      {
+       "type": "text",
+       "text": ">"
+      },
+      {
+       "type": "text",
+       "text": "°C. « 0; mg/l mg/l"
+      },
+      {
+       "type": "text",
+       "text": "— poniżej + 20. » +4 powyżej 5 poniżej 10 (z wyjątkiem nagłych przyberów"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Saka bt math Log cz"
+      },
+      {
+       "type": "text",
+       "text": "Dziennik Ustaw Nr 1? — 1322 —"
+      },
+      {
+       "type": "text",
+       "text": "Stężenie jonów wodorowych BZT, — 20°C Żelazo ogólne Fosf< rany Wolny chlor Cynk Strefa o Fe = PO, mg/l Cl,’ mgjł Zn mgjl"
+      },
+      {
+       "type": "text",
+       "text": "TĘ = poniżej 4,0"
+      },
+      {
+       "type": "text",
+       "text": "„: ed Ę „0,02 oligosaprobowa i kataro* bowa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Załącznik nr 4. 3 W RAZIE KORZYSTANIA Z WÓD WYMIENIONYCH W § 4 DLA POTRZEB ROLNICZYCH, Z WYJĄTKIEM ROLNICZEGO WYKORZYSTANIA ŚCIEKÓW, PODSTAWOWE NORMY JAKOŚCI TYCH WÓD, OKREŚLONE UZUPEŁNIA SIĘ NASTĘPUJĄCO: Chlorki Sucha pozostałość Bor Wanad Sid Siarczany",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "CI mg/l —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "—",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "W TYM PARAGRAFIE,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "poniżej 400 „ 1200 ” 1 ” 1 » 80 » 250",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5,",
+   "body": [
+    {
+     "type": "text",
+     "text": "STAN I SKŁAD ŚCIEKÓW OCZYSZCZONYCH, ODPROWADZANYCH DO WÓD PŁYNĄCYCH, PRZY ROZCIEŃCZENIACH W STOSUNKU 1:6 DO 1:20 POWINIEN ODPOWIADAĆ CO NAJMNIEJ NASTĘPUJĄCYM"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Me WE e WARUNKOM: 1e KI owo- cze: ,",
+     "children": [
+      {
+       "type": "text",
+       "text": "BZT, O08: me Utlenialność Zawiesina na sączku Zagniwalność (trw łość) Azotany Próba biologiczna z rybami przy rozcieńczeniu wodą odbiornika w stosunku min. 1 :6 :"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Śsieki przemysłowe ; Varwa niespecyficzna Barwa specyficzna",
+     "children": [
+      {
+       "type": "text",
+       "text": "Temperatura Stężenie jonów wodorowych pH BZT, 20°C ee Utlenialność Azotany Zawiesina na. saczku Siarczany Chlorki Zasadowość alkaliczna"
+      },
+      {
+       "type": "text",
+       "text": "Kwasowość"
+      },
+      {
+       "type": "text",
+       "text": "Żelazo ogólne ieee Siarezki Cyjanki Ę Oleje i tłuszcze (ekstrakt eterowy) Formaldehyd Fenole (jako krezole) Wolny chlor Żywice, smoły itd, Metale (Zn, Cr, Ag, Cu, Hg, Cd, Se, Pb, Ni) — łącznie — pojedynczo / Substancje rozpuszczone Środki niszczące chwasty, owadobójcze, grzybobójcze Substancje promieniotwórcze i"
+      },
+      {
+       "type": "text",
+       "text": "Próba biologiczna z rybami przy rozcieńczeniu wodą odbiornika w stosunku odpowiadającym miarodajnemu przepływowi"
+      },
+      {
+       "type": "text",
+       "text": "O, mg/l"
+      },
+      {
+       "type": "text",
+       "text": "mg/l"
+      },
+      {
+       "type": "text",
+       "text": "Pt mg/l"
+      },
+      {
+       "type": "text",
+       "text": "O, m/l O, mg/l NNO; mg/l mg/l SO, mg/l CI mg/l CaCO, mval/l (CaCO, mg/l CaCO, mval/l (CaCO, mg/l Fe mg/l S mg/l CN mg/l — m$jł mg/l mg/l CI, mgjl mg/l mg/l , mgjł -mgjl mg/l mg/l poniżej 30 » 60 » 30 powyżej 5 dni od 1—13"
+      },
+      {
+       "type": "text",
+       "text": "pozytywna"
+      },
+      {
+       "type": "text",
+       "text": "poniżej 100 zanikająca przy danym — rozcieńczeniu : poniżej 35°C 5,0—9,0 poniżej 30"
+      },
+      {
+       "type": "text",
+       "text": "od 1—13 poniżej 60 » 500 „ 2500 ay ede A » 90) x. 0,2 w» 10) ” it 5 ” 1 „02 55030 po ” 1 m a e ” 5 ” 5 2 ” 1 ; » 7500 2 », w ilościach ustalonych odrębnymi przepisami ścieki nie powinny powodować śnięcia w ciągu 24 godzin"
+      },
+      {
+       "type": "text",
+       "text": "lioczana 7 polecenia Prezésa Rady Ministrów w Zakładach Gralicznych „Tamka”, Warszawa. ul Tamka 3."
+      },
+      {
+       "type": "text",
+       "text": "Zain. 594"
+      },
+      {
+       "type": "text",
+       "text": "Cena 2,40 zł"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

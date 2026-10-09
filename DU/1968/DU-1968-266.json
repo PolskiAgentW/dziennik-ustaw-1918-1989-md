@@ -1,0 +1,409 @@
+{
+ "eli": "DU/1968/266",
+ "title": "Rozporządzenie Rady Ministrów z dnia 17 września 1968 r. w sprawie inwalidzkiej renty wyrównawczej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1968/266/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 września 1968 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie inwalidzkiej renty wyrównawczej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 28 ust. 3, art. 62 i art. 84 ust. 2 ustawy z dnia 23 stycznia 1968 r. o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. Nr 3, poz. 6) i art. 16 ust. 3 ustawy z dnia 23 stycznia 1968 r. o zaopatrzeniu emerytalnym pracowników kolejowych i ich rodzin (Dz. U. Nr 3, poz. 10) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Inwalidzką rentę wyrównawczą, zwaną dalej „rentą wyrównawczą”, wymierza się renciście, który spełnia łącznie następujące warunki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "jest uprawniony do renty inwalidzkiej III lub II grupy inwalidów z tytułu inwalidztwa powstałego z innych przyczyn niż wypadek w zatrudnieniu lub choroba zawo- -dowa albo z tytułu inwalidztwa nie pozostającego w związku ze służbą wojskową,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "nie przekroczył wieku: mężczyzna 65 lat, kobieta 60 lat,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "wykonuje zatrudnienie z zarobkiem powodującym zawieszenie prawa do jego renty inwalidzkiej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_1/ust_1/pkt_4",
+       "text": "zarobek, o którym mowa w pkt 3, jest niższy niż 75% podstawy wymiaru jego renty inwalidzkiej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Prawo do renty wyrównawczej ulega zawieszeniu, jeżeli rencista osiąga dochód z innych źródeł niż zatrudnienie, powodujący zawieszenie prawa do jego renty inwalidzkiej lub wypłatę części tej renty.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Wysokość renty wyrównawczej stanowi różnicę pomiędzy podstawą wymiaru renty inwalidzkiej a miesięcznym zarobkiem osiąganym po użyskaniu tej renty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Renta wyrównawcza nie może przekroczyć:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "70%o renty inwalidzkiej wraz z wszystkimi dodatkami, z wyjątkiem dodatków rodzinnych — dla rencisty wykonującego przez okres nie dłuższy niż 2 lata zatrudnienie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_2/pkt_1/lit_a",
+         "text": "w ramach przygotowania zawodowego, niezbędnego dla uzyskania zawodu odpowiadającego stanowi zdrowia, w macierzystym zakładzie pracy lub innym zakładzie pracy, do którego rencista skierowany został przez organ zdrowia i opieki społecznej prezydium właściwej rady narodowej,",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "b). w spółdzielni inwalidów w ramach rehabilitacji pod- „stawowej, w zakładzie (oddziale) pracy chronionej lub w warsztacie (ośrodku) rehabilitacji przemysłowej;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "50% renty inwalidzkiej wraz z wszystkimi dodatkami, z wyjątkiem dodatków rodzinnych — dla rencisty wykonującego zatrudnienie inne niż określone w pkt 1.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Fakt wykonywania zatrudnienia w warunkach określonych w ust. 2 pkt 1 stwierdza zakład pracy zatrudniający rencistę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Uprawnienia do renty wyrównawczej ustala właściwy organ rentowy w formie decyzji na wniosek inwalidy, pouczając go o warunkach pobierania tej renty.",
+     "children": [
+      {
+       "type": "text",
+       "text": "2, Każda decyzja ustalająca uprawnienia do renty inwalidzkiej III lub II grupy inwalidów z tytułu inwalidztwa powstałego z innych przyczyn niż wypadek w zatrudnieniu lub choroba zawodowa albo z tytułu inwalidztwa nie pozostającego w związku ze służbą wojskową powinna zawierać pouczenie o warunkach wymaganych do pobierania renty wyrównawczej."
+      },
+      {
+       "type": "text",
+       "text": ". § 4. Rentę wyrównawczą wymierza się za okres od dnia spełnienia wszystkich warunków wymaganych do jej wymierzenia, jednakże za okres nie dłuższy niż 3 miesiące wstecz od dnia zgłoszenia wniosku."
+      },
+      {
+       "type": "text",
+       "text": "§ 5, 1. Organ rentowy, wydając decyzję w sprawie renty wyrównawczej, ustala jej wysokość na podstawie zaświadczenia zakładu pracy, stwierdzającego wysokość przeciętnego miesięcznego zarobku z trzech: kolejnych miesięcy kalendarzowych, następujących bezpośrednio po miesiącu, w którym zgłoszono wniosek. Ustalenia tego dokonuje organ rentowy po upływie tych trzech miesięcy lub wcześniej, jeżeli z zaświadczenia wynika, że wysokość zarobków, które przysługują zainteresowanemu, uzasadnia wypłacanie tej renty."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W razie gdy zarobek w wysokości uzasadniającej wypłacanie inwalidzkiej renty wyrównawczej rencista osiągał również przed zgłoszeniem wniosku, przy ustalaniu przeciętnego miesięcznego zarobku uwzględnia się także i ten zarobek, najwyżej jednak z okresu 3 miesięcy bezpośrednio przed zgłoszeniem wniosku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Za przeciętny miesięczn$ zarobek uważa się łączny zarobek w gotówce i w naturze, który przyjmuje się do obliczenia podstawy wymiaru emerytury lub renty.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, Jeżeli w którymś z miesięcy określonych w ust. 1 i 2 rencista przez okres dłuższy niż 5 dni pobierał zasiłki z ubezpieczenia społecznego na wypadek choroby i macierzyństwa, za zarobek z tego miesiąca przyjmuje się 25-krotny zarobek dzienny."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rentę wyrównawczą wypłacają:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "uspołecznione zakłady pracy zobowiązane do wypłacania zasiłków z ubezpieczenia na wypadek choroby i macierzyństwa — na zlecenie organu rentowego (§ 7 i 8),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "organy rentowe, w razie gdy rencista uprawniony do tej renty zatrudniony jest w zakładzie pracy innym niż wymieniony w pkt 1 lub w więcej niż jednym zakładzie pracy (§9i 10).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Uspołeczniony zakład pracy podejmuje wypłatę renty wyrównawczej od dnia wskazanego przez organ rentowy; do tego dnia rentę wypłaca ten organ.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "438",
+     "path": "par_7/ust_438",
+     "text": "ro",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": ".Uspołeczniony zakład pracy wypłaca rentę wyrównawczą miesięcznie, nie później niż do 15 dnia miesiąca następującego po miesiącu, za który renta przysługuje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Przed dokonaniem każdej wypłaty zakład pracy porównuje zarobek osiągnięty przez rencistę w miesiącu, za który ma być wypłacona renta wyrównawcza, z zarobkiem stanowiącym podstawę wymiaru renty inwalidzkiej i jeżeli zarobek uzyskany w tym miesiącu:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_3/pkt_1",
+       "text": "wynosi 75% podstawy wymiaru renty inwalidzkiej lub jest wyższy — nie wypłaca renty wyrównawczej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_3/pkt_2",
+       "text": "wynosi mniej niż 75% podstawy wymiaru renty inwalidzkiej — ręntę wyrównawczą wypłaca w wysokości określonej w § 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Jeżeli w miesiącu, za który ma być wypłacona renta wyrównawcza, rencista przez okres dłuższy niż 5 dni pobierał zasiłki z ubezpieczenia społecznego na wypadek choroby i macierzyństwa, rentę wypłaca się w wysokości wypłaconej w poprzednim miesiącu, chyba że osiągnięty zarobek nie uzasadnia wypłacenia renty (ust. 3 pkt 1).",
+     "children": [
+      {
+       "type": "text",
+       "text": "„ 5. Przy ustalaniu wysokości zarobku miesięcznego (ust. 3) stosuje się przepis § 5 ust. 3,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 8.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Uspołeczniony zakład pracy wypłaca renty wyrównawcze na rachunek Zakładu Ubezpieczeń Społecznych rozliczając się z Zakładem na zasadach i w trybie określonych w rozporządzeniu Rady Ministrów z dnia 23 stycznia 1959 r. w sprawie opłacania składek na ubezpieczenia społeczne oraz rozliczania zasiłków wypłacanych przez zakłady pracy (Dz. U. Nr 9, poz. 46).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W razie sporu między zakładem pracy a pracównikiem w sprawie wysokości renty wyrównawczej lub wstrzymania jej wypłaty zakład pracy przekazuje sprawę do decyzji organowi rentowemu, który zlecił wypłatę tej renty. Od decyzji organu rentowego przysługuje pracownikowi odwołanie na zasadach i w trybie przewidzianych dla odwołań w sprawach emerytur i rent.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Szczegółowy sposób wypłaty rent wyrównawczych przez uspołecznione zakłady pracy określa instrukcja Prezesa Zakładu Ubezpieczeń Społecznych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 9.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Organ rentowy wypłaca renty wyrównawcze miesięcznie w dniu 15 każdego miesiąca, następującego po miesiącu, za który renta przysługuje.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Rencista pobierający rentę wyrównawczą wypłacaną przez organ rentowy, który osiągnie zarobek w wysokości 75% podstawy wymiaru renty inwalidzkiej lub wyższy, obowiązany jest zawiadomić o tym niezwłocznie organ rentowy, nie podejmując renty za miesiąc, w którym zarobek taki osiągnął. :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Rencista, który nie dopełnił obowiązku określonego „w ust. 2, obowiązany jest do zwrotu pobranej renty.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 10.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rencista pobierający rentę wyrównawczą wypłacaną przez organ rentowy obowiązany jest przedkładać co 6 miesięcy, w terminach ustalonych przez ten organ, zaświadczenie zakładu pracy o wysokości zarobków za okres tych 6 miesięcy. 7",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2, W zależności od wysokości zarobku z okresu objętego zaświadczeniem, o którym mowa w ust. 1, organ rentowy przez okres następnych 6 miesięcy wypłaca rentę wyrównawczą:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) w poprzednio ustalonej wysokości, jeżeli przeciętny miesięczny zarobek z okresu objętego zaświadczeniem nie ma wpływu na' wysokość dotychczas wypłacanej renty wyrównawczej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) w wysokości ustalonej na nowo w myśl przepisu § 2, jeżeli przeciętny miesięczny zarobek z okresu objętego zaświadczeniem uzasadnia zmianę wysokości dotychczas wypłacanej renty wyrównawczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli. przeciętny miesięczny zarobek z okresu objętego zaświadczeniem wynosi 75% podstawy wymiaru renty inwalidzkiej lub jest wyższy, wypłatę renty wyrównawczej wstrzymuje się.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Przy ustalaniu przeciętnego miesięcznego zarobku (ust. 2 i 3): .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) stosuje się przepis § 5 ust. 3,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) wyłącza się miesiące, w których rencista osiągnął zaróbek w wysokości 75% podstawy wymiaru renty inwalidzkiej lub wyższy, jeżeli rencista dopełnił obowiązku, o którym mowa w'§ 9 ust. 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 11. Górną granicę renty wyrównawczej (§ 2 ust. 2) przysługującej w okresie do dnia 31 grudnia 1969 r. oblicza się od renty inwalidzkiej w wysokości ustałonej za okres od dnia 1 stycznia 1970 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "* § 12. Przepisy rozporządzenia stosuje się odpowiednio do rent wyrównawczych określonych w przepisach:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) ustawy z dnia 23 stycznia 1968 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U, Nr 3, poz. 11),",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) ustawy z dnia 28 maja 1957 r. o zaopatrzeniu emerytalnym górników i ich rodzin (Dz. U. z 1968 r. Nr 3, poz. 19) z uwzględnieniem przepisów rozporządzenia Rady Ministrów z dnia 11 lipca 1968 r. w sprawie. określenia przypadków, w.których rencistom zaliczonym do III grupy inwalidów przysługują górnicze renty inwalidzkie w wysokości przewidzianej dla II grupy inwalidów, oraz w sprawie górniczej inwalidzkiej renty wyrównawczej (Dz. U. Nr 26, poz. 171).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 13.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Prezes Zakładu Ubezpieczeń Społecznych oraz Minister Komunikacji przekażą uspołecznionym zakładom pracy wypłatę rent wyrównawczych w terminie do dnia 1 lipca 1969 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2: Do czasu przekazania wypłaty zakładom pracy renty. wyrównawcze wypłacają organy rentowe na zasadach określonych w § 9.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 14. Tracą moc przepisy $§ 11—13 oraz 17 rozporządzenia Rady Ministrów z dnia 6 maja 1958 r. w sprawie zawieszania prawa do renty oraz zasad wypłacania inwalidzkiej renty wyrównawczej (Dz. U. z 1958 r. Nr 26, poz. 111, z 1962 r. Nr 24, poz. 110 i Nr 43, poz. 205, z 1965 r. Nr 26, poz. 174i z 1966 r. Nr 29, poz. 176).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 15. Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1968 r.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

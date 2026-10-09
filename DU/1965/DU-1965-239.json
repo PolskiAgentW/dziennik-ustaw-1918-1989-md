@@ -1,0 +1,612 @@
+{
+ "eli": "DU/1965/239",
+ "title": "Rozporządzenie Ministra Górnictwa i Energetyki z dnia 20 sierpnia 1965 r. w sprawie kwalifikacji osób wykonujących usługi w zakresie konserwacji i naprawy urządzeń energetycznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1965/239/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GÓRNICTWA I ENERGETYKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 sierpnia 1965 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie kwalifikacji osób wykonujących usługi w zakresie konserwacji i naprawy urządzeń energetycznych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. 2 ustawy z dnia 30 maja 1962r. o gospodarce paliwowo-energetycznej (Dz. U, Nr 32, poz. 150) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogółne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie określa kwalifikacje osób wykonujących usługi w zakresie konserwacji i naprawy urządzeń energetycznych oraz tryb i zasady stwierdzania tych kwalifikacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Przepisy rozporządzenia dotyczą urządzeń energetycznych, wymienionych w § 2 i § 3 rozporządzenia Rady Ministrów z dnia 17 stycznia 1963 r. w sprawie określenia rodzajów urządzeń energetycznych objętych przepisami ustawy © gospodarce paliwowo-energetycznej (Dz. U. Nr 3, poz. 16). :",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przepisy rozporządzenia stosuje się do następujących usług (prac) w zakresie konserwacji i naprawy urządzeń energetycznych, wykonywanych na zlecenie lub w ramach obowiązków służbowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "warsztatowych konserwacyjno-remontowych przy elektrycznych aparatach i urządzeniach, z wyjątkiem robot spawalniczych oraz mechanicznej obróbki metalu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "elektromontażowych i pomiarowo-kontrolnych przy elektrycznych urządzeniach i sieciach o napięciu do 1 kV „włącznie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "elektromontazowych i pomiarowo-kontrolnych przy elektrycznych urządzeniach i sieciach bez ograniczenia napięcia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "konserwacyjno-remontowych aparatury kontrolno-pomiarowej dla pomiarów wielkości elektrycznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "konserwacyjno-remontowych aparatury kontrolno-pomiarowej dla pomiarów wielkości cieplnych, gazów i cieczy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "konserwacyjno-remontowych obmurzy oraz izolacji cieplnych kotłów, pieców oraz sieci cieplnych parowych i wodnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "usuwania kamienia kotłowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "konserwacyjno-remontowych przy urządzeniach do przys gotowywania wody do koiłów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_2/pkt_9",
+     "text": "konserwacyjno-remontowych dotyczących gazowych odbiorników i sieci na ciśnienie do 4 kg/cm*, z wyjątkiem prac spawalniczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_2/pkt_10",
+     "text": "konserwacyjno-remontowych dotyczących gazowych odbiorników i sieci na ciśnienie bez ograniczenia, z wy: jątkiem prac spawalniczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_2/pkt_11",
+     "text": "remontowo-montażowych przy odbiornikach i sieciach parowych i gorącej wody, z wyjątkiem prac spawalniczych, —",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_2/pkt_12",
+     "text": "zduńskich przy domowych.piecach i trzonach kuchen< nych węglowych i koksowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": ".§ 3. Osobami wykonującymi usługi w zakresie konser= wacji i naprawy urządzeń energetycznych są:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "pracownicy jednostek gospodarki uspołecznionej, zwanych dalej zakładami, którym w ramach ich czynności służbowych kierownictwo zakładu powierza samodzielne wykonywanie prac w zakresie konserwacji i naprą- - wy urządzeń energetycznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "osoby, które uzyskały uprawnienia do wykonywania usług w zakresie konserwacji i naprawy urządzeń energelycznych na podstawie ustawy z dnia 1 lipca 1956 r. o zezwoleniach na wykonywanie przemysłu, rzemiosła, handlu i niektórych usług przez jednostki gospodarki nie uspołecznionej (Dz. U. z 1958 r. Nr 45, poz. 224, z 1960 r. Nr 52, poz. 303 i-z 1963 r. Nr 22, poz. 113) lub na podstawie prawa przemysłowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Kierownicy zakładów sporządzą w terminie trzymiesięcznym od dnia wejścia w życie rozporządzenia wykazy stanowisk pracy, na których powinny być zatrudniane osoby odpowiadające przepisom rozporządzenia i którym można powierzać wykonywanie czynności wymienionych w § 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Wykazy, o których mowa w ust. 1, powinny być bieżąco uzupełniane w.miarę potrzeb oraz na żądanie właściwego terenowo okręgowego inspektoratu gospodarki paliwowo-ernergelycznej,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Kwalifikacje osób wykonujących usługi w zakresie konserwacji i naprawy urządzeń energetycznych."
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Usługi w zakresie konserwacji i naprawy urządzeń energetycznych może wykonywać osoba, która posiada ustalone w rozporządzeniu kwalifikacje i otrzymała zaświadczenie kwalifikacyjne, :",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W zakresie wykształcenia i stażu pracy ustala się następujące minimalne wymagania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_6/pkt_1",
+     "text": "świadectwo robotnika wykwalifikowanego w odpowiednim zawodzie lub tytuł czeladnika w zawodzie objętym listą rzemiosł oraz odbycie co najmniej trzyletniej pracy przy prowadzeniu eksploatacji odpowiednich urządzeń \"energetycznych lub ich konserwacji i naprawach, wykonywanej pod kierunkiem uprawnionych w tym zakresie pracowników, albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "ukończenie odpowiedniej zasadniczej szkoły zawodowej lub równorzędnej, odbycie wymaganego wstępnego stażu pracy, a ponadto odbycie co najmniej dwuletniej pracy przy prowadzeniu eksploatacji odpowiednich urządzeń energetycznych lub ich konserwacji i naprawach, wykonywanej pod kierunkiem uprawnionych w tym zakresie pracowników, albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "ukończenie odpowiedniej średniej szkoły zawodowej, odbycie wymaganego wstępnego stażu pracy, a ponadto odbycie co najmniej półrocznej pracy przy prowadzeniu eksploatacji odpowiednich urządzeń energetycznych lub ich konserwacji i naprawach, wykónywanej pod kierunkiem uprawnionych w tym zakresie pracowników.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ug"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "- Stwierdzanie kwalilikacji."
+  },
+  {
+   "type": "text",
+   "text": "§ 7, 1. Osoby wymienione w § 3 pkt 1, ubiegające się o sprawdzenie kwalifikacji, występują z wnioskiem do kierownika zakładu, w którym są lub mają być zatrudnione, załączając odpowiednie dokumenty."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Osoby wymienione w § 3 pkt 2 występują z wnioskiem do izby rzemieślniczej.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Kierownik zakładu (izba rzemieślnicza), opierając się na przedstawionych dokumentach, przesyła wniosek z załączonymi dokumertami do odpowiedniej komisji egzaminacyjnej, zawiadamiając o tym zainteresowanego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 8 1. Program egzaminu obejmuje:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_3/pkt_1",
+     "text": "warunki techniczne budowy właściwych urządzeń energetycznych z uwzględnieniem wymagań bezpieczeństwa i higieny pracy oraz bezpieczeństwa pożarowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_3/pkt_2",
+     "text": "instrukcje eksploatacyjno-ruchowe, konserwacyjne i remontowe,",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "naprawy właściwych"
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_3/pkt_3",
+     "text": "normy dotyczące konserwacji i urządzeń energetycznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_3/pkt_4",
+     "text": "zasady postępowania w razie pożaru lub innego zagrożenia bezpieczeństwa obsługi i otoczenia oraz zasady udzielania pierwszej pomocy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Szczegółowy zakres egzaminu komisja egzaminacyjna powinna podać do wiadomości osobom zainteresowanym co najmniej na 30 dni przed terminem egzaminu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Do przeprowadzenia egzaminów powołane są komisje egzaminacyjne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Komisje egzaminacyjne powołują kierownicy zakładów. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Kierownik jednostki nadrzędnej może-powołać wspólną komisję egzaminacyjną dla kilku podległych zakładów, ustalając właściwość komisji egzaminacyjnych dla zakładów, dla których nie będzie celowe powoływanie odrębnych komisji egzaminacyjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_9/ust_4",
+     "text": "Dla osób określonych w § 3 pkt 2 komisje egzaminacyjne powołują izby rzemieślnicze,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_9/ust_5",
+     "text": "W zakresie usług wymienionych w § 2 pkt 1, 2 i 3 komisje egzaminacyjne powołuje Państwowy Inspektorat Gospodarki Paliwowo-Enerqetycznej, który może powierzyć organizowanie tych komisji innym jednostkom organizacy nym lub organom właściwych stowarzyszeń naukowo-technicznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Do składu komisji egzaminacyjnych powołuje się osoby sprawujące kierownictwo i dozór nad eksploatacją urządzeń energetycznych oraz inne osoby posiadające odpowiednie kwalifikacje w zakresie wykształcenia i stażu pracy zawodowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Do składu komisji egzaminacyjnych powinni być w szczególności powoływani pracownicy jednostek nadrzędnych nad zakładami, przedstawiciele stowarzyszeń naukowo-technicznych, zarządów okręgów właściwych branżowo związków zawodowych i inspektorzy pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Komisja egzaminacyjna przeprowadza eqzaminy w zespołach egzaminacyjnych złożonych co najmniej z 4 osób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "W skład zespołu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_2/pkt_1",
+       "text": "przewodniczący zespołu, wyznaczony przez przewodniczącego komisji,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_2/pkt_2",
+       "text": "‘co najmniej trzech członków-egzaminatorów z wykształceniem technicznym tak dobranym, aby skład zespołu odpowiadał zakresowi specjalności i zapewniał właściwy przebieg egzaminu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Egzamin jest ustny.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, O wyniku egzaminu decyduje zespół egzaminacyjny większością głosów. W. razie równości głosów rozstrzyga głos przewodniczącego. Ocenę wyniku egzaminu ustala się jako zadowalający lub niezadowalający."
+      },
+      {
+       "type": "text",
+       "text": "Ec"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_11/ust_5",
+     "text": "Z przebiegu egzaminu komisja sporządza protokół i przekazuje go kierownikowi jednostki, przy której komisja działa. 8",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_11/ust_6",
+     "text": "W razie niezadowalającego wyniku egzaminu przewodniczący komisji podaje egzaminowanemu termin, po którego upływie może on poddać się ponownie egzaminowi. Termin ten nie może być krótszy od 3 miesięcy. i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_11/ust_7",
+     "text": "Na podstawie protokołu komisji egzaminacyjnej kierownik jednostki, przy której komisja działa, wystawia zaświadczenie kwalifikacyjne według wzoru, stanowiącego załącznik do rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Wydane w wyniku egzaminu zaświadczenia kwalifikacyjne zachowują ważność w zakresie tych samych usług dotyczących konserwacji i naprawy odpowiednich urządzeń energetycznych również w razie zmiany miejsca zatrudnienia osoby wykonującej usługi.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Kierownicy zakładów (§ 3 pkt 1) mogą zwolnić od obowiązku złożenia egzaminu osoby, które złożyły z wynikiem zadowalającym egzamin przewidziany w rozporządzeniu Ministra Górnictwa i Energetyki z dnia 20 sierpnia 1965 r. w sprawie kwalifikacji osób sprawujących kierownietwo i dozór nad eksploatacją urządzeń energetycznych (Dz. U. Nr 38, poz. 238) lub w rozporządzeniu Ministra Górnictwa i Energetyki z dnia 20 sierpnia 1965 r. w sprawie: wykazu stanowisk i kwalifikacji osób obsługujących urzą- „dzenia energetyczne (Dz. U. Nr 38, poz. 240).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Sprawdzenie znajomości przepisów na podstawie egzaminu podlega powtórzeniu:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_14/pkt_1",
+     "text": "na wniosek kierownika zakładu lub kierownika jednostki nadrzędnej (w stosunku do osób wymienionych w § 3 pkt 2 — na wniosek izby rzemieślniczej) oraz na wniosek inspektora pracy lub właściwego terenowo okręgowego inspektoratu gospodarki paliwowo-energetycznej w razie stwierdzenia, że konserwacja lub naprawy urządzeń energetycznych prowadzone są niezgodnie z obowiązującymi przepisami, i",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_14/pkt_2",
+     "text": "w razie przerwy w pracy przy wykonywaniu usług w zakresie konserwacji i naprawy urządzeń energelycznych, jeżeli przerwa ta trwa dłużej niż 2 lata,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_14/pkt_3",
+     "text": "w zakresie usług wymienionych w § 2 pkt 1, 213 — okresowo co 2 lata, jeżeli przepisy z zakresu bezpieczeństwa i higieny pracy nie stanowią inaczej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Przepisy przejściowe i końcowe."
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Zachowują ważność zaświadczenia kwalifikacyjne wydane przed dniem wejścia w życie niniejszego rozporządzenia na podstawie przepisów technicznej eksploatacji urządzeń elektrycznych w zakładach przemysłowych oraz przepisów eksploatacji elektrowni i sieci,",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "z 319 — Poz. 239"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Osoby wykonujące w dniu wejścia w życie rozporządzenia usługi w zakresie konserwacji i naprawy urządzeń eneryelycznych, nie posiadające sprawdzonych kwalifikacji, obowiązane są uzyskać zaświadczenie kwalifikacyjne określone w rozporządzeniu w okresie jednego roku od dnia jego wejścia w życie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "W wypadkach szczególnie uzasadnionych kierownik jednostki nadrzędnej nad zakładem zatrudniającym pracownika (w stosunku do osób wymienionych w § 3 pkt 2 — izba rzemieślnicza), w porozumieniu z właściwym terenowo okręgowym .inspektoratem gospodarki paliwowo-energetycznej, może zwolnić osobę, posiadającą duże doświadczenie zawodowe oraz dobrze wypełniającą powierzone obowiązki, od wymagań kwalifikacyjnych w zakresie wykształcenia i stażu pracy na czas nie ograniczony lub ograniczony ter-",
+   "children": [
+    {
+     "type": "text",
+     "text": "(Nazwa jednostki powołującej komisję. egzaminacyjną) - minem, w którym pracownik obowiązany jest uzupełnić wykształcenie."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Rozporządzenie nie dotyczy osób zatrudnionych w zakładach objętych przepisami prawa górniczego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Jeśli branżowe przepisy szczególne (np. taryfikatory kwalilikacyjne) przewidują wyższe wymagania kwalifikacyjne w zakresie wykształcenia i stażu pracy dla osób wykonujących usługi w zakresie konserwacji i naprawy urządven energetycznych od określonych w rozporządzeniu, mają zastosowanie w tym zakresie postanowienia przepisów szczególnych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Rozporządzenie wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Górnictwa i Energetyki: w z. K. Fabris"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do rozporządzenia Ministra Górnictwa i Energetyki z dnia 20 sierpnia 1965 r. (poz. 239). . Wzór (Format A5)",
+   "body": [
+    {
+     "type": "text",
+     "text": "ZAŚWIADCZENIE KWALIFIKACYJNE Nr ....."
+    },
+    {
+     "type": "text",
+     "text": "Na „podstawie „przepisów rozporządzenia Ministra Górnictwa i Energetyki z dnia 20 sierpnia 1965 r. w sorawie kwalifikacji osób wykonujących usługi w zakresie konserwacji i naprawy urządzeń energetycznych (Dz. U. Nr 38, poz. 239), w oparciu o wynik egzaminu złożonego w dniu . ‘ ; > z przed: komisją egzaminacyjną: powołaną przez . . Ą : ‘ . . ża jedaóstki aaa komisję) (protekół nr .... .) ze: znajomości warunków technicznych budowy odpowiednich urządzeń energetycznych oraz znajomości przepisów związanych z właściwą konserwacją i naprawą urządzeń energetycznych z uwzględnieniem wymagań bezpieczeństwa i higieny pracy i bezpieczeństwa pozrowego za- „ świadczą się, że Obywatel . SE W - 5 ‘ może wykonywać konserwację i naprawę"
+    },
+    {
+     "type": "text",
+     "text": "1). . . . . . . . I"
+    },
+    {
+     "type": "text",
+     "text": "Mię: Tyszko wd mę a (e Nod"
+    },
+    {
+     "type": "text",
+     "text": "5"
+    },
+    {
+     "type": "text",
+     "text": "urządzeń energetycznych w zakresie prac:"
+    },
+    {
+     "type": "text",
+     "text": ". . . . . . . . . « . . ."
+    },
+    {
+     "type": "text",
+     "text": "we u Taj w „a Tom ai ai TA Uk dd. w\" od (wymienić rodzaje prac, o których mowa w § 2 rozporządzenia, oraz ewentualne uprawnienia lub ograniczenia)"
+    },
+    {
+     "type": "text",
+     "text": "i Pieczęć okrągła"
+    },
+    {
+     "type": "text",
+     "text": "'"
+    },
+    {
+     "type": "text",
+     "text": ". . . . . . . . . (podpis przewodniczącego komisji)"
+    },
+    {
+     "type": "text",
+     "text": "a U . Fy att Ę z ‘ « (data i miejsce wystawienia) mi"
+    },
+    {
+     "type": "text",
+     "text": ". . . . : . . . . . „(podpis \"zerowka jednostki powołującej komisję egqzaminacy jną)"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

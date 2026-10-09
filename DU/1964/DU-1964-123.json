@@ -1,0 +1,137 @@
+{
+ "eli": "DU/1964/123",
+ "title": "Rozporządzenie Ministra Finansów z dnia 23 maja 1964 r. w sprawie ustalenia stawek podatku obrotowego dla zakładów gastronomicznych i pensjonatów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1964/123/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 maja 1964 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ustalenia stawek podatku obrotowego dla zakładów gastronomicznych i pensjonatów."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 ust. 2 pkt 2 dekretu z dnia 26 października 1950 r. o podatku obrotowym (Dz. U. Nr 49, poz. 449, z 1955 r. Nr 22, poz. 139, z 1960 r. Nr 29, poz. 167 i z 1962 r. Nr 66, poz. 327) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Stawki podatku obrotowego ustala się w wysokości: m,",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "2%» — od obrotów osiąganych przez zakłady gastronomiczne nie prowadzące sprzedaży napojów zawierających alkohol;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "od obrotów osiąganych przez pozostałe zakłady gastro- * ~ nomiczne:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "sa",
+         "path": "par_1/ust_1/pkt_2/lit_sa",
+         "text": "3% — ze sprzedaży potraw i napojów o zawartości do 18\"/e alkoholu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_1/pkt_2/lit_b",
+         "text": "8%%» — ze sprzedaży napojów o zawartości śikoholu powyżej 18°/o;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_1/pkt_3",
+       "text": "10% — od obrotów osiąganych przez pensjonaty nie prowadzące sprzedaży napojów zawielających powyżej 18%/y alkoholu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "W wypadkach, o których mowa w art. 5 ust. 4 dekretu z dnia 26 października 1950 r. o podatku obrolowym (Dz. U. Nr 49, poz. 449, z 1955 r. Nr 22, poz. 139, z 1960 r. Nr 29, poz. 167 i z 1962 r. Nr 66, poz, 327), podwyżka stawek tego podatku:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "nie przekraczających 10% — wynosi 500% tych stawek,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "przekraczających 10% — wynosi liczbę 5.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Tracą moc rozporządzenia Ministra Finansów:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "z dnia 19 maja 1954 r. w sprawie obniżenia stawki podatku obrotowego dla zakładów gastronomicznych (Dz. U. Nr 32, poz. 132),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "z dnia 27 sierpnia 1960 r. w sprawie obniżenia stawki podatku obrotowego dla niektórych zakładów gastronomicznych i pensjonatów (Dz. U. Nr 42, poz. 254).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 czerwca 1964 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: J. Albrecht"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

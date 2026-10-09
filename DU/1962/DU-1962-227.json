@@ -1,0 +1,2130 @@
+{
+ "eli": "DU/1962/227",
+ "title": "Obwieszczenie Ministra Gospodarki Komunalnej z dnia 25 lipca 1962 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 30 stycznia 1959 r. - Prawo lokalowe.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1962/227/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA GOSPODARKI KOMUNALNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 lipca 1962 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 30 stycznia 1959 r. — Prawo lokalowe."
+  },
+  {
+   "type": "text",
+   "text": "I. Na podstawie art. 3 ustawy z dnia 29 czerwca 1962 r. o zmianie Prawa lokalowego (Dz. U. Nr 39, poz. 170) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 stycznia 1959 r. — Prawo lokalowe (Dz. U. Nr 10, poz. 59) z uwzględnieniem zmian wprowadzonych ustawą z dnia 29 czerwca 1962 r. o zmianie Prawa lokalowego (Dz. U. Nr 39, poz. 170) oraz art. 25 ustawy z dnia 14 lipca 1961 r. o ewidencji i kontroli ruchu ludności (Dz. U Nr 33, poz. 164) i zmian wynikających z przepisów wydanych przed dniem ogłoszenia jednolitego tekstu, z zastosowaniem nowej ciągłej numeracji artykułów, ustępów i punktów."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podany w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 30 stycznia 1959 r. — Prawo lokalowe nie obejmuje: je",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "art. 2 i art. 4 ustawy z dnia 29 czerwca 1962 r. o zmianie Prawa lokalowego (Dz. U. Nr 39, poz. 170) w brzmię- \"niu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art 2, 1. Kolegia dla spraw lokalowych rozwiązują się po rozpoznaniu spraw skierowanych do nich przed dniem wejścia w życie niniejszej ustawy, nie później jednak niż po upływie roku od dnia wejścia w życie tej ustawy. Decyzje kolegiów mogą być w razie naruszenia prawa uchylone lub zmienione przez Ministra Gospodarki Komunalnej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Sprawy nie rozpoznane przez kolegia w okresie wskazanym w ust. podlegają rozpoznaniu przez organy wymienione w art. 44 ust: 3 i 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 4. Ustawa wchodzi w życie z dniem ogłoszenia.\";",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "art. 90 ustawy z dnia 30 stycznia 1959 r. — Prawo lokalowe (Dz. U. Nr 10, poz. 59) w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 90. Ustawa wchodzi w życie z dniem ogłoszenia”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Komunalnej: w z. J. Goryński"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Gospodarki Komunalnej z dnia 25 lipca 1962 r. (poz. 227).",
+   "body": [
+    {
+     "type": "text",
+     "text": "USTAWA"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 30 stycznia 1959 r."
+    },
+    {
+     "type": "text",
+     "text": "Prawo lokalowe."
+    },
+    {
+     "type": "text",
+     "text": "Postanowienia ogólne."
+    },
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_1/ust_1",
+       "text": "Ustawa niniejsza ma na celu unormowanie „ korzystania z lokali mieszkalnych i użytkowych .w sposób uwzględniający konieczne warunki bytowe ludności oraz za- „pewniający ochronę i utrzymywanie w należytym stanie zasobu lokali mieszkalnych i użytkowych. ~",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_1/ust_2",
+       "text": "Przepisom niniejszej ustawy nie podlegają:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_1/ust_2/pkt_1",
+         "text": "lokale dziennie. wynajmowane w hotelach, gospodach i pensjonatach,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_1/ust_2/pkt_2",
+         "text": "lokale na terenie gromad w nie podlegających podatkowi od nieruchomości lub zwolnionych od tego podatku budynkach gospodarstw rolnych indywidualnych lub spółdzielni produkcyjnych. Lokale w tych budynkach mogą być jednak przydzielane na pomieszczenia zastępcze dia osób pozbawionych mieszkań wskutek klęski żywiołowej (huragan, powódź) lub pożaru (art. 61 ust. 3).",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_1/ust_3",
+       "text": "Przepisom niniejszej ustawy nie podlegają również:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_1/ust_3/pkt_1",
+         "text": "lokałe w budynkach położonych na terenie państwowych gospodarstw rolnych i leśnych oraz państwowych przedsiębiorstw (zakładów) mechanizacji rolnictwa, zajmowane przez osoby nie zatrudnione w resorcie rolnictwa lub w resorcie leśnictwa i przemysłu drzewnego, jednakże mają do nich zastosowanie przepisy o opróżnianiu mieszkań służbowych (art. 64 ust. 6) oraz o normach zaludnienia, obowiązujących w mieszkaniach służbowych i koń-- troli wykorzystania tych mieszkań (art. 64 ust. 3),",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "z I = SS O ESTE M RE Tp EWĆ\" ONE TĘ ZPOW” TZEZWCENNENO RY 5."
+          },
+          {
+           "type": "text",
+           "text": "ee ów Baiennik Ustaw Nr 47"
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_1/ust_3/pkt_2",
+         "text": "lokale w budynkach znajdujących się w użytkowaniu lub pod zarządem organów kwaterunkowych wojska oraz. lokale przydzielone wojsku ma zakwaterowanie stałe Sił Zbrojnych. Przydział ten nie może obejmować lokali podlegających wpzene spod publicznej gospodarki lokalami.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_1/ust_4",
+       "text": "Radzie Ministrów przysługują w stosunku do lokali wymienionych w ust. 3 pkt 1 uprawnienia przewidziane w art. 3.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział I",
+     "text": "Najem lokali i budynków."
+    },
+    {
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_2/ust_1",
+       "text": "Stosunek najmu lokali i budynków zawiązuje się na podstawie u mewy najmu albo na podstawie decyzji o przydziale lokali lub’ budynków. Stosunek najnu na podstawie decyzji o przydziale zawiązuje się z dniem objęcia lokalu lub budynku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_2/ust_2",
+       "text": "W przypadkach stosunku najmu, wynikającego z de- „.'cyzji o przydziale, strony powinny stwierdzić szczegółowo przedmiot i warunki najmu w formie pisemnej, ‘3. W przypadkach gdy stosunek najmu zawiązuje się na podstawie umowy, umowa najmu powinna być zawarta na piśmie:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_2/ust_2/pkt_1",
+         "text": "jeżeli chodzi o najem lokalu w budynku stanowiącym własność Państwa lub przejętym w zarząd państwowy (art. 70) albo o najem takiego budynku,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_2/ust_2/pkt_2",
+         "text": "jeżeli umowa najmu lokalu w budynku prywatnym nie przejętym w zarząd państwowy albo najmu takiego budynku zostaje zawarta na czas oznaczony dłuższy niż rok.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_3/ust_1",
+       "text": "Zasady ustalania wysokości czynszu najmu wszystkich lub niektórych kategorii lokali mieszkalnych i użytkowych, ulg w opłacaniu czynszu, właściwość organów powołanych do ustalania wysokości czynszu i kontroli właściwego użycia wpływów czynszowych na cele eksploatacji, konserwacji i amortyzacji budynku oraz tryb postępowania w tych sprawach określi Rada Ministrów w drodze rezporządzenia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_3/ust_2",
+       "text": "Rada Ministrów może w drodze rozporządzenia ustalić zasady przeznaczania części czynszu najmu na remonty budynków, na ulepszenie w wyposażeniu technicznym tych budynków, na ich odbudowę lub przebudowę.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział II",
+     "text": "Obowiązki i uprawnienia stron."
+    },
+    {
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "Wynajmujący obowiązany jest do oddania najemcy lokalu lub budynku w określonym terminie, w stanie zdatnym do użytku i do utrzymywania go w takim stanie przez czas trwania stosunku najmu, o ile przepisy szczególne nie nakładają obowiązków w tym zakresie na najemcę.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "5",
+     "path": "art_5",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_5/ust_1",
+       "text": "Wynajmujący uprawniony jest do pobierania od najemców, oprócz czynszu, opłat tytułem zwrotu kosztów dostarczonego oświetlenia i ogrzewania lokalu, dostarczenia ciepłej wody oraz opłat za używanie dźwigów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_5/ust_2",
+       "text": "W razie braku indywidualnych urządzeń pomiarowych, opłaty wymienione w ust. 1 powinny być rozłożone na poszczególnych najemców korzystających ze świadczeń w stosunku do podstawy obliczania czynszu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_5/ust_3",
+       "text": "Jeżeli najem cbejmuje lokale użytkowe, wynajmujący może pobierać, oprócz opłat wymienionych w ust. 1, również opłaty za zużytą przez najemcę wodę z publicznych urzą „ dzeń wodociągowych i za korzystanie z kanalizacji publicznej. _ 4. Rady narodowe miast, osiedli i gromad mogą ustalić górną granicę opłat wymienionych w ust. 1 i 3.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 6,.1. Jeżeli przy objęciu lokalu lub w czasie trwania stosunku najmu okaże się potrzeba napraw, które obciążają wynajmującego, najemca powinien zawiadomić go o tym bezzwłocznie, w przeciwnym razie odpowiada za szkodę."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_5/ust_2",
+       "text": "Najemca uprawniony jest do wykonania koniecznych napraw określonych w ust. I na koszt wynajmującego, © We wynajmujący, mimo wezwania, napraw tych nie wykona.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "7",
+     "path": "art_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_7/ust_1",
+       "text": "Najemca obowiązany jest w czasie trwamia - stosunku najmu używać lokalu (budynku) z należytą starannością, zgodnie z jego przeznaczeniem oraz przeprowadzać. własnym kosztem drobne naprawy i ponosić wydatki pelt czone z odnowieniem lokalu. '",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_7/ust_2",
+       "text": "Minister Gospodarki Komunalnej w drodze rozporządzenia określi szczegółowo, jakie naprawy i wydatki obciążają najemeę, ustali zasady odnawiania lokala przez najemcę oraz zasady wykonywania koniecznych napraw Sad Sassen” nych w art. 6 ust. 2.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "8",
+     "path": "art_8",
+     "text": "Koszty napraw szkód w lokalu (budynku) powsłałych z winy najemcy obciążają najemce.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_9/ust_1",
+       "text": "Najemca lokalu w domu wielomieszkaniowym obowiązany jest stosować się do regulaminu porządku do- - mowego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_9/ust_2",
+       "text": "Regulamin porządku domowego ustała prezydium właściwej rady narodowej, a w domach spółdzielni mieszkaniowych — zarząd spółdzielni.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_10/ust_1",
+       "text": "Bez zgody wynajmującego nie wolno najemcy czynić zmian, naruszających substancję lokalu lub budynku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_10/ust_2",
+       "text": "Nie stanowi naruszenia substancji lokalu lub budynku zaprowadzenie w nim oświetlenia elektfycznego, gazu, telefonu, instalacji radiowej i imnych tego sodzaju urządzeń, jeżeli sposób ich zaprowadzenia nie sprzeciwia się obowiązującym przepisom. © ile do zaprowadzenia takich urządzeń — potrzebne jest współdziałanie wynajmującego, najemca może domagać się tego współdziałania za zwrotem połączonych — z tym kosztów. Art. ti. 1. Czynsz płatny jest miesięcznie z góry do dnia 10 każdego miesiąca, a inne opłaty (art. 5) miesięcznie z dołu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_10/ust_2",
+       "text": "W przypadkach przydziału lokalu obowiązek płacenia czynszu powstaje od dmia, w którym lokal, zgodnie z decyzją o przydziale, mógł być przez najemcę objęty, choćby faktyezne objęcie nastąpiło po tym dniu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_10/ust_3",
+       "text": "W razie zwłoki w uiszczeniu nałeżności określonych „w ust. 1 przez najemcę lokalu pozostającego w zarządzie*organów prezydiów rad narodowych lub innych jednostek państwowych — wynajmującemu służy prawo pobrania tytułem odszkodowania za opóźnienie odsetek, których wysokość i przeznaczenie określi Rada Ministrów w drodze rozporządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "12",
+     "path": "art_12",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_12/ust_1",
+       "text": "Najem lokali mieszkalnych w domach wybudowanych lub odbudowanych po dniu 1 stycznia 1950 r. albo w nadbudowanych po tym dniu częściach domów starych, a pozosiających w zarządzie organów prezydiów rad narodowych lub innych jednostek państwowych, jest uzależniony od wpłacenia kaucji.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_12/ust_2",
+       "text": "Od osób otrzymujących przydział mieszkań służbowych w zakładowych domach mieszkalnych (art. 64 ust. 2. pkt 5) nie pobiera się kaucji, o której mowa w ust. 1. Osoby te obowiązane są natomiast do wpłacenia wkładu mieszka niowego na warunkach i w wysokości określonej przez Radę - Ministrów.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_12/ust_3",
+       "text": "Przepis ust. 1 stosuje się również do lokali mieszkalnych w budynkach wybudowanych przed dniem 1 stycznia 1950 r., jeżeli lokale te zostały gruntownie odremonigwang przed przydzieleniem ich nowemu najemcy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_12/ust_4",
+       "text": "Kaucja zabezpiecza utrzymanie flokalu mieszkalnego w należytym stanie,",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_12/ust_5",
+       "text": "Rada Ministrów określi w drodze rozporządzenia wys sokość kaucji dla poszczególnych kategorii lokali mieszkał nych, kategorie najemców zwolnionych w całości lub w części od wpłacania kaucji oraz warunki wynajmowania lokali mieszkalnych wymienionych w ust. 1 i 3.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Bziennik Ustaw Nr-47:"
+        },
+        {
+         "type": "text",
+         "text": "aa AOT SWAN"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział III",
+     "text": "Rozwiązanie stosunku najmu."
+    },
+    {
+     "type": "art",
+     "num": "13",
+     "path": "art_13",
+     "text": "Stosunek najmu kończy się z upływem czasu, na jaki zawarto umowę, względnie z upływem okresu oznaczonego w decyzji o przydziale lokalu, jeżeli przydział nastąpił na czas określony. „Art. 14. Umowa najmu zawarta na czas nieoznaczony może być rozwiązana za trzymiesięcznym wypowiedzeniem, chyba że strony w pisemnej umowie ustaliły dłuższy termin wypowiedzenia.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "15",
+     "path": "art_15",
+     "text": "Jeżeli stosunek najmu zawiązał się w oparciu o decyzję o przydziale, wynajmujący nie może stosunku tega rózwiązać z innych przyczyn niż wymienione w art. 16.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "16",
+     "path": "art_16",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_16/ust_1",
+       "text": "Wynajmujący może wystąpić do sedu o uznanie stosunku najmu za rozwiązany i o opróżnienie lokalu w przypadkach, gdy najemca:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_16/ust_1/pkt_1",
+         "text": "używa lokalu w sposób niezgodny z jego przeznaczeniem lub wbrew postanowieniom art. 10 ust. 1 albo w sposób pociągający za sobą znaczne zniszczenie lokalu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_16/ust_1/pkt_2",
+         "text": "wykracza w sposób rażący lub uporczywy przeciw obo- _ wiązującemu porządkowi domowemu,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_16/ust_1/pkt_3",
+         "text": "zachowaniem swoim wywołuje uzasadnione zgorszenie u innych najemców lub sąsiadów albo",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_16/ust_1/pkt_4",
+         "text": "zalega z zapłatą czynszu lub opłat wymienionych w art.$ \"co najmniej za dwa miesiące. _ 2. Uprawnienie do wvstąpienia do sądu z przyczyn wymienionych w ust. 1 pkt 2 i 3 służy również poszczególnym „najemcom lokali w danej nieruchomości.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17",
+     "path": "art_17",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_17/ust_1",
+       "text": "Stosunek najmu nie rozwiązuje się przez śmierć wynajmującego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17/ust_2",
+       "text": "W razie śmierci najemcy jego małżonek i inni członkowie rodziny mieszkający z nim stale do chwili śmierci wstępują w stosunek najmu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "18",
+     "path": "art_18",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_18/ust_1",
+       "text": "Członkowie rodziny wymienieni w art. 17 ust. 2 mogą w razie śmierci najemcy rozwiązać umowę najmu — również zawartą na czas oznaczony — parry wypowiedzenie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_18/ust_2",
+       "text": "Jeżeli wypowiedzenia dokonali tylko niektórzy członkowie rodziny, najem rozwiązuje się jedynie względem tych członków rodziny.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "19",
+     "path": "art_19",
+     "text": "Najemcy, których głównym źródłem utrzymania jest praca najemna, mogą w razie objęcia pracy w innej miejscowości rozwiązać przez wypowiedzenie umowę najmu za 30-dniowym wypowiedzeniem niezależnie 'od tego, czy umowa była zawarta na czas oznaczony lub nieoznaczony.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "20",
+     "path": "art_20",
+     "text": "Gdy po upływie czasu, określonego w umowie albo w wypowiedzeniu, najemca zajmuje nadal Jokal za wyrażną lub wynikającą ż okoliczności zgodą wynajmującego, najem uważa się za przedłużony na czas nieokreślony.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "21",
+     "path": "art_21",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_21/ust_1",
+       "text": "Po zakończeniu stosunku najmu najemca obowiązany jest zwrócić lokal wyma jmującennu w stanie nie po- . gorszonym.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_21/ust_2",
+       "text": "Najemca nie odpowiada za pogorszenie lokalu będące wynikiem zużycia technicznego budynku ani za uszkodzenia nie pochodzące z jego winy lub z winy jego domowników.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "22",
+     "path": "art_22",
+     "text": "Roszczeń o odszkodowanie z powodu zwrócenia lokalu w stanie pogorszonym nie można dochodzić sądownie po upływie sześciu miesięcy od dnia zwrotu lokału.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "23",
+     "path": "art_23",
+     "text": "Jeżeli najemca lokal ulepszył, wynajmujący — w braku odmiennej umowy — ma prawo zatrzymać ulepszenia za zapłatą sumy odpowiadającej ich wartości w chwili zwrotu lokalu lub żądać, aby najemca je usunął, z obowiąż- „kiem przywrócenia lokalu do pierwotnego stanu. ', Art. 24. Po-upływie sześciu miesięcy od dnia zwrotu. lokalu najemca nie może dochodzić sądownie roszczeń o zwrot „wydatków: na naprawy obciążające wynajmującego oraz wydatków Ra ulepszenia: zatrzymane przez. wynajmującego. _;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz. *227"
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział IV",
+     "text": "Odstąpienie używania najętego lokalu i podnajem."
+    },
+    {
+     "type": "art",
+     "num": "25",
+     "path": "art_25",
+     "text": "Najemca może najęty lokal nie podlegający publicznej gospodarce lokalami oddać w całości lub części osobie trzeciej do bezpłatnego używania albo w podnajem, jeżeli mu tego umowa nie zabrania,",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "26",
+     "path": "art_26",
+     "text": "Najemca odpowiada za to, że osoba trzecia będzie używała lokalu zgodnie z obowiązkami najemcy.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "27",
+     "path": "art_27",
+     "text": "Umowa o bezpłatne używanie lub o podnajem rozwiązuje się przez zakończenie stosunku najmu, jeżeli jej rozwiązanie nie nastąpiło wcześniej z innych przyczyn.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział V",
+     "text": "Publiczna gospodarka lokalami,"
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 1",
+     "text": "Postanowienia ogólne."
+    },
+    {
+     "type": "art",
+     "num": "28",
+     "path": "art_28",
+     "text": "Wojewódzka rada naródowa w poszczególnych * miastach, osiedlach i gromadach, a rada narodowa miasta wyłączonego z województwa — na swoim terenie może wprowadzić publiczną gospodarkę lokalami. Uchwała o wprowadzeniu publicznej gospodarki lokalami podlega ogłoszeniu w ' dzienniku urzędowym wojewódzkiej rady narodowej (rady narodowej miasta wyłączonego z województwa) i wchodzi w życie z dniem ogłoszenia.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "29",
+     "path": "art_29",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_29/ust_1",
+       "text": "Od dnia wejścia w życie na danym terenie uchwały, wymienionej w art. 28, stosunek najmu lokali mieszkalnych i użytkowych na tych terenach w budynkach ‘i lokalach nie wyłączonych spod publicznej gospodarki lokalami fart. 30) zawiązuje się na podstawie decyzji o przydziałe lokalu lub budynku, co nie zwalnia siron od obowiązku zawarcia umowy najmu. 2, Osoby zajmujące lokale mieszkalne lub użytkowe na podstawie tytułu prawnego w dniu wejścia w życie na danym terenie uchwały, wymienionej w art. 28, mogą te lokale nadal zajmować w ramach obowiązujących norm zaludnienia bez potrzeby uzyskiwania przydziału. Właściwy organ prezydium rady narodowej obowiązany jest na żądanie uprawnionego wydać mu na piśmie poświadczenie powyższego uprawnienia, o ile lokal używany jest zgodnie z jego przeznaczeniem. Warunki zajmowania lokalu przez najemców powinny być stwierdzone w. formie przewidzianej w art. 2 ust. 2. , 3.. Niedopuszczalne jest posiadanie więcej niż jednego lokalu mieszkalnego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "30",
+     "path": "art_30",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_30/ust_1",
+       "text": "Nie podlegają publicznej gospodarce lokalami:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_30/ust_1/pkt_1",
+         "text": "lokale wyłączone spod publicznej gospodarki lokalami na podstawie odrębnych przepisów,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_30/ust_1/pkt_2",
+         "text": "budynki i lokale zajmowane przez przedstawicielstwa dyplomatyczne państw obcych, szefów i cudzoziemski per- \" sonel tych przedstawicielstw oraz przez inne osoby i międzynarodowe instytucje korzystające z przywilejów dy- ‘= plomatycznych na mocy ustaw, umów lub ustalonych zwyczajów międzynarodowych, a także przez urzędy konsularne państw obcych, szefów i personel tych urzędów, posiadający obywatelstwo kraju wysyłającego; warunki zajmowania budynków i lokali przez wspomniane osoby i instytucje ustali Minister Gospodarki Komunalnej w porozumieniu z Ministrem Spraw Zagranicznych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_30/ust_1/pkt_3",
+         "text": "budynki z przeznaczenia użytkowe będące w całości w używaniu i zarządzie jednostek gospodarki uspołecznionej, z wyjątkiem -lokali handlowych. i usługowych, która znajdują się na parterach tych budynków, jeżeli są uży- 5 wane „przez. jednostki inne niż jednostki zarządzające Ca- . yo tym budynkiem,",
+         "children": [
+          {
+           "type": "note",
+           "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+          },
+          {
+           "type": "text",
+           "text": "Bziemnik Ustaw Nr 47"
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_30/ust_1/pkt_4",
+         "text": "lokale w budynkach bankowych banków państwowych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_30/ust_1/pkt_5",
+         "text": "budynki w ebrębie portów i lotnisk, :6) budynki łab ich części owa na cele domów stu- . @enckich,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "art_30/ust_1/pkt_7",
+         "text": "budynki i lokale przeznaczone na zakwaterowanie Milicji Obywatelskiej oraz funkcjonariwszów służby więziennej i zakładów poprawczych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "8",
+         "path": "art_30/ust_1/pkt_8",
+         "text": "budynki i lokale przeznaczone do wykonywania kultu rełigijnego uznanych przez Państwo wyznań, '9) budynki i lokałe zajęte przez muzea -publiczne,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "70",
+         "path": "art_30/ust_1/pkt_70",
+         "text": "lokale przeznaczone na mieszkania służbowe i reprezentacy jne.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_30/ust_2",
+       "text": "Rada Ministrów może w drodze rozporządzenia wyła- «czyć spod publicznej gospodarki lokalami inne kategorie budynków i lokali oraz unormować warunki i tryb ich przy- „dzielania i opróżniania. -",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_30/ust_3",
+       "text": "Przewodniczący Komitetu Pracy i Płac w porozumieniu z Ministrem Gospodarki Komimalnej ustali warunki zaj- „mowania i opróżniania lokali w hotelach robotniczych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "31",
+     "path": "art_31",
+     "text": "Zmiana przeznaczenia lokalu mieszkalnego na \"łoka| użytkowy i odwrotnie może nastąpić tylko w szczegó|- nych przypadkach, uzasadnionych nieodzownymi potrzebami, na podstawie prawomocnej decyzji właściwego organu -prezydiun rady narodowej.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 2",
+     "text": "Przydział lokali."
+    },
+    {
+     "type": "art",
+     "num": "32",
+     "path": "art_32",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_32/ust_1",
+       "text": "Przydział lokalu mieszkalnego mogą otrzymać osoby, których funkcja społeczna, zawód, wykonywana praea lub odbywane studia uzasadniają zamieszkanie w mieście, osiedlu lub gromadzie, oraz osoby pobierające zaopatrzenie tb rentę z ubezpieczeń społecznych lub innych funduszów publicznych albo uprawnione do korzystania ze świadczeń alimentacyjnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_32/ust_2",
+       "text": "Przydział lokalu użytkowego otrzymać mogą:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_32/ust_2/pkt_1",
+         "text": "władze, urzędy, instytucje i jednostki gospodarki uspołecznionej, działające w danej miejscowości,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_32/ust_2/pkt_2",
+         "text": "osoby posiadające uprawnienia do wykonywania w tej miejscowości zawodu wymagającego lokalu użytkowego.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_32/ust_3",
+       "text": "Przydzielaniu przez właściwe dla spraw lokalowych organy prezydiów rad narodowych (art. 44) nie podlegają lokale przeznaczone na mieszkania służbowe i reprezentacyjne fart. 64 i 66) ani lokale podlegające przydzielaniu przez spółdzielnie mieszkaniowe w warunkach określonych w art. 63 189.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "33",
+     "path": "art_33",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_33/ust_1",
+       "text": "Przydział lokali następuje na czas nieokre- $lony lub — o ile zatrudnienie w danej miejscowości osoby ubiegającej się o przygzjał jest tylko czasowe — na czas «określony.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_33/ust_2",
+       "text": "Przydział traci ważność, o ile przydzielony lokal nie zostanie objęty przez uprawnionego z jego winy w ciągu 30 dni od dnia uprawomocnienia się decyzji o przydziale.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_33/ust_3",
+       "text": "Lokale mieszkalne przeznaczone dla dozorców domów i palaczy centralnego ogrzewania w budynkach stanowiących własność prywatną, nie podpadające pod postanowienia o mieszkaniach służbowych, przydziela się dozorcom domów (palaczom) na wniosek administracji domów na czas trwania umowy o pełnieniu czynności w danym domu. W przypadkach gdy zgodnie z obowiązującymi przepisami umowa z0- staje rozwiązana z winy zajmującego lokal, obowiązany on jest lokal opróżnić — bez prawa do mieszkania zastępczego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "34",
+     "path": "art_34",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_34/ust_1",
+       "text": "Przydział lokalu mieszkalnego uprawnia osobę, której lokal przydzielono, oraz osoby wspólnie z nią zamieszkałe, wymienione w decyzji o przydziale, do wspólnego korzystania z pomieszczeń użytkowych należących do danego mieszkania (łazienki, ubikacje, piwnice, strychy itp.); uprawnienie do wspólnego korzystania z kuchni przysługuje współnajemcy tylko wówczas, jeżeli decyzja o przydziale lokalu uprawnienie takie wyraźnie przyznaje.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Paz. 227"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_34/ust_2",
+       "text": "Spory «o korzystanie z pomieszczeń użytkowych,-o których mowa w ust. 1, rozstrzygają właściwe dla spraw lokalowych organy prezydiów rad narodowych. Ast. 35. W przypadkach gdy część lokalu mieszkalnego zajmowanego przez kilku współnajemców została przez jedrego z nich opróżniona, pierwszeństwo do przydzielenia ©próżnionej części lokalu w granicach norm zaludnienia maja ci współnajemcy, którzy zajmują lokal o powierzchni poniżej przysługujących im norm zaludnienia,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "36",
+     "path": "art_36",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_36/ust_1",
+       "text": "W razie ustania warunków uzasadniających przydział lokalu właściwy organ administracji prezydium rady narodowej może cofnąć przydział i przeprowadzić opróżnienie lokalu w trybie określonym w niniejszej ustawie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_36/ust_2",
+       "text": "Jeżeli podstawą cofnięcia przydziału jest przeniesienie do pracy w innej miejscowości, termin do opróżnienia lokalu liczy się od dnia uzyskania przez pracownika wraz z rodziną lokalu w nowym miejscu pracy. _ 3. Przepis ust. 1 nie ma zastosowania do osób, które utraciły pracę, są jednak w poszukiwaniu innej pracy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 3",
+     "text": "Nermy załudnienia."
+    },
+    {
+     "type": "art",
+     "num": "37",
+     "path": "art_37",
+     "text": "Rady narodowe miast, osiedli i gromad w edniesieniu do lokali objętych publiczną gospodarką lokalami ustalają na zasadach określonych przez Ministra Gospodarki Komunalnej, w porozumieniu z Ministrem Zdrowia i Opieki Społecznej, normy zaludnienia lokali mieszkalnych oraz magą wydawać przepisy normujące powierzchnię lokali użytkowych nie będących w użytkowaniu władz, urzędów i in=- stytucji publicznych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "38",
+     "path": "art_38",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_38/ust_1",
+       "text": "Oprócz ustalonej normy zaludnienia -maże być przyznana, w uzasadnionych przypadkach, dodatkowa powierzchnia mieszkalna. „2. Prezes Rady Ministrów określi w. drodze rozporzgdzenia zasady oraz tryb przyznawania uprawnień do korzystania z dodatkowej powierzchni mieszkalnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "39",
+     "path": "art_39",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_39/ust_1",
+       "text": "Ustalone normy zaludnienia lokali mieszkalnych obowiązują z upływem 30 dni od dnia ogłoszenia ich na terenie miasta, osiedla lub gromady. W terminie tym osoby zajmujące lokale mieszkalne (właściciele i użytkownicy budvnkéw, najemcy) mają prawo wprowadzić do części lokalu zaludnionej poniżej normy — osoby według. własnego wyboru spośród osób uprawnionych do uzyskania przydziału lokalu w danej miejscowości.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_39/ust_2",
+       "text": "Osobie wprowadzonej do części lokalu w myśl ust. 1 właściwy organ administracji prezydium rady narodowej obowiązany jest wydać decyzję o przydziale danej części lokalu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_39/ust_3",
+       "text": "Osoba zajmująca lokal może w ramach przysługującej jej powierzchni mieszkalnej oddać osobie trzeciej część zajmowanego lokalu w podnajem lub do bezpłatnego używania, pod warunkiem że nie nastąpi z tego powodu zagęszczenie zajmowanego lokalu poniżej najniższych obowiązujących norm zaludnienia.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_39/ust_4",
+       "text": "Oddanie osobie trzeciej w podnajem lub do bezpłatnego użytkowania części lokalu użytkowego wymaga zgody właściwego dla spraw lokalowych organu prezydium rady narodowej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_39/ust_5",
+       "text": "Oddanie w podnajem lub do bezpłatnego używania całego zajmowanego lokalu dopuszczalne jest w warunkach określonych przez Ministra Gospodarki Komunalnej w drodze rozporządzenia.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "40",
+     "path": "art_40",
+     "text": "Normy zaludnienia nie mają zastosowania do\" pomieszczeń jednoizbowych oraz do zajmowanych przynajmniej przez dwie osoby mieszkań dwuizbowych (pokój i kuchnia).",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "41",
+     "path": "art_41",
+     "text": "Przy przydzielaniu lokalu mieszkalnego uwzgłędnia się normy zaludnienia dla następujących osób:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "m R TE zzz an oan Aenea"
+      },
+      {
+       "type": "text",
+       "text": "409 — Briennik Ustaw Nr 47 —"
+      },
+      {
+       "type": "text",
+       "text": "4 współmałżonka, 2 krewnych najemcy i jego PPN a ile pozostają z nim we wspólnym gospodarstwie domowym,"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_41/pkt_3",
+       "text": "w uzasadnionych przypadkach osoby zatrudnione w go- „. spodarstwie damowym najemcy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 4",
+     "text": "Przebudowa lokali mieszkalnych,"
+    },
+    {
+     "type": "text",
+     "text": "Art. 42. „Organ administracji budowlanej prezydium miejskiej rady naradowej może zarządzić przerobienie samodzielnego mieszkania ponad dwuizbowego na dwa lub więcej samadzielnych mieszkań, o ile nie narusza te istotnych uprawnień wynikających z decyzji o przydziale; postanowienie to nie odnosi się do mieszkań w budynkach odpowiadających ebowiązującym standardom budowlanym.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Organ* administracji budowlanej prezydium miejskiej rady narodowej może zarządzić techniczne przeróbki (np. wy- \"bicie drzwi) w lokalu mieszkalnym bez względu na jego wielkość, celem zapewnienia najemcy dostępu do części lokalu bez potrzeby przechodzenia przez lokal innego najemcy alba celem umożliwienia mu korzystania z ost technicznych „naieszkania.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Koszty wymienionych w ust, 1 i 2 przeróbek, zarzqdzonych na wniosek zainteresowanego najemcy, ponosi ten najemca; koszty te mogą jednak być pokryte ze środków „państwowych, jeżeli poniesienie ich przez najemce ze względumna sytuację majątkową stanowiłoby dla niego zbyt dotkh- - we obciążenie. Koszty przeróbek zarządzonych z urzędu pokrywa-się ze środków państwowych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. Przepisy ust. 1—3 stosuje się odpowiednie do prze- „.róbek mających na celu zapewnienie współnajemcy kerzy- Skania z koniecznych dla niego pomieszczeń gospodarczych (na przechowanie-opału, zapasów zimowych itp.).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "QGddział 5.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Wlaściweść organów prerydiów. rad -narofowych „w sprawach tokalowych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Ast. 43. 1. Przydział pozestających w dyspozycji rad -marodowych lokali mieszkalnych następuje na podstawie listy „qtstałonej -przez prezydium: rady narodowej miasta, osiedla słub gromady albę komisję powołaną w tym celu przez to \"prezydium: lista ta wskazuje osoby, które w określonym terminie powinny otrzymać przydział mieszkania. Przed ustałemiem listy przez prezydium rady narodowej lub przez ka- \" misję projekt listy powinien być na okres 2 tygodni podany do publicznej wiadomości w celu umożliwienia zgłoszenia do „niego -uwag lub zastrzeżeń:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Rada Ministrów może ustalać ogólne zasady polityki lokalowej. Zgodnie z tymi zasadami prezydium wojewódzkiej (miasta wyłączonego z województwaj rady narodowej ustala wytyczne w zakresie polityki lokalowej i sposobu jej realizacji ma terenie województwa (miasta wyłączonego z województwa).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. W liście, o której mowa w ust. 1, może nastąpić przed dokenaniem przydziału lokalu:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) skreślenie osób, umieszczonych riezgodnie z ustalonymi przez Radę Ministrów zasadami polityki lokalowej, a przesunięcie terminu przydziału, jeżeli Rada Ministrów zadecydowała budowę w danej miejscowości zakładów związanych z rozwojem określonej gałęzi gospodarki narodowej i zachodzi konieczność zapewnienia w pierwszej koiejności mieszkań dla pracowników tych zakładów,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) przesunięcie terminu przydziału, jeżeli zachodzi konieczmość zapewnienia mieszkań osobom pozbawionym miesz- „kań wskutek klęsk żywiołowych (powódź, huragan) lub pożaru. 4, W przypadkach Sv atenion dh w ust. 3 powołanym do przeprowadzenia zmian w liście jest prezydium rady na-",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "= \"237 rodewej, które powołało. kemisję, oraz ocdeydińia” rady narodowej wyższega stopnia. Art, 44. 1. Właściwy dla spraw lokalowych argan prezydium miejskiej, dzielnicowej miasta wyłączonego z województwa, gromadzkiej rady narodowej tub rady naredowej esiedla dokonuje przydziałów wymienionych w art. 43 ust. f oraz orzeka w innych sprawach lokalowych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. W miastach podzielonych na dzielnice, lecz nie wyłączonych z województwa, prezydium miejskiej rady narodowej może przekazać czynności wymienione w ust. 1, właściwemu organowi prezydium dzielnicowej rady narodowej.",
+     "quoted": true
+    },
+    {
+     "type": "art",
+     "num": "45",
+     "path": "art_45",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_45/ust_1",
+       "text": "Odwołania od decyzji organów dia spraw lexalowych prezydiów rad narodowych rozpatruje:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_45/ust_1/pkt_1",
+         "text": "w stosunku do decyzji organów dla spraw lokalowych prezydiów rad narodowych gromad, esiedli i miast nie stanowiących powiatów miejskich — ppmieżowi komisja lokalowa,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_45/ust_1/pkt_2",
+         "text": "w stosunku do decyzji orgańów dła spraw lokalowych prezydiów rad narodowych miast stanowiących powiaty miejskie oraz dzielnicowych rad narodowych — miejska komisja lokalowa.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_45/ust_2",
+       "text": "Odwołania nie można oprzeć na zarzutach dotyczących ustaleń zawartych w liście wymienionej w art. 43 ust;d,",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_45/ust_3",
+       "text": "Nadzór nad działalnością powiatowych komisji lakalowych sprawuje organ dla spraw lokalowych prezydium wojewódzkiej rady narodowej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_45/ust_4",
+       "text": "Nadzór nad działalnością miejskich komisji lekalawych w miastach stanowiących powiaty miejskie sprawuje: organ dla spraw lokalowych prezydium wojewódzkiej rady narodowej, nadzór zaś w stosunku do miejskich komisji lekalowych prezydiów rad narodowych w miastach wyłączogych z województw — Minister Gospodarki Kemaunalnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "46",
+     "path": "art_46",
+     "text": "i. W przypadkach naruszenia prawa Minister Gospodarki Komunalnej może uchylać lub zmieniać 2 urzę-. du lub na wniosek sirony decyzje organu dla spraw iokalewych prezydium wojewódzkiej rady narodowej oraz decyzje miejskich komisji lokalowych prezydiów rad natodówych w miastach wyłączonych z województw.",
+     "children": [
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_46/ust_2",
+       "text": "Skargi stron na decyzje wymienione w ust. 4 nie ma-- gą być wnoszone po upływie miesiąca od dnia doręczenia - deeyzji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "47",
+     "path": "art_47",
+     "text": "Rada Ministrów na wniosek Ministra Gospodarki Komunalnej ekresli w drodze rozporządzenia organizację i tryb postępowania komisji lokalowych, jak również zasady” wynagradzania członków tych komisji za udział w .posiedreniach.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 6",
+     "text": "Opróżmianie i zagęszczamie Jekali miesrkałnych."
+    },
+    {
+     "type": "art",
+     "num": "48",
+     "path": "art_48",
+     "text": "W przypadkach, w których zgodnie z przepisami niniejszego rozdziału powinne nastąpić opróżnienie całego zajmowanego lokalu, właściwy dla spraw lokalowych organ prezydium rady narodowej wydaje decyzję w przedmiecie opróżnienia lokalu zakreślając osobie zajmującej łokai 14-dniowy termin do epróżnienia lokalu; jeżeli osobie wezwanej do opróżnienia lokalu służy prawo do lokalu zastępczego, organ ten wskazuje zarazem lokal zastępczy, w pezestałych zaś przypadkach — pomieszczenie zastępcze.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "49",
+     "path": "art_49",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_49/ust_1",
+       "text": "W przypadkach gdy lokal mieszkalny załudniony jest poniżej obowiązujących norm, tak że zachodzą warunki dokwaterowania do jego części, stanowiącej ce najmniej jeden pokój, jednej lub.więcej osób — właściwy dla spraw lokalowych organ prezydium rady narodowej powinien — w miarę móżliwości — dostarczyć osobie zajmującej taki lokal, na jej wniosek, lokai zastępczy, odpowiadający obowiązującym normom zaludnienia, jakie osobie tej dotych-- czas przysługiwały,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Bziennik Ustaw Nr 47"
+        },
+        {
+         "type": "text",
+         "text": "— 410 —"
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_49/ust_2",
+       "text": "W razie niezłożenia wniosku wymienionego w ust. 1 lub w razie niemożności przydzielenia lokalu zastępczego, organ dia spraw lokalowych prezydium rady narodowej wyznacza na piśmie osobie zajmującej: lokal termin 14 dni do opróżnienia części lokalu lub zaproponowania osoby, znajdującej się w ciężkich warunkach mieszkaniowych (posiadającej w doiychczas zajmowanym mieszkaniu powierzchnię poniżej najniższych obowiązujących norm lub mieszkającej w pomieszczeniu nie nadającym się do zamieszkania albo nie posiadającej mieszkania), której przysługuje prawo do uzyskania przydziału i która wyraża zgodę na przydzielenie jej części lokalu. W razie zaproponowania tej osoby w wyznaczo-. nym terminie właściwy dla spraw lokalowych organ pręży- _ dium rady narodowej przydzieli jej lokal. Propozycja. przydziału i przydział może dotyczyć również osoby nie znajdującej się w ciężkich warunkach mieszkaniowych, o ile osoba - ta zwolni dotychczas zajmowany lokal mieszkalny. Aart. 50. Jeżeli w wyznaczonym terminie nie zostanie zaproponowana osoba odpowiadająca warunkom określonym w art. 49 albo część lokalu nie zostanie opróżniona i oddana do dyspozycji wymienionemu w art. 48. organowi oraz jeżeli przekwalerowanie do lokalu zastępczego: nie może być dokonane, właściwy dla spraw lokalowych organ prezydium rady narodowej wyda decyzję o przydziale lokalu według zasad „przydziału przewidzianych w niniejszej ustawie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 7",
+     "text": "ą"
+    },
+    {
+     "type": "text",
+     "text": "Przekwaterowanie i zamiana lokali."
+    },
+    {
+     "type": "art",
+     "num": "51",
+     "path": "art_51",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_51/ust_1",
+       "text": "Decyzja o przekwaterowaniu najemców z zajmowanych przez nich lokali nastąpić może:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_51/ust_1/pkt_1",
+         "text": "na wniosek najemcy lub współnajemcy zajmującego lokal przeludniony — do lokalu zastępczego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_51/ust_1/pkt_2",
+         "text": "na wniosek organu administracji państwowej, urzędu, instytucji lub organizacji publicznej albo jednostki gospodarki uspołecznionej, której zajmowany przez najemce lokal jest niezbędnie potrzebny — do lokalu zastępczego,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_51/ust_1/pkt_3",
+         "text": "na wniosek organu administracji budowianej z lokalu położonego w budynku zagrożonym bezpośrednio zawaleniem — do lokalu zastępczego, a w razie niemożności jego przydzielenia — czasowo do pomieszczenia zastęp-",
+         "children": []
+        },
+        {
+         "type": "text",
+         "text": "czego,"
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_51/ust_1/pkt_4",
+         "text": "w przypadkach gdy lokal znajduje się w domu ulegającym rozbiórce — do lokalu zastępczego.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_51/ust_2",
+       "text": "Lokal zastępczy powinien być położony w tej samej miejscowości, nadawać się do zajęcia ze względu na stan techniczny i nie może przekraczać obowiązujących norm zaludnienia. W przypadkach wymienionych w ust. 1 pkt 2 i 4 lokal. zastępczy powinien odpowiadać pod względem powierzchni mieszkalnej dotychczasowemu lokalowi, nie może jednak przekraczać obowiązujących norm zaludnienia, jakie przekwaterowanemu przysługiwały przed przekwaterowaniem; w przypadkach zaś wymienionych w ust. 1 pkt 3 — nie „może przekraczać norm zaludnienia obowiązujących w dniu przekwaterowania.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_51/ust_3",
+       "text": "Przekwaterowanie w przypadkach wymienionych w ust. 1 pkt 2, 3 i 4 następuje na koszt organu administracji państwowej, urzędu, instytucji, organizacji lub jednostki, na której wniosek przeprowadza się przekwaterowanie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_51/ust_4",
+       "text": "Minister Gospodarki Komunalnej określi w drodze rozporządzenia tryb postępowania w przypadkach wymienionych w ust. 1 pkt 3i4. * Art. 52. 1.. W przypadkach gdy osoby zajmujące samodzielne lokale mieszkalne zwracają się do właściwego dla spraw lokalowych organu prezydium rady narodowej o zezwolenie na wzajemną zamianę lokali, a normy zaludnienia, z których osoby te korzystają, nie zostają wskutek zamiany * naruszone, organ ten może udzielić zezwolenia na tę zamianę. Organ ten odmówi udzielenia zezwolenia, jeżeli na sku-.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Poz. 227"
+        },
+        {
+         "type": "text",
+         "text": "tek zamiany nastąpi nadmierne zagęszczenie jednego z lokali będących przedmiotem zamiany lub gdy jeden z lokałi podlega opróżnieniu z innych przyczyn (przeniesienie się do lokalu spółdzielczego, domu jednorodzinnego, przeniesienie się do innej miejscowości itp.). Jeżeli jeden z lokali będących przedmiolem zamiany wyposażony jest. w urządzenia techniczne, których nie ma w innym lokalu, zezwolenie na zamianę uza-. leżnione jest od uiszczenia na rzecz funduszu mieszkaniowego opłaty na zasadach i. w wysokości ustalonej przez Ministra Gospodarki Komunalnej w drodze rozporządzenia."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_51/ust_2",
+       "text": "Zamiana lokali położonych na terenach objętych zakresem działania różnych rad narodowych wymaga zezwolę~ nią właściwych organów prezydiów rad narodowych obu: miast (osiedli, gromad).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_51/ust_3",
+       "text": "Zamiana lokali przez jednego ze współnajemców wy-- maga zgody pozostałych najemców, o ile naruszałaby ich uprawnienia lub ograniczałaby ich możność korzystania z lo-. kału lub ze wspólnych jego urządzeń.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Oddział. 8."
+        },
+        {
+         "type": "text",
+         "text": "Zmiany w stanie posiadania lokali i budynków zajmowanych przez instyiucje i jednostki gospodarki uspołecznionej."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "53",
+     "path": "art_53",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_53/ust_1",
+       "text": "Właściwy dla spraw lokalowych organ prezydium rady narodowej uprawniony jest do dokonywania zmian w stanie. posiadania lokali zajmowanych na cele użytkowe przez urzędy, instytucje państwowe, jednostki gospodarki uspołecznionej oraz organizacje polityczne i społeczne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_53/ust_2",
+       "text": "Odwołania od decyzji o dokonaniu zmiany określonej w ust. 1 rozpatrują właściwe organy dla spraw lokalowych \"wymienione w art. 45.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_53/ust_3",
+       "text": "Na terenie m. st. Warszawy sprawy dokonywania zmian, o których mowa w ust. 1, w stosunku do imstytucje centralnych neleżą do Prezesa Rady Ministrów.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "54",
+     "path": "art_54",
+     "text": "W przypadkach sporu o lokal użytkowy pomiędzy urzędami, jednostkami gospodarki uspołecznionej i orga= nizacjami społecznymi, prawomocne decyzje organów wymienionych w art. 53 ust. 1 i 2 w sprawach tego lokalu mogą być, na wniosek organu naczelnego strony, uchylone lub zmienione przez Prezesa Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Oddział 9",
+     "text": "Postępowanie w sprawach przydziału i zajmowania lokali."
+    },
+    {
+     "type": "art",
+     "num": "55",
+     "path": "art_55",
+     "text": "Właściwy dla spraw lokalowych organ prezydium rady narodowej powinien przed wydaniem decyzji dać możność osobom zainteresowanym złożenia wyjaśnień i przedstawienia dowodów. i",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "56",
+     "path": "art_56",
+     "text": "Osobami zainteresowanymi w rozumieniu niniejszej ustawy są: właściciel (administrator nieruchomości), osoba zajmująca lokal oraz osoby ubiegające się o przydział tego lokalu. Decyzje mogą być wydawane wyłącznie Ww",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "57",
+     "path": "art_57",
+     "text": "1., formie pisemnej.",
+     "children": [
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_57/ust_2",
+       "text": "Od decyzji osoba zainteresowana może wnieść odwo- Janie w ciągu 7 dni po doręczeniu jej decyzji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "58",
+     "path": "art_58",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_58/ust_1",
+       "text": "Komisje lokalowe rozpatrują wniesione odwołania na rozprawie ustnej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_58/ust_2",
+       "text": "O terminie rozprawy należy osobę, która wniosła odwołanie, i osobę, na korzyść której decyzja zapadła, zawiadomić pisemnie w sposób umożliwiający jej wzięcie udziału w rozprawie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "59",
+     "path": "art_59",
+     "text": "Decyzje podlegają wykonaniu dopiero po wrą: womocnieniu się.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "60",
+     "path": "art_60",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_60/ust_1",
+       "text": "W przypadkach wdarcia się osoby nie uprawnionej do lokalu lub samowolnego zajęcia lokalu właściwy. dla spraw lokalowych organ prezydium rady narodowej dokona bezzwłocznie usunięcia sprawcy z lokalu przy asyście organów Milicji Obywaielskiej, skierowując równocześnie.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "A 41 — Dziennik Ustaw Nr 47 A. a\""
+        },
+        {
+         "type": "text",
+         "text": "„doniesienie: do prokuratora. Usunięcie sprawcy może nastąpić do lokalu poprzednio przez niego zajmowanego.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. W przypadkach, w których najemca zwalniający lokal pozostawi w lokalu osoby zamieszkujące z nim dotychczas, właściwy dla spraw lokalowych organ prezydium rady narodowej uprawniony jest do natychmiastowego opróżnienia lokalu z tych osób. W przypadku tym może również nastąpić przekwaterowanie tych osób do nowego lokalu najemcy, chociażby lokal-ten nie podlegał przydziałowi przez organ prezydium rady narodowej.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Przepisy ust. 1 i 2 mają odpowiednie zastosowanie do . mieszkań służbowych i lokali w domach spółdzielni mieszkaniowych — na wniosek administracji domu, w którym mieszkanie (lokal) się znajduje.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. W przypadkach wdarcia się do lokalu w budynku nie oddanym jeszcze do użytku obowiązek określony w ust. I ciąży na kierówniku budowy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rozdział VI.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "- Zaspokajanie potrzeb lokalowych w miejscowościach, na terenie których nie została wprowadzona publiczna gospodarka lokalami.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "61",
+     "path": "art_61",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_61/ust_1",
+       "text": "W miastach, osiedlach i gromadach, w których nie wprowadzono publicznej gospodarki lokalami, właściwy dla spraw lokalowych organ prezydium rady narodowej może:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_61/ust_1/pkt_1",
+         "text": "przydzielać wolne lokale na rzecz urzędów, instytucji państwowych, jednostek gospodarki uspołecznionej oraz / organizacji politycznych i społecznych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_61/ust_1/pkt_2",
+         "text": "przeprowadzać przekwaterowanie osób z lokali lub części lokali niezbędnych dla urzędów, instytucji, jednostek i organizacji, wymienionych w pkt 1, do lokalu zastępczego, położonego w tej samej miejscowości, nadającego się do zajęcia ze względu na: stan techniczny, o powierzchni użytkowej o ile możności równej lokalowi - poprzednio zajmowanemu, a co najmniej odpowiadającej najwyższym normom załudnienia określonym przez Ministra Gospodarki Komunalnej na podstawie art. 37. W przypadkach tych mają zastosowanie przepisy rozdziału V. normujące postępowanie w sprawach przydziału lokali. 2.*Od decyzji wymienionej w ust. i przysługuje odwołanie do powiatowej (miejskiej) komisji lokalowej.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_61/ust_3",
+       "text": "W miastach, osiedlach i gromadach określonych w ust. 1 może właściwy dla spraw lokalowych organ przydzielać pomieszczenia zastępcze dla osób usuwanych z domów zagrożonych oraz dla osób pozbawionych mieszkań wskutek klęski żywiołowej (huragan, powódź) lub pożaru. Pomieszczenia te mogą być przydzielone również w części lokali mieszkalnych zajmowanych przez właścicieli domów lub najemców. Przydział pomieszczenia zastępczego następuje na czas \"do oddania do użytku w danej miejscowości pierwszych lokali mieszkalnych z budownictwa rad narodowych lub zakładowego, z którego osoba pozbawiona mieszkania uzyska lokal mieszkalny, albo na czas niezbędny do odbudowy zniszczonego budynku (lokalu) przez osobę pozbawioną mieszkania lub wybudowania przez tę osobę nowego budynku (lokalu).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_61/ust_4",
+       "text": "Przepisy art. 53 ust. 1 stosuje się odpowiednio.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "62",
+     "path": "art_62",
+     "text": "W domach zarządzanych przez organy dla spraw mieszkaniowych prezydiów rad narodowych miast, osiedli i gromad, w których nie została wprowadzona publiczna gospodarka lokalami, dysponowanie lokalami następuje według wytycznych ustalanych przez prezydia powiatowych (miejskich) rad narodowych.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VII",
+     "text": "Lokale w domach spółdzielni budownictwa mieszkaniowego."
+    },
+    {
+     "type": "art",
+     "num": "63",
+     "path": "art_63",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_63/ust_1",
+       "text": "Zajmowanie i korzystanie z lokali w domach spółdzielni \"budownictwa mieszkaniowego przez członków spółdzielni następuje na podstawie przydziału lokalu przez spółdzielnię w trybie i na warunkach określonych w stalucie spółdzielni. Przydział lokali handlowych i usługowych w tych domach odbywa się w uzgodnieniu z właściwym do spraw handlu i usług organem prezydium rady narodowej. .",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_63/ust_2",
+       "text": "Do umów zawartych między członkiem spółdzielni a osobą trzecią o używanie lub najem lokalu w domu spółdzielni budownictwa mieszkaniowego stosuje się przepisy niniejszej ustawy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_63/ust_3",
+       "text": "Dopuszczalność zawierania umów, o których mowa w ust. 2, zależy od postanowień statutu spółdzielni.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział VIII",
+     "text": "Mieszkania służbowe i reprezentacyjne."
+    },
+    {
+     "type": "art",
+     "num": "64",
+     "path": "art_64",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_64/ust_1",
+       "text": "Mieszkaniami służbowymi są lokale mieszkalne przydzielane pracownikom uspołecznionych zakładów pracy i instytucji w związku ze stosunkiem pracy.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_64/ust_2",
+       "text": "Lokalami mieszkalnymi podlegającymi przydzielaniu na mieszkania służbowe są:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_64/ust_2/pkt_1",
+         "text": "lokale w budynkach położonych w obrębie zakładów i przedsiębiorstw pańsiwowych, do których doslęp prowadzi przez teren zakładu lub przedsiębiorstwa, oraz lakale w budynkach szkół wyższych i inhych szkół publicznych oraz ich zakładów, znajdujących się na terenach należących do tych szkół i zakładów,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_64/ust_2/pkt_2",
+         "text": "lokale w budynkach kolejowych na terenie przeznaczonym pod budowę i urządzenia niezbędne dla prowadzenia ruchu kolejowego i lokale w budynkach kolejowych wzniesionych na zakwaterowanie pracowników kolejowych w sąsiedztwie miejsca pracy,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_64/ust_2/pkt_3",
+         "text": "lokale w budynku będącym w zarządzie władz, organów administracji państwowej, urzędów. i przedsiębiorstw państwowych, instytucji i organizacji publicznych lub jednostek gospodarki uspołecznionej przydzielone ich pracownikom ze względu na szezegółny charakter pracy wymagającej zajmowania lokału mieszkalnego w tym budynku lub zespole budynków,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_64/ust_2/pkt_4",
+         "text": "lokale w budynkach pozostających w zarządzie iednostek produkcyjnych górnictwa i hutnictwa, a przeznaczone dla pracowników tych jednostek, jak również lokale w budynkach pozostających w zarządzie przedsiębiorstw energetycznych, a przeznaczone dla pracowników pogotowia technicznego tych przedsiębiorstw, i 5). lokale w zakładowych domach mieszkalnych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "art_64/ust_2/pkt_6",
+         "text": "lokale w budynkach położonych na terenie:",
+         "children": [
+          {
+           "type": "lit",
+           "num": "a",
+           "path": "art_64/ust_2/pkt_6/lit_a",
+           "text": "państwowych gospodarstw rolnych (hodowlanych, ogrodniczych, rybnych), państwowych przedsiębiorstw (zakładów) mechanizacji rolnictwa oraz zakładów kółek rolniczych, jeżeli budynki te znajdują się w zarządzie jednostek państwowych gospodarstw rolnych, państwowych przedsiębiorstw mechanizacji rolnictwa lub kółek rolniczych,",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "b",
+           "path": "art_64/ust_2/pkt_6/lit_b",
+           "text": "państwowych gospodarstw leśnych, jeżeli budynki znajdują się w zarządzie jednostek resortu leśnictwa i przemysłu drzewnego, jak również",
+           "children": []
+          },
+          {
+           "type": "lit",
+           "num": "c",
+           "path": "art_64/ust_2/pkt_6/lit_c",
+           "text": "rolniczych i leśnych majątków doświadczalnych szkół wyższych i ich zakładów,",
+           "children": []
+          }
+         ]
+        },
+        {
+         "type": "pkt",
+         "num": "7",
+         "path": "art_64/ust_2/pkt_7",
+         "text": "lokale przeznaczone na zakwaterowanie Milicji Obywatelskiej oraz funkcjonariuszów służby więziennej i zakła- „dów poprawczych.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_64/ust_3",
+       "text": "Do mieszkań służbowych stosuje się normy zaludnienia obowiązujące w stosunku do lokali objętych publiczną gospodarką lokalami z wyjątkiem mieszkań wymienionych w ust. 2 pkt 3. W miejscowościach nie objętych publiczną gospodarką lokalami stosuje się do mieszkań służbowych normy zaludnienia obowiązujące w siedzibie prezydium właściwej powiatowej rady narodowej. Organy dla spraw lokalowych prezydiów rad narodowych uprawnione są do kontroli",
+       "children": [
+        {
+         "type": "text",
+         "text": "r"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "= 412 — Dziennik Ustaw ‘Nr-47"
+        },
+        {
+         "type": "text",
+         "text": "wykorzystania mieszkań sluzhowych zgodnie z obowiązującymi normami załudnienia. W przypadkach gdy organy ‘te stwierdzą, że pozostaje nie przydzielony lokal wolny lub nadwyżka powierzchni mieszkalnej stanowi co najmniej 1 izbę, a jednostka zarządzająca budynkiem, mimo wezwania, nie przydzieli danego lokalu swemu pracownikowi — organ dla spraw lokalowych -przydzieli lokal we własnym ' zakresie; w stosunku do lękali wymienionych w ust. 2 pkt 1 i 6 przydział może być dokonany wyłącznie na rzecz pracowników jednostek wymienionych w tych przepisach."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_64/ust_4",
+       "text": "Zakładowymi domami mieszkalnymi (ust. 2 pkt 5) są określone przez Radę Ministrów domy mieszkalne pozestające w zarządzie i użytkowaniu państwowych zakładów pracy, wybudowane ze środków zakładowego funduszu mieszkaniowego, z dotacji budżetowych lub innych środków.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_64/ust_5",
+       "text": "Rada Ministrów w drodze rozporządzenia może zaliczyć również inne lokale do kategorii lokali podlegających przydzielaniu na mieszkania służbowe albo- też ograniczyć kategorie tych lokali.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_64/ust_6",
+       "text": "Rada Ministrów w drodze rozporządzenia. określi warunki przydziału i opróżniania mieszkań służbowych -oraz właściwość organów w tych sprawach i tryb postępowania,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art. 65, 1. Dozercom, palaczom centralnego ogrzewania i administratorom domów mieszkalnych opróżniającym miesz- «kania służbowe w przypadkach gdy stosunek pracy został z nimi rozwiązany z powodu nienależytego wykonywania obowiązków służbowych — choćby rozwiązanie te nastąpiła -w drodze wypówiedzenid — nie przysługuje prawa do lekalu zastępczega."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_64/ust_2",
+       "text": "Powołanym dd stwierdzenia, że rozwiązanie stosunku” ‘pracy nastąpiło z powodu nienależytego wykonywania obowiązków służbowych, jest organ dla spraw gospodarki kemiunalnej i mieszkaniowej prezydium rady narodowej, na te- 1enie której znajduje się dany zakład pracy. j Amt. 66. Prezes Rady Ministrów określ, które mieszkamia uważa się za reprezentacyjne, i unormuje warunki i tryb ach zajmowania.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Rozdział TX,"
+        },
+        {
+         "type": "text",
+         "text": "Zarząd budynków. :"
+        },
+        {
+         "type": "text",
+         "text": "„Art. 67. Właściciel budynku oraz esoba:sprawttjąca zarząd budynku obowiązani są do utrzymywania -budynku w należytym. stanie celem ochrony -przed zniszczeniem.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 68. Do sprawowania zarządu budynków mieszkałnych stanowiących własność Państwa lub -przejętych w zarząd państwowy (art. 70) powołane są właściwe organy administracji prezydiów miejskich, dzielnicowych, osiedli lubgromadzkich rad narodowych, w odniesieniu zaś da budynków przeznaczonych na mieszkania służbowe — przedsiębiorstwa państwowe oraz inne zakłady pracy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 69. Minister Gospodarki Komunalnej unormuje sposób sprawowania zarządu budynków (art. 68) służących celom użytkowym, a zajmowanych przez użytkowników należących de różnych resortów.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 70.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Zarządem właściwych organów administracji prezydiów rad narodowych mogą być objęte również. budynki nie stanowiące własności 'Państwa, jeżeli zarząd budymku nie jest przez właściciela w ogóle sprawowany lub jeżeli właściciel nie sprawuje zarządu w sposób należyty, co pociąga za sobą zagrożenie budynku, albo jeżeli zwróci się do właściwego organu administracji z wnioskiem © objęcie budynku w zarząd.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Minister Gospodarki Komunalnej unormuje w drodze rozporządzenia szczegółowe warunki, w których zarząd 'budynku może być przejęty przez właściwy organ administracji prezydium rady narodowej, właściwość organów do wydawania decyzji w tych sprawach, wzajemne obowiązki stren, w szczególności w zakresie ponoszenia kosztów re-",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Poz, 227 -",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "montu budynku, warunki AZ aewawaia sśrógią sposób przeprowadzania rozliczeń oraz zwrotu lub zaberpieczenia poniesionych nakładów.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Przepisy usł. 1 i 2 nie odnoszą się de budynków spółdzielni budownictwa mieszkaniowege, domów jednorodzińanych i małych domów mieszkalnych.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rezdział X,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Zrzeszenia właścicieli nieruchemości,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 71.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. O ile właściciele domów jednorodzinnych i małych domów mieszkalnych nie zrzeszają się w spółdzielnie mające na celu prowadzenie administracji ich domów, mogą tworzyć lokalne zrzeszenia -osiedlowe posiadające -asobowość prawną, A",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Lokalne. zrzeszenia posiadające osobowość prawną mogą tworzyć również właściciele i zarządcy innych domów niż wymienione w ust. 1. ‘",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 72. Zadaniem zrzeszeńt wymienionych w art. 71 jest:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) utrzymanie w należytym stanie technicznym i -samitarnym oraz przeprowadzanie remontu mieruchemaści stanowiących własność «członków lub nieruchomeści:. „przez” nich zarządzanych, '2) budowa i utrzymanie wspólnych urządzeń (pralnie, studnie itp). Art. F3. Minister Gospedarki Komunałnej unarmuje -w dradze rozporządzenia zasady tworzenia, organizację i szczegółowy zakres działania zrzeszeń wymienienych w «art. 74,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rarzdział KI",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "en iokali i nadzór nad wykonywaniem pocą prawa lokalowego.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art FA. Wiatciwe dia spraw lokalowych -ergany prezydiów rad narodowych obowiązane są prowadzić „ewidencję - racjonalnego wykorzystania lękali zgodnie z ustałanymi noc-- mami zaludnienia, przy współdziałaniu administracji demów, \"w ©dniesieniu zaś do mieszkań służbowych — przy -wsjsół- - działaniu właściwych zakładów pracy. Act. 75. ‘Minister Gospodarki Kemunalnej unormyje spa- „sób prowadzenia ewiilencji wykorzystania lękali, zakves, w jakim administracja domów i zakłady „pracy obowiąraae sa-do współdziałania « właściwymi organami prezydiów rad narodowych w prowadzeniu ewidencji i atrzymy waniu. jeg w stanie aktualności, eraz umormuje Sprawowanie ‘konbcati nad zgodnością ewidencji z faktycznym zagęszczeniem tskałi.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 76. Zwierzchni nadzór nad wykonywaniem przes \"sów prawa lokalowego sprawuje acinar Gospoedarki- Kemunainej.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rozdział Xi.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Pestanewienia egzekucyjne,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 77. (Decyzje w sprawach lokalowych oraz orzeczenia sądowe i arbitrażowe w sprawie opróżnienia lakalu wykonywane są przez właściwy dla spraw lokalowych «organ prezydium rady narodowej miasta, osiedla lub gromady jakę władzę egzekucyjną w: trybie postępowania .przymusowega w administracji Ugody zawarte przed sądem w sprawach - epróżnienia lokali podlegających przepisom e publicznej gospodarce lokalami nie stanowią podstawy do wszczęcia pa-. -stępowania egzekucyjnego.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 78.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Przymusowe usunięcie osób — poza przypad kami przewidzianymi w art. 60 — może nastąpić nie inaczej, jak po uprzednim wezwaniu ich do dobrowolnego eprównienia lokalu, i nie wcześniej niż po upływie 7 dni od doręczenia wezwania.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. W miejscowościach nie objętych publiczną gospodarka lokalami organ dla spraw lokałówych wymieniony w art. 77- wskazuje osobie wezwanej do opróżnienia lokalu pomieszczę-",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "ee PST ees \"ZET B WE IOEOT t \"TRUE TF",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Dziennik Ustaw Nr -4?.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "mię zastępcze tub lokal zastępczy destarczeny przez wnioskodawce.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 79. Organy Milicji Obywatelskiej, a w stosunku do «sób i instytucji wojskowych odpowiednie organy wojskowe, obowiązane sq na żądanie właściwego organu administracji prezydium rady narodowej udzielić jponrocy przy wykonywaniu decyzji.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rozdział MUL",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "'Przepisy karne.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 80.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Kto:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "« 4) wbrew przepisom niniejszej ustawy obejmuje lokal w uży wanie samowolnie bez uzyskania przydziału albo od- -daje lokal w używanie osobie nie posiadającej przydziału tokalu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) w stosunku do lokali podlegających przydziałowi bierze udział w zawarciu umowy. o odstępne w jakiejkolwiek postaci na rzecz właściciela domu, ustępującego najem- <v hb innej oseby lub umowy o wynagrodzenie za pośrednictwo w najmie lokalu — podlega karze aresztu od 6 miesięcy do 2 lat.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Przepis ust. 1 pkt 2 nie odnosi się do przypadków pośrednictwa właściwej jednostki organizacyjnej prezydium rady narodowej w ułatwianiu najemcom przeprowadzenia za- «miany ich lokali. Któ w celu obejścia przepisów niniejszej “Art. 81. 1. ustawy:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) podaje organowi prezydium rady narodowej nieprawdzjwe dane mające znaczenie dla decyzji w sprawie przy- « «działu lokalu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) zgłasza do zamąjdowania w lokalu osoby faktycznie w nim nie zamieszkujące lub nie dopełni obowiązku zgłoszenia do wymeldowania osób, które opuściły lokal na «stałe, j *",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) wydaje zaświadczenie o pracy nie odpowiadające stanowi faktycznemu lub z takiego zaświadczenia korzysta, — podlega karze aresztu do trzech miesięcy i grzywny.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Administratorzy i pracownicy administracji domów, winni czynów określonych w ust. 1 pkt 1 i.2, podlegają karze aresztu od jednego do trzech miesięcy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Administrator domu, który zaniecha bezzwłocznego zawiadomienia o wdarciu się osoby nie uprawnionej do lokalu lub o samowolnym zajęciu lokalu, oraz kierownik bu- «łowy, który zaniecha wykonania obowiązku przewidzianego w art. 60 ust. 4 — podlega karze aresztu do trzech miesięcy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 82. Kto opróżnia zajmowany przez siebie lokal podlegający przydziałowi bez uprzedzenia o tym administra- «ji domu co najmniej na 3 dni przed opróżnieniem — podlega karze aresztu do trzech miesięcy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 83. Właściciel domu, najemca lub współnajemca, który w sposób złośliwy lub uporczywy utrudnia osobom zamieszkałym w tym domu korzystanie z zajmowanego lokadu mieszkalnego i pomieszczeń przynależnych do tegę lokalu — podlega karze aresztu do 3 miesięcy lub grzywny do 4.500 zł albo obu karom łącznie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 84.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Orzekanie w sprawach wymienionych w art. 81, 82 i 83 następuje w trybie przepisów o orzecznictwie karno-administracyjnym. Kolegia karno-administracyjne wymierzają w tych sprawach również karę aresztu.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Prezydium rady narodowej. może osobę ukaraną za czyny przewidziane w art. 80—82 pozbawić na określony czas prawa przydziału lokalu w danym mieście, osiedlu lub gromadzie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Osoba skazana prawomocnym wyrokiem sądowym Za uporczywe przetrzymywanie osoby nie zameldowanej w lokalu położonym w miejscowości objętej szczególnymi prze-",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Pos. 227",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "pisami meldunkowymi może być decyzją prezydium właściwej rady narodowej pozbawiona przydziału lokalu mieszkałneyo i przesiedlona z dotychczas zajmowanego lokalu do pomieszczenia zastępczego w obrębie granic administracyjnych danej miejscowości,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rozdział XIV.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Przepisy końcewe i przejściowe.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 85. Wojewódzkie rady narodowe (rady narodowe miast wyłączonych z województw) mogą w drodze uchwały znieść publiczną gospodarkę lokalami wprowadzoną na danym terenie, i",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 86. Istniejące przymusowe zrzeszenia prywatnych właścicieli nieruchomości ulegają likwidacji. Minister Gospodarki Komunalnej ustali termin i tryb ich likwidacji,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 87.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Do czasu wydania przepisów wykonawczych przewidzianych w niniejszej ustawie zachowują moc dotychczasowe przepisy wykonawcze.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Do czasu wydania przez Radę Ministrów rozporządzenia przewidzianego w art. 3 obowiązują dotychczasowe praepisy w sprawach, które mają być w tym rozporządzeniu unormowane. W szczególności na wynajmujących i najemcach ciążą następujące obowiązki: '",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) wynajmujący obowiązany jest do oddania wynajętego ' lokalu lub budynku w umówionym terminie w stanie, w jakim on się znajduje — o ile umowa nie stanowi. inaczej — i do utrzymywania go w stanie nadającym się do użytku,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) najemcy lokali mieszkalnych, opłacający czynsz w dotychczasowej wysokości, ponoszą opłaty na koszty utrzymania budymku według przepisów dotychczasowych..",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 88.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Stawki czw'szowe i inne opłaty ustalone na podstawie przepisów przewidzianych w niniejszei ustawie nie są wiążące przy ustalaniu wysokości czynszów najmu lokali wyłączonych 'spod publicznej gospodarki lokalami na podstawie ustawy z dnia 28 maja 1957 r. o wyłączeniu spod publicznej gospodarki lokalami domów jednorodzinnych oraz lokali w domach spółdzielni mieszkaniowych (Dz. U. z 1962 r. Nr 47, poz. 228).",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Stawki czynszowe i a płaty, o których mowa w ust. t, mają jednak zastosowanie do tych najemców, do których według art. 8 ustawy powołanej w ust. 1 stosuje się przepisy dekretu o najmie lokali.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 89.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. W budynkach spółdzielni budownictwa mieszkaniowego zarządy tych spółdzielni uprawnione są do przydzielania lokali mieszkalnych nie wyłączonych spod publicznej gospodarki lokalami swoim członkom w ramach obowiązujących norm zaludnienia, o ile członkowie ci odpowiadają warunkom uprawniającym do ubieqania się o przydział lokalu w danej miejscowości (art. 32).",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. O przydzieleniu lokalu zarząd spółdzielni obowiązany: jest zawiadomić równocześnie właściwy dla spraw lokalowych organ prezydium rady narodowej.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Jeżeli zarząd spółdzielni nie dokona przydziału lokalu w ciągu 30 dni od powstania warunków do jego przydzielenia, właściwy dla spraw lokalowych organ prezydium rady narodowej wezwie spółdzielnię do przydzielenia lokalu członkowi spółdzielni w terminie 14-dniowym, po bezskutecznym zaś upływie tego terminu sam dokona przydziału według swego wyboru najemcy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. Od decyzji zarządu spółdzielni w sprawie przydziału lokalu służą najemcom nie będącym członkami spółdzielni środki prawne przewidziane w art. 45.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 90.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Dotychczasowe mieszkania służbowe oraz mieszkania zakładowe stają się mieszkaniami służbowymi w rozumieniu niniejszej ustawy, jeżeli podpadają pod postanowienia art. 64.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Bziennik Ustaw Nr-47:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Pracownicy, zajmujący. mieszkania służbowe podpadające pod postanowienia art. 64 ust. 2 pkt 3, obowiązani są do opłacania czynszu i opłat związanych z zajmowaniem tych mieszkań wówczas, jeżeli nie są zwolnieni od opłacania tych nałeżności na podstawie dotychczasowych przepisów.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Dotychczasowe mieszkania zakładowe, służbowe i byłe pracownicze tracą ten charakter, jeśli nie odpowiadają warunkom określonym w niniejszej ustawie dla mieszkań służbowych i przechódzą do dyspozycji właściwych dla spraw lokalowych organów prezydiów rad narodowych.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. Dotychczasowe przydziały mieszkań, o których mowa w ust. 3 (umowy o przydział), zachowują swą ważność i uważane będą za równoznaczne z prawomocnymi przydziałami lokali (art. 29).",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 91. Upowaznia się Radę Ministrów do rozciągnięcia w drodze rozporządzenia postanowień art. 12 dotyczących kaucji również na domy nie będące w zarządzie właściwych organów administracji prezydiów rad narodowych lub państwowych jednostek gospodarki uspołecznionej,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Art. 92.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Tracą moc:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) dekret z dnia 21 grudnia 1945 r. o publicznej gospodarce lokalami (Dz. U. z 1950 r. Nr 36, poz. 343),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) dekret z dnia 18 lutego 1955 r. o właściwości organów",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "\"= FOT WRĄ PT TY CZYT w",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Poz. 227 i 228: £ Z",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "w zakresie publicznej gospodarki lokalami (Dz. U. Nr 9, poz. 55),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) art. 1, 8, 14, 18 do 21, 31 do 33, 35 i 36 dekretu z dnia 28 lipca 1948 r. o najmie lokali (Dz. U. z 1958 r. Nr-50, poz. 243); pozostałe przepisy tego dekrelu — z dniem wejścia w życie rozporządzeń wydanych na podstawie art. 3,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) art. 371, 373, 374, 380 do 382, 384 i 388 do 399 kodeksu zobowiązań w odniesieniu do najmu budynków i lokali podlegających przepisom niniejszej ustawy,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) art. 21 rozporządzenia Prezydenta Rzeczypospolitej z dnia . 24 października 1934 r. o własności lokali (Dz. U, Nr 94, poz. 848).",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Pozostaje w mocy ustawa z dnia 28 maja 1957 r.o wyłączeniu spod publicznej gospodarki lokalami domów jednorodzinnych oraz lokali w domach spółdzielni mieszkaniowych (Dz. U. z 1962 r. Nr 47, poz. 228). ,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Do lokali, które w myśl przepisów ustawy wymienionej w ust. 2 lub ustawy z dnia 28 maja 1957 r. o sprzedaży przez Państwo domów mieszkalnych i działek budowlanych (Dz. U. Nr 31, poz. 132) podlegają wyłączeniu spod publicznej gospodarki lokalami, nie stosuje się -przepisów rozdziału V niniejszej ustawy.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

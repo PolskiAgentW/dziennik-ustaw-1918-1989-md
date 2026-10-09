@@ -1,0 +1,673 @@
+{
+ "eli": "DU/1966/51",
+ "title": "Rozporządzenie Rady Ministrów z dnia 28 stycznia 1966 r. w sprawie funduszu zakładowego w niektórych przedsiębiorstwach resortu przemysłu spożywczego i skupu.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1966/51/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 stycznia 1966 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie funduszu zakładowego w niektórych przedsiębiorstwach resoriu przemysłu spożywczego i skupu."
+  },
+  {
+   "type": "text",
+   "text": "p Na podstawie art. 4 i 5 ustawy z dnia 28 marca 1958 r. o funduszu zakładowym w przedsiębiorstwach” państwowych (Dz. U. z 1960 r. Nr 13, poz. 78) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rozporządzenie dotyczy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "przedsiębiorstw (zakładów) przemysłowych zgrupowanych w:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "Centrali Przemysłu Mięsnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "Centrali Przemysłu Zbożowo-Młynarskiego ,,PZŻ\",",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "Zjednoczeniu Przemysłu Cukierniczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "Zjednoczeniu Przemysłu Cukrowniczego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_1/lit_e",
+       "text": "Zjednoczeniu Przemysłu Jajczarsko-Drobiarskiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "par_1/pkt_1/lit_f",
+       "text": "Zjednoczeniu Przemysłu Olejarskiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "g",
+       "path": "par_1/pkt_1/lit_g",
+       "text": "Zjednoczeniu Przemysłu Owocowo-Warzywnego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "h",
+       "path": "par_1/pkt_1/lit_h",
+       "text": "Zjednoczeniu Przemysłu Paszowego ,,Bacutil\",",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "i",
+       "path": "par_1/pkt_1/lit_i",
+       "text": "Zjednoczeniu Przemysłu Piwowarskiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "j",
+       "path": "par_1/pkt_1/lit_j",
+       "text": "Zjednoczeniu Przemysłu Spirytusowego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "k",
+       "path": "par_1/pkt_1/lit_k",
+       "text": "Zjednoczeniu Przemysłu Ziemniaczanego — zwanych dalej ,,przedsiębiorstwami\",",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "przedsiębiorstw (zakładów) obrotu (skupu) i tuczu zgrupowanych w:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "Centrali Przemysłu Mięsnego, , v",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "Centrali Przemysłu Zbożowo-Młynarskiego ,,PZŻ\" — zwanych dalej „przedsiębiorstwami obrotu\", §2. Ilekroć w niniejszym rozporządzeniu jest mowa o:",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "„ustawie'\" — należy przez to rozumieć ustawę z dnia 28 marca 1958 r. o funduszu zakładowym w przedsiębiorstwach państwowych (Dz. U. z 1960 r. Nr 13, poz. 78),",
+     "children": [
+      {
+       "type": "text",
+       "text": "2) „procencie poprawy wyniku\" — należy przez to rozumieć wskażnik procentowy, wynikający ze stosunku g kwoty ponadplanowej poprawy wyniku finansowego do planowanych kosztów wiasnych produkcji towarowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) „kwocie ponadplanowej poprawy wyniku finansowego\" — należy przez to rozumieć kwotę poprawy (przekroczę-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "nią) zaplanowanej w planie techniczno-ekonomicznym akumulacji bądź zysku (kwotę obniżenia zaplanowanej straty), osiągniętą ze sprzedaży produkcji -towarowej bądź z produkcji wytworzonej, z uwzględnieniem wyników z działalności pozazakładowej oraz ze sprzedaży towarów i materiałów po weryfikacji i dokonaniu ewentualnych korekt wyniku i kosztów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) „dyrektywnej rentowności” — należy przez to rozumieć ustalony przez jednostkę nadrzędną, wynikający z zadań narodowego planu gospodarczego,. wskaźnik wyrażający stosunek procentowy, w jakim pozostaje planowany wynik finansowy z całokształtu działalności gospodarczej do planowanego kosztu własnego sprzedaży produkcji towarowej, .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) „planowanej rentowności\" — należy przez to rozumieć wskażnik wyrażający stosunek procentowy, w jakim pozostaje ustalony w planie techniczno-ekonomicznym wynik finansowy z całokształtu działalności gospodarczej do kosztu własnego sprzedaży produkcji towarowej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) „rzeczywistej rentowności\" — należy przez to rozumieć wskażnik wyrażający stosunek procentowy, w. jakim pozostaje wynik bilansowy z całokształtu działalności go-",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "g",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "spodarczej do rzeczywistego -kosztu własnego sprzedaży produkcji towarowej, po weryfikacji i po dokonaniu ewentualnych korekt wyniku i kosztów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) „funduszu płac\" — należy przez to rozumieć osobowy fundusz płac planowany na dany rok,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3. W przedsiębiorstwach przemysłowych zgrupowanych w:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Centrali Przemysłu Mięsnego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Centrali Przemysłu Zbożowo-Młynarskiego „PZŻ”,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Zjednoczeniu Przemysłu Cukierniczego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Zjednoczeniu Przemysiu Cukrowniczego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) Zjednoczeniu Przemysiu Olejarskiego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) Zjednoczeniu Przemysłu Piwowarskiego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) Zjednoc:eniu Przemysiu Spirytusowego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) Zjednoczeniu Przemysłu Ziemniaczanego — fundusz zakładowy składa się z części zasadniczej (zasadniczy fundusz zakładowy) i części dodatkowej (dodatkowy fundusz zakładowy), która może być tworzona jedynie w razie uzyskania przez przedsiębiorstwo prawa do tworzenia zasadniczego funduszu zakiadowego. 8 4. 1. Zasadniczy fundusz zakładowy przedsiębiorstwo tworzy w wysokości 3,5°/o funduszu płac w wypadku wykonania jednego z niżej wyznaczonych zadań z zakresu kosztów, przyjętych w planie techniczno-ekonomicznym, na poziomie zapewniającym osiągnięcie dyrektywnego wskaźnika rentowności:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) nieprzekroczenie poziomu planowanych kosztów własnych produkcji na produkcji wykonanej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) nieprzekroczenie poziomu planowanych kosztów materiałów bezpośrednich na produkcji wykonanej,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zadania wymienione w ust. 1 pkt 1 ustala się dla przedsiębiorstw zgrupowanych w:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Zjednoczeniu Przemysłu Cukierniczego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Zjednoczeniu Przemysłu Olejarskiego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Zjednoczeniu Przemysłu Piwowarskiego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Zjednoczeniu Przemysłu Spirytusowego. Zadania wymienione w ust. 1 pkt 2 ustala się dla przedsiębiorstw zgrupowanych w:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Centrali Przemysłu Mięsnego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Centrali Przemysłu Zbożowo-Młynarskiego ,,PZŻ\",",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Zjednoczeniu Przemysłu Cukrowniczego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Zjednoczeniu Przemysłu Ziemniaczanego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W wypadkach uzasadnionych Minister Przemysłu Spożywczego i Skupu w porozumieniu z Ministrem Finansów może dokonać innego, niż podany w ust, 2, przydziału zadań wymienionych w ust. 1 dla poszczególnych zjednoczeń (central):",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Jeżeli przedsiębiorstwo nie osiągnie w pełni zadania, o którym mowa w § 4, zasadniczy fundusz zakładowy ulega zmniejszeniu w sposób następujący: ©",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) za niewykonanie zadania w granicach do 0,5%/s z mniej-. sza się zasadniczy fundusz zakładowy o 0,2% funduszu płac za każde 0,1%/ niewykonania zadania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) za dalsze pogorszenie zadania w granicach od 0,5% do 1,0°/o zmniejsza się dodatkowo zasadniczy fundusz zakładowy o 0,5%» funduszu płac za każde 0,1% pogorszenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jeżeli przedsiębiorstwo nie wykona zadania o więcej niż 1,0°/o, traci prawo do utworzenia zasadniczego funduszu zakładowego. :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przedsiębiorstwo tworzy dodatkowy fundusz zakładowy w zależności od stopnia osiągnięcia procentu poprawy wyniku, przyjmując do obliczenia wysokości odpisów na ten fundusz stawki określone w tabeli stanowiącej załącznik nr 1 do rozporządzenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Minister Przemysłu Spożywczego i Skupu w porozumieniu z Ministrem Finansów określi branże, w których za podstawę obliczenia procentu poprawy wyniku przyjmie się ze Poz. 51",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "akumulację finansową z całokształtu działalności, a w których — zysk (stratę) z całokształtu działalności.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Minister Przemysłu Spożywczego i Skupu może ustalić dla przedsiębiorstw zgrupowanych w Zjednoczeniach Przemysłu Cukrowniczego i Ziemniaczanego, ze za podstawę obliczenia procentu poprawy wyniku przyjmie się akumulację (zysk bądź stratę) na produkcji wytworzonej, z uwzględnieniem wyników działalności pozaoperacyjnej oraz salda zysków i strat nadzwyczajnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 7. Przedsiębiorstwa zgrupowane w Centrali Przemysłu „Zbożowo-Młynarskiego „PZŻ” tworzą dodatkowy fundusz zakładowy, jeżeli osiągną rzeczywistą rentowność wyższą od rentowności dyrektywnej. Wysokość dodatkowego fundus.u zakładowego oblicza się według stawek podanych w tabeli stanowiącej załącznik nr 2 do rozporządzenia. § 8. 1. Jeżeli przedsiębiorstwa, o których mowa w § 7, zaplanują rentowność wyższą od rentowności dyrektywnej i osiągną ją, wówczas fundusz zakładowy, przypadający za osiągnięcie zaplanowanej poprawy dyrektywnej rentowności, oblicza się według stawek podanych w tabeli (załącznik nr 2 do rozporząd enia), zwiększonych o 30%.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W razie przekroczenia planowanej rentowności, o której mowa w ust. 1, fundusz zakładowy, przypadający za to przekroczenie, oblicza się według stawek podanych w tabeli (załącznik nr 2 do rozporządzenia).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 9.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Poprawa dyrektywnej rentowności w planie techniczno-ekonomicznym powinna być zgłoszona nie później niż do dnia 30 kwietnia danego roku; poprawa dyrektywnej rentowności przez przedsiębiorstwo powinna spowodować również polepszenie wyniku finansowego i odpowiednią poprawę akumulacji w skali Centrali Przemysłu Zbożowo-Młynarskiego ,,PZŻ\" i Ministerstwa Przemysłu Spożywczego i Skupu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zobowiązuje się Ministra Przemysłu Spożywczego i Skupu do zgłoszenia Ministrowi Finansów w terminie do dnia 31 maja danego roku dodatkowego wyniku finansowego, jaki powstanie na skutek podwyższenia dyrektywnej rentowności przez jednostki, o których mowa w § 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 10.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W wypadkach uzasadnionych warunkami pracy bądź strukturą prawno-organizacyjną danego przemysłu Minister Przemysłu Spożywczego i Skupu w porozumieniu z Ministrem Finansów oraz Zarządem Głównym Związku Zawodowego Pracowników Przemysłu Spożywczego i Cukrowniczego może wyrazić zgodę na tworzenie dodatkowego funduszu zakładowego na szczeblu zjednoczenia (centrali) zamiast w przedsiębiorstwie, w sposób oraz w myśl zasad podanych w § 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Podziału środków dodatkowego fundus'u zakładowego tworzonego na szczeblu zjednoczenia (centrali) pomiędzy poszczególne przedsiębiorstwa dokonuje dyrektor zjednoczenia (centrali) po zasięgnięciu opinii kolegium zjednoczenia (centrali) na podstawie regulaminu uzgodnionego z Zarządem Głównym Związku Zawodowego Pracowników Przemysłu Spożywczego i Cukrowniczego. § 11. 1. W przedsiębiorstwach zgrupowanych w Zjednoczeniach Przemysłu: Jajczarsko-Drobiarskiego, Owocowo- Warzywnego i Paszowego „Bacutil' oraz w przedsiębior= stwach obrotu zgrupowanych w Centrali Przemysłu Mięsnego i Centrali Przemysłu Zbożowo-Miynarskiego ,,PZŻ\" twos rży się fundusz zakładowy za wykonanie określonych dla nich szczegółowych zadań zapewniających i stymulujących osiąganie i poprawę wyników ekonomicznych. . 2, Szczegółowe zadania, o których mowa w ust. 1, usta la dla przedsiębiorstw zgrupowanych w zjednoczeniu (cen- _trali), na podstawie wytycznych otrzymanych od Ministra Przemysłu Spożywczego i Skupu, dyrektor zjednoczenia (centrali) i przekazuje te zadania łącznie ze wskażnikami dotyczącymi planu techniczno-ekonomicznego. Ilość zadań nie może być większa niż 5. Każde zadanie określone jest w punktach. Łączna suma punktów za wszystkie zadania wynosi 100.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "3. Stawkę funduszu zakładowego za wykonanie zadań, o których mowa w ust. 2, wyrażoną w procencie funduszu płac: .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) dla Zjednoczeń Przemysłu: Jajczarsko-Drobiarskiego, Owocowo-Warzywnego i Paszowego „Bacutil' określa przeciętna wysokość odpisów na fundusz zakładowy w każdym z tych zjednoczeń, osiągniętych w latach 1963— 1965, z tym że stawka ta nie może być niższa od 4°/o i wyższa od 6% funduszu płac; dyrektorzy zjednoczeń mogą te stawki różnicować w zależności od stopnia trudności wykonania zadań warunkujących utworzenie funduszu zakładowego, warunków pracy, rangi przedsiębiorstwa itp., dla przedsiębiorstw obrotu zgrupowanych w Centralach 2) Pr.emysłu Mięsnego i Przemysłu Zbożowo-Młynarskiego ,,PZŻ\" ustala się w wysokości 2%% funduszu płac.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W razie niewykonania poszczególnych zadań, fundusz zakładowy ulega zmniejszeniu o procent wynikający ze stosunku, w jakim pozostaje ilość punktów zadań nie wykonanych do łącznej ilości punktów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Niewykonanie wszystkich zadań powoduje utratę prawa do funduszu zakładowego. § 12. 1. Przedsiębiorstwom, które wykażą się szczególnymi osiągnięciami w zakresie wzrostu produkcji eksportowej, uruchamiania produkcji nowych wyrobów, wydatnej poprawy jakości wyrobów, wzbogacenia asortymentu oraz *' przekroczenia określonych dla nich szczegółowych zadań, o których mowa w § 11, lub też przedsiębiorstwom, w których zajdzie konieczność zneutralizowania skutków pogorszenia wyniku wywołanego przyczynami niezależnymi od przedsiębiorstwa — może być przyznany fundusz zakładowy lub mogą być dodatkowo zwiększone odpisy na fundusz zakładowy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Decyzje o przyznaniu funduszu zakładowego lub o zwiększeniu odpisów na fundusz zakładowy wydaje:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) minister — w granicach kwoty równej 0,2%. funduszu płac przedsiębiorstw objętych rozporządzeniem,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dyrektor zjednoczenia, na podstawie uchwały kolegium zjednoczenia powziętej w porozumieniu z Zarządem Głównym Związku Zawodowego Pracowników Przemysłu Spożywczego i Cukrowniczego — w granicach limitu określonego przez Ministra.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. W wypadkach uzasadnionych specyfiką przemysłów, Minister Przemysłu Spożywczego i Skupu może przekazać dyrektorom zjednoczeń w pełni uprawnienia do podejmowania decyzji, o których mowa w ust. 2 pkt 1, lub zatrzymać do swojej decyzji całkowitą kwotę przeznaczoną na cele wymienione w ust. 1. i",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4, Na cele, o których mowa w ust. 1, może być przeznaczona łącznie kwota nie większa niż 1,0%/e funduszu plac przedsiębiorstw objętych rozporządzeniem.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 13. W przedsiębiorstwach przemysłu mięsnego i zbożowo-młynarskiego prowadzących oprócz działalności przemysłowej działalność obrotu (skupu) i tuczu, fundusz zakładowy oblicza się tylko od wyników działalności przemysło- - wej; dla działalności obrotu (skupu) i tuczu fundusz zakładowy ustala się w trybie i w sposób określony dla przedsiębiorstw obrotu (§ 11).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 14.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Podstawę obliczeń funduszu zakładowego koryguje się zgodnie z art. 6 ustawy, ponadto zaś o:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) skutki finansowe dodatnich i ujemnych różnic między planowanym a rzeczywistym wskaźnikiem: — zawartości oleju w nasionach oleistych, osnów tłuszczowych, jak również liczb kwasowych w olejach pochodzących z dostaw importowanych w przemyśle olejarskim,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "— zawartości skrobi w ziemniakach w przemyśle ziemniaczanym, — zawartości cukru w burakach cukrowych w przemyśle cukrowniczym, i",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) skutki finansowe dodatnich i ujemnych zmian receptur na mieszanki paszowe w przemyśle paszowym.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W = przedsiębiorstwach planowo deficytowych koryquje się wyniki i koszty także wskaźnikiem zmiany sprzedaży wyrobów i usług w porównaniu do planu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Korekta, o której mowa w ust. 2, może być dokonana za zgodą Ministra Przemysłu Spożywczego i Skupu w przedsiębiorstwach, w których ceny zbytu na niektóre wyroby i usługi zostały ustalone poniżej jednostkowego kosztu wytwarzania, jeżeli na te wyroby i usługi przedsiębiorstwa nie otrzymały dolacji przedmiotowych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 15.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W przedsiębiorstwach przemysłu cukrowniczego fundusz zakładowy powiększa się z tytułu:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) odstąpienia przez przedsiębiorstwo w ramach przerzutów buraków cukrowych ną rzecz innego przedsiębiorstwa — w wysokości 3 zł za tonę odstąpionych buraków, przebielania cukru surowego i cukrów żółtych pocho-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) dzących z importu — w wysokości 20 zł za tonę cukru białego otrzymanego z przebielenia, wyprodukowania cukru rafinowanego i cukru FG, od-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) powiadającego wymaganiom eksportowym — po 20 zł za tonę, polepszenia jakości cukru białego kryształu zwykłego",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) przy uyskaniu zabarwienia: poniżej 0,7° do 0,6” Stammera — w wysokości 2 zł za tonę, » 0,67 do 0,5? z +. 4 zł za tonę, » 0,5? do 0,47 „ \" 6 zł za tonę, \"r 0,4? r ” 8 zt za tonę,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) polepszenia jakości cukru surowego przeliczonego według Rdt — w wysokości 2 zł za tonę przy uzyskaniu powyżej 94,0° Rdt do 94,5°, a w wysokości 5 zł za tonę przy uzyskaniu powyżej 94,5? Rdt,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) wyprodukowania mączek paszowych — w wysokości 100 zł za tonę mączki,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) wyprodukowania suszu buraków i suszu cykorii odpowiadającego wymaganiom eksportowym — po 10 zł za tonę, 50°/o zysku osiągniętego od zrealizowanych nie planowa- 8) nych dodatkowych usług nieprzemysłowych oraz dodatkowej produkcji — pod warunkiem uprzedniego zatwierdzenia tych usług i produkcji przez Zjednoczenie Przemysłu Cukrowniczego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Fundusz zakładowy przedsiębiorstw, o którym mowa w ust. 1, zmniejsza się w razie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) gorszej jakości cukru kryształu zwykłego przy uzyskaniu stopnia zabarwienia: powyżej 1,0% do 1,2% Stammera — o 2 zł za tonę, powyżej 1,2” Stammera — o 4 zł za tonę,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) gorszej jakości cukru surowego, wyliczonej według Rdt: poniżej 93,5% — o 5 zł za każdą tonę cukru.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 16. Uchwała Rady Ministrów i Centralnej Rady Związków Zawodowych określa zasady podziału między poszczególne komórki organizacyjne ruchu i zarządu. przedsiębiorstwa tej części funduszu zakładowego, która zgodnie z art. 7 ust. 2 pkt 1 ustawy jest przeznaczona na nagrody dla pracowników.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 17.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przedsiębiorstwo dokonuje odpisów na fundusz zakładowy co kwartał, przyjmując za podstawę obliczenia tych odpisów odpowiednie dane, wynikające z kwartalnych sprawozdań finansowych, a za podstawę rocznego odpisu — dane wykazane w zweryfikowanym sprawozdaniu rocznym po dokonaniu korekt, wymienionych w $§ 14 i 15, Za pod-",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "stawę obliczeń kwartalnych przyjmuje się dane od początku roku do końca danego kwartału. W celu ustalenia kwot odpisów kwartalnych należy przy obliczaniu zasadniczego i dodatkowego funduszu zakładowego stosować analogiczną zasadę obliczeń jak przy dokonywaniu obliczeń rocznego fundus.u zakładowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Przedsiębiorstwo może dokonywać po upływie pierwszego półrocza i trzeciego kwartału wypłat zaliczkowych w wysokości nie przekraczającej 25% kwoty odpisu na fundusz zakładowy za dany okres. Wypłaty zaliczkowe na nagrody i świadczenia oraz na zaspokojenie innych potrzeb pracowników nie mogą przekraczać kwoty odpowiadającej 20/6 osobowego funduszu płac wykonanego w danym okresie, § 18. 1. W razie gdy rzeczywisty fundusz zakiadowy przedsiębiorstwa za dany rok jest niższy od utworzone'o i wypłaconego zaliczkowo w poszczególnych kwartałaca funduszu zakładowego, kwoty nadpłacone podlegają potrąceniu z funduszu następnego roku bądź z funduszów -następnych lat aż do całkowilego zlikwidowania nadpiaty.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Przepis ust. 1 stosuje się odpowiednio, jeżeli w wyniku badania prawidłowości utworzonego funduszu zakładowego zostanie ujawnione, że pr.edsiębiorstwo dokonało odpisów w kwocie większej od rzeczywiście przysługującej. § 19. 1. Przedsiębiorstwo, które nie spełni warunków określonych w rozporządzeniu i w związku z tym nie utworzy funduszu zakładowego, może wydatkować na nagrody i świadczenia dla pracowników kwotę nie przekraczającą 0,29/6 funduszu płac. Wydatki te zalicza się na straty przedsiębiorstwa. -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jeżeli w następnych okresach danego roku przedsiębiorstwo uiworzy fundusz zakładowy, wówczas kwotę wydalków, o których mowa w ust. 1, należy traktować jako zaliczkową wypłalę z funduszu zakładowego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 20.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przepisy rozporządzenia stosuje się odpowiednio do działających według zasad rozrachunku gospodarczego zakładów przedsiębiorstw. wielozakładowych, jeżeli ich urządzenia księgowe po.walają na ustalenie wyniku gospodarczego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Kombinaty mogą, na .mocy decyzji powziętej przez Ministra Przemysłu Spożywczego i Skupu, tworzyć fundusz zakładowy w poszczególnych zakładach, jeżeli dla tych zakładów wprowadzono obowiązek sporządzania samodzielnych bilansów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 21. Upoważnia się Ministra Finansów do dokonywania na wniosek Ministra Przemysłu Spożywczego -i Skupu zmian w zakwalifikowaniu »rzemysłów do poszczególnych metod obliczania funduszu zakładowego w stosunku do zakwalifikowania ustalonego w $§ 4, 6, 7, 10i 11.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 22. Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1966 r.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik nr 1 do rozporządzenia Rady Ministrów z dnia 28 stycznia 1966 r. (poz. 51).",
+   "body": [
+    {
+     "type": "text",
+     "text": "TABELA STAWEK FUNDUSZU ZAKŁADOWEGO ZA PROCENTOWĄ POPRAWĘ WYNIKU"
+    },
+    {
+     "type": "text",
+     "text": "Za procentową poprawę wyniku"
+    },
+    {
+     "type": "text",
+     "text": "do 2 procent w granicach od 2,01 do 4 proćent powyżej 4 procent"
+    },
+    {
+     "type": "text",
+     "text": "Stawka funduszu zakładowego, wyrażona w procencie funduszu płac za każdy jeden procent poprawy wyniku"
+    },
+    {
+     "type": "text",
+     "text": "el"
+    },
+    {
+     "type": "text",
+     "text": "0,6 0,4 0,2"
+    },
+    {
+     "type": "text",
+     "text": "Odpis na fundusz zakładowy należy liczyć w sposób składany, tj. oddzielnie dla każdego przedziału w tabeli. Wskaźniki ponadplanowej poprawy wyniku oblicza się z dokładnością do dwóch miejsc po przecinku przy zastosowaniu ogólnie przyjętych zasad zaokrąglania,"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2 do rozporządzenia Ra: dy Ministrów z dnia 28 stycznia 1966 r. (poz. 51).",
+   "body": [
+    {
+     "type": "text",
+     "text": "TABELA STAWEK FUNDUSZU.ZAKŁADOWEGO ZA POPRAWĘ DYREKTYWNEGO WSKAŹNIKA RENTOWNOŚCI"
+    },
+    {
+     "type": "text",
+     "text": "Stawka funduszu zakładowego, wyrażona w procencie funduszu * Za poprawę dyrektywnego wskaźnika rentowności"
+    },
+    {
+     "type": "text",
+     "text": "do 2 punktów w granicach od 2,01 do 4 punktów powyżej 4 punktów płac za każdy jeden punkt poprawy dyrektywnego wskażnika rentowności"
+    },
+    {
+     "type": "text",
+     "text": "0,8 0,4 0,2"
+    },
+    {
+     "type": "text",
+     "text": "Odpis na fundusz zakładowy należy liczyć w sposób składany, tj. oddzielnie dla każdego przedziału w tabeli, przez punkt rozumie się poprawę o jedność zadanego wskaźnika rentowności. Wskaźniki rentowności oblicza się z dokładnością do dwóch miejsc po przecinku przy stosowaniu ogólnie przyjętych zasad zaokrąglania,"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

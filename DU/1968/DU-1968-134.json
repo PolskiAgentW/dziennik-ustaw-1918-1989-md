@@ -1,0 +1,109 @@
+{
+ "eli": "DU/1968/134",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 24 czerwca 1968 r. w sprawie utworzenia i zmiany granic niektórych miast w województwie wrocławskim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1968/134/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 czerwca 1968 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia i zmiany granic niektórych miast w województwie wrocławskim."
+  },
+  {
+   "type": "text",
+   "text": "Na podsławie art. 5 ust. 1 ustawy z dnia 4 lutego 1950r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W województwie wrocławskim tworzy się: miasto Zawidów w powiecie lubańskim z obszaru osie- 1",
+   "children": [
+    {
+     "type": "text",
+     "text": "— dla Zawidów, miasto Bardo w powiecie ząbkowickim z obszaru osie- 2"
+    },
+    {
+     "type": "text",
+     "text": "— dla Bardo."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W województwie wrocławskim wyłącza się: z miasta Lubina w powiecie lubińskim: 1",
+   "children": [
+    {
+     "type": "text",
+     "text": "—"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "przysiółek Gola i włącza się go do gromady Lubin w tymże powiecie,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "przysiółek Lubków i włącza się go do gromady Szklary Górne w tymże powiecie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "z miasta Mieroszowa w powiecie wałbrzyskim miejscowości Sokołowsko i Kowalowa i włącza się je do gromady Mieroszów w tymże powiecie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "z miasta Jedlina-Zdrój w powiecie wałbrzyskim miejscowość Olszyniec i włącza się ją do gromady Zagórze Śląskie w tymże powiecie; z miasta Sobótka w powiecie wrocławskim miejscowość 4",
+     "children": [
+      {
+       "type": "text",
+       "text": "= Garncarsko i włącza się ją do gromady Rogów Sobócki w tymże powiecie;"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "z miasta Bardo w powiecie ząbkowickim miejscowości Dębowina i Opolnica i włącza się je do gromady Przyłęk w tymże powiecie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1969 r. ;",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

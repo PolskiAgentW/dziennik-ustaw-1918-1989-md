@@ -1,0 +1,75 @@
+{
+ "eli": "DU/1961/310",
+ "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 29 listopada 1961 r. o sprostowaniu błędów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1961/310/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 listopada 1961 r. *"
+  },
+  {
+   "type": "text",
+   "text": "o sprostowaniu błędów."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6 ust. 1 i 3 ustawy z dnia 30 grudnia 1950 r. o wydawaniu Dziennika Ustaw Polskiej Rzeczypospolitej Ludowej i Dziennika Urzędowego Polskiej Rzeczypospolitej Ludowej „Monitor Polski\" (Dz. U. Nr 58, poz. 524) prostuje się następujące błędy:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w załączniku nr 2 do rozporządzenia Rady Ministrów z dnia 13 września 1961 r. w sprawie uposażenia pracowników instytutów naukowo-badawczych (Dz. U. Nr 43, poz. 226) — w tabelach stanowisk, kwalifikacji i uposażenia pracowników administracyjnych i fizycznych pracowników obsługi:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "pod Ip. 16 w kolumnie drugiej zamiast wyrazów „Referent, magazynier, sekretarz dyrektora, kierownik archiwum\" powinny być wyrazy „Referent, sekretarz „dyrektora, kierownik archiwum\",",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "pod Ip. 17 w kolumnie czwartej zamiast wyrazu „podstawowe” powinien być wyraz „Średnie\"ę",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w rozporządzeniu Rady Ministrów z dnia 13 Wiześnia: 1961 r. w sprawie warunków i trybu powoływania pracowników naukowych w instytutach naukowo-badaw- . czych (Dz. U. Nr 43, poz. 228) w § 13 ust. 3 zamiast wyrazów „w ust. 1\" powinny być wyrazy „w ust. 2”.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrańkiewicz"
+  },
+  {
+   "type": "text",
+   "text": "Tłoczóno z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Warszawa, ul. Tamka 3. w"
+  },
+  {
+   "type": "text",
+   "text": "Zam, «559"
+  },
+  {
+   "type": "text",
+   "text": "Cena 0,80 zł"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

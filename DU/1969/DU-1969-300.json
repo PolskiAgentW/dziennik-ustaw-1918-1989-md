@@ -1,0 +1,262 @@
+{
+ "eli": "DU/1969/300",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 6 grudnia 1969 r. w sprawie zmiany granic niektórych miast w województwie gdańskim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1969/300/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 grudnia 1969 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granic niektórych miast w województwie gdańskim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 ustawy z.dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracyjnego. Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W powiecie kościerskim, województwie gdańskim wyłącza się: M",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "z miasta Kościerzyna obszar o powierzchni 618,17 ha i włącza się go do gromady Kościerzyna,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "z miasta Skarszewy obszar o powierzchni 1.408,83 ha i włącza się go do gromady Skarszewy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W powiecie lęborskim, województwie gdańskim wyłącza się:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "z miasta Lęborka:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "obszar o powierzchni 875,97 ha i włącza się go do gromady Nowa Wieś Lęborska,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "obszar o powierzchni 1.653,76 ha i włącza się go do gromady Rozłazino,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "z miasta Łeba obszar o powierzchni 348,30 ha i włącza się go do gromady Wicko..",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W powiecie nowodworsko-gdańskim, województwie gdańskim- wyłącza się:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "z miasta Nowy Dwór Gdański obszar o powierzchni 91,90 ha i włącza się go do gromady Kmiecin,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "z gromady Kmiecin część wsi Żelichowo o powierzchni 14,13 ha i włącza się ją do miasta Nowy Dwór Gdański.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "W powiecie puckim, województwie gdańskim wyłącza się:",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "z miasta Pucka:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "obszar o powierzchni 641,44 ha i włącza się go do gromady Połczyno,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "obszar'o powierzchni 219,10 ha i włącza się go do gromady Żelistrzewo,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "z miasta Władysławowo:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_2/pkt_1",
+       "text": "obszar o powierzchni 352,39 ha i włącza się go do gromady Strzelno,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_2/pkt_2",
+       "text": "obszar o powierzchni 361,77 ha i włącza się go do gromady Połczyno,",
+       "children": [
+        {
+         "type": "text",
+         "text": "~"
+        },
+        {
+         "type": "text",
+         "text": "§5 W powiecie starogardzkim, PETA gdańskim wyłącza się:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "z miasta Starogard Gdański:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "obszar o powierzchni 116,34 ha i włącza się go do gromady Rokocin,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "obszar o powierzchni 750,12 ha i włącza się go do gromady Kokoszkowy,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "z miasta Skórcz obszar o powierzchni 1.751,23 ha i włącza się go do - gromady Pączewo.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Z miasta Dzierzgoń w powiecie sztumskim, województwie -gdańskim wyłącza się obszar o powierzchni, 631,28 ha i włącza się go do gromady Dzierzgoń w tymże powiecie i województwie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "W powiecie tczewskim, województwie gdańskim wyłącza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_7/pkt_1",
+     "text": "z miasta Gniew. obszar o powierzchni 458, 08 ha i włącza się go do gromady Gniew,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_7/pkt_2",
+     "text": "z miasta Pelplin obszar o powierzchni 647,21 ha i włącza się go do gromady Rożental,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_7/pkt_3",
+     "text": "z gromady Rożental część wsi Pomyje o powierzchni 3,82 ha i włącza się ją do miasta Pelplin.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Z gromady Dzierżążno w powiecie kartuskim, województwie gdańskim wyłącza się obszar użytków leśnych o powierzchni 260 ha i włącza się go do miasta Kartuzy, w tymże powiecie i województwie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Szczegółowe określenie granic miast objętych rozporządzeniem ustali Prezydium Wojewódzkiej Rady Narodowej w Gdańsku w drodze zarządzenia wydanego w. oparciu o uchwałę Wojewódzkiej Rady Narodowej w Gdańsku nr 11/10/69 z dnia 30 kwietnia 1969 r. Zarządzenie wymaga ogłoszenia w Dzienniku Urzędowym Wojewódzkiej Rady Narodowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 .stycznia 1970 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

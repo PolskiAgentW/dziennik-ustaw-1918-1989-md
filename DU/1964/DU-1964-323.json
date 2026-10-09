@@ -1,0 +1,78 @@
+{
+ "eli": "DU/1964/323",
+ "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 16 listopada 1964 r. w sprawie egzekucji z lokalu mieszkalnego stanowiącego odrębną nieruchomość.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1964/323/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA SPRAWIEDLIWOŚCI z dnia 16, listopada 1964 tr w sprawie egzekucji z lokalu mieszkalnego stanowiącego odrębną nieruchomość. rr"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. XIX § 3 ustawy z dnia 23 kwietnia 1964 r. — Przepisy wprowadzające Kodeks cywilny (Dz. U. Nr 16, poz. 94) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Egzekucja z lokalu mieszkalnego stanowiącego odrębną nieruchomość odbywa się według przepisów o egzekucji z nieruchomości.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Jeżeli budynek, z którego wyodrębniono lokal będący przedmiotem egzekucji, znajduje się na działce gruntu stanowiącej własność Państwa i oddanej właścicielom lokali w tym budynku w użytkowanie wieczyste, egzekucja z lokalu odbywa się z uwzględnieniem przepisów dotyczących egzekucji z prawa użytkowania wieczystego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "SPAWE"
+      },
+      {
+       "type": "text",
+       "text": "Zajęcie lokalu mieszkałnego obejmuje również:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "lokal użytkowy konieczny do wykonywania zawodu eh OS Ae Ć stanowiący przez właściciela lokalu mieszkalnego, a część składową lokalu mieszkalnego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "udział właściciela lokalu mieszkalnego we współwłasności nieruchomości, z której wyodrębniono własność tego lokalu, a w wypadkach określonych w § 1 ust. 2 — udział we współwłasności budynku i w prawie użytkowania wieczystego działki gruntu, na której został on wzniesiony.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Nie można kierować odrębnej egzekucji do przedmiotów i praw określonych w ust. 1. i § 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 1965 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Sprawiedliwości: M. Rybicki"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

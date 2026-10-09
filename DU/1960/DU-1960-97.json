@@ -1,0 +1,760 @@
+{
+ "eli": "DU/1960/97",
+ "title": "Rozporządzenie Przewodniczącego Komitetu Drobnej Wytwórczości z dnia 1 marca 1960 r. w sprawie nauki zawodu w rzemieślniczych zakładach pracy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1960/97/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PRZEWODNICZĄCEGO KOMITETU DROBNEJ WYTWÓRCZOŚCI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 marca 1960 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie nauki zawodu w rzemieślniczych zakładach pracy."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 27 ust. 2 ustawy z cria 2 lipca 1958 r. o dacs zawodu, przyuczaniu do określonej pracy i warunkach zatrudniania młodocianych w zakładach pracy oraz o wstępnym stażu pracy (Dz. U. Nr 45, poz. 226) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rzemieślniczymi zakładami pracy w rozumieniu rozporządzenia są:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_1/pkt_1",
+       "text": "zakłady prowadzone przez rzemieślników indywidualnych na podstawie uprawnienia rzemieślniczego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_1/pkt_2",
+       "text": "warsztaty szkoleniowo-produkcyjne prowadzone przez zakłady doskonalenia rzemiosła.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Ilekroć w rozporządzeniu jest mowa o u sławie bez bliższego określenia, rozumie się przez to ustawę z dnia 2 lipca 1958 r. o nauce zawodu, przyuczaniu do określonej pracy i warunkach zatrudniania młodocianych w zakładach pracy oraz o wstępnym stażu pracy (Dz. U. Nr 45, poz. 226)..",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Rzemieślnicy indywidualni mogą szkolić uczniów pod warunkiem posiadania kwalifikacji określonych przepisami rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Zakłady doskonalenia rzemiosła mogą przyjmować uczniów na naukę zawodu w warsztatach szkoleniowo-produkcyjnych pod warunkiem zapewnienia prowadzenia tej nauki przez osoby posiadające kwalifikacje fachowe, okrę- Sione przepisami niniejszego rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "W zakładach rzemieślniczych prowadzonych na ra= chunek wdowy, małoletnich zstępnych itd. szkolenie uczniów może się odbywać tylko w przypadku, gdy osoba powołana do dalszego prowadzenia rzemiosła posiada kwalifikacje określone przepisami niniejszego rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Liczba uczniów przyjętych na naukę zawodu nie powinna przekraczać czterech na osobę prowadzącą naukę. Jeżeli w rzemieślniczym zakładzie zatrudnieni są czeladnicy, liczba uczniów może być zwiększona o liczbę odpowiadającą liczbie czeladników.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "W warsztatach szkoleniowo-produkcyjnych, o których mowa w § 1 ust. 1 pkt 2, jedna osoba prowadząca naukę może szkolić nie więcej niż 12 uczniów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Izba rzemieślnicza może ograniczyć ilość uczniów przyjmowanych na naukę zawodu w zakładach indywidualnych rzemieślników, jeżeli jest to konieczne ze względu na warunki bezpieczeństwa i higieny pracy, warunki lokalowe lub brak wyposażenia zakładu w maszyny i urządzenia, niezbędne do należytego wyszkolenia uczniów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Zasady zawierania i rozwiązywania umów o-naukę zawodu."
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Rzemieś!lniczy zakład pracy przyjmując ucznia na naukę obowiązany jest zawrzeć z nim na piśmie umowę o naukę zawodu. W umowie tej należy określić rzemiosło, w jakim uczeń będzie szkolony, okres trwania nauki, wysokość wynagrodzenia ucznia craz inne zasadnicze uprawnienia i obowiązki ucznia i zakładu pracy.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "rieonik Ustaw Nr 16"
+      },
+      {
+       "type": "text",
+       "text": "- 2. Wzór umowy o naukę zawodu zostanie ustalony w Prodze zarządzenia Przewodniczącego Komitetu Drobnej Wy- 4wóTczości. ESC przypadku nieukończenia przez młodocianego 16 rotra życia umowa o naukę powinna być podpisana również w rzez prawnego opiekuna młodocianego. Opiekun zamiast podpisania umowy może wyrazić zgodę na piśmie na jej za- „warcie."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Uczeń podejmując zatrudnienie w celu nauki obowiązany jest przedstawić w zakładzie pracy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "metrykę urodzenia lub inny dokument stwierdzający jego wiek,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "świadectwo lekarskie stwierdzające, że dany rodzaj zatrudnienia nie zagraża jego zdrowiu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "świadectwo szkolne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "8 6. 1. Rzemieślnik indywidualny zawiera z uczniem umowę o navkę we właściwym „cechu, który w ciągu 2 tygodni przesyła umowę izbie rzemieślniczej w celu zarejestrowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W razie stwierdzenia w umowie uchybień w stosunku do obowiązujących przepisów prawnych izba rzemieślnicza w terminie dwóch tygodni od dnia otrzymania umowy albo odmówi zarejestrowania umowy, albo określi termin, w jakim uchybienia te powinny być usunięte, '' 3. Od decyzji izby rzemieślniczej w sprawie zarejestrowania umowy o naukę przysługuje prawo odwołania się do Związku Izb Rzemieślniczych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_5/ust_4",
+     "text": "Umowa o naukę z zakładem określonym w § 1 ust I pkt: 2 zawierana jest z kierownikiem zakładu. Umowę podpisuje również pracownik wyznaczony pizez kierownika zakładu pracy do kierowania nauką uczniów. Umowa powinna być zgłoszona — w celu zarejestrowania — do właściwej terenowo izby rzemieślniczej 'w terminie 2 tygodni od daty zawarcia umowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Umowę o naukę zawiera się na okres próbny, który trwa 1 miesiąc. Jeżeli w okresie próbnym umowa nie zostanie rozwiązana, umowę uważa się za zawartą na czas trwania nauki rzemiosła.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "W razie skrócenia lub przedłużenia czasu trwania nauki rzemiosła, zgodnie z przepisami wskazanymi w § 11, czas trwania umowy ulega odpowiednio skróceniu lub przedłużeniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Umowę o naukę rzemiosła w okresie próbnym może rozwiązać każda ze stron ze skutkiem natychmiastowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Po upływie okresu próbnego umowa o naukę może być rozwiązana w przypadkach i trybie określonych w art. 9 ust. 2, 3 i 4 ustawy. 3, Umowa o naukę ulega rozwiązaniu w razie odmowy zarejestrowania jej przez izbę rzemieślniczą oraz w razie pozbawienia rzemieślnika prawa szkolenia uczniów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Rzemieślniczy zakład pracy obowiązany jest wydać uczniowi zaświadczenie o odbyciu nauki a 24 rzemiosła.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W razie rozwiązania umowy o naukę przed jej ukończeniem rzemieślniczy zakład pracy powinien wydać uczniowi zaświadczenie stwierdzające okres odbytej nauki i rodzaj rzemiosła, w którym uczeń tę naukę odbywał.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Okres odbytej nauki rzemieślniczy zakład pracy zats",
+     "children": [
+      {
+       "type": "text",
+       "text": "liczą w całości lub w części do okresu nauki rzemiosła, w którym uczeń podejmuje ponownie naukę. W przypadkach spornych o długości okresu odbytej nauki, który podłega zaliczeniu do okresu nauki rzemiosła w zakładzie rzemieślnika indywidualnego, decyduje cech. Jeżeli uczeń podejmuje naukę w tym samym rzemiośle, okres odbytej przez niego nauki powinien być zaliczony w całości,"
+      },
+      {
+       "type": "text",
+       "text": "162 ; Poy 7"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Rzemieślniczy zakład pracy powinien umożliwić uczniowi przystąpienie do egzaminu czeladniczego w ciągu ostatniego miesiąca okresu, na który została zawarta umowa o naukę, Jeżeli w tym terminie uczeń nie mógł przystąpić do egzaminu z powodu niezorganizowania egzaminów, umowa o naukę może być na wniosek ucznia przedłużona na okres do trzech miesięcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "W razie niestawienia się ucznia na egzamin w wyznaczonym terminie umowa o naukę ulega rozwiązaniu z upływem terminu, na który została zawarta.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Zasady odbywania nauki zawodu."
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Czas trwania nauki rzemiosła określają przepisy rozporządzenia Przewodniczącego Komitetu Drobnej Wytwórczości z dnia 21 stycznia 1959 r. w sprawie czasu trwania nauki zawodu w zakładach rzemieślniczych (Dz. U. Nr 9, poz. 48).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Nauka rzemiosła powinna być prowadzona według programów ustalonych na podstawie wytycznych wydanych przez Przewodniczącego Komitetu Drobnej Wytwórczości.i Ministra Oświaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Programy nauki ustalają:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_12/ust_2/pkt_1",
+       "text": "Związek Izb Rzemieślniczych dla zakładów SN a nych przez indywidualnych rzemieślników,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_12/ust_2/pkt_2",
+       "text": "Związek Zakładów Doskonalenia Rzemiosła dla warsztatów szkoleniowo-produkcyjnych, prowadzonych przez zakłady doskonalenia rzemiosła.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Rzemieślniczy zakład pracy zatrudniający młodocianych w celu nauki rzemiosła obowiązany jest zapewnić ochronę, bezpieczeństwo i higienę pracy zgodnie z prze- © pisami dotyczącymi zatrudnienia młodocianych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Rzemieślniczy zakład pracy obowiązany jest prowadzić wykazy zatrudnionych młodocianych, zgodnie z obowiązującymi przepisami.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 14 Nie wolno zatrudniać młodocianych odbywających naukę rzemiosła przy pracach wzbronionych młlodocianym \"z wyjątkiem przypadków określonych na podstawie art. 15 ust. 2 ustawy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Młodocianych zatrudnionych w celu nauki rzemiosła nie wolno zatrudniać w porze nocnej w godzinach od 22 do 6, w godzinach nadliczbowych oraz przy pracach nie związanych z nauką.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Rzemieślniczy zakład pracy obowiązany jest: kierować pracą ucznia w indywidualnych zakładach rze-. 1) mieślniczych bezpośrednio przez rzemieślnika, a w żakładach określonych w § 1 ust. I pkt 2— przez wyznaczonego w tym cełu pracownika posiadającego odpowiednie kwalifikacje, zapewnić zgodność przebiegu nauki rzemiosła z ustalonym programem, zaopatrzyć ucznia w niezbędną na danym stanowisku 3) pracy odzież ochronną i roboczą zgodnie 'z obowiązującymi przepisami oraz zapewnić mu inne świadczenia przysługujące na danym stanowisku, j umożliwić uczniowi młodocianemu regularne .i punktu-",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_16/pkt_4",
+     "text": "alne uczęszczanie na naukę dokształcającą, kontrolować, czy uczeń młodociany uczęszcza regular-",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_16/pkt_5",
+     "text": "nie na naukę dokształcającą, kierować ucznia młodocianego na okresowe badanie le-",
+     "children": [
+      {
+       "type": "text",
+       "text": "„ 6) karskie, zaznajomić ucznia z obowiązującymi przepisami o beze pieczeństwie i higienie pracy ze szczególnym uwzględnieniem przepisów obowiązujących w danym zawodzie,",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "z",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "z przepisami przeciwpożarowymi i z przepisami (zasada- Imi) dotyczącymi ochrony zdrowia pracowników, ochrony mienia zakładu pracy oraz nadzorować przestrzeganie tycn przepisów przez ucznia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8) zaznajomić ucznia z przepisami określającymi prawa i obowiązki pracownika ze szczególnym uwzględnieniem przepisów dotyczących zatrudniania młodocianych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) współpracować ze szkołą, w której uczeń młodociany idoksziałca się w zakresie nauczania i wychowania ucznia zgodnie z rozporządzeniem Ministra Oświaty z dnia 14 lutego 1959 r. w sprawie dokształcania oraz kontroli nauki zawodu młodocianych zatrudnionych w zakładach pracy (Dz. U. Nr 17, poz. 99).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "+17. Uczeń zatrudniony w rzemieślniczym zakładzie praev obowiązany jest:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) .pilnie uczyć się i wykonywać sumiennie powierzoną prace eraz stosować się do poleceń i wskazówek przełożonych, ;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) stosować się do obowiązujących w zakładzie pracy przepisów o bezpieczeństwie i higienie pracy, przepisów przeciwpożarowych oraz innych przepisów mających na celu ochronę zdrowia i bezpieczeństwa pracy pracowników eraz ochronę mienia zakładu pracy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) pdnosić się z szacunkiem do przełożonych i okazywać koleżeński stosunek współtowarzyszom pracy, 4 przestrzegać dyscyplinę pracy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) poddawać się okresowym badaniom lekarskim w wyzna- ‘czonych terminach i wykonywać systematycznie obowiązek dokształcania się zgodnie z obowiązującymi przepisami. § 18. Młodociani zatrudnieni w rzemieślniczych zakładach pracy w celu nauki rzemiosła obowiązani są dokształcać się do czasu ukończenia 18 lat. Dokształcanie teoretyczne młodocianych zatrudnionych w rzemieślniczych zakładach pracy w celu nauki rzemiosła odbywa się w zasadniczych szkołach zawodowych dła pracujących lub innych szkałach zawodowych, ośrodkach dokształcania zawodowego albo na kursach prowadzonych przez zakłady doskonalenia rzemiosła lub orqanizacje samorządu gospodarczego rzemiosła, zatwierdzonych przez Ministerstwo Oświaty lub właściwe organy admińistracji szkolnej prezydiów wojewódzkich rad narodowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 19.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Czas pracy młodocianych zatrudnionych w celu nauki rzemiosła w wieku od lat 14 do 16 wynosi 6 godzin na dobę i 36 godzin tygodniowo.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Młodocianych w wieku powyżej lat 16 obowiązuje nornialny czas pracy (8 godzin na dobę i 46 gędzia tygodniowo).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Do czasu pracy młodocianych wlicza się czas dokształcania bez względu na to, czy nauka odbywa się w godzinach pracy, czy poza godzinami pracy — w wymiarze nie przekraczającym 18 godzin tygodniowa. § 20. 1. Rzemieślniczy zakład pracy obowiązany jest zwolnić z pracy młodocianego zatrudnionego w celu nauki rzemiosła na naukę dokształcającą w wymiarze nie większym niż 18 godzin tygodniowo, bez względu na to, czy nauka odbywa się w godzinach pracy, czy póza godzinami pracy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W przypadku gdy dokształcanie teoretyczne odbywa się w ośrodku dokształcania zawodowego lub na kursach z oderwaniem od pracy, rzemieślniczy zakład pracy obowiązany jest zwolnić młodocianego od pracy na okres nie dłuższy, niż to wypada w wyniku zastosowania przepisu ust. l.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Z zaliczenia czasu dokształcania do czasn pracy korzystają jedynie ci młodociani, którzy obowiązek (SABA: nią faktycznie wykonują.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 21. Uczniowie zatrudnieni w rzemieślniczych zakła-' dach pracy, którzy przed ukończeniem nauki osiąjnęli pełnoletność, mają prawo dokształcania się na zasadach określonych dla młodocianych (§ 19 ust. 3 i § 20). Uczniom tym przysługuje wówczas wynagrodzenie przewidziane w § 22 ust. 1 i 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 22.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Uczniom młodocianym w okresie nauki rzemiosła przysługuje wynagrodzenie miesięczne w wysokości:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "od 150 zł do 260 zł w pierwszym roku nauki w drugim roku nauki od 320 zł do 380 zł",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "w trzecim roku nauki od 480 zł do 600 zł",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "ed 600 zł do 800 zł w czwartym roku nauki «",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Ograniczeń maksymalnej wysokości wynagrodzeń, przewidzianych w ust. I, nie stosuje się do uczniów zatrudnionych w zakładach rzemieślników indywidualnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Stosewanie akordowego systemu płac dla uczniów: młodocianych w czasie trwania nauki rzemiosła jest niedozwolone.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Osobom pełnoletnim, zatrudnionym na podstawie umowy o naukę, przysługuje wynagrodzenie w wysokości określonej umową, nie niższe jednak niż 600 zł miesięcznie w pierwszym roku nauki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Jeżeli wynagrodzenie ucznia nie przekracza górnej granicy określonej w ust. I, naukę rzemiosłe w pierwszym i drugim roku traktuje się w zakresie przepisów o zasiłkach i dodatkach do rent na równi z odbywaniem nauki zawodu w uspołecznionych zakładach pracy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "823 1. Za każdą opuszczoną bez usprawiedliwienia godzinę zatrudnienia w zakładzie pracy oraz za każdą opusaczoną bez usprawiedliwienia godzinę dokształcania się wliczaną do czasu pracy potrąca się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) uczniom młodocianym od 14 do 16 roku życia 1/150 część miesięcznego wynagrodzenia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) pozostałym uczniom 1/200 część miesięcznego wynagrodzenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Sumy potrącone uczniom na podstawie ust. za opuszczone bez usprawiedliwienia godziny dokształcania rzemieślnicy indywidtalni obowiązani są wpłacać co miesiąc właściwej izbie rzemieślniczej na fundusz szkoleniowy rzemiiosła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 24.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Młodocianym do ukończenia 16 roku życia przysługuje po nieprzerwanej pracy półrocznej płatny urlop wypoczynkowy w wymiarze 2 fygodni, a po rocznej nieprzerwanej pracy oraz w roku następnym — urlop wypoczynkowy w wymiarze 30 dni kalendarzowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Młodociani. w wieku powyżej lat 16 i uczniowie pełnoletni korzystają z urlopu wypoczynkowego w wymiarze i na zasadach przewidzianych w obowiązujących przepisach o urłopach dla pracowników zatrudnionych w przemysle i handlu, a mianowicie w wymiarze: 7 dni roboczych po półrocznej pracy, [4 dni roboczych po rocznej pracy oraz 15 dni roboczych po trzech Iatach pracy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Urlop wypoczynkowy przewidziany w ust. 1 i 2 po rocznej pracy przysługuje niezależnie od urlopu przysługującego po półrocznej pracy. i .4. Na wniosek młodocianego wykonującego obowiązełe dokształcania zakład pracy powinien udzielić młodocianemu urlopu wypoczynkowego w okresie ferii szkolnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 25. t. Nadzór nad przebiegiem odbywania nauki rze< miosła w zakładach prowadzonych przez indywidualnych rzemieślników sprawują izby rzemieślnicze, a w warsztatach szkoleniowo-produkcyjnych zakładów doskonalenia rzemiosła — Związek Zakładów Doskonalenia Rzemiosła. : AA",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "2. Sprawowanie nadzoru przez jednostki wymienione w _ ust. 1 nie ogranicza nadzoru sprawowanego na podstawie przepisów ustawy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Kwalifikacje osób uprawnionych do szkolenia uczniów rzemieślniczych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 26.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Uprawnienie do szkolenia uczniów w rzemiośle przysługuje osobom, które: _ 1) mają prawo używania tytułu mistrza rzemieślniczego,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) posiadają wyższe wykształcenie w zakresie obejmującym dane rzemiosła i odbyli wstępny staż pracy bądź co najmniej roczny okres pracy w zakładzie pracy,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) posiadają świadectwo ukończenia jednej z następujących średnich szkół zawodowych, których program obejmuje podstawowe wiadomości z zakresu danego rzemiosła:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) techników zawodowych, przyjmujących młodzież po ukończeniu co najmniej 7 klas szkoły ogólnokształcącej, w połączeniu z co najmniej trzyletnim wykonywaniem danego rzemiosła,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) techników zawodowych, przyjmujących młodzież po ukończeniu zasadniczych szkół zawodowych, w połączeniu z co najmniej dwuletnim wykonywaniem danego rzemiosła,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) innych średnich szkół zawodowych dających wykształcenie równorzędne z wykształceniem, jakie dają szkoły wymienione pod lit. a) i b), w połączeniu z co najmniej odpowiednio dwu- lub trzyletnim wykonywaniem danego rzemiosła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Organ administracji przemysłowej prezydium wojewódzkiej rady narodowej może na wniosek izby rzemieślniczej lub właściwego organu inspekcji pracy pozbawić prawa szkolenia uczniów rzemieślnika skazanego wyrokiem sądu za przestępstwo popełnione z chęci zysku lub przeciw moralności publicznej albo który dopuścił się ciężkiego uchybienia obowiązkom względem swych uczniów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zasady i tryb przeprowadzania egzaminów czeladniczych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 27. Po odbyciu nauki zawodu uczeń powinien przystąpić do egzaminu czeladniczego. § 28. Celem egzaminu czeladniczego jest stwierdzenie, czy uczeń nabył biegłości i wprawy w wykonywaniu zwy-_ ktej pracy w zakresie wyuczonego rzemiosła oraz w zakresie wiadomości teoretycznych umożliwiających wykonywanie danego rzemiosła. § 29. 1. Podanie o dopuszczenie do egzaminu czeladniczego wnosi uczeń do właściwej ze względu na miejsce odbywania nauki zawodu izby. rzemieślniczej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do podania należy dołączyć:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) świadectwo (świadectwa) ukończenia nauki rzemiosła,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) świadectwo ukończenia zasadniczej szkoły zawodowej dla pracujących (dokształcającej) lub świadectwo innej szkoły lub kursu stwierdzającego posiadanie wykształcenia uznanego przez władze szkolne za równorzędne z wykształceniem, jakie daje ukończenie zasadniczej szkoły zawodowej dokształcającej, albo zaświadczenie właściwego organu administracji szkolnej stwierdzające, że uczeń szkolenia tego nie mógł ukończyć.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Osoby mogące wykazać się ukończeniem szkoły średniej ogólnokształcącej lub zawodowej, a ponadto głuchoniemi i ociemniali nie mają obowiązku dołączenia świadectwa wskazanego w ust. 2 pkt 2. § 30. Izba rzemieślnicza w porozumieniu z właściwym organem administracji szkolnej może dopuścić ucznia do egzaminu czeladniczego pomimo nieukończenia szkolenia teoretycznego, o ile uczeń szkolenia tego nie mógł ukończyć z powodu niezorganizowania w miejscowości, w której ódbywał naukę rzemiosła, szkoły dokształcającej lub odpowiedniego kursu zawodowego, a nie miał możności odbycia szkolenia w ośrodku poza miejscowością, w której odbywał naukę rzemiosła, bądź w przypadku, gdy uczeń rozpoczął odbywanie nauki rzemiosła po ukończeniu 18 lat. § 31. 1. Izby rzemieślnicze powołują komisje egzaminacyjne dla przeprowadzania egzaminów czeladniczych osób, które odbyły naukę rzemiosła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Szczegółowe zasady i tryb powoływania komisji egzaminacyjnych, ich skład, sposób przeprowadzania egzaminów, wzór świadectwa czeladniczego, zasady wynagradzania członków komisji oraz taksy egzaminacyjne określone zostaną w regulaminie opracowanym przez Związek Izb Rzemieélniczych i zatwierdzonym przez Przewodniczącego Komitetu Drobnej Wytwórczości w porozumieniu z Ministrem Oświaty. § 32. 1. Po złożeniu egzaminu z wynikiem pomyślnym uczeń otrzymuje świadectwo czeladnicze określonego rzemiosła lub jego specjalności, podpisane przez przewodniczącego i członków komisji. :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W razie niepomyślnego wyniku egzaminu przewodniczący komisji wyznacza zdającemu termin i zakres egzaminu poprawkowego. Termin ten nie może być dłuższy niż 6 miefecy. * Rozdział 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przepisy przejściowe i końcowe.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 33.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Do czasu utworzenia komisji egzaminacyjnych zgodnie z przepisami § 31 rozporządzenia egzaminy czeladni- \"cze składane będą przed komisjami egzaminacyjnymi powołanymi przez izby rzemieślnicze zgodnie*z dotychczas obowiązującymi przepisami.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W ciągu 5 lat od dnia wejścia w życie rozporządzenia zarząd izby rzemieślniczej może dopuścić do egzaminu czeladniczego osobę pełnoletnią, która w inny sposób niż przewidziany przepisami rozporządzenia nabyła umiejętności w zakresie wykonywania odnośnego rzemiosła. W tym przypadku egzamin powinien objąć zarówno sprawdzenie umiejętności praktycznych, jak i wiadomości teoretycznych zgodnie z programem szkolenia uczniów odnośnego rzemiosła.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Uprawnienia do szkołenia uczniów rzemieślniczych nabyte na podstawie dotychczasowych przepisów pozostają w mocy. ? § 34. Traci moc rozporządzenie Ministra Przemysłu Drobnego i Rzemiosła z dnia 14 października 1954 r. w sprawie zmiany niektórych przepisów prawa przemysłowego dotyczących egzaminu na czeladnika (Dz. U. Nr 47, poz. 228) oraz inne przepisy w sprawach uregulowanych niniejszym rozporządzeniem. § 35. Rozporządzenie wchodzi w życie z dniem ogło- SYREN OJ EEE PNW NEAL AP PPN szenia.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Przewodniczący Komitetu Drobnej Wytwórczości: A. Żebrowski"
+  },
+  {
+   "type": "text",
+   "text": "|: Redakcja: Urząd Rady Ministrów — Biuro Prawne, Warszawa, al. Ujazdowskie 1/3. APO",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Administracia: Administracja Wydawnictw Urzędu Rady Ministrów, Warszawa, ul. Krakowskie Przedmieście 50. OO Tłoczono z nolecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Warszawa, ul, Tamka 3.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Zam. 539",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Cena 1,60 zł",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "i ai",
+   "quoted": true
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

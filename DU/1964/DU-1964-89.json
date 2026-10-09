@@ -1,0 +1,1180 @@
+{
+ "eli": "DU/1964/89",
+ "title": "Rozporządzenie Ministra Żeglugi z dnia 26 marca 1964 r. w sprawie bezpieczeństwa statków morskich.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1964/89/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE"
+  },
+  {
+   "type": "text",
+   "text": "MINISTRA ŻEGLUGI »"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 marca 1964 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie bezpieczeństwa statków morskich."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 37 § 3, art. 46 § 1 i § 3, art. 47 i art. 48 Kodeksu morskiego (Dz. U. z 1961 r. Nr 58, poz. 318) zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "text",
+   "text": "4 1. 1. Przepisy rozporządzenia stosuje się do polskich statków morskich, z,wyjątkiem:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "jednostek pływających marynarki wojennej, organów ochrony granic i Milicji Obywatelskiej,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "statków «sportowych, o pojemności poniżej",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "statków bez własnego napędu, 20 BRT,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "statków z własnym napędem mechanicznym, o mocy sil-. ników poniżej 25 KM,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "przystani, doków, pomostów oraz innych tego rodzaju. urządzeń pływających.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Bezpieczeństwo statków wymienionych w ust. 1 pkt2_ regulują odrębne przepisy.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Przepisy w sprawie bezpieczeństwa statków określonych w ust. 1 pkt 3, 4 i 5 wydeją urzędy. morskie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "1, Statkiem pasażerskim jest statek, który przewozi więcej niż 12 pasażerów.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Pasażerem jest każda osoba przewożona na statku, nie należąca do jego załogi i nie zatrudniona w jakimkolwiek charakterze .ze względu na potrzeby statku. Dziecka w wieku poniżej 1 roku życia nie uważa Się za pasażera.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Podróżą międzynarodową jest podróż do lub z portów zagranicznych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ro z dział 2."
+      },
+      {
+       "type": "text",
+       "text": "Wymagania bezpieczeństwa statku."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Statek nie może być używany w żegludze morskiej, jeżeli nie odpowiada wymaganiom technicznego stanu bezpieczeństwa. statku oraz innym wymaganiom -określonym w niniejszym rozporządzeniu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Statek odpowiada wymaganiom technicznego stanu bezpieczeństwa, jeżeli czyni zadość przepisom technicznym dotyczącym:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "kadłuba, >",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "urządzeń sterowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_4/pkt_3",
+     "text": "urządzeń kotwicznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_4/pkt_4",
+     "text": "urządzeń holowniczych i cumowniczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_4/pkt_5",
+     "text": "masztów oraz ich olinowania stałego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_4/pkt_6",
+     "text": "silników napędowych głównych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_4/pkt_7",
+     "text": "mechanizmów pomocniczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_4/pkt_8",
+     "text": "kotłów parowych oraz ich wyposażenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_4/pkt_9",
+     "text": "zbiorników. ciśnieniowych oraz ich urządzeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_4/pkt_10",
+     "text": "rurociągów, .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "par_4/pkt_11",
+     "text": "wałów śrubowych oraz śrub napędowych i innych pędników,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "par_4/pkt_12",
+     "text": "urządzeń elektrycznych oraz ich instalacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "par_4/pkt_13",
+     "text": "urządzeń pożarowych stałych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "par_4/pkt_14",
+     "text": "wolnej burty,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "par_4/pkt_15",
+     "text": "stateczności,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "par_4/pkt_16",
+     "text": "niezatapialności w odniesieniu do statków pasażerskich i szkolnych, urządzeń - nawigacyjnych i sygnałowych oraz o kręto- 17",
+     "children": [
+      {
+       "type": "text",
+       "text": "— wych świateł nawigacyjnych,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "18",
+     "path": "par_4/pkt_18",
+     "text": "urządzeń radiokomunikacyjnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "par_4/pkt_19",
+     "text": "urządzeń i środków ratunkowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_4/pkt_20",
+     "text": "urządzeń ładunkowych i dźwigowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_4/pkt_21",
+     "text": "innych wymagań w zakresie technicznego stanu bezpieczeństwa statku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Niezależnie od warunków wskazanych w § 4 statek powinien spełniać wymagania określone w przepisach dotyczących:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "iłości, rodzaju i wyposażenia środków ratunkowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "składu i kwalifikacji załogi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "przewozu ziarna,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "przewozu materiałów niebezpiecznych, stanowiących ładunek statku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_5/pkt_5",
+     "text": "przewozu i przechowywania materiałów niebezpiecz-. nych, slanowiących zapasy okrętowe i własne wyposażenie statku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_5/pkt_6",
+     "text": "wyposażenia stalku w przenośny sprzęt przeciwpożarowy oraz służby przeciwpożarowej na statku,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_5/pkt_7",
+     "text": "prowadzenia przepisanych dzienników,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_5/pkt_8",
+     "text": "rozkiadów i ćwiczeń alarmowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_5/pkt_9",
+     "text": "wolnej burty,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_5/pkt_10",
+     "text": "innych wymagań bezpieczeństwa życia na morzu i bezpieczeństwa statku,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "W zakresie spraw objętych § 4 obowiązują przepisy polskiej instytucji klasyfikacyjnej, działającej pod \"nazwą „Polski Rejestr Statków”, zwany dalej w skrócie PRS.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Przepisy PRS powinny uwzględniać postanowienia umów międzynarodowyci zawartych przez Polskę, jak również przepisy polskie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "PRS może stosować przepisy obcej instytucji klasyfikacyjnej, jeżeli nie są one sprzeczne z postanowieniami umów międzynarodowych zawartych przez Polskę, jak również z przepisami polskimi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, Wymagania w zakresie spraw objętych § 5 regulują odrębne przepisy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 3",
+   "text": "Nadzór techniczny i inspekcje,"
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Statki i ich urządzenia podlegają, w zakresie ustalonym w § 4, nadzorowi technicznemu PRS. Na wniosek armatora nadaór może objąć również urządzenia statku nie wymienione w § 4.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Nadzór techniczny. obejmuje budowę, odbudowę, przebudowę statków i ich urządzeń. Statki eksploatowane i ich urządzenia podlegają w ramach nadzoru technicznego",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": ". ‘ os"
+      },
+      {
+       "type": "text",
+       "text": "przeglądom okresowym i doraźnym w przypadkach i w zakresie określonych przez PRS."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "W przypadkach określonych instrukcją Ministra Żeglugi statek i jego urządzenia mogą być poddane nadzorowi obcej instytucji klasyfikacyjnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Jeżeli nadzór obcej instytucji klasyfikacyjnej nie obejmuje wszystkich spraw wymienionych w § 4, organ inspekcyjny spowoduje — przed wydaniem dokumentów bezpieczeństwa — przeprowadzenie przez PRS przeglądu w zakresie spraw nie objętych nadzorem obcej instytucji klasyfikacyjnej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Dopełnienie wymagań technicznego stanu bezpieczeństwa statku w zakresie ustalonym w § 4 stwierdza PRS na zasadach określonych w swoich przepisach, wystawiając odpowiednie dokumenty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Cdrebne przepisy określą obce instytucje klasyfikacyjne, kiórych dokumenty będą uznawane przy inspekcji statków na równi z dokumentami PRS, o których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "J. Organami inspekcyjnymi w kraju są urzędy morskie, a za granicą — polskie urzędy konsularne.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Polski urząd konsularny może wystąpić z wnioskiem do obcego organu inspekcyjnego o przeprowadzenie inspekcji polskiego statku. Inspekcja taka zastępuje inspekcję polskiego organu inspekcy jnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Urzędy morskie przeprowadzają inspekcję statków przez swoich inspektorów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Kwalifikacje inspektorów określają odrębne przepisy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Z każdej przeprowadzonej inspekcji statku inspektor przeprowadzający inspekcję sporządza protokół. Odpis protokołu otrzymują: armator i kapitan statku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_10/ust_4",
+     "text": "Szczegółowy tryb przeprowadzania inspekcji okręśla regułamin wydany przez dyrektora urzędu morskiego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Inspekcje wstępne i okresowe (art. 38 $§ 1, 2,4i5 Kodeksu morskiego) mają na celu stwierdzenie, czy stalek posiada ważne dokumenty PRS lub obcej instytucji klasyfikacyjnej w zakresie spraw objętych § 4 oraz czy odpowiada wszystkim innym wymaganiom i przepisom w zakresie bezpieczeństwa statku. i",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 12, 1. \"Inspekcje dorywcze (art. 38 § 6 Kodeksu morskiego) mają na celu stwierdzenie, czy stan statku i jego urządzeń nie uległ zmianie w takim zakresie, że może powodować niebezpieczeństwo dla statku, ładunku lub dla załogi i pasażerów."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "W razie stwierdzenia lub uzasadnionego podejrzenia, ze stan statku lub jego urządzeń w zakresie spraw określonych w § 4 nie odpowiada stanowi stwierdzonemu w dokumentach instytucji klasyfikacyjnej, organ inspekcyjny może zażądać stwierdzenia przez instytucję klasyfikacyjną aktualnego stanu statku lub jego urządzeń,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "Jeżeli jest to uzasadnione wynikami inspekcji dorywczej, organ inspekcyjny może wydać nowy dokument bezpieczeństwa będź też uczynić wzmiankę na posiadanym przez statek dokumencie. F",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, Inspekcja dorywcza może zastąpić każdą z najbliższych inspekcji okresowych (§ 11), jeżeli organ inspekcyjny uzna, że zakresem swym objęła odpowiednie wymagania, przewidziane dla inspekcji okresowej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Inspekcji kontrolnej (art, 38 § 7 Kodeksu morskiego) może być poddany każdy statek polski, gdy organ inspekcyjny uzna to za potrzebne, w celu sprawdzenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "czy statek posiada:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_13/ust_1/pkt_1/lit_a",
+         "text": "ważne dokumenty bezpieczeństwa,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_13/ust_1/pkt_1/lit_b",
+         "text": "wymagane dokumenty instytucji klasyfikacyjnej, dotyczące kadłuba, poszczególnych urządzeń i -wyposażenia statku,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "czy urządzenia i wyposażenie statku utrzymywane są w stanie zapewniającym ich sprawne działanie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_1/pkt_3",
+       "text": "czy od czasu wydania dokumentów bezpieczeństwa nie miały miejsca uszkodzenia lub nie zaszły zmiany w kadłubie, urządzeniach i wyposażeniu, wpływające na stan bezpieczeństwa statku,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_1/pkt_4",
+       "text": "czy przestrzegane są wymagania podane w § 5.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Inspekcje kontrolne mogą być przeprowadzane również przez kapitanaty portów w trybie i na zasadach określonych przez urząd morski. j",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Inspekcji kontrolnej może być poddany statek obcy, przebywający w polskim porcie lub na redzie, gdy organ inspekcyjny uzna to za konieczne w celu sprawdzenia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_14/ust_1/pkt_1",
+       "text": "czy statek posiada ważne dokumenty bezpieczeństwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_14/ust_1/pkt_2",
+       "text": "czy slatek może udać się w podróż bez narażenia na niebezpieczeństwo pasażerów i załogi,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "W razie ujemnego wyniku inspekcji określonej w ust. 1 organ inspekcyjny niezwłocznie zawiadamia na piśmie konsula kraju, w którym zarejestrowany jest statek, o wszystkich okolicznościach, które złożyły się na ujemny wynik inspekcji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_14/ust_3",
+     "text": "Inspekcję kontrolną przeprowadza się po zakończeniu kontroli granicznej wejściowej lub przed rozpoczęciem kontroli granicznej wyjściowej, chyba że ważne okoliczności wymagają dokonania inspekcji w innym czasie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Urząd morski może przeprowadzić inspekcję ob- «cego statku przebywającego w porcie polskim — na wniosek konsula lub innego upoważnionego przedstawiciela danego państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "W dokumencie wydanym dla obcego statku na podstawie ust. 1 powinno być zaznaczone, że wydany został na wniosek obcego państwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Polski urząd konsularny zawiadamia urząd morski właściwy dla portu macierzystego statku o każdym przypadku przeprowadzenia inspekcji we własnym zakresie lub na jego wniosek przez organ inspekcyjny obcego państwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Organ inspekcyjny może zwalniać statki objęte umowami międzynarodowymi od dopełnienia niektórych przepisanych wymagań bezpieczeństwa, jeżeli umowy międzynarodowe dopuszczają takie zwolnienie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "W odniesieniu do statków, nie objętych umowami międzynarodowymi, organ inspekcyjny może w poszczególnym przypadku zwolnić statek od dopełnienia niektórych wymagań bezpieczeństwa, zawartych w obowiązujących przepisach, o ile uzna to za możliwe ze względu na rodzaj podróży i warunki żeglugi; w takim przypadku organ inspekcyjny może zwiększyć wymagania w innym zakresie dotyczącym bezpieczeństwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Przepis ust. 2 stosuje się odpowiednio do statków odbywających podróże próbne.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dzieanik Ustaw-Nr 15"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Statek zgłoszony do inspekcji powinien być przygotowany do sprawnego jej przeprowadzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "W czasie inspekcji powinien być obecny kapitan statku lub wyznaczony przez niego zastępca.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Zgłoszenie statku do inspekcji okresowej powinno nastąpić przed upływem ważności dokumentu bezpieczeństwa; zgłoszenie to powinno nastąpić w miarę możliwości w czasie umożliwiającym planowe przeprowadzenie inspekcji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, O każdym przypadku wymagającym inspekcji dorywczej organ inspekcyjny powinien być zawiadomiony niezwłocznie."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_18/ust_5",
+     "text": "Jeśli po wypadku statek znajdzie się w porcie obcym i niemożliwe okaże Się zgłoszenie statku do inspekcji \"dorywczej, należy powołać eksperta, a gdy i to okaże się niemożliwe — komisję złożoną z członków załogi, w celu przeprowadzenia doraźnej inspekcji statku i ustalenia, jakie środki należy zastosować, aby przywrócić statkowi dorażną zdolność żeglugową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_18/ust_6",
+     "text": "W przypadku wskazanym 'w ust. 5 statek powinien być zgłoszony do inspekcji dorywczej w pierwszym porcie, do którego statek zawinie i w którym może być poddany inspekcji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Za przeprowadzenie inspekcji wstępnej, okresowej i dorywczej pobiera się opłaty. ;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Wysokość opłat określają odrębne przepisy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_19/ust_3",
+     "text": "Za przeprowadzenie inspekcji kontrolnej opłat nie pobiera się.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 4",
+   "text": "Dekumenty bezpieczeństwa statku."
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Dokumentem bezpieczeństwa w zakresie całokształtu stanu bezpieczeństwa statku pasażerskiego, odbywającego podróże międzynarodowe, jest „certyfikat bezpieczeństwa”. W m",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Certyfikat bezpieczeństwa wydaje się na okres nie dłuższy niż 12 miesięcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Oprócz certyfikatu bezpieczeństwa statek pasażerski, odbywający podróż międzynarodową, obowiązany jest posiadać dokument zwany „świadectwem pasażerskim\", który określa zakres i rodzaj uprawianej żeglugi pasażerskiej i dopuszczalną ilość pasażerów oraz stwierdza, że stalek odpowiada warunkom przewidzianym w przepisach dotyczących przewozu pasażerów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, Świadectwo pasażerskie wydaje się jednocześnie za z certyfikatem bezpieczeństwa i na taki sam okres czasu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Dokumentem bezpieczeństwa w zakresie całokształtu stanu bezpieczeństwa statku niepasażerskiego jest Ę: „świadectwo bezpieczeństwa”.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "Świadectwo bezpieczeństwa wydaje się na okres nie dłuższy niż 48 miesięcy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Od obowiązku posiadania świadectwa bezpieczeństwa zwolnione są statki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_21/ust_3/pkt_1",
+       "text": "o pojemności mniejszej niż 500 BRT, nie odbywające podróży międzynarodowych, \"2 bez własnego napędu mechanicznego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_21/ust_3/pkt_3",
+       "text": "rybackie, używane do połowu ryb,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_21/ust_3/pkt_4",
+       "text": "odbywające podróże nie. przekraczające zasięgu 20. mil morskich od linii polskiego brzegu morskiego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Oprócz świadectwa bezpieczeństwa statek niepasażerski odbywający podróż międzynarodową, z wyjątkiem statków bez własnego napędu mechanicznego i statków rybackich, obowiązany jest posiadać dokument, zwany „cextyfikatem bezpieczeństwa wyposażenia”, który stwierdza, ze statek czyni zadość wymaganiom w zakresie wyposażenia w środki bezpieczeństwa, stosownie do:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_1/pkt_1",
+       "text": "międzynarodowej konwencji o bezpieczeństwie życia na morzu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_1/pkt_2",
+       "text": "międzynarodowych przepisów o zapobieganiu zderzę- \"niom na morzu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Certyfikat bezpieczeństwa wyposażenia wydaje się na okres nie dłuższy niż 24 miesiące.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Dokumentem bezpieczeństwa w zakresie całokształlu stanu bezpieczeństwa statku pasażerskiego, nie odbywającego podróży międzynarodowej, oraz statków niepasażerskich wymienionych w § 21 ust. 3 jest „karta bezpieczeństwa\".",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Dla statków małych o prostej i nieskomplikowanej budowie i urządzeniach urząd morski może wydać zamiast karty bezpieczeństwa okreśłonej w ust. I — uproszczony dokument, zwany „kartą bezpieczeństwa typu Ł\".",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_23/ust_3",
+     "text": "Karty bezpieczeństwa wydaje się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_23/ust_3/pkt_1",
+       "text": "statkom pasażerskim — na okres nie dłuższy niż 12 miesięcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_23/ust_3/pkt_2",
+       "text": "statkom niepasażerskim — na okres nie dłuższy niż 48 miesięcy.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_24/ust_1",
+     "text": "Dokumentem bezpieczeństwa w zakresie urządzeń i służby radiokomunikacyjnej statku niepasażerskiego, obowiązanego w myśl umów międzynarodowych i przepisów szczególnych do posiadania urządzeń radiokomunikacyjnych, jest: .",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_24/ust_1/pkt_1",
+       "text": "„certyfikat bezpieczeństwa radiotelegraficznego\" lub",
+       "children": [
+        {
+         "type": "text",
+         "text": "2) „certyfikat bezpieczeństwa radiotelefonicznego\", stosownie do rodzaju posiadanej instalacji.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a. Certyfikat bezpieczeństwa radiotelegraficznego i certyfikat bezpieczeństwa radiotełefonicznego wydaje się na okres nie dłuższy niż 12 miesięcy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Statki, które w myśl przepisów wskazanych w ust. 1 nie są obowiązane do posiadania urządzeń radiokomunikacyjnych, lecz takie urządzenia posiadają, obowiązane są również posiadać odpowiednio certyfikat bezpieczeństwa radiotelegraficznego lub certyfikat bezpieczeństwa radiotelefonicznego. :",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 25.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Doxumentem bezpieczeństwa stwierdzającym, że statek zwolniony został przez organ inspekcyjny — zgodnie z umowami międzynarodowymi lub przepisami szczegółnymi — od obowiązku dopełnienia niektórych wymagań bez-. pieczeństwa, jest „certyfikat zwolnienia\",",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Certyfikat zwolnienia wydaje się na okres nie dłuższy niż okres ważności dokumentu bezpieczeństwa, którego zwolnienie dotyczy.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. O zwolnieniu statku nie objętego umowami międzynarodowymi od obowiązku dopełnienia niektórych przepisanych wymagań bezpieczeństwa, jak również o obostrzeniu tych wymagań organ inspekcyjny dokonuje wzmianki w odpowiednich dokumentach bezpieczeństwa statku.",
+         "quoted": true
+        },
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Zz",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 26. Wzory dokumentów wymienionych w $§ 20—25 określi instrukcja Ministra Żeglugi.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 27. Polski urząd konsularny zawiadamia urząd morski właściwy dla portu macierzystego statku o każdym przypadku:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) wydania dokumentu bezpieczeństwa statku we własnym sacresie,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) wydania dokumentu bezpieczeństwa statku przez organ inspekcyjny obcego państwa — na wniosek polskiego urzędu konsularnego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) przedłużenia terminu ważności dokumentu bezpieczeństwa statku.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 28, 1. Dokumenty bezpieczeństwa statku wydaje się w 2 egzemplarzach: oryginał i uwierzytelniony odpis.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Oryginały dokumentów powinny być trwałe oprawio- _ he i wywieszone stale na statku, w widocznym i dostępnym miejscu, to jest w kabinie nawigacyjnej i sterówce lub w radio-kabinie.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3. Uwierzytelnione odpisy dokumentów powinny być przechowywane przez kapitana statku w celu przedstawiania ich organom inspekcyjnym na ich żądanie,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4. Na wniosek armatora może być wydany dla jego użytku dodatkowy uwierzytelniony odpis dokumentu,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5. Szczegółowy tryb wydawania dokumentów i przedłużania terminów ważności tych dokumentów określa regulamin wydany przez dyrektora urzędu morskiego.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 29. Oprócz dokumentów bezpieczeństwa wymienionych w $§ 20—25 powinny znajdować się na statku wszystkie dokumenty dotyczące kadłuba, poszczególnych urządzeń i wyposażenia statku, wydane przez instytucję klasyfikacyjną.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 30. Dla odbycia podróży próbnej statek powinien posiadać zamiast dokumentów bezpieczeństwa wymienionych w $§ 20—25 „kartę bezpieczeństwa na podróż próbną”, wydaną przez urząd morski,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 31.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1. Za wydanie dokumentów oraz przedłużenie terminéw ich ważności pobiera się opłaty.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2. Wysokość opłat określają odrębne przepisy,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Rozdział 5.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "Przepisy przejściowe i końcowe. .",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 32. Dokumenty bezpieczeństwa wydane przed dniem wejzcta w życie niniejszego rozporządzenia zachowują moc do czasu upiywu ich ważności.",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 33. Tracą moc:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "1) rozporządzenie Ministra Przemysłu i Handlu z dnia <F marca 1935 r. o wyjęciu niektórych rodzajów statków morskich spod dziaiania ogólnych przepisów o bezpieczeństwie stalków (Dz. U. z 1935 r. Nr 25, poz. 175 i z 1953 r. Nr 24, poz. 97),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) rozpcrządzenie Ministra Przemysiu i Handlu z dnia 10 sierpnia 1935 r. o urządzeniach pasażerskich na statkach morskich oraz o certyfikatach pasażerskich (Dz. U. Nr 61, poz. 392),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) rozporządzenie Ministra Przemysłu i Handlu z dnia 7 października 1928 r. o wzorach dokumentów bezpieczeństwa dla morskich statków handlowych (Dz. U. Nr 82, poz. 558), A",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "4) rozporządzenie Ministra Przemysłu i Handlu z dnia 27 marca 1939 r. o urządzeniach przeładunkowych na morskich statkach handlowych (Dz. U. Nr 31, poz. 208),",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "5) rozporządzenie Ministra Żeglugi z dnia 15 grudnia 1951 r. w sprawie przepisóv technicznych obowiązujących przy inspekcji polskich morskich statków handlowych (Dz. U. Nr 66, poz. 464), -",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "6) rozporządzenie Ministra Żeglugi z dnia 20 marca 1953 r. w sprawie kotwic i łańcuchów kotwicznych na polskich morskich statkach handlowych (Dz. U. Nr 24, poz. 97).",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "§ 34. Rozporządzenie wchodzi w życie po upływie trzech miesięcy od dnia ogłoszenia.",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Żeglugi: S. Darski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

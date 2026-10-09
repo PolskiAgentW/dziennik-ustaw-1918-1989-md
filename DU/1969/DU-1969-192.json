@@ -1,0 +1,761 @@
+{
+ "eli": "DU/1969/192",
+ "title": "Rozporządzenie Ministra Żeglugi z dnia 20 sierpnia 1969 r. w sprawie pilotażu morskiego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1969/192/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ŻEGLUGI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 20 sierpnia 1969 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie pilotażu morskiego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 46 § 1 i art. 216 $-1 oraz § 2 Kodeksu morskiego (Dz. U. z 1961 r. Nr 58, poz. 318) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Pilotem morskim może być obywatel polski posiadający wymagane kwalifikacje i uprawnienia zawodowe oraz odpowiednie warunki zdrowotne określone odrębnymi prze-- pisami.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "pin"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Do obowiązków pilota należy udzielanie kapitanowi pilotowanego statku porad i informacji potrzebnych do kierowania statkiem w zakresie warunków nawigacyjnych wód, na których pilot pełni służbę.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Kapitan pilotowanego statku może upoważnić pilota do bezpośredniego wydawania rozkazów manewrowych, W takim wypadku kapitan pilotowanego statku lub jego zastępca obowiązany jest kontrolować pracę pilota, aby w razie potrzeby mógł zmienić rozkaz wydany przez pilota. Odpowiedzialnym za kierownictwo statku pozostaje w każdym wypadku kapitan statku pilotowanego. R",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Kapitan statku obowiązany jest udzielić pilotowi, niezwłocznie po jego przybyciu na statek, wszelkich infor- „macji dotyczących właściwości nawigacyjnych statku oraz dotyczących jego ładunku w zakresie niezbędnym do należytego wykonania czynności pilotowych,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Pilot obowiązany jest odmówić przystąpienia do wykonywania usług pilotowych, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "statek ma zanurzenie większe, niż pozwalają na to ze względu na głębokość portu i toru wodnego obowiązujące przepisy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "statkowi grozi zatonięcie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_1/pkt_3",
+       "text": "statek przy wyjściu z portu jest przeładowany lub ma niebezpieczny przechył, statek przy wejściu do portu ma niebezpieczną statecz-",
+       "children": [
+        {
+         "type": "text",
+         "text": "«4 ność,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_5/ust_1/pkt_5",
+       "text": "statek lub jego załoga nie odpowiada warunkom niezbędnym do bezpiecznego rozpoczęcia manewru.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "O każdym wypadku odmowy przystąpienia do wykonania usług pilotowych pilot obowiązany jest niezwłocznie zawiadomić kapitanat portu i postąpić stosownie do otrzymanych dyspozycji. og",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Pilotaż morski dzieli się na:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_6/ust_1/pkt_1",
+       "text": "pilotaż portowy, obejmujący pilotowanie słatków w granicach portów morskich wraz z ich redami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_6/ust_1/pkt_2",
+       "text": "pilotaż trasowy, obejmujący pilotowanie statków na mosskich wodach wewnętrznych poza granicami portów i red,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_6/ust_1/pkt_3",
+       "text": "pilotaż pełnomorski, obejmujący pilotowanie statków. na morskich wodach terytorialnych i na morzu pełnym. \"2. Dokładne pozycje przyjęcia pilota na statek i zejścia jego ze statku oraz wymiany pilotów ustala kapitan portu. Ustalenia te podlegają ogłoszeniu w wydawnictwie Biura Hydrograficznego Marynarki Wojennej „Wiadomości Żeglarskie\". § 7. 1. Wprowadzenie pilotażu portowego i trasowego oraz wprowadzenie obowiązku korzystania z usług pilota zarządza dyrektor urzędu morskiego. W.prowadzenie pilotażu trasowego wymaga uzgodnienia z dyrektorem zarządu portu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Prowadzenie usług pilotowych w pilotażu sake skim wymaga zezwolenia Ministra Żeglugi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 8, 1. W portach Gdańsk, Gdynia, Szczecin—Świnoujście oraz na trasie Szczecin—Świnoujście wykonywanie piłotażu należy. do zarządów portów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Służbą pilotową zarządu portu kieruje bezpośrednio szef pilotów, powołany w trybie określonym regulaminem służby piłotowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Regulamin służby pilotowej zarządu portu ustala dyrektor zarządu portu w uzgodnieniu z urzędem morskim i zarządem okręgu Związku Zawodowego Marynarzy i Portowców.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Nadzór nad wykonywaniem pilotażu przez zarządy portów sprawuje kapitan portu. §9. 1. W portach innych niż wymienione w § 8 ust. 1 wykonywanie pilotażu należy do urzędów morskich,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Regulamin służby pilotowej urzędu morskiego ustala dyrektor urzędu morskiego w uzgodnieniu z zarządem okręgu Związku Zawodowego Marynarzy i Portowców.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Ustanawia się następujące stopnie pilotów:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "praktykant pilotowy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "młodszy pilot,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_10/pkt_3",
+     "text": "pilot,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_10/pkt_4",
+     "text": "starszy pilot.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Praktykantem pilotowym może zostać osoba posiadająca:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_11/ust_1/pkt_1",
+       "text": "co najmniej dyplom porucznika żeglugi wielkiej lub porucznika żeglugi wielkiej rybołówstwa morskiego oraz",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_11/ust_1/pkt_2",
+       "text": "co najmniej 12-miesięczną praktykę na stanowisku II oficera w dowolnej żegludze morskiej na statku o po-- jemności nie mniejszej niż 300 BRT,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "W wypadkach uzasadnionych względami eksploatacyjnymi dyrektor urzędu morskiego może wyrazić zgodę, - aby praktykantem pilotowym została osoba posiadająca dyplom porucznika żeglugi małej lub porucznika żeglugi małej rybołówstwa morskiego oraz inny rodzaj praktyki pływania niż określony w ust. 1 pkt 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Stopień młodszego pilota może bye przyznany osobie posiadającej:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_12/pkt_1",
+     "text": "6-miesięczną praktykę w pilotowaniu statków, odbytą pod nadzorem pilota, w stopniu praktykanta pilotowego oraz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_12/pkt_2",
+     "text": "świadectwo złożenia egzaminu przewidzianego w § 15.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Stopień pilota może być przyznany osobie posia- . dającej: i",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "24-miesięczną praktykę w pilotowaniu statków w stopniu młodszego pilota albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "co najmniej dyplom kapitana żeglugi małej lub kapitana żeglugi małej rybołówstwa morskiego i 12-miesięczną praktykę pływania na stanowisku I oficera oraz :",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_13/pkt_3",
+     "text": "G6-miesięczną praktykę w pilotowaniu statków odbytą: - pod nadzorem starszego pilota,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_13/pkt_4",
+     "text": "świadectwo złożenia egzaminu przewidzianego w § 15, § 14. Stopień starszego pilota może być przyznany oso- - bie posiadającej:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "48-miesięczną praktykę w pilotowaniu statków. w stopniu pilota albo _2) dyplom kapitana żeglugi wielkiej lub kapitana żeglugi wielkiej rybołówstwa morskiego z 12-miesięcznym stażem na stanowisku kierownika statku oraz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_13/pkt_3",
+     "text": "6-miesięczną praktykę w pilotowaniu statków adbyią pod nadzorem starszego pilota,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_13/pkt_4",
+     "text": "świadectwo złożenia egzaminu przewidzianego w § 15.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Kandydaci do służby pilotowej, o których mowa w -$§ 12, 13 pkt 2 i § 14 pkt 2, obowiązani są po odbyciu wymaganej praktyki złożyć egzamin przed komisją w następującym składzie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_15/ust_1/pkt_1",
+       "text": "kapitan portu jako przewodniczący, -2) starszy oficer portu jako zastępca przewodniczącego oraz jako członkowie:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_15/ust_1/pkt_3",
+       "text": "szef pilotów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_15/ust_1/pkt_4",
+       "text": "2 starszych pilotów wyznaczonych przez kapitana portu w uzgodnieniu z dyrektorem zarządu portu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_15/ust_1/pkt_5",
+       "text": "przedstawiciel zarządu okręgu Związku Zawodowego Marynarzy i Portowców.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Skład komisji egzaminacyjnej dla kandydatów do służby pilotowej w portach, dla których właściwy terytorialnie jest Koszaliński Urząd Morski, ustala dyrektor tego urzędu. i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "Komisję powołuje dyrektor właściwego urzędu morskiego na wniosek kapitana portu.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Egzamin odbywa się według programu zatwierdzonego przez Ministra Żeglugi.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Komisja może, jeżeli uzna za celowe, poddać kandydata egzaminowi praktycznemu w zakresie wiadomości przewidzianych programem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Złożenie egzaminu komisja stwierdza Świadectwem. Świadectwo podpisują przewodniczący i członkowie komisji,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Świadectwo jest podstawą do ubiegania się o dyplom uprawniający do samodzielnego pilotowania statków. § 17. Dyplomy pilotów wydaje dyrektor właściwego urzędu morskiego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Młodszy pilot uprawniony jest do pilotowania statków o pojemności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_1/pkt_1",
+       "text": "do 1000 BRT — w pierwszym roku slushy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_1/pkt_2",
+       "text": "do 2000 BRT — po roku służby,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "z wyjątkiem statków pasażerskich i statków. przewożących materiały niebezpieczne,"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Pilot uprawniony jest do pilotowania siatków o pojemności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_2/pkt_1",
+       "text": "do 4000 BRT — w pierwszym i drugim roku służby w stopniu pilota,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_2/pkt_2",
+       "text": "do 6000 BRT — po drugim roku służby w stopniu pilota, z wyjątkiem statków pasażerskich i statków przewożących materiały niebezpieczne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Starszy pilot uprawniony jest do pilotowania statków o pojemności: ~",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_18/ust_3/pkt_1",
+       "text": "do 8000 BRT — w pierwszym roku służby w: stopniu starszego pilota,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_18/ust_3/pkt_2",
+       "text": "do 12000 BRT — w drugim i trzecim roku służby w stopniu starszego pilota, z wyjątkiem zbiornikowców przewożących ciecze palne I _ 1 II klasy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_18/ust_3/pkt_3",
+       "text": "do 16000 BRT — po trzecim roku służby w stopniu star- - szego pilota,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_18/ust_3/pkt_4",
+       "text": "bez ograniczeń — po czwartym roku służby w stopniu starszego pilota.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "W uzasadnionych wypadkach na wniosek szefa pilotów kapitan portu może jednorazowo upoważnić pilota morskiego do pilotowania statku o pojemności o 50% wyższej niż określona w § 18.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Przejście pilota ze służby w pilotażu trasowym do służby w pilotażu portowym i odwrotnie może nastąpić po odbyciu 6-miesięcznej praktyki w warunkach nowej służby oraz po złożeniu dodatkowego egzaminu przed komisją przewidzianą w § 15 z zakresu znajomości warunków nawigacyjnych nowego obszaru i obowiązujących na nim przepisów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Zmiana akwenu w pilotażu portowym lub trasowym może nastąpić po odbyciu 3-miesięcznej praktyki w warunkach nowej służby oraz po złożeniu dodatkowego egzaminu przed komisją przewidzianą w § 15 z zakresu znajomości warunków nawigacyjnych nowego obszaru i obowiązujących na nim przepisów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Po złożeniu egzaminu komisja wydaje zaświadczenie stwierdzające uprawnienia do pełnienia służby pilotowej w nowych warunkach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_20/ust_4",
+     "text": "Pilot przechodzący do nowej służby zachowuje posiadany stopień po spełnieniu warunków przewidzianych w ust. 1 lub 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Z zastrzeżeniem przepisu ust. 2 służbę pilotową w pilotażu pełnomorskim może pełnić tylko oficer po-",
+     "children": [
+      {
+       "type": "text",
+       "text": "— . _._ Poz. 192"
+      },
+      {
+       "type": "text",
+       "text": "siadający dyplom co najmniej kapitana żeglugi małej lub kapitana żeglugi małej rybołówstwa morskiego oraz 12-miesięczną praktykę na stanowisku kierownika statku w żegludze co najmniej małej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_21/ust_2",
+     "text": "W razie szczególnie trudnych warunków nawigacyjnych służbę pilotową w pilotażu pełnomorskim w granicach żeglugi przybrzeżnej może pełnić tylko starszy pilot, posiadający dyplom co najmniej porucznika żeglugi wielkiej lub porucznika żeglugi wielkiej rybołówstwa morskiego, wyznaczony przez kapitana portu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_21/ust_3",
+     "text": "Posiadanie uprawnień do wykonywania czynności pilotowych w myśl ust. 1 stwierdza dyrektor urzędu morskiego zaświadczeniem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "W razie stwierdzenia rażącego naruszenia przez pilota morskiego przepisów regulujących ruch i postój statków, dyrektor urzędu morskiego na wniosek kapitana portu może:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_22/ust_1/pkt_1",
+       "text": "udzielić posiadaczowi dyplomu pilotowego ostrzeżenia o grożącym mu ograniczeniu lub zawieszeniu uprawnień wynikających z tego dyplomu i nabytej praktyki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_22/ust_1/pkt_2",
+       "text": "ograniczyć na okres od 3 do 12 miesięcy uprawnienia pilotowania statków do pojemności określonej dla pierwszego roku służby w danym stopniu pilotowym,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_22/ust_1/pkt_3",
+       "text": "zawiesić uprawnienia wynikające z posiadanego dyplomu pilotowego na okres od 3 do 12 miesięcy albo zawiesić je na czas nieokreślony oraz uzależnić przywrócenie tych uprawnień od złożenia egzaminu przed ko- _ misją określoną w § 15.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "Decyzję wydaną na podstawie ust. 1 urząd morski przesyła pilotowi, a jej kopię pracodawcy pilota.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "Przepis ust, 1 nie ma zastosowania, w razie gdy naruszenie przez pilota przepisów miało związek z wypadkiem morskim podlegającym rozpoznaniu przez izbę morską.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Wzory dyplomów, świadectw i zaświadczeń przewidzianych w rozporządzeniu ustala Minister Żeglugi.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Pilot pełni służbę w przepisowym umunduro-",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 24, waniu."
+      },
+      {
+       "type": "text",
+       "text": "2, Krój umundurowania oraz wzory dystynkcji i oznak służbowych regulują odrębne przepisy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_25/ust_1",
+     "text": "Piloci, którzy uzyskali stopnie pilotowe przed dniem wejścia w życie rozporządzenia, zachowują swe stopnie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_25/ust_2",
+     "text": "Uzyskanie następnych, wyższych stopni pilotowych wymaga spełnienia warunków przewidzianych w rozporządzeniu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "W wypadkach szczególnych, uzasadnionych względami bezpieczeństwa żeglugi:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_26/pkt_1",
+     "text": "dyrektor urzędu morskiego może na czas określony wprowadzić obowiązek korzystania z usług pilota w pilotażu pełnomorskim w granicach żeglugi przybrzeżnej, wskazując równocześnie instytucję zobowiązaną do wykonywania tych usług,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_26/pkt_2",
+     "text": "kapitan portu w porozumieniu z szefem pilotów może wyznaczyć pilota do wykonania określonej usługi,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "Traci moc rozporządzenie Ministra Żeglugi z dnia 26 pażdziernika 1963 r. w sprawie pilotażu morskiego (Dz.U. Nr 48, poz. 273).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Rozporządzenie wchodzi w życie po upływie miesiąca od dnia ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Żeglugi: w z. S. Perkowicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

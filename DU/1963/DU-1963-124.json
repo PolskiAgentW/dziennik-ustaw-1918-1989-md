@@ -1,0 +1,68 @@
+{
+ "eli": "DU/1963/124",
+ "title": "Rozporządzenie Rady Ministrów z dnia 22 maja 1963 r. w sprawie zmiany granic województw katowickiego i opolskiego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1963/124/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW."
+  },
+  {
+   "type": "text",
+   "text": "z dnia 22 maja 1963 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granic województw katowickiego i opolskiego. Na podstawie art. 1 ust. 3 ustawy z dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Z miasta Ujazd w powiecie strzeleckim, województwie opclskim wyłącza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "z obrębu katastralnego Ujazd karta 5 parcele nr kat. 7—9, 78/15, 130/13, 131/14, 132/14, 74/11, 70/11, 129/10, 71/10 oraz część parceli nr kat. 68/1,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "z obrębu katastralnego enklawa Niezdrowice, karta mapy. 5, parcele nr kat.: 2—5, 66/6, 67/1",
+     "children": [
+      {
+       "type": "text",
+       "text": "{ włącza się je do gromady Rudziniec w powiecie gliwickim, województwie katowickim."
+      },
+      {
+       "type": "text",
+       "text": "_ § 2. Z gromady Poniszowice w powiecie gliwickim, województwie katowickim wytacza się z obrębu katastralnego Chechło, karta mapy 2/2, parcele nr kat, 1—9 i włącza się je do miasta Ujazd w powiecie strzeleckim, województwie opolskim. § 3. Wykonanie rozporządzenia Prą się Piszasowi Rady Ministrów."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporżądzenie wchodzi w życie z dniem 30 czerw= ca 1963 T.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

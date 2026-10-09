@@ -1,0 +1,325 @@
+{
+ "eli": "DU/1969/99",
+ "title": "Rozporządzenie Rady Ministrów z dnia 30 kwietnia 1969 r. w sprawie podatku wyrównawczego od przychodów z niektórych specjalistycznych działów produkcji rolnej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1969/99/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 kwietnia 1969 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie podatku wyrównawczego od przychodów z niektórych specjałistycznych działów produkcji rolnej,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ust, 2, art. 15, art. 17 ust. 1 i art. 18 ust. 1 ustawy z dnia 13 grudnia 1957 r. o podatku wyrównawczym (Dz. U, z 1969 r. DE 14, poz. 103) zarządza się, co następuje: -"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przepisy rozporządzenia stosuje się do podatników podatku wyrównawczego określonych w art. 14 ust. 1 ustawy z dnia 13 grudnia 1957 r. o podatku wyrównawczym (Dz. U. z 1969 r. Nr 14, poz. 103).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przy ustalaniu powierzchni upraw dla celów podatku wyrównawczego wyłącza się spod opodatkowania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "powierzchnię przeznaczoną do,produkcji rozsad na potrzeby własnej uprawy gruntowej warzyw w ilości:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "przy inspektach jednospadowych — 100 m? lub",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "przy inspektach dwuspadowych (belgijkach) i szklarniach (ogrzewanych i nie ogrzewanych) — 35 m? — na 1 ha powierzchni gruntowej warzyw;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "powierzchnię sadów w wieku do 10 lat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Podatek wyrównawczy pobiera się od nadwyżki powierzchni upraw ponad 600 arów przeliczeniowych, przy czym:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "1 ar uprawy gruntowej warzyw i sadów równa się _ 1,0 ara przeliczeniowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "l ar uprawy gruntowej róż (kwiatów i szkółek) równa się 4,0 ara przeliczeniowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "1 ar uprawy gruntowej innych kwiatów równa się 3,0 ara przeliczeniowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "1 m* szklarni ogrzewanej warzyw równa się 0,75 ara przeliczeniowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "1 m* szklarni ogrzewanej kwiatów równa się 1,50 ara przeliczeniowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "1 m* szklarni nie ogrzewanej równa się 0,30 ara przeliczeniowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_1/pkt_7",
+       "text": "1 m* inspektów ogrzewanych równa się 0,30 ara prze- \" liczeniowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_1/pkt_8",
+       "text": "1 m* inspeklów nie ogrzewanych równa się 0,20 ara przeliczeniowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Jeżeli w siągu rocznego cyklu produkcji na tej samej powierzchni prowadzone są na przemian 'różne rodzaje uprawy, wówczas dla przeliczenia powierzchni upraw na ary przeliczeniowe przyjmuje się ten rodzaj upraw, dla którego określony jest w ust. 2 wyższy przelicznik. Jeżeli jednak, w powyższych warunkach, podatnik kontraktuje pro-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 206 — KREJEO p"
+      },
+      {
+       "type": "text",
+       "text": "dukcję warzyw, wówczas dla przeliczenia powierzchni upraw na ary przeliczeniowe powierzchnię odpowiadającą produkcji zakontraktowahej przyjmuje się jako powierzchnię pod uprą- “wa warzyw."
+      },
+      {
+       "type": "text",
+       "text": "3.- Prezydia wojewódzkich rad. narodowych (rad narodowych miast wyłączonych z województw) ustalają zasady przeliczenia na ary przeliczeniowe powierzchni szkółek drzew i krzewów ozdobnych w zależności od ich rodzajów, jednolicie dla całego województwa (miasta wyłączonego z województwa) lub różnie dla poszczególnych jego obszarów, w granicach: 1 ar powierzchni równa się od i do 4 arów przeliczeniowych. :"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Prezydia wojewódzkich rad narodowych (rad narodowych miast wyłączonych z województw) mogą — w zależności od miejscowych warunków i opłacalności produkcji — ustalać niższe niż określone w § 3 ust. 1 pkt 1—8 przeliczniki z jednostek powierzchni na ary przeliczeniowe dla wszystkich lub niektórych upraw, jednolicie dla całego województwa (miasta wyłączonego z województwa) lub różnie dla poszczególnych jego obszarów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Organy finansowe prezydiów powiatowych rad narodowych (rad narodowych miast stanowiących powiaty, dzielnicowych rad narodowych w miastach. wyłączonych z województw) mogą przy przeliczaniu powierzchni upraw na ary przeliczeniowe podwyższać przeliczniki (§ 3 ust. 1 pkt 1—8 i § 4) dla powierzchni upraw, .z której produkcja nie została zakontraktowana, nie więcej jednak niż dwukrotnie, dla poszczególnych podatników, którzy osiągają znaczne dochody, w szczególności wskutek przetrzymywania produktów lub ich sprzedaży poza miejscowym rynkiem zbytu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Podatek wyrównawczy wynosi rocznie:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Od nadwyżki powierzchni Podatek w żłotych arów przeliczeniowych"
+    },
+    {
+     "type": "text",
+     "text": "ponad do 600 680 po 50 zł za 1 ar przeliczeniowy ponad 600 arów przeliczeniowych,"
+    },
+    {
+     "type": "text",
+     "text": "680 760 4.000 zł i po 150zł za 1 ar : przeliczeniowy ponad 680 aréw przeliczeniowych,"
+    },
+    {
+     "type": "text",
+     "text": "760 840 16.000 zt i po 250zł za 1 ar przeliczeniowy ponad 760 arów przeliczeniowych ."
+    },
+    {
+     "type": "text",
+     "text": "840 po 150zł za 1 ar przeliczeniowy ponad 600 arów przeliczeniowych."
+    },
+    {
+     "type": "text",
+     "text": "§ 7, 1. Podatnikowi podatku wyrównawczego, który zawarł i wykonał umowę kontraktacji, obniża się o 30% tę część podatku, jaka odpowiada udziałowi powierzchni zakontraktowanych upraw w ogólnej powierzchni wszystkich upraw. Obniżkę stosuje się po przedstawieniu przez podatnika dowodu, stwierdzającego wykonanie umowy kontraktacji,"
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W razie zbiegu uprawnień do ulg kontraktacyjnych w podatku gruntowym z tytułu przychodów osiągniętych z działów specjalnych i w podatku wyrównawczym, ulgę stosuje się tylko w jednym podatku według wyboru podatnika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Podatnikom podatku wyrównawczego, u których powierzchnia upraw nie przekracza 1.000 arów przeliczeniowych, przyznaje się ulgi podatkowe z tytułu nakładów inwestycyjnych, zwane dalej „ulgami inwestycyjnymi\", jeżeli w okresie od dnia wejścia w życie rozporządzenia do dnia 31 grudnia 1975 r.: i",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_8/ust_1/pkt_1",
+       "text": "wybudują lub rozbudują szklarnie albo przechowalnie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_8/ust_1/pkt_2",
+       "text": "wybudują kotłownie dla ogrzewania szklarni lub zainstalują w nich nowo nabyte kotły,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_8/ust_1/pkt_3",
+       "text": "nabędą i zainstalują nowe .deszczownie, maszyny (np. sadzarki, opryskiwacze) albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_8/ust_1/pkt_4",
+       "text": "założą nowe lub powiększą istniejące sady, wskutek czego ogólna powierzchnia sadu podatnika wyniesie co najmniej 1 ha. (",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Przy budowie lub rozbudowie szklarni albo zakładaniu lub powiększaniu sadów ulgę inwestycyjną przyznaje się tylko od nakładów inwestycyjnych doprowadzających ogólną powierzchnię upraw u danego podatnika do 1.000 arów przeliczeniowych. =",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Za podstawę obliczenia ulgi inwestycyjnej przyjmuje się wartość nakładów inwestycyjnych ustaloną w oparciu o oryginalne dowody (rachunki) zakupu i takież dowody na. fachową robociznę obcą.",
+     "children": [
+      {
+       "type": "text",
+       "text": "4, Ulgę inwestycyjną stosuje się tylko do nakładów poniesionych ze środków własnych i jeżeli ich wysokość przekracza 10.000 zł, a wartość poszczególnych przedmiotów 1.000 zł."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_8/ust_5",
+     "text": "Ulga inwestycyjna wynosi 300/6 nakładów określonych w ust, 3, nie więcej jednak niż 100.000 zł. na podatnika w całym okresie stosowania ulg.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_8/ust_6",
+     "text": "Kwotę ulgi inwestycyjnej potrąca się z podatku wyrównawczego. W razie niepotrącenia całej kwoty ulgi w roku podatkowym, w którym inwestycje zostały zakończone lub w którym decyzja w sprawie ulgi została wydana, kwotę ulgi inwestycyjnej potrąca się w okresie do 3 lat, licząc od' roku zakończenia inwestycji lub wydania decyzji. ;",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "par_8/ust_7",
+     "text": "W razie zbiegu ulgi inwestycyjnej należnej w podatku gruntowym i w podatku wyrównawczym z tytułu tej samej inwestycji, ulgę inwestycyjną stosuje się tylko w podatku wyrównawczym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Wykonanie rozporządzenia porucza się Ministrowi Finansów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia i stosuje się poczynając od roku podatkowego 1969.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

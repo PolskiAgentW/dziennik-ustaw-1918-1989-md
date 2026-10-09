@@ -1,0 +1,175 @@
+{
+ "eli": "DU/1961/263",
+ "title": "Rozporządzenie Rady Ministrów z dnia 7 listopada 1961 r. w sprawie zniesienia i zmiany granic niektórych powiatów oraz zmiany granic miasta Kielc w województwie kieleckim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1961/263/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "PETE ee ĄCE O LSP ee ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 listopada 1961 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zniesienia i zmiany granic niektórych powiatów oraz zmiany granic miasta Kielc w województwie kieleckim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 i art. 5 ust. 1 ustawy z dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracy jnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje: § 1. W województwie kieleckim znosi się powiat chmielnicki i włącza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "miasto Chmielnik i gromady: Balice, Drugnia, Gnojno, Kotlice, Pierzchnica, Piotrkowice, Przededworze, Raczyce, Sędziejowice i Zrecze do powiatu buskiego,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "gromady: Brudzów Duży, Obice i Szczecno do powiatu kieleckiego,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "gromady: Grabki, Korzenno, Potok i Szydłów do powiatu staszowskiego,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "gromadę Włoszczowice do powiatu pińczowskiego w tymże województwie,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W województwie kieleckim wyłącza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "z powiatu iłżeckiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "gromadę Niedarczów i włącza się ją do powiatu radomskiego, ©",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "z gromady Alojzów: dał Bujak i włącza się ją do gromady Modrzejowice w powiecie radomskim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_1/lit_c",
+       "text": "z gromady Czerwona wsie: Antoniów, Bielany, Czerwona, Podgórze oraz kolonią Pasieki i włącza się je do gromady Bąkowa w powiecie lipskim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_1/lit_d",
+       "text": "z gromady Tarczek wieś Śniadka i włącza się ją do gromady Bodzentyn w powiecie.kieleckim,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "z gromady Turowice w powiecie koneckim wsie: Papiernia, Reczków i Sulborowice i włącza się je do gromady Skórkowice w powiecie opoczyńskim,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "z- powiatu opatowskiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_3/lit_a",
+       "text": "gromadę Cząstków i włącza się ją do powiatu kie łęckiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_3/lit_b",
+       "text": "gromady: Czyżów Szlachecki, Jakubowice, Linów i > bótka i włącza się je do powiatu sandomierskiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_3/lit_c",
+       "text": "z gromady Boleszyn wsie: Broniewice, Jamy i Szeligi oraz kolonie Szeligi Górne i Szeligi Dolne i włącza się je do gromady Pawłów w powiecie iłżeckim,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "z powiatu opoczyńskiego gromadę Klwów i włącza się ją do powiatu przysuskiego, i",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "z gromady Radków w powiecie włoszczowskim przysiółek Chycza-Brzustki i włącza się go do gromady Nagłowice w powiecie jędrzejowskim. w tymże województwie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Do miasta Kielce w województwie kieleckim włą: — cza się z powiatu kieleckiego w tymże województwie: * m) z gromady Suków miejscowość Bukówka-Koszary o powierzchni 199 ha, ć =",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_3/lit_b",
+     "text": "z gromady Zagórze wieś Nowy Folwark o powierzchni 161 ha. § 4. Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów. § 5. Rozporządzenie wchodzi w życie z dniem 31 grudnia 1961 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  },
+  {
+   "type": "text",
+   "text": ","
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

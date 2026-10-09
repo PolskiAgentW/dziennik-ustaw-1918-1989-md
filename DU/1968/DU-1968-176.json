@@ -1,0 +1,103 @@
+{
+ "eli": "DU/1968/176",
+ "title": "Rozporządzenie Rady Ministrów z dnia 18 lipca 1968 r. w sprawie zmiany granic niektórych powiatów w województwie lubelskim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1968/176/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 lipca 1968 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granic niektórych powiatów w województwie lubelskim."
+  },
+  {
+   "type": "text",
+   "text": "INa podstawie art. 2 ustawy z dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W województwie lubelskim wyłącza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "z powiatu bełżyckiego gromadę Radawiec Duży i włącza się ją do powiatu lubelskiego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "z gromady Bukowa Wielka w powiecie chełmskim wieś Mszanna i włącza się ją do gromady Wola Uhruska w powiecie włodawskim,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "z gromady Łowcza w powiecie chełmskim wsie:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "Bukowski Las i Rudka Łowiecka i włącza się je do gromady Hańsk w powiecie włodawskim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "Piaski i włącza się ją do gromady Wola Uhruska w w powiecie włodawskim,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "z gromady Wołoskowola w powiecie włodawskim wsie Hola i Pieszowola i włącza się je do gromady Sosnowica w powiecie parczewskim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1969 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  },
+  {
+   "type": "text",
+   "text": "Liz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

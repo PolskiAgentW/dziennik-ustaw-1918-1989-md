@@ -1,0 +1,86 @@
+{
+ "eli": "DU/1960/117",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 2 kwietnia 1960 r. w sprawie zgłaszania przypadków gruźlicy.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1960/117/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 kwietnia 1960 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zgłaszania przypadków gruźlicy."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. A ust. 2 ustawy z dnia 22 kwietnia 1959 r. o zwalczaniu gruźlicy (Dz. U. Nr 27, poz. 170) zarządza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "18.1. 1. Ordynatorzy oddziałów (kierownicy klinik) w zakładach opieki zdrowotnej zamkniętej oraz lekarze i felczerzy (starsi felczerzy) zatrudnieni w zakładach opieki zdrowotnej otwartej bądź wykonujący praktykę prywatną obowiązani są zgłaszać poradni przeciwgrużliczej przypadki:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "podejrzenia gruźlicy,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "zachorowań na gruźlicę,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "zgonów z powodu gruźlicy.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Podstawą zgłoszenia przypadków podejrzeń o qruźlicę bądź zachorowań na gruźlicę jest wynik badania lekarskiego i wywiad chorobowy. Nie ma obowiązku zgłoszenia, jeżeli osoba badana jest zarejestrowana w poradni przeciw= grużiiczej.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Podstawą .zgłoszenia zqonów z powodu grużlicy są wyniki leczenia w ostatniej chorobie, karta choroby i oględziny zwłek.",
+   "children": [
+    {
+     "type": "text",
+     "text": "-§ 2 Zgłoszenie powinno być dokonane na druku wes dług ustalonego wzoru, w termiinie 5 dni od chwili stwier= dzenia przypadku określonego w § 1 ust. 1, do poradni przeciwgrużliczej właściwej ze względu na miejsce zamieszkania osoby, której zgłoszenie dotyczy."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoś szenia. >",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Zdrowia: R. Barański ;"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

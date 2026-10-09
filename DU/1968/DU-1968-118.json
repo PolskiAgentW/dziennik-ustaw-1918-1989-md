@@ -1,0 +1,84 @@
+{
+ "eli": "DU/1968/118",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 8 czerwca 1968 r. w sprawie utworzenia i zmiany granic niektórych miast w województwie krakowskim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1968/118/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "P z dnia 8 czerwca 1968 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia i zmiany granic niektórych miast w województwie krakowskim,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 ustawy z dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje: § 1. W województwie krakowskim tworzy się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w powiecie chrzanowskim: miasto Chełmek z obszaru osiedla Chełmek, \"miasto Libiąż Mały z obszaru osiedla Libiąż Mały; nazwę miasta ustala się na Libiąż,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w powiecie myślenickim: miasto Sułkowice z obszaru osiedla Sułkowice.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W powiecie chrzanowskim, województwie krakowskim włącza się do miasta Trzebini obszar osiedla Siersza; nazwę miasta Trzebinia zmienia się na Trzebinia-Siersza,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W województwie krakowskim wyłącza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "z miasta Chełmek w powiecie chrzanowskim obszar miejscowości Gorzów w jej granicach katastralnych i włącza się go do gromady Bobrek w tymże powiecie i województwie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "z miasta Sułkowice w powiecie myślenickim obszar miejscowości Biertowice w jej granicach katastralnych i włącza się go do gromady Sułkowice w tymże powiecie i województwie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1969 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

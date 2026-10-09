@@ -1,0 +1,732 @@
+{
+ "eli": "DU/1963/230",
+ "title": "Rozporządzenie Ministra Górnictwa i Energetyki z dnia 27 lipca 1963 r. w sprawie budowy i eksploatacji stałych zbiorników ciśnieniowych oraz wykonywania dozoru technicznego nad tymi zbiornikami.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1963/230/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GÓRNICTWA I ENERCETYKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 lipca 1963 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie budowy i eksploatacji stałych zbiorników ciśnieniowych oraz wykonywania dezoru' technicznego nad tymi zbiornikami."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 13 ust. 1 ustawy z dnia 31 stycznia 1961 r. o dozorze technicznym (Dz. U. Nr 5, poz. 31) zarządza się, co następuje:."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 1",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie dotyczy stałych zbiorników ciśnieniowych, wymienionych w § 2 rozporządzenia Rady Ministrów z dnia 7 grudnia 1961- r. w sprawie szczegółowego określenia rodzajów urządzeń technicznych podlegających dozorowi technicznemu oraz zakresu tego dozoru nad poszczególnymi urządzeniami technicznymi (Dz. U. z 1962 r. Nr 6, poz. 20), zwanych w dalszym,ciągu ,,zbiornikami\".",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Zespół zbiorników mających ze sobą wspólne ścianki jest zbiornikiem złożonym i podlega jako całość przepisom rozporządzenia, jeżeli przynajmniej jeden ze zbiorników zespołu jest zbiornikiem, o którym mowa w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Przepisy $§ 12 do 21 nie mają zastosowania do zbiorników: p",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_3/pkt_1",
+       "text": "zainstalowanych na taborze kolejowym kolei użytku nie- AFER publicznego, z wyjątkiem zbiorników . zainstalowanych. na taborze kolei górniczych i piaskowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_3/pkt_2",
+       "text": "eksploatowanych przez przedsiębiorstwo Polskie Koleje Państwowe oraz przez podległe Ministrowi Komunikacji” przedsiębiorstwa stanowiące zaplecze techniczne not i przedsiębiorstwa robót kolejowych. śpi „4. Przepisy $§ 4—10 nie mają zastosowania do zakładów oe . wymienionych w ust. 3 pkt 2,",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Techniczne warunki WE",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "konstrukcji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "wykonania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "osprzętu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "oznaczeń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "materiałów i wyrobów hutniczych przeznaczonych do budowy i naprawy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "zakresu badań technicznych gotowych zbiorników i ich elementów w zakładach wytwórczych lub naprawczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "rodzaju dokumentacji poświadczającej prawidłowość wykonania i zbadania,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "obliczeń wytrzymałościowych, zawierają „Przepisy dozoru technicznego” Urzędu Dozoru Technicznego zatwierdzone przez Ministra Górnictwa i Energetyki, zwane w dalszym ciągu „Przepisami dozoru technicznego\".",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Do zbiorników sprowadzanych z zagranicy stosuje się przepisy rozporządzenia dotyczące trybu postępowania w sprawie rejestracji, odbioru technicznego i dozoru technicznego oraz Przepisy dozoru technicznego wymienione w § 2, dotyczące konstrukcji, osprzętu i oznaczeń. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Warunki dotyczące materiałów, wykonania, a w szczególności spawania i badań zbiorników u wytwórcy oraz organy przeprowadzające te badania wymagają zatwierdzenia przez Urząd Dozoru Technicznego przed złożeniem zamówienia na ich dostawę. Zatwierdzenie powinno nastąpić w terminie nie dłuższym niż 30 dni: od. my zgłoszenia krój ela przez zainteresowanego.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "„> Dziennik Ustaw Nr 41 — 466 —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„Rozdział 2,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zakłady uprawnione do wykonywania i naprawiania zbiorników lub ich elementów przy zastosewamiu spawania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Spawanie elementów zbiorników może być wykonyware tylko przez zakiady lub osoby uprawnione do tego przez właściwy terenowo okręgowy dozór techniczny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Okręgowy dozór techniczny określa zakres wydanego uprawnienia i prowadzi wykaz wydanych uprawnień. § 5. Uprawnienia do spawania mode otrzymać zakład, który odpowiada naslępującym warunkom: _",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) opanował technologię spawania zbiorników lub ich elementów, które ma produkować lub. naprawiać, . 2) posiada zorganizowaną kontrolę techniczną nad produkcją tub naprawami przeprowadzanymi za pomocą spa* wania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) posiada urządzenia potrzebne do produkcji lub napraw za pomocą spawania oraz urządzenia do sprawdzania jakości wykonywanych złącz,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) zatrudnia spawaczy posiadających odpowiednie kwalifikacje sprawdzone przez organy dozoru technicznego. $.6. 1. Wszczęcie posiępowania o wydanie uprawnień do spawania elementów zbiornikowych nasłępuje na wniosek zainteresowanego. Do wniosku należy dołączyć:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) instrukcję technologiczną, :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) instrukcję dla kontroli technicznej, \"3) wykaz posiadanych urządzeń do produkcji i kontroli,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) wykaz uprawnionych spawaczy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Po otrzymaniu wniosku okręgowy dozór techniczny wyznacza rzeczoznawcę lub komisję do:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) sprawdzenia, czy zakład posiada niezbędne urządzenia do produkcji lub napraw zbiorników za pomocą spawania i sprawdzania jakości złącza,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) - sprawdzenia kwalifikacji kierowniczego personelu kontroli technicznej, kontrolującego prace spawalnicze,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) sprawdzenia kwalifikacji spawaczy zatrudnionych przy produkcji lub naprawach,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) przeprowadzenia kontroli wykonania i badania elementów próbnych: w celu sprawdzenia, czy wykonane złącza odpowiadają wymaganiom określonym w przepisach. Rzeczoznawca (komisja) może zażądać od zakładu wykonania niezbędnych badań laboratoryjnych i przedstawienia wyników tych badan.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Decyzja w sprawie przyznania uprawnienia powinna być wydana przez okręgowy dozór techniczny majpóźniej w ciągu 60 dni od daty otrzymania od zakładu ubiegającego się o uprawnienie wyników badań laboratoryjnych określonych w ust. 2 pkt 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Decyzja powinna określać zakres robót, jakie zakład może wykonywać, oraz dopuszczeniówy współczynnik wytrzymałościowy złącz spawanych, którega wartość nie powinna być niższa niż 0,8. § 7. Zmiana zakresu uprawnienia może nastąpić na podstawie decyzji właściwego okręgowego dozoru TaQTEDEZARAO wydanej w trybie ustalonym w § 6. § 8. 1. Organy dozoru technicznego - przeprowadzają przynajmniej jedną'w roku. inspekcję zakładów, które otrzymały uprawnienia do spawania zbiorników lub ich elemen=- \"łów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. fmspektję przeprowadza się w obecnośći osoby odpowiedzialnej za produkcję lub naprawy oraz kierownika zakładowej kontroli technicznej lub osób przez nich wyznaczonych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Inspekcja ma na celu sprawdzenie zgodności prodtwkcji lub naprawy z warunkami uprawnienia, a w szczegół-- ności w zakresie: ,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "t) wykonywania spawania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) stosowanych materiałów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) prawidłowości badań,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) umieszczenia na elementach przepisowych oznaczeń - i cech,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5) wystawiania poświadczeń przez kontrolę techniczną zakładu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) wykenania poleceń lub wskazań ustalonych w -wyniku .przeprawadzonych uprzednio: inspekcji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Jeden egzemplarz protokołu przeprowadzonej inspekcji należy doręczyć kierownikowi zakładu,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 9. W razie stwierdzenia w czasie kontroli uchybień okręgowy dozór techniezny wydaje kierownikowi zakładu zarządzenia pokontrolne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 10.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Okręgowy dozór techniczny może zawiesić lub cofnąć wydane uprawnienia w razie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) utraty przez zakład warunków będących podstawą wydania uprawnienia,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) stwierdzenia poważnych uchybień w produkcji ' lub nae „prawach zbiorników lub ich elementów,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) stwierdzenia niewykonania zarządzeń pokontrolnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zawieszając uprawnienia zakładu do spawania okręgowy: dozór techniczny wyznacza termin do usunięcia braków lub uchybień pod rygorem cofnięcia. tego uprawnienia lub ograniczenia jego zakresu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Dokumentacja techniczna wystawiana: przez wytwórcę.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 11.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Paświadezeńtiem prawidłowego wykonania i zbradania zbiornika lub elementu zbiornika jest wystawione przez wytwórcę „poświadczenie wykonania i zbadania” oraz cecha kontroli technicznej wybita na wierzchu lewego nitu-wkręta lub na lewym nalutowanym krążku tabliczki fabrycznej, jak również na poszczególnych elementach zbiornika.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do poświadczenia należy dołączyć dokumentację techniczną zawierającą dane konstrukcyjne. i materiałowo-wy- —— trzymałościowe zbiornika oraz dotyczące jego wykonania, ~~ zbadania i wyposażenia go w osprzęt.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Wzory poświadczeń, o których mowa w ust. 1, ustala Urząd Dozoru Technicznego. y",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Tryb postępowania przy rejestracji, odhierze technicznym i dozorze.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 12.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Obowiążek zgłoszenia zbiornika do rejestracji i odbioru technicznego — z wyjątkiem przypadku określonego w ust, 2 — ciąży na użytkowniku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Użytkownik zwolniony jest od obowiązku zgłoszenia do rejestracji zbiorników podlegających ograniczonemu dozorowi, o ile zostały one zgłoszone do rejestracji w trybie ust. % 3 Niezależmie od obowiązku zgłoszenia zbiornika do rejestracji przez Użytkownika SREWIAZEE zgłoszenia do reje stracji zbiorników opuszczających zakład w stanie kompletnym-i całkowicie wyposażonym w osprzęt ciąży także ra wytwórcy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. w uzasadnionych przypadkach. na wniosek użytków= nika uzgodniony usrzednio z wytw orca lub na wniosek wytwórcy rejonowy dozór techniczny może przeprowadzić badanie hudowy zbiarnika u wytwórcy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 13. Do zgłoszenia należy dołączyć dokumentację tech niczną, o. której mowa w § 11, uzupełnioną dokumentacją zawierającą dane dotyczące usytuowania zbiornika i połączę \"nią go z innymi urządzeniami. _ § 14. 1. Rejonowy dozór techniczny sbowłąśóny: jest dakorać rejestracji zbiornika niezwłocznie po otrzymaniu. kom- “pletu dokumentów określonych w § 13 oraz uzgodnić z wnioskodawcą w ciągu t4 dni od dnia otrzymania:kompletu tych dokumentów, terminy przeprowadzenia odbioru technicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wzór rejestrów zbiorników ustala Urząd Dozoru Feck= nicznego.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "«",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 15. Odbiór techniczny zbiornika polega na przeprowaczeniu badań, sprawdzających zgodność wykonania zbiornika z przedstawioną dokumentacją i prawidłowość jego bu- „dawy, w warunkach gotowości de pracy oraz w czasie pracy. Odbiór techniczny zbiornika przeprowadza rejonowy dowor techniczny w zakresie określonym w przepisach dozer technicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 16.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Rejonowy dozór techniczny wystawia poświadczenia o wykonaniu badan, o których mowa w § 15, oraz sporządza protokół odbioru technicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Po przeprowadzeniu odbioru technicznego zbiornika, którego wyniki ujęte są protokołem, wydaje się decyzję w przedmiocie dopuszczenia zbiornika do użytkowania jaka „ umiejscowionego lub nie umiejscowionego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Decvzję i PORA! sporządza się w dwóch RAZIE \"rżach.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Zbiornik może być użytkowany tylko na podstawie decyzji o dopuszczeniu go do ruchu, wydanej przez rejonowy _ dozór techniczny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Wzory poświadczeń, protokału i książki zewizy jue] ustala Urząd Dozoru Technicznego. § 17. Zbiorniki, których odbiór techniczny lub badanie budowy odbyło się u wytwórcy (§ 12 ust. 3 i 4), powinny być przez użytkownika zgłoszone pod dozór w trybie § 13, przy czym czynności odbioru technicznego u użytkownika ulegają. „ograniczeniu w zakresie ustalonym przez rejonowy dozór techniczny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 18.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Ponownej rejestracji” podlegają zbiorniki: Vv po przebudowie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) umiejscowione — w razie zmiany miejsca ich ustawienia. Przepisy $§ 12—17 mają odpowiednie zastosowanie. 2, W razie zmiany użytkownika zbiornik będący pod dozorem powinien być zgłoszony we właściwym rejonowym dozorze technicznym do przerejestrowania. © § 19. 1. Zbioraiki podlegające siałemu dozorowi, na których użytkowanie wydano zezwolenie, podlegają badaniom \"zwyczajnym i nadzwyczajnym przeprowadzanym przez rejonowy dozór techniczny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zakres i terminy badania zwyczajnego i nadzwyczajnego zbiornika określają Przepisy dozoru technicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 20.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Zbiorniki, które mają być poddane badaniom, powinny być przez użytkowników przygotowane do badań w, sposób określony przez rejonowy dozór techniczny. © 2. Data przeprowadzenia rewizji wewnętrznej lub próby wodnej powinna być przez użytkownika uzgodniona z rejonowym dozorem technicznym co najmniej na 14 dni przed terminem badania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Rewizję zewnętrzną przeprowadza się bez jeadale: go uzgodnienia terminu. 4, Użytkownik zbiornika obowiązany jest de udzielenia rejonowemu dozorowi iechnicznemu pomocy przy przeprowadzaniu badań. § 21. 1. Na podstawie przeprowadzonych badań rejonowy dozór techniczny wydaje decyzję w przedmiocie dalszego użytkowania zbiornika. Decyzja zawierająca zezwolenie na dalsze użytkowanie powinna określać termin następnego badania. W razie stwierdzenia obniżenia wytrzymałości - zbiornika rejonowy dozór techniczny może określić w decy- >. zjł dopuszczenie go do użytkowania przy obniżonych parametrach lub skrócić termin następnego badania albo zasto- Ę ż sować obydwa warunki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jeżeli badanie zbiornika wykaże, że stan jego zagraża bezpośrednim niebezpieczeństwem, . rejonowy dozór techat niczny. powinien zarządzić natychmiastowe zaniechanie el",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "użytkowania zbiornika. 3, Decyzję w przedmiocie użytkowania zbiornika, przy- = czyny obniżenia dzpuszczonych parametrów lub zakazu użył- \"kowania zbiornika wpisuje się do książki rewizyjnej zbiornika.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„. Tryb postępowania przy uznawaniu i dopuszczaniu zbiorników do ruchu i ehrotu jako typowych:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 22. Uznawanie i dopuszczanie zbiorników do ruchu i obrotu jako typowych należy do okręgowego dozoru lechnicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 23.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wszczęcie postępowania o uznanie i dopuszczenie zbiorników do ruchu i obrotu jako typowych następuje na wniosek wytwórcy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do wniosku należy dołączyć dokumentację techniczną zawierającą dane konstrukcyjne, -materiałowo-wylrzymalościowe zbiornika oraz dotyczące jego wykonania — wyposażenia go w osprzęt, usytuowania i połączenia go z innymi urządzeniami. © 3",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 24. Badania prototypu obejmują sprawdzenie zgodności jego wykonania z przedstawioną dokunientacją, prawidłowość jego budowy w warunkach gutowości do pracy i w czasie pracy, a w razie potrzeby badania specjalne. § 25. 1. Wytwórca obowiązany jest zapewnić organom dozoru urządzenia, przyrządy i środki pemocnicze niezbędne do przeprowadzania badań KRY oraz odpowiednie miejsce do badań. 2.. Prototypy zbiorników: powinny być przez wnioskodawcę przygotowane do badań w sposób określony przez rzeczoznawcę lub. komisję.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Wnioskodawca obowiązany jest do udzielenia rzeczoznawcy lub komisji pomocy przy przeprowadzaniu badań. § 26. 1. Decyzja w sprawie uznania i dopuszczenia \"zbiorników do ruchu i obrotu jako typowych powinna być wydana przez okręgowy dozór techniczny najpóżniej w ciągu 60 dni od dnia otrzymania wniosku wytwórcy. 2, Okręgowy dozór techniczny może zawiesić lub cofnąć decyzję o uznaniu i dopuszczeniu zbiorników do ruchu i obrotu jako typowych w razie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) stwierdzenia w czasie eksploatacji, że konstrukcja lub wykonanie nie jest zgodne.z warunkami uznania i dopuszczenia lub że wykazuje wady grożące niebezpieczeństwem,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) stwierdzenia, że zakład produkujący nie przestrzega warunków uznania i dopuszczenia. § 27. Każdy zbiornik, wykonany pies zakład na podstawie uznania i dopuszczenia do ruchu i obrotu jako typowy, powinien być zbadany i odebrany przez kontrolę techniczną wytwórcy zgodnie z wymaganiami rozporządzenia, z tym że poświadczenie wykonania i zbadania oraz dokumentacja techniczna powinny być przechowywane w aktach kontroli technicznej wytwórcy i przedstawiane organom dozoru technicznego na każde ich żądanie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 28.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Każdy zbiornik uznany i depuszczeny do ruchu i obrotu jako typowy powinien być dostarczony dystrybutorowi lub użytkownikowi z trwałym znakiem umieszczonym na tabliczce fabrycznej, stwierdzającym uznanie i dopuszczenie do eksploatacji wraz z:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) instrukcją montażową zbiornika w miejscu użytkowania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) instrukcją użytkowania zbiornika.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Wzory znaków, stwierdzających uznanie i dopuszczę= nie do eksploatacji, ustala Urząd Dozoru Technicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "k Eksploatacja zbiorników.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 29. Do obsługi zbiorników użytkownik może dopuścić osoby, które przeszły przeszkolenie i posiadają niezbędne wiadomości teoretyczne i praktyczne związane z. obsługą zbiorników i bezpieczeństwem pracy.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "§ 30. Zbiornik powinien być eksploatowany zgodnie z instrukcją eksploatacyjną opracowaną: przez projektanta, wytwórcę zbiornika lub użytkownika. Instrukcja pawinna zawierać przepisy bezpieczeństwa i higieny: pracy oraz znajdować się w pobliżu zbiornika, w miejscu dostępnym - dla obsługi. W ravie przeniesienia lub przebudowy zbiornika albo zmiany wyposażenia wpływającego na sposób jego eksploatacji należy opracować nową ZER eksploatacyjną.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 31. Naprawa ścianek zbiornika lub wymiana jego części składowych może być przeprowadzona dopiero po o trzy maniu zezwolenia rejonowego dozoru technicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 32. Użytkownikowi nie wolno zmieniać ustalonych. przez rejonowy dozór techniczny nastawień urządzeń zabezpieczających «przed wzrostem ciśnienia, oraz połączeń tych urządzeń ze zbiornikiem. § 33. Wymiana całych urządzeń lub ich części może być „przeprowadzana tylko za uprzednim zezwoleniem AE dozoru technicznego. § 34, O każdej awarii, niebezpiecznym uszkodzeniu zbiornika oraz wypadkach związanych z eksploatacją zbiór- „nika użytkownik powinien powiadomić właściwy organ dozoru technicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ": Rozdział 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przepisy wspólne i końcowe,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 35, W wyjątkowych przypadkach, uzasadnionych względami technicznymi, dyrektor Urzędu Dozoru Technicznego może zezwolić na odstępstwa od wymagań ustalonych w rozporządzeniu. § 36. Decyzję e dopuszczeniu odstępstwa wydaje dyrektor Urzędu: Dozoru Technicznego na wniosek zainteresowanego zakładu po wysłuchaniu opinii Rady Dozoru Technicznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 37. Wniosek powinien zawierać powody niemożności stosowania wymagań rozporządzenia, uzasadnienie celowości odstępstwa, stwierdzenie: zachowania bezpieczeństwa użył-- kowania zbiornika po zastosowaniu odstępslwa oraz niezbędną dokumentację techniczną i obliczeniowa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "-§ 38. .. Docyzją:. w. sprawie \"dopuszczenia odstępstwa. jest ostateczna.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 39). Przepisy 8. 35—38 miają zastosowanie również. da. Ns sprowadzonych z zagranicy. Jeżeli użytkownik zbiornika; żaprojektówiśńegio -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 40. lub jA przed dniem wejścia w życie dół nią, nie posiada poświadczenia wykonania i zbadania: tego’ „zbiornika oraz dokumentów wymienionych w § 11 ust. li2 zbiornik ten powinien być poddany w ramach odbioru tech=- niecznego badaniu budowy w zakresie ustalonym przez wła= ' ściwy rejonowy dozór techniczny.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Dla zbiorników wymienionych w ust. 1 okręgowy dozór techniczny może udzielić odstępstw: od WEDEEAR: be dowy ustalonych w rozporzqdzeniu. — 3%",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Dla zbiorników klasy A ze stali. węglowej lub statis wa, weglowego, użytkowanych przed dniem wejścia w-życie a dias rozporządzenia, których wiek. nie przekracza 45 lat, nie znanego wieku budowy, których czas ekspioatacji nie przekracza 30 lat, wystarczające jest badanie budowy (ust. 1) - w następującym zakresie: j",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) rewiżja wewnętrzna zbiornika,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) obustronne ogłędziny, złącz spawanych, jeżeli złącza: sq Ę dostępne do takich oględzin, lub jednostronne oględziny uzupełnione wyrywkowym badaniem spoin co na jennie} sposobem nawiercania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) oględziny złącz nilowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Dla zbiorników klas$ A z żeliwa, użytkowanych przed- „ dniem wejścia w życie rozporządzenia, wystarczające jest badanie budowy (ust. 1) ograniczone-do „rewizji wewnętrznej. zbiornika.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 41. Rozporządzenie wchodzi w życie “po pe kasę 3 miesięcy od dnia ogłoszenia, z tym że: *1) zbiorniki nie będące pod dozorem, oddane. -do--użydbaf po dniu 9 maja t961 r. ale przed dniem wejścia w ży cie rozporządzenia, powinny być zgłoszone do rejestracji i odbioru technicznego w ciągu 12 miesięcy od Bity, wejścia w życie rozporządzenia;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przepisy rozdziału 2 wchodzą w życie po upływie ' 12 mię- - sięcy od dnia ogłoszenia.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Górnictwa i Energetyki: w z. K. Fabris"
+  },
+  {
+   "type": "text",
+   "text": "Reklamacje: z powodu niedoręczenia poszczególnych numerów wnosić należy do Administracji Wydawnictw Urzędu Rady Ministrów (Warszawa, ul Krakowskie Przedmieście 50) w terminie 10 do 15 dni po otrzymaniu naslępnego kolejnego numeru'",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Opłala za prenumeralę Dziennika Ustaw wynosi: rocznie 75,— zł, półrocznie 45,— zł. Opłata za prenumeratę załącznika do Dziennika",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Ustaw wynosi: focznie 45 — 7}, półrocznie 27,— zł. ‘ zz NN RT se Prenumeratę można zgłaszać tylko na okres roczny (od 1.1) lub na okres półroczny (od t.1 1 od I.VII) Opłata powinna być uiszczona co najmniej na miesiąc przed okresem prenumeraty, a więc za okres roczny lub za I półrocze — do dnia 30 listopada, za M półrócze — do dnia 31 maja. Do abonentów, którzy opłacą prenumeratę po tych terminach, wysyłka pierwszych numerów dokonana zostanie z opóźnieniem. Jednostki na rozrachunku gospodarczym i inni abonenci powinni dckonać wpłat za prenumeratę „na konto Narodowego Banku Polskiego, Oddział FV Miejski, Warszawa, nr 1529-91-903, cz. 3, dz. 7, rozdz. 3, Rachunków zaprenumeratę nie wystawia się. Na odcinku wpłaty należy podać dokładną nazwę instytucji (bez skrótów), nazwę i numer doręcza= — _ jacego urzędu pocztowego (jak Warszawa 10, Poznań 3 itp.), powiat, ulicę, nr domu. nr skrytki pocztowe” oraz ilość zamawianych egzemplarzy Dziennika Ustaw",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "~ Pojedyncze egzemplarze Dziennika Ustaw nabywać można w punktach sprzedaży w Warszawie: Al. 1 Armii Wojska Polskie- A go.2/4, „Dom Książki\" — Księgarnia Prawno-Ekonomiczna — ul. Nowy Świat 1, kiosk „Domu Książki” w qmachu sądów — al. Gen. wierczewskiego 127, w kasach Sądów Wojewódzkich w: Białymstoku, Katowicach, Kielcach, Koszalinie, Łodzi, Olsztynie, Opolu, Rzeszowie, Wrocławiu i Zielonej Górze oraz w kasach Sądów Powiatowych w: Bydgoszczy, Bylomiu, Cieszynie, Częstochowie, Gilańsku, Gdyni, Gliwicach, Gnieźnie, Jeleniej Górze, Kaliszu, Krakowie, Lublinie Nowym Sączu, Ostrowie Wlkp., Poznaniu, Przemyślu, Raciborzu, Radomiu, Szczecinie, Tarnowie. Toruniu i Zamościu.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Redakcja: Urząd Rady Minisirów — Biuro Prawne, Warszawa, al. Ujazdowskie 1/3 . Administracja: Administracja Wydawnictw Urzędu Rady Ministrów. Warszawa, ul Kraknwskie Przedmieście 50.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Tłoczono 7 polecenia Prezesa Rady Ministrów w Zakładach Gralicznych „łamka”, Warszawa; ul Tamka 3.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Zam. 1022",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Cena 1,60 x.",
+   "quoted": true
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
