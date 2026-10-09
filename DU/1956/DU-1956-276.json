@@ -1,0 +1,93 @@
+{
+ "eli": "DU/1956/276",
+ "title": "Rozporządzenie Rady Ministrów z dnia 24 listopada 1956 r. w sprawie zmiany granic niektórych powiatów w województwach lubelskim i katowickim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1956/276/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW - i"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 listopada 1956 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granic niektórych powiatów w województwach lubelskim i katowickim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ustawy z dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz, U. Nr 6, poz. 48) zarządza się, co następuje: § 1. W województwie lubelskim wyłącza się:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "z powiatu zamojskiego gromadę Wirkowice i włącza się ją do powiatu krasnostawskiego,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "z gromady Zemborzyce w powiecie lubelskim kolonię Krężnica Jara i włącza się ją do gromady Strzeszkowice Duże w powiecie bełżyckim.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W województwie katowickim wyłącza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "z powiatu pszczyńskiego gromadę Bzie Zameckie i włącza się ją do powiatu wodzisławskiego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "z powiatu będzińskiego gromady Ożarowice i Tąpkowice i włącza się je do powiatu tarnogórskiego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "z powiatu zawierciańskiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_3/lit_a",
+       "text": "gromady Markowice i Mrzygłód t włącza się je do powiatu myszkowskiego, .",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_3/lit_b",
+       "text": "z gromady Zdów wieś Bobolice i włącza się ją do gromady Niegowa w powiecie myszkowskim. § 3. Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów. * *8 4. Rozporządzenie wchodzi w życie z dniem 1 stycznia 1957 r.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Prezes Rady Ministrów: w z. P, Jaroszewicz *"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

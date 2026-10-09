@@ -1,0 +1,428 @@
+{
+ "eli": "DU/1958/84",
+ "title": "Rozporządzenie Ministra Górnictwa i Energetyki z dnia 6 marca 1958 r. w sprawie podziału Państwa na okręgi energetyczne.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1958/84/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA GÓRNICTWA j ENERGETYKI"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 marca 1958 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie podziału Państwa na okręgi energetyczne."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 1 ustawy z dnia 4 lipca 1947 r. o planowej gospodarce energetycznej (Dz. U. Nr 52, poz. 271) zarządza się, co następuje: § 1. Obszar Państwa dzieli się na następujące okręgi energetyczne: I. okręg centralny obejmujący:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "miasto stołeczne Warszawę;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "miasto Łódź;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "województwo łódzkie z wyłączeniem:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "z powiatu radomszczańskiego miasta Koniecpol oraz gromad: Cielętniki, Dąbrowa Zielona, Garnek, Koniecpol Stary, Kłomnice, Kruszyna, Łysiny, Okołowice, Rzerzeczyca, Skrzydlów, Soborzyce, Witkowice, Zawada, -b) z powiatu =wieriuszówskiego z grómady Wójcin wsi Gola, z gromady Łubnice wsi Łubnice, €) z powiatu wieluńskiego z gromady Przedmoście wsi Przedmoście, z gromady Wygiełdów wsi Sżyszków i: Wygiełdów, p z powiatu poddębickiego miasta Uniejów oraz gro- «;. mad: Miniszew, Orzeszków i Wilamów;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "krofewsdziwo warszawskie z wyłączeniem powiatów garwolińskiego i ryckiego;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "z województwa lubeiskiego powiaty: bialski, łukowski „4 radzyński bez gromady Czemierniki; ' j 6). 2%. województwa poznańskiego powiaty miejskie: Kalisz, Ostrów Wielkopolski oraz powiaty: jarociński, kaliski, „kępiński, krotoszyński, ostrowski bez południowo-zachód= „Niej części w gromadzie „Cieszyn, ostrzeszowski i ple- . „szewski; 7), Z województwa kieleckiego: „4) część powiatu białobrzeskiego położoną na północ “od rzeki Pilicy w gromadach: Pnie, Promna, ih, szew i Rykały, gromady Białobrzegi",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_5/lit_b",
+     "text": "z powiatu opoczyńskiego i Smardzewice; ;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "województwo białostockie z wyłączeniem z powiatu gołdapskiego gromad: Banie Mazurskie, Lisy, Rogale i Żabin;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "z województwa olsztyńskiego:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_9/lit_a",
+     "text": "z powiatu giżyckiego gromadę Gawliki Wielkie i Zelki oraz wschodnią część gromady Wydminyę",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_9/lit_b",
+     "text": "z powiatu piskiego gromady: Biała Piska, Drygały, Kożuchy, Kumielsk, Pogorzel Wielka, a eae Wielki i Skarzyn;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Il. okręg wschodni obejmujący:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "województwo kieleckie z wyłączeniem:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "części powiatu białobrzeskiego położonej na północ od rżeki Pilicy w gromadach: Pnie, Promna, Przyby* szew i Rykały,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "z powiatu opoczyńskiego gromad Białobrzegi i i Smar dzewice, ©) z powiatu włoszczowskiego gromad: Biała Wielka, Chrząstów, Drochlin, Lelów, Podlesie, Ślężany;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "wojewédztwo rzeszowskie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "z województwa krakowskiego powiaty miejskie Nowy Sącz i Tarnów oraz powiaty: brzeski, dąbrowski, nowosądecki, tarnowski i południowo-wschodnią część powiatu nowotarskiego w gromadach: Czorsztyn, Ochotnica Dolna, Ochotnica. Górna, Sromowce Wyżne, Tylmanowa i w osiedlach Krościenko i Szczawnica;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "z. województwa . warszawskiega «- spaawiaty RACA i rycki, o",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "województwo lubelskie z syinetenieni aukce bialskiego, łukowskiego i iadzyńskiego' bez gromady Czemierniki; i",
+   "children": []
+  },
+  {
+   "type": "text",
+   "text": "na"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "zal"
+  },
+  {
+   "type": "text",
+   "text": "okręg południowy obejmujący: III."
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "miasto Kraków;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "województwo katowickie;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "województwo opolskie z wyłączeniem:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "powiatu miejskiego Brzeg i powiatu brzeskiego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "z powiatu namysłowskiego gromad Bukowie i Ligota Książęca oraz z gromady Krasowice wsi: Pielgrzymowice, Miokicie i Lubska;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "z województwa wrocławskiego:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "z powiatu strzelińskiego: część gromady Sarby z miejscowością Mników, gromadę Ostrężna z wyjątkiem miejscowości Dzierżkowa, południową część gromady Gębice z miejscowościami: Kazanów, Nowolesie, Zimnodół, Witostowice, Zakrzów oraz południową część gromady Dankowice z miejscowościami: Nieszkowice, Skoroszowice i Myszkowice,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "z powiatu ząbkowickiego: miasto Ziębice, gromady: Chałupki, Henryków, Krzelków, Nieszków, Niedźwiedź, Stary Henryków, północno-wschodnią część gromady Bobolice z miejscowością Piotrowice Polskie, wschodnią część gromady Ciepłowody z miejscowościami Ciepłowody i Cienkowice, północną część gromady Niedźwiednik z miejscowościami Niedźwiednik i Rososznica oraz północną część gromady Stolec;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "województwo krakowskie z wyłączeniem powiatów miejskich Nowy Sącz i Tarnów oraz powiatów: brzeskiego, dąbrowskiego, nowosądeckiego, tarnowskiego i południowo-wschodniej części pówiatu nowotarskiego w gromadach: Czorsztyn, Ochotnica Dolna, Ochotnica Górna, Śromowce Wyżne, Tylmanowa i w osiedlach Krościenko i Szczawnica;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "z województwa łódzkiego:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_6/lit_a",
+     "text": "z powiatu radomszczańskiego miasto Koniecpol oraz gromady: Cielętniki, Dąbrowa Zielona, Gamek, Koniecpol Stary, Kłomnice, Kruszyna, Łysiny, Okołowice, Rzerzeczyca, Skrzydlów, Soborzyce, Witkowice, Zawada,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_6/lit_b",
+     "text": "z powiatu wieruszowskiego z gromady Wójcin wieś Gola, z gromady Łubnice wieś Łubnice,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_6/lit_c",
+     "text": "z powiatu wieluńskiego z gromady Przedmoście wieś Przedmoście, z gromady Wygiełdów wsie Szyszków i Wygiełdów;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "z województwa kieleckiego z powiatu włoszczowskiego gromady: Biała Wielka, Chrząstów, Drochlin, Lelów, Pod- ‘ U lesie, Ślężany;",
+   "children": [
+    {
+     "type": "text",
+     "text": "IV. okręg dolnośląski obejmujący:"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "miasto Wrocław;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "województwo wrocławskie z wyłączeniem: a] z powiatu strzelińskiego: części gromady Sarby z miejscowością Mników, gromady Ostrężna z wyjątkiem miejscowości Dzierżkowa, południowej .części gromady Gębice z miejscowościami: Kazanów. Nowolesie, Zimnodół , Witostowice, Zakrzów oraz południowej części gromady Dankowice z miejscowościami: Nieszkowice, Skoroszowice i Myszkowice,",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "z powiatu ząbkowickiego miasta Ziębice, gromad: Chałupki, Henryków, Krzelków, Nieszków, Niedźwiedź, Stary Henryków, północno-wschodniej części gromady Bobolice z miejscowością Pietrowice Polskie, wschodniej części gromady Ciepłowody z miejscowościami Ciepłowody i Cienkowice, północnej części gromady Niedźwiednik z miejscowościami Niedźwiednik i Rososznica oraz północnej części gromady Stolec;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "z województwa opolskiego:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "powiat miejski Brzeg i powiat brzeski, R",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "z powiatu namysłowskiego gromady Bukowie i Ligota Książęca oraz z gromady Krasowice wsie: Pielgrzy< mowice, Młokicie i Lubśka; z województwa zielonogórskiego powiaty: głogowski, szprotawski, żagański, żarski, wschowski bez północnowschodniej części w gromadach: Brenno, Ciosaniec i Sła- ' wa, nowosolski bez północno-wschodniej części w gromadach: Lipiny, Lubięcin i Otyń, południowo-wschodnią część powiatu zielonogórskiego w gromadzie Nowogród Bobrzański, lubski bez północnej części w gromadach: Biecz, Górzyn, Mierków i bez miasta Lubsko; 5) z województwa poznańskiego południowo-zachodnią część powiatu ostrowskiego w gromadzie Cieszyn;",
+     "children": [
+      {
+       "type": "text",
+       "text": "Vv."
+      },
+      {
+       "type": "text",
+       "text": "okręg zachodni obejmujący:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "miasto Poznań; 2) województwo poznańskie z wyłączeniem: >",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "powiatów miejskich Kalisz i Ostrów Wielkopolski oraz powiatów: jarocińskiego, kaliskiego, kępińskiego, krotoszyńskiego, ostrowskiego, pO PROW» pleszewskiego,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "wschodniej części powiatu wągrowieckiego w gromadzie Gołańcz; 3) województwo szczecińskie; województwo koszalińskie z wyłączeniem powiatów: byję) towskiego, człuchowskiego, miasteckiego, sławieńskiego, słupskiego, złotowskiego i powiatu miejskiego Słupsk; wojewódżtwo zielonogórskie z wyłączeniem powiatów: - 5) głogowskiego, szprotawskiego, żagańskiego, żarskiego, wschowskiego bez północno-wschodniej części w gromadach: Brenno, Ciosaniec i Sława, nowosolskiego bez północno-wschodniej części w gromadach: Lipiny, Lubięcin 1 Otyń, południowo-wschodniej części powiatu zielonogórskiego w gromadzie Nowogród Bobrzański, lubskiego bez północnej części w gromadach: Biecz, Górzyn, Mierków i bez miasta Lubsko; 6) z województwa łódzkiego z powiatu poddębickiego miasto Uniejów oraz gromady: Miniszew, Orzeszków i “Wiles mów;",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI."
+      },
+      {
+       "type": "text",
+       "text": "okręg północny obejmujący:"
+      },
+      {
+       "type": "text",
+       "text": "województwo bydgoskie; 1) województwo gdańskie; 2) 3) z województwa koszalińskiego powiaty: bytowski, człuchowski, miastecki, sławieński, słupski, złotowski i powiat miejski Słupsk; 4) z województwa poznańskiego wschodnią część powiatu wągrowieckiego w gromadzie Gołańcz; województwo olsztyńskie z wyłączeniem:"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_1/lit_a",
+     "text": "z powiatu giżyckiego gromad Gawliki Wielkie i Zelki oraz wschodniej części gromady Wydminy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_1/lit_b",
+     "text": "z powiatu piskiego gromad: Biała Piska, Drygały, Kożuchy, Kumielsk, Pogorzel Wielka, Różyńsk Wielki i Skarzyn;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "z województwa białostockiego z powiatu gołdapskiego gromady: Banie Mazurskie, Lisy, Rogale i Żabin.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Traci moc rozporządzenie Ministra Przemysłu Ciężkieg z dnia 16 stycznia 1952 r. w sprawie podziału Państwa na okręgi energetyczne (Dz.",
+   "children": [
+    {
+     "type": "text",
+     "text": "U, Nr 5. poz. 37)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłosze nią z mocą od dnia kwietnia 1956 r. Minister Górnictwa i Energetyki: w z. &: Zadrzyński",
+   "children": [
+    {
+     "type": "text",
+     "text": "Tłoczono 2 polecenia Prezesa Rady Ministrów w Drukarni Akcydensowej w Warszawie. ul. Tamka 3."
+    },
+    {
+     "type": "text",
+     "text": "Zam 442"
+    },
+    {
+     "type": "text",
+     "text": "Cena 3,20 zł"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

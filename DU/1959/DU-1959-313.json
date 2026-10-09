@@ -1,0 +1,404 @@
+{
+ "eli": "DU/1959/313",
+ "title": "Rozporządzenie Rady Ministrów z dnia 28 lipca 1959 r. w sprawie zasad udzielania dotacji budżetowych organizacjom społecznym oraz kontroli wykorzystania tych dotacji.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1959/313/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 lipca 1959 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad udzielania dotacji budżetowych organizacjom społecznym oraz kontroli wykorzysłania tych dotacji,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 ust. 2 ustawy z dnia 1 lipca 1958 r. o prawie budżetowym (Dz. U. Nr 45, poz. 221) zarządza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Organizacjami społecznymi w rozumieniu rozpo- § i. 1. rządzenia są:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "stowarzyszenia zarejestrowane i stowarzyszenia wyższej użyteczności utworzone na podstawie rozporządzenia z dnia 2? października 1932 r. — Prawo o stowarzyszeniach (Dz. U. z 1932 r. Nr 94, poz. 808 z późniejszymi zmianami),",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "organizacje (stowarzyszenia) studenckie utworzone na podstawie szczególnych przepisów.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Prezes Rady Ministrów może rozciągnąć moc obowiązującą wszystkich lub niektórych przepisów rozporządzenia na organizacje społeczne, nie wymienione w $ ust. 1.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Przez organizacje społeczne o zasięgu ogólnokrajowym należy rozumieć organizacje, które rozwijają działalność na terenie całego kraju.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Przez organizacje społeczne o zasięgu regionalnym lub lokalnym należy rozumieć organizacje, które działalnością swoją obejmują określony teren etniczny lub administracyjny kraju.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Organizacje społeczne mogą otrzymywać w przypadkach uzasadnionych szczególnymi względami państwowymi dotacje z budżetu centralnego lub z budżetów terenowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Dotacje mogą być przyznawane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "na zrównoważenie budżetu organizacji społecznej, jeżeli środki i dochody własne organizacji nie wystarczają na pokrycie wydatków związanych z prowadzeniem działalności statutowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "na inwestycje.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Organizacjom społecznym o zasięgu ogólnokrajowym udzielają dotacji naczelne organy władzy państwowej oraz określone przez Prezesa Rady Ministrów naczelne organy administracji państwowej, urzędy centralne i Polska Akademia Nauk.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Prezydia rad narodowych nie mogą udzielać dotacji terenowym jednostkom organizacyjnym organizacji społecznych, wymienionych w ust. 1. z",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Organizacjom społecznym o zasięgu regionalnym lub lokalnym udzielają dotacji prezydia wojewódzkich rad narodowych (rad narodowych miast wyłączonych z województw), na których terenie mają siedzibę władze naczelne tych organizacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "W poszczególnych uzasadnionych przypadkach organizacje społeczne o zasięgu lokalnym mogą otrzymywać dotacje od prezydiów powiatowych (dzielnicowych) rad narodowych za zgodą prezydiów wojewódzkich (miast wyłączonych z województw) rad narodowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Organizacji (stowarzyszeniu) studenckiej o zasięgu lokalnym udziela dotacji minister (urząd centrałny) sprawujący nadzór nad szkołą wyższą albo z jego upoważnienia rektor szkoły. °",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Stowarzyszenia naukowe o zasięgu regionalnym lub lokalnym, korzystające dotychczas z dotacji Polskiej Akademii Nauk, mogą nadal, do czasu, który ustali Prezes Rady Ministrów, korzystać z dotacji Polskiej Akademii Nauk.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Dotacja dla organizacji społecznej może być udzielana tylko przez jeden z organów wymienionych w § 4.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Organizacje społeczne, ubiegające się o dotację, powinny złożyć wniosek do właściwego organu dotującego (§ 4) w okresie opracowywania projektów budżetu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Do wniosku powinien być dołączony projekt budżetu organizacji społecznej, opracowany zgodnie z przepisami o zasadach opracowania projektów budżetów przez instytucje społeczne dotowane z budżetu Państwa, oraz oświadczenie, że organizacja nie ubiega się jednocześnie o przyznanie dotacji przez inny organ.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Przed przyznaniem dotacji organ dotujacy (§ 4) bada projekt budżetu oraz dołączony do projektu plan działalności organizacji społecznej — pod kątem oszczędności i celowości wydatków oraz możliwości wygospodarowania własnych dochodów na pokrycie planowanych wydatków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Organ detujacy może uzależnić przyznanie dotacji od spełnienia przez organizację społeczną określonych warunków,",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 8 1. Organ dotujący umieszcza corocznie w swoim projekcie budżetu odpowiednie kredyty na dotacje dla organizacji społecznych w odrębnych paragrafach przewidzianych w obowiązującej klasyfikacji budżetowej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "O wysokości kwot przeznaczonych dla poszczególnych organizacji społecznych, jak również o każdej zmianie wysokości tych kwot dokonanej po uchwaleniu budżetu dotujacy organ zawiadamia Najwyższą Izbę Kontroli i Ministerstwo Finansów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 9 Organ dotujący uruchamia kredyty budżetowe na dotacje w trybie i terminach oxreślonych w przepisach o wykonywaniu budżetu, na wniosek organizacji społecznej, uzasadniający aktualną potrzebę uruchomienia kredytu."
+      },
+      {
+       "type": "text",
+       "text": "8 10: 1. Organ dotujacy organizacię społeczną bada całokształt jej działalności gospodarczej, a w szczególności:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "kontroluje wykonanie budżetu oraz warunków, od których spełnienia uzależnione zostało przyznanie dotacji {§ 7 ust. 2),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "kontroluje plan etatów osobowych i samochodowych oraz fundusz płac.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Prawo badania całokształtu działalności organizacji społecznej o zasięgu ogólnokrajowym przysługuje organowi detujacemu, a w stosunku do terenowych oddziałów tej organizacji również właściwym rzeczowo terenowym organom adininistracji państwowej. PR",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Dotowane organizacje społeczne obowiązane są dostosować się na odcinku swojej podstawowej działalności statutowej do przepisów dotyczących jednostek budżetowyca w zakresie dyscypliny budżetowej, do przepisów z zakresu systemu i wysokości płac, przepisów o rachunkowości i sprawozdawezosci, jak również do przepisów dotyczących praw i obowiązków głównych (starszych) księgowych jednostek budżetowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Dotowane organizacje społeczne nie mogą udziełać innym organizacjom społecznym dotacji lub pomocy materialnej w jakikolwiek sposób.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Przepis ust. 1 nie dotyczy przypadków, gdy dotacja lub pomoc materialna udzielana jest przez stowarzyszenia ich oddziałom terenowym lub przez związki wchodzącym w ich skład lokalnym organizacjom.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "W razie nieprzestrzegania przez dotowaną organizację społeczną przepisów $§ 11 i 12, niedotrzymania warunków określonych przez dotujący organ (§ 7 ust. 2), niewykonania zaleceń kontrolujących organów, prowadzenia rozrzutnej gospodarki, a także w przypadku, gdy organizacja spoieczna otrzymuje pomoc finansową lub materialną od innego organu państwowego, organ dotujący może wstrzymać dalsze udziełanie dotacji, a także zażądać zwrotu dotacji już udzielonej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Wygospodarowane oszczędności z dotacji stanowią środki wiasnie organizacji społecznej,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Nie są dotacjami środki finansowe przekazywane organizacji społecznej przez jednostki gospodarki uspołecznionej i administracji państwowej z tytułu złecenia tym organizacjom wykonywania usług kulturalno-oświatowych lub naukowych albo usług w zakresie przysposobienia wojskowego, wychowania fizycznego, turystyki i sportu. Przepis powyższy stosuje się również w przypadku zlecenia przez Polską Akademię Nauk określonych zadań do wykonania stowarzyszeniom naukowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "W stosunku do stowarzyszeń wyższej użyteczności, dotowanych przez Ministerstwo Finansów, zadania w zakresie kontroli przewidziane w § 10 ust. 1 mogą być przekazane w całości lub w części przez Prezesa Rady Ministrów innemu organowi administracji państwowej, posiadającemu warunki do merytorycznej oceny działalności dotowanej organizacji społecznej. Przepis § 10 ust. 2 stosuje się cdpowiednio,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Jeżeli organ administracji państwowej, o którym mowa w ust. 1, w porozumieniu z Ministerstwem Finansów, zleci nadzorowanej erganizacji społecznej wykonanie usług, o których mowa w § 15, przekazane w tym celu środki finansowe przez Ministerstwo Finansów nie uważa się za dotacje.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Nie uważa się za dotację pomocy materialnej w postaci nieodpłatnego przekazania na własność lub w użytkowanie sprzętu i urządzenia służącego celom szkoleniowym, sportowym i turystycznym, jak również pomocy materialnej w postaci nagród — świadczonej przez organy administracji państwowej bądź przedsiębiorstwa państwowe organizacjom społecznym prowadzącym działalność w zakresie przysposobienia wojskowego, wychowania fizycznego, turystyki i. sportu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Nie uważa się również za dotację nieodpłatnego przekazywania organizacjom społecznym, realizującym działalność charytatywną, przecenionych przez państwowe przedsiębiorstwa handlowe nieatrakcyjnych artykułów konsumpcyjnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Przepisy o opracowywaniu projektów budżetów i preliminarzy budżetowych przez organizacje społeczne dotowane z budżetu Państwa oraz o prowadzeniu przez te organizacje rachunkowości i sporządzaniu sprawozdań wydaje Minister Finansów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Do czasu wydania przepisów na podstawie ust. 1 pozostają w mocy dotychczasowe przepisy w sprawie zasad opracowywania projektów budżetów, sporządzania preliminarzy budżetowych, prowadzenia rachunkowości oraz sporządzania sprawozdań przez instytucje społeczne dotowane z budżetu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów, Ministrowi Finansów i innym zainteresowanym ministrom. i :",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Tracą moc dotychczasowe przepisy w sprawie zasad i trybu udzielania z budżetu Państwa dotacji dla instytucji, organizacji oraz stowarzyszeń społecznych i kulturalnooświatowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów: w z. P., Jaroszewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

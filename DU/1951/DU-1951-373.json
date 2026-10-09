@@ -1,0 +1,730 @@
+{
+ "eli": "DU/1951/373",
+ "title": "Rozporządzenie Ministra Państwowych Gospodarstw Rolnych z dnia 6 października 1951 r. w sprawie określenia zasad przeprowadzania wzajemnych zakładów na wyścigach konnych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1951/373/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA PAŃSTWOWYCH GOSPODARSTW ROLNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 października 1951 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie określenia zasad przeprowadzania wzajemnych zakładów na wyścigach konnych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 ust. 1 ustawy z dnia 19 kwietnia 1950 r. o wyścigach konnych (Dz. U. R. P. Nr 20, poz. 173) zarządza się, co następuje: §1. 1. Artykuły, powołane w rozporządzeniu bez bliższego określenia, oznaczają artykuły ustawy z dnia 19 kwietnia 1950 r. o wyścigach konnych (Dz. U. R. P. Nr 20, poz. 173)."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Za stajnię w rozumieniu rozporządzenia uważa się dwa lub więcej koni, figurujących w programie dziennym wyścigów jako własność jednej i tej samej osoby i przy tym oznaczonych w tym programie jednakową literą, umieszczoną przy numerach koni,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Stawki we wzajemnych zakładach można przyjmować tylko w kasach znajdujących się na torach wyścigowych lub utworzonych poza ich obrębem za zezwoleniem Ministra Państwowych Gospodarstw Rolnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Stawki na daną gonitwę można przyjmować tylko w przeddzień tej gonitwy oraz w dniu gonitwy aż do sygnału, oznaczającego zamknięcie kas wzajemnych zakładów na daną gonitwę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Przedsiębiorstwo państwowe, urządzające wy- Ścigi konne, zwane dalej Przedsiębiorstwem, może wyłączać:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_3/pkt_1",
+       "text": "poszczególne rodzaje wzajemnych zakładów w niektórych lub wszystkich gonitwach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_3/pkt_2",
+       "text": "wszelkie wzajemne zakłady w poszczególnych gonitwach,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_3/pkt_3",
+       "text": "poszczególne konie ze wzajemnych zakładów w poszczególnych lub wszystkich gonitwach.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Wysokość stawki zasadniczej w zakładach wzajemnych określa Przedsiębiorstwo.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Na dowód wpłacenia stawki i zawarcia wzajemnego zakładu wydane zostaje pokwitowanie w postaci biletu lub odcinka kontrolnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Stawki można przyjmować w następujących odrębnych -rodzajach wzajemnych zakładów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "na konia, który uzyska pierwsze miejsce w gonitwie (zakład zwyczajny),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "na konia, który uzyska w gonitwie pierwsze lub \"_ drugie miejsce, jeżeli w gonitwie mają wziąć udział co najmniej cztery konie, albo pierwsze, drugie lub trzecie miejsce, jeżeli w gonitwi- ma wziąć udział co najmniej siedem koni (zakład francuski),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "na dwa konie, które uzyskają w gonitwie pierwsze i drugie miejsce, jeżeli w gonitwie ma wziąć udział trzy lub więcej koni (zakład porządkowy),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_4/ust_1/pkt_4",
+       "text": "na dwie lub trzy. gonitwy, lecz nie więcej, niż na jednego konia w gonitwie (zakład łączny).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Przedsiębiorstwo określa w programie oficjalnym wyścigów gonitwy, w których mogą być przyjmowane zakłady łączne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przy wzajemnych zakładach za konie mające wziąć udział w gonitwie uważa się nie wyłączone ze wzajemnych zakładów konie, wykazane w programie dziennym wyścigów po terminie ustalonym dla wycofania koni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Kolejność miejsc, uzyskanych w gonitwie przez poszczególne konie, określa się dla zakładów wzajemnych według kolejności, w jakiej minęły celownik konie, przy uwzględnieniu tylko koni nie wyłączonych z tych zakładów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_4/ust_5",
+     "text": "Uważa się, że pierwsze miejsce uzyskał koń, który w gonitwie minął prawidłowo celownik, nie będąc wyprzedzony przez inne konie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_4/ust_6",
+     "text": "Kolejność miejsc, które zajęły dalsze konie, wyraża się liczbą następną po liczbie, oznaczającej ilość koni, które wyprzedziły te konie. ‘§ 5. W zakładach porządkowych stawia się na to, że:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_6/pkt_1",
+       "text": "w gonitwach, w których ma wziąć udział” trzy, cztery lub pięć koni, wskazane przez stawiającego dwa konie uzyskają pierwsze lub pierwsze i drugie miejsce, mijając celownik w kolejności, określonej przez stawiającego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_6/pkt_2",
+       "text": "w gonitwach, w których ma wziąć udział sześć lub więcej koni, wskazane przez stawiającego dwa konie uzyskają w gonitwie pierwsze lub pierwsze i drugie miejsce w jakiejkolwiek kolejności. § 6. Zakłady łączne składają się z dwóch samodzielnych odrębnych rachunkowo grup: grupa I na dwie gonitwy, grupa II na trzy gonitwy. § 7. W zakładach zwyczajnych zakład jest wy-",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "grany:"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_6/pkt_1",
+       "text": "jeżeli koń, wskazany przez stawiającego, uzyskał w gonitwie pierwsze miejsće,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_6/pkt_2",
+       "text": "jeżeli pierwsze miejsce uzyskał koń, należący do tej samej stajni wyścigowej, co koń, wskazany przez stawiającego, pod warunkiem, że wskazany przez niego koń stawił się do startu, nie został zwolniony z dyspozycji startera i nie został na starcie.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "W zakładach francuskich: zakład. jest - wy-. grany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "w gonitwach, w których miały wziąć udział co najmniej cztery konie, jeżeli kom wskazany przez stawiającego uzyskał w gonitwie pierwsze lub: drugie miejsce,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "w gonitwach, w których miało wziąć udział co najmniej siedem koni, jeżeli koń wskazany przez stawiającego uzyskał w gonitwie pierwsze, drugie lub trzecie miejsce. §9. W zakładach porządkowych zakład jest wy-",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "w gonitwach, w których miało wziąć udział trzy, cztery lub pięć koni:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_8/pkt_1/lit_a",
+       "text": "jeżeli konie wskazane przez stawiającego uzyskały w gonitwie pierwsze miejsce,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "v",
+       "path": "par_8/pkt_1/lit_v",
+       "text": "jeżeli konie wskazane przez stawiającego uzyskały w gonitwie pierwsze lub drugie miejsce, mijając celownik w kolejności przezeń wskazanej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_8/pkt_1/lit_c",
+       "text": "jeżeli konie wskazane przez stawiającego należące do jednej stajni wyścigowej uzyskały w gonitwie pierwsze i drugie miejsce, mijając celownik w jakiejkolwiek kolejności,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_8/pkt_2",
+     "text": "w gonitwach, w których miało wziąć udział sześć lub więcej koni:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_8/pkt_2/lit_a",
+       "text": "jeżeli konie wskazane przez stawiającego uzyskały w gonitwie pierwsze miejsce,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_8/pkt_2/lit_b",
+       "text": "jeżeli konie wskazane przez stawiającego uzyskały w gonitwie pierwsze i drugie miejsce, mijając celownik w jakiejkolwiek kolejności.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "W zakładach łącznych zakład jest wygrany, jeżeli wszystkie wskazane przez stawiającego w danej grupie konie (§ 4 ust. 1 pkt 4 i § 6) zajęły pierwsze miejsce.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "W przypadku, gdy 1 nie ma wygranego zakładu, odpowiadającego warunkowi wymienionemu w ust. 1, wygrane są te zakłady, w których wskazano największą ilość koni uzyskujących pierwsze miejsce.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "W. zakładach łącznych przepis § 7 pkt 2 stosuje się odpowiednio. § 11. Zwraca się wszystkie stawki:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_3/pkt_1",
+       "text": "w zakładach zwyczajnych, francuskich i porządko - „. „wych. jeżeli gonitwa jest nieważna,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "w zakładach łącznych, jeżeli wszystkie objęte. grą 2 RY były nieważne. ; Zwraca się wszystkie stawki: 1).w zakładach zwyczajnych, jeżeli nie przyjęto ani jednej stawki na konia, który .uzyskał pierwsze miejsce w. gonitwie, jak również na żadnego z koni, należących do tej samej stajni wyścigowej,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "w zakładach francuskich, jeżeli na żadnego z koni, które w gonitwie uzyskały płatne miejsce, nie przyjęto ani jednej stawki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_3/pkt_3",
+       "text": "w zakładach porządkowych, jeżeli tylko jednemu koniowi przyznano w gonitwie płatne miejsce lub jeżeli na kombinację wygrywającą zakład. nie przyjęto ani jednej stawki.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Zwraca się stawki przyjęte w zakładach zwyczajnych na konia:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "który nie stawił się do 'startu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "który został zwolniony z dyspozycji startera, .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_1/pkt_3",
+       "text": "który został na starcie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_13/ust_1/pkt_4",
+       "text": "który został zdyskwalifikowany, z wy. jątkiem przypadku, gdy przyznanc pierwsze miejsce innemu koniowi z tej samej stajni wyścigowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Zwraca się stawki przyjęte w zakładach francuskich na konia, co do którego zaszła okoliczność, wymieniona w.ust. 1 pkt 1, 2 lub 3, lub jeżeli koń został zdyskwalifikowany. przyjęte w zakładach po- 3.-. Zwraca się stawki rządkowych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_2/pkt_1",
+       "text": "na kombinacje, w których co do jednege ze wskazanych przez stawiającego koni zaszła okoliczność, wymieniona w ust. 1 pkt 1, 2 lub 3,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_2/pkt_2",
+       "text": "jeżeli którykolwiek ze wskazanych przez stawiającego w danej kombinacji koni został zdyskwalifikowany,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_13/ust_2/pkt_3",
+       "text": "jeżeli zgłoszone kombinacje wskutek zdyskwalifikowania któregokolwiek ze wskazanych przez stawiającego koni nie odpowiadają warunkom, przewidzianym w § 9 dla wygrania zakładu porządkowego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_13/ust_4",
+     "text": "Zwraca się stawki przyjęte w zakładach łącznych:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_4/pkt_1",
+       "text": "jeżeli w pierwszej gonitwie: danej grupy obrachunkowej koń wskazany przez stawiającego:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_13/ust_4/pkt_1/lit_a",
+         "text": "nie stawił się do startu,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_13/ust_4/pkt_1/lit_b",
+         "text": "został zwolniony z dyspozycji startera,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_13/ust_4/pkt_1/lit_c",
+         "text": "zesłał na starcie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_13/ust_4/pkt_1/lit_d",
+         "text": "został zdyskwalifikowany, z wyjątkiem przypadku, gdy przyznano pierwsze miejsce innemu * koniowi z tej samej stajni wyścigowej, -",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_4/pkt_2",
+       "text": "jeżeli w którejkolwiek z następnych gonitw danej grupy obrachunkowej zaszła jakakolwiek z okoliczności, wymienionych w pkt 1, a we wszystkich poprzednich gonitwach tejże grupy obrachunkowej wskazane przez stawiającegc konie żajęły pierwsze miejsce.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_13/ust_5",
+     "text": "Zwrot stawek w przypadkach, przewidzianych w ust. 4; skutkuje unieważnienie zakładu. § 14. Wszystkie przyjęte stawki nie podlegające zwrotowi należy zsumować dla każdego rodzaju wzajemnych zakładów (§ 4) oddzielnie i od tych sum dokonać odliczeń przewidzianych w obowiązujących przepisach; resztę: tych sum przeznacza się na: wygrane w każdym rodzaju wzajemnych zakładów oddzielnie. § 15. Wszystkie stawki wzajemnych zakładów w danej miejscowości powinny być wzięte do wspólnego ebrachunku w każdym rodzaju gry.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "Obliczenia wygranych w zakładach zwyczajnych dokonywa się w sposób następujący:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_16/pkt_1",
+     "text": "sumę przeznaczoną na wygrane (§ 14) należy podżielić przez liczbę stawek zasadniczych przyjętych na konia, który uzyskał pierwsze miejsce w gonitwie, w przypadku zaś, gdy miejsce takie uzyskał jeden z kilku koni tej samej stajni wyścigowej (§ 7 pkt 2) — przez liczbę stawek zasadniczych, przyjętych na wszystkie konie tej samej stajni; otrzymany iloraz stanowi wygraną odpowiadającą stawce zasadniczej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_16/pkt_2",
+     "text": "jeżeli dwa lub więcej koni przyjdzie na pierwszym miejscu — sumę wszystkich stawek przyjętych na te konie należy odjąć od sumy przeznaczonej na wygrane (§ 14), otrzymaną resztę należy podzielić na tyle równych części, ile koni.zajęło pierwsze miejsce, a każdą z tych części podzielić przez. liczbę stawek zasadniczych, przyjętych na każdego z tych koni; otrzymane ilorazy po dodaniu stawki zasadniczej stanowią wygrane odpowiadające tej stawce.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Obliczenia wygranych w zakładach francu= skich. dokonywa się w sposób następujący:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "sumy wszystkich stawek w zakładach wygranych należy odjąć od sumy przeznaczonej na wygrane (§ 14), otrzymaną resztę 'należy. podzielić na dwie „lub trzy równe części, zależnie od ilości płatnych",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "m AOR Ż Dziennik Ustaw Nr 53"
+      },
+      {
+       "type": "text",
+       "text": "e"
+      },
+      {
+       "type": "text",
+       "text": "miejsc w gonitwie; każdą z otrzymanych w ten sposób ezęści podzielić przez liczbę stawek zasadniczych, przyjętych na każdego z koni, które uzyskały płatne miejsce; otrzymane ilorazy po dodaniu stawki zasadniczej stanowią wygrane odpowiadające tej stawce, ."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "jeżeli koń wskazany przez stawiającego uzyskał płatne miejsce głowa w głowę z innymi końmi — sumę przypadającą na to miejsce z podziału, dokonanego w myśl pkt 1, należy podzielić na tyle równych części, ile koni uzyskało to miejsce; każdą z otrzymanych w ten sposób części należy podzielić przez liczbę stawek zasadniczych, przyjętych na każdego z koni, które uzyskały to miejsce; otrzymane ilorazy po dodaniu stawki zasadniczej stanowią wygrane odpowiadające tej stawce,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_17/pkt_3",
+     "text": "jeżeli z jakiegokolwiek powodu przyznano mniejszej liczbie koni płatne miejsce, niż przypadało w danej gonitwie, lub jeżeli na jednego albo na dwa konie, które przyszły na płatnych miejscach, nie przyjęto ani jednej stawki, to odpowiednio zmniejsza się ilość części, na które w myśl pkt 1 należy podzielić sumę przeznaczoną na wygrane. § 18. Obliczenia wygranych w zakładach porządkowych dokonywa się w sposób. następujący:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_17/pkt_1",
+     "text": "sumę przeznączoną na wygrane (§ 14) należy podzielić przez liczbę stawek zasadniczych w zakładach (§ 9); otrzymany iloraz stanowi wygraną odpowiadającą stawce zasadniczej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_17/pkt_2",
+     "text": "w przypadku, gdy w gonitwie konie wskazane przez stawiającego uzyskały pierwsze miejsce wraz z innymi końmi głowa w głowę lub gdy:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_17/pkt_2/lit_a",
+       "text": "w gonitwie, określonej w § 5 pkt 1, koń wskazany przez stawiającego jako pierwszy uzyskał pierwsze miejsce, a koń wskazany jako drugi uzyskał drugie miejsce głowa w głowę,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_17/pkt_2/lit_b",
+       "text": "w gonitwie, określonej w § 5 pkt 2, jeden „z dwóch koni, wskazanych przez stawiającego, uzyskał pierwsze miejsce, a drugi koń uzyskał drugie miejsce głowa w głowę, sumę. wszystkich stawek w zakładach wygranych? należy odjąć od sumy przeznaczonej na wygrane (§ 14), a otrzymaną resztę podzielić na tyle części, ile było kombinacji wygrywających zakład; każdą z tych części należy podzielić przez liczbę stawek zasadniczych. w każdej kombinacji . wygrywającej - zakład; otrzymane ilorazy po dodaniu stawki zasadniczej stanowią wygrane odpowiadające tej stawce.",
+       "children": [
+        {
+         "type": "text",
+         "text": "9.19. 1. „Obliczenia wygranych w zakładach łącz- \"nych dokonywa się w ten sposób, że sumę przeznaczoną na wygrane (§ 14) należy podzielić przez liczbę wygranych stawek zasadniczych, przyjętych na daną grupę obrachunkową (§ 6); otrzymany iloraz stanowi wygraną edpowiadającą stawce zasadniczej. \"2. Jeżeli w poszczególnej grupie obrachunkowej (§ 6) przyjdą w gonitwie na pierwszym miejscu (głowa w głowę) konie, uwzględnione w wygranych kombinacjach, sumę wszystkich stawek, przyjętych na te kombinacje, należy odjąć od sumy, przeznaczonej na wygrane (§ 14), otrzymaną resztę należy podzielić na tyle równych części, ile było wygrywających kombinacji, a każdą z tych części podzielić przez liczbę stawek zasadniczych, przyjętych na każdą z tych kombinacji; otrzymane ilerazy po dodaniu stawki zasadniczej stanowią wygraną odpowiadającą tej stawce. Jeżeli jednak zaistnieje przypadek, że w. dwóch lub więcej gonitwach przyjdzie dwa lub więcej koni głowa w głowę na pierwszym miejscu, wówczas należy uwzględnić przy obliczeniu wygranych tylko ostatni w grupie obrachunkowej przypadek przyjścia koni głowa w głowę."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Jeżeli kombinacje uwzględniające konie, co do których spełniony został warunek określony w § 7 ust. 2, różnią się tylko tym, że występują w nich inne konie tej samej stajni wyścigowej — traktuje się je jako jedną kombinację. ;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Końcówki groszowe wygranych zaokrągla się do 1 zł w ten sposób, że końcówki większe od 75 gr zastępuje się 1 zł, uzupełniając wygrane z funduszów Przedsiębiorstwa, końcówki zaś równe 75 gr i mniejsze skreśla się, a powstałe stąd sumy przeznacza się na dobro Przedsiębiorstwa,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Wygrane odpowiadające stawce wyższej niż zasadnicza stanowią wielokrotność wygranej, odpowiadającej stawce zasadniczej,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Wygrana nie może być niższa od stawki zasadniczej; niezbędne uzupełnienia będą pokryte z funduszów Przedsiębiorstwa. § 21. 1. Ustalenie kolejności miejsc miarodajne dla wypłat we wzajemnych zakładach następuje Po sygnale, oznaczającym zakończenie ważenia jeźdźców w gonitwie. W przypadku zdyskwalifikowania konia na skutek orzeczenia komisji technicznej zwraca'się stawki za konia zdyskwalifikowanego (§ 13), a wypłaca się wygrane za konia, któremu przyznano płatne miejsce.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Na znak, iż kolejność przyznanych miejsc płatnych obowiązująca dla wypłat we wzajemnych zakładach jest ostatecznie ustalona, przy numerach wywieszcnych na słupie przy celowniku umieszcza się zieloną chorągiew.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Wypłata wygranych dokonana będzie po otrzymaniu od przewodniczącego komisji technicznej zawiadomienia, » na wypłacenie wygranych zezwala. 3 22. Wypłata wygranych dokonywana będzie wyłącznie > rąk okaziciela biletu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Wypłata wygranych w poszczególnych gonitwach lub grupach obrachunkowych gonitw dokonywana będzie w kasach wzajemnych zakładów w dniu odbycia tych gonitw i tylko do chwili zamknięcia kas. Nie odebrane w tym dniu wygrane będą wypłacane w terminie 7 dni, licząc od dnia następnego po dniu, w którym odbyła się dana gonitwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "par_20/ust_8",
+     "text": "Bilety, uszkodzone w sposób uniemożliwiający stwierdzenie ich autentyczności, nie będą przyjmowane do wypłaty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_20/ust_4",
+     "text": "Bilety, uszkodzone w inny sposób, niż określony w ust. 3, i okazane do wypłaty w ciągu 7 dni od dnia następnego po dniu, w którym odbyła się dana gonitwa, mogą być przyjmowane do wypłaty wyłącznie w terminie 3 dni po upływie okresu siedmiodniowego, ustalonego dla wypłaty wygranych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_20/ust_5",
+     "text": "Terminy powyższe są ostateczne i po ich upływie żadne reklamacje nie będą przyjmowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_20/ust_6",
+     "text": "Nie podjęte wygrane przechodzą na rzecz Przedsiębiorstwa. p § 23. 1. Osoby biorące udział w zakładach wzajemnych obowiązane są sprawdzić przed odejściem od kasy, czy nabyte bilety są zgodne z ich poleceniem.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Reklamacje co do sum wypłaconych z tytułu wygranych zakładów mogą być zgłaszane tylko de chwili odejścia od kasy wypłat.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "W zakładach francuskich i porządkowych:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_24/pkt_1",
+     "text": "ilość płatnych miejsc i wygrywających kombinacji jest uzależniona od ustalenia po terminie dla wycofania koni przez właściwy organ, określony w prawidłach wyścigowych, ile koni ma wziąć udział w gonitwie,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_24/pkt_2",
+     "text": "wycofanie po tym ustaleniu jednego lub więcej ko-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ni z liczby mających wziąć udział w gonitwie pozo- „staje bez wpływu na ilość płatnych miejsc i wygrywających kombinacji."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Traci moc rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 14 sierpnia 1947 r. o warunkach funkcjonowania i organizacji wzajemnych za-",
+   "children": [
+    {
+     "type": "text",
+     "text": "kładów (totalizatora) (Dz. U. R. P. Nr 59, poz. 323). § 26. Rozporządzenie wchodzi w życie z dniem ogłoszenia."
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Państwowych Gospodarstw Rolnych: w z. St. Tkaczów"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

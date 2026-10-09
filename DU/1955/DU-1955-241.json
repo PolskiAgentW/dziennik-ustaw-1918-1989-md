@@ -1,0 +1,70 @@
+{
+ "eli": "DU/1955/241",
+ "title": "Dekret z dnia 27 września 1955 r. o zmianie dekretu z dnia 4 marca 1953 r. o uzupełnieniu przepisów karnych w sprawach o niewykonanie dostaw obowiązkowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1955/241/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 27 września 1955 r. 0 zmianie dekretu z dnia 4 marca 1953 r. o uzupełnieniu przepisów karnych w sprawach o niewykonanie dostaw obowiązkowych."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W dekrecie z dnia 4 marca 1953 r. o uzupełnieniu przępisów karnych w sprawach o niewykonanie dostaw obowiązkowych (Dz. U. Nr 14, poz. 55) wprowadza się nastepującę zmiany: 1)|w art. 1 dodaje się ust. 3 w brzmieniu: : „3. Kolegium przy prezydium powiatowej rady narodowej a 2 i e może zaniechać ustalenia w orzeczeniu zastępczej kary aresztu w przypadkach, kiedy:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "art_1/lit_a",
+     "text": "w gospodarstwie nie ma poza obwinionym członka rodziny zdolnego do pracy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "art_1/lit_b",
+     "text": "obwiniony ma powyżej 65 lat, jest alee: inwalidą lub dotknięty jest przewlekłą chorobą,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "obwiniona jest wdową obarczoną dziećmi w wieku poniżej 14 lat, jeżeli SĘ matki nad nimi jest bezwzględnie konieczna.\"",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 2 dodaje się ust. 4 w brzmieniu: „4. Kolegium przy prezydium powiatowej rady narodowej może zarządzić niewykonanie zastępczej kary aresztu, jeżeli przed wykonaniem jej ukarany wykonał obowiązek dostawy w całości. W przypadku odwołania \"uprawnienia te przysługują kolegium przy prezydium wojewódzkiej rady narodowej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Dekret wchodzi w życie z dniem ogłoszenia g> Przewodniczący Rady Państwa: A. Zawadzki Sekretarz Rady Państwa: M. Rybicki",
+   "children": [
+    {
+     "type": "text",
+     "text": ";"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

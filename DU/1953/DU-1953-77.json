@@ -1,0 +1,183 @@
+{
+ "eli": "DU/1953/77",
+ "title": "Dekret z dnia 25 marca 1953 r. o utworzeniu urzędu Ministra Skupu.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1953/77/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 marca 1953 m w"
+  },
+  {
+   "type": "text",
+   "text": "e utworzeniu urzędu Ministra Skupu."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Tworzy się urząd Ministra Skupu.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Zakres działania Ministra Skupu obejmuje sprawy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "planowania, organizowania i nadzorowania:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_2/pkt_1/lit_a",
+       "text": "obowiązkowych dostaw oraz kontraktacji i skupu nadwyżek ponadobowiązkowych zbóż, ziemniaków, zwierząt rzeźnych i mleka,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_2/pkt_1/lit_b",
+       "text": "przemiału zbóż i zbytu przetworów zbożowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_2/pkt_1/lit_c",
+       "text": "skupu, przetwórstwa i zbytu pasz;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "ogólnej koordynacji i kontroli przebiegu kontraktacji i skupu artykułów rolnych i hodowlanych;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "ogólnego kierownictwa podległych przedsiębiorstw.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 3. Rada Ministrów w drodze rozporządzenia określi szczegółowy zakres działania Ministra Skupu w dziedzinie ogólnej koordynacji i kontroli przebiegu kontraktacji i skupu artykułów rolnych i hodowlanych (art. 2 pkt 2)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Minister Skupu może wstrzymać wykonanie uchwał, zarządzeń i decyzji terenowych organów administracji państwowej lub jednostek gospodarki uspołecznionej, o ile są sprzeczne z obowiązującym ustawodawstwem lub uchwałami Rządu Polskiej Rzeczypospolitej Ludowej o obowiązkowych dostawach, kontraktacji i skupie — zawiadamiając o tym równocześnie właściwy nadrzędny organ administracji państwowej w celu podjęcia niezbędnych środków.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Terenowymi organami Ministerstwa Skupu są wojewódzcy i powiatowi pełnomocnicy oraz gminne delegatury Ministerstwa Skupu,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Organy terenowe Ministerstwa Skupu są obowiązane do ścisłej współpracy z prezydiami rad narodowych. Prezydia rad narodowych są obowiązane do udzielania organom terenowym Ministerstwa Skupu pomocy przy wykonywaniu ich zadań,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Organy terenowe Ministerstwa Skupu podlegają kontroli społecznej rad narodowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 6, Rada Ministréw ustali w drodze rozporządzenia:"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_3/lit_a",
+       "text": "zakres działania, uprawnienia i obowiązki terenowych organów Ministerstwa Skupu,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_3/lit_b",
+       "text": "podział kompetencji i zakres współpracy między prezydiami rad narodowych a terenowymi organami Ministerstwa Skupu. „Art. 7. Rada Ministrów określi wewnętrzną organizację Ministerstwa Skupu i jego organów terenowych. Art, 8, 1. Znosi się Centralny Urząd Skupu i Kontraktacji.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Sprawy wymienione w art, 2 pkt 1, a należące dotychczas do zakresu działania Prezesa Rady Ministrów, Centralnego Urzędu Skupu i Kontraktacji oraz jego organów terenowych, przechodzą do zakresu działania Ministra Skupu i jego organów terenowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art 9. Pracownicy zatrudnieni w dniu wejścia w Życie dekretu w Centralnym Urzędzie Skupu i Kontraśtacji oraz w jego organach terenowych przechodzą do służby w Ministerstwie Skupu i jego organach terenowych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "10",
+   "path": "art_10",
+   "text": "Traci moc ustawa z dnia 25 maja.1951 r. e utworzeniu Centralnego Urzędu Skupu i Kontraktacji (Dz. U. Nr 30, poz. 234),",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "Wykonanie dekretu porucza się Prezesowi Rady Ministrów, Ministrowi Skupu i właściwym ministrom.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Dekret wchodzi w życie z dniem ogłosze»"
+    },
+    {
+     "type": "text",
+     "text": "Art. 12, nią."
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Państwa: A. Zawadzki Sekretarz Rady Państwa: M, Rybicki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

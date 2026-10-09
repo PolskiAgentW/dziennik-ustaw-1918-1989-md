@@ -1,0 +1,492 @@
+{
+ "eli": "DU/1952/19",
+ "title": "Rozporządzenie Rady Ministrów z dnia 10 stycznia 1952 r. w sprawie zasad i trybu likwidacji przedsiębiorstw państwowych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1952/19/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 stycznia 1952 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad i trybu likwidacji przedsiębiorstw państwowych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 21 ust. 4 dekretu z dnia 26 października 1950 r. o przedsiębiorstwach państwowych (Dz. U. R. P. Nr 49, poz, 439) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Likwidacja przedsiębiorstwa państwowego ma na celu zakończenie jego działalności operatywnej oraz ściągnięcie wierzytelności, wypełnienie zobowiązań i upłynnienie środków obrotowych przedsiębiorstwa, z uwzględnieniem należytego zagospodarowania środków trwałych przedsiębiorstwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zarządzenie o likwidacji przedsiębiorstwa państwowego powinno zawierać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "wskazanie podstawy prawnej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "oznaczenie przedsiębiorstwa podlegającego likwidacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "oznaczenie dnia otwarcia likwidacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "wyznaczenie likwidatora,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "ustalenie terminu zakończenia działalności operatywnej (produkcyjnej, usługowej, handlowejj przedsiębiorstwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Na likwidatora przedsiębiorstwa wyznacza się w. zasadzie inne przedsiębiorstwo państwowe podlegające tej samej władzy, której podlega przedsiębiorstwo likwidowane. Na likwidatora może być wyznaczona także inna osoba prawna lub osoba fizyczna.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "1 Przedsiębiorstwo w likwidacji prowadzi się pod jego dotychczasową nazwą z dodaniem wyrazów „w likwidacji\".",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Do przedsiębiorstwa w okresie likwidacji stosuje się odpowiednio przepisy dekretu z dnia 26 października 1950 r. o przedsiębiorstwach państwowych (Dz. U. R. P. Nr 49, poz. 439), przy czym przepisy określające prawa i obowiązki dyrektora stosuje się odpowiednio do likwidatora.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Osoba prawna wyznaczona na likwidatora składa oświadczenia woli w imieniu przedsiębiorstwa w li- „kwidacji z zachowaniem przepisów dotyczących składania oświadczeń woli w imieniu tej osoby prawnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_4/ust_4",
+     "text": "Z dniem otwarcia likwidacji wygasają wszelkie upoważnienia pełnomocników przedsiębiorstwa w likwidacji, udzielone przed tym dniem.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Likwidator niezwłocznie po wyznaczeniu go powinien:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_5/pkt_1",
+     "text": "zgłosić do rejestru przedsiębiorstw państwowych wniosek o wpisanie otwarcia likwidacji przedsiębiorstwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_5/pkt_2",
+     "text": "powiadomić banki finansujące eksploatację i inwestycie przedsiębiorstwa oraz właściwe organy finansowe o otwarciu likwidacji,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_5/pkt_3",
+     "text": "ogłosić w Monitorze Polskim zawiadomienie o otwarciu likwidacji przedsiębiorstwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_5/pkt_4",
+     "text": "przystąpić do sporządzenia bilansu na dzień otwarcia likwidacji oraz projektu listy zobowiązań przedsiębiorstwa,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_5/pkt_5",
+     "text": "sporządzić plan finansowy likwidacji (plan pokrycia kosztów działalności operatywnej przedsiębiorstwa w czasie likwidacji oraz kosztów likwidacji).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Bilans na dzień otwarcia likwidacji należy sporządzić w myśl przepisów o zasadach bilansowania w terminie określonym przez władzę, której podlega przedsiębiorstwo w likwidacji, nie przekraczającym jednak terminu 3 miesięcy od dnia otwarcia likwidacji. Termin ten może być w przypadkach wyjątkowych przedłużony za zgodą Ministra Finansów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Projekt listy zobowiązań sporządza się na podstawie ksiąg przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Projekt listy zobowiązań powinien obejmować następujące dane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_7/ust_2/pkt_1",
+       "text": "imię i nazwisko (nazwę) i adres (siedzibę) wierzyciela,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_7/ust_2/pkt_2",
+       "text": "wysokość zobowiązania pieniężnego, termin jego płatności albo wartość zobowiązania niepieniężnego,",
+       "children": [
+        {
+         "type": "text",
+         "text": ". 8) podstawę (tytuł) zobowiązania, . 4) stan sprawy, jeżeli ustalenie zobowiązania lub jego wysokość jest przedmiotem postępowania sądowego lub arbitrażowego."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Nie podlegają wpisaniu na listę te zobowiązania, które uległy przedawnieniu lub które nie mogą być dochodzone w postępowaniu sądowym lub arbitrażowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "Władza, której przedsiębiorstwo podlega, Zatwierdza projekt listy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "par_7/ust_5",
+     "text": "O zatwierdzeniu listy zobowiązań należy zawiadomić wierzycieli przez ogłoszenie o tym w Monitorze Polskim. Przewodniczący Państwowej Komisji Planowania Gospodarczego, w drodze zarządzenia, wydanego w porozumieniu z Ministrem Handlu Zagranicznego, może ustalić ponadto inny sposób zawiadamiania wierzycieli przedsiębiorstwa w likwidacji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "W terminie dwumiesięcznym, a w odniesieniu do wierzycieli mających siedzibę za granicą — w terminie trzymiesięcznym, od dnia zawiadomienia o zatwierdzeniu listy zobowiązań wierzyciele, nie wpisani na listę lub których wierzytelności zostały wpisane na listę jedynie częściowo, mogą żądać wp'sania ich na listę lub uzupełnienia wysokości ich wierzytelności. Wniosek w tym przedmiocie powinien zawierać dane określone w § 7 ust. 2 oraz powinien być udowodniony odpowiednimi dokumentami.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "_ 2. Po sprawdzeniu wniosku i dowodów wierzytelności likwidator uznając przedłożone dowody za niedostateczne odmawia wpisania na listę bądź też za zgodą władzy, której przedsiębiorstwo podlega, wciąga je na listę lub uzupełnia tę listę. O odmowie wpisania na listę zobowiązań zawiadamia się wierzyciela listem poleconym. Likwidator nie może odmówić wp 'sania na listę zobowiązań wierzytelności opartych na wykonalnych tytułach egzekucyjnych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Zobowiązanie ulega wpisaniu na listę jako sporne, jeżeli wierzyciel w terminie miesięcznym od dnia doręczenia zawiadomienia o odmowie wpisania na listę (ust. 2) przedstawi likwidatorowi dowód o toczącym się postępowaniu sądowym lub arbitrażowym o tę należność.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Bieg przedawnienia lub terminu przewidzianego w obowiązujących przepisach dla dochodzenia roszczeń w drodze postępowania sądowego lub arbitrażowego względem wierzycieli przedsiębiorstwa w likwidacji nie rozpoczyna się, a rozpoczęty ulega zawieszeniu:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_9/lit_a",
+     "text": "w czasie od dnia ogłoszenia zawiadomienia o otwarciu likwidacji do dnia zawiadomienia o zatwierdzeniu listy zobowiązań, a ponadto",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_9/lit_b",
+     "text": "względem wierzycieli, którzy w terminie przewidzianym w $ & zgłosili żądanie wpisania ich na listę lub uzupełnienia wysokości ich wierzytelności — do dnia zawiadomienia tych wierzycieli o odmowie wpisania na listę zobowiązań lub uzupełnienia wysokości ich wierzytelności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Władza, której przedsiębiorstwo podlega, zatwierdza bilans.",
+   "children": [
+    {
+     "type": "text",
+     "text": "6 11. 1. W terminie miesiąca od dnia zatwierdzenia bilansu na dzień otwarcia likwidacji oraz listy zobowiązań przedsiębiorstwa likwidator sporządza projekt planu likwidacji."
+    },
+    {
+     "type": "text",
+     "text": "9 Projekt planu likwidacji składa się z:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "planu upłynnienia środków obrotowych,",
+     "children": [
+      {
+       "type": "text",
+       "text": "\"2) planu zaspokojenia zobowiązań wpisanych na listę."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_10/ust_3",
+     "text": "Do projektu planu likwidacji dołącza się:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_3/pkt_1",
+       "text": "wykaz upłynnionych do dnia sporządzenia planu środków obrotowych wraz ze sprawozdaniem co do stanu nie upłynnionych środków obrotowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_3/pkt_2",
+       "text": "wvkaz zaspokojenych do dnia sporządzenia planu zobowiązań wpisanych na listę wraz ze sprawozdaniem co do stanu nie zaspokojonych zobowiązań,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_3/pkt_3",
+       "text": "wykaz ściągniętych do dnia sporządzenia planu wierzytelności przedsiębiorstwa wraz ze sprawozdaniem co do stanu nie zrealizowanych wierzytelności,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_10/ust_3/pkt_4",
+       "text": "wvkaz środków trwałych wraz z wnioskami co do ich należytego zagospodarowania.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_12/ust_1",
+     "text": "Plan upłynnienia środków obrotowych powinien określać rodzaj, wysokość, sposób i terminy upłynnienia tych środków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_12/ust_2",
+     "text": "Plan zaspokojenia określa terminy zaspokojenia -zobowiązania oraz źródła ich pokrycia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "a ię) geil d+aiPoz. 19"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Władza, której przedsiębiorstwo podlega, za zgodą Ministra Finansów zatwierdza plan likwidacj , a w tym również termn jej zakończenia,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Minister Finansów określi w drodze instruxcji sposób sporządzania planu likwidacji.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Umowy, których przedsiębiorstwo wykonać nie może lub których wykonanie jest z uwagi na toczącą się likwidację gospodarczo niecelowe, powinny być przekazane do wykonania przez inną państwową jednostkę gospodarczą, wskazaną przez władzę, której podlega przedsiębiorstwo w porozumieniu z władzą, której podlega jednostka obowiązana do wykonania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_15/ust_2",
+     "text": "Jeżeli przekazanie, o którym mowa w ust. 1, nie może być dokonane, przedsiębiorstwo może za zgodą władzy, której podlega, odstąpić od umowy bez obcwiązku zapłaty kary; kary umowne będą się jednak należeć na zasadach ogólnych, jeżeli zwłoka w wvxonaniu umowy powstała przed dniem otwarcia likwidacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_15/ust_3",
+     "text": "W przypadku odstąpienia od umowy przedsiębiorstwo w likwidacji obowiązane jest zwrócić stronie przeciwnej poniesione przez nią koszty dla wykonania",
+     "children": [
+      {
+       "type": "text",
+       "text": "umowy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_15/ust_4",
+     "text": "Przepisów ust. 2 i 3 nie stosuje się do umów zawartych przez przedsiębiorstwa państwowe z kontrahentami zagranicznymi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "$.16 Wierzytelności i zobowiązania pieniężne przedsiębiorstwa, płatne po dniu ukończenia likwidacji, ulegają przekazaniu państwowej jednostce gospodarczej wskazanej przez władzę, której podlega przedsiębiorstwo likwidowane."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "Zobowiązania z tytułu rent za nieszczęśliwe wypadki należne od przedsiębiorstwa w likwidacji będą przekazane wraz z odpowiednimi środkami właściwej instytucji ubezpieczeniowej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Plan likwidacji ulega wykonaniu przez li-"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "kwidatora.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_19/ust_1",
+     "text": "Po wykonaniu planu likwidacji likwidator sporządza bilans na dzień ukończenia likwidacji oraz sprawozdanie likwidacyjne i przedstawia je wraz z aktami postępowania -likwidacyjnego władzy, której podlega przedsiębiorstwo. Władza ta w trybie art. 21 ust. 3 dekretu z dnia 26 października 1950 r. (Dz. U. R. P. Nr 49, poz. 439) wydaje decyzję co do uznania przedsiębiorstwa za zlikwidowane oraz określi miejsce przechowywania ksiąg przedsiębiorstwa i aktów likwidacji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "Decyzja w tym przedmiocie podlega zgłoszeniu do rejestru przedsiębiorstw państwowych i stanowi podstawę do wykreślenia przedsiębiorstwa z rejestru.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów, Przewodniczącemu Państwowej Komisji Planowania Gospodarczego i wszystkim ministrom.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

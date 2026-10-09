@@ -1,0 +1,178 @@
+{
+ "eli": "DU/1950/409",
+ "title": "Dekret z dnia 21 września 1950 r. zmieniający ustawę o pokrywaniu opłat w szpitalach, będących zakładami społecznymi służby zdrowia.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/409/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 21 września 1950 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniający ustawę o pokrywaniu opłat w szpitalach, będących zakładami społecznymi służby zdrowia."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej i ustawy z dnia 21 lipca 1950 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 29, poz. 271) — Rada Mi.istrów postanawia, a Rada Państwa zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie z dnia 7 kwietnia 1949 r. o pokrywaniu opłat w szpitalach, będących zakładami społecznymi służby zdrowia (Dz. U. R. P. Nr 25, poz. 174), wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 6 ust. 2 otrzymuje brzmienie: „2. Ulgowe opłaty ponoszą osoby, wymienione w ust. 1, jeżeli przychód szacunkowy z ich gospodarstwa jest wyższy niż 20.000 zł rocznie, a nie przekracza 200.000 zł rocznie. Wysokość opłat ulgowych ustala się w zależności od szacunkowego przychodu rocznego z gospodarstw w sposób następujący:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "przy przychodzie ponad 20.000 zł do 60.000 zł — 300/0 opłety ustalonej dla szpitali powiatowych lub izb porodowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "przy przychodzie ponad 66.000 zł do 120.000 zł— 60°/o opłaty ustalonej dla szpitali powiatowych lub izb porodowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "przy przychodzie ponad 120.000 zł do 200.000 zł — 850/0 opłaty ustalonej dla szpitali powiatowych lub izb porodowych.“;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 6 ust, 3 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„3. Członkowie spółdzielni rolniczo-produkcyjnych, nie podlegający ubezpieczeniu społecznemu, ponoszą opłaty ulgowe za leczenie w szpitalach lub w izbach porodowych w wysokości 30%/0 opłaty, ustalonej dla szpitali powiatowych lub izb poredowych. ';",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "art. 9 otrzymuje brzmienie: „Art. 9. 1. Skarb Państwa pokrywa opłaty szpitalne za osoby:",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "uprawnione do leczenia na koszt Skarbu Państwa z mocy przepisów szczególnych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "chore umysłowo, które utraciły uprawnienie do _ pomocy leczniczej na podstawie przepisów o ubezpieczeniach społecznych wskutek upływu ustawowego okresu po ustaniu stosunku pracy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "podlegające leczeniu przymusowemu w przypadkach chorób zakaźnych i chorób wenerycznych, chyba że są uprawnione do pomocy leczniczej na podstawie przepisów o ubezpieczeniach społecznych bądź na podstawie innych przepisów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Ponadto Skarb Państwa pokrywa w całości opłaty za leczenie osób wymienionych w art. 4 i 6 oraz uprawnionych do opłat ulgowych (art. 6 i 8), jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_1/ust_2/pkt_1",
+       "text": "podlegają leczeniu przymusowemu w przypadkach chorób społecznych z wyjątkiem chorób wenerycznych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/ust_2/pkt_2",
+       "text": "są umieszczone w szpitalach psychiatrycznych jako chore umysłowo .a nie są objęte przepisem ust. 1 pkt 2, i",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/ust_2/pkt_3",
+       "text": "są umieszczone w szpitalach na mocy postanowień władz sądowych i prokuratorskich.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Skarb Państwa pokrywa w całości opłaty za noworodka urodzonego w szpitalu lub w izbie porodowej, jeżeli matka noworodka jest uprawniona do zwolnień lub opłat ulgowych (art. 6 i 8).",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie dekretu porucza się Ministrowi Zdrowia w porozumieniu z Ministrami: Finansów, Pracy i Opieki Społecznej oraz Rolnictwa j Reform Rolnych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret wchodzi w życie z dniem ogłoszenia,",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej: B. Bierut"
+  },
+  {
+   "type": "text",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz Minister Zdrowia: T. Michejda"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: K. Dąbrowski"
+  },
+  {
+   "type": "text",
+   "text": "Minister Pracy i Opieki Społecznej: K. Rusinek Minister Rolnictwa i Reform Rolnych: J. Dab - Kocioł"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

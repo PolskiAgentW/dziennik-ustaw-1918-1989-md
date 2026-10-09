@@ -1,0 +1,93 @@
+{
+ "eli": "DU/1954/243",
+ "title": "Rozporządzenie Rady Ministrów z dnia 11 sierpnia 1954 r. w sprawie utworzenia powiatu ostrzeszowskiego w województwie poznańskim oraz zmiany granic województw łódzkiego i poznańskiego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/243/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 sierpnia 1954 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia powiatu ostrzeszowskiego w województwie poznańskim oraz zmiany granic województw łódzkiego i poznańskiego,"
+  },
+  {
+   "type": "text",
+   "text": "Na podslawie art. 1 ust. 3 i art. 2 ustawy z dnia 4 Intego 1950 r. o dozonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się w województwie posnańskim powiat ostrzeszowski z siedzibą powiatowej rady narodowej w Ostrzeszowie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "W skład nowoutworzonego powiatu ostrzeszowskiego w wojewódziwie poznańskim wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "z powiatu kępińskiego w lymze województwie:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_2/pkt_1/lit_a",
+         "text": "miasta Ostrzeszów i Grabów nad Prosną,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_2/pkt_1/lit_b",
+         "text": "gromady: Bobrowniki, Bukownica, Doruchów, Grabów nad Prosną, Kaliszkowice Kaliskie, Kohylagóra, Kuźnica Myślniewska, Morawin, Niedźwiedź, Parzynów, Rogaszyce, Rojów, Siedlikéw, Torzeniec;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "z powiatu ostrowskiego w tymże województwie miasto Mikstat i gromada Mikstat. §2. Z powiatu wieluńskiego w województwie łódzkim wyłącza się gromady: Dębicze, Czajków, Kraszewice, Kuźnica Grabowska i Mielcuchy i włącza się je do powiatu ostrzeszowskiego w województwie poznańskim. § 3. Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia I października 1954 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: w z. H. Minc"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

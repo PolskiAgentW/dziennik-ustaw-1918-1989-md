@@ -1,0 +1,52 @@
+{
+ "eli": "DU/1954/1",
+ "title": "Dekret z dnia 30 grudnia 1953 r. o zmianie prawa o notariacie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/1/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 grudnia 1953 r"
+  },
+  {
+   "type": "text",
+   "text": "o zmianie prawa o notariacie,"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie z dnia 25 maja 1951 r, Prawo o notariacie (Dz. U. Nr 36, poz. 276) przewidziany w art. 60 termin przedłuża się do dnia 31 grudnia 1954 r.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie dekretu porucza się Ministrowi Sprawiedliwości.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "> Dekret wchodzi w życie złdniem ogłoszenia,",
+   "children": [
+    {
+     "type": "text",
+     "text": ": Przewodniczący Rady Państwa: A. Zawadzki - Sekretarz Rady Państwa: M. Rybicki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

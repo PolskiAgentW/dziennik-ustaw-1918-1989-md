@@ -1,0 +1,915 @@
+{
+ "eli": "DU/1951/283",
+ "title": "Dekret z dnia 30 czerwca 1951 r. o podatku gruntowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1951/283/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 czerwca 1951 r."
+  },
+  {
+   "type": "text",
+   "text": "o podatku gruntowym."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej i ustawy z dnia 26 maja 1951 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 30, poz. 235)— Rada Ministrów postanawia, a Rada Państwa zatwierdza, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Przedmict opodatkowania."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Podatkowi podlegają gospodarstwa rolne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Za gospodarstwo rolne uważa się ogólny obszar gruntów, położonych w jednej gminie, które stanowią własność lub są w posiadaniu:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_1/ust_2/lit_a",
+       "text": "jednej osoby fizycznej lub prawnej bądź",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_1/ust_2/lit_b",
+       "text": "dwóch lub więcej osób fizycznych lub prawnych, a są objęte wspólną ich gospodarką. ,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Za wspólną gospodarkę uważa się gospodarkę rolną, której sposób prowadzenia wskazuje na to, iż stanowi ona jedną całość gospodarczą w szczególności wskutek dokonywania wspólnych zbiorów oraz zaspokajania wspólnych potrzeb z przychodów osiągniętych z gospodarstwa jako z całości.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Obowiązek podatkowy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Obowiązek podatkowy ciąży na osobach fizycznych i prawnych będących właścicielami lub posiadaczami gospodarstw rolnych oraz na masach spadkowych, w skład których wchodzą gospodarstwa rolne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Jeżeli na gospodarstwie rolnym ustanowione zostało prawo użytkowania, obowiązek podatkowy ciąży, na użytkowniku. r",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Minister Finansów w drodze rozporządzenia a w odniesieniu do podmiotów gospodarki uspoiecznionej w drodze zarządzenia może przenieść obowiązek podatkowy na inne osoby, nie odpowiadające warunkom art. 2. Rozporządzenie to lub zarządzenie może określić równocześnie rozmiar obowiązku podatkowego w podatku gruntowym i w innych należnościach opartych o ten podatek oraz sposób ustalania wysokości zobowiązań podatkowych.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_4/ust_1",
+     "text": "Obowiązek podatkowy rozpoczyna się z dniem 1 stycznia tego roku, w którym nastąpiło objęcie w posiadanie gospodarstwa rolnego lub ustały okoliczności faktyczne, uzasadniające eaters od podatku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_4/ust_2",
+     "text": "Obowiązek podatkowy kończy się z upływem tego roku, w ciągu którego ustało posiadanie gospodarstwa rolnego lub powstały okoliczności faktyczne, uzasadniające zwolnienie od podatku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Bla rolniczych spółdzielni produkcyjnych obowiązek podatkowy w odniesieniu do gruntów, przejętych od członków, powstaje z dniem 1 stycznia tego roku, w którym dokonano na przejętych gruntach zespołowych (wspólnych) żniw i zebrano plony na rzecz spółazielni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Dla członków spółdzielni, określonych w ust. 1. w odniesieniu do gruntów, przekazanych przez nich do spółdzielni, obowiązek podatkowy kończy się z chwiłą powstania ebowiązku podatkowego spółdzielni co do t;ch gruntów.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Podstawa opodatkowania."
+      },
+      {
+       "type": "text",
+       "text": "*"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Podstawę opodatkowania stanowi wvra%ony w złotych o76t pożytków gospodarstwa rolnego, osiągniętych w roku podatkowym zarówno z produkcji roślinnej, jak i zwierzęcej (przychód szacunkowy), nie wyłączając przychodów z działów soec'alnych, z wód zamkniętych oraz z innych Źródał, z których przychody nie podlegają podatkowi obrotowemu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przychód szacunkowy i norma przeciętnego przychodu szacunkowego."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "Przychód szacunkowy gospodarstwa rolnego ustala się przez podsumowanie iloczynów uzyskanych z pomnożenia liczby hektarów gospodarstwa w każdej klasie gruntów i dla każdego rodzaju użytków z osobna przez normę przeciętnego przychodu szacunkowego z 1 ha użytków rolnych, właściwą dla danej klasv gruntów, rodzaju użytków oraz miejsca położenia gruntów w obrębie strefy ekonomicznej i okręgu gospodarczego. / 2. Norma przeciętnego przychodu Szacunkowego z 1 hektara użytków rolnych wyraża określony w złotych ogół pożytków przypadających średnio na 1 hektar gruntów w zależności od ich klasy i rodzaju użytków oraz miejsca położenia w strefie ekonomicznej i w o<regu gospodarczym, a uzyskanych z eksploatacji gos- ~odarstwa rolnego nie wyłączając pożytków z działów snecjalnych, jeżeli działv te nie przekraczają rozmiar>w powszechnie przyjętych w tego rodzaju gospodarstwie rolnym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_7/ust_3",
+     "text": "W celu ustalenia norm przeciętnego przychodu szacunkowego z 1 hektara gruntów obszar całego Państwa dzieli się na trzy okręgi gospodarcze, każdy okrę\" zaś na 4 strefy ekonomiczne (miejską, podmiejską, wiejską i wiejską oddaloną), użytki rolne — na cztery rodzaje",
+     "children": [
+      {
+       "type": "text",
+       "text": "(grunty orne, łąki, pastwiska i lasy), a grunty orne, iąki i pastwiska — na 6 kias gruntów."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_7/ust_4",
+     "text": "Rada Ministrów w drodze rozporządzenia corocznie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_7/ust_4/pkt_1",
+       "text": "zalicza każdy powiat do jednego z trzech okręgów gospodarczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_7/ust_4/pkt_2",
+       "text": "ustala wyrażoną w złotych normę przeciókiegó przychodu szacunkowego z 1 hektara gruntów w zależności od ich klasy, rodzaju oraz strefy ekonomicznej i okręgu gospodarczego.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_7/ust_5",
+     "text": "Minister Rolnictwa w porozumieniu z Ministrem Finansów określi w drodze rozporządzenia zasady oraz tryb zaliczania gromad do stref ekonomicznych, biorąc pod uwagę odległość od rynku zbytu, gęstość zaludnienia, uprzemysłowienie miejscowości oraz sieć soraqmalkacyjna.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_7/ust_6",
+     "text": "Dla określenia klasy gruntów miarodajne są dane z operatów katastralnych, sporządzanych na pocstawie przepisów dekretu z dnia 24 września 1947 r. o katastrze gruntowym i budynkowym (Dz. U. R. P. Nr 61, poz. 344) a w braku tvch katastrów — wyniki szacunkowej klasyfikacji gruntów, ustalone przez w!a'- ciwe władze administracji 'rolnej. Minister Rolnictwa ustali zasady i sposób klasyfikacji szacunkowej gr.intów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_7/ust_7",
+     "text": "Przy ustalaniu liczby hektarów gospodarstwa rolnego dla celów opodatxowania bierze się pod uwagę ogólny obszar gruntów zarówno zagoSpodarowanyci jak i nie zagospodarowanych, z wyłączeniem gruntów, zwolnionych od podatku na podstawie art. 9 ust. 1 pat 1 — 5.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Przychody z działów specjalnych, wód zamkniętych i z innych Źródeł,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Za specjalne działy gospodarstwa ro'- nego uważa się w szcżzezólności nasiennictwo, ©egrocnictwo, uprawę kwiatów, uprawę roślin lekars':ich, szkółki drzewek i krzewów, uprawę wikliny, chmiela:- stwo, jedwabnictwo, plantacje tytoniu, pszczelarstwo, łowiectwo, hodowlę ryb oraz inne hodowle, wydobywanie torfu, piasku, żwiru i kamieni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Do przychodu szacunkowego gospodarstwa ro!- nego (art. 7 ust. 1) dolicza się przychód z działów specjalnych, jeżeli działy te prowadzone są w gospodarstwie rolnym w rozmiarach większych niż jest to pow-.. szechnie przyjęte, oraz przychód z wód zamkniętych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Powiatowe rady narodowe i miejskie rady nerodowe miast, stanowiących powiaty miejskie, okrę*- łają corocznie w ramach ustalonych przez Ministra Finansów normy kwalifikowania działów specjalnych, jako prowadzonych w większym rozmiarze, niż jest to powszechnie przyjęte w gospodarstwie rolnym ora” normy szacunkowe przychodów z tych działów i z wóc zamkniętych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Do przychodu szacunkowego gospodarstwa ro'- nego (art. 7 ust. 1) dolicza się nadto przychód osiagnirtv przez podatnika z innych źródeł, z których przychody nie podlegają podatkowi obrotowemu, w szczególności z wykonywanego osobiście lub z udziałem' członków najbliższej rodziny — przemysłu ludowego, domowego, chałupniczego lub sprzedaży własnego zbioru produktów leśnych i łąkowych, ustalony w ramach określonych przez Ministra Finansów; członkami najbliższej rodziny są krewni wstępni i zstępni, ich małżonkowie, rodzeństwo i ich małżonkowie, małżonek oraz rodzice, rodzeństwo i dzieci małżonka.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_8/ust_5",
+     "text": "Minister Finansów w porozumieniu z Ministrem Rolnictwa może zarządzić w poszczególnych latach podatkowych w całym Państwie lub na poszczególnych jego obszarach dla wszystkich lub niektórych grup podatników zawieszenie mocy przepisów, dotyczących opodatkowania przychodów z działów specjalnych oraz z innych źródeł, nie podlegających podatkowi obroto-",
+     "children": [
+      {
+       "type": "text",
+       "text": "wemu."
+      },
+      {
+       "type": "text",
+       "text": "Zwołnienia."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Od podatku są zwolnione:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_9/ust_1/pkt_1",
+       "text": "nieużytki, do których zalicza się lotne piaski, bagna, mokradła, strome stoki i parowy, skały, szutrowiska, doły po żwirze, glinie, torfie, piasku itp., uznane w wyniku klasyfikacji gruntów za nieużytki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_9/ust_1/pkt_2",
+       "text": "grunty pod wodami otwartymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_9/ust_1/pkt_3",
+       "text": "grunty pod torami kolejowymi, lotniskami, oraz pod publicznymi drogami, placami i parkami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_9/ust_1/pkt_4",
+       "text": "grunty pod cmentarzami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_9/ust_1/pkt_5",
+       "text": "grunty, pozostające w zarządzie wojska bądź służby bezpieczeństwa publicznego i używane w celach wojskowych bądź w celach bezpieczeństwa publicznego, a nie w celach gospodarczych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_9/ust_1/pkt_6",
+       "text": "grunty podlegające podatkowi od nieruchomości,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_9/ust_1/pkt_7",
+       "text": "grunty, używane przez muzea państwowe oraz przez publiczne szkoły podstawowe i prowadzone przez nie internaty, jak również grunty używane przez publiczne sierocińce, zakłady wychowawcze i opiekuńcze; za publiczne uważa się szkoły, sierocińce i zakłady, utrzymywane z funduszów Państwa,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_9/ust_1/pkt_8",
+       "text": "grunty, nie będące poprzednio gruntami leśnymi a zalesione za zgodą właściwej władzy, oraz nieużytki zalesione bądź na podstawie przepisów o zalesieniu nieużytków, bądź dobrowolnie w sposób sztuczny — na okres lat 30 licząc od roku następnego po dokonaniu zalesienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_9/ust_1/pkt_9",
+       "text": "grunty rolne, słabe i najsłabsze, stanowiące własność Państwa, a przekazane przedsiębiorstwom lasów państwowych w celu zalesienia — na okres lat 5, licząc od roku następnego po ich przekazaniu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_9/ust_1/pkt_10",
+       "text": "całkowicie lub częściowo grunty pod lasami uznanymi za ochronne w zależności od stopnia zmniejszenia się wartości użytkowej tych lasów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "art_9/ust_1/pkt_11",
+       "text": "poręby, powstałe w czasie wojny 1939—1945 r. zalesione w okresie trwania wojny lub w okresie lat pięciu po jej ustaniu — na okres lat dwudziestu, licząc od roku następnego po dokonaniu zalesienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "art_9/ust_1/pkt_12",
+       "text": "grunty, zryte w czasie wojny 1939—1945 r. (okopy, rowy przeciwczołgowe) — na okres lat dwóch, licząc od roku następnego po ich zniwelowaniu (zasypaniu),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "art_9/ust_1/pkt_13",
+       "text": "ogrody działkowe, odpowiadające warunkom, określonym w ustawie z dnia 9 marca 1949 r. o pracowniczych ogrodach działkowych (Dz. U. R. P. Nr 18, poz. 117),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "art_9/ust_1/pkt_14",
+       "text": "grunty leżące odłogiem, co najmniej od dwóch lat — na okres lat dwóch, poczynając od roku, w którym zostały zagospodarowane (obsiane),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "15",
+       "path": "art_9/ust_1/pkt_15",
+       "text": "grunty nie zagospodarowane a objęte przez majątki państwowe, rolnicze sbółdzielnie produkcyjne oraz bezrolnych, małorolnych i średniorolnych chłopów — w całości w ciągu dwóch lat licząc od roku objęcia gruntów w posiadanie; jeżeli w skład tych gruntów wchodzą odłogi — ulgi powyższe w podatku przypadającym od tych odłogów przedłuża się jeszcze o jeden rok. he z SE :",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Zwolnienia, o których mowa w ust. 1 pkt 1—5, stosuje się przez wyłączenie obszaru zwólnionego z obszaru podlegająceg8 opodatkowaniu (art. 7 ust. 1 i 7).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Zwolnienia, o których mowa w ust. 1 pkt 6—15, stosuje się przez odliczenie od podstawy opodatkowania gospodarstwa rolnego tej części podstawy opodatkowania, która przypada na obszar gruntów zwolnionych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "_ Art. 10. 1. Podatek oblicza się od podstawy opodatkowania (art. 6) przez zastosowanie ruchomej bądź stałej stawki podatkowej."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Rada Ministrów corocznie ustala w. drodze rozporządzenia: .",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_9/ust_2/pkt_1",
+       "text": "ruchome stawki podatkowe w granicach do 25°/o podstawy opodatkowania dla poszczególnych grup indywidualnych gospodarstw rolnych; dla gospodarstw rolnych, które nie wykonały zobowiązań wynikających z planowego skupu zboża, stawki te mogą być podwyższone; podwyżka ta nie może przekraczać 150/9 stawki,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_9/ust_2/pkt_2",
+       "text": "stałe stawki podatkowe w granicach do 10°/o podstawy opodatkowania dla gospodarstw rolnych, posiadanych przez: .",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_9/ust_2/pkt_2/lit_a",
+         "text": "przedsiębiorstwa państwowe oraz pozostające pod zarządem państwowym,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_9/ust_2/pkt_2/lit_b",
+         "text": "instytucje publiczno-prawne, organizacje społeczne i zawodowe oraz osoby. prawne, których dochód zgodnie ze statutem jest obracany w całości na cele ogólnej użyteczności, naukowe, oświatowe, kulturalne, sportowe i dobroczynne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_9/ust_2/pkt_2/lit_c",
+         "text": "szkoły rolnicze, instytucje naukowe i należące do instytucji publiczno-prawnych zakłady doświadczalne co do gruntów zagospodarowanych w celach naukowych lub doświadczalnych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_9/ust_2/pkt_2/lit_d",
+         "text": "rolnicze spółdzielnie produkcyjne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_9/ust_2/pkt_2/lit_e",
+         "text": "zakłady wychowawcze, działające na podstawie przepisów o prywatnych szkołach oraz zakładach naukowych i wychowawczych, jak również zakłady opiekuńcze i sierocińce, utrzymywane przez stowarzyszenia i związki oraz instytucje i zakłady — jeżeli podlegają państwowemu nadzorowi i kontroli,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "art_9/ust_2/pkt_2/lit_f",
+         "text": "osoby fizyczne i prawne co do gruntów, o które w drodze regulacji potnniejszono gospodarstwa nadane im na podstawie dekretów z dnia 6 września 1944 r. o przeprowadzeniu reformy rolnej i z dnia 6 września 1946 -r. o ustroju rolnym i osadnictwie na obszarze Ziem Odzyskanych i b. wolnego m. Gdańska, jeżeli grunty te pozostawały w użytkowaniu tych osób.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_9/ust_3",
+     "text": "Jeżeli podatnik posiada gospodarstwa rolne w dwu lub więcej gminach, podatek gruntowy oblicza się według stawki podatkowej, przypadającej od łącznej podstawy opodatkowania, ustalonej dla każdego z tych gospodarstw; przepis ten nie dotyczy podatników, którzy obok własnego gospodarstwa rolnego na ziemiach dawnych posiadają. nadto gospodarstwo na obszarze Ziem Odzyskanych i b. wolnego m. Gdańska.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Ulgi."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Jeżeli podatnik ma na utrzymaniu więcej niż czworo dzieci, korzysta z ulgi w wysokości 250/6 podatku; jeżeli ma więcej, niż sześcioro dzieci — w wysokości 500/6 podatku. Całkowite zwolnienie od podatku następuje wówczas, gdy podatnik ma więcej niż ośmioro dzieci na utrzymaniu. °",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Dziennik _ Ustaw Nr 38 —"
+      },
+      {
+       "type": "text",
+       "text": "2, Ulgę, o której mowa w ust. 1, stosuje się tylko do tych podatników, dla których łączna roczna podstawa opodatkowania nie przekracza 7.800 złotych."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_11/ust_3",
+     "text": "Za dzieci uważa się dzieci własne, przysposobione i pasierbów do lat czternastu, jeżeli w roku po- 'przedzającym rok podatkowy nie posiadały własnych źródeł dochodu. Ulgi stosuje się według stanu z dmia 31 grudnia roku poprzedzającego rok podatkowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_11/ust_4",
+     "text": "Ta sama ulga przysługuje również ze względu na dzieci starsze, pobierające naukę lub odbywające praktykę zawodową — do ukończenia przez nie dwudziestego czwartego roku życia, jeżeli nie posiadają wiasnych źródeł dochodu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_11/ust_5",
+     "text": "Jeżeli podatnikiem jest kobieta, ulgę, o której mowa w ustępach poprzedzających, stosuje się: w rozmiarze 25°/o, gdy ma na utrzymaniu, więcej niż dwoje d-ieci, w rozmiarze 50°/o, gdy ma na utrzymaniu więcej niż czworo dzieci. Całkowite zwolnienie następuje, gdy ma na utrzymaniu więcej niż sześcioro dzieci.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_11/ust_6",
+     "text": "Majątki państwowe, rolnicze spółdzielnie produkcyjne oraz bezrolni, małorolni i średniorolni chłopi, którzy objęli w posiadanie grunty nie zagospodarowane, niszależnie od dwuletniego zwolnienia, określonego w art. 9 ust. 1 pkt 15, korzystają nadto w trzecim roku wo objęciu tych gruntów z ulgi w wysokości 50°/o podstxu, przypadającego od podstawy opodatkowania, obliczonej z tych gruntów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_11/ust_7",
+     "text": "Minister Finansów w porozumieniu z Ministrem Rolnictwa może w drodze rozporządzenia przyznawać ulgi w podatku gruntowym gospodarstwom rolnym indywidualnym i spółdzielczym, które w ramach zawartych umów kontraktacyjnych dostarczyły trzodę chlewną do przedsiębiorstw gospodarki uspołecznionej; rozporządzenie to może uzależnić ulgi od wysokości podstawy opodatkowania tych gospodarstw i wagi dostarczonego żywca oraz przyznać premie w formie obniżki w podatku gruntowym od każdej posiadanej sztuki przychówku bydła rogatego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "8",
+     "path": "art_11/ust_8",
+     "text": "Minister Finansów w porozumieniu z Ministrem Rolnictwa może w drodze rozporządzenia przyznawać u'si gospodarstwom rolnym indywidualnym i spółdzielrzym, które w ramach zawartych umów plantacyjnych (kontraktacji) dostarczyły na rzecz przedsiębiorstw gospodarki uspołecznionej bądź rośliny przemysłowe okopowe, oleiste, włókniste i chmiel, bądź też nasiona tych roślin; ulga ta nie może przekraczać 50°/» podatku, przypadającego proporcjonalnie od podstawy opodatkowania, obliczonej z uprawy tych roślin, jako z działu specjalnego (art. 8), oraz może być uzależniona od wysokości podstawy ovodatkowania poszczególnych grup gospodarstw rolnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "art_11/ust_9",
+     "text": "Ulgi, o których mowa w ust. 7 i 8, mogą być przyznane jedynie po dokonaniu wymiaru podatku odrębną decyzją organu finansowego nawet w przypadku, gdv okoliczności uzasadniające ulgi zaistniały przed dokonaniem wymiaru. ‘",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Nadzwyczajne okoliczności istotnie osłabiające zdolność płatniczą podatnika, np. klęski żywiołowe, długotrwała choroba, nieszczęśliwy wypadek, mogą być podstawą do zastosowania ulgi przez organ finansowy z urzędu lub na wniosek podatnika w wysokości do 50%0 podatku w tym roku podatkowym, w którym okoliczności te zaszły. W wyjątkowych gospo- Garczo uzasadnionych przypadkach może nastąpić nawet całkowite zwolnienie od podatku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Dla gospodarstw rolnych, których przychodowość została obniżona przez doznane szkody z powodu działań wojennych, oraz dla gospodarstw, powstałych z przebudowy ustroju rolnego lub z osadnictwa, a jeszcze nie zagospodarowanych lub zagospodarowanych niedostatecznie, organy finansowe mogą w latach 1951 i 1952 z urzędu lub na wniosek podatnika stosować ulgi w procencie odpowiadającym zmniejszeniu przychodowości. Jeżeli jednak ogólna suma podatku w okręgu danego rganu finansowego miałaby ulec z powodu zastosowania tych ulg obniżeniu więcej niż o 20°/o, wszystkie ulgi w podatku wymagają zatwierdzenia organu finansowego hierarchicznie wyższego stopnia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Przyznanie ulgi, o której mowa w ust. 1 i 2, może nastąpić jedynie po dokonanym wymiarze podatku odrębną decyzją organu finansowego nawet w tym przypadku, gdy okoliczności, uzasadniające udzielenie ulgi, zaistniały przed dokonaniem wymiaru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "Minister Finansów w porozumieniu z Ministrem Rolnictwa określi w drodze rozporządzenia tryb ustalania zarówno szkód z powodu klęsk żywiołowych i działań wojennych jak i stanu zagospodarowania gospodarstw powstałych z przebudowy ustroju rolnego i z osadnictwa.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "Upoważnia się Ministra Finansów w porozumieniu z Ministrem Rolnictwa do zwalniania w całości lub w części od podatku w poszczególnych latach podatkowych wszystkich lub niektórych grup podatników — a w szczególności członków zrzeszeń uprawy ziemi — w całym Państwie lub na poszczególnych jego obszarach.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Podatek gruntowy w ziemiopłodach."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "Rada Ministrów może wprowadzić w drodze rozporządzenia obowiązek całkowitego lub częściowego uiszczenia: podatku gruntowego w ziemiopłodach w poszczególnych latach podatkowych dla wszystkich lub niektórych grup podatników w całym Państwie lub na poszczególnych jego obszarach. Rozporządzenie to może uzależnić obowiązek całkowitego lub częściowego uiszczenia podatku gruntowego w ziemiopłodach od stopnia wykonania zobowiązania, wynikającego z planowego skupu ziemiopłodów, oraz wskazać sposób ustalania terminów płatności. a",
+   "children": [
+    {
+     "type": "text",
+     "text": "Obywatelskie komisje podatkowe."
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Przy organach finansowych działają obywatelskie komisje podatkowe. 2: Obywatelskie komisje podatkowe, powołane do współdziałania z organami finansowymi, w zakresie wymiaru i poboru podatków i innych należności niepodatkowych, obciążających gospodarstwa rolne, obowiązane są przestrzegać ściśle przepisów podatkowych oraz postępować bezstronnie i według najlepszej wiedzy i sumienia. Obywatelskie komisje podatkowe uprawnione są w szczególności:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_15/ust_1/pkt_1",
+       "text": "do stawiania wniosków w kierunku obniżenia podatku gruntowego dla gospodarstw mało i średniorolnych, których obciążenie przy zachowaniu tej samej powierzchni, a bez zastosowania art. 8 wzrosło niewspółmiernie do średniego wzrostu przychodowości w gminie:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_15/ust_1/pkt_2",
+       "text": "do opiniowania ulg podatkowych w zakresie zobowiązań podatkowych, obciążających gospodarstwa rolne, oraz zwolnień i podwyżek wkładów oszczędnościowych rolnictwa tudzież zwrotów, wycofania i odliczeń z tych wkładów;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_15/ust_1/pkt_3",
+       "text": "do opiniowania odwołań i zażaleń w sprawach podatku gruntowego oraz innych należności, obciążających gospodarstwa rolne.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Nie można obniżyć przez stosowanie ulg wymienionych w ust. 2 pkt 1 wymiaru podatku dla poszczególnego podatnika poniżej granic, odpowiadających średniemu wzrostowi przychodowości w gminie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_15/ust_4",
+     "text": "Skład oraz sposób i tryb powoływania obywatelskich komisji podatkowych ustali uchwała Rady Państwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_15/ust_5",
+     "text": "Minister Finansów w drodze rozporządzenia ustali tryb i zakres działania obywatelskich komisji podatkowych oraz sposób wynagrodzenia członków tych komisji,",
+     "children": [
+      {
+       "type": "text",
+       "text": "Podatek gruntowy a podatek dochodowy."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Podatnicy podatku gruntowego nie podlegają podatkowi dochodowemu od przychodów, osiągniętych z indywidualnych gospodarstw rolnych, jeżeli bądź wcale nie mają innych źródeł przychodów, bądź też suma dochodów z pozostałych źródeł przychodów na podstawie przepisów o podatku dochodowym nie podlega opodatkowaniu tym podatkiem; pofiłegają jednak © zdatkówaniu podatkiem dochodowym przychody z wydzierżawienia gospodarstwa rolnego lub jego części.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przepisy przejściowe i końcowe,"
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Minister Finansów może z ogólnych wpływów podatku gruntowego przeznaczyć sumy w wy” sokóści do 30/6 ogólnych wpływów tego podatku na wydatki, związane ze specjalnymi premiami, oraz na zwrot kosztów podróży i diet członków obywatelskich komisji podatkowych. . 2 Minister Finansów lub upoważnione przez niego prezędia rad narodowych mogą przyznawać specjalne premie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_17/ust_1/pkt_1",
+       "text": "osobom zatrudnionym przy wymiarze i poborze podatku gruntowego oraz w akcji nadzoru w tym zakresie,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_17/ust_1/pkt_2",
+       "text": "na cele kulturalno- óświatowe gromadom i gminom przodującym w uiszczeniu podatku gruntowego.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "Do ustalenia zobowiązań podatkowych w podatku gruntowym oraz wkładów oszczędnościowych na Fundusz B Społecznego Funduszu Oszczędnościowego nie stosuje się przepisu art. 4 dekretu z dnia 26 paździer= nika 1950 r. o zobowiązaniach podatkowych (Dz. U. R.P, Nr 49, poz. 452).",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_19/ust_1",
+     "text": "Z dniem wejścia w życie niniejszego dekretu tracą moc wszelkie przepisy w przedmiotach nim unormowanych, a w szczególności ustawa z dnia 28 czerwca 1950 r. o podatku gruntowym (Dz. U. R. P. Mr 27, poz. 250).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_19/ust_2",
+     "text": "Przepisy, się wymienione w ust. 1, stosuje jednak do podatku gruntowego, przypadającego za lata podatkewe do 1950 r. włącznie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_19/ust_3",
+     "text": "Rozporządzenia, wydane na podstawie dotychczasowych przepisów, zachowują moc do chwili zastgpienia ich nowymi rozporządzeniami, opartymi na niniejszym dekrecie, jeżeli nie są z nim sprzeczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_19/ust_4",
+     "text": "Organy finansowe, wskazane w zarządzeniu Ministra Finansów, upoważnione są do koordynowania ziałalności równorzędnych organów innych działów zarządu państwowego powołanych do współdziałania przy ustalaniu podstawy opodatkowania, ' wymiarza i poborze podatku gruntowego oraz należności, opartych na wymiarze tego podatku, i innych niepodatkowych należności od gospodarstw rolnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "Wykonanie dekretu porucza się Ministrowi Finanséw.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Dekret wchodzi w życie z dniem 6głoszenia z mocą od dnia 1 stycznia 1951 r. -",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej: 8. Bierut"
+  },
+  {
+   "type": "text",
+   "text": "Piezes Rady Ministrów: J. Cyrankiewtez"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: K. Dąbrowski"
+  },
+  {
+   "type": "text",
+   "text": "284"
+  },
+  {
+   "type": "text",
+   "text": "DERRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 30 czerwca 1951 r."
+  },
+  {
+   "type": "text",
+   "text": "e obowiązku świadczeń w naturze ma niektóre cele publiczne,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej j ustawy z dnia \"26 maja 1951 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 30, poz. 235)— Pada Ministrów postanawia, a Rada Państwa zatwierdea, ea następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Przepisy ogólne,"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Wprowadza się obowiązek świadczeń w naturze na terenie gmin oraz miast, nie stapowiących powiatów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Świadczenia w naturze polegają \"na wykonaniu pracy niewykwalifikowanej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_1/ust_3",
+     "text": "Osoby, posiadające kwalifikacje zawodowe, zamiast wykonania pracy niewykwalifikowanej mogą być zobowiązane w ramach świadczeń w naturze do wyxonania określonych prac w zakresie ich zawodu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_1/ust_4",
+     "text": "Osoby, posiadające środki przewozowe, w ramach świadczeń w naturze mogą być zobowiązane do dostarczenia na określony czas środków przewozowych konnych lub zmechanizowanych wraz z obsługą.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_1/ust_5",
+     "text": "Osoby, posiadające materiały niezbędne dla rokót wykonywanych w ramach świadczeń w nalurze, mogą być zobowiązane de odstąpienia tych mater'ałów w ilości odpowiadającej równowartości ich zobowią< zania, wynikającego z obowiązku świadczeń w naturze. „6. W przypadkach przewidzianych niniejszym dekretem Świadczenia w naturze mogą być zastanione Świadczeniami pieniężnymi w wysokości odpowiadajq- , cej równowartości tych świadczeń,",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

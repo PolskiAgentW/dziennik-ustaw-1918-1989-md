@@ -1,0 +1,1949 @@
+{
+ "eli": "DU/1952/217",
+ "title": "Rozporządzenie Rady Ministrów z dnia 10 lipca 1952 r. w sprawie obowiązkowych dostaw zbóż.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1952/217/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 lipca-1952 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie obowiązkowych dostaw zbóż."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 2 i art. 14, 16, 23, 32 i 33 ustawy z dnia 10 lipca 1952 r. o obowiązkowych dostawach zbóż (Dz. U. R. P. Nr 32, poz. 214) zarządza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "Rozdział 1,"
+  },
+  {
+   "type": "text",
+   "text": "Piany obowiązkowych dostaw zbóż."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Rada Ministrów uchwala na każdy rok gospc - darczy państwowy plan obowiązkowych dostaw zbóż z podziałem na województwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Prezes Centralnego Urzędu Skupu i Kontraktacji na wniosek prezydiów wojewódzkich rad narodowych zatwierdza — w ramach państwowego planu — powiatowe plany obowiązkowych dostaw zbóż.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Prezydia wojewódzkich rad narodowych w porozumieniu z wojewódzkimi pełnomocnikami Centralnego Urzędu Skupu i Kontraktacji — na wniosek prezydiów powiatowych rad narodowych — zatwierdzają w ramach powiatowych planów gminne plany obowiązkowych dostaw zbóż.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Gminny plan obowiązkowych dostaw zbóż obejmuje plany dostaw z:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "indywidualnych gospodarstw rolnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "spółdzielni produkcyjnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "zespołów uprawowych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "innych uspołecznionych gospodarstw rolnych, oprócz podległych Ministrowi Państwowych Gospodarstw Rolnych.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Klasa gruntów ornych I rejon"
+        },
+        {
+         "type": "text",
+         "text": "1 1 ha równa się 1,8 ha pizeliczen. Il 1 ” ” ” 1,6 ” 9 nl 1 ” © oo 1,2 ” ” 1V 1 ” ” ” 1,0 ” ” Vv 1 e ” ” 0,8 ” » VI 1 ” ” tad 0,6 ” ”"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Wysokość normy ustala się w zależności od gminnego planu obowiązkowych dostaw z indywidualnych gospodarstw rolnych oraz od grupy gospodarstw.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Ustala się 15 grup indywidualnych gospodarstw rolnych. w tabeli, stano viącej załącznik Nr 3 do niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "O zaliczeniu indywidualnego gospodarstwa rolnego do grupy decyduje ilość hektarów przeliczeniowych gruntów ornych danego gospodarstwa bez użytków rolnych i odłogów przydzielonych do zagospodarowania po roku 1950.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Normy oblicza się przy zastosowaniu odpowiedniego układu wskaźników progresji obciążenia gosrodarstw w zależności od ich wielkości,",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział 2",
+   "text": "Ustalanie obowiązkowych dostaw zbóż z indywidualnych gospodarstw rolnych."
+  },
+  {
+   "type": "text",
+   "text": ". §4. Wysokość obowiązkowych dostaw zbóż z indywidualnego gospodarstwa rolnego ustala się, mnożąc ilość hektarów przeliczeniowych gruntów ornych tego gospodarstwa przez ilość kilogramów zboża, przypadającą z 1 ha przeliczeniowego (normę)."
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Do obszaru gospodarstwa rolnego, od którego ustala się obowiązkowe dostawy, nie wlicza się gruntów pod zakontraktowanymi uprawami, wymienionymi w wykazie, stanowiącym załącznik Nr 1 do niniejszego rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "W razie niewykonania w części lub w całości dostaw zakontraktowanych upraw z przyczyn gospodarczo nie uzasadnionych będzie dokonane dla danego gospodarstwa dodatkowe ustalenie wysokości obowiązkowych dostaw z odpowiedniej części lub całości gruntów pod zakontraktowanymi uprawami. 4",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "W celu ustalenia hektara przeliczeniowego dzieli się obszar Państwa na trzy rejony rolnicze, a grunty orne na sześć klas według ich jakości. Rejony rolnicze określone są w załączniku Nr 2 do niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Obszar gruntów ornych w poszczególnych rejonach rolniczych i klasach oblicza się w hektarach przeliczeniowych według następującej tabeli:",
+   "children": [
+    {
+     "type": "text",
+     "text": "Jl rejon III rejon"
+    },
+    {
+     "type": "text",
+     "text": "1,9 ha przeliczeń. 2,0 ha przeliczeń. 1,6 ” a 1,7 2 ” 1,2 ” ” 1,3 ” » 1 KU ” ” 1 AU ” ” 0,8 ” 0,8 ” ” 0,5 sę „ 0,5 2] ”"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Ustala się 12 układów wskaźników progresji w tablicy, stanowiącej załącznik Nr 4 do niniejszego rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Prezes Centralnego Urzędu Skupu i Kontraktacji ustali na każdy rok gospodarczy spośród 12 układów wskaźników progresji od 3 do 4 układów, obowiązujących w poszczególnych powiatach.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Na podstawie obowiązujących w danym powiecie układów wskaźników progresji (§ 13) prezydium powiatowej rady narodowej — na wniosek powiatowego pełnomocnika Centralnego Urzędu Skupu i Kontraktacji — ustala tabelę norm najbardziej odpowiadającą war\"nkom gospodarczym danej gminy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "W szczególnie uzasadnionych przypadkach prezydium powiatowej rady narodowej — za zgodą woje-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "„A — 319 == Poz. 217 Dziennik Ustaw Nr 32 ) hp",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wódzkiego pełnomocnika Centralnego Urzędu Skupu i Kontraktacji — może ustalić dwie lub więcej tabel norm dla poszczególnych gromad tej samej gminy. i",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Ustalone przez prezydium powiatowej rady narodowej tabele norm zatwierdza prezydium wojewódzkiej rady narodowej w porozumieniu z wojewódzkim pełnomocnikiem Centralnego Urzędu Skupu i Kontraktacji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Zatwierdzone przez prezydium wojewódzkiej rady narodowej tabele norm obowiązują w danej gminie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 15. W przypadku gdy gospodarstwo rolne położone jest w dwóch lub więcej gminach na terenie jednego województwa, s.osuje się normę obowiązującą w gminie, w której znajdują się główne zabudowania gospodarcze danego gospodarstwa. -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 16. Przy ustalaniu wysokości obowiązkowych dostaw zbóż stosuje się zaokrąglenie do 1 kilograma w góię.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 17.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Wysokość obowiązkowych dostaw zbóż ustałają prezydia gminnych (miejskich) rad narodowych przy współudziale gminnych delegatur Centralnego Urzędu Skupu i Kontraktacji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Do ustalania wysokości obowiązkowych dostaw zbóż właściwe jest prezydium gminnej (miejskiej) rady narodowej tej gminy (miasta), na terenie której położone jest dane gospodarstwo.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Jeżeli gospodarstwo położone jest na terenie dwóch lub więcej gmin, właściwość określa się w zależności od miejsca, w którym znajdują się główne zabudowania gospodarcze danego gospodarstwa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ustalanie obowiązkowych dostaw zbóż ze spółdzielni produkcyjnych i zespołów uprawowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 18. Wysokość obowiązkowych dostaw zbóż ze spółdzielni produkcyjnych ustała się, mnożąc ilość hektarów przeliczeniowych gruntów ornych spółdzielni wraz z działkami przyzagrodowymi członków spółdzielni przez normę w kilogramach.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 19. Normą obowiązującą spółdzielnię produkcyjną jest zmniejszona o 20°/o norma, właściwa w danej gminie dla grupy indywidualnych gospodarstw rolnych, posiadających tyle hektarów przeliczeniowych gruntów ornych, ile średnio przypada w spółdzielni na jedną rodzinę.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 20. Przy ustalaniu wysokości obowiązkowych dostaw zbóż ze spółdzielni produkcyjnych stosuje się odpowiednio przepisy $§ 4 — 16.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 21.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W przypadku gdy wszyscy lub część członków spółdzielni zbiera zboże ozime indywidualnie, obowiązek dostawy ustala się oddzielnie dla spółdzielni oraz dla poszczególnych członków, którzy zbierają zboża ozime indywidualnie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Obowiązek dostawy spółdzielni oraz jej członków, którzy zbierają zboża ozime indywidualnie, ustala się według następujących zasad:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) łączną wysokość dostaw spółdzielni oraz jej czło1:- ków stanowi ilość, jaka przypadłaby od spółdzielni, gdyby wszyscy członkowie zbierali zboże zespołowo,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) łączną wysokość dostaw (pkt 1) dzieli się między spółdzielnię a członków spółdzielni, zbierających zboża ozime indywidualnie, w zależności od ilości hektarów fizycznych gruntów, z których zbiera się zboże zespołowo oraz indywidualnie, maj Sy “ 4 zgi",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "- 3. Prezes Centralnego Urzędu Skupu i Kontraktacji \"ustali szczegółowy sposób obliczania obowiązku dostaw spółdzielni oraz jej członków, którzy zbierają zboża ozime indywidualnie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 22.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Zrzeszenia uprawy ziemi, których członkowie przeprowadzają zbiory zespoiowo, podlegają obowiązkowi dostaw zbóż na tych samych zasadach, co inne spółdzielnie produkcyjne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zrzeszenie uprawy ziemi obowiązuje norma wiaściwa w danej gminie dla grupy indywidualnych gospodarstw rolnych, posiadających tyle hekiarów przeliczeniowych gruntów ornych, ile średnio przypada w zrzeszeniu na jedną rodzinę, zmniejszona o 10*/e, a w przypadku, gdy zrzeszenie uprawy ziemi korzysta z usług Państwowych Ośrodków Maszynowych — o 26%/o.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 23. W przypadku gdy wszyscy lub część członków zrzeszenia uprawy ziemi zbiera zboża ozime indywidualnie, obowiązek dostaw zbóż ustala się, stosując odpowiednio przepisy § 21.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 24. Członkowie zrzeszenia uprawy ziemi podlegają obowiązkowi dostaw z gruntów nie wniesionych do zrzeszenia na zasadach, jakie obowiązują indywidualne gospodarstwa rołne, o ile obszar tych gruntów przekracza 1 ha przeliczeniowy. W tym przypadku stosuje się normę właściwą dla grupy indywidualnych gospodarstw rolnych, posiadających tyle gruntów ornych, ile wynosi łączny obszar gruntów wniesionych i nie wniesionych do zrzeszenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 25. Wysokość obowiązkowych dostaw zbóż ze spółdzielni produkcyjnych i zespołów uprawowych ustalają prezydia powiatowych rad narodowych przy współudziale powiatowych pełnomocników Centralnego Urzędu Skupu i Kontraktacji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Ustałanie obowiązkowych dostaw zbóż z innych uspołecznionych gospodarstw rolnych oprócz podległych Ministrowi Państwowych Gospodarstw Rolnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 26.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Obowiązek dostaw z: :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) uspołecznionych gospodarstw rolnych, nie włączonych do dnia 1 lipca 1952 r. do państwowych gospodarstw rolnych podległych Ministrowi Państwowych Gospodarstw Rolnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) gospodarstw uspołecznionych. pozostających w tymczasowym zarządzie prezydium powiatowej lub gminnej (miejskiej) rady narodowej i uprawianych na zlecenie tegoż prezydium, stanowi cała nadwyżka towarowa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Prezes Centralnego Urzędu Skupu i Kontraktacji określi sposób ustalania nadwyżki towarowej w poszczególnych gospodarstwach, wymienionych w ust. 1, na podstawie preliminarza przychodów i rozchodów zboża.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 27. Wysokość obowiązkowych dostaw zbóż z uspołecznionych gospodarstw rolnych, wymienionych w § 26, ustalają prezydia powiatowych rad narodowych przy współudziale powiatowych peinomocników Centralnego Urzędu Skupu i Kontraktacji,",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Zwolnienia, obniżenia i zamienniki.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 28.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Właściciel (dzierżawca, użytkownik) gospodarstwa rolnego o obszarze gruntów ornych poniżej 5 ha przeliczeniowych, mający na utrzymaniu więcej niż czworo dzieci poniżej 14 lat, może złożyć wniosek o obniżenie wysokości obowiązkowych dostaw zbóż.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Obniżenie wynosi 50 kilogramów zboża na każde dziecko powyżej czworga.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 29.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Odłogi, przydzielone do zagospodarowania indywidualnym gospodarstwom rolnym, spółdzielniom produkcyjnym i zespołom uprawowym po wejściu w życie uchwały Nr 251 Prezydium Rządu z dnia 5 kwietnia 1952 r. w sprawie zagospodarowania odłogów i innych nie zagospodarowanych użytków rolnych — zwolnione są od obowiązkowych dostaw zbóż w roku pierwszego zbioru z tych gruntów.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Utrzymuje się w mocy ulgi, dotyczące dostaw zbóż, a przewidziane w dotychczasowych przepisach w związku z zagospodarowaniem odłogów, przydzielonych przed wejściem w życie powołanej uchwały Nr 251 Prezydium Rządu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Zwolnienia i ulgi, o których mowa w ust. 1 i 2, stosuje się pod warunkiem:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) zawarcia z prezydium gminnej (miejskiej) rady narodowej pisemnej umowy o przydzielenie odłogów do zagospodarowania,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) uprawiania w całości gruntów ornych własnego gospodarstwa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. W przypadku gdy odłogi zostały zagospodarowane przed wejściem w życie uchwały Nr 251 Prezydium Rządu bez zawarcia pisemnej umowy, ale za wiedzą i zgodą prezydium gminnej (miejskiej) rady narodowej, umowa ta może być sporządzona do dnia 1 października 1952 r.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Za odiogi uważa się użytki rolne, nie uprawiane c",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "co najmniej od dwóch lat.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 30.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przy ustalaniu obowiązkowych dostaw zbóż z użytków rolnych, nie będących odłogami, a przydzielonych do zagospodarowania indywidualnym gospodarstwom rolnym, stosuje się normy ulgowe w wysokości od 150 do 250 kilogramów zboża z jednego hektara przeliczeniowego gruntów ornych w zależności od rodzaju i stanu przydzielonych użytków. Normę ulgową stosuje się pod warunkiem uprawiania w całości gruntów ornych własnego gospodarstwa i zawarcia umowy o przydzielenie do zagospodarowania użytków rolnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Jeżeli norma obowiązkowych dostaw, przypadających z gruntów ornych własnego gospodarstwa, jest niższa od normy ulgowej, wówczas przy ustalaniu obowiązkowych dostaw zbóż z użytków rolnych, przydzielonych do zagospodarowania, stosuje się normę niższą.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Prezes Centralnego Urzędu Skupu i Kontraktacji określi szczegółowe zasady stosowania norm wymienionych w ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 31.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Przy ustalaniu obowiązkowych dostaw zbóż z użytków rolnych, nie będących odłogami, a przydzielonych do zagospodarowania zespołom uprawowym, stosuje się normy ulgowe od 100,do 200 kilogramów zboża z jednego hektara przeliczeniowego gruntów ornych w zależności od rodzaju i stanu przydzielonych użytków.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Prezes Centralnego Urzędu Skupu i Kontraktacji określi szczegółowe zasady stosowania norm wymienionych w ust. 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "dA",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 32. Normy ulgowe, o których mowa w $§ 30 i 31, stosuje się odpowiednio do odłogów, przydzielonych do zagospodarowania indywidualnym gospodarstwom rolnym i zespołom uprawowym, w latach następnych po roku pierwszego zbioru z tych gruntów do upływu terminu, przewidzianego w umowie o przydzielenie odłogów do zagospodarowania (§ 29 ust. 3 pkt 1).",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 33.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. W powiatach, w których plan obowiązkowych dostaw zbóż (§ 2) został wykonany co najmniej w 90°/o, znosi się na dany rok gospodarczy — w stosunku do gospodarstw, które obowiązek dostawy zbóż wykonały w całości — obowiązek uiszczania opłat za przemiał zbóż w naturze (miarki) oraz obowiązek odstępowania przy przemiale gospodarczym niektórych rodzajów zbóż na rzecz Państwa (odsypy). k",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Zarządzenie o zniesieniu obowiązków wymienionych w ust. 1 wydaje Prezes Centralnego Urzędu Skupu i Kontraktacji na wniosek prezydium powiatowej rady narodowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 34. Zakontraktowane płody rolne, wymienione w wykazie, stanowiącym załącznik Nr 5 do niniejszego rozporządzenia, a dostarczone w okresie od dnia 1 czerwca do końca terminów przewidzianych w umowach kontraktacyjnych, zalicza się w danym roku gospodarczym na poczet obowiązkowych dostaw do wysokości ustalonego zobowiązania. Przy zaliczaniu stosuje się normy zamiany, określone w powołanym załączniku Nr 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Terminy wykonania obowiązkowych dostaw.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 35. Ustala się następujące terminy wykonaa.u obowiązkowych dostaw zbóż: i",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) z indywidualnych gospodarstw rolnych, spółdzielni produkcyjnych i zespołów uprawowych — od dnia 16 lipca do dnia 30 listopada każdego roku, 2| z państwowych gospodarstw rolnych podległych Ministrowi Państwowych Gospodarstw Rolnych oraz z innych uspołecznionych gospodarstw rolnych — od dnia 16 lipca do dnia 31 grudnia każdego roku.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 36. Terminy wykonania obowiązkowych dostaw zbóż z poszczególnych gospodarstw — w ramach terminów określonych w § 35 — ustalają:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) prezydia gminnych (miejskich) rad narodowych w porozumieniu z gminnymi delegaturami Centralnego Urzędu Skupu i Kontraktacji — dla indywidualnych gospodarstw rolnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) prezydia powiatowych rad narodowych w porozumieniu z powiatowymi pełnomocnikami Centralnego Urzędu Skupu i Kontraktacji — dla spółdzielni produkcyjnych, zespołów uprawowych i innych uspołecznionych gospodarstw rolnych, z wyjątkiem podległych Ministrowi Państwowych Gospodarstw Rolnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Ministerstwo Państwowych Gospodarstw Rolnvch w porozumieniu z Centralnym Urzędem Skupu i Kontraktacji — dla państwowych gospodarstw rolnych, podległych Ministrowi Państwowych Gospodarstw Rolnych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 37. Prezes Centralnego Urzędu Skupu i Kontraktacji określi tryb ustalania terminów wykonania dostaw z poszczególnych gospodarstw wymienionych w § 36 pkt li 2.",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Postępowanie odwoławcze.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 38.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Od decyzji ustalającej wysokość obowiązkowych dostaw zbóż przysługuje odwołanie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Odwołanie wnosi się za pośrednictwem prezydium rady narodowej, która wydała zaskarżoną decyzję, do prezydium rady narodowej bezpośrednio wyższego stopnia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 39.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Odwołanie od decyzji prezydium gminnej (miejskiej) rady narodowej rozstrzyga prezydium powiatowej rady narodowej w porozumieniu z powiatowym pełnomocnikiem Centralnego Urzędu Skupu i Kontraktacji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. W razie różnicy zdań pomiędzy prezydium powiatowej rady narodowej a powiatowym pełnomocnikiem Centralnego Urzędu Skupu i Kontraktacji odwołanie rozstrzyga prezydium wojewódzkiej rady narodowej.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "$:40. 1. Odwołanie od decyzji prezydium powiatowej rady narodowej rozstrzyga prezydium wojewódzkiej rady narodowej w porozumieniu z wojewódzkim pełnomocnikiem Centralnego Urzędu Skupu i Kontraktacji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Decyzja prezydium wojewódzkiej rady narodowej jest ostateczna.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 41.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Odwołanie powinno być wniesione w terminie 30 dni od daty doręczenia zawiadomienia o obowiązku dostawy lub od dnia powstania nowych okoliczności, uniemożliwiających wykonanie obowiązku dostawy.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Odwołanie powinno być rozpatrzone i ostatecznie załatwione najpóźniej w ciągu jednego miesiąca od daty wniesienia odwołania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Odwołanie może być wniesione ustnie lub na piśmie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Odwołanie jest wolne od wszelkich opłat.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. Wniesienie odwołania nie wstrzymuje wykonania obowiązky dostaw.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. W szczególnie uzasadnionych przypadkach prezydium rady narodowej, które wydało zaskarżoną decyzję, może odroczyć wykonanie obowiązku dostaw w części lub w całości do czasu wydania decyzji przez prezydium rady narodowej stopnia wyższego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "i Poz. 217",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 42. W przypadku, gdy odwołanie zostało uwzględnione, a zobowiązanie wykonane, część dostawy, o jaką zmniejszono zobowiązanie, zalicza się na obowiązkowe dostawy w roku następnym.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rozdział 8.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przepisy przejściowe i końcowe.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 43. Minister Rolnictwa — w porozumieniu z Prezesem Centralnego Urzędu Skupu i Kontraktacji — określi sposób i tryb uiszczania opłat w naturze za usługi Państwowych Ośrodków Maszynowych oraz sposób przekazywania przez Państwowe Ośrodki Maszynowe zboża do uspołecznionych punktów skupu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 44. Uspołecznione gospodarstwa rolne, wymienione w § 26, nie produkujące zbóż, zwolnione są od obowiązku dostaw.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 45.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. Tworzy się fundusz nagród na cele premiowania obowiązkowych dostaw zbóż.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. Prezes Centralnego Urzędu Skupu i Kontraktacji może w granicach ustalonego funduszu nagród przyznawać nagrody:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) gminom i gromadom, przodującym w wykonaniu obowiązkowych dostaw — na cele kulturalno-oświatowe tych gmin i gromad, Ą",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) osobom, wyróżniającym się w akcji obowiązkowych dostaw zbóż oraz przy organizowaniu i nadzorowaniu tej akcji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. Sposób i tryb przyznawania nagród ustala regulamin, zatwierdzony przez Prezydium Rządu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. Ogólna suma przyznanych nagród nie może prze kraczać 0,5°/o wartości wykonanych obowiązkowych dostaw zbóż.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 46. Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów, właściwym ministrom oraz Prezesowi Centralnego Urzędu Skupu i Kontraktacji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 47. Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik Nr 1 do rozporządzenia Rady Ministrów z dnia 10 lipca 1952 r. (poz. 217).",
+   "body": [
+    {
+     "type": "text",
+     "text": "WYKAZ UPRAW, KTÓRYCH ZAKONTRAKTOWANIE UZASADNIA WYŁĄCZENIE GRUNTÓW Z OBSZARU GOSPODARSTWA ROLNEGO, PODLEGAJĄCEGO OBOWIĄZKOWYM DOSTAWOM ZBOŻA"
+    },
+    {
+     "type": "text",
+     "text": "A. Grupa nasienna:"
+    },
+    {
+     "type": "text",
+     "text": "marchew pastewna O PTA © YB © NE brukiew pastewna kapusta pastewna rzepa ścierniskowa trawy nasiona warzyw nasiona buraków cukrowych dziczki"
+    },
+    {
+     "type": "text",
+     "text": "krzewy owocowe sadzonki truskawek a m"
+    },
+    {
+     "type": "text",
+     "text": "= O . drzewka owocowe."
+    },
+    {
+     "type": "text",
+     "text": "B. Grupa przemysłowo-konsumpcyjna:"
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "buraki cukrowe",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "13",
+     "path": "ust_13",
+     "text": "cykoria",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "rzepak i rzepik ozimy i jary",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "mak",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "gorczyca",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "17",
+     "path": "ust_17",
+     "text": "rącznik",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "słonecznik",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "inne rośliny oleiste",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "len i konopie na słomę i włókno",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "tytoń",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "chmiel",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "wiklina 24, zioła",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "truskawki.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "LE."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik Nr 2 do rozporządzenia Rady Ministrów z dnia 10 lipca 1952 r. (poz. 217).",
+   "body": [
+    {
+     "type": "text",
+     "text": "REJONY ROLNICZE"
+    },
+    {
+     "type": "text",
+     "text": "Il. III."
+    },
+    {
+     "type": "text",
+     "text": "Miasto st. Warszawa"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "m. st. Warszawa",
+     "children": [
+      {
+       "type": "text",
+       "text": "Województwo warszawskie"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "pow. ciechanowski 1. pow. ostrołęcki 2. \"3.",
+     "children": [
+      {
+       "type": "text",
+       "text": "garwoliński 2 w Ostrowski „„ gostyniński 3. „. siedlecki"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "„ grodzisko-mazowiecki 4. „ . sokołowski",
+     "children": [
+      {
+       "type": "text",
+       "text": "5. 4). grójecki 5 „ . węgrowski } 6. „ makowski 6 m. Siedlce How mińska 8. 9.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "mławski nowodworski 10.3 3„ płocki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11. -,„ płóński 12.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "przasnyski 13: og pułtuski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14. „ piaseczyński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15. „. pruszkowski 16. 17.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "sierpecki sochaczewski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18. „. wołomiński £9, m, Płock",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "20. „. Pruszków ie. a he Otwock 22.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„ Zyrardéw",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo bydgoskie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. pow. aleksandrowski 1. pow. chojnicki 2 w brodnicki 3 » bydgoski ee chełmiński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. « grudziądzki 6 „„„, inowrocławski z „. lipnowski 8 „„, mogileński sos rypiński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10. , sępoleński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11. „ szubiński 12 -B świecki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13. ,, toruński ~ KA 2 tucholski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15. , wąbrzeski 6:1. 5 włocławski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17. „. wyrzyski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18. „ . żniński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "19. m. Bydgoszcz",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "20. ‘i Grudziądz SA ‘i Inowrocław",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22. „w. Toruń",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "23. , Włocławek",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ".",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo poznańskie >",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. pow. chodzieski 1. pow. koniński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. , . czarnkowski 2",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. i gnieźnieński 3:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. , gostyński 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. „ jarociński 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Sg\" KOLSKI kaliski „ ‘turecki m. Kalisz",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "1",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. pow. kępiński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. „ kościański",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. „ krotoszyński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. „ leszczyński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10. „ . międzychodzki al „. nowotomyski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12. „ Ostrowski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13. „ obornicki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14. „ pilski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15. „ poznański",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16. „ rawicki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17. „. Szamotulski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18. , średzki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "19. „. śremski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "20. » wągrowiecki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "21. » wolsztyński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "22. » wrzesiński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "23. m. Gniezno",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "24. „. Leszno",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "25. „. Ostrów Wlkp.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "26. , Poznań",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "27. „. Piła",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. m. Łódź",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "IL. Il.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Miasto Łódź",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo łódzkie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. pow. brzeziński 1. pow. łaski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2. „. kutnowski 2.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3. „. łęczycki 3.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. , łowicki 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "5. „. łódzki 5.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. , skiérniewicki 6.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. m. Tomaszów Maz. 7.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "8. kj Zgierz 8.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„. piotrkowski „ radomszczański „. rawski Hs sieradzki „. wieluński m. Piotrków Trybunalski m Pabianice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo kieleckie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "‘ 1. pow. buski 1. pow. konecki 2: 3. 4, 5. 6. 7. 8. 9. 10. 11. 12. 13. 14,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. ° 2. 3. 4, 5. 6. 7. 8. 9. 10.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "i iizecki 2. » opoczyński „ jędrzejowski n kielecki „. kozienicki ‘i opatowski pińczowski m radomski sandomierski „ włoszczowski m. Kielce Ostrowiec Świętokrzyski Radom Starachowice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo lubelskie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pow. chełmski 1. pow. bialski krasnystawski 2. , . biłgorajski „. kraśnicki 3. , hrubieszowski „. lubartowski 4. „. łukowski lubelski 5. „ . radzyński „. puławski 6. „. tomaszowski zamojski 7 „ włodawski m. Chełm z _ Lublin Zamość",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "if, III.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. 2. 3. 4.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pow. kwidzyński „ starogardzki „ tczewski m. Tczew",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "COON AAP WH re",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "SNS Orie Oh re",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wojewódziwo białostockie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo olsztyńskie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pow. bartoszycki „' braniewski „ działdowski „ iławecki „ kętrzyński „ . lidzbarski „ morąski „. mrągowski „ Didzicki „ nowomiejski „ olsztyński „ ostródzki „ pasłęcki „ _ I reszelski + Suski „ szczycieński m. _ Olsztyn",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo gdańskie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pow. elbląski „ gdański „ kartuski „ kościerski „ _ lęborski „ malborski „ Sztumski „. wejherowski m. Elbląg „ Gdansk » Gdynia » Sopot",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo koszalińskie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pow. białogardzki „. bytowski „ człuchowski + drawski „ kołobrzeski » koszaliński „ miastecki „ sławieński „ Słupski „ szczecinecki „ wałecki \" „ Złotowski Koszalin Słupsk pow. augustowski „. białostocki „ bielski „ ełcki „ gołdapski „ grajewski „ Kolneński » łomżyński „ olecki „. Siemiatycki „ Sokólski „ Suwalski „ W wysoko-mazowiecki m. _ Białystok",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pow. giżycki „ piski „ węgorzewski",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "E jim IL.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo szczecińskie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. pow. chojeński 2. 3. 4. 5. 6. Fs 8. 9. 10. 11. 12. 13.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„ choszczeński „. gryficki „. gryfiński „ . kamieński „ _ łobeski » myśliborski , nowogardzki „. pyrzycki ki stargardzki „. szczeciński , woliński m. Szczecin",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo zielonogórskie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. pow. głogowski 2 3 4. 5. 6 te 8. 9. 10. 11. LŻJ 13. 14. 15. 16. 17. 18. 19.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pow. dzierżoniowski §0.00\" 3. O} Or ye GO. Oe Pe SOON Oo bo Nir „ jaworski „ legnicki „_ _ oleśnicki oławski „ _ strzeliński „ Średzki „. Świdnicki e: trzebnicki ‘10. =, wrocławski M M i „. Złotoryjski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12. » ząbkowick*",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13. m. Legnica",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14. „. Świdnica",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15. „. Wrocław",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pow. brzeski PLanwawnronm „ głubczycki „. grodkowski „.. kluczborski „ kozielski namysłowski „. niemodliński „ nyski „ oleski „ Opolski m",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„ . gorzowski „. gubiński „ kożuchowski „. krośnieński „. , międzyrzecki » Izepinski ,, . skwierzyński ,. strzelecki , sulechowski ,,. sulęciński 04, szprotawski „. świebodziński ,, wschowski ,, . zielonogórski „ . żagański „. żarski m. Gorzów Wlkp. ,, Zielona Gora",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo wrocławskie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pow. bolesławiecki 1. pow. bystrzycki „. górowski 2. „ kamiennogórski „ jeleniogórski 3. „ lubiński „ kłodzki 4. „. wałbrzyski » lubański 5. m. Wałbrzych Iwówecki „ . milieki i sycowski „,, wołowski » zgorzelecki m. Jelenia Gora",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo opolskie",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "iL.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11. pow. prudnicki ba raciborski Bd: ee strzelecki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14. m. Brzeg 15:40 - Nysa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16. z Opole Racibórz",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "328 = Poz. 217",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Il. IL",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wojewódziwo katowickie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. pow. częstochowski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. pow. będziński 2. ż %: bielski 3. i. „ . cieszyński",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4. „. gliwicki 5 as lubliniecki",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6. .« pszezynski du. ce Tybmicki 8 a tarnogórski",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9. 5 zawierciański",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10. m. Będzin",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11. ,, Bielsko-Biała 12: wz, BYTÓM",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13. , . Bytom Nowy",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "14. , . Czeladź",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15. , Cieszyn",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16. , . Chorzów",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17. , Dąbrowa Górnicza",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18. , Gliwice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "19. , Katowice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "20. » #$Mysłowice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "21. „ Ruda 22, „ Rybnik",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "23. » Sosnowiec",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "24. , Siemianowice Śl.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "25. „ _ Szopienice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "26. , Świętochłowice",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "27. „ _ Zawiercie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "28. „ Zabrze",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ", kłobucki m. Częstochowa",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo krakowskie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. pow. bocheński 2. 3. 4. 5. 6. 7. 8. 9. 10.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„ brzeski „ . chrzanowski „ . dębrowski „. krakowski „. limanowski „. miechowski „ myślenicki „. nowosądecki „. nowotarski 114.0... olkuski 12. 13. 14. 15. 16. 17. 18. 19.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ", oświęcimski „. tarnowski „. wadowicki „ żywiecki m. Kraków „ Nowy Sącz ,. Tarnów , Zakopane",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Województwo rzeszowskie",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1. pow. brzozowski 1. pow. leski 2. 3. 4. 5. 6 h",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4 dębicki 2. k lubaczowski „w. goricki 3. 4: sanocki „. jarosławski 4. „ . ustrzycki „ jasielski yg kolbuszowski",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "MOT 62 Dziennik Ustaw Nr 32",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "If. r 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "III. Z Z Z Z ZZ O Z OCL,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7. pow. krośnieński łańcucki 8. mielecki 9. niżański 10. przemyski 11. przeworski 12: 13.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "rzeszowski tarnobrzeski 14. 15.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przemyśl 16.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rzeszów",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik Nr 3 do rozporządzenia Rady Ministrów z dnia 10 lipca 1952 r. (poz. 217).",
+   "body": [
+    {
+     "type": "text",
+     "text": "TABELA GRUP INDYWIDUALNYCH GOSPODARSTW ROLNYCH"
+    },
+    {
+     "type": "text",
+     "text": "Nr grupy powierzchnia w ha przeliczeniowych Nr grupy powierzchnia w ha przeliczeniowych"
+    },
+    {
+     "type": "text",
+     "text": "0 od 0 do 0,99 8 1 n 1 „. 1,99 9 \" 3 \" 0 10 LJ LL U 11 4 4 4 „- 490 5 ee 12 6 » 6, 6,99 13 od 8 do 8,99 » 9, 9,99 „ 10 „ 11,99"
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "12) wo 14,99 „ 15 „ 19,99 „ 20.,„ 24,99",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik Nr 4 do rozporządzenia Rady Ministrów z dnia 10 lipca 1952 r. (poz. 217). TABLICA UKŁADÓW WSKAŹNIKÓW PROGRESJI",
+   "body": [
+    {
+     "type": "text",
+     "text": "isrupa gospód. Numer koiejny układu oraz układy wsksżnikow progresji Nr he przelicz. Zz 3 4 5 o"
+    },
+    {
+     "type": "text",
+     "text": "7 ó Y Le 11 12 > MDA ...śc<kvvkvkvjwvkkcknżznzNNNNA 1 L= 1,99 0,7 0,7 0,7 0,7 0,7 0,7 2 2— 2,99 1,0 1,0 10° 1,0 1,0 1,0 3 3 — 3,99 1,3 1,5 1,4 1,4 1,4 1,4 4 4 — '4,99 1,6 1,8 1,7 1,7 1,8 157 5 5 — 5,99 1,9 2,0 2,0 2,0 2,1 2,1 6 6 — 6,99 2,1 2,2 2;3 2,3 2,4 2,5 7 7— 7,99 2,3 2,4 2,5 2,0 2,7 2,8 8 8 — 8,99 2,5 2,5 2,6 250 2.9 3,1 9 9 — 9,99 2,7 2,6 2.7 2,9 3,1 3,4 10 10 — 11,99 3,0 2,7 2,8 3,1 3,4 357 11 12 — 14,99 3,4 2,8 3,0 3,4 3,8 4,0 12 15 - 19,99 3,7 2,9 3,2 3,7 4,2 4,3 13 20 :- 24,99 3,9 3,0 3,4 3,9 4,4 4,6 14 25i powyżej 4,0 3,0 3,5 4,0 4,5 4,7"
+    },
+    {
+     "type": "text",
+     "text": "0,7 0,7 0,7 0,7 0,7 0,7 1,0 1,0 1,0 1,0 1,0 1,0 1,5 1,4 1,6 1,5 1,7 1,7 1,9 1,8 2,2 2,0 2:3 2,3 2.3 2,2 2:7 2,5 2,8 2,8 2,6 2,7 3,1 3,0 3,3 3,3 2,9 3,1 3,4 3,5 3,8 3,8 3,2 3,4 3,6 4,0 4,1 4,3 3,4 337 3,8 4,4 4,4 4,7 3,6 4,0 4,0 4,8 4,7 5,0 3,8 _ 4,4 4,2 5,3 4,9 5,6 4,0 4,8 4,4 5,7 5:2 6,2 4,1 4,9 4,5 59 5,4 6,8 4,2 5,0 4,5 6,0 5,5 7,0"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik Nr 5 do rozporządzenia * Rady Ministrów z dnia 10 lipea 1952 r. (poz. 217).",
+   "body": [
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "WYKAZ ZAMIENNIKÓW I NORMY ZAMIANY *"
+    },
+    {
+     "type": "text",
+     "text": "Lp. Zamiennik Normy zamiany za 100 kg zamiennika"
+    },
+    {
+     "type": "text",
+     "text": "A. Grupa Naseknajć i i"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "zboża jare i ozime 100 kg zboża",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "groch 240 „ ve PRACA 230 m",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "ust_4",
+     "text": "łubin pastewny 230 „ \"",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "ust_5",
+     "text": "peluszka 170 „ \"",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "wyka jara 170 „ \"",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "ust_7",
+     "text": "wyka ozima 400 „ «",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "ust_6",
+     "text": "bobik 150 u u",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "9",
+     "path": "ust_9",
+     "text": "esparceta 350; 5, +",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "10",
+     "path": "ust_10",
+     "text": "inkarnatka 400 „ u",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "11",
+     "path": "ust_11",
+     "text": "koniczyna czerwona, biała, szwedzka 700 m",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "12",
+     "path": "ust_12",
+     "text": "lucerna 800. ,, i B. Grupa konsumpcyjno-przemysłowa: 13, zboża jare i ozime 100 ,, in",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "14",
+     "path": "ust_14",
+     "text": "groch 220 u a",
+     "children": [
+      {
+       "type": "text",
+       "text": "Lp. Zamiennik Normy zamiany za 100 kg zamiennika"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "15",
+     "path": "ust_15",
+     "text": "fasola 200 kg zboża",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "16",
+     "path": "ust_16",
+     "text": "gryka 250 Ś “17. kukurydza jadalna i pastewna 250 % ay",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "18",
+     "path": "ust_18",
+     "text": "kapusta biała ERIE.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "19",
+     "path": "ust_19",
+     "text": "kapusta czerwona 14 a",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "20",
+     "path": "ust_20",
+     "text": "kapusta włoska en a",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "21",
+     "path": "ust_21",
+     "text": "marchew 10% ii",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "22",
+     "path": "ust_22",
+     "text": "buraki 10: s",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "23",
+     "path": "ust_23",
+     "text": "pomidory POPRZE",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "24",
+     "path": "ust_24",
+     "text": "ogórki td. 5",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "25",
+     "path": "ust_25",
+     "text": "selery 15 , a",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "26",
+     "path": "ust_26",
+     "text": "pory 15% 2",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "27",
+     "path": "ust_27",
+     "text": "pietruszka 1 ean ae",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "28",
+     "path": "ust_28",
+     "text": "szpinak IS",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "29",
+     "path": "ust_29",
+     "text": "cebula 155; *",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "30",
+     "path": "ust_30",
+     "text": "czosnek 50 w Pe",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "31",
+     "path": "ust_31",
+     "text": "kalafiory 14): a",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

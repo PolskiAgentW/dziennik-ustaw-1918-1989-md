@@ -1,0 +1,72 @@
+{
+ "eli": "DU/1950/483",
+ "title": "Obwieszczenie Prezydenta Rzeczypospolitej z dnia 24 listopada 1950 r. prostujące błędy w dekrecie o zmianie dekretu o opłacie skarbowej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/483/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE PREZYDENTA. RZECZYPOSPOLITEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 listopada 1950 r."
+  },
+  {
+   "type": "text",
+   "text": "prostujące błędy w dekrecie o zmianie dekretu o opłacie skarbowej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 pkt 1 dekretu Prezydenta Rzeczypospolitej z dnia 6 września 1935 r. o wydawaniu Dziennika Ustaw Rzeczypospolitej Polskiej (Dz. U. R. P. z 1935 r. Nr 68, poz. 423 i z 1945 r. Nr 55, poz. 305) prostuje się w dekrecie z dnia 26 października 1950 r. 5 zmianie dekretu o opłacie skarbowej (Dz. U. R. P. Nr 49, poz. 453) następujące błędy:"
+  },
+  {
+   "type": "text",
+   "text": "w art. 1.II pkt 7) w poz. 6:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "pod lit. b) zamiast „1000 zt“ powinno być „100 zł”,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "po lit. b) powinny być dodane dwie dalsze litery w brzmieniu: „C©) upoważniające do odebrania sumy pieniężnej przekraczającej 10.000 zł . z s 500 zł",
+   "children": [
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_2/lit_d",
+     "text": "inne pełnomocnictwa s : s 1.000 zi.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej: B. Bierut"
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  },
+  {
+   "type": "text",
+   "text": "Adres Redakcji i Administracji: Warszawa, ul. Leszno 53/55. a ni Tłoczone z polecenia Ministra Sprawiedl. w Drukarni Ministerstwa Sprawiedl. w Warszawie, ul. Nowowiejska 6."
+  },
+  {
+   "type": "text",
+   "text": "Cena 48 gr,"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

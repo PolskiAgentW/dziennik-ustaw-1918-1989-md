@@ -1,0 +1,323 @@
+{
+ "eli": "DU/1950/299",
+ "title": "Rozporządzenie Rady Ministrów z dnia 29 lipca 1950 r. w sprawie sprawozdawczości statystycznej prywatnych zakładów przemysłowych i rzemieślniczych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/299/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 lipca 1950 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie sprawozdawczości statystycznej prywatnych zakładów przemysłowych i rzemieślniczych."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 7 dekretu z dnia 31 lipca 1946 r. o organizacji statystyki ,państwowej i o Głównym Urzędzie Statystycznym (Dz. U. R. P. z 1946 r. Nr 41, poz. 239 i z 1947 r. Nr 65, poz. 393) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Prywatne zakłady przemysłowe i. rzemieślnicze, zwane dalej w skróceniu zakładami, obowiązane są składać w Głównym Urzędzie Statystycznym sprawozdania dla celów badań statystycznych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Główny Urząd Statystyczny w przypadkach wątpliwych rozstrzyga, co jest zakładem w rozumieniu n uejszego rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Zakłady przemysłowe składają sprawozdania zawierające informacje o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "charakterze zakładu i formie prawnej przedsiębiorstwa;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_1/pkt_2",
+       "text": "wielkości produkcji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "wartości produkcji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_1/pkt_4",
+       "text": "ilości i wartości zużytych surowców i energii;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_1/pkt_5",
+       "text": "kosztach produkcji i składnikach bilansowych działalności;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_2/ust_1/pkt_6",
+       "text": "majątku trwałym, wyposażeniu technicznym i zdolności produkcyjnej;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_2/ust_1/pkt_7",
+       "text": "zaopatrzeniu materiałowym;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_2/ust_1/pkt_8",
+       "text": "inwestycjach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_2/ust_1/pkt_9",
+       "text": "stanie zatrudnienia i wykorzystaniu czasu pracy; wydajności. pracy; wysokości płac, wysokości wypłat z tytułu płac, jak również rodzaju i wysokości świadczeń socjalnych i innych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Zakłady rzemieślnicze składają sprawozdania zawierające informacje o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_2/pkt_1",
+       "text": "rodzaju uprawianego rzemiosła i formie prawnej przedsiębiorstwa rzemieślniczego;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_2/ust_2/pkt_2",
+       "text": "liczbie zatrudnionych pracowników i przepracowanym czasie. pracy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_2/pkt_3",
+       "text": "wysokości wypłat z tytułu płac;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_2/ust_2/pkt_4",
+       "text": "wielkości produkcji, obrocie oraz wartości materiałów i energii zużytych do produkcji;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_2/ust_2/pkt_5",
+       "text": "wyposażeniu technicznym.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Instrukcja wydana przez Prezesa Głównego Urzędu Statystycznego za zgodą * Pr”-wodniczącego Państwowej Komisji Planowania Gospodarczego ustali szczegółowo zakres infcrmacyj dla poszczególnych kategorii zakładów oraz dla rodzajów „sprawozdań przewidzianych w § 3.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Zakłady przemysłowe składają sprawozdania miesięczne, kwartalne i roczne. składają sprawozdania",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Zakłady rzemieślnicze roczne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Zarządzenie Przewodniczącego Państwowej Komisji Planowania Gospodarczego może ustanowić inne rodzaje sprawozdań.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Sprawozdania przesyła się do Głównego Urzędu Statystycznego na formularzach i według instrukcji wydanej przez Prezesa Głównego Urzędu Statystycznego ża zgodą Przewodniczącego Państwowej Komisji. Planowania Gospodarczego. Instrukcja ta może przewidzieć przesyłanie sprawozdań za pośrednictwem organizacji, do których zakłady należą, oraz sporządzanie i przesyłanie przez te organizacje sprawozdań zbiorczych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Główny Urząd Statystyczny dostarcza formularzy i instrukcji,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Koszty sporządzenia i wysyłki formularzy oraz instrukcyj ponosi Główny Urząd Statystyczny.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Obowiązek składania sprawozdań ciąży na właścicielu i na osobie kierującej zakładem, a w przypadkach przewidzianych w'§ 4 zdanie drugie również na osobie kierującej biurem organizacji, do której zakład należy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "Główny Urząd Statystyczny i jego organy są uprawnione do przeprowadzania na miejscu w zakładach oraz biurach organizacji, do których one należą, kontroli prawidłowości sporządzania sprawozdań, jak również prawdziwości zawartych w nich informacyj. W tym celu przysiuguje Głównemu Urzędowi Statystycznemu i jego organom prawo wglądu do materiałów, na podstawie których sprawozdania zostały sporządzone.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Z dniem wejścia w życie rozporządzenia tracą moc obowiązującą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_8/pkt_1",
+     "text": "rozporządzenie Rady Ministrów z dnia 6 lutego 1922 r. w przedmiocie statystyki stanu zatrudnienia w przemyśle (Dz. U. R. P. z 1922 r. Nr 12, poz. 108 i Nr 48, poz. 427 oraz z 1923 r. Nr 92, poz. 130);",
+     "children": [
+      {
+       "type": "text",
+       "text": "Poz. 299, 300 ji 301"
+      },
+      {
+       "type": "text",
+       "text": "rozporządzenie Rady Ministrów z dnia 22 marca 2) 1923 r. w przedmiocie statystyki stanu zatrudnienia w przemyśle w górnośląskiej części województwa śląskiego (Dz. U. R. P. Nr 36, poz. 235); rozporządzenie Rady Ministrów z dnia 17 czerwca:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_8/pkt_3",
+     "text": "1927 r. o statystyce przemysłowej (Dz. U. R. P. Nr 63, poz. 558); rozporządzenie Rady Ministrów z dnia 28 lutego 4) 1928 r. o statystyce zarobków (Dz. U. R. P. Nr 29, poz. 275); rozporządzenie Rady Ministrów z dnia 20 czerwca",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_8/pkt_5",
+     "text": "1939 r. o statystyce przemysłu gospodniego (Dz. U. R. P. Nr 56, poz. 359).",
+     "children": [
+      {
+       "type": "text",
+       "text": "; : . ."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Wykonanie rozporządzenia porucza się Przewodniczącemu Państwowej Komisji Płanowania Gospodarczego. „",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  },
+  {
+   "type": "text",
+   "text": "."
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

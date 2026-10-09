@@ -1,0 +1,100 @@
+{
+ "eli": "DU/1959/407",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 4 grudnia 1959 r. w sprawie utworzenia i zmiany granic niektórych miast w województwie warszawskim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1959/407/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 grudnia 1959 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia i zmiany granic niektórych miast w województwie warszawskim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 5 ust. 1 ustawy z dnia 4 lutego 1850 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Z obszaru osiedla Karczęw w powiecie otwockim, województwie warszawskim tworzy się miasto Karczew w tymże powiecie i województwie.",
+   "children": [
+    {
+     "type": "text",
+     "text": "województwie warszawskim wyłącza się: W"
+    },
+    {
+     "type": "text",
+     "text": "§ 2 W + 1"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "z miasta powiecie makowskim miejscowości Różan w Paulinowo, Podbórz i Prycanowo i włącza się je do gromady Różan w tymże powiecie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "z miasta Raciąż w powiecie sierpeckim miejscowość Folwark Raciąż i wiącza się ją do gromady Raciąż w tymże powiecie; ,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "z miasta Sokołów Podlaski w powiecie sokołowskim miejscowości Bartosz, Karlusin, Łubianki, Malinowiec, Podzielona, Podiogów, Podkupienty, Przezdziatka, Wesoła, Żanecin i włącza się je do gromady Sokołów w tym= że powiecie; 4) z gromady Grzegorzewice Nowe w powiecie grójeckim miejscowość Niemojewice i włącza się ją do miasta Warka w tymże powiecie",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "z gromady Studzieniec w powiecie sierpeckim kolonię Studzieniec, osady Borowo i Wymysłów i włącza się je do miasta Sierpc w tymże powiecie; 6) w powiecie węgrowskim:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "z gromady Jartypory kolonię Nowiny,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "z gromady Poszewka kolonię Grudzie i włącza się je do miasta Węgrów w tymże powiecie.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem 31 gru< dnia 1959 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

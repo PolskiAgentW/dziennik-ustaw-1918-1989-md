@@ -1,0 +1,113 @@
+{
+ "eli": "DU/1950/79",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 11 lutego 1950 r. w sprawie zmian organizacyjnych w akademiach lekarskich.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/79/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 lutego 1950 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmian organizacyjnych w akademiach lekarskich."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 16 i 20 dekretu z dnia 28 października 1947 r. o organizacji nauki i szkolnictwa wyższego (Dz. U. R. P. Nr 66, poz. 415) zarządza się w porozumieniu z Ministrem Oświaty, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W Akademii Lekarskiej w Gdańsku zwija się Wydział Stomatologiczny oraz tworzy się Oddział. Stomatologiczny w ramach Wydziału Liekarskiego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W Akademii Lekarskiej w Gdańsku na Oddziale Stomatologicznym Wydziału Lekarskiego tworzy się katedrę protetyki dentystycznej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W Śląskiej Akademii Lekarskiej imienia Ludwika Waryńskiego tworzy się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "na Wydziale Lekarskim katedrę mikrobiologii wraz z połączonym z nią zakładem naukowym oraz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "na Oddziale Stomatologicznym Wydziału Lekarskiego katedrę ortodoncji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "\" 8 4. W Pomorskiej Akademii Lekarskiej imienia generała Karola Świerczewskiego:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "na Wydziale Lekarskim:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "przemianowuje się katedrę chirurgii na katedrę chirurgii I,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "tworzy się katedrę chirurgii II wraz z połączoną z nią kliniką oraz następujące katedry wraz z połączonymi z nimi zakładami naukowymi: anatomii prawidłowej i topograficznej, histologii i embriologii ogólnej, chemii ogólnej, fizyki, chemii fizjologicznej, biologii, patologii ogólnej, farmakologii, medycyny sądowej; i",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "na Oddziale Stomatologicznym Wydziału Lekarskiego tworzy się katedry: protetyki dentystycznej, chirurgii stomatologicznej, dentystyki zachowawczej, ortodoncji.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rozporządzenie wchodzi w życie z dniem 5 5. ogłoszenia,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: T. Michejda"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Oświaty: w z. E. Krassowska"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

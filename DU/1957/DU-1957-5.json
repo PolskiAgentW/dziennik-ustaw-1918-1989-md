@@ -1,0 +1,75 @@
+{
+ "eli": "DU/1957/5",
+ "title": "Dekret z dnia 31 grudnia 1956 r. o zmianie dekretu o uchwaleniu i wykonywaniu budżetu Państwa.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1957/5/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 31 grudnia 1956 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie dekretu o uchwałaniu i wykonywaniu budżetu Państwa."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W dekrecie z dnia 17 grudnia 1952 r. o uchwalaniu i wykonywaniu budżetu Paustwa (Dz. U. z 1052 r. Nr 30, poz. 334 oraz z 1054 r, Nr 20, poz. 94 i Nr 56, poz. 273) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 9 ust. 2 otrzymuje brzmionie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„2. Redy nara «uchwala'ą budtety terenowe prized 1.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "uchwaleniera przez Sejm budżetu Państwa. ;",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "art. 12 skreśla się.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Traci moc przepis art. 7 ust. 2 ustawy z dnia 20 marca 1950 r. o terenowych organach jednolitej władzy państwowej (Dz. U. Nr 14, poz. 130).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 3. Dekret wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Państwa: A. Zawadzki Sekretarz Rady Państwa: St. Skrzeszewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,284 @@
+{
+ "eli": "DU/1954/253",
+ "title": "Rozporządzenie Rady Ministrów z dnia 7 października 1954 r. w sprawie utworzenia osiedli.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/253/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW °"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 pażdziernika 1954 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia osiedli."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 3 i art. 6 ustawy z dnia 25 wrzesnia 1954 r. o osiedlach i radach narodowych osiedli (Dz, U. Nr 43, poz. 192) zarządza się, co nastepuje: § 1. Tworzy się osiedla z obszarów następujących giomad:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w województwie bydgoskim Jabłonowo w powiecie brodnickim,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w województwie gdańskim Hel, Jastarnia, Władysławowo w powiecie puckim,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "w województwie kieleckim:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "Stąporków w powiecie koneckim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "Ćmielów w powiecie opatowskim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_3/lit_c",
+     "text": "Kazimierza Wielka w powiecie pińczowskim,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "w województwie krakowskim:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_4/lit_a",
+     "text": "Sławków w powiecie olkuskim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "Brzeszcze w powiecie oświęcimskim,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "w województwie łódzkim Zelów w powiecie łaskim,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "województwie olsztyńskim w Korsze w powiecie kętrzyńskim,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "w województwie opolskim:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_7/lit_a",
+     "text": "Ozimek w powiecie opolskim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_7/lit_b",
+     "text": "Otmęt i Zawadzkie w powiecie strzeleckim,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "w województwie rzeszowskim Dęba w powiecie tarnobrzeskim,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "w województwie stalinogrodzkim:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_9/lit_a",
+     "text": "Kazimierz, Klimontów, Wojkowice Komorne i Zagórze w powiecie będzińskim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_9/lit_b",
+     "text": "Ustroń w powiecie cieszyńskim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_9/lit_c",
+     "text": "Boguszowice, Chwałowice i Czerwionka w po-\" wiecie rybnickim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_9/lit_d",
+     "text": "Brzozowice-Kamień w powiecie tarnogórskim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_9/lit_e",
+     "text": "Kostuchna, Łaziska Średnie, Murcki, Wesoła w powiecie tyskim,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "10",
+   "path": "pkt_10",
+   "text": "w województwie szczecińskim Warszów w powiecie wolińskim,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "11",
+   "path": "pkt_11",
+   "text": "w województwie warszawskim Chodaków w powiecie sochaczewskim,",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "12",
+   "path": "pkt_12",
+   "text": "w województwie wrocławskim:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_12/lit_a",
+     "text": "Pieszyce w powiecie dzierżoniowskim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_12/lit_b",
+     "text": "Karpacz. Sobieszów, Szklarska Poręba w powiecie jeleniogórskim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_12/lit_c",
+     "text": "Leśna w powiecie lubańskim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "pkt_12/lit_d",
+     "text": "Malczyce w powiecie średzkim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "e",
+     "path": "pkt_12/lit_e",
+     "text": "Gorce, Głuszyca, Jedlina Zdrój, Kuźnice Świdnickie w powiecie wałbrzyskim, :",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "f",
+     "path": "pkt_12/lit_f",
+     "text": "Bardo w powiecie ząbkowickim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "g",
+     "path": "pkt_12/lit_g",
+     "text": "Pieńsk i Węgliniec w powiecie zgorzeleckim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "h",
+     "path": "pkt_12/lit_h",
+     "text": ".Wilków w powiecie złotoryjskim,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "13",
+   "path": "pkt_13",
+   "text": "w województwie zielonogórski:n Przemków w powiecie szprotawskim.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: w z. H. Minc"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

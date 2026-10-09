@@ -1,0 +1,87 @@
+{
+ "eli": "DU/1951/150",
+ "title": "Dekret z dnia 29 marca 1951 r. w sprawie zmiany dekretu o zniesieniu odrębnych systemów emerytalnych dla pracowników b. związków samorządu terytorialnego oraz ich przedsiębiorstw i zakładów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1951/150/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 marca 1951 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany dekretu o zniesieniu odrębnych systemów emerytalnych dla pracowników b. związków samorządu terytorialnego oraz ich przedsiębiorstw i zakładów."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej i ustawy z dnia 23 marca 1951 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 16, poz. 126) — Rada Ministrów postanawia, a Rada Państwa zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W dekrecie z dnia 21 września 1950 r. o zniesieniu odrębnych systemów emerytalnych dla pracowników b. związków samorządu terytorialnego oraz ich przedsiębiorstw i zakładów (Dz. U. R. P. Nr 44, poz, 407) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "i",
+     "path": "art_1/lit_i",
+     "text": "w art, 9 skreśla się pkt 5; ;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "wprowadza się nowy art. 9a w brzmieniu: „Art. 9a. 1, Minister Finansów w porozumieniu z zainteresowanymi ministrami może przyznać zasiłkj osobom pobierającym zaopatrzenie z mocy uchwał rad narodowych, zapadłych przed dniem wejścia w życie niniejszego dekretu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Rada Ministrów określi w drodze rozporządzenia warunki przyznania i wysokość zasiłków, o których mowa w ust. 1.';",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/ust_2/pkt_3",
+       "text": "wprowadza się nowy art. 12a w brzmieniu: „Art, 12a, Do pierwszego dnia miesiąca następującego po dniu wejścia w życie rozporządzenia, przewidzianego w art. 9a ust. 2, prezydia rad narodowych nadal wypłacają zaopatrzenia, pobierane z mocy uchwał rad narodowych w dotychczasowej wysokości z tym ograniczeniem, że zaopatrzenie nie może być wyższe niż 300 zi“.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie dekretu porucza się Prezesowi Rady Ministrów w porozumieniu z zainteresowanymi ministrami.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 3. Dekret wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 listopada 1950 r."
+    },
+    {
+     "type": "text",
+     "text": "Prezydent Rzeczypospolitej; B. Bierut"
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

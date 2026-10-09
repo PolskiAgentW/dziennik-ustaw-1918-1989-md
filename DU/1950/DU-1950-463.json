@@ -1,0 +1,144 @@
+{
+ "eli": "DU/1950/463",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 18 października 1950 r. w sprawie zmian organizacyjnych w Akademii Medycznej w Warszawie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/463/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 października 1950 r."
+  },
+  {
+   "type": "text",
+   "text": "w Sprawie ziaian organizacyjnych w Akademii Medycznej w Warszawie."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 16 1 20 dekretu z dnia 28 października 1947 r. o orgamizacji nauki j szkolnictwa wyższego (Dz. U. R. P. Nr 66, poz. 415) zarządza się, co następuje: ."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W Akademii Medycznej w Warszawie tworzy w ramach Wydziału Lekarskiego: SiĘ",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "Oddział Sanitarno-Higieniczny oraz * 2) Oddział Pediatrii.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W Akademii Medycznej w Warszawie tworzy Ę",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "na Cddziale Sanitarno-Higienicznym Wydziału Lekarskiego — katedry:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_1/lit_a",
+       "text": "higieny żywienia,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_1/lit_b",
+       "text": "higieny osiedli,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_1/lit_c",
+       "text": "higieny pracy,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_2/pkt_1/lit_d",
+       "text": "higieny szkolnej oraz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_1/lit_e",
+       "text": "epidemiologii;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "na Oddziale Pediatrii Wydziału Lekarskiego — katedry:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "propedeutyki pediatrycznej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "diagnostyki chorób dziecięcych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_2/lit_e",
+       "text": "terapii chorób dziecięcych, ;d) chorób zakaźnych wieku dziecięcego oraz",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_2/pkt_2/lit_e",
+       "text": "chirursii dziecięcej.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporzędzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Minister Zdrowia: f. Michejda"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

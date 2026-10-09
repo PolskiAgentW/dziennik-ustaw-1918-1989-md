@@ -1,0 +1,95 @@
+{
+ "eli": "DU/1953/155",
+ "title": "Dekret z dnia 29 lipca 1953 r. o zmianie ustawy o zakładaniu w budynkach mieszkalnych skrzynek listowych do doręczania korespondencji i czasopism.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1953/155/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 29 lipca 1953 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmłanie ustawy o zakładaniu w budynkach mieszkalnych skrzynek listowych do doręczania korespondencji i czasopism."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie z dnia 18 stycznia 1951 r. o zakładaniu w budynkach mieszkalnych skrzynek listowych do doręczania korespondencji i czasopism (Dz. U. Nr 6, poz. 54) wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 1 ust. 1 po wyrazach „skrzynki listowe do\" wstawia się wyraz „bezpłatnego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "art. 2 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„„Art. 2, Obowiązek zakładania skrzynek oraz utrzymania ich w stanie zdatnym do użytku ciąży na państwowym przedsiębiorstwie „Polska Poczta, Telegraf i Telefon\" bez obowiązku uiszczania opłat z tytułu zakładania i eksploatacji skrzynek posiadaczowi budynku lub osobie sprawującej zarząd budynkiem. '';",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "i 1",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_1/pkt_3",
+     "text": "art. 4 otrzymuje brzmienie:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„Art. 4. Minister Poczt i Telegrafów w porozumieniu z Ministrem Gospodarki Komunalnej ustala terminy i kolejność zakładania skrzynek. '';",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_1/pkt_4",
+     "text": "w art. 5 wyrazy „Przemysłu Ciężkiego” zastępuje się wyrazem „Finansów”,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Wykonanie dekretu porucza się Przewodni- ‘czacemu Państwowej Komisji Planowania Gospodarczego oraz Ministrom: Poczt i Teiegralów, Gospodarki Komunalnej i Finansów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art 3, Dekret wchodzi w życie z dniem ogłoszenia,"
+    },
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Państwa: A. Zawadzki Sekretarz Rady Państwa: M. Rybicki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

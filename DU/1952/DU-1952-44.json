@@ -1,0 +1,779 @@
+{
+ "eli": "DU/1952/44",
+ "title": "Rozporządzenie Ministra Finansów z dnia 12 października 1951 r. w sprawie wykonania dekretu o opłacie skarbowej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1952/44/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA FINANSÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 12 października 1951 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wykonania dekretu o opłacie skarbowej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 ust. 3 i art. 7 dekretu z dnia 3 lutego 1947 r. o opłacie skarbowej (Dz. U. R. P. z 1951 r. Nr 9, poz. 73) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Powołane w rozporządzeniu niniejszym artykuły bez bliższego określenia oznaczają artykuły dekretu z dnia 3 lutego 1947 r. o opłacie skarbowej (Dz. U. R. P. z 1951 r. Nr 9, poz. 73).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Ilekroé w rozporządzeniu niniejszym jest mowa o Tabeli opłat skarbowych, należy rozumieć Tabelę opłat skarbowych stanowiącą załącznik do art. 1 dekretu z dnia 3 lutego 1947 r. o opłacie skarbowej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do art. 4 ust. 3."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "W zakresie obliczania, pobierania, zaświadczania, prowadzenia rejestru oraz wpłacania opłaty skarbowej notariusze stosują odpowiednio przepisy $§ 39—43 oraz § 58 ust. 2, a sędzia obywatelski — 8 46 rozporządzenia z dnia 12 października 1951 r. w sprawie wykonania dekretu o podatku od nabycia praw majątkowych (Dz. U. R. P. z 1952 r. Nr 7, poz. 43).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "Wzory rejestrów, o których mowa w §§ 5, 8 i 11, ustali osobne zarządzenie Ministra Finansów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Przedsiębiorstwo państwowe „Polskie Koleje Państwowe\" oblicza opłatę skarbową oraz składa deklaracje w następujący sposób:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "na podstawie prowadzonych w myśl obowiązujących przepisów rachunkowych dla kas biletowych, bagażowych, towarowych i ajencji celnych miesięcznych wykazów nadanego bagażu, nadanych przesyłek ekspresowych, nadanych i wydanych przesyłek towarowych w komunikacji wewnętrznej i międzynarodowej — w których to wykazach powinny być uwidocznione w osobnej rubryce sumy „pobranych kwot z tytułu opłaty skarbowej od przewozu za oxres miesięczny — biura finansowe w dyrekcjach okręgowych kolei państwowych sporządzają zgodnie z obowiązującym je regulaminem służbowym co miesiąc następujące zestawienia:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_1/lit_a",
+         "text": "ogólne zestawienie należności z przewozu tor warów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_1/lit_b",
+         "text": "zestawienie ostatecznych wyników z przewozu bagażu i przesyłek ekspresowych z całego okręgu dyrekcji, wykazując w osobnej rubryce pobrane opłaty skarbowe za dany okres sprawozdawczy;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "na podstawie obu zestawień oraz zlecenia księgowego następuje przekazanie opłat skarbowych, pobranych z całej dyrekcji danego okręgu, organowi finansowemu I instancji siedziby danej dyrekcji właściwemu do wymierzenia i poboru podatku od nabycia praw majątkowych i opłaty skarbowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Powyższe wykazy, zestawienia i księgi zastępują rejestr opłat skarbowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Osoby trudniące się przewozem towarów pojazdami mechanicznymi (przewoźnicy), z wyjątkiem przedsiębiorstwa „Państwowa Komunikacja Samochodowa' (§ 7), prowadzą księgę przewozów według wzoru ustalonego obowiązującym regulaminem przewozu towarów pojazdami mechanicznymi. Księga przewozów powinna zawierać osobną rubrykę do wpisywania pobranej opłaty skarbowej. Księga ta zastępuje rejestr opłat skarbowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "Przewoźnik obowiązany jest prowadzić zgodnie z obowiązującym regulaminem przewozu towarów „kwitariusz przewozowy” osobno dla każdego pojazdu z zachowaniem kolejności numerów i wydawać pokwitowanie co do każdej przyjętej przesyłki. Grzbiet kwitariusza pozostaje w kwitariuszu, pokwitowanie zaś otrzymuje nadawca.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_4/ust_3",
+     "text": "Przewoźnik powinien zarówno w grzbiecie kwitariusza jak i w pokwitowaniu umieścić zaświadczenie o uiszczeniu opłaty skarbowej o treści „Opłatę skarbową od przewozu w kwocie 1.20 zł pobrano”, w przy-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "padkach gdy kwotę opłaty skarbowej obliczono w sposób:określony w § 28, należy w zaświadczeniu wpisać zamiast kwoty 1.20 zł kwotę tak obliczoną."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Przewoźnicy, nie wymienieni w $§ 3, 4 i 7, \"prowadzą rejestry według ustalonego wzoru.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Zaświadczenie o uiszczeniu opłaty skarbowej, zawierające pozycję rejestru opłat skarbowych i kwotę pobranej opłaty skarbowej, powinno być umieszczone zarówno na dokumencie wydawanym osobie nadającej rzecz do przewozu, jak i na dokumencie pozostającym u przewoźnika.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Przedsiębiorstwo „Państwowa Komunikacja Samochodowa' pobiera opłatę skarbową od przewozów towarowych, tj. od każdego listu przewozowego lub zlecenia spedycyjnego. Listy przewozowe i wystawiane na podstawie zleceń zbiorowe faktury (rachunki) ekspozytury Państwowej Komunikacji Samochodowej rejestrują w „Dzienniku Obrotów*, wykazując opłatę skarbową w oddzielnej rubryce.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Przedsiębiorstwo „Państwowa Komunikacja Samochodowa\"™ pobiera opłatę skarbową od dowodów stwierdzających otrzymanie bagażu ręcznego do przewozu (bilet taśmowy bagażowy) w myśl obowiązującej instrukcji handlowej i finansowej przedsiębiorstwa. Zaświadczenie pobrania opłaty skarbowej powinno być zamieszczone zarówno na samym bilecie bagażowym, jak i na jego grzbiecie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "W rozliczeniu ze sprzedanych biletów (cedułach), sporządzonym w myśl obowiązującej instrukcji handlowei i finansowej dla przedsiębiorstwa, konduktorzy uwidaczniają w specjalnej rubryce sumę opłat skarbowych, która powinna odpowiadać iloczynowi z pomnożenia ilości wydanych biletów bagażowych przez stawkę ' opłaty skarbowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_7/ust_4",
+     "text": "W wykazie rozliczeń sprzedanych biletów, sporządzonym przez kasę danej ekspozytury Państwowej Komunikacji Samochodowej, sumy opłaty skarbowej figurujące w rozliczeniu ze sprzedaży biletów, a pobrane przez poszczególnych konduktorów, należy. wpisywać w oddzielnej rubryce.",
+     "children": [
+      {
+       "type": "text",
+       "text": "_ 5. Na podstawie wykazów rozliczeń sprzedanych biletów ekspozytury Państwowej Komunikacji Samochodowej sporządzają ogólne zestawienie opłaty skarbowej za dany okres sprawozdawczy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "par_7/ust_6",
+     "text": "Wymienione w poprzednich ustępach wykazy zastępują rejestr opłat skarbowych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Przedsiębiorcy okrętowi żeglugi morskiej, przybrzeżnej lub śródlądowej i żeglugi powietrznej, ich pełnomocnicy i komisanci prowadzą rejestr opłat skarbowych od przewozu osób i rzeczy (poz. 11 lit. a) i b) Części I Tabeli opłat skarbowych) według ustalonego wzoru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Jeżeli płatnik prowadzi osobną ewidencję listów przewozowych lub innych tego rodzaju dokumentów, może wpisywać do rejestru pod jedną pozycją zbiorową wszystkie listy przewozowe lub inne tego rodzaju dokumenty za dany okres sprawozdawczy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Przedsiębiorcy okrętowi (żeglugowi) prowadzą . powyższy rejestr opłat skarbowych (ust. 1) wspólnie dla swych zakładów filialnych; rejestr ten powinien obej:",
+     "children": [
+      {
+       "type": "text",
+       "text": "= Poz. 44"
+      },
+      {
+       "type": "text",
+       "text": "mować również wszystkie te przypadki, w których zawarcie umowy o przewóz, a także odstąpienie od niej za wzajemną zgodą stron (stornowanie) nastąpiło za pośrednictwem zakładów filialnych. W razie stornowania umowy, tak w przypadkach, gdy przedsiębiorstwo zwraca klieniowi całą sumę pobraną zaliczkowo (kwit zadatkowy), jak również gdy zatrzymuje pewną kwotę z sumy pobranej zaliczkowo, należy w rejestrze podać również pozycję, pod którą wpisano kwit zadatkowy, a przy tej pozycji powołać pozycję, pod którą dokonano stornowania. W tych przypadkach zamiast pozycji rejestru opłat skarbowych należy zamieszczać na dokumencie i jego odpisie odpowiednie oznaczenie umożliwiające odszukanie odnośnej księgi, jej stronicy i pozycji."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Przedsiębiorcy okrętowi żeglugi morskiej, przybrzeżnej, śródlądowej lub żeglugi powietrznej, ich pełnomocnicy i komisanci zaświadczają na oryginałach i odpisach dokumentów przewozowych, biletów okrętowych lub innych dokumentów uprawniających do jazdy statkiem morskim, rzecznym lub powietrznym oraz na listach przewozowych lub innych tego rodzaju dokumentach sporządzanych przez wysyłającego i wręczanych przewoźnikowi, a także na kwitach bagażowych uiszczenie opłaty skarbowej z podaniem pozycji rejestru opłat skarbowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Jeżeli kwit bagażowy wydany został łącznie z biletem pasażerskim (na jednym blankiecie), a bagaż podlega opłacie taryfowej (przewozowej), płatnik pobiera opłatę skarbową od kwitu bagażowego niezależnie od opłaty skarbowej od biletu pasażerskiego. Opłata ta powinna być uwidoczniona na kwicie bagażowym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Przedsiębiorcy okrętowi oraz żeglugi powietrznej obliczają i pobierają onłatę skarbową od przewozu osób (poz. 11 lit. b) Części I Tabeli opłat skarbowych) w przypadkach:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_10/pkt_1",
+     "text": "gdy na obszarze Państwa sporządzili sami lub przez. swoje przedsiębiorstwo, pełnomocnika lub komisanta umowę o przewóz statkiem morskim lub powietrznym osoby w Polsce zamieszkałej, bez względu na to, czy wydanie dokumentu uprawniającego do jazdy następuje w kraju czy za granicą;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_10/pkt_2",
+     "text": "gdy osoba zamieszkała w Polsce otrzymała ua obszarze Polski dokument uprawniający do jazdy statkiem morskim bądź pismo upoważniające do odbioru takiego dokumentu (prepaid), a przedsiębiorca ma siedzibę w Polsce lub działa tu przez swoje przedstawicielstwo albo przez pełnomocnika lub komisanta, bez względu na to, czy umowę przewozu zawarto na obszarze Polski, czy za granicą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Osoby trudniące się zawodowo przechowywaniem rzeczy cudzych (przechowawcy) powinny prowadzić rejestr opłat skarbowych według ustalonego wzoru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Przepisy § 6 o zaświadczeniu stosuje się odpowiednio.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_11/ust_3",
+     "text": "W razie wydawania przez przechowawcę dowodów przechowania z księgi grzbietowej (jukstowej) — zaświadczenie powinno być umieszczone zarówno na części pozostającej w księdze grzbietowej, jak i na",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "składowym dowodzie posiadania oraz na warrancie (składowym dowodzie zastawniczym) z podaniem pozycji rejestru opłat. j"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Płatnicy wymienieni w art. 4 ust. 1 — z wyfatkiem notariuszów — stosują w zakresie opłaty skarbowej przepisy $§ 57—59 rozporządzenia z dnia 12 października 1951 r. w sprawie wykonania dekretu o podatku od nabycia praw majątkowych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do art. 5 ust. 3."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Przepis art. 5 ust. 3 o najniższej opłacie skarbowej od wekslu in blanco nie dotyczy weksli in blanco wystawionych i opłaconych opłatą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_13/pkt_1",
+     "text": "stemplową co najmniej w kwocie 30 zł w walucie obowiązującej do dnia 30 października 1950 r. (art. 122 ustawy z dnia 1 lipca 1926 r. o opłatach stemplowych — Dz. U. R.P. z 1935 r. Nr 64, poz. 404) przed dniem 1 maja 1947 r.,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_13/pkt_2",
+     "text": "skarbową co najmniej w kwocie 40 zł w walucie obowiązującej do dnia 30 października 1950 r. (art. 5 ust. 3 dekretu z dnia 3 lutego 1947 r. o opłacie skarbowej — Dz. U.R.P. z 1949 r. Nr 53, poz. 419) przed dniem 28 listopada 1950 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "— jeżeli data ich wystawienia i opłacenia opłatą stempiową bądź skarbową zostanie udowodniona."
+      },
+      {
+       "type": "text",
+       "text": "Do Tabeli opłat skarbowych Część L"
+      },
+      {
+       "type": "text",
+       "text": "Do poz. 1."
+      },
+      {
+       "type": "text",
+       "text": "_ 8 14. Zgłoszenia prowadzenia przedsiębiorstwa nie wymagającego koncesji, składane w dopełnieniu ustawowego obowiązku, nie są podaniami w rozumieniu poz. 1 lit. d) Cz. I Tabeli opłat skarbowych, np. zgłoszenie w myśl art. 7 prawa przemysłowego przedsiębiorstwa nie należącego do koncesjonowanych, zgłoszenie dorywczego przedsięwzięcia rozrywkowego w myśl § 1 rozporządzenia o wykonaniu prawa o przedsięwzięciach rozrywkowych (Dz. U. R. P. z 1933 r. Nr 103, poz. 801)."
+      },
+      {
+       "type": "text",
+       "text": "Do poz. 113."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Podania wnoszone do osób prawa publicznego, którym na podstawie przepisów prawnych zlecono wykonanie państwowych czynności administracyjnych, i świadectwa wydawane na skutek tych podań nie podlegają opłacie skarbowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "W przypadkach gdy na podstawie przepisów szczególnych, regulujących obowiązek uzyskania zezwoleń (koncesji), wymagane jest uzyskanie kilku różnych zezwoleń (koncesji) na prowadzenie tego samego przedsiębiorstwa — opłatę skarbową należy uiścić od każdego zezwolenia (koncesji) nawet wtedy, gdyby ich udzielono w jednym piśmie.",
+   "children": [
+    {
+     "type": "text",
+     "text": ".§ 17. 1. Do świadectw zalicza się również poświadczenia własnoręczności podpisu (legalizacja podpisu) przez władze państwowe."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Jeżeli w jednym poświadczeniu zalegalizowano kilka podpisów, opłata skarbowa należy się od każdego poświadczonego podpisu.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do poz. 2 lit. h)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Innymi czynnościami urzędowymi są w szczególności: umieszczenie na marginesie aktu wzmianki dodatkowej, dotyczącej: sprostowania iub unieważnienia aktu, uznania dziecka lub zawarcia małżeństwa przez rodziców dziecka po jego urodzeniu, bądź nadania dziecku nazwiska przez męża matki, jako też dotyczącej przysposobienia lub rozwiązania przysposobienia, zmiany nazwiska lub imienia na mocy zezwolenia właściwej władzy, rozwiązania małżeństwa przez rozwód, zgłoszenia imienia po sporządzeniu aktu urodzenia, o ile czynności te nie wynikają z ustawowego obowiązku urzędnika stanu cywilnego.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do poz. 3 lit. d) i Kit. ."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Za pełną stronicę uważa się stronice zawierającą 25 wierszy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do poz. 3 lit. k)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Koncesjami w rozumieniu przepisu poz. 3 lit k) są zezwolenia na prowadzenie przedsiębiorstw zarobkowych, których udzielenie zależy od uznania właściwego urzędu państwowego, bez względu na to, jak są nazwane w odnośnych przepisach prawnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Przedsiębiorstwo jest prowadzone na stałe w rozumieniu przepisu poz. 3 lit. k) w przypadkach, gdy zezwolenie na prowadzenie przedsiębiorstwa nie ogranicza się do prawa wykonania jednej czynności zarobkowej lub pewnej ściśle oznaczonej liczby takich 7 czynności. Zezwolenie na sezon jest zezwoleniem na stałe prowadzenie przedsiębiorstwa, a zezwolenie na urządzenie loterii fantowej lub bufetu z wyszynkiem na zabawie ludowej jest zezwoleniem na niestałe prowadzenie przedsiębiorstwa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do poz. 3 lit. k) pkt 7a (1) i b (1)."
+      },
+      {
+       "type": "text",
+       "text": "\"821. Za członków rodziny w rozumieniu przepisu poz. 3 lit. k) pkt 7a (1) i b(1) należy uważać osoby zaliczone do I, II i III klasy podatkowej w art. 16 dekretu o podatku od nabycia praw majątkowych, a pozostające z właścicielem przedsiębiorstwa we wspólnym gospodarstwie domowym."
+      },
+      {
+       "type": "text",
+       "text": "Do poz. 7."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Innym dokumentem w rozumieniu przepisu poz. 7 lit. d) jest pełnomocnictwo upoważniające łącznie do dwu lub wszystkich czynności wymienionych w poz. 7 lit. a) —ce), bądź do czynności nie wymienionej w poz. 7 lit. a) —c), bądź też do czynności obu tych rodzajów łącznie. j",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do poz. 8 lit. b)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Jeżeli w przypadkach określonych w poz. 8 lit. b) poręka została udzielona przez kilku poręczycieli, opłata skarbowa należy się od każdej udzielonej poręki.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "— 79 — Dziennik Ustaw Nr 7"
+    },
+    {
+     "type": "text",
+     "text": "Do poz. 9 lit. a)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Wierzytelnościami nie podlegającymi podatkowi od nabycia praw majątkowych są te wierzytelności, które nie podlegają opodatkowaniu na podstawie art. 3 lub 4 dekretu o podatku od nabycia praw majątkowych albo zostały zwolnione na zasadzie zarządzeń Ministra Finansów wydanych na podstawie art. 20 tegoż dekretu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do poz. 9 lit. b)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Za ustanowienie hipoteki na zabezpieczenie wierzytelności przyszłych uważa się wyłącznie hipotekę kaucyjną (art. 231 prawa rzeczowego).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do poz. 10."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Nie uważa się za przyjęcie na przechowanie rzeczy ruchomych przez przewoźnika (spedytora) tych przypadków, gdy przechowanie jest czynnością uboczną umowy o przewóz (spedycję).",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do poz. 11 Hit. a}."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Za listy przewozowe lub inne tego rodzaju dokumenty uważa się również: kwity bagażowe, listy ekspresowe i listy przewozowe komunikacji wewnętrznej i międzynarodowej, zlecenia-listy przewozowe na przewóz przesyłek wojskowych, zgłoszenia przewozu stacyjnego, wykazy przesyłkowe, konosamenty i inne dokumenty stwierdzające zawarcie umowy, mocą której zostaje powierzona przewoźnikowi rzecz do przewozu w jego przedsiębiorstwie zarobkowym \"(np. rachunki wystawione przez przewoźnika, bilety rowerowe, bilety blankietowe na dopłatę).",
+     "children": [
+      {
+       "type": "text",
+       "text": "_ 2. Za dokumenty przewozowe nie uważa się wtórników i odpisów listów przewozowych, jak również tramwajowych kwitów (biletów) bagażowych, rachunków furmanów trudniących się zawodowo furmaństwem lub właścicieli taksówek (samochodowych i konnych) trudniących się zawodowo przewozem osób."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_27/ust_3",
+     "text": "Arkuszem w rozumieniu poz. 11 lit a) jest każdy list przewozowy oraz każdy dodatkowy arkusz listu przewozowego, jeżeli miejsce przeznaczone do wyszczególnienia towaru nie wystarcza, dodatkowy arkusz listu przewozowego powinien mieć te same rozmiary, co list przewozowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "Jeżeli opłata skarbowa przewidziana w poz. 11 Tit. a) pkt 1 po obliczeniu w sposób powyżej określony (§ 27 ust. 3) wyniosłaby więcej niż taryfowa należność za przewóz, opłatę skarbową należy pobrać tylko w kwocie równej należności taryfowej, Przez taryfową opłatę za przewóz należy rozumieć koszty przewozu (przewożne).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Opłatę skarbową od dokumentów przewozowych przy przesyłkach nie wymienionych w poz. 11 lit. a) pkt 1 i pkt 2, tj. przy przesyłkach kolejowych nie należących do przesyłek drobnych — należy pobrać od każdego arkusza listu przewozowego lub innego tego rodzaju dokumentu (§ 27 ust. 1 i 3) bez ograniczenia, o którym mowa w § 28. oe ae",
+   "children": [
+    {
+     "type": "text",
+     "text": "Poz. 44"
+    },
+    {
+     "type": "text",
+     "text": "Do poz. 11 lit. b)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Innym dokumentem uprawniającym do jazdy statkiem morskim jest również kwit zadatkowy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do poz. 12."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Nie uważa się za umowę majątkową małżeńską układów o wzajemnych stosunkach majątkowych małżonków na przypadek rozwodu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do Tabeli opłat skarbowych Część IL."
+    },
+    {
+     "type": "text",
+     "text": "Do przepisu Nr 1."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_32/ust_1",
+     "text": "Podanie, wniesione przez dwie lub więcej osób albo przez ustawowego zastępcę lub pełnomocnika dwu lub więcej osób, podlega opłacie jednokrotnej tylko wtedy, gdy pochodzi od współwłaścicieli i dotyczy ich wspólnego majątku lub jeżeli wyrażone w podaniu żądanie opiera się na tych samych tytułach prawnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "W braku warunków powyższych (ust. 1) należy opłatę skarbową uiścić tyle razy, ile osób wymieniono w podaniu w charakterze osób interesowanych (np. podanie zbiorowe).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Do przepisu Nr 2."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "Podanie ponowne, w którym podatnik jedynie ponagla załatwienie pierwszego podania, nie podlega opłacie skarbowej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do przepisu Nr 14."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "W sprawie zwolnienia od opłaty skarbowej, przysługującego osobom prawnym mającym na celu ogólną użyteczność lub cele wymienione w przepisie dodatkowym Nr 14 pod lit. b) — stosuje się odpowiednio § 7 rozporządzenia z dnia 12 października 1951 r. w sprawie wykonania dekretu o podatku od nabycia praw majątkowych z tą różnicą, że w przypadkach, gdy należna opłata skarbowa nie przewyższa kwoty 180 zł — przepisy § 7 ust. 4 zdanie drugie oraz ust. 5 zdanie pierwsze powyższego rozporządzenia nie mają zastosowania.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do przepisu Nr 18."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "Czek, w którym wystawcą i trasatem są dwa oddziały tego samego przedsiębiorstwa (banku), nie podlega opłacie skarbowej; okoliczność, czy oddziały te znajdują się w różnych miejscowościach czy też w tej samej miejscowości, jest bez znaczenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Do przepisu Nr 31."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "Za żeglugę przybrzeżną w rozumieniu przepisu Nr 31 uważa się jedynie żeglugę statkami morskimi między portami w kraju, a za żeglugę }0- wietrzną krajową -— jedynie żeglugę powietrzną między portami lotniczymi w kraju.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Od biletu na przejazd lub przelot do portów zagranicznych należy się opłata skarbowa od całej sumy, na jaką opiewa bilet.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "Tracą moc obowiązującą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_37/pkt_1",
+     "text": "§§ 2—15, 29—47 rozporządzenia Ministra Skarbu z dnia 8 listopada 1948 r. w sprawie wykonania dekretu o opłacie skarbowej (Dz. U. R. P. Nr 59,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "0z",
+   "path": "par_0z",
+   "text": "469);",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_0z/pkt_2",
+     "text": "= ust. 2 rozporządzenia Ministra Skarbu z dnia",
+     "children": [
+      {
+       "type": "text",
+       "text": "— Poz. 44 i 45"
+      },
+      {
+       "type": "text",
+       "text": "praw majątkowych oraz zwolnienia niektórych pism od opłaty skarbowej (Dz. U. R. P. Nr 4, poz. 36)."
+      },
+      {
+       "type": "text",
+       "text": ": > § 38. Rozporządzenie wchodzi w życie z dniem ogłoszenia."
+      },
+      {
+       "type": "text",
+       "text": "4 lutego 1950 r. w sprawie zwolnienia nabycia nie- Minister Finansów: w z. J. Kole których praw majątkowych od podatku od nabycia"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

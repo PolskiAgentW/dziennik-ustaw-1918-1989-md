@@ -1,0 +1,92 @@
+{
+ "eli": "DU/1950/59",
+ "title": "Rozporządzenie Ministra Administracji Publicznej z dnia 1 lutego 1950 r. w sprawie zmiany granic miasta Rypina w powiecie rypińskim, województwie pomorskim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/59/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ADMINISTRACJI PUBLICZNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 1 lutego 1950 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granie miasta Rypina w powiecie rypińskim, województwie pomorskim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. ] ustawy z dnia 20 lutego 1920 r. w przedmiocie zaliczenia osad wiejskich w poczet miast oraz zmiany granic miast (Dz. U. R. P. z 1920 r. Nr 19, poz. 92 i z 1932 r. Nr 109, poz. 895) zarządza się, co następuje: ."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W powiecie rypińskim, województwie pomorskim wytacza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "z gminy wiejskiej Starorypin:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "część gromady Rusinowo, stanowiącą kolonię Piaski,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "część gromady Rypałki, stanowiącą kolonię Bielawki,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "część gromady Starorypin, stanowiącą osiedle Wójtowstwo,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "z gminy wiejskiej Pręczki — część gromady Głowińsk, stanowiącą folwark Piekiełko i włącza się je do miasta Rypina w tymże powiecie i województwie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Z miasta Rypina w powiecie rypińskim, województwie pomorskim wyłącza się część obszaru noszącą nazwę Puszcza Miejska i włącza się ją do grainy wiejskiej Pręczki w tymże powiecie i województwie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia. i",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Administracji Publicznej: Wł. Wolski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

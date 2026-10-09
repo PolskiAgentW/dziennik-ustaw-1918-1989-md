@@ -1,0 +1,56 @@
+{
+ "eli": "DU/1955/66",
+ "title": "Dekret z dnia 11 marca 1955 r. o zmianie dekretu z dnia 12 września 1947 r. o pomocy sąsiedzkiej w rolnictwie.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1955/66/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "A z dnia 11 marca 1955 r."
+  },
+  {
+   "type": "text",
+   "text": "© zmianie dekretu z dnia 12 września 1947 r. o pomocy sąsiedzkiej w rolnictwie. Art 1. W artykule 10 dekretu z dnia 12 września 1947 r. o pomocy sąsiedzkiej w rolnictwie (Dz. U. z 1947r. Ny 59, poz. 320 i z 1950 r. Nr 13, poz. 125) wprowadza się następujące zmiany:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "w ust. 1 skreśla > wyrazy „i obowiązuje do dnia y zuje 31 grudnia 1951 r.",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "ust. 2 skreśla się.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Dekret wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1955 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Państwa:: A. Zawadzki Sekretarz Rady Państwa: M. Rybicki"
+    },
+    {
+     "type": "text",
+     "text": "Ę"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

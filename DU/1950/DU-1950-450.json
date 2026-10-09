@@ -1,0 +1,1168 @@
+{
+ "eli": "DU/1950/450",
+ "title": "Dekret z dnia 26 października 1950 r. o podatku dochodowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/450/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 października 1950 r."
+  },
+  {
+   "type": "text",
+   "text": "e podatku dochodowym. s"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 4 Ustawy Konstytucyjnej z dnia 19 lutego 1947 r. o ustroju i zakresie działania najwyższych organów Rzeczypospolitej Polskiej i ustawy z dnia 21 lipca 1950 r. o upoważnieniu Rządu do wydawania dekretów z mocą ustawy (Dz. U. R. P. Nr 29, poz. 271)— Rada Ministrów postanawia, a Rada Państwa zatwierdza, co następuje:"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_1/ust_1",
+     "text": "Obowiązkowi podatkowemu według zasad niniejszego dekretu podlegają: _ 1) osoby fizyczne,",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_1/ust_1/pkt_2",
+       "text": "spadki nieobjęte, .",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_1/ust_1/pkt_3",
+       "text": "nie będące podmiotami gospodarki uspołecznionej:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_1/ust_1/pkt_3/lit_a",
+         "text": "osoby prawne,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_1/ust_1/pkt_3/lit_b",
+         "text": "stowarzyszenia nie posiadające osobowości prawnej.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "W przypadkach określonych w art. 3 ust. 1 i art. 6 ust. 5 podmiotem opodatkowania (podatnikiem) są małżonkowie sądownie nierozłączeni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_2/ust_1",
+     "text": "Od podatku dochodowego wolne są: .",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_2/ust_1/pkt_1",
+       "text": "pracownicze kasy zapomogowo-pożyczkowe,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_2/ust_1/pkt_2",
+       "text": "od dochodu, osiągniętego ze źródeł położonych za granicą przedstawiciele dyplomatyczni lub konsularni oraz członkowie misji państw obcych i przydzieleni im urzędnicy nie będący obywatelami Państwa Polskiego, jak również inne osoby, które na podstawie układów międzynarodowych lub prawa międzynarodowego są z nimi zrównane.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_2/ust_2",
+     "text": "Ponadto w poszczególnym roku podatkowym wolne są od podatku dochodowego osoby prawne oraz stowarzyszenia nie posiadające osobowości prawnej,. jeżeli zgodnie ze statutem obróciły w całości w roku podatkowym lub w roku bezpośrednio po nim następującym wszystkie osiągnięte w roku podatkowym dochody bezpośrednio na cele ogólnej użyteczności, naukowe, oświatowe, kulturalne, sportowe, kultu religijnego, .",
+     "children": [
+      {
+       "type": "text",
+       "text": "» dobroczynne i opieki społecznej. Za dochód w rozumieniu zdania poprzedzającego uważa się sumę wszystkich przychodów po potrąceniu kosztów funkcjonowania osoby prawnej lub stowarzyszenia nie posiadającego osobowości prawnej wydatków związanych z posiadanymi już źródłami przychodów oraz wydatków na doraźnie urządzane imprezy przewidziane statutem. Wymienione w zdaniu pierwszym osoby i stowarzyszenia podlegają jednak obowiązkowi podatkowemu od dochodu ze źródeł przychodów, które podlegają podatkowi obrotowemu i nie są od tego podatku zwolnione."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Małżonkowie podlegają opodatkowaniu łącznemu od sumy ich dochodów. Wymiaru podatku dokonuje się na imię obojga małżonków.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Przepisu ust. 1 nie stosuje się do małżonków, co do których istnieje prawomocne orzeczenie sądowe o rozłączeniu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "\"Dochody krewnych zstępnych dolicza się do dochodów krewnego wstępnego, jeżeli mu służy prawo pobierania pożytków ze źródeł przychodów tych zstępnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Podatnicy wymienieni w art. 1, o ile mają swe miejsce zamieszkania lub pobytu, siedzibę lub zarząd na obszarze Państwa Polskiego, podlegają obowiązkowi podatkowemu od całości swych dochodów bez względu na miejsce położenia żródeł przychodów (nieograniczony obowiązek podatkowy).",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_5/ust_1",
+     "text": "Podatnicy wymienieni w art. 1, o ile nie mają na obszarze Państwa Polskiego miejsca zamieszkania lub pobytu, siedziby lub zarządu, podlegają obowiązkowi podatkowemu od dochodów, które osiągają na obszarze Państwa Polskiego z następujących źródeł przychodów (ograniczony obawiązek podatkowy):",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/ust_1/lit_a",
+       "text": "nieruchomości oraz wierzytelności zabezpieczonych na nieruchomościach,",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "— — me"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/ust_1/lit_b",
+       "text": "wykonywania świadczeń rzeczy lub usług, o ile podlegają one podatkowi obrotowemu, ©) opłat za korzystanie z patentów na wynalazki, z wynalazków, ze specjalnych metod produkcji (opłaty licencyjne) i z praw autorskich,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_5/ust_1/lit_d",
+       "text": "sprzedaży przedmiotów i praw majątkowych fart. 8 ust. 1 pkt 5) lit. e),",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_5/ust_1/lit_e",
+       "text": "udziałów z tytułu reasekuracji w polskich ubezpieczeniach.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_5/ust_2",
+     "text": "Za wykonywanie świadczeń rzeczy lub usług, podlegających podatkowi obrotowemu, uważa się również udział w spółkach jawnych i spółkach nie będących spółkami prawa handlowego, jeżeli spółka wykonuje świadczenia podlegające podatkowi obrotowenuu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_5/ust_3",
+     "text": "Minister Finansów może w drodze rozporządzeń określać inne źródła przychodów, z których osiąganie dochodów na obszarze Państwa Polskiego powoduje powstanie obowiązku podatkowego u podatników wymienionych w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Przedmiotem opodatkowania są dochody cząstkowe, a nadto dochód ogólny.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Dochodem cząstkowym jest obliczona odrębnie w każdej grupie źródeł przychodów (art. 8) suma nadwyżek z poszczególnych źródeł należących do jednej grupy bez potrącania niedoborów z poszczególnych źródeł tej grupy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_6/ust_3",
+     "text": "Dochodem ogólnym jest suma dochodów cząstkowych po potrąceniu niedoborów z tych źródeł przychodów, które dały niedobory, z wyjątkiem jednak niedoboréw ze sprzedaży przedmiotów i praw majątkowych. Dochodem ogólnym jest także jeden tylko dochód cząstkowy, jeżeli podatnik nie posiada innych dochodów cząstkowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_6/ust_4",
+     "text": "U podatników, u których suma nadwyżek ze źródeł przychodów wymienionych w art. 8 przekracza 369.000 zł rocznie, a którzy osiągają nadto przychody podlegające podatkowi od wynagrodzeń, do dochodu ogólnego w rozumieniu ust. 3 dolicza się łączną sumę otrzymanych w ciągu roku podatkowego przychodów podlegających podatkowi od wynagrodzeń bez względu na ich wysokość i bez potrącenia należnego od nich podatku od wynagrodzeń.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_6/ust_5",
+     "text": "Przy ustalaniu dochodu ogólnego małżonków. do dochodu cząstkowego bądź do sumy dochodów cząstkowych dolicza się przychody obojga małżonków podlegające podatkowi od wynagrodzeń, choćby dochód cząstkowy lub suma dochodów cząstkowych ze źródeł przychodów wymienionych w art. 8 osiągnięta była tylko przez jednego małżonka, a drugi małżonek nie posiadał żadnych Źródeł przychodów wymienionych w art 8.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "Dochody z udziału w spółce jawnej, wspólnej własności, wspólnym posiadaniu lub wspólnym użytkowaniu opodatkowuje się osobno dla każdego uczestnika w stosunku do jego udziału pod warunkiem, że wspólność udziału zostanie uzasadniona umową pisemną. W razie braku takiej umowy wymiaru dokonuje się od całego dochodu na imię jednego z uczestników, pozostali zaś uczestnicy nie podlegają opodatkowaniu od swych udziałów w zysku.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_8/ust_1",
+     "text": "Źródła przychodów dzielą się na następujące grupy:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_8/ust_1/pkt_1",
+       "text": "do pierwszej grupy źródeł przychodów należą: opłaty za korzystanie z patentów na wynalazki własne, z wynalazków własnych i specjalnych meted produkcji (opłaty licencyjne) oraz nie podlegajaca przepisom o podatku od wynagrodzeń dzia. .|- ność i twórczość artystyczna, literacka, naukowa oświatowa i publicystyczna;",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "rzemieślnicze nie utrzymujące poza obrębem zakładu odrębnych miejsc sprzedaży i zatrudniające oprócz właściciela najwyżej dwóch członków rodziny oraz jednego pracownika najemnego, a gdy chodzi o zakłady cukiernicze, piekarskie, rzeźnicze i wędliniarskie (również z mięsa końskiego), złotnicze, brązownicze i zegarmistrzowskie najwyżej dwóch członków rodziny; w zakładach rzemieślniczych stanowiących własność więcej niż jednej osoby do ogólnej ilości czterech względnie trzech osób, o której mowa w zdaniu pierwszym (właściciel, pracownik najemny i członkowie rodziny) wlicza się również współwłaścicieli zakładów, choćby nawet nie pracowali w zakładzie; uczniów zatrudnionych w zakładach rzemieślniczych na podstawie pisemne] umowy o naukę, zarejestrowanej w izbie rzemieślniczej, nie uważa się za pracowników od daty zawarcia umowy;"
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_8/ust_1/pkt_3",
+       "text": "do trzeciej grupy źródeł przychodów należą zajęcia zawodowe lekarzy, lekarzy weterynarii, lekarzy dentystów, uprawnionych techników dentystycznych, techników dentystycznych, felczerów, poło: nych, pielęgniarek, inżynierów, architektów i tech ników, jeżeli nie podlegają przepisom o podatk. od wynagrodzeń;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_8/ust_1/pkt_4",
+       "text": "do czwartej grupy źródeł przychodów należą:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_8/ust_1/pkt_4/lit_a",
+         "text": "przedsiębiorstwa handlowe, przemysłowe i usługowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_8/ust_1/pkt_4/lit_b",
+         "text": "przedsiębiorstwa rzemieślnicze, nie należące do drugiej grupy źródeł przychodów,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_8/ust_1/pkt_4/lit_c",
+         "text": "zajęcia zawodowe i zatrudnienia o celach zarobkowych nie wymienionych w pkt 1) i 3), jeżel. nie podlegają przepisom o podatku od wynagrodzeń,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_8/ust_1/pkt_4/lit_d",
+         "text": "gospodarstwa rolne nie zwolnione od podatku na podstawie art. 11 pkt 2),",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_8/ust_1/pkt_4/lit_e",
+         "text": "gospodarstwa rolne, oe ile chodzi o przychód, dzierżawców;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_8/ust_1/pkt_5",
+       "text": "do piątej grupy źródeł przychodów należą:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "art_8/ust_1/pkt_5/lit_a",
+         "text": "nieruchomości- budynkowe i gruntowe nie stanowiące gospodarstwa rolnego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "art_8/ust_1/pkt_5/lit_b",
+         "text": "dzierżawa, o ile chodzi o przychody wydzierżawiającego — także z wydzierżawienia gospodarstwa rolnego lub jego części,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "art_8/ust_1/pkt_5/lit_c",
+         "text": "kapitały pieniężne i prawa majątkowe,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "art_8/ust_1/pkt_5/lit_d",
+         "text": "dochody komandytariusza, cichego spólnika i spólnika spółki z ograniczoną odpowiedzią! - nością,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "art_8/ust_1/pkt_5/lit_e",
+         "text": "sprzedaż przedmiotów i praw majątkowych,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "f",
+         "path": "art_8/ust_1/pkt_5/lit_f",
+         "text": "inne zrodla nie wymienione w grupach i punk tach poprzednich.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_8/ust_2",
+     "text": "Źródłem przychodów w rozumieniu ust. 1 pkt 3: lit. e) jest sprzedaż:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_8/ust_2/lit_a",
+       "text": "nieruchomości gruntowych i budynkowych bądź ich części, a",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_8/ust_2/lit_b",
+       "text": "przedsiębiorstw bądź ich poszczególnych składników,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_8/ust_2/lit_e",
+       "text": "udziałów w spółkach z wyjątkiem akcji,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_8/ust_2/lit_d",
+       "text": "innych przedmiotów majątkowych, jeżeli sprzedaż ma charakter transakcji spekulacyjnej,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_8/ust_2/lit_e",
+       "text": "praw majątkowych, a w szczególności specjalnych metod produkcji, praw patentowych, rent wszelkiego rodzaju, prawa użytkowania i uży-",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "wania, praw autorskich i innych; nie stanowi jednak źródła przychodów sprzedaż praw patentowych własnych i praw do wynalazków własnych dokonywana na rzecz gospodarki uspołecznionej."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_8/ust_3",
+     "text": "Sprzedaż przedmiotów i praw majątkowych uzyskanych przez podatnika w drodze spadku lub zapisu nie stanowi źródła przychodów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_8/ust_4",
+     "text": "Ministrowi Finansów służy prawo zaliczania w drodze rozporządzeń poszczególnych źródeł przychodów nie wymienionych w niniejszym artykule do jednej z grup źródeł przychodów wymienionych w ust. 1, jak również prawo przeniesienia poszczególnych źródeł przychodów z jednej grupy do drugiej.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "9",
+   "path": "art_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_9/ust_1",
+     "text": "Nadwyżką lub niedoborem ze . źródła przychodów jest różnica pomiędzy sumą przychodów z tego źródła (art. 10) a kosztami ich uzyskania (art. 12), osiągnięta w ciągu roku podatkowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_9/ust_2",
+     "text": "Minister Finansów może w drodze rozporządzeń ustalać w odniesieniu do poszczególnych źródeł przychodów odmienne od zasady wyrażonej w ust. 1 pojęcie nadwyżki z tych źródeł oraz określać sposób obliczania tej nadwyżki.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "16",
+   "path": "art_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_16/ust_1",
+     "text": "Przychodami są pieniądze lub wartości pieniężne rzeczywiście otrzymane z jednego ze źródeł przychodów, jak również wartość użytkowa tych źródeł lub ich części, jeżeli prawo pobierania pożytków służy podatnikowi lub członkowi jego rodziny w przypadku łącznego opodatkowania (art. 3).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_16/ust_2",
+     "text": "U podatników, prowadzących księgi handlowe, należy się kierować zasadami księgowości, to jest brać w rachukę również takie zaksięgowane przychody, które mają dopiero wpłynąć, oraz takie koszty, które zostały już zarachowane, chociaż ich jeszcze nie poniesiono, jeżeli odnoszą się do danego roku rachunkowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_16/ust_3",
+     "text": "Wartość pieniężną przychodów w naturze oblicza się według przeciętnych cen rynkowych z okresu opodatkowania w miejscu, w którym znajduje się źródio tych przychodów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "11",
+   "path": "art_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_11/ust_1",
+     "text": "Wolne od podatku są:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_11/ust_1/pkt_1",
+       "text": "przychody podlegające przepisom o podatku od wynagrodzeń, z wyjątkiem przypadków, o których mowa w art. 6 ust. 4i5,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_11/ust_1/pkt_2",
+       "text": "przychody z gospodarstwa rolnego, użytkowanego przez osoby podlegające podatkowi gruntowemu, które bądź wcale nie mają innych Źródeł przychodów, wymienionych w art. 8, bądź też których suma dochodów z pozostałych źródeł przychodów nie przekracza 120.000 zł rocznie; podlegają jednak opodatkowaniu przychody z wydzierżawienia gospodarstwa rolnego lub jego części, osiągnięte przez wydzierżawiającego oraz przychody dzierżawców, na których nie ciąży obowiązek podatko- < wy w zakresie podatku gruntowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_11/ust_1/pkt_3",
+       "text": "zasiłki z funduszów publicznych i zrzeszeń zawodowych na popieranie nauki, kultury i sztuki, 4 zasiłki naukowe i pomoc z funduszów publicznych oraz stypendia dla młodzieży kształcącej się w za- Eladach naukowych i dla aspirantów i naukowców delegowanych na kursy specjalizacyjne.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_11/ust_2",
+     "text": "Minister Finansów może w drodze rozporządzenia zwalniać od podatku całkowicie lub częściowo poszczególne rodzaje przychodów w całym Państwie lub na poszczególnych jego obszarach i określać warunki tego zwolnienia. i",
+     "children": [
+      {
+       "type": "text",
+       "text": "LB = =. = ="
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "12",
+   "path": "art_12",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_12/ust_1",
+     "text": "Kosztami uzyskania przychodów z poszczególnego źródła są wszelkie koszty ponoszone w celu osiągnięcia, zachowania lub zabezpieczenia przychodów, z wyjątkiem kosztów wymienionych w art. 13.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_12/ust_2",
+     "text": "Są przeto również kosztami uzyskania przychodów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_12/ust_2/pkt_1",
+       "text": "straty częściowe lub całkowite na przedmiotach majątkowych, które służą do osiągnięcia, zachowania lub zabezpieczenia przychodów i podlegają zu- Życiu, straty te są potrącaine w udowodnionej wysokości, nie pokrytej sumą ubezpieczeniową i odpisami z tytułu zużycia i tylko z przychodów tego roku, w którym strata rzeczywiście nastąpiła; potrącanie takich strat z przychodów następnych lat nie jest dopuszczalne; straty w majątku podatnika, służącym do osiągnięcia, zachowania lub zabezpieczenia przychodów, lecz nie podlegającym zużyciu, np. w gotowiźnie, zapasach towarów, Surowców, wyrobów gotowych itp. mogą być w całości lub części uznane za koszty uzyskania przychodów z poszczególnego źródła, jeżeli rozmiar straty istotnie osłabia zdolność gospodarczą podatnika,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_12/ust_2/pkt_2",
+       "text": "odsetki od długów i oparte na szczególnych tytułach prawnych renty i trwałe ciężary,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_12/ust_2/pkt_3",
+       "text": "składki na rzecz związków zawodowych lub grup gospodarczych, do których podatnik należy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_12/ust_2/pkt_4",
+       "text": "podatki i inne daniny publiczne wraz z dodatkiem za zwłokę, z wyłączeniem kosztów egzekucyjnych oraz składki ubezpieczeniowe, przypadające z danego źródła przychodów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_12/ust_2/pkt_5",
+       "text": "wpłaty na Fundusz Gospodarki Mieszkaniowej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_12/ust_3",
+     "text": "Koszty uzyskania przychodów są potrącalne tylko w tym roku podatkowym, w którym zostały poniesione.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_12/ust_4",
+     "text": "Ponadto za koszt uzyskania przychodów mogą być uznane również odpisy na zużycie na warunkach, które określi rozporządzenie Ministra Finansów; rozporządzenie to określi przedmioty, co do których mogą być dokonywane odpisy na zużycie, zasady dokonywania tych odpisów oraz tworzenia funduszów amortyzacyjnych i rozporządzania nimi.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nie uważa -się za koszty uzyskania"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "13",
+   "path": "art_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_13/ust_1",
+     "text": "przychodów:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_13/ust_1/pkt_1",
+       "text": "wydatków na nabycie, powiększenie lub ulepszenie zrédia przychodów; wydatki te jednak należy uwzględnić przy ustalaniu nadwyżki ze sprzedaży przedmiotów i praw majątkowych i to bez względu na czas ich poniesienia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_13/ust_1/pkt_2",
+       "text": "tworzenia funduszów rezerwowych wszelkiego rodzaju,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_13/ust_1/pkt_3",
+       "text": "wydatków na umorzenie długów oraz kapitałów włożonych w źródło przychodów przez osoby z niego korzystające,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "art_13/ust_1/pkt_4",
+       "text": "odsetek od własnego kapitału włożonego przez podatnika w źródło przychodów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "art_13/ust_1/pkt_5",
+       "text": "kwot rozdzielonych przez osobę prawną między udziałowców i akcjonariuszów tytułem: a) udziału w zyskach lub dywidend, b) nadwyżki odsetek i wynagrodzeń za udzielone pożyczki lub wkłady. niepieniężne, ponad normy, które określi rozporządzenie Ministra Finansów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "art_13/ust_1/pkt_6",
+       "text": "opustów z ceny udzielonych przez osoby prawne udziałowcom oraz wartości wszelkich nieodpłatnych świadczeń dokonanych na rzecz udziałowców,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "art_13/ust_1/pkt_7",
+       "text": "nadwyżek kwot pensji i wszelkiego rodzaju wynagrodzeń osób, które biorą udział w zarządzie przedgiębiorstwa bądź należą do składu rady nadzorczej",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "i komisji rewizyjnej lub działają z ich ramienia, bądź są upoważnione do samodzielnego prowadzenia przedsiębiorstwa, jak również innych pracowników umysłowych na stanowiskach kierowniczych ponad normy, które ustali rozporządzenie Ministra Finansów z uwzględnieniem rodzaju i rozmiaru przedsiębiorstw, w wysokości kapitału i obrotu,"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "art_13/ust_1/pkt_8",
+       "text": "nadwyżek kwot pensji i wszelkiego rodzaju wynagrodzeń wypłacanych ponad normy układu zbiorowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "art_13/ust_1/pkt_9",
+       "text": "wydatków na prowadzenie gospodarstwa domowego podatnika i na utrzymanie członków jego rodziny; stanowią jednak koszt uzyskania wydatki na utrzymanie członków rodziny zatrudnionych stale w gospodarstwie rolnym podatnika oraz tych członków rodziny z wyjątkiem małżonka sądownie nierozłączonego, zatrudnionych stale w przesiębiorstwie podatnika, których dochody nie podlegają doliczeniu do jego dochodu,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "10",
+       "path": "art_13/ust_1/pkt_10",
+       "text": "ofiar wszelkiego rodzaju,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "11",
+       "path": "art_13/ust_1/pkt_11",
+       "text": "wydatków na podatek dochodowy, nadzwyczajny podatek od wzbogacenia wojennego, podatek od nabycia praw majątkowych w części dotyczącej nieodpłatnego nabycia, daninę narodową na zagospodarowanie Ziem Odzyskanych — wraz z dodatkiem za zwłokę i kosztami egzekucyjnymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "12",
+       "path": "art_13/ust_1/pkt_12",
+       "text": "grzywien i kar pieniężnych wraz z kosztami egzekucyjnymi,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "13",
+       "path": "art_13/ust_1/pkt_13",
+       "text": "wkładów (składek) oszczędnościowych podnoszonych przez uczestników Społecznego Funduszu Oszczędnościowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "14",
+       "path": "art_13/ust_1/pkt_14",
+       "text": "kosztów uzyskania przychodów ze źródeł znajdujących się na obszarze Państwa Polskiego lub za granicą, jeżeli nadwyżki z tych źródeł w ogóle nie podlegają opodatkowaniu albo są zwolnione od podatku z mocy niniejszego dekretu lub przepisów szczególnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_13/ust_2",
+     "text": "Upoważnia się Ministra Finansów do rozciągania przepisu ust. i pkt 11) na inne podatki oraz do uznawania niektórych rodzajów wydatków, o których mowa w ust. 1, za koszty uzyskania przychodów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "14",
+   "path": "art_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_14/ust_1",
+     "text": "Podstawę opodatkowania stanowią dochody cząstkowe (art. 6 ust. 2) oraz dochód ogólny (art. 6 ust. 3, 4 i 5) osiągnięte w roku podatkowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_14/ust_2",
+     "text": "Rokiem podatkowym jest rok kalendarzowy lub rachunkowy, w którym dochód został osiągnięty.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_14/ust_3",
+     "text": "Jeżeli w roku podatkowym źródła przychodów (art. 8) były czynne przez okres krótszy niż rok podatkowy, za podstawę opodatkowania przyjmuje się dochód osiągnięty w tym okresie i stosuje się do niego stopę podatku odpowiadającą dochodowi, obliczonemu w stosunku rocznym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_14/ust_4",
+     "text": "Jeżeli okres rachunkowy nie pokrywa się z rokiem kalendarzowym, opodatkowaniu podlega dochód osiągnięty w okresie rachunkowym. Okres rachunkowy powinien w zasadzie obejmować 12 miesięcy, jednak w przypadku założenia przedsiębiorstwa, zaprowadzenia ksiąg handlowych oraz gospodarczo uzasadnionego przejścia przy księgach handlowych z roku kalendarzowego na »ok rachunkowy nie pokrywający się z rokiem kalendarzowym lub odwrotnie, w wyniku czego okres rachunkowye obejmuje mniej lub więcej niż 12 miesięcy, dochód osiągnięty w okresie rachunkowym podlega opodatkowaniu według tej stopy podatku ze skali art 15 i 17, jaka przypada od dochodu osiągniętego w tym okresie rachunkowym.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_14/ust_5",
+     "text": "U osób, które przybyły do Polski na pobyt czasowy, z góry określony co do czasu trwania, nie przekraczający jednak sześciu miesięcy, w celu prowadzenia przedsiębiorstwa, wykonywania zajęcia zawodowego lub jakiegokolwiek innego zatrudnienia zarobkowego, przyjmuje się za podstawę opodatkowania dochód osiągnięty w okresie wykonywania tych czynności i stosuje się do niego stopę podatku odpowiadającą temu dochodowi, obliczonemu w stosunku rocznym. Jeżeli z góry przewiduje się pobyt dłuższy niż sześć miesięcy, osoby te podlegają obowiązkowi podatkowemu na podstawie art. 4.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_15/ust_1",
+     "text": "Podatek od dochodów cząstkowych wymierza się według następującej skali:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kwota. dochodu cząstkowego Stopa złotych podatku L ponad do 0/ę TE CS"
+      },
+      {
+       "type": "text",
+       "text": "120.000 140.000 5 140.000 160.000 6 160.000 180.000 7 180.000 200.000 8 200.000 220.000 9 220.000 240.000 10 240.000 280.000 11 280.000 320.000 12 820.000 360.000 13 360.090 400.000 14 490.000 450.000 16 450.000 500.000 18 500.000 550.000 20 550.000 600.000 22 600.000 700.000 24 700.000 800.000 26 800.000 1.000.000 28 . 1.000.000 1.200.000 30 1.200.000 1.500.000 32 1.500.000 1.800.000 34 1.800.000 2.100.000 36 2.100.000 2.400.000 . - 38 2.400.000 3.000.000 40 3.000.090 3.600.000 42 3.600.000 4.200.000 44 4.209.090 4.800.000 46 4.800.000 5.400:000 48 5.400.000 50"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_15/ust_2",
+     "text": "Od dochodów cząstkowych osiągniętych ze Źródeł przychodów należących do pierwszej grupy źródeł przychodów wymierza się podatek według skali ust. 1 obniżony o 25°/o.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_15/ust_3",
+     "text": "Od dochodów cząstkowych osiągniętych ze źródeł przychodów należących do drugiej grupy źŹróde: przychodów wymierza się podatek według skali ust. obniżony o 200/0.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_15/ust_4",
+     "text": "Od dochodów cząstkowych osiągniętych ze źrć: deł przychodów należących do trzeciej grupy źródeł przychodów wymierza się podatek według skali ust. 1: obniżony o 10°/o.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_15/ust_5",
+     "text": "Od dochodów cząstkowych osiągniętych ze źródeł przychodów należących do piątej grupy źródei przychodów wymierza się podatek według skali us... podwyższony o 25/0.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_15/ust_6",
+     "text": "Jeżeli podatek posiada źródła przychodów należące do różnych grup źródeł przychodów, wówczas dla obliczenia podatku od poszczególnych dochodów cząst-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "ma ze"
+      },
+      {
+       "type": "text",
+       "text": "kowych stosuje się stopę podatku ze skali ust. 1 odpowiadającą łącznej sumie © dochodów cząstkowych z uwzględnieniem zniżek bądź zwyżki, o których mowa w ust. 2, 8, 415."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "7",
+     "path": "art_15/ust_7",
+     "text": "Jeżeli księgami handlowymi podatnika objęte są wyniki ze Źródeł przychodów należących do różnych grup źródeł przychodów, sposób zaś prowadzenia ksiąg nie daje możności ustalenia wysokości nadwyżek z poszczególnych źródeł, wówczas cały dochód wykazany księgami podlega opodatkowaniu według skali właściwej dla tego źródła przychodów, które należy do najwyżej opodatkowanej grupy źródeł przychodów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "15",
+   "path": "art_15",
+   "text": "Podatnicy, których dochód ogólny (art. 6 ust. 3, 4 i 5) przekracza 360.000 zł rocznie, podlegają nadto opodatkowaniu od dochodu ogólnego według skali z art. 17. i i",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "17",
+   "path": "art_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_17/ust_1",
+     "text": "Podatek od dochodu ogólnego wymierza się według następującej skali:",
+     "children": [
+      {
+       "type": "text",
+       "text": "Kwota dochodu Stopa podatku złotych 0/0 ponad do"
+      },
+      {
+       "type": "text",
+       "text": "360.000 400.000 2 400.000 459.000 2,5 450.000 500.000 3 500.000 550.000 3,5 550.000 600.000 4 600.000 700.000 4,5 700.000 800.000 5 800.000 1.000.000 5,5 1.000.000 1.200.000 6 1.200.000 1.506.009 6,5 1.500.000 1.800.000 7"
+      },
+      {
+       "type": "text",
+       "text": "1.800.090 2.100.000 8"
+      },
+      {
+       "type": "text",
+       "text": "2.100.000 2.400.000 9"
+      },
+      {
+       "type": "text",
+       "text": "2.400.000 3.000.000 10 3.000.000 3.600.000 11 3.600.060 4.200.000 12 4.200.000 4.800.000 13 4.800.000 5.400.000 14 5.400.000 15"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_17/ust_2",
+     "text": "Podatek od dochodu ogólnego wraz z podatkiem od dochodów cząstkowych, a w przypadku przewidzianym w art. 6 ust. 4 i 5 również wraz z podatkiem od wynagrodzeń nie może przekroczyć 65/0 dochodu ogólnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "18",
+   "path": "art_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_18/ust_1",
+     "text": "Podatnicy, których suma dochodów cząstkowych osiągniętych ze wszystkich posiadanych przez nich źródeł przychodów nie przekracza 360.000 zł rocznie, opiacają podatek od dochodów cząstkowych ze Źródeł przychodów należących do pierwszych czterech grup źródeł przychodów, obniżony o:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_18/ust_1/pkt_1",
+       "text": "25°/o, jeżeli mają na utrzymaniu troje lub czworo dzieci,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_18/ust_1/pkt_2",
+       "text": "50%/0, jeżeli mają na utrzymaniu pięcioro lub sześcioro dzieci.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Całkowite zwolnienie tych podatników od podatku należnego od dochodów cząstkowych ze źródeł przychodów należących do pierwszych czterech grup następuje, gdy mają więcej niż sześcioro dzieci na utrzymaniu. Przepisów tych nie stosuje się do podatników wymienionych w art. 5. , 2. Wymieniona w ust. 1 zniżka przysługuje na dzieci do lat 18: własne, przysposobione i pasierbów, jak również dzieci ofiar wojny przyjęte na wychowanie, jeżeli nie posiadają własnych Źródeł przychodów."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_18/ust_3",
+     "text": "Ta sama zniżka przysługuje również na dzieci starsze do ukończenia przez nie 24 lat życia, jeżeli pobierają naukę lub odbywają praktykę zawodową i jeżeli nie posiadają własnych źródeł przychodów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "art_18/ust_4",
+     "text": "Jeżeli podatnikiem jest kobieta, ulga o której mowa w ustępach poprzedzających następuje: w rozmiarze 25°/o, gdy ma na utrzymaniu dwoje lub troje dzieci, w rozmiarze 507/0, gdy ma na utrzymaniu czworo dzieci. Całkowite zwolnienie następuje, gdy ma na utrzymaniu więcej niż czworo dzieci. W przypadku, gdy mąż pobiera wynagrodzenie, ta zniżka nie przystuguje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "5",
+     "path": "art_18/ust_5",
+     "text": "Jeżeli w przypadku przewidzianym w art. 3 wymiaru podatku dokonanio na imię obojga małżonków, zniżkę przyznaje się w rozmiarze określonym w ust. 1, gdy zachodzą warunki w tym ustępie przewidziane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "6",
+     "path": "art_18/ust_6",
+     "text": "Ulgi, o których mowa w tym artykule, stosuje się tylko w przypadkach, gdy dzieci znajdują się na wyłącznym utrzymaniu podatnika.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "19",
+   "path": "art_19",
+   "text": "Nadzwyczajne okoliczności osłabiające zdolność płatniczą podatnika, którego dochód ogólny (art. 6 ust. 3, 4 i 5) nie przekracza 430.000 zł, np. długotrwała choroba, nieszczęśliwy wypadek, Smieré pozostającego na utrzymaniu podatnika członka rodziny, koszty związane z urodzeniem dziecka itp. mogą być podstawą do zmniejszenia przez organ finansowy (wymiarowy lub odwoławczy). podatku lub zaliczek na podatek w stosunku do kwoty faktycznie z tego tytułu po” niesionych wydatków, jeżeli organ finasowy uzna, że podatnik tej ulgi potrzebuje.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "20",
+   "path": "art_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_20/ust_1",
+     "text": "Podatek obliczony według skali z art. 15, a jeżeli podatnik podlega nadto opodatkowaniu od dochodu ogólnego, łączną sumę:podatku obliczą- „nego według skal z art. 15 i 17 podwyższa się o 20°/o dla podatników w wieku ponad 21 lat:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_20/ust_1/pkt_1",
+       "text": "nieżonatych lub niezamężnych, nie mających na utrzymaniu dzieci, a których suma dochodów cząstkowych ze wszystkich źródeł przychodów przekracza 240.000 zł rocznie;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_20/ust_1/pkt_2",
+       "text": "dla podatników żonatych lub zamężnych od lat przeszło dwóch, lecz nie mających na utrzymaniu „dzieci, a których suma dochodów cząstkowych ze wszystkich źródeł przychodów przekracza 300.000 zł rocznie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_20/ust_2",
+     "text": "Przepisu ust. 1 nie stosuje się, gdy osoby wy* mienione w tym ustępie miały na utrzymaniu dzieci co najmniej przez okres 10 lat.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_20/ust_3",
+     "text": "Gdyby skutkiem zastosowania podwyżki podats ku przewidzianej w ust. 1 łączna suma podatku od dochodów cząstkowych i od dochodu ogólnego, a w przypadku przewidzianym w art. 6 ust. 4 i 5 rów= nież i podatku od wynagrodzeń — przekroczyła 65°/o dochodu ogólnego, podwyższenia podatku należy dokonać w takiej wysokości, aby łączna suma podatku nie stanowiła więcej niż 65°/o tego dochodu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_21/ust_1",
+     "text": "Obowiązek podatkowy rozpoczyna się z chwilą osiągnięcia przychodów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_21/ust_2",
+     "text": "Obowiązek podatkowy kończy się z upływem roku podatkowego, w ciągu którego ustał przychód.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_21/ust_3",
+     "text": "W razie śmierci podatnika podatek » wymierza się na imię zmarłego pódatnika © od dochodu uzyskanego przed śmiercią. .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_22/ust_1",
+     "text": "W odniesieniu do podatników wymienionych w art. 1 tracą moc obowiązującą z dniem wejścia w życie dekretu przepisy:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_22/ust_1/pkt_1",
+       "text": "dekretu z dnia 25 października 1948 r. o podatku dochodowym (Dz. U. R. P. Nr 52, poz. 414),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_22/ust_1/pkt_2",
+       "text": "ustaw szczególnych w częściach dotyczących podmiotowych zwolnień od podatku dochodowego z wyjątkiem art. 29 i 35 dekretu z dnia'25 października 1948 r. o reformie bankowej (Dz. U. R. P. Nr 52, poz. 412).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_22/ust_2",
+     "text": "Przepisy uchylone z mocy przepisu ust. 1 stosuje się jednak do podatku dochodowego, przypadającego za lata podatkowe do 1950 r. włącznie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_22/ust_3",
+     "text": "Rozporządzenia wydane na podstawie dotychczasowych przepisów zachowują moc obowiązującą do",
+     "children": [
+      {
+       "type": "text",
+       "text": "\" Poz. 450 1 451"
+      },
+      {
+       "type": "text",
+       "text": "chwili zastąpienia ich nowymi rozporządzeniami opartymi na niniejszym dekrecie, o ile nie są z nim sprzeczne. . Art. 23. Wykonanie dekretu porucza się Ministrowi Finansów."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "24",
+   "path": "art_24",
+   "text": "Dekret wchodzi w życie z dniem 1 stycznia 1951 r. .",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezydent Rzeczypospolitej: B. Bierut"
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  },
+  {
+   "type": "signature",
+   "text": "Minister Finansów: K. Dąbrowski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

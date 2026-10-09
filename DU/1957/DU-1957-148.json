@@ -1,0 +1,1645 @@
+{
+ "eli": "DU/1957/148",
+ "title": "Rozporządzenie Rady Ministrów z dnia 23 maja 1957 r. w sprawie bezpieczeństwa i higieny pracy przy stosowaniu promieniowania jonizującego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1957/148/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 23 maja 1957 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie bezpieczeństwa i higieny pracy przy stosowaniu promieniowania jonizującego."
+  },
+  {
+   "type": "text",
+   "text": "uj Na podstawie art. 3 ust. 1 dekretu z dnia 10 listopada 1954 r. o przejęciu przez związki zawodowe zadań w dziedzinie wykonywania ustaw o ochronie, bezpieczeństwie i higienie pracy oraz sprawowania inspekcji pracy (Dz. U. Nr 52, poz. 260) na wniosek Centralnej Rady Związków Zawodowych zarządza się, co następuje:"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział I",
+   "text": "Przepisy wstępne,"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozumieniu niniejszego rozporządzenia:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "promieniowanie jonizujące jest to promieniowanie elektromagnetyczne lub cząstkowe, które w czasie przechodzenia przez materię powoduje jonizację atomów (promieniowanie rentgenowskie (X), promieniowanie gamma, cząstki beta, alfa i neutrony);",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "substancja (ciało) promieniotwórcza jest to każda substancja zawierająca atomy dowolnego pierwiastka, ulegająca samorzutnym przemianom jądrowym z jednoczesną emisją cząstki elementarnej lub fotonu promieniowania gamma;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "curie (C) jest to ilość substancji promieniotwórczej, w której zachodzi na sekundę 3,7.10' przemian jądrowych; 1 milicurie (mC) jest to 10*C; 1 mikrocurie (uC) jest to 10°C;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "gramorównoważnik radu (gRa) jest to taka ilość izotopu, która w danych warunkach wysyła taką samą ilość promieniowania gamma, co 1 gram radu, znajdujący się w równowadze promieniotwórczej z produktami swego rozpadu; gramorównoważnik radu różnych izotopów promieniotwórczych określa załącznik nr 1 do rozporządenis)",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "rentgen (r) jest to ilość promieni X lub gamma, która w 0,001293 g suchego powietrza powoduje powstanie 2,08.10* par jonów o całkowitym ładunku równym jednostce GGSE każdego znaku; jeden rentgen tworzy w jednym gramie suchego powietrza 1,61.10 par jonów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "równoważnik fizyczny rentgena (rep) jest to taka ilość promieniowania innego niż promienie X lub gamma, która powoduje w analogicznych warunkach taką samą absorpcję energii w tkankach jak 1 r promieni X lub gamma;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "1 rad jest to jednostka zaabsorbowanej przez materię energii promieniowania jonizującego wynosząca 100 ergów na gram;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "elektronowolt (eV) jest to jednostka energii równa zmianie energii kinetycznej elektronu w polu elektrycznym o różnicy polencjału 1 wolta; 1 eV równa się 1,602. 107% erga, kiloelekironowołt (keV) jest to 10° elektronowoltów, megaelektronowolt (MeV) jest to 10° elektronowoltów;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_1/pkt_9",
+     "text": "zamknięte źródło promieniowania jest to substancja promieniotwórcza zamknięta w trwałej i szczelnej osłonie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "par_1/pkt_10",
+     "text": "otwarte źródło promieniowania jest to substancja promieniotwórcza nie odpowiadająca warunkom określonym w pkt 9.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_2/ust_1",
+     "text": "Pracownie stosujące otwarte źródło promieniowania zalicza się do następujących kategorii: ;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_2/ust_1/pkt_1",
+       "text": "pracownie izotopowe I kalegorii, tj. pracownie, w których stosuje się:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_1/lit_a",
+         "text": "izotopy grupy X, tzn. Na? K*, Cu”, Mn, As76, Asi, Kr, Fig'9, w ilościach do 1990 uC łącznie;",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_1/lit_b",
+         "text": "izotopy grupy Y, tzn. H*, CC”, P*, Na? S%, CI35, Ma, Fe, Co, Sr”, Cb”, Ruł, Rule, Te'*, Tel’? Jit, Cs, Ba'*, La'*, Ce\", Pr!, Nd'\", Au'*, Au'*, Fig*, Hg**, w ilościach do 100 uC łącznie, oraz",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_2/ust_1/pkt_1/lit_c",
+         "text": "izotopy grupy Z, tzn. Ca*%, Fe, Y*!, Zr%, Cel!) Pm”, Bi?!®, Po, w ilościach do 10 uC łącznie;",
+         "children": [
+          {
+           "type": "text",
+           "text": "2)-pracownie izotopowe kategorii II, tj. pracownie, w których stosuje się:"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_2/ust_1/pkt_1/lit_a",
+         "text": "izotopy grupy X w ilościach do 50.000 uC łącznie",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_2/ust_1/pkt_1/lit_b",
+         "text": "izotopy grupy Y w ilościach do 5000 uC łącznie;",
+         "children": [
+          {
+           "type": "text",
+           "text": ". el"
+          },
+          {
+           "type": "text",
+           "text": "©) MOLDY grupy Z w ilescioes do 500 uC łącznie"
+          }
+         ]
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_2/ust_1/pkt_1/lit_d",
+         "text": "izotopy Sr”, Pa, Pu w ilościach do 100 uC łącznie;",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_2/ust_1/pkt_3",
+       "text": "pracownie izotopowe kategorii III, tj. pracownie, w któ-- rych przekracza się ilości dopuszczalne w pracowniach kategorii II.",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "*"
+        },
+        {
+         "type": "text",
+         "text": "Dziennik Ustaw Nr 34"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_2/ust_2",
+     "text": "W przypadku gdy pracownia izotopowa przystępuje do pracy z izotopem promieniotwórczym nie wymienionym w ust. t, o zaszeregowaniu jej do odpowiedniej kategorii decyduje Główny Inspektor Sanitarny w porozumieniu z Głównym Inspektorem Ochrony Pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_2/ust_3",
+     "text": "Główny Inspektor Sanitarny bądź wyznaczony przez niego organ w porozumieniu z Głównym Inspektorem Ochrony Pracy może zmienić zaszeregowanie pracowni izolopowej w ramach kategorii określonych w ust. 1, w zależności od rodzaju prowadzonych prac i związanego z tym niebezpieczeństwa dla zdrowia osób zatrudnionych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział II",
+   "text": "Dawki promieniowania jonizującego."
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Ustala się następujące najwyższe dopuszczalne dawki promieniowania:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "przy narażeniu całego ciała na działanie promieni X lub gamma o energii kwantu poniżej 3 MeV najwyższa dopuszczalna dawka nie może przekraczać 0,3 r na tydzień oraz 0,05 r na dzień mierzonych w powietrzu; przy narażeniu samych rąk lub stóp dawka dopuszczalna wynosi 1,5 r na tydzień dla warstwy podstawowej naskórka;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "przy narażeniu całego ciała na promieniowanie beta o energii cząstek poniżej 3 MeV najwyższa dopuszczalna dawka nie może przekraczać 0,3 rep na tydzień mierzone w powietrzu; przy narażeniu samych rąk dawka dopuszczalna wynosi 1,5 rep na tydzień dla warstwy podstawowej naskórka;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "najwyższa dopuszczalna dawka promieniowania alfa pochodzącego z zewnątrz organizmu, otrzymana przez powierzchnię jakiejkolwiek części ciała poza rękami, wynosi 0,05 rep na tydzień; przy narażeniu samych rąk dawka dopuszczalna wynosi 0,15 rep na tydzień dla warstwy podstawowej naskórka; najwyższa dopuszczalna dawka promieniowania alfa wewnątrz organizmu wynosi 0,015 rep na tydzień; _4) dla promieniowania X, gamma i beta o energii kwantu lub cząstki powyżej 3 MeV najwyższa dopuszczalna dawka wynosi 0,3 rada na tydzień dla jakiejkolwiek części ciała;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "dawka promieniowania neutronowego o energii od 0,025 eV do 10 MeV dla dowolnej części ciała przy napromieniowaniu zewnętrznym nie może przekraczać 0,03 rada zaabsorbowanego na głębokości 2 cm od powierzchni ciała, co odpowiada dla cząstek -o energii do 3 MeV 0,03 rep na tydzień; odpowiada to strumieniowi neutronów termicznych wynoszącemu 2.000 neutronów na cm>* na sekundę; dla neutronów szybkich o energii od 3 do 10 MeV liczba ta wynosi 30 neutronów na cm? na sekundę.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Najwyższe dopuszczalne stężenie substancji promieniotwórczej w powietrzu i w wodzie do picia przy narażeniu ciągłym nie może przekraczać wartości podanych w załączniku nr 2 do rozporządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Natężenie promieniowania w środowisku otaczającym zakład lub laboratorium, w którym stosuje się promieniowanie jonizujące, nie powinno przekraczać 0,1 dawki określonej w § 3 pkt 1, czyli 0,2 ur na sekundę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Za środowisko otaczające uważa się miejsca, w których stale przebywają osoby nie zatrudnione przy promieniowaniu jonizującym.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Wszyscy pracownicy narażeni na działanie promieniowania jonizującego powinni być zaopatrywani w indywidualne komory jonizacyjne lub w specjalne błony kontrolne dla oznaczania indywidualnej dawki promieniowania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Dawkę promieniowania otrzymywaną przez pracowników zatrudnionych w pracowniach izotopowych II i III kategorii należy oznaczać codziennie, w innych zaś pracow= niach co najmniej raz na dwa tygodnie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "W każdej pracowni izotopowej należy zainstalować urządzenia alarmujące (monitory) o nadmiernym wzroście natężenia promieniowania w powietrzu oraz pozwalające na kontrolę zanieczyszczenia rąk, narzędzi, sprzętów i odzieży,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Natężenie promieniowania w jakimkolwiek miejscu pomieszczenia pracy po jej ukończeniu nie powinno przekraczać norm określonych w § 5.",
+   "children": [
+    {
+     "type": "text",
+     "text": "*§ 9. 1. Po pracy należy każdorazowo dokonywać kontroli zanieczyszczenia rąk, powierzchni pomieszczeń, sprzętów, narzędzi i odzieży wszystkich pracowników zatrudnionych przy pracy z substancjami promieniotwórczymi."
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "W razie podejrzenia, że do ustroju pracownika przeniknęła substancja promieniotwórcza, dokonuje się badania na radioaktywność moczu pracownika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Przy pracy z jodem radioaktywnym (J'3'), a także w każdym wypadku stwierdzenia u pracownika objawów mogących świadczyć o zaburzeniach czynności gruczołu tarczycowego należy określać natężenie promieniowania z tarczycy w odstępach 3-miesięcznych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "W zakładach, w których istnieje narażenie na dzia-* łanie promieniowania jonizującego, należy przeprowadzać co najmniej raz na pół roku kontrolę sprawności wszystkich urządzeń ochronnych środków ochrony osobistej oraz sprzętu służącego do pomiarów kontrolnych.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział III",
+   "text": "Badania lekarskie."
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_11/ust_1",
+     "text": "Do pracy narażającej na działanie promieniowania jonizującego nie wolno dopuszczać młodocianych, kobiet w ciąży oraz osób ze schorzeniami, których objawy „i przebieg pod wpływem energii promienistej mogą ulec pogorszeniu, jak schorzenia krwi i układu krwiotwórczego, niektóre schorzenia skóry (wypryski) lub gruczołów o wewnętrznym wydzielaniu, niektóre postacie gruźlicy płuc, stany przedrakowe, schorzenia miąższu wątroby, stany po usunięciu śledziony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_11/ust_2",
+     "text": "Minister Zdrowia ustali wykaz schorzeń, przy których zabroniona jest praca narażająca na działanie promieniowania jonizującego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Pracownicy narażeni na działanie promieniowania jonizującego i substancji promieniotwórczych powinni być poddani badaniu lekarskiemu przed przystąpieniem do pracy oraż badaniom kontrolnym w odstępach 3-miesięcznych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Badanie wstępne powinno obejmować: ogólne badanie lekarskie, całkowitą morfologię krwi, odczyn opadania krwinek oraz rentgenografię klatki piersiowej. , § 14. Okresowe badania powinny poza badaniem ogólnym obejmować całkowite morfologiczne badanie krwi. § 15. Zakłady leczniczo-zapobiegawcze przy zakładach pracy obowiązane są prowadzić dla każdego pracownika indywidualną kartę zdrowia, w której należy notować wyniki badania wstępnego i badań okresowych, rodzaj pracy i narażenia oraz zaabsorbowane przez pracownika dawki promieniowania jonizującego, i jego rodzaj. Rejestrować należy również dawki promieniowania zaabsorbowane przez pracownika w różnych okolicznościach poza pracą (np. rentgenoskopia, rentgenografia itp.).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "W razie stwierdzenia, że pracownik otrzymał dawkę promieniowania przekraczającą najwyższą dopuszczalną",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "dawkę, oraz w razie podejrzenia przeniknięcia do organizmu substancji promieniotwórczej (przez drogi oddechowe, przewód pokarmowy, nie uszkodzoną skórę lub skaleczenie) aibo w razie spostrzeżenia jakichkolwiek objawów chorobowych pracownik powinien niezwłocznie zgłosić się do iekarza. O powrocie do pracy narażającej na promieniowanie jonizujące decyduje lekarz."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "W razie stwierdzenia u pracownika zmian chorobowych mogących ulec pogorszeniu pod wpływem promieniowania jonizującego należy go skierować do leczenia na okres potrzebny do powrotu do zdrowia. Jeżeli leczenie nie odnosi skutku lub zmiany chorobowe powtarzają się, należy „pracownika przesunąć do innej pracy nie narażającej go na styczność z promieniowaniem jonizującym. § 18. 1. W razie stwierdzenia u pracownika zmian chorobowych, pociągających za sobą czasową niezdolność do pracy tylko w warunkach narażenia na promieniowanie jonizujące, pracownik na wniosek lekarza powinien być przeniesiony okresowo do innej pracy nie narażającej na działanie promieniowania jonizującego.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Pracownikowi przeniesionemu w myśl ust. 1 do innej pracy przysługuje przez okres tego przeniesienia, jednak nie dłużej niż przez 6 miesięcy, wynagrodzenie nie niższe od wynagrodzenia dotychczas pobieranego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rozdział iV"
+      },
+      {
+       "type": "text",
+       "text": "Promieniowanie X i gamma,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 1",
+   "text": "Przepisy ogólne."
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Przepisy niniejszego rozdziału dotyczą pracy przy wszystkich aparatach rentgenowskich oraz substancjach promieniotwórczych, używanych jako trwałe i szczelnie zamknięte źródła promieniowania gamma.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "Przed rozpoczęciem fluoroskopii należy dokonać co najmniej 15-minutowej adaptacji wzroku dla umożliwienia wykonania wszystkich czynności w jak najkrótszym czasie i posługiwania się jak najniższym napięciem i natężeniem prądu. Adaptacja taka jest zbędna tylko przy użyciu aparatury do prześwietleń z elektronowym wzmacniaczem obrazu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_21/ust_1",
+     "text": "Osłony źródeł promieni X i gamma powinny odpowiadać warunkom określonym w załączniku nr 3 do rozporządzenia. . \"2, W przypadkach wyjątkowo uzasadnionych Główny Inspektor Sanitarny w porozumieniu z Głównym Inspektorem Ochrony Pracy może zezwolić na czasowe odstępstwa od za- „Bad, o których mowa w ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Urządzenia do regulacji przesłony i do zamykania obwodu wysokiego napięcia powinny być uruchamiane ze stanowiska sterowania.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_23/ust_1",
+     "text": "Osoby spośród personelu pomocniczego powinny znajdować się w czasie pracy aparatu w specjalnych pomieszczeniach lub kabinach ochronnych, komunikujących się z pomieszczeniem roboczym za pomocą okienka zaopatrzonego w szybę ze szkła ołowiowego odpowiedniej grubości, z wyjątkiem tych okresów czasu, kiedy bezpośrednio pomagają przy wykonywaniu badań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_23/ust_2",
+     "text": "Przy stosowaniu aparatów o napięciu do 100 kV mogna kabinę ochronną zastąpić dwu lub trzyskrzydłową osłoną.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "W pomieszczeniach, w których znajdują się aparaty rentgenowskie, należy przestrzegać przepisów dotyczących stosowania wysokich napięć elektrycznych. § 25. 1. Pomieszczenia, w których znajdują się źródła promieniowania jonizującego, powinny mieć zapewnioną co najmniej 6-krotną wymianę powietrza na godzinę,",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_24/ust_2",
+     "text": "Pomieszczenia te powinny być suche, dobrze izolowane od wilgoci, nie mogą zagłębiać się pod poziom otaczającego terenu więcej niż na 1 metr, z wyjątkiem pomieszczeń dla aparatury megawoltowej i pomieszczeń dla aparatury izotopowej o aktywności powyżej 50 C. Te ostatnie urządzenia mogą mieścić się w dobrze izolowanych od wilgoci i należycie przewietrzanych betonowych schronach podziemnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Zamknięte źródła promieniowania wmontowane na stałe w aparaty i urządzenia przemysłowe powinny mieć ‘stałe osłony zabezpieczające otoczenie przed przekroczeniem najwyższej dopuszczalnej dawki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "W razie przeprowadzania czynności związanych z napełnianiem ciałami promieniotwórczymi zamkniętych źródeł promieniowania, przenoszenia, przechowywania i spraw= dzania ciał promieniotwórczych stosuje się przepisy rozdziału V.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 2",
+   "text": "Zakłady diagnostyczne."
+  },
+  {
+   "type": "par",
+   "num": "28",
+   "path": "par_28",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_28/ust_1",
+     "text": "Zestaw rentgenowski musi posiadać katedrę ochronną osłaniającą dolną część tułowia i kończyny dolne, Grubość warstwy. ochronnej katedry musi gwarantować wystarczającą ochronę przed promieniami X.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_28/ust_2",
+     "text": "W braku katedry, o ile napięcie nie przekracza 100 kV, może być używany fartuch z gumy ołowiowej o równoważniku ołowiu 0,3 — 0,5 mm. Prócz tego pracownicy powinni używać rękawic ochronnych z gumy ołowiowej o równoważniku ołowiu 0,3 — 0,5 mm.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "Ekran fluoryzujący powinien mieć wymiar co najmniej 35,6 X 35,6 cm oraz powinien być zaopatrzony w szkło ołowiowe o równoważniku ołowiu 2 mm. U dolnego brzegu ekranu powinna być przymocowana osłona z gumy ołowiowej o równoważniku ołowiu 0,5 mm. Górny: jej brzeg powinien sięgać powyżej linii zetknięcia się szkła z ramą ekranu. Długość osłony powinna być taka, aby przy najwyższym położeniu ekranu w czasie pracy sięgała nieco poniżej górnego brzegu katedry ochronnej. Przy maksymalnym rozwarciu przesłony wiązka promieni pierwotnych nie powinna wychodzić poza zasięg szkła ochronnego ekranu do prześwietleń, co szczególnie dotyczy aparatów przenośnych i przyłóżkowych. Ponad ekranem do prześwietleń powinna znajdować się przezroczysta osłona chroniąca przed zakażeniem kropelkowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "Przy fluoroskopii diagnostycznej podtrzymywać ciężko chorych i dzieci powinny osoby, które w czasie swojej pracy nie są stale narażone na promieniowanie X.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_31/ust_1",
+     "text": "Powierzchnia podłogi w pomieszczeniach diagnostycznych powinna wynosić przynajmniej 30 m? na jeden aparat i jedno miejsce pracy. Przy większej liczbie miejsc pracy powierzchnię należy zwiększyć o 7 m? na każde dalsze miejsce pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Urządzenia do prześwietleń powinny znajdować się w. odległości co najmniej 2 m od najbliższej ściany.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Oddział 3",
+   "text": "Zakłady terapeutyczne."
+  },
+  {
+   "type": "par",
+   "num": "32",
+   "path": "par_32",
+   "text": "1, W jednym pomieszczeniu może być czynny w. tym samym czasie tylko jeden aparat terapeutyczny.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_32/ust_2",
+     "text": "Każda lampa rentgenowska terapeutyczna powinna znajdować się w pomieszczeniu o powierzchni có najmniej 30 m,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_32/ust_3",
+     "text": "Aparat do gammaterapii powinien być umieszczony w pomieszczeniu o powierzchni co najmniej 40 m*.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "Sterowanie aparatami powinno odbywać się ze specjalnego pomieszczenia (nastawni) komunikującego się z pomieszczeniem wymienionym w § 36 za pomocą okna zaopatrzonego w szybę ze szkła ołowiowego odpowiedniej grubości lub za pomocą urządzenia peryskopowego,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Nastawnia powinna mieć co najmniej 10 m? oraz posiadać okno dające światło dzienne i bezpośredni dostęp świeżego powietrza. Nie może ona służyć równocześnie do badania chorych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "Pomieszczenia do rentgenoterapii i gammaterapii powinny być tak umieszczone, aby jak najbardziej ograniczyć przenikanie promieniowania do sąsiednich pomieszczeń.",
+   "children": [
+    {
+     "type": "text",
+     "text": "„835. Nad drzwiami pomieszczeń do rentgeno- i ganimaterapii powinna znajdować się odpowiednia sygnalizacja ostrzegawcza. § 36. W pomieszczeniach do rentgenoterapii drzwi powinny być zabezpieczone w taki sposób, aby na zewnętrznej powierzchni natężenie promieniowania nie przekraczało najwyższej dopuszczalnej dawki.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 37. W pomieszczeniach do gammaterapii należy zastosować wejście labiryntowe, a w razie niemożności wykonania takiego urządzenia drzwi należy zabezpieczyć w takl sposób, aby na zewnętrznej powierzchni natężenie promieniowania nie przekraczało najwyższej dopuszczalnej dawki.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 38.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Pierwotna wiązka promieniowania X lub gamma powinna być skierowana ku dołowi pod kątem nie przekraczającym 45°, i",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Wyjątkowo można skierować pierwoiną wiązkę promieniowania w kierunku zewnętrznych ścian budynku, tak aby kąt między osią wiązki i pionową osią aparatu nie przekraczał 80°.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Nie wolno kierować bezpośredniej wiązki promieniowania w stronę okna.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 39. Pas terenu przylegającego do zewnętrznych ścian pomieszczeń do gammalerapii znajdujących się na parterze „BRAĆ być ogrodzony w takiej odległości od ściany, aby soby przebywające poza: budynkiem nie otrzymały dawki przekraczającej normę określoną w § 3.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Oddział 4 Defektoskopia w zakładach Ę przemysłowych. -§ 40. 1. Pracownicy nie powinni przebywać w obrębie działania pierwotnej wiązki promieniowania X lub gamma. Wszelkie manipulacje w obrębie wiązki promieniowania X lub gamma należy wykonywać w odpowiedniej odległości spoza odpowiednich osłon oraz za pomocą właściwych mechanizmów (szczypce, dźwignie itp.). =",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Zabrania się stosowania przy czynnościach określonych w ust. 1 rękawic i fartuchów z gumy ołowiowej jako. środków ochronnych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 41. Pracownicy nie powinni zbliżać się do źródła promieniowania X lub gamma na odległość mniejszą od dopuszczalnej, zależną od mocy i typu aparatury. Odległość taka powinna być w sposób widoczny oznaczona (np. przez ogrodzenie) oraz iak określona w zależności od natężenia źródła promieniowania i przeciętnego czasu przebywania w tej strefie pracowników, aby dzienna dawka promieni X lub gammra otrzymana przez pracownika nie przekraczała 0,05 r na dzień.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 42.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Wiązka promieni X i gamma powinna być możliwie wąska, wystarczająca tylko do badania danego przedmiotu lub określonego miejsca danego przedmiotu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Przepisy § 38 ust. 2 i 3 stosuje się odpowiednio. § 43. Powierzchnia podłogi pomieszczeń stałego napromieniowania powinna wynosić co. najmniej 60 m*.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 44. Laboratoria, w których istnieją aparaty rentgenowskie o napięciach powyżej 200 kV lub zamknięte źródła promieniowania gamma o aktywności powyżej 10C, powinhy być urządzone z zachowaniem przepisów $§ 33—39.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 45.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. W razie stosowania aparatów rentgenowskich lub aparatów z ciałami promieniotwórczymi do badań poza laboratorium (np. badania za pomocą przenośnej aparatury w pomieszczeniach produkcyjnych) należy miejsce pracy ogrodzić w takiej odległości, aby dawka promieniowania nie przekraczała norm określonych w § 5.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Wiązka promieniowania nie powinna być skierowana w stronę stanowisk roboczych,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 46.. W razie wykonywania badań za pomocą niewielkich ilości ciał promieniotwórczych umieszczonych w zamkniętych naczyniach (ampułkach, kapsułkach) wszelkie manipulacje nimi należy wykonywać z odległości, za pomocą odpowiednich mechanizmów (szczypiec, dźwigni, statywów) i przy użyciu odpowiednich osłon.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Rozdział V",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Otwarte źródła promieniowania.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 47. Jeżeli przez zwiększenie odległości nie da się zredukować natężenia promieni do dawki maksymalnie dopuszczalnej, należy stosować osłony odpowiadające normom określonym w załącznikach:nr 4 i 5 do rozporządzenia. Osłony te powinny znajdować się możliwie blisko źródeł promieniowania. Należy utrzymywać tło promieniowania w pracowni na poziomie nie przekraczającym 1 milirentgena na godzinę.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 48. Nie wolno wciągać ustami do pipet roztworów zawierających ciała promieniotwórcze.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 49. Przy pracy narażającej na styczność z promieniowaniem beta i gamma należy stosować dla ochrony oczu ekrany ze szkła ołowiowego jako ochrony przeciw promieniowaniu gamma. Powierzchnia ekranu zwrócona do pracow* nika powinna być pokryta warstwą przejrzystej masy plastycznej,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 50. Zabrania się wnosić do pomieszczeń, w których znajdują się substancje promieniotwórcze:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) jedzenia i napojów,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) przyborów do palenia, papierosów, fajek, tytoniu,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) torebek ręcznych i kosmetyków oraz innych drobnych przedmiotów osobistego użytku. § 51. 1. Dla pracowników zatrudnionych w pracowniach izotopowych II lub III kategorii powinna być urządzona specjalna szatnia składająca się z dwóch pomieszczeń, z których jedno należy przeznaczyć na odzież roboczą i ochronną, a drugie — na odzież domową. Między tymi pomieszczeniami powinna być urządzona umywalnia z natryskami.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Dla pracowników zatrudnionych w innych niż określone w ust. 1 zakładach pracy stosujących substancje promieniotwórcze powinny być urządzone szatnie z oddzielnymi szafami na odzież roboczą i domową.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Wszyscy pracownicy stykający się z substancjami promieniotwórczymi oraz pracownicy sprzątający pomieszczenia do pracy z substancjami promieniotwórczymi powinni „w każdym przypadku opuszczenia pomieszczenia pracy:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) dokładnie obmyć rękawiczki z zewnątrz;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) zdjąć ubrania ochronne i rękawiczki w przeznaczonej na ten cel szatni;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) wyczyścić paznokcie i umyć ręce;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) po pracy w pracowni izotopowej kategorii II i ill ponadto umyć twarz i szyję. A. Po zakończeniu pracy w pracowniach izotopowych kategorii II i III obowiązuje kąpiel pod natryskiem. § 52. 1. W każdym pomieszczeniu, w którym pracuje się z substancjami promieniotwórczymi, powinna znajdować się co najmniej jedna umywalnia typu chirurgicznego (uruchamiana dźwignią lub pedałem).",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Dziernik Ustaw Nr 34 —",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Do umywałni tej nie wolno wlewać odpadków. § 53. Pomieszczenia i sprzęty używane do pracy z substancjami promieniotwórczymi powinny być sprzątane na mokro (np. przy pomocy mokrych trocin lub zmywania mydłem).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 54, Ręczniki, szczotki, miotły, ścierki i inny sprzęt używany do sprzątania i mycia w pomieszczeniach do precy z substancjami promieniotwórczymi mogą być używane tylko w tych pomieszczeniach. Powinny być one przechowywane w specjalnych szafach w pomieszczeniu, w którym pracuje się z substancjami promieniotwórczymi,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 55.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. W razie przypadkowego zanieczyszczenia ciałami promieniotwórczymi jakiejkolwiek powierzchni w pomieszczeniu, w którym pracuje się z ciałami promieniotwórczymi, należy miejsca zanieczyszczone natychmiast zabezpieczyć uniemożliwiając do nich dostęp osobom niepowołanym.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. O każdym takim wypadku należy powiadomić nie-. zwłocznie kierownika pracowni, który powinien wydać od- -\" powiędnie zarządzenie. 4 3. Pracę w zanieczyszczonym pomieszczeniu należy przerwać do chwili całkowitego jego oczyszczenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. Zebrania rozsypanego lub rozłanego ciała promieniotwórczego jak również oczyszczenia miejsca zanieczysiczonego powinna dokonać osoba odpowiednio wyszkołona, zaopatrzona w ubranie ochronne i sprzęt ochronny.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5. Po uporządkowaniu miejsca zanieczyszczonego należy oznaczyć jego promieniotwórczość. Nie wolno przystępować do pracy, jeżeli pozostała aktywność gamma będzie przekraczała jeden milirentgen na godzinę. W razie niemożności takiego oczyszczenia przedmiot lub powierzchnię zanieczyszczoną należy usunąć.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "6. W każdym przypadku zanieczyszczenia ciałami promieniotwórczymi należy spisać protokół i przypadek ten omówić z pracownikami.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "7. Jeżeli na podłodze lub na innej powierzchni znajduje się substancja promieniotwórcza w postaci pyłu, należy natychmiast wyłączyć wentylatory, ażeby uniknąć uniesienia pyłu w powietrze.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 56.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Zanieczyszczenie powierzchni w miejscu pracy nie powinno przekraczać dla substancji promieniotwórczych emitujących promieniowanie alfa:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) w pracowniach kategorii I i II — 10% uC/cm?;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) w pracowni kategorii III — 10% uC/cm*,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Zanieczyszczenie powierzchni substancjami emitującymi promieniowanie beta nie powinno przekraczać:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) w pracowni kategorii I — 20 impulsów na 1 cm kwadratowy okienka licznika Geigera-Miillera na minute przy grubości okienka nie wyższej niż 5 mg/cm*, przy odległości 2 cm od zanieczyszczonej powierzchni;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) w pracowniach kategorii Il i III — 50 impulsów na minutę przy zachowaniu tych samych warunków.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 57. Odpady i pozostałości substancji promieniotwórczych nie nadające się do dałszego użycia, a także śmiecie i zużyte przyrządy do utrzymywania czystości (§ 54) nie mogą być gromadzone na stołach ani pozostawać dłuższy czas w pomieszczeniach przeznaczonych do pracy; powinny być one usuwane możliwie szybko.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 58. Odpady powinny być zbierane w specjalnych naczyniach z materiału nienasiąkliwego i nie ulegającego korozji, otwieranych za pomocą pedału i chronionych osłonami odpowiadającymi normom określonym w załącznikach nr 4 «1 5,do rozporządzenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 59. Odpady zawierające substancje promieniotwórcze © krótkim półokresie rozpadu można przetrzymywać w naczyniach na odpady do czasu zmniejszenia się ich ak'ywności.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 60.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Jeżeli odpadki o dłuższym półokresie rozpadu są w słanie ciekłym, można je wytrącić z roztworu i postępować z osadem jak z odpadami stałymi w sposób określony w ust. 3 lub też można je. zalkalizować do pH 8,5 i rozcieńczyć do stężenia nie przekraczającego 107C na litr i odprowadzić do sieci kanalizacyjnej. Dla izotopów grupy Z ilość ta nie może przekraczać 50 uC na tydzień,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Pierwiastki wykazujące selektywną zdolność gromadzenia się w pewnych narządach ustroju należy rozcieńczać za pdmocą roztworu tego samego związku izotopów trwałych danego pierwiastka.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Do czasu uregulowania zasad. postępowania z odpadami stałymi należy przechowywać je w metalowych naczyniach hermetycznie zamkniętych. § 61. Zwierzęta, na których dokonuje się doświadczeń przy użyciu ciał promieniotwórczych, powinny znajdować sią w osobnym pomieszczeniu. Wydaliny zwierząt i popioły martwych zwierząt po spaleniu powinny być traktowane jak odpadki zawierające substancje promieniotwórcze.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 62. W pracowniach siosujących otwarte źródła promieniowania wolno przechowywać substancje promieniotwórcze w ilościach nie przekraczających 10-krotnie odpowiednich norm określonych w § 2 ust. 1.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 63, 1. W okresach, gdy substancje promieniotwórcza nie są używane w pracy, muszą być one przechowywane w zamknięciu. :",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Przy ilościach nie przekraczających 200 uC substancje promieniotwórcze mogą być przechowywane w pomieszczeniach pracy w pojemnikach z ołowiu o takiej grubości, aby natężenie promieniowania na ich powierzchni nie przekraczało 1 milirentgena na godzinę, w specjalnej szafie. ~",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Przy ilościach przekraczających 200 wC konieczne jest \"osobne odpowiednio zabezpieczone pomieszczenie, zaopatrzone w specjalne urządzenia ochronne o ścianach wykonanych z materiału silnie pochłaniającego (ołów, barytobeton, beton, żelazo — załącznik nr 4), oraz wentylacja mechaniczna zapewniająca co najmniej dziesięciokrotną wymianę powietrza . na godzinę. Wentylatory należy uruchamiać każdorazowo przed otwarciem tego pomieszczenia. § 64. Miejsce przechowywania substancji promieniotwórczych powinno być specjainie oznaczone. § 65. Jeśli substancje promieniotwórcze mają zdolność wytwarzania gazów radioaktywnych, powinny być magazynowane w hermetycznie zamkniętych naczyniach. § 66. Substancje promieniotwórcze mogą wyjmować z magazynu, skrzyń, pojemników tylko odpowiedzialne za tą czynność osoby. § 67. Przenoszenie substancji promieniotwórczych wewnątrz pracowni powinno odbywać się w specjalnych pojemnikach z materiału o zdolności pochłaniania promieniowania wysyłanego przez daną substancję, tak aby natężenie promieniowania w odległości 1 m nie przekraczało 1 milirentgena na godzinę, Pojemnik powinien być zaopatrzony w długie uchwyty. : § 68, Przenoszenie substancji promieniotwórczych wewnątrz pracowni powinno odbywać się najkrótszą drogą przy ograniczeniu do minimum liczby osób \"narażonych na promieniowanie (personel przenoszący, osoby pracujące w sąsiednich pomieszczeniach, chorzy w szpitalach).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 69.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Pracownicy zatrudnieni w pracowniach izotopowych powinni nosić óchronne ubrania, a mianowicie: rękawiczki gumowe (chirurgicznej, fartuchy zapinane od tyłu z gładkiego materiału lub z masy plastycznej, nakrycie głowy, obuwie robocze, a w razie pracy z substancjami pylącymi — maski przeciwpyłowe i okulary ochronne bądź specjalne skafandry z przeźroczystej masy plastycznej.",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Poz.. 148 sa 418 = Dziennik Ustaw Nr 34",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Zamiast chustek do nosa należy używać ligniny, którą po użyciu należy usuwać, tak jak odpadki promieniotwórcze,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 70.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Odzież ochronna i robocza używana przy pracach z ciałami promieniotwórczymi musi być oddzielnie przechowywana i używana tylko do tych prac. _",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Pranie odzieży określonej w ust. 1 powinno być wykonane oddzielnie i w sposób zmechanizowany, a transport odzieży do prania powinien odbywać się w specjalnych workach.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Odzież należy oddawać do prania po stwierdzeniu, że żanieczyszczenie radioaktywne odzieży spadło do 1 mrep na godzinę. § 71. Stoły do pracy powinny mieć zabezpieczone powierzchnie warstwą pochłaniającą promieniowanie. Powierzchnia stołu powinna być pokryta materiałem gładkim, nienasiąkliwym i łatwo zmywalnym (winidur, linoleum). § 72. 1. Na stołach powinny znajdować się odpowiednie stojaki i skrzynki ołowiane na używane narzędzia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Po użyciu wszystkie narzędzia muszą być oczyszczone za pomocą takich metod chemicznych lub fizycznych, które zapewniają usunięcie zanieczyszczeń ciałami promieniotwórczymi.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 73. Meble w pracowniach izotopowych kategorii II i III powinny być pokryte białą emalią, umożliwiającą zmywanie strumieniem wody.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 74. Zetknięcia ścian między sobą oraz z sufitem i podłogą powinny być wykonane w sposób gładki i zaokrąglony. Ściany i sufity powinny być pokryte farbą olejną i polakierowane. Podłoga powinna być wykonana z materiału gładkiego i nienasiąkliwego. Grzejniki powinny być umieszczone w zagłębieniach i być zakryte.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 75.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Wszelkie narzędzia, przedmioty, meble. oraz odzież używana w pracowniach izotopowych kategorii II i III powinny być odpowiednio oznaczone i nie mogą być wynoszone poza obręb pomieszczeń tych pracowni.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. W razie zanieczyszczenia substancjami promieniotwórczymi przedmiotów, o których mowa w ust. 1, w stopniu uniemożliwiającym ich oczyszczenie i powtórne użycie przedmioty te powinny być traktowane jako odpady promieniotwórcze.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 76.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. W pomieszczeniach pracowni izotopowych kategorii II i III powinny znajdować się następujące urządzenia wentylacyjne:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) wentylacja ogólna wyciągowa dająca co najmniej 6-krotną wymianę powietrza na godzinę;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) wentylacja wyciągowa miejscowa w punktach wykonywania manipulacji z ciałami promieniotwórczymi (digestoria, okapy).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Urządzenia wentylacyjne powinny mieć odrębny układ przewodów nie łączących się z ogólną wentylacją budynku. i-",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 77.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Wszystkie czynności w pracowniach II i III kategorii, przy których mogą powstawać pyły, pary, gazy i mgły radioaktywne, należy wykonywać wewnątrz odpowiednich digestoriów z wyciągiem o dostatecznej sile aspiracyjnej, łatwym do oczyszczenia i zaopatrzonym w odpowiednie filtry, które należy systematycznie oczyścić lub wy» mienić, albo zależnie od sytuacji — w skrzyniach hermetycznych zaopatrzonych w rękawy manipulacyjne.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Umieszczenie wylotów wyciągów powinno gwarantować nieprzedostawanie się gazów wylotowych do otwartych \"okien pomieszczeń sąsiednich. . 8 78. Zakłady lecznicze, w których stosuje się preparaty radioaktywne w celach rozpoznawczych i leczniczych, powinny posiadać do przechowywania ciał promieniotwórczych i przygotowywania preparatów specjalne pomieszczenia, odpowiadające warunkom przewidzianym dla pracowni, w których stosuje się otwarte źródła promieniowania o analogicznej aktywności, bądź dotyczącym zamkniętych źródeł promieniowania. To samo dotyczy przepisów ochronnych i metod pracy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 79. Leczenie preparatami promieniotwórczymi powinno odbywać się w pokojach szpitalnych 1—2 osobowych. Jeżeli warunki nie pozwalają na odseparowanie chorych, którym w celach leczniczych wprowadza się do organizmu ciała promieniotwórcze, mogą oni przebywać na ogólnych salach szpitalnych jedynie pod warunkiem, że przebywanie ich tam nie zagraża innym osobom, nie leczonym energią promieniowania, otrzymaniem dawki promieniowania przekraczającej 1/10 najwyższej dawki dopuszczalnej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 80. Chorzy poddawani leczeniu izotopami promieniotwórczymi powinni posiadać oddzielną bieliznę, pościel, przybory toaletowe, ręczniki, naczynia i przybory do jedzenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 81. Chorym przebywającym na salach szpitalnych, w których stosuje się lecznicze otwarte źródła promieniowania, nie wolno posiadać przedmiotów prywatnych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 82.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Bieliznę chorych poddawanych działaniu leczniczemu otwartych źródeł promieniowania należy przed oddaniem do prania przechowywać oddzielnie w specjalnych szafach, aż do utraty aktywności do 1 mrep na godzinę.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Chorzy ci powinni korzystać z oddzielnych urządzeń sanitarnych (umywalnie, ustępy), z których nie wolno korzy- . stać innym osobom. W urządzeniach tych należy systematycznie przeprowadzać kontrolę radioaktywności.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Rozdział VI",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Przepisy końcowe.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 83.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Kierownik zakładu pracy, w którym pracownicy są narażeni na działanie promieniowania jonizującego, obowiązany jest zapoznać z treścią niniejszego rozporządzenia wszystkich pracowników zatrudnionych bądź przyjmowanych do pracy przy źródłach promieniowania jonizującego. 2.Pracownicy, o których mowa w ust. 1, obowiązani są. stwierdzić własnoręcznym podpisem, że zaznajomili się z treścią niniejszego rozporządzenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 84.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Przed dopuszczeniem do pracy narażającej na działanie promieniowania jonizującego kierownik zakładu pracy jest obowiązany przeszkolić pracowników w zakresie czynności, jakie mają być przez nich wykonywane.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Pracownika wolno dopuścić do pracy dopiero po stwierdzeniu, że opanował on technikę postępowania z substancjami promieniotwórczymi.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 85. W każdym zakładzie, w którym istnieje narażenie na promieniowanie jonizujące, powinien być wyznaczony przez kierownika zakładu jeden z pracowników do kontroli przestrzegania niniejszego rozporządzenia w codziennej pracy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 86. Kierownik zakładu jest obowiązany powoływać raz na rok komisję do sprawdzenia umiejętności pracowników w obchodzeniu się ze źródłami promieniowania jonizującego. Wyniki tego sprawdzenia powinny być ujęte w formie zwięzłego protokołu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 87. Każdy zakład używający substancji promieniotwórczych powinien prowadzić stałą ich ewidencję. § 88. Wyniki wszelkich kontroli przeprowadzonych w zakładzie, w którym istnieje narażenie na promieniowanie jonizujące, powinny być protokołowane, a odpisy protokołów powinny być przechowywane w zakładzie.",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "i ae",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 89. Plany budowy i przebudowy oraz eksploatacji pracowni i urządzeń rentgenowskich, a także pracowni naukowo-badawczych i urządzeń przemysłowych, w których stosuje się substancje promieniotwórcze, opiniują organy Państwowej Inspekcji Sanitarnej i Technicznej Inspekcji Pracy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 90. O zamierzonym uruchomieniu placówki lub stanowisk pracy, na których pracownicy mogliby być narażeni na promieniowanie jonizujące, należy zawiadomić właściwe terenowo organy Państwowej Inspekcji Sanitarnej i Technicznej Inspekcji Pracy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": ", 891. O każdym wypadku uszkodzenia zdrowia pozostającym w związku z pracą narażającą na działanie promieniowania jonizującego należy zawiadomić wojewódzkiego inż ——_—",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "spektora sanitarnego oraz terenowy organ Technicznej Inspekcji Pracy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 92. Traci moc:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) rozporządzenie Ministrów Pracy i Opieki Społecznej oraz Zdrowia z dnia 6 sierpnia 1952 r. w sprawie higieny i bezpieczeństwa pracy w przemysłowych laboratoriach radiologicznych (Dz. U. Nr 39, poz. 274);",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) rozporządzenie Ministrów Pracy i Opieki Społecznej oraą Zdrowia z dnia 27 stycznia 1953 r. w sprawie higieny i bezpieczeństwa pracy w lekarskich zakładach rentge« nowskich i na oddziałach szpitalnych, na których stosu< je się rad (Dz. U. Nr 28, poz. 110).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 93. Rozporządzenie wchodzi w życie z dniem odloszakia,",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: w z. P. Jaroszewicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Rady Ministrów z dnia 23 maja 1957 m (poz. 148). Załącznik nr 1.",
+   "body": [
+    {
+     "type": "text",
+     "text": "TABLICA GRAMORÓWNOWAŻNIKÓW RADU DLA POSZCZEGÓLNYCH IZOTOPÓW ORAZ NATĘŻENIA ICH PROMIENIOWANIA"
+    },
+    {
+     "type": "text",
+     "text": "Natężenie promienio- Gramorówno- ; ważnik radu wania gamma w r/h Ra/C dla 1 C w odle- 8 głości I m"
+    },
+    {
+     "type": "text",
+     "text": "2 3"
+    },
+    {
+     "type": "text",
+     "text": "Be” 0,037 0,031 Na?2 1,49 1,26 Na? 2,27 1,91 Kio 0,096 0,68 Ks 0,23 0,19 Sc*4* 0,19 0,16 Sc**-- Sc46* 1,32 1,11 Sc#? 0,075 0,06 Sc*8 2,14 1,8 vis 1,87 1,57 Cr51 0,018 0,015 Mn52 0,95 0,80 Mn 0,58 0,48 Fe? 0,74 0,63 Ćo5% 2,09 1,75 Co§7-- Fe57* 0,78 0,65 Co** 0,66 0,56 Co® 1,57 1,32 Nie? 1,55 1,30 Cus4 0,14 0,12 Cu? 0,066 0,055 Zn 0,34 0,29 Ga°? 0,13 0,11 Ge\" 0,99 0,83 As?) : 0,81 0,68 As”3 0,042 0,036 As74 0,62 0,52 As78 0,28 0,24 As77 0,0046 0,004 Se? 0,18 0,15 Br*2 1,76 1,48 Kr*5--Rb35* 0,0024 0,002 Rb* 1,06 0,89 $r85--Rb*5* 0,36 0,30 yes 1,68 1,41 y\" 0,0017 0,001 Zr**(+ Y8**) 0,79 0,66 Zr°5(-+-Nb**) 0,50 0,42 Nb®* 0,0011 0,001 Nb** — Nb?4 1,07 0,90 Nbs35* 0,16 0,13 \"Nb?6 0,53 0,44"
+    },
+    {
+     "type": "text",
+     "text": "Natężenie promienio- Gramorównowania gamma w r/h ważnik radu dla 1 C w odlegRa/C głości I m"
+    },
+    {
+     "type": "text",
+     "text": "9 2"
+    },
+    {
+     "type": "text",
+     "text": "Mo?9--Tc39* 0,21 Tc%* 0,44 Te 1,70 Ru \"3(--Rh10**) 0,38 Rh1% 0,011 Ag\"05 0,25 Ag110* 1,72 Ag 13-4. Eqns 0,020 Cdso%(--Ągiatej 0,0041 Cd15* 0,013 C116 0,41 In111 0,27 Int4* 0,023 Sn149(-+- Int5*) 0,20 Sn117* 0,18 Sn119* 0,041"
+    },
+    {
+     "type": "text",
+     "text": "Sb124 1,07 Sb225(-|Te126*) 0,35 'Te1ż1* 0,17 Tel 3 0,39 Te?\" . 0,13 Te125* 0,0056 Te 227\" 0,049 Te 129* 0,058 yi 1,40 Js 0,079 J% 0,27 J'29 0,0089 JB1(- Xe 31-4 Xe181w) 0,27 Xe?%9 0,18 Xe331* 0,0047 Xe133* 0,030 Xe233 0,017 Cs 134 1,18 Cs137(--Ba137*) 0,42 Ba131 , 0,36 Ba133* 0,048 Ba133 0,25 Ba135* 0,041 Bało © 0,3 Laie 1,43 Ce??? 0,17"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 8 PDF nie ma czytelnej warstwy tekstowej (np. skan lub grafika). Jej treści tu nie ma, jest tylko w PDF.]"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "i"
+    },
+    {
+     "type": "text",
+     "text": "EEE © Najwyższe dopusz- Najwyższe dopaszczalne stężenie czalne stężenie sotop w wodzie w powietrzu w uC/ml w pC/ml"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "|y130 3x10-% 6x10-7 [r192 5x10-5 5x10-% Pt 7x10-5 10-7 Pits 9x10-5 2x10-7 Au\"96 2x10-4 2x10-7 Aut 6x10-5 10-7 Aut? 2x10 -4 3x10-7 T120 10-4 2x10-7 T1201 9x10-% 2x10-% T1202 5x10-% 9x10-7 T1204 10-% 2x10-7 Pb? 2x10-4 4x10-7 Po?101 w równowadze z produktami rozpadu 2x10-\" 8x10-11 Po?10 rozpuszczalny 3x10-7 5x10-19 Po?10 nierozpuszczalny 10-30 At?12 _ 3x10-7 5x10-10 Rn?%%- w równowadze z produktami rozpadu 10-7 Rn?22-- w równowadze z produktami rozpadu 10-7 Ra?25 4x10-* 8x10-13 Ac???-. w równowadze z produk- i tami rozpadu 3x10-7 4x10-13 Th — naturalny e 5x10-3"
+    },
+    {
+     "type": "text",
+     "text": "Najwyższe dopusz- Naju:yższe dopuszczalne stężenie czalne stężenie w wodzie w powietrzu : w pC'ml w pC/ml"
+    },
+    {
+     "type": "text",
+     "text": "1 2 3"
+    },
+    {
+     "type": "text",
+     "text": "Th — naturalny nierozpuszczalny 3x10-11 Th234--Paż34 2x10-% 10-8 U — naturalny rozpuszczalny 10-5 3x10—11 U — naturalny nierozpuszczalny 3x10-11 U*88 — rozpuszczalny 3x10-7 3x10-11 U*33 —— nierozpuszczalny 3x10-11 Pu?3* — rozpuszczalny 7 3x10-7 2x10-12 Pu*** — nierozpuszcza!ny 2x10-13 Am?! 3x10-7 5x10-70 Gm? 2x10-7 2x10-%9 Mieszanina izotopów promieniowania beta i gamma 10-**) 10-%**) Mieszanina izotopów promieniowania alfa 10-3*) 5x10-13***)"
+    },
+    {
+     "type": "text",
+     "text": "*) z wyjątkiem Ra”, *) z wyjątkiem Sr”. **) z wyjątkiem Pu? i Ac*7, Normy dla powietrza odnoszą się do powietrza wewnątrz Y p Pp zakładów pracy. Normy dla wody dotyczą narażenia ludności."
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 3.",
+   "body": [
+    {
+     "type": "text",
+     "text": "WARUNKI, JAKIM POWINNY ODPOWIADAĆ OSŁONY ZRODEL PROMIENI X I GAMMA"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Klasy ochronności kołpaków rentgenowskich."
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Klasa 1 — Aparaty rentgenowskie dyfrakcyjne. Aparaty rentgenowskie należące do klasy 1 powinny mieć takie zabezpieczenie kołpaka przed promieniowaniem rozproszonym, ażeby natężenie promieniowania przy zamkniętej przesłonie, mierzone bezpośrednio przy kołpaku „lub głowicy, nigdzie nie przekraczało wartości 6,25 mr/h przy wartościach znamionowych prądu i napięcia lampy rentgenowskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Klasa 2 — Aparaty rentgenowskie diagnostyczne. Aparaty rentgenowskie należące do klasy 2 powinny mieć takie zabezpieczenie kołpaka lub głowicy przed promieniowaniem rozproszonym, ażeby natężenie promieniowania przy zamkniętej przesłonie mierzone w odległości 1 m od ogniska lampy nigdzie nie przekraczało wartości 25 mr/h przy wartościach znamionowych prądu napięcia lampy rentgenowskiej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "ust_3",
+     "text": "Klasa 3 — Aparaty rentgenowskie terapeutyczne i defektoskopowe. Aparaty rentgenowskie należące do klasy 3 powinny mieć takie zabezpieczenie kołpaka lub głowicy przed promieniowaniem rozproszonym, ażeby natężenie promieniowania przy zamkniętej przesłonie, umieszczone w odległości 1 m od ogniska lampy nigdzie nie przekraczało wartości 100 mr/h dla aparatów rentgenowskich o napięciu znamionowym do 250 kV i 200 mr/h dla aparatów rentgenowskich o napięciu znamionowym ponad 250 kV przy wartościach znamionowych prądu i napięcia lampy rentgenowskiej.",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "II.",
+     "text": "Klasy ochronności pojemników dla izotopów promieniotwórczych."
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Klasa 1. Pojemniki dla izotopów otwartych. Pojemniki dla izotopów otwartych, stosowane w radiochemii itp. powinny mieć takie zabezpieczenie, ażeby natężenie promieniowania gamma mierżone na powierzchni pojemnika nie przekraczało wartości 6,25 mr/h.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Klasa 2. Pojemniki dla izotopów zamkniętych, Pojemniki dla izotopów zamkniętych stosowane w terapii, defektoskopii itp., powinny mieć takie zabezpieczenie, ażeby natężenie promieniowania gamma mierzone w odległości 1 m od izotopu nie przekraczało 6,25 mr/h.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4.",
+   "body": [
+    {
+     "type": "text",
+     "text": "OBLICZENIE OSŁON OCHRONNYCH Z RÓŻNYCH MATERIAŁÓW PRZED PROMIENIOWANIEM GAMMA"
+    },
+    {
+     "type": "text",
+     "text": "W celu obliczenia grubości osłony z danego materiału . bierzemy pod uwagę następujące czynniki:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "aktywność źródła,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "odległość źródła od osłony,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "dzienny czas pracy z promieniowaniem,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "rodzaj materiału na osłony,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "rodzaj izotopu promieniotwórczego.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Sposób obliczenia jest następujący:"
+      },
+      {
+       "type": "text",
+       "text": "W części 1 tablicy nr 1 znajdujemy liczbę odpowiadającą danej aktywności oraz energii promieniowania. Jeśli jest to izotop o złożonym widmie promieniowania gamma, wówczas w tablicy nr 2 znajdujemy wartość energii, którą należy przyjąć, oraz współczynnik mnożny z kolumny 4 tablicy 2, przez który mnożymy wartość założonej aktywności, i dopiero wówczas znajdujemy wartość odpowiadającą aktywności przemnożonej przez dany współczynnik. Do otrzymanej wartości, z części pierwszej tablicy nr 1 należy dodać wartość wynikającą z odległości od źródła do osłony dla tej samej energii (w tej samej kolumnie). Następnie do wartości powyższych należy dodać liczbą z tej samej kolumny odpowiadającą czasowi dziennej pracy w godzinach. Sumę powyższą mnożymy przez współczynnik podany w tej samej kolumnie, a odpowiadający danemu materiałowi."
+      },
+      {
+       "type": "text",
+       "text": "Przykład 1."
+      },
+      {
+       "type": "text",
+       "text": "Preparat ma aktywność 500 mC i zawiera 1 kwant promieniowania o energii 2 MeV. Dzienny czas pracy 2 godziny, odległość od preparatu 50 cm."
+      },
+      {
+       "type": "text",
+       "text": "Otrzymujemy z tablicy 1"
+      },
+      {
+       "type": "text",
+       "text": "+ 87 500 mC (2 MeV) : + 28 50 cm : 2 godz :"
+      },
+      {
+       "type": "text",
+       "text": "— 27"
+      },
+      {
+       "type": "text",
+       "text": "Grubość osłony ołowianej 88 mm . żelaznej 88 mmx 1.5 = 132 mm betonowej 88 mmx 4.4 = 387 mm wodnej 88 mm x 10 .= 880 mm"
+      },
+      {
+       "type": "text",
+       "text": "Przykład 2. aż, Izotop kobaltu ma aktywność 500 mC, odległość wynosł 1 m, dzienny czas pracy 8 godzin. Otrzymujemy z tablicy 2 wartość energii 1,5 MeV oraą współczynnik z kolumny 4 równy 2. Następnie otrzymujemy z tablicy 1"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "pkt_5/lit_a",
+       "text": "2x500mC (1,5 MeV = 1C) 1,5 MeV: + 84 mm",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "pkt_5/lit_b",
+       "text": "i m 1 0 mm",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "pkt_5/lit_c",
+       "text": "8 godz. i 0 mm grubość osłony ołowianej 84 mm Zależnie od wybranego materiału ochronnego otrzymuje: my grubość osłony z części 4 tablicy nr 1, np. dla betonu otrzymujemy około 360 mm.",
+       "children": [
+        {
+         "type": "text",
+         "text": "TABLICA 1"
+        },
+        {
+         "type": "text",
+         "text": "Grubość osłon w mm przy tygodniowej dawce promieniowania gamma 300 mr"
+        },
+        {
+         "type": "text",
+         "text": "I. akt ść aktywno 0,35 0,5"
+        },
+        {
+         "type": "text",
+         "text": "10 mą — 3 —4 20 m —1 0 50 mG + 2 + 6 100 ae + 4 +10 200 m + 6 +14 500 mC +9 +19 1¢ +11 +23 20 +13 +27 8 ¢ +16 --32 10 +18 +36 20 é +20 +40 50 +23 +45 106 +25 +49"
+        },
+        {
+         "type": "text",
+         "text": "IL. odległość + + +"
+        },
+        {
+         "type": "text",
+         "text": "20 cm +3 +10 +19 50 », +2 +5 + 8 } m 0 0 0 Laer —3 — 9 —18 10,, —4 —13 —28"
+        },
+        {
+         "type": "text",
+         "text": "a rm"
+        },
+        {
+         "type": "text",
+         "text": "Ill. dzienny czas pracy w godzinach + + +"
+        },
+        {
+         "type": "text",
+         "text": "1 —l —6 —12 i —l —4 — 8 { 0 —2 — 4 § 0 0 0 24 +1 +4 + 7"
+        },
+        {
+         "type": "text",
+         "text": "Energia w MeV"
+        },
+        {
+         "type": "text",
+         "text": "078 1 1,5 2 2,5 3"
+        },
+        {
+         "type": "text",
+         "text": "see RÓG SE glo 125] e be +8 |< 16 |< 28 1027 +30 120 +32 +41 +46 + 50 +29 +44 +55 +60 + 65 +37 +56 +69 +75 +79 +49 +72 +8 +94 + 99 4.58 dób OE ie <LTI4 + 67 +96 +114 +122 +4129 578 FYI EDS Lat\" --149 + 87 +124 +146 +156 +163 + 96 +136 +160 +170. |- 4178 +107 +152 +178 +189 +198 4116 +164 +192 +203 +213"
+        },
+        {
+         "type": "text",
+         "text": "+ + + + +"
+        },
+        {
+         "type": "text",
+         "text": "+41 +56 +64 467 +70 +18 +24 498 --29 430 0 0 0 0 0 a]? DA =27 —28 —29 —40 —55 —64 —66 —69 —64 —79 —92 —95 —98"
+        },
+        {
+         "type": "text",
+         "text": "mn a"
+        },
+        {
+         "type": "text",
+         "text": "+ s + + +"
+        },
+        {
+         "type": "text",
+         "text": "—26 —36 SE —43 —4 —17 4 —27 —28 29 aż 8 wt salą tA —14 0 0 0 0 0 414 +19 4-22 +23 +24 ae Sere Boeken eee Go aie p IV. materiał ochronny x x x X x X X x"
+        },
+        {
+         "type": "text",
+         "text": "z ff o"
+        },
+        {
+         "type": "text",
+         "text": "Pb 1,0 1,0 1,0 Fe 10 4,3 PAA Al, beton 34 13 7,8 woda 79 . 30 18"
+        },
+        {
+         "type": "text",
+         "text": "1,0 1,0 1,0 1,0 1,0 1,7 1,5 1,5 1,6 1,6 4,8 4,3 4,4 4,7 4,8 ll 10 10 u 12"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "TABLICA 2"
+        },
+        {
+         "type": "text",
+         "text": "Okres półtrwania, efektywna energia promieni gamma oraz współczynnik mnożny aktywności izotopu,"
+        },
+        {
+         "type": "text",
+         "text": "Izotop Qkres promieniotwórczy półtrwania"
+        },
+        {
+         "type": "text",
+         "text": "a"
+        },
+        {
+         "type": "text",
+         "text": "b"
+        },
+        {
+         "type": "text",
+         "text": "s"
+        },
+        {
+         "type": "text",
+         "text": "a — lata d — dni h — godziny."
+        },
+        {
+         "type": "text",
+         "text": "£Efekqywna energia Współczynnik w MeV aktytwności ."
+        },
+        {
+         "type": "text",
+         "text": "1,5 2 2,5 2 15 0,25 1,6 2 1,5 1,5 ł,5 1 1,5 2 1,6 1 0.5 I 2,0 1,0 6.75 0,5 1,0 2 10 re 6,5 } 1,5 2, Lo I 0,5 1 0,75 2 0.75 1 1,0 2 0,2 0,2 0,5 2 0.5 1 0,35 1 2 1"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 5.",
+   "body": [
+    {
+     "type": "text",
+     "text": "OCHRONA PRZED PROMIENIOWANIEM BETA"
+    },
+    {
+     "type": "text",
+     "text": "Ochrona przed promieniowaniem beta o różnej energii wymaga następujących grubości warstw ochronnych:"
+    },
+    {
+     "type": "text",
+     "text": "Maksymalna Grubość warstwy energia promieni powietrza - beta w metrach"
+    },
+    {
+     "type": "text",
+     "text": "0,01 0,0013 0,02 0,0052 0,03 7 “0,011 0,04 0,619 0,05 0,029 70,06 “0,040 0,07 0,052 0,08 “0,069 0,09 0,082 “0,10 8 “0,101 A 0,20 5"
+    },
+    {
+     "type": "text",
+     "text": "Grubość -warstwy Grubość warstwy wody aluminium w milimetrach w milimetrach"
+    },
+    {
+     "type": "text",
+     "text": "0,002 0,0006 0,008 i 0,0626 0,018. 0,0056 0,030 “0.0096 0,046 0,0144 0,063 \"0,0200 zew R A O08 0,0263 0,109 SJ 0,0344 0,129 0,0407 0,159 0,0500 Dy 0,491 0,155 \"0,889 0,281 7 \"LSB - 0,426 is 1,87 RH “0,593 ee TE 2.46 5 0,778 i 2,92 0,926 3,63 EIS 4,10 : 7430 4,60 1,52 5,43 “1,72 WĘG 6,05 R +.92 “eck Sas 2.12 732 - 232 -"
+    },
+    {
+     "type": "note",
+     "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Maksymaina Grubość energia promień: warstwy powietrza beta w metrach"
+    },
+    {
+     "type": "text",
+     "text": "1,7 5,86 1,8 6,26 “1,9 6,66 20 —7,077 2,1 7,46 2,2 7,86 2,3 8,26 2,4 8,66 2,5 9,09 2,6 9,48 2,7 9,88 nears 2,8 10,27 2,9 Ę 10,67 \"3,0 11,06 711,88"
+    },
+    {
+     "type": "text",
+     "text": "Grubość"
+    },
+    {
+     "type": "text",
+     "text": "Grubość warstwy wody warstwy aluminium w milimetrach w milimetrach"
+    },
+    {
+     "type": "text",
+     "text": "9,18 2,91 9,83 z 311 10,50 3,31 ? 1,10 3,51 11,70 3,71 12,30 3,91 13,00 4,10 13,60 4,30 14,30 “4,52 14,90 4,71 15,50 4,91 16,10 4,96 16,70 5,30 17,40 5,50 866 |) 589 19,80 6,28 póz 21,10 6,67 22,30 07"
+    },
+    {
+     "type": "text",
+     "text": "Grubość osłon z innych materiałów określona jest zależnością Gi dy gal du gu — grubość osłony z materiału u"
+    },
+    {
+     "type": "text",
+     "text": "gal owa \" u glinu d, — gęstość materiału u d,| w właściwa glinu (2,7/cm3)."
+    },
+    {
+     "type": "text",
+     "text": "TIERED LTE ERIE TES TERE TT TATO ZE OZ ZACZ ZO IEE AE OE A, Reklamacje z powodu niedoręczenia poszczególnych numerów wnosić należy do Administracji Wydawnictw Urzędu Rady Ministrów (Warszawa, ul. Krakowskie Przedmieście 50) w terminie 10 do 15 dni po otrzymaniu następnego kolejnego numeru. RoR Sener OPOYA ZET Z ACE EAT RRP NT TO EAZA CZ CAHSEE AT ADP AN EE LL AO ZZ Pojedyncze egzemplarze Dziennika Ustaw nabywać można w Administracji Wydawnictw Urzędu Rady Ministrów, Wars Krakowskie Przedmieście 50, w punktach sprzedaży w Warszawie: „Dom Książki”, Księgarnia Prawń-ckonomiczn, al Nowy Świat 1. kiosk „Domu Książki” w gmachu sądów, al. Gen. Świerczewskiego 127, w kasach Sądów Wojewódzkich w: Białymstoku Katowicach. Kielcach, Koszalinie, Łodzi, Opolu, Rzeszowie, Wrocławiu i Zielonej Górze oraz w kasach Sądów Powiatowych w: Bydgoszczy Bytomiu, Cieszynie, Częstochowie, Gdańsku, Gdyni, Gliwicach Gnieżnie, Jeleniej Górze, Kaliszu, Krakowie, Lublinie, Nowym Sączu, Olsztynie. Ostrowie Wlkp., Poznaniu, Przemyślu, Raciborzu, Radomiu, Szczecinie, Tarnowie, Toruniu i Zamościu. ; O NAN, OZN Redakcja: Urząd Rady Ministrów — Biuro Prawne, Warszawa, al. Ujazdowskie 1/3. Administracja: Administracja Wydawnictw Urzędu Rady Ministrów, Warszawa, ul. Krakowskie Przedmieście 50."
+    },
+    {
+     "type": "text",
+     "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Drukarni Akcydensowej w Warszawie. ul. Tamka 3 Zam. 869 Cena 2,40 zł"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

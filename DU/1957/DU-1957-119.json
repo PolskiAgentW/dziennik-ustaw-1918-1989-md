@@ -1,0 +1,163 @@
+{
+ "eli": "DU/1957/119",
+ "title": "Rozporządzenie Rady Ministrów z dnia 10 maja 1957 r. w sprawie zaliczania nauczycieli do kategorii zatrudnienia.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1957/119/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 maja 1957 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zaliczania nauczycieli do kategorii zatrudnienia."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 9 ust. 2 dekretu z dnia 25 czerwca 1954 r. o powszechnym zaopatrzeniu emerytalnym pracowników i ich rodzin (Dz. U. z 1956 r. Nr 43. poz. 200) zarządza się, co następuje: §1. 1. Do I kategorii zatrudnienia zalicza się okresy zatrudnienia:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "pracowników pedagogicznych, wymienionych w art 1 ust. 1 ustawy z dnia 27 kwietnia 1956 r. o prawach i cbowiązkach nauczycieli (Dz. U. Nr 12, poz. 63), w określonych w tym przepisie szkołach, zakładach i placówkach państwowych oraz przekazanych Centrali Rolniczej Spółdzielni „Samopomoc Chłopska” i Centralnemu Związkowi Spółdzielczości Pracy;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "w administracji szkolnej, do której nauczyciel przeszedł z zatrudnienia określonego w pkt 1.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Do I kategorii zatrudnienia zalicza się również okresy urlopów bezpłatnych udzielonych pracownikom wymienionym w ust. 1 dla celów oświatowych, naukowych lub dla prac w Związku Nauczycielstwa Polskiego.",
+   "children": []
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Zatrudnienie pracowników wymienionych w ust 1 zalicza się do I kategorii zatrudnienia, jeżeli było wykony-",
+   "children": [
+    {
+     "type": "text",
+     "text": "wane:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_3/pkt_1",
+     "text": "w pełnym wymiarze zajęć albo",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_3/pkt_2",
+     "text": "w łącznym wymiarze nie mniejszym niż 50%» obowiązkowego wymiaru zajęć, § 2. 1. Do I kategorii zatrudnienia zalicza się również okresy zatrudnienia w niepaństwowych szkołach, zakładach i placówkach wychowawczych i szkoleniowych w charakterze pracowników pedagogicznych, jeśli pracownik przeszedł z tego zalrudnienia do zatrudnienia, o którym mowa w § 1 ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Przepis § 1 ust. 2 stosuje się odpowiednio.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Pracownika pedagogicznego ubiegającego się o rentę starczą lub inwalidzką (w razie inwalidztwa powstałego z innych przyczyn niż wypadek w zatrudnieniu lub choroba zawodowa) uważa się za pracownika I kategorii zatrudnienia, jeżeli zatrudnienie w tej kategorii było wykonywane:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "przed powstaniem prawa do renty oraz -",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "co najmniej przez:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_2/lit_a",
+       "text": "15 lat, jeśli pracownik ubiega się o rentę starczą,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_2/lit_b",
+       "text": "5 lat w okresie ostatnich 10 lat przed ustaniem zae trudnienia, jeśli pracownik ubiega się o rentę inwalidzką.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Pracownika, który ostatnio przed powstaniem prawa do renty starczej lub inwalidzkiej nie wykonywał zatrud= nienia I kategorii, zalicza się do pracowników I kategorii za. trudnienia, jeżeli pracownik wykonywał zatrudnienie w I kategorii przez okres wymagany dla uzyskania renty starczej (25 lat — mężczyźni, 20 lat — kobiety) albo jeżeli spełnione są łącznie następujące warunki:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "zatrudnienie w I kategorii było wykonywane przez prą: cownika ubiegającego się o rentę:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_4/pkt_1/lit_a",
+       "text": "starczą — co najmniej przez 15 lat,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_4/pkt_1/lit_b",
+       "text": "inwalidzka — co najmniej przez 10 lat;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "pracownik został przeniesiony do pracy w II kategorii zalrudnienia ze względu na stan zdrowia, w drodze wys boru, przeniesienia służbowego lub innego zarządzenia i zairudnićhie to wykonywał oslainio przed powstaniem prawa do renty. §5. Okresy wymienione w art. 8 dekretu z dnia 25 czerw* ca 1954 r. o powszechnym zaopatrzeniu emeryta'nym pracow= ników i ich rodzin (Dz. U. z 1956 r. Nr 43, poz. 200) zalicza się do okresów zatrudnienia wymaganych do uzyskania renty tak jak zatrudnienie w II kaiegorii, z wyjątkiem tych okresów służby wojskowej, które w myśl obowiązujących przepisów podlegają zaliczeniu do I kategorii zatrudnienia. Jeżeli jednak pracownik bezpośrednio przed okresami wymienionymi w art. 8 dekretu wykonywał zatrudnienie w I kategorii, okresy te zalicza się lak jak zatrudnienie w i kategorii zatrudnienia. § 6. Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 8 maja 1956 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prezes Rady Ministrów: w z, P. Jaroszewicz"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

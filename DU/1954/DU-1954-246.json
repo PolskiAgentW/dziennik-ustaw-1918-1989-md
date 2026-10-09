@@ -1,0 +1,83 @@
+{
+ "eli": "DU/1954/246",
+ "title": "Rozporządzenie Rady Ministrów z dnia 11 sierpnia 1954 r. w sprawie utworzenia powiatu tyskiego w województwie stalinogrodzkim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/246/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 sierpnia 1954 r. -"
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia powiatu tyskiego w województwie stalinógrodzkim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ustawy z dnia 4 lutego 1950 r. e dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz, 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się w województwie stalinogrodzkim powiat tyski z siedzibą powiatowej rady narodowej w Tychach, .",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "W skład nowoutworzonego powiatu tyskiego w województwie stalinogrodzkim wchodzą z powiatu pszczyńskiego w tymże województwie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "miasta: Bieruń Stary, Łaziska Górne, Mikołów, Tychy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "gromady: Bieruń Nowy, Borowa Wieś, Chełm, Dziećkowice, Gardawice, Gołąwiec, Gostyń, Hołdunów,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Imielin, Jaśkowice, Kostuchna, Kosztowy, Lędziny, Łaziska Średnie, Mokre, Murcki, Ornontowice, Orzesze, Podlesie, Urbanowice, Wesoła, Woszczyce i Wyry."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów. RZ §3. Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia I października 1954 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: w z. H. Mine"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

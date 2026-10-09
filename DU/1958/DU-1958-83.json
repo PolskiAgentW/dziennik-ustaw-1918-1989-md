@@ -1,0 +1,307 @@
+{
+ "eli": "DU/1958/83",
+ "title": "Rozporządzenie Ministra Handlu Wewnętrznego z dnia 17 marca 1958 r. w sprawie zasad i trybu udzielania zamówień na dostawy, roboty i usługi przez państwowe jednostki handlowe.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1958/83/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA HANDLU WEWNĘTRZNEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 17 marca 1958 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zasad i trybu udzielania zamówień na dostawy, roboty i usługi przez państwowe jednostki handlowe."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6 ust. 2 ustawy z dnia 28 grudnia 3) osobom prawnym i spółkom cywilnym (zespołom pro- 1957 r. o dostawach, robotach i usługach na rzecz jednostek państwowych (Dz. U. z 1958 r. Nr 3, poz. 7) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Rozporządzenie dotyczy zamówień udzielanych przez państwowe jednostki handlowe na dostawy artykułów przeznaczonych na potrzeby rynku oraz na roboty i usługi polegające na wykonywaniu lub przerobie albo renowacji artykułów przeznaczonych dla tych potrzeb.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Rozporządzenie nie ma zastosowania do skupu artykułów, o których mowa w § 4 rozporządzenia Rady Mini-- strów z dnia 13 stycznia 1958 r. w sprawie dostaw, robót i usług na rzecz jednostek państwowych (Dz. U. Nr 6, poz. 17). § 2. 1. Ilekroć w rozporządzeniu jest mowa: , 1) o ustawie — należy przez. .to rozumieć ustawę z dnia 28 grudnia 1957 r. o dostawach, robotach i usługach na :",
+     "children": [
+      {
+       "type": "text",
+       "text": "rzecz jednostek państwowych: (Dz. U. z 1958- 1. Nr -3, : poz: 7), i NOCE: :"
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "o rozporządzeniu Rady Ministrów — należy przez to rozumieć rozporządzenie Rady Ministrów z dnia 13 stycz- . nią 1958 r. w. sprawie dostaw, robót i usług na rzecz jednostek państwowych (Dz. U. Nr 6, poz. 17).",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Przez państwowe jednostki handlowe rozumie się pań- ‘stwowe przedsiębiorstwa handlu hurtowego i detalicznego oraz państwowe przedsiębiorstwa przemysłu gastronomicznego i garmażeryjnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Zamówienia na dostawy, roboty i usługi powinny być udzielane jednostkom wymienionym w art. 1 ust. 1 ustawy wykonującym działalność gospodarczą lub spółdzielniom.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Ponadto, z zastrzeżeniami wynikającymi z § 4, zamówienia na dostawy, roboty i usługi magą być udzielane:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "rzemieślnikom;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "osobom fizycznym prowadzącym zakłady przemysłowe i usługowej dukcyjnym i usługowym), prowadzącym zakłady przemysłowe lub usługowe;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "stowarzyszeniom, które zgodnie ze statutem prowadzą uboczną działalność gospodarczą;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "osobom wykonującym przemysł domowy lub ludowy;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_2/pkt_6",
+       "text": "chałupnikom wyłącznie w zakresie robót i usług;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "7",
+       "path": "par_3/ust_2/pkt_7",
+       "text": "zrzeszeniom gospodarczym rzemiosła: przy cechach;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "8",
+       "path": "par_3/ust_2/pkt_8",
+       "text": "centralom handlowym prywatnego przemysłu;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "9",
+       "path": "par_3/ust_2/pkt_9",
+       "text": "plastykom w zakresie dostaw, zwanym dalej „jednosikami gospodarki nie uspołecznionej” .",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_3/ust_3",
+     "text": "Udzielanie zamówień rzemieślniczym spdidzielniom © utworzonym dla celów zaopatrzenia i zbytu następuje na zasadach przewidzianych dla jednostek, o których mowa w ust. 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_3/ust_4",
+     "text": "Udzielanie zamówień jednostkom gospodarki nie uspo- SIRO o ; ecznionej nie wymienionym w ust. 2 oraz państwowym i spółdzielczym sklepom komisowym następuje z zachowaniem przepisów art. 2—5 ustawy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 4 Zamówienia jednostkom wymienionym w § 3 ust, 2 ie"
+      },
+      {
+       "type": "text",
+       "text": "i 3 mogą być udzielane: Pr"
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_4/pkt_1",
+       "text": "gdy ceny, jakość, a w przypadkach szczególnie u zasad- MORZE p PY fevininy dostaw, robot lub usług są korzystniejsze niż zaoferowane przez jednostki gospodarki uspołecznionej lub a i",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_4/pkt_2",
+       "text": "gdy zachodzi konieczność uzupełnienia zaopatrzenia, rozszerzenia asortymentu lub oddania artykułów do przerobu.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "W razie zbiegu jednakowo korzystnych ofert, złożonych przez rzemieślniczą spółdzielnię utworzoną dla cełów zaopatrzenia i zbytu lub zrzeszenie gospodarcze rzemiosła oraz przez inne jednostki, o których mowa w $.3 ust. 2, pierwszeństwo uzyskania zamówienia przysługuje rzemieślniczym spółdzielniom lub zrzeszeniom gospodarczym rzemiosła.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "EE"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zamówienia powinny być udzielane w zasadzie na bieżące potrzeby i z takim wyliczeniem, aby zakupione artykuły spożywcze zostały sprzedane w ciągu 30 dni, a artykuły przemysłowe w ciągu 90 dni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W przypadkach wyjątkowo uzasadnionych (np. zakup artykułów sezonowych przedświątecznych) jednostka bezpośrednio nadrzędna nad jednostką udzielającą zamówienia może wyrazić zgodę na przekroczenie zasady ustalonej w ust. 1.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Zamówienia u jednostek, o których mowa w § 3 ust. 2 i 3, na dostawy artykułów, co do których istnieją uzasadnione obawy, że mogą nie znaleźć na rynku nabywców, można dokonać tylko wówczas, gdy jednostka ta wyrazi zgodę na oddanie- tych towarów do sprzedaży na zasadach komisu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Przepis ust. 1 nie dotyczy ZAMÓWIEB, o których mowa w ust. 3,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "7",
+   "path": "par_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_7/ust_1",
+     "text": "Zamówienia na dostawy, roboty i usługi o wartości nie przekraczającej 5.000 zł powinny być dokonywane w. formie pisemnej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Zamówienie powinno zawierać określenie przedmiotu i terminu wykonania zamówienia, ilość i cenę oraz podpis osoby uprawnionej,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "W przypadku gdy wartość zamówień na dostawy, roboty lub usługi przekracza 5.000 zł, zamówienie powinno być udzielone z zachowaniem przepisów art. 8 ustawy oraz $§ 24—27 rozporządzenia Rady Ministrów. § 8. 1. Udzielanie zamówień jednostkom, o których mowa w § 3 ust. 2 i 3, na dostawy, roboty lub usługi o wartości przekraczającej 50.000 zł może być dokonane jedynie po zebraniu ofert, a o wartości przekraczającej 100.000 zł na podstawie przetargu, chyba że przeprowadzony przetarg nie dał wyniku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_7/ust_2",
+     "text": "Zbieranie ofert i postępowanie przetargowe należy przeprowadzić na zasadach ustalonych w § 5 ust. 1, $§ 6, 10 i 12— 23 rozporządzenia Rady Ministrów.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_7/ust_3",
+     "text": "Jednostka nadrzędna nad jednostką udzielającą zamówienia może zwolnić ją od obowiązku dokonywania przetargu w przypadkach szczególnie uzasadnionych, a zwłaszcza gdy konieczne jest natychmiastowe zaspokojenie potrzeb rynku.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "Prawa jednostki zamawiającej do surowców, półfabrykatów lub wyrobów gotowych albo ich równowartości, powierzonych do przerobu jednostkom, o których mowa w § 3 ust. 2 i 3, powinny być odpowiednio zabezpieczone. § 10. Niedozwolone jest udzielanie zaliczek na poczet przyszłych dostaw, robót lub usług.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "W sprawach nie unormowanych niniejszym rozporządzeniem stosuje się przepisy rozdziału I oraz $§ 29—31 rozporządzenia Rady Ministrów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Właściwi ministrowie mogą w miarę potrzeby określić szczegółowo tryb udzielania przez państwowe jednostki handlowe zamówień objętych niniejszym rozporządzeniem. § 13. Rozporządzenie wchodzi w życie z dniem ogłoś, szenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Handlu Wewnętrznego: M. Lesz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

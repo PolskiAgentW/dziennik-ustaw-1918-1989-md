@@ -1,0 +1,81 @@
+{
+ "eli": "DU/1955/174",
+ "title": "Dekret z dnia 13 lipca 1955 r. o zmianie dekretu o prawie probierczym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1955/174/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 13 lipca 1955 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie dekretu o prawie probierczym,"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Art, 5 dekretu z dnia 11 kwietnia 1947 r. o prawie probierczym (Dz. U. Nr 33, poz. 149) otrzymuje brzmienie: „Art. 5. 1. Ustala się następujące próby:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "la",
+     "path": "art_1/lit_la",
+     "text": "dla wyrobów platynowych: 950/1000",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "ib",
+     "path": "art_1/lit_ib",
+     "text": "dla_wyrobów złotych: 1 — 960/1000_ 2 — 750/1000 3 — 583/1000 4 — 375/1000 A",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "art_1/lit_c",
+     "text": "dla wyrobów srebrnych: 1 — 940/1000",
+     "children": [
+      {
+       "type": "text",
+       "text": "2 — 875/1000 3 — 800/1000"
+      }
+     ]
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "art_1/lit_d",
+     "text": "dla półfabrykatów dentystycznych przeznaczonych: — na korony, mostki i protezy: platynowe 950/1000 Ń złote barwne 916/1000 złote białe 833/1000 — na luty złote 833/1000.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_1/ust_2",
+     "text": "Ponadto dopuszcza się do obrotu obrączki ślubne ze stopu, w którym zawartość złota odpowiada próbie 333/1000.'*",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Dekret wchodzi w życie z dniem ogłoszenia. Przewodniczący Rady Państwa: A. Zawadzki Sekretarz Rady Państwa: M, Rybicki",
+   "children": []
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,743 @@
+{
+ "eli": "DU/1951/404",
+ "title": "Obwieszczenie Ministra Gospodarki Komunalnej z dnia 6 listopada 1951 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 4 lutego 1950 r. o ochronie przeciwpożarowej i jej organizacji.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1951/404/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "OBWIESZCZENIE MINISTRA GOSPODARKI KOMUNALNEJ"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 6 listopada 1951 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 4 lutego 1950 r. o ochronie przeciwpożarowej i jej organizacji. ."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ustawy z dnia 31 października 1951 r. o zmianie ustawy o ochronie przeciwpożarowej i jej organizacji (Dz. U. R. P. Nr 58, poz. 401) ogłaszam w załączeniu do niniejszego obwieszczenia jednolity tekst ustawy z dnia 4 lutego 1950 r. o ochronie przeciwpożarowej i jej organizacji (Dz. U. R. P. Nr 6, poz. 51) z uwzględnieniem zmian wprowadzonych ustawą z dnia 31 października 1951 r. o zmianie ustawy o ochronie przeciwpożarowej i jej organizacji oraz zmian wynikających z przepisów: ustawy z dnia 7 marca 1950 r. o przekształceniu urzędu Ministra Skarbu w urząd Ministra Finansów (Dz. P. R. P. Nr 10, poz. 101), ustawy z dnia 20 marca 1950 r. o terenowych organach jednolitej władzy państwowej (Dz. U. R. P. Nr 14, poz. 130), rozporządzenia Rady Ministrów z dnia 3 czerwca 1950 r. w sprawie zakresu działania Ministra"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Dziennik Ustaw Nr 58"
+  },
+  {
+   "type": "text",
+   "text": "Gospodarki Komunalnej oraz w sprawie określenia władz naczelnych, do których właściwości przechodzą sprawy należące dotychczas do zakresu działania Ministra Administracji Publicznej (Dz. U. R. P. Nr 26, \"poz. 233) oraz ustawy z dnia 28 października 1950 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie systemu pieniężnego (Dz. U. R. P. Nr 50, poz. 459), wydanych do dnia ogłoszenia jednolitego tekstu."
+  },
+  {
+   "type": "signature",
+   "text": "Minister Gospodarki Komunalnej: K. Mijał"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załącznik do obwieszczenia Ministra Gospodarki Komunalnej z dnia 6 listopada 1951 r. (poz. 404).",
+   "body": [
+    {
+     "type": "text",
+     "text": "USTAWA"
+    },
+    {
+     "type": "text",
+     "text": "z dnia 4 lutego 1950 r."
+    },
+    {
+     "type": "text",
+     "text": "oe ochronie przeciwpożarowej i jej organizacji,"
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział L",
+     "text": "Władze."
+    },
+    {
+     "type": "art",
+     "num": "1",
+     "path": "art_1",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_1/ust_1",
+       "text": "Dla celów ochrony przeciwpożarowej tworzy się Komendę Główną Straży Pożarnych, podległą Ministrowi Gospodarki Komunalnej i obejmującą zasięgiem swego działania obszar całego Państwa.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_1/ust_2",
+       "text": "Komendzie Głównej Straży Pożarnych podlegają wojewódzkie komendy straży pożarnych przy prezydiach wojewódzkich rad narodowych otaz Warszawska i Łódzka Komenda Straży Pożarrych przy Prezydiach Rad Narodowych m. st. Warszawy i m. Łodzi.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_1/ust_3",
+       "text": "Wojewódzkim komendom straży pożarnych podlegają powiatowe komendy straży pożarnych przy prezydiach powiatowych rad narodowych oraz miejskie komendy straży pożarnych przy prezydiach miejskich rad narodowych w miastach stanowiących powiaty.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "2",
+     "path": "art_2",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_2/ust_1",
+       "text": "Do zakresu działania komend straży pożarnych należy kierownictwo i nadzór nad całokształtem ochrony przeciwpożarowej, a w szczególności:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_2/ust_1/pkt_1",
+         "text": "sprawy organizacji straży pożarnych oraz nadzoru nad ich ustrojem j działalnością,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_2/ust_1/pkt_2",
+         "text": "sprawy organizacji zapobiegawczej akcji przeciwpożarowej i walki z pożarami,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_2/ust_1/pkt_3",
+         "text": "sprawy szkolenia fachowego w zakresie akcji zapobiegawczej i walki z pożarami,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "4",
+         "path": "art_2/ust_1/pkt_4",
+         "text": "sprawy planowania potrzeb technicznych straży pożarnych, dotyczące sprzętu, ekwipunku, narzędzi i taboru,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "5",
+         "path": "art_2/ust_1/pkt_5",
+         "text": "sprawy popierania \"wynalazków i wytwórczości przeciwpożarowej tudzież sprawy wniosków, dotyczących normalizacji w zakresie ochrony przeciwpożarowej, .",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "6",
+         "path": "art_2/ust_1/pkt_6",
+         "text": "współdziałanie z władzami państwowymi, związkami zawodowymi oraz organizacjami społecznymi w zakresie: obrony przeciwlotniczej, walki z powodzią i innymi klęskami, ratownictwa i pomocy sanitarnej, wychowania fizycznego, przysposobienia wo'skowego i zawodowego oraz pracy kulturalno-oświatows?",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_2/ust_2",
+       "text": "Minister Gospodarki Komunalnej ustali w drodze rozcorzadzenia szczegółowy zakres działania komend straży pożarnych. ;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "3",
+     "path": "art_3",
+     "text": "Minister Gospodarki Komunalnej określi w drodze rozporządzenia, wydanego w porozumieniu z Ministrem Finansów, organizacje komend straży pożarnych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "4",
+     "path": "art_4",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_4/ust_1",
+       "text": "Komendanta Głównego Straży Pożar- . nych mianuje i odwołuje Prezes Rady Ministrów na ;4 aiosek Ministra Gospodarki Komunalnej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_4/ust_2",
+       "text": "Zastępców Komendanta Głównego Straży Pożarnych mianuje i odwołuje Minister Gospodarki Komunalnej na wniosek Komendanta Głównego. Woje= wódzkich komendantów straży pożarnych oraz komen= dantów Warszawskiej i Łódzkiej Komendy Straży Poe żarnych mianuje i odwołuje Minister Gospodarki Kos» munalnej na wniosek Komendanta Głównego, złożony w porozumieniu z prezydium właściwej wojewódzkiej rady narodowej (Rady Narodowej m. st. Warszawy i m. Łodzi).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_4/ust_3",
+       "text": "Powiatowych oraz miejskich komendantów straży pożarnych mianuje i odwołuje Komendant Główny w porozumieniu z prezydium terenowo właściwej rady narodowej.",
+       "children": [
+        {
+         "type": "text",
+         "text": "Art, 5. 1. Pracownicy pożarnictwa posiadający wymagane kwalifikacje do zawodowej służby w pożarnictwie stanowią Korpus Techniczny Pożarnictwa, na którego czele stoi Komendant Główny Straży Pożarnych."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_4/ust_2",
+       "text": "Rada Ministrów w drodze rozporządzenia unormuje kwalifikacje fachowe do zawodowej służby w pożarnictwie, obowiązki i prawa, stosunki służbowe, stopnie służbowe, tryb ich nadawania, odpowiedzialność dyscyplinarną oraz umundurowanie i dystynkcje służbowe członków Korpusu Technicznego Pożarnictwa,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 2",
+     "text": "Działalność zapobiegawcza."
+    },
+    {
+     "type": "art",
+     "num": "6",
+     "path": "art_6",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_6/ust_1",
+       "text": "Minister Gospodarki: Komunalnej w porozumieniu z zainteresowanymi ministrami wyda w drodze rozporządzenia przepisy o zapobieganiu powstawania i rozszerzania się pożarów oraz w innych sprawach, związanych z zabezpieczeniem przeciwpozaro-",
+       "children": [
+        {
+         "type": "text",
+         "text": "wym."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_6/ust_2",
+       "text": "Wszystkie osoby fizyczne lub prawne obowiązane są współdziałać w akcji zapobiegawczej i ponoszą odpowiedzialność za szkody, jakie z powodu ich niedbałości, lekkomyślności lub opieszałości w wykonywaniu poleceń władz pożarniczych poniósł powierzony ich pieczy majątek narodowy wskutek wybuchu pożaru.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "7",
+     "path": "art_7",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_7/ust_1",
+       "text": "We władzach naczelnych oraz w zakładach i jednostkach centralnych gospodarki narodowej tworzy się w trybie przewidzianym dla zmian organizacyjnych stanowiska głównych inspektorów ochrony przeciwpożarowej, a w centralnych zarządach i jednostkach równorzędnych tworzy się stanowiska inspektorów ochrony przeciwpożarowej. W zakładach podległych bezpośrednio władzom naczelnym tworzy się stanowiska komendantów ochrony przeciwpożarowej, WwW pozostałych zaś podległych władzom naczelnym",
+       "children": [
+        {
+         "type": "text",
+         "text": "»"
+        },
+        {
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "mm ZZOZ NN 2"
+        },
+        {
+         "type": "text",
+         "text": "jednostkach gospodarki narodowej tworzy się sta- . nowiska kierowników ochrony przeciwpożarowej."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_7/ust_2",
+       "text": "Głównych inspektorów, inspektorów i komendantów ochrony przeciwpożarowej mianuje i odwołuje właściwa władza naczelna na wniosek Komendanta Głównego Straży Pożarnych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_7/ust_3",
+       "text": "Rada Ministrów ustali zakres działania głównych inspektorów, inspektorów i komendantów ochrony przeciwpożarowej oraz zakres działania i tryb powoływania kierowników ochrony przeciwpożarowej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_7/ust_4",
+       "text": "Rada Ministrów ustali, w jakich zakładach przemysłowych ze względów szczególnych ochrona przeciwpożarowa powinna być zorganizowana w sposób odmienny aniżeli przewidziany w ustawie.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_7/ust_5",
+       "text": "Na kierowniku (dyrektorze) zakładu, przedsiębiorstwa lub instytucji spoczywa odpowiedzialność za utrzymanie powierzonego mu obiektu w stanie należytego zabezpieczenia przeciwpożarowego, a w szczególności za przestrzeganie i wykonywanie zarządzeń przeciwpożarowych. :",
+       "children": [
+        {
+         "type": "text",
+         "text": "Rozdziai 3."
+        },
+        {
+         "type": "text",
+         "text": "Straże pożarne,"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "8",
+     "path": "art_8",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_8/ust_1",
+       "text": "Do wypełniania zadań ochrony przeciwpożarowej i do akcji ratowniczej również w przypadku innych klęsk żywiołowych oraz do udziału w terenowej obronie, przeciwlotniczej powołane są straże pożarne, Wojewódzki komendant straży pożarnych na wniosek właściwego inspektora ochrony przeciwpozaro-. wej i wojewódzkiego inspektoratu ochrony może w przypadkach klęsk żywiołowych z uzasadnionych przyczyn zwolnić poszczególne zakładowe straże pożarne od obowiązku udziału w akcji ratowniczej poza terenem zakładu.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_8/ust_2",
+       "text": "Straże pożarne podlegają ogólnemu nadzorowi i kontroli właściwych rad narodowych, straże zaś pożarne zakładowe — kierownikowi zakładu. Pod względem fachowym straże pożarne podlegają właściwym komendom straży pożarnych, a straże pożarne zakładowe — właściwym organom ochrony przeciwpożarowej. Do kontrolowania stanu bezpieczeństwa ochrony przeciwpożarowej zakładów i służby zakładowych straży pożarnych upoważnione są również wojewódzkie inspektoraty ochrony.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_8/ust_3",
+       "text": "Ze względu na obszar działania straże pożarne dzielą się na straże terenowe .i zakładowe. 4.- Obowiązek: tworzenia straży pożarnych maja:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_8/ust_3/pkt_1",
+         "text": "co do straży pożarnych terenowych — miejskie i gminne rady narodowe,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_8/ust_3/pkt_2",
+         "text": "co do straży pożarnych zakładowych — kierownictwa zakładów zgodnie z ustaleniami przewidzianymi w art. 9 ust. 2 pkt 1.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_8/ust_5",
+       "text": "Ze względu na charakter pełnienia służby w strażach pożarnych dzielą się one na:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_8/ust_5/pkt_1",
+         "text": "zawodowe, złożone z osób pełniących służbę pożarniczą zawodowo na podstawie stosunku służbowego lub umowy o pracę,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_8/ust_5/pkt_2",
+         "text": "ochotnicze terenowe, utworzone jako stowarzyszenia ochotniczej straży pożarnej w trybie rozporządzenia Prezydenta Rzeczypospolitej z dnia 27 pa- Ździernika 1932 r. — Prawo o stowarzyszeniach (Dz. U. R. P. Nr 94, poz.-808 z późniejszymi zmias;< Nami), oraz:óchotnicze zakładowe,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_8/ust_5/pkt_3",
+         "text": "obowiązkowe, powołane uchwałą miejskiej. uk gminnej rady narodowej spośród mieszkańców miasta lub gminy albo przez kierownictwo zakładu, przedsiębiorstwa lub instytucji spośród pracowników, gdy zawodowa lub ochotnicza straż pożarna nie może być utworzona lub gdy istniejąca straż _ pożarna nie zapewnia wystarczającego zabezpieczenia przeciwpożarowego. -",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_8/ust_6",
+       "text": "Minister Gospodarki Komunalnej ustali statut wzorcowy ochotniczych terenowych straży pożarnych oraz regulaminy straży zawodowych i obowiązkowych, jako też — w porozumieniu z zainteresowanymi ministrami — regulamin ochotniczych straży zakładowych.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "7",
+       "path": "art_8/ust_7",
+       "text": "Minister Gospodarki Komunalnej ustali w porozumieniu z Przewodniczącym Państwowej Komisji Planowania Gospodarczego i zainteresowanymi ministrami zasady, jakim powinny odpowiadać: liczebność, rozmieszczenie oraz normy i etaty sprzętu i urządzeń technicznych wszystkich rodzajów straży pożarnych.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "9",
+     "path": "art_9",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_9/ust_1",
+       "text": "Minister Gospodarki Komunalnej na wniosek Komendanta Głównego Straży Pożarnych orzeka, które miejskie lub gminne rady narodowe obowiązane są powołać i utrzymywać zawodowe straże pożarne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_9/ust_2",
+       "text": "Wojewódzki komendant straży pożarnych: 2 ustala w porozumieniu z kierownictwem zainteresowanych zakładów pracy i właściwym inspektorem ochrony przeciwpożarowej oraz wojewódzkim inspektoratem ochrony, które zakłady pracy i w jakim zakresie obowiązane są utworzyć i utrzymywać straże pożarne,",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_9/ust_2/pkt_2",
+         "text": "udziela opinii w sprawach utworzenia ochotniczych straży pożarnych terenowych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "3",
+         "path": "art_9/ust_2/pkt_3",
+         "text": "składa wnioski w sprawach utworzenia obowiązkowych straży pożarnych terenowych.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "10",
+     "path": "art_10",
+     "text": "Sprzęt przeciwpożarowy stanowiący techniczne wyposażenie straży i wszelkie zainstalowane specjalne urządzenia przeciwpożarówe oraz środki transportowe pożarnicze mogą być używane tylko do akcji ratowniczej, kontrolnej i szkoleniowej.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "11",
+     "path": "art_11",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_11/ust_1",
+       "text": "Członkowie straży pożarnych podlegają obowiązkowi ubezpieczenia od nieszczęśliwych wypadków w czasie pełnienia służby niezależnie od chowiązkowego ubezpieczenia społecznego.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_11/ust_2",
+       "text": "Koszty tego ubezpieczenia pokrywają:",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_11/ust_2/pkt_1",
+         "text": "zakłady, przedsiębiorstwa i instytucje w odniesieniu do zakładowych straży pożarnych,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_11/ust_2/pkt_2",
+         "text": "Skarb Państwa w ramach kredytów przewidzianych w. budżetach terenowych w odniesieniu do straży pożarnych nie objętych pkt 1.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "12",
+     "path": "art_12",
+     "text": "Członkowie straży pożarnych w czasie pełnienia służby korzystają z ochrony prawa na równi z urzędnikami w rozumieniu ustaw karnych.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "13",
+     "path": "art_13",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_13/ust_1",
+       "text": "Wszystkie osoby fizyczne i prawne na terenie miasta lub gminy obowiązane są do współdziałania ze strażami pożarnymi w akcji ratowniczej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_13/ust_2",
+       "text": "Kierownik akcji ratowniczej upoważniony jest do wydawania na miejscu ustnych zarządzeń, uzasadnionych potrzebami akcji. Zarządzenia te podlegają natychmiastowemu wykonaniu i mogą być. wykonane przymusowo.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "3",
+       "path": "art_13/ust_3",
+       "text": "W przypadkach, gdyby zwłoka groziła niebezpieczeństwem, straże pożarne mają prawo zajmować dla celów akcji ratowniczej konieczne środki przewozowe publiczne i prywatne.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "4",
+       "path": "art_13/ust_4",
+       "text": "Przepisu ust. 3 nie stosuje się do środków przewozowych, będących w użyciu wojska i władz bezpiepieczeństwą publicznego. Środki te mogą być wykorzystane przez straże pożarne po uzyskaniu decyzji dowódcy",
+       "children": [
+        {
+         "type": "note",
+         "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Li _————— — ,*"
+        },
+        {
+         "type": "text",
+         "text": "jednostki wojskowej (przełożonego jednostki), któremu te środki przewozowe podlegają."
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "5",
+       "path": "art_13/ust_5",
+       "text": "Minister Gospodarki Komunalnej wyda szczegółowe przepisy, dotyczące obowiązku współdziałania ludności ze strażami pożarnymi w akcji ratowniczej oraz zwolnień od tego obowiązku.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "6",
+       "path": "art_13/ust_6",
+       "text": "Minister Gospodarki Komunalnej w porozumieniu z Ministrami Sprawiedliwości i Finansów unormuje sprawę wynagrodzenia szkód poniesiońych przez osoby trzecie w związku z akcją ratowniczą i wykonaniem zarządzeń, o których mowa w ust. 2. *",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 4",
+     "text": "Świadczenia finansowe."
+    },
+    {
+     "type": "art",
+     "num": "14",
+     "path": "art_14",
+     "text": "Koszty ochrony przeciwpożarowej ponoszą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_14/pkt_1",
+       "text": "Skarb Państwa w ramach kredytów przewidzianych w budżecie centralnym — w zakresie poczynań o charakterze ogólno-państwowym oraz w budżetach terenowych — w zakresie utrzymania i wyposażenia oraz wyszkolenia terenowych straży pożarnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_14/pkt_2",
+       "text": "zakłady, przedsiębiorstwa i instytucje zobowiązane do utrzymywania zakładowych straży pożarnych, albo w których powołano obowiązkowe straże pożarne — w zakresie utrzymania, wyposażenia i wyszkolenia tych straży pożarnych oraz w zakresie zaopatrzenia zakładów w narzędzia i urządzenia oraz środki gaśnicze, konieczne do należytego zabezpieczenia przeciwpożarowego tych zakładów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "art_14/pkt_3",
+       "text": "stowarzyszenia ochotniczej straży pożarnej — w zakresie przewidzianym statutami tych stowarzyszeń.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 5",
+     "text": "Przepisy karne."
+    },
+    {
+     "type": "art",
+     "num": "15",
+     "path": "art_15",
+     "text": "Kto w czasie akcji ratowniczej odmawia wykonania zarządzeń wydanych na miejscu pożaru przez komendanta straży pożarnej — podlega karze więzienia do lat trzech.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "16",
+     "path": "art_16",
+     "text": "Kto: :",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "art_16/pkt_1",
+       "text": "utrudnia lub uniemożliwią wykonanie zadań siraży pożarnych,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "art_16/pkt_2",
+       "text": "zaniedbuje szczególne obowiązki osób, sprawujących pieczę lub zarząd obiektami, objętymi akcją zapobiegawczą (art. 6 ust. 2) — podlega karze więzienia do lat dziesięciu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "17",
+     "path": "art_17",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_17/ust_1",
+       "text": "Kto: i",
+       "children": [
+        {
+         "type": "pkt",
+         "num": "1",
+         "path": "art_17/ust_1/pkt_1",
+         "text": "wprowadza w błąd straże pożarne złośliwymi alarmami,",
+         "children": []
+        },
+        {
+         "type": "pkt",
+         "num": "2",
+         "path": "art_17/ust_1/pkt_2",
+         "text": "nie stosuje się do rozporządzeń i zarządzeń, wydanych na podstawie niniejszej ustawy — podlega karze aresztu do trzech miesięcy lub grzywny do 4.500 zł albo obu tym karom łącznie.",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_17/ust_2",
+       "text": "Do orzekania powołane są prezydia powiatowych rad narodowych i miejskich rad narodowych w miastach stanowiących powiaty.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział 6",
+     "text": "Przepisy końcowe,"
+    },
+    {
+     "type": "art",
+     "num": "18",
+     "path": "art_18",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_18/ust_1",
+       "text": "Ustawa niniejsza nie dotyczy wojskowej ochrony przeciwpożarowej. Organizację i zakres działania wojskowej służby ochrony przeciwpożarowej określi Minister Obrony Narodowej.",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_18/ust_2",
+       "text": "Sposób przeprowadzania przez straże pożarne, określone w ustawie, akcji ratowniczej odbiektów wojskowych, zasady współdziałania tych straży z wojskowymi strażami pożarnymi oraz zasady szkolenia kadr wojskowych straży pożarnych w ramach szkolenia fachowego, prowadzonego przez komendy straży pożarnych, określą Ministrowie Obrony Narodowej i Gospoaarki Komunalnej.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "19",
+     "path": "art_19",
+     "text": "",
+     "children": [
+      {
+       "type": "ust",
+       "num": "1",
+       "path": "art_19/ust_1",
+       "text": "Uchyla się moc obowiązującą ustawy z dnia 13 marca 1934 r. o ochronie przed pożarami i innymi klęskami (Dz. U. R. P. Nr 41, poz. 365).",
+       "children": []
+      },
+      {
+       "type": "ust",
+       "num": "2",
+       "path": "art_19/ust_2",
+       "text": "Istniejące w dniu wejścia w życie niniejszej ustawy stowarzyszenia ochotniczej straży pożarnej działają nadal na podstawie swoich statutów oraz przepisów prawa o stowarzyszeniach i niniejszej ustawy. Stowarzyszenia te zachowują swój majątek, którym zarządzają zgodnie z przepisami statutu.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "art",
+     "num": "20",
+     "path": "art_20",
+     "text": "Wykonanie ustawy porucza się Ministrowi Gospodarki Komunalnej w porozumieniu z zainteresowanymi ministrami.",
+     "children": []
+    },
+    {
+     "type": "art",
+     "num": "21",
+     "path": "art_21",
+     "text": "Ustawa wchodzi w życie z dniem ogłoszenia. .",
+     "children": [
+      {
+       "type": "text",
+       "text": "Prenumerata Dziennika Ustaw R. P. wynosi: z załącznikami — rocznie zł 60.—, półrocznie zł 36.—, bez załączników — rocznie zł 45.—, półrocznie zł 27.—. Prenumeratę Dziennika Ustaw R.P. przyjmuje się na okres co najmniej półroczny (od 1.1 i od 1.VII)."
+      },
+      {
+       "type": "text",
+       "text": "Prenumeratę przyjmuje"
+      },
+      {
+       "type": "text",
+       "text": "Administracja Wydawnictw P. R. M. w Warszawie, ul. Bracka 20a oraz Punkt Sprzedaży w Łodzi, ul. Nowotki 21(gmach Sądu Hipotecznego). Konto czekowe P. K. O. Warszawa Nr I-1999/416. Reklamacje z powodu niedoręczenia poszczególnych numerów wnosić należy do Administracji Wydawnictw P. R. M. (Warszawa, ul. Bracka 20a) w terminie 10 do 15 dni po otrzymaniu następnego numeru."
+      },
+      {
+       "type": "text",
+       "text": "Redakcja: Prezydium Rady Ministrów — Biuro Prac Ustiawodawczych. Warszawa, ul. Krakowskie Przedm. 46/48. Administracja: Administracja Wydawnictw P. R. M. ul. Bracka 20a. Tłoczono z polecenia Prezesa Rady Ministrów w Drukar. Ministerstwa Sprawiedl. w Warszawie, ul. Nowowiejska 6."
+      },
+      {
+       "type": "text",
+       "text": "38000 868 Cena 96 gr."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

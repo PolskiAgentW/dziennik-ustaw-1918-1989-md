@@ -1,0 +1,92 @@
+{
+ "eli": "DU/1958/268",
+ "title": "Rozporządzenie Ministra Rolnictwa z dnia 28 lipca 1958 r. zmieniające rozporządzenie z dnia 30 sierpnia 1957 r. w sprawie zwalczania mątwika ziemniaczanego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1958/268/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ROLNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "; z dnia 28 lipca 1958 r."
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie z dnia 30 sierpnia 1957 r. w sprawie zwalczania mątwika ziemniaczanego,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 6 ust. 1 i art. 10 ustawy z dnia 19 listopada 1956 r. o ochronie roślin uprawnych przed chorobami, szkodnikami i chwastami (Dz. U. Nr 55, poz. 253) zarządza się, co następuje: :"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "|W rozporządzeniu Ministra Rolnictwa z dnia 30 sierpnia 1957 r. w sprawie zwalczania mątwika ziemniaczanego (Dz. U. Nr 49; poz. 243) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "w § 6: m",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "ust 3 otrzymuje brzmienie: „8. Ziemniaki zebrane z gruntu nie zarażonego wolno kopcować tylko na gruncie nie zarażonym. Ziemniaki zebrane z gruntu zarażonego mogą być kopcowane bądź przechowywane:",
+       "children": [
+        {
+         "type": "text",
+         "text": "1) na gruncie, z którego zostały zebrane,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2) na gruncie nieuprawnym (podwórzu, placu itp.) nie częściej jednak niż co 3 lata w tym samym kopcu i w bbrębie 5 m od granic tego kopca,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "3) w piwnicach i innych tego rodzaju pomieszczeniach.”,",
+         "quoted": true
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "w ust. 4 dodaje się drugie zdanie w brzmieniu: „W przypadkach, o których mowa w § 4 ust. 3, ziemniaki dziko rosnące należy zniszczyć na wszystkich gruntach objętych zakazem uprawy.';",
+       "children": [
+        {
+         "type": "text",
+         "text": "2)w § 8 ust. 2 zdanie drugie otrzymuje nowe brzmienie: „Przepisy § 6 ust. 1 i 5 stosuje się odpowiednio\"."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Rolnictwa: w z. M, Jagielski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

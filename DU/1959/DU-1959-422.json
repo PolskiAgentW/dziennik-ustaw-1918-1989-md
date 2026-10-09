@@ -1,0 +1,275 @@
+{
+ "eli": "DU/1959/422",
+ "title": "Rozporządzenie Rady Ministrów z dnia 7 grudnia 1959 r. w sprawie zmiany granic niektórych powiatów w województwach bydgoskim, kieleckim i łódzkim oraz zmiany granic miasta Zgierza w województwie łódzkim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1959/422/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 7 grudnia 1959 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie zmiany granic niektórych powiatów w województwach bydgoskim, kieleckim i łódzkim oraz zmiany granic miasta Zgierza w województwie łódzkim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 i art. 5 ust. 1 ustawy z dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W województwie bydgoskim wyłącza się:",
+   "children": [
+    {
+     "type": "text",
+     "text": "z gromady Łukowiec w powiecie bydgoskim wieś Drze- 1) wianowo i włącza się ją do gromady Mrocza w powiecie wyrzyskim,"
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "z gromady Stalmierz w powiecie lipnowskim wieś Podolina i włącza się ią do gromady Zbójno w powiecie golubsko-dobrzyńskim.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "W województwie kieleckim wyłącza się:",
+   "children": [
+    {
+     "type": "text",
+     "text": "z powiatu buskiego:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_2/lit_a",
+     "text": "z gromady Kotki wieś Służów i kolonie Służów Pierwszy i Służów Drugi i włącza się je do gromady Balice w powiecie chmielnickim,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_2/lit_b",
+     "text": "z gromady Niziny wsie Niziny i Lenartowice, kolonię Kowalówka Nizińska oraz osadę Młyńczysko i włącza się je do gromady Koniemłoty w powiecie staszowskim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "z powiatu kieleckiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_2/lit_a",
+       "text": "gromadę Płaczków i włącza się ją do powiatu koneckiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_2/lit_b",
+       "text": "z gromady Serbinów wieś Bień i włącza się ją do gromady Krasna w powiecie koneckim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_2/pkt_2/lit_c",
+       "text": "z gromady Sorbin wieś Nowki i włącza się ją do gromady Odrowąż w powiecie koneckim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "z gromady Gowarczów w powiecie koneckim wsie Eugeniów, Gąsiorów i Kacprów i włącza się je do gromady Ruski Bród w powiecie przysuskim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "z powiatu opatowskiego",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_2/pkt_4/lit_a",
+       "text": "gromadę Staw Kunowski i włącza się ją do powiatu iłżeckiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_2/pkt_4/lit_b",
+       "text": "z gromady Brzozowa kolonię Dąbrowa i włącza się ją do gromady Tarłów w powiecie lipskim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "z gromady Petrykozy w powiecie opoczyńskim wieś Gietzów i włącza się ją do gromady Gowarczów w powiecie koneckim;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "z gromady Goszczewice w powiecie przysuskim wsie: Goszczewice i Ostrołęka oraz kolonie Ostrołęka, Podkanna-Chronów i Stefanówka i włącza się je do gromady Wrzos w powiecie radomskim,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "W województwie łódzkim wyłącza się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "z powiatu brzezińskiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_1/lit_a",
+       "text": "z gromady Prążki wieś i kolonię Zamość i włącza sią je do gromady Czarnocin w powiecie łódzkim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_1/lit_b",
+       "text": "z gromady Swędów osadę Moszczenica i włącza sig ją do gromady Biała w powiecie łódzkim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "z powiatu łęczyckiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_2/lit_a",
+       "text": "z gromady Witów kolonie: Helenów, Parcelka, Polesie i włącza się je do gromady Popów koło Głowna w powiecie łowickim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_2/lit_b",
+       "text": "z gromady Różyce Żmijowe wieś Parądzice i włącza się ją do gromady Drwalew w powiecie poddębickim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "z powiatu łowickiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_3/lit_a",
+       "text": "z gromady Trzcianka wieś Kuźmy i włącza się ją do gromady Dmosin w powiecie brzezińskim oraz wieś Michałów i włącza się ją do gromady Nadolna w powiecie brzezińskim, i",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_3/lit_b",
+       "text": "z gromady Oszkowice kolonie Stefanów Orenickd i Orenice-Oreniczki i włącza się je do gromady Piątek w powiecie łęczyckim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "z powiatu poddębickiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_3/pkt_4/lit_a",
+       "text": "z gromady Ładawy wieś { parcele Stęplew { włącza się je do gromady Świnice Warckie w powiecie łęczyckim,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_3/pkt_4/lit_b",
+       "text": "z gromady Saków wieś i kolonię Rogów, wieś Drozdów i kolonie Drozdów A i Drozdów B i włącza sią je do gromady Piaski w powiecie łęczyckim oraz wieś i kolonię Wola Świnicka i kolonię Woła Olesin i włącza się je do gromady Świnice Warckie w powiecie łęczyckim; ‘",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "z powiatu sieradzkiego gromadę Ralewice i włącza się ją _ do powiatu poddębickiego. .",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Z gromady Proboszczewice w powiecie łódzkim, województwie łódzkim wyłącza się wsie: Rudunki, Stępowizna i Zegrzanki i włącza się je do miasta Zgierza w tymże województwie.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Wykonanie rozporządzenia porucza się Prezesowf Rady Ministrów,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Rozporządzenie wchodzi w życie z dniem 31 grudnia 1959 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

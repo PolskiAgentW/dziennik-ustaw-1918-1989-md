@@ -1,0 +1,72 @@
+{
+ "eli": "DU/1955/53",
+ "title": "Dekret z dnia 18 lutego 1955 r. o zmianie dekretu o podatku gruntowym.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1955/53/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 18 lutego 1955 r. Pcie ta:"
+  },
+  {
+   "type": "text",
+   "text": "o cary dekretu o podatku gruntowym."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W dekrecie z dnia 30 czerwca 1951 r. o podatku gruntowym (Dz. U. z 1951 r. Nr 38, poz. 283, z 1952 r. Nr 32, poz. 215 i z 1954 r. Nr 32, poz. 128) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art. 9 ust. 1 dodaje się pkt 19 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„19) przychody osiągane przez podatników podat- 5 ku gruntowego z wywozu z lasów państwowych do punktów przeładuńkowych wszelkiego rodzaju drewna i użytków niedrzewnych, , wykonywanego osobiście lub z udziałem członków najbliższej rodziny oraz z dorywczych czynności furmaństwa wykonywanych na zlecenie prezydiów rad narodowych. \"';",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "w art. 10 ust. 2 skreśla się w pkt 2 lit. ł) i dodaje się pkt 3 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "13) stałą stawkę podatkową w granicach do 129/e podstawy opodatkowania dla gospodarstw rolnych, posiadanych przez osoby fizyczne, trudniące się czynnościami furmaństwa, wykonywanymi osobiście albo z udziałem członków najbliższej rodziny , co do przychodów z tych czynności”.",
+       "quoted": true
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Dekret wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "wtunpiRZA Ą Przewodniczący Rady Państwa: A. Zawadzki Sekretarz Rady Państwa: M, Rybicki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,261 @@
+{
+ "eli": "DU/1956/158",
+ "title": "Dekret z dnia 4 sierpnia 1956 r. o podziale dróg publicznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1956/158/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 4 sierpnia 1956 r."
+  },
+  {
+   "type": "text",
+   "text": "o podziale dróg publicznych."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Drogi publiczne dzielą się na następujące kategorie:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "drogi państwowe, mające ogólnopaństwowe lub regionalne znaczenie ekonomiczno-komunikacyjne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "drogi lokalne, mające miejscowe znaczenie ekonomicznokomunikacyjne oraz ulice i place miejskie, osiedlowe i wiejskie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Do kategorii dróg państwowych należy zaliczać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "drogi łączące m. st. Warszawę z miejscowościami będą cymi siedzibami wojewódzkich rad narodowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "drogi łączące ze sobą miejscowości będące siedzibami wojewódzkich rad narodowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "drogi’ łączące miejscowości będące siedzibami powiatowych rad narodowych ze sobą oraz z miejscowościami, * będącymi siedzibami wojewódzkich rad narodowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_2/pkt_4",
+     "text": "drogi łączące ważne ośrodki gospodarcze, przemysłowe, ulturalne i uzdrowiskowo-wypoczynkowe z miastami ojewódzkimi lub powiatowymi, względnie z siecią dróg aństwowych i między sobą,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_2/pkt_5",
+     "text": "dojazdy od dróg państwowych do stacji kolejowych oraz dojazdy do portów morskich, rzecznych i lotniczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_2/pkt_6",
+     "text": "drogi będące ważniejszymi drogami łącznikowymi w sieci dróg państwowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "art_2/pkt_7",
+     "text": "drogi służące do ruchu tranzytowego między sąsiadującymi państwami, 4 8) drogi wylotowe na teren sąsiadujących państw, łączące. ważne gospodarczo miasta lub ośrodki w państwie z podobnymi miastami lub ośrodkami na terenie sąsiednich państw.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Do kategorii dróg lokalnych należy zaliczać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_3/pkt_1",
+     "text": "drogi łączące miejscowości będące siedzibami gromadź- ' kich rad narodowych z miastami będącymi siedzibami powiatowych rad narodowych j z siecią dróg państwowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_3/pkt_2",
+     "text": "drogi łączące między sobą siedziby gromadzkich rad narodowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_3/pkt_3",
+     "text": "drogi łączące wsie, osiedla i miasta nie stanowiące powiatów między sobą i z siecią dróg państwowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "art_3/pkt_4",
+     "text": "dojazdy od dróg lokalnych do stacji i przystanków kolejowych oraz do przystani rzecznych, morskich i portów lotniczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "art_3/pkt_5",
+     "text": "drogi łącznikowe o mniejszym znaczeniu komunikacyjnym między drogami państwowymi oraz drogi łącznikowe między drogami lokalnymi,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "art_3/pkt_6",
+     "text": "ulice i place miejskie, osiedlowe i wiejskie nie stanowiące odcinków dróg państwowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 4, 1, Zaliczenie drogi do kategorii dróg państwowych oraz pozbawienie jej tego charakteru następuje w drodze zarządzenia Prezesa Rady Ministrów. -"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Zaliczenie do kategorii dróg lokalnych drogi nie zaliczonej do kategorii dróg państwowych następuje w drodze uchwały powiatowej rady narodowej, powziętej na wniosek gromadzkiej rady narodowej, lub w drodze uchwały miejskiej rady narodowej, względnie rady narodowej osiedła.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "art_3/ust_3",
+     "text": "Droga, która została pozbawiona charakteru drogi państwowej, staje się drogą lokalną i w tym przypadku nie jest wymagane powzięcie uchwały właściwej rady narodowej o zaliczeniu drogi do kategorii dróg lokalnych.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Z dniem wejścia w życie niniejszego dekretu dotychczasowe drogi publiczne:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_5/pkt_1",
+     "text": "państwowe i powiatowe — stają się drogami państwowymi w rozumieniu art. 1 pkt 1,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_5/pkt_2",
+     "text": "gromadzkie (byłe gminne) oraz ulice i place miejskie, osiedlowe i wiejskie nie stanowiące odcinków dróg państwowych i powiatowych — stają się drogami lokalnymi w rozumieniu art. 1 pkt 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_6/ust_1",
+     "text": "Gospodarka na drogach państwowych objęta jest planem i budżetem centralnym, z wyjątkiem odcinków dróg pozostających w zarządzie resortu gospodarki komunalnej,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": ". m"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_6/ust_2",
+     "text": "Gospodarka na drogach lokalnych oraz na odcinkach dróg państwowych. pozostających w zarządzie resortu gospodarki komunalnej objęta jest planem i budżetem terenowym. W zakresie unormowanym niniejszym dekre-",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "7",
+   "path": "art_7",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_7/ust_1",
+     "text": "ustawy z dnia 10 grudnia 1920 r. tem tracą moc przepisy (Dz. U. z 1948 r. o budowie i utrzymaniu dróg publicznych Nr 54, poz. 433).",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_7/ust_2",
+     "text": "W ustawie z dnia 25 września 1954 r; o refarmie podziału administracyjnego wsi i powołaniu gromadzkich rad narodowych (Dz. U. Nr 43, poz. 191) w art. 14 pkt 5 wyrazy „gromadzkich dróg\" zastępuje się wyrazami „dróg lokalnych na terenie gromad\".",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "8",
+   "path": "art_8",
+   "text": "Dekret wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodńiczący Rady Państwa: A Zawadzki Sekretarz Rady Państwa: Sł, Skrzeszewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

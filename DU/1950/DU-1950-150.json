@@ -1,0 +1,208 @@
+{
+ "eli": "DU/1950/150",
+ "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 3 kwietnia 1950 r. zmieniające rozporządzenie w sprawie wykonania ustawy o nadzorze nad hodowlą bydła, trzody chlewnej i owiec.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/150/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ROLNICTWA I REFORM ROLNYCH"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 kwietnia 1950 r. ‘"
+  },
+  {
+   "type": "text",
+   "text": "zmieniające rozporządzenie w sprawie wykonania ustawy o nadzerze nad hodowlą bydła, trzody chlewnej i owiec."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2, 3, 4 i 5 ustawy z dnia 5 marca 1934 r. o nadzorze nad hodowlą bydła, trzody chlewnej i owiec (Dz. U. R. P. Nr 40, poz. 349 i z 1946 r. Nr 32, poz. 203) oraz art. 2 ust. 2 dekretu z dnia 26 sierpnia 1946 r. o zniesieniu izb rolniczych (Dz. U. R. P. Nr 47, poz. 265 i z 1949 r. Nr 41, poz. 296) zarządza się w porozumieniu z Ministrem Administracji Publicznej, co następuje: ."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "W rozporządzeniu Ministra Rolnictwa i Reform Rolnych z dnia 4 maja 1937 r. w sprawie wykonania ustawy o nadzorze nad hodowlą bydła, trzody chlewnej i owiec (Dz. U. R. P. Nr 38, poz. 291) wprowadza się zmiany następujące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "W §1:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "w ust. (2) po wyrazach: ,,dziela się na“ wstawia się wyrazy: „księgi pomocnicze zarodowych krów', + b) w ust. (3) wyrazy: „Księgi zarodowego bydła'* zastępuje się wyrazami: „Księgi wstępne zarodowych krów, księgi główne zarodowych krów, księgi wstępne zarodowych buhajów oraz księgi główne zarodowych buhajów*, a wyrazy: „Księgi zarodowych kréw‘ wyrazami: „Księgi wstępne i główne zarodowych kréw“,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "dodaje się nowy ust. 4 w brzmieniu: „(4) Księgi pomocnicze zarodowych krów powinny zawierać dla każdej wpisanej krowy: numer kolejny wpisu, nazwę, datę urodzenia albo ścisłe określenie wieku, opis budowy 1 jej ocenę w punktach (§ 5), wagę, opis umaszczenia, nazwy i numery wpisów do ksiąg buhajów użytych do pokrycia, daty urodzenia cieląt z danej krowy, ich płeć oraz wage“.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "W § 2:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_2/lit_a",
+       "text": "w ust. (1) po wyrazach: „do ksiąg“ wstawia się wyrazy: „wstępnych i głównych”,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_2/lit_b",
+       "text": "w ust. (4) w tabelce w rubryce „Rodzaj księgi” skreśla się zawarte w nawiasach wyrazy „tylko dla bydła czerwonego polskiego i innych odmian krajowych',",
+       "children": [
+        {
+         "type": "text",
+         "text": "34"
+        }
+       ]
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_2/lit_c",
+       "text": "w ust. (5) skreśla się wyrazy „prowadzonych tylko dla bydła czerwono-połskiego i innych odmian krajowych,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_2/lit_d",
+       "text": "dodaje się nowy ust. (7) w brzmieniu: „(7) Do ksiąg pomocniczych zarodowych krów mogą być wpisane krowy, które:",
+       "children": [
+        {
+         "type": "text",
+         "text": "a) są zdrowe,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) pod względem budowy i mleczności odpowiadają wymaganiom ustalonym w tabelce następującej:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "2 Mleczność Ocena Rasa bydła (roczna wydajność budowy mleka) w punktach",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "bydło nizinne . . co najmniej 2.800 kg ml 65 bydło czerwone . polskie i inne . co najmniej 2.000 kg ml 65 odmiany krajowe . bydło górskie . .",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "co najmniej 2.400 kg ml 65",
+         "quoted": true
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "§ 4 otrzymuje brzmienie: »§ 4 (1) Mleczność krowy, która ma być wpisana do księgi wstępnej lub głównej zarodowych krów, stwierdza się w drodze kontroli wykonywanej w sposób przewidziany w § 24 niniejszego rozporządzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Mlecznhość krowy, która ma być wpisana do księgi pomocniczej zarodowych krów, ustala się przy pomocy kontroli wskaźnikowej, polegającej na stwierdzeniu dziennej mleczności krowy w okresie najwyższej mleczności i pomnożeniu jej przez wskaźnik, wynoszący dla bydła nizinnego 200, dla bydła czerwonego polskiego i innych odmian krajowych 185, dla bydła górskiego 190“. ”"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "§ 6 otrzymuje brzmienie: »§ 6. Zwierzę, co do którego stwierdzono, że odpowiada wymaganiom, ustalonym w § 2 (licencja), powinno być oznaczone kolczykiem założonym w górną krawędź lewego ucha oraz wpisane do odpowiedniej księgi zarodowego bydła. Kolczyk powinien zawierać znak województwa (§ 17), znak księgi (P—pomocni-",
+     "children": [
+      {
+       "type": "text",
+       "text": "<"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "——— 6"
+      },
+      {
+       "type": "text",
+       "text": "cza, W—wstępna, G—głtówna) oraz kolejny numer wpisu”."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "§ 17 otrzymuje brzmienie: „S 17. Znaki województw, używane na podstawie \"",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "niniejszego rozporządzenia, ustala się w sposób na-"
+    },
+    {
+     "type": "text",
+     "text": "białostockie — Bł gdańskie — Gd kieleckie — Kl krakowskie — Kr „lubelskie — Lb łódzkie i m. Łódź — Łd olsztyńskie — Ol pomorskie — Pm poznańskie — Pz rzeszowskie — Rz szczecińskie — S śląskie — Śl _ wrocławskie — Dl. ŚL. warszawskie i m. st. Warszawa — Wr“."
+    },
+    {
+     "type": "text",
+     "text": "a"
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "W § 24 ust. (2) otrzymuje brzmienie: „(2) Rok kontrolny liczy się od dnia 1 stycznia do dnia 31 grudnia“.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "W § 29 ust. (1) wyrazy „buhaje powinny raieć przy- \"| najmniej 12 miesięcy, knury 8 miesięcy i tryki 6 miesięcy życia” zastępuje się wyrazami: „buhaje powinny mieć przynajmniej 10 miesięcy, knury 6 miesięcy i tryki 3 miesiące\".",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_1/pkt_8",
+     "text": "W §§ 9, 12, 14, 19, 22, eh, 28, 32, 33, 34, 35, 36 i 37 Wyrazy: „izbie rolnicze i 3 „iźby rolniczej, ’ „izbę rolniczą” ” „izba rolnicza”, „izbą rolniczą”, „izby rolnicze — zastępuje się wyrazami: „wojewódzka władza administracji ogó!nej' w odpowiednim przypad: xu i liczbie, zaś w $§ 11 i 16 wyrazy: „izby rolniczej” zastępuje się wyrazami „województwa”. § 2. Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Minister Rolnictwa i Reform Rolnych: J. Dąb - Kocioł Minister Administracji Publicznej: Wł. Wolski"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

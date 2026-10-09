@@ -1,0 +1,428 @@
+{
+ "eli": "DU/1952/37",
+ "title": "Rozporządzenie Ministra Przemysłu Ciężkiego z dnia 16 stycznia 1952 r. w sprawie podziału Państwa na okręgi energetyczne.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1952/37/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA PRZEMYSŁU CIĘŻKIEGO"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 stycznia 1952 r."
+  },
+  {
+   "type": "text",
+   "text": "w Sprawie podziału Państwa na okręgi energetyczne."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 1 ustawy z dnia 4 lipca 1947 r. o planowej gospodarce energetycznej (Dz. U. R. P. Nr 52, poz. 271) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Obszar Państwa dzieli się na następujące okręgi energetyczne:",
+   "children": [
+    {
+     "type": "text",
+     "text": "I. Okręg Centralny obejmujący:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "m. st. Warszawę i m. Łódź;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "województwo warszawskie z wyłączeniem powiatu garwolińskiego;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "województwo łódzkie z wyłączeniem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "miasta Nowe Miasto n/Pilicą i gminy Góra powiatu rawskiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "miasta Koniecpol, gmin: Dąbrowa Zielona, Garnek,Kłomnice, gromad: Gowarzów, Ligota Mała, Ludwików, Teklinów, Widzów i Widzówek gminy Konary oraz gromad: Baby, Bogusławice, Borowno, Grabowa, Grabówka, Jacków, Jamno, Kruszyna, Łochynia gminy Kruszyna powiatu radomszczańskiego;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "z województwa białostockiego powiat miejski Białystok oraz powiaty: białostocki, bielski, kolneński, łomżyński, wysokomazowiecki i sokólski;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "z województwa lubelskiego powiaty: bialski, łukowski i radzyński z wyłączeniem gminy Siemień;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "z województwa olsztyńskiego powiat działdowski;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_1/pkt_7",
+     "text": "z województwa poznańskiego powiaty miejskie: Kalisz i Ostrów Wielkopolski oraz powiaty: jarociński, kaliski, kępiński, krotoszyński i ostrowski.",
+     "children": [
+      {
+       "type": "text",
+       "text": "II. Okręg Wschodni obejmujący:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "województwo kieleckie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "województwo rzeszowskie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "województwo lubelskie z wyłączeniem powiatów: bialskiego, łukowskiego i radzyńskiego bez gminy Siemień;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "z województwa krakowskiego powiaty miejskie Tarnów i-Nowy Sącz oraz powiaty: brzeski, dąbrowski, tarnowski i nowosądecki, z powiatu nowotarskiego gminy Krościenko i Szczawnica Wyżna oraz gromady: Czorsztyn, Kluszkowce, Mizerna, Sromowce Niżne i Sromowce Wyżne gminy Czorsztyn oraz gromadę Tylmanowa gminy Ochotnica;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "z województwa warszawskiego powiat garwoliński;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "z województwa łódzkiego miasto Nowe Miasto n/Pilicą i gminę Góra powiatu rawskiego.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "III. Okręg Południowy obejmujący:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "województwo katowickie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "województwo opolskie z wyłączeniem powiatu miej skiego Brzeg i powiatu brzeskiego; kare.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "z województwa wrocławskiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "z powiatu strzelińskiego gromady: Nieszkowice i Skoroszowice gminy Wąwolnica, Bożnowice, Dobroszów, Gębice, Krasiewice, Kazanów, Ostrężna, Nowina, Nowolesie i Witostowice gminy Nowolesie, Stanica i Mników gminy Przeworno;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_3/lit_b",
+       "text": "z powiatu ząbkowickiego miasto Ziębice, gminy: Henryków, Lubnów i Nieszków, gromady: Niedźwiednik z gminy Sadlno, Doboszowice gminy Kamieniec Ząbkowicki, Piotrowice Polskie gminy Zwrócona;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "województwo krakowskie z wyłączeniem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_4/lit_a",
+       "text": "powiatów miejskich Tarnów i Nowy Sącz,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_4/lit_b",
+       "text": "powiatów: brzeskiego, dąbrowskiego, tarnowskiego i nowosądeckiego,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_4/lit_c",
+       "text": "gmin Krościenko i Szczawnica Wyżna oraz gromad: Czorsztyn, Kluszkowce, Mizerna, Sromowce Niżne i Sromowce Wyżne z gm'ny Czorsztyn oraz gromady Tylmanowa z gminy Ochotnica powiatu nowotarskiego;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "z województwa łódzkiego:",
+     "children": [
+      {
+       "type": "text",
+       "text": "miasto Koniecpol i gminy: Dąbrowa Zielona, Garnek, Koniecpol, Kłomnice oraz gromady Gowarzów, Ligota Mała, Ludwików, Teklinów, Widzów i Widzówek z gminy Konary i gromady: Baby, Bogusławice, Borowno, Grabowa, Grabówka, Jacków, Jamno, Kruszyna, Łochynia z gminy Kruszyna powiatu radomszczanskieso. i"
+      },
+      {
+       "type": "text",
+       "text": "IV. Okręg Dolnośląski obejmujący:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "województwo wrocławskie z wyłączeniem:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "gromad: Nieszkowice i Skoroszowice gminv 'Wawolnica, Bożnowice, Dobroszów, Gębice, Kazanów, Krasiewice, Ostreżna Nowina, Nowolesie i Witostowice z gminy Nowolesie, Mników i Sta~ nica z gminy Przeworno w powiecie strzelińskim, b). m'asta Ziębice, gmin: Henryków, Lubnów, Nieszków, gromad: Niedźwiednik z gminy Sadlno, Doboszowice z gminy Kamieniec Ząbkowicki, Piotrowice Polskie z gminy Zwrócona w powiecie ząbkowickim;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "z województwa opolskiego powiat miejski Brzeg i powiat brzeski;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "z województwa zielonogórskiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_3/lit_a",
+       "text": "powiaty: głogowsk, kożuchowski, wschowski, szprotawski, żagański, żarski i gubiński z wyłączeniem gromady Szydłów gminy Wałowice, b). z powiatu krośnieńskieso: miasta Krosno Odrzańskie i Lubsko oraz gminy: Bobrowice, Górzyn, Wężyska i Kosierz z wyłączeniem gromad:",
+       "children": [
+        {
+         "type": "text",
+         "text": "Poz. 37"
+        },
+        {
+         "type": "text",
+         "text": "Lipno i Trzebula, gminę Krosno Odrzańskie za wyjątkiem gromad: Kamień, Łochowice, Kozia Góra, Marcinowice, Stary Raduszec, Bielów, Osiecznica i Czetowice oraz gminę Dąbie z wyłączeniem gromad: Brzeżnica, Ciemnice, Dąbie, Granów, Łagów, Połupin, Pław, Szczawno."
+        },
+        {
+         "type": "text",
+         "text": "V. Okręg Zachodni obejmujący:"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "województwo szczecińskie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "województwo koszalińskie z wyłączeniem powiatów: bytowskiego, człuchowskiego, miasteckiego, sławieńskiego, słupskiego, złotowskiego i powiatu miejskiego Słupsk;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "z województwa zielonogórskiego:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_5/lit_a",
+       "text": "powiaty: - gorzowski, międzyrzecki, rzepiński, skwierzyński, świebodziński, sulechowski, sulęciński, strzelecki, zielonogórski oraz powiaty miejskie Gorzów Wielkopolski i Zielona Góra,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_5/lit_b",
+       "text": "z powiatu gubińskiego gromadę Szydłów gminy Wałowice,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_5/lit_c",
+       "text": "z powiatu krośnieńskiego gminy: Bytnica, Korczyców, Krosno Odrzańskie, Nietkowice, Toporów, gromady: Lipno i Trzebula gminy Kosierz ‘oraz gromady: Bielów, Czetowice, Kamień, Kozia Góra, Łochowice, Marcinowice, Osiecznica, Stary Raduszec z gminy Krosno Odrzańskie i gromady: Brzeźnica, Ciemnice, Dąbie Granów, Łagów, Połupin, Szczawno gminy Dąbie;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "województwo poznańskie z wyłączeniem powiatów: jarocińskiego, kaliskiego, kępińskiego, kolskiego, konińskiego, krotoszyńskiego, ostrowskiego, tureckiego i powiatów miejskich Kalisz i Ostrów Wielkopoiski oraz gromady Głogowiniec gminy Gołańcz powiatu wągrowieckiego.",
+     "children": [
+      {
+       "type": "text",
+       "text": "VI. Okręg Północny obejmujący:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "województwo bydgoskie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "województwo gdańskie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "z województwa koszalińskiego powiaty: bytowski, człuchowski, miastecki, sławieński, słupski, złotowski i powiat miejski Słupsk;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "z województwa poznańskiego powiaty: kolski, koniński i turecki, gromadę Głogowiniec gminy Gołańcz powiatu wągrowieckiego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "z województwa białostockiego powiaty: augustowski, gołdapski, ełcki, grajewski, olecki i suwalski;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_1/pkt_6",
+     "text": "województwo olsztyńskie z wyłączeniem powiatu działdowskiego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Uchyla się rozporządzenie Ministra Przemysłu i Handlu z dnia 29 lpca 1948 r. o podziale Państwa na okręgi energetyczne (Dz. U. R. P. z 1948 r. Nr 38, poz. 281, Nr 51, poz. 409 i z 1950 r. Nr 7, poz. 71).",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 stycznia 1951 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Przemysłu Ciężkiego: w z. E. Misiurewicz"
+  },
+  {
+   "type": "text",
+   "text": "Reklamacje z powodu niedoręczenia poszczególnych numerów wnosić należy do Administracji Wydawnictw P. R. M. (Warszawa, ul. Bracka 20a) w terminie 10 do 15 dni po otrzymaniu następnego numeru."
+  },
+  {
+   "type": "text",
+   "text": "Redakcja: Prezydium Rady Ministrów — Biuro Prac Usiawodawczych, Warszawa, ul. Krakowskie Przedm. 46 48. Administracja: Administracja Wydawnictw P. R. M. ul. Bracka 20a."
+  },
+  {
+   "type": "text",
+   "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Drukarni Stołecznych Zakładów Graficznych Nr 7 w Warszawie, ul. Nowowiejska 6."
+  },
+  {
+   "type": "text",
+   "text": "38000 85"
+  },
+  {
+   "type": "text",
+   "text": "Cena 48 gr."
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

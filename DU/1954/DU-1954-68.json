@@ -1,0 +1,1342 @@
+{
+ "eli": "DU/1954/68",
+ "title": "Rozporządzenie Rady Ministrów z dnia 24 kwietnia 1954 r. w sprawie składu, sposobu powoływania i funkcjonowania zakładowych komisji rozjemczych i komisji rozjemczych przy terenowych organach związków zawodowych oraz trybu postępowania przed tymi komisjami i trybu postępowania odwoławczego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/68/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 24 kwietnia 1954 r,"
+  },
+  {
+   "type": "text",
+   "text": "w sprawie składu, sposobu powoływania i funkcjonowania zakładowych komisji rozjemczych i komisji roziemczych przy terenowych organach związków zawodowych oraz trybu postępowania przed tymi komisjami i trybu postępowania odwoławczego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 14 i art. 15 ust. 2 dekretu z dnia 24 lutego 1954 r. o zakładowych komisjach rozjemczych (Dz, U. Nr 10, poz. 35) zarządza się, co następuje:"
+  },
+  {
+   "type": "text",
+   "text": "I. Przepisy wstępne."
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Ilekroć w niniejszym rozporządzeniu mówi się o komisjach rozjemczych, należy przez to rozumieć zarówno zakładowe komisje rozjemcze, jak i komisje rozjemcze przy terenowych organach związków zawodowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Ilekroć w niniejszym rozporządzeniu mówi się o terenowych komisjach rozjemczych, należy przez to rozumieć komisje rozjemcze przy terenowych organach związków zawodowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Ilekroć w niniejszym rozporządzeniu mówi się o przedsiębiorstwach, należy przez to rozumieć przedsiębiorstwa uspołecznione.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Il. Zakres działania komisji rozjemczych."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Komisje rozjemcze rozstrzygają spory ze stosunku pracy, wynikające na tle stosowania przepisów prawa lub postanowień układów zbiorowych pracy, regulaminów pracy i umów o pracę, a w szczególności dotyczące:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "rozwiązania stosunku pracy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "stosowania stawek płacy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "obliczania wysokości wynagrodzenia i potrąceń,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "wynagrodzenia za godziny nadliczbowe,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "wymiaru urlopu wypoczynkowego,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "wynagrodzenia za urlop,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_2/pkt_7",
+     "text": "urlopów dodatkowych i skróconego dnia pracy,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_2/pkt_8",
+     "text": "wypłaty odszkodowania w przypadku rozwiązania przez pracownika umowy o pracę z winy pracodawcy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Do właściwości komisji rozjemczych nie należą:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "spory dotyczące mieszkań służbowych i zakładowych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "spory dotyczące odpowiedzialności majątkowej pracowników,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "sprawy dotyczące ustanowienia nowych warunków pracy i płacy lub zmiany warunków obowiązujących, jeżeli ustanowienie lub zmiana warunków nie wynika wprost z obowiązujących przepisów prawa bądź z powszechnych regulacji płac.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "sprawy dotyczące stosowania norin pracy,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_3/pkt_5",
+     "text": "spory ze stosunku pracy pracowników zajmujących stanowiska kierownicze.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Zakładowe komisje rozjemcze powołuje się w przedsiębiorstwach zatrudniających stale co najmniej 100 pracowników.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Terenowe komisje rozjemcze powołuje się przy zarządach okręgowych związków zawodowych dla przedsiębiorstw zatrudniających poniżej 100 pracowników, a znajdujących się na obszarze objętym działalnością tych zarządów.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Ill. Organizacja i skład zakładowych komisji rozjemczych,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Zakładowa komisja rozjemcza składa się wyłącznie z pracowników przedsiębiorstwa, w którym komisja działa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Członków zakładowej komisji rozjemczej powołują w równej liczbie rada zakładowa i kierownik przedsiębiorstwa. Rada zakładowa powołuje na czionków zakładowej komisji rozjeraczej pracowników będących członkami związku zawodowego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Skład osobowy zakładowej komisji rozjemczej uzgadniają między sobą kierownik przedsiębiorstwa i rada zakładowa.",
+     "children": [
+      {
+       "type": "text",
+       "text": "|\". 87. 1. Zakładowa komisja rozjemcza składa się: w przedsiębiorstwie zatrudniającym do 500 pracowników z 8 członków, w przedsiębiorstwie zatrudniającym do 1000 pracowników z 12 członków."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W przedsiębiorstwie zatrudniającym ponad 1000 pracowników na każdy. dalszy rozpoczęty 1000 pracowników powołuje się dalszych 4 członków komisji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Zakładowa komisja rozjemcza wybiera ze swego grona przewodniczącego i zastępcę przewodniczącego. Jeżeli przewodniczącym zakładowej komisji rozjemczej zostanie wybrany przedstawiciel związku zawodowego, to zastępcę przewodniczącego należy wybrać spośród przedstawicieli kierownika przedsiębiorstwa i odwrotnie. Zakładowa komisja rozjemcza działająca w przedsiębiorstwie zatrudniającym powyżej 500 pracowników może wybrać więcej niż jednego zastępcę przewodniczącego, z tym jednak że na stanowiskach przewodniczącego i zastępców muszą być w połowie reprezentowani przedstawiciele związku zawodowego i w połowie przedstawiciele kierownika przedsiębiorstwa.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Zakładowe komisje rozjemcze orzekają w kompletach czteroosobowych. W skład kompletów wchodzą w równej liczbie przedstawiciele związku zawodowego i kierownika przedsiębiorstwa. Przewodnictwo kompletu sprawuje przewodniczący komisji lub jego zastępca.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "W dużych przedsiębiorstwach można powołać komplety dla poszczególnych oddziałów przedsiębiorstwa lub dla kilku oddziałów łącznie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Członkiem zakładowej komisji rozjemczej może być pracownik, który:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_10/ust_1/pkt_1",
+       "text": "jest zatrudniony w przedsiębiorstwie co nana) 6 miesięcy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_10/ust_1/pkt_2",
+       "text": "ukończył 21 lat życia,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_10/ust_1/pkt_3",
+       "text": "posiada ogólną znajomość ustawodawstwa pracy oraz warunków pracy w przedsiębiorstwie.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Przepisu ust, 1 pkt 1 nie stosuje się w przypadku powołania zakładowej komisji rozjemczej w nowoutworzonym przedsiębiorstwie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Sprawowanie funkcji członka zakładowej komisji rozjemczej jest funkcją społeczną.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Nie wolno rozwiązać stosunku piacy z członkiem zakładowej komisji rozjemczej, chyba że zachodzi ważna przyczyna lub wina pracownika, a zarząd okręgowy właściwego związku zawodowego wyraził zgodę na rozwiązanie stosunku pracy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_13/ust_1",
+     "text": "Sprawowanie funkcji członka zakładowej komisji rozjemczej ustaje w razie:.",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_13/ust_1/pkt_1",
+       "text": "rozwiązania stosunku pracy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_13/ust_1/pkt_2",
+       "text": "odwołania w przypadkach uzasadnionych ze stanowiska członka zakładowej komisji rozjemczej,",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_13/ust_2",
+     "text": "Odwołanie ze stanowiska członka zakładowej komisji rozjemczej może nastąpić tylko w trybie przewidzianym dla powołania,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "Członek zakładowej komisji rozjemczej, który wykonywał swe funkcje w ciągu kolejnych trzech lat, powinien być na własną prośbę zwolniony od dalszego pełnienia tych funkcji,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "W przypadku zdekompietowania składu osobowego zakładowej komisji rozjemczej skład komisji podlega niezwłocznemu uzupełnieniu w trybie przewidzianym dla powoływania członków zakładowych komisji rozjemczych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_16/ust_1",
+     "text": "Zakładowa komisja rozjemcza wykonuje swoje funkcje poza godzinami pracy lub zmiany, w której członkowie komisji są zatrudnieni.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_16/ust_2",
+     "text": "Czynności kancelaryjne zakładowej komisji rozjemczej prowadzi pracownik wyznaczony przez kierownika przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_16/ust_3",
+     "text": "Kierownik przedsiębiorstwa obowiązany jest do starczyć zakładowej komisji rozjemczej odpowiedniego pomieszczenia oraz niezbędnych urządzeń biurowych i materiałów kancelaryjnych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_16/ust_4",
+     "text": "Koszty związane z prowadzeniem czynności kancelaryjnych oraz dostarczeniem pomieszczeń, urządzeń i materiałów piśmiennych pokrywa przedsiębiorstwo.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_17/ust_1",
+     "text": "Zakładowa komisja rozjemcza używa pieczęci z napisem: „Zakładowa Komisja Rozjemcza przy",
+     "children": [
+      {
+       "type": "text",
+       "text": "(nazwa przedsiębiorstwa) (siedziba przedsiębiorstwa)"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_17/ust_2",
+     "text": "Wzór rysunkowy pieczęci załącznik stanowi nr 1 do niniejszego rozporządzenia,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_17/ust_3",
+     "text": "Uprawnionymi do korzystania z pieczęci zakładowej komisji rozjemczej są przewodniczący i zastępca (lub zastępcy) przewodniczącego zakładowej komisji rozjemczej,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_17/ust_4",
+     "text": "Koszt wykonania pieczęci zakładowej komisji rozjemczej pokrywa przedsiębiorstwo,",
+     "children": [
+      {
+       "type": "text",
+       "text": "IV. Organizacja i skład terenowych komisji rozjemczych,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_18/ust_1",
+     "text": "Terenowe -komisje rozjemcze działają przez powiatowe (miejskie, dzielnicowe) komplety orzekające,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_18/ust_2",
+     "text": "Powiatowe (miejskie, dzielnicowe) komplety orzekające obejmują swoją działalnością przedsiębiorstwa znajdujące się na obszarze powiatu (miasta stanowiącego powiat, dzielnicy m st. Warszawy” i m Łodzi), których pracownicy zrzeszeni są w tym związku zawodowym, przy którym komplety orzekające działają,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_18/ust_3",
+     "text": "Ilość powiatowych kompletów orzekających dla poszczególnych powiatów (miast stanowiących powiaty, dzielnic m. st. Warszawy i m. Łodzi) ustalają zarządy okręgowe właściwych związków zawodowych stosownie do potrzeb miejscowych.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Powiatowe komplety orzekające są czte-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": ". 1. roosobowe,",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_19/ust_2",
+     "text": "W skład kompletu wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_19/ust_2/pkt_1",
+       "text": "stały członek terenowej komisji rozjemczej z ramienia zarządu okręgowego właściwego związku zawodowego,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_19/ust_2/pkt_2",
+       "text": "stały członek terenowej komisji rozjemczej z ramienia przedsiębiorstw, dele-",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_19/ust_2/pkt_3",
+       "text": "niestały członek terenowej komisji rozjemczej gowany przez właściwą radę zakładową (miejscową) lub delegata,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_19/ust_2/pkt_4",
+       "text": "niestały członek terenowej komisji rozjemczej delegowany przez kierownika właściwego przedsiębiorstwa.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "20",
+   "path": "par_20",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_20/ust_1",
+     "text": "Stałych członków terenowej komisji rozjemczej powołują w równej liczbie zarząd okięgowy wiaściwego związku zawodowego oraz właściwa instytucja nadrzędna nad przedsiębiorstwami, podiegajacy.ni właściwości terenowej komisji rozjemczej,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_20/ust_2",
+     "text": "Zarząd okręgowy właściwego związku zawodowego powołuje stałych członków terenowej komisji rozjemczej na wniosek rad zakładowych (deleystéw) spośród pracowników będących członkami związków zawodowych, zatrudnicnych w przedsiębiorstwach które pedlegają właściwości terenowej komisji rozjemczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_20/ust_3",
+     "text": "Instytucja nadrzędna nad przedsiębiorstwami podlegającymi właściwości terenowej komisji rozjemczej powołuje stałych członków komisji na wniosek zarządu okręgowego właściwego związku zawodowego spośród osób przedstawionych przez kierowników tych przedsiębiorstw i zatrudnionych w tych przedsiębiorstwach,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "21",
+   "path": "par_21",
+   "text": "Niestałych członków terenowej komisji rozjemczej deleguje każdorazowo celem wzięcia udziału w komplecie orzekającym rada zakładowa (miejscowa) lub delegat i kierownik przedsiębiorstwa, które Jest stroną w sporze.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "Zarząd okręgowy właściwego związku zawodowego powierza funkcje przewodniczącego terenowej komisji rozjemczej oraz zastępców pizewodniczącego \"osobom spośród powołanych przez siebie stałych członków terenowej komisji rozjemczej,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Przewodnictwo powiatowego kompletu orzekającego sprawuje przewodniczący terenowej komisji rozjemczej lub jego zastępca.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Do stałych i niestałych członków terenowej komisji rozjemczej stosuje się odpowiednio przepisy $§ 10i 11 niniejszego rozporządzenia, a do stałych czionków komisji ponadto przepisy $§ 12, 13 i 14,",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 25, Do terenowej komisji rozjemczej stosuje się odpowiednio przepisy § 15 niniejszego rozporządzenia."
+    },
+    {
+     "type": "text",
+     "text": "Poz, 68"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_26/ust_1",
+     "text": "Terenowa komisja rozjemcza wykonuje swe funkcje w czasie umożliwiającym pracownikom przedsiębiorstw objętych działalnością komisji wzięcie udziału w rozprawie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_26/ust_2",
+     "text": "Godziny funkcjonowania poszczególnych powiatowych kompletów orzekających ustala zarząd okręgowy właściwego związku zawodowego w sposób zabezpieczający wykonanie przepisu ust. 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "27",
+   "path": "par_27",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_27/ust_1",
+     "text": "Powiatowe (miejskie, dzielnicowe) komplety orzekające wykonują swoje funkcje w siedzibie jednego z przedsiębiorstw objętych działalnością terenowej komisji rozjemczej. Przedsiębiorstwo to wyznacza zarząd okręgowy właściwego związku zawodowego po porozumieniu z instytucją nadrzędną nad przedsiębiorstwami objętymi działalnością terenowej komisji rozjemczej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_27/ust_2",
+     "text": "Czynności kancelaryjne powiatowych (miejskich, dzielnicowych) kompletów orzekających prowadzi prą- * cownik przydzieiony przez przedsiębiorstwo, pizy którym komplety orzekające wykonują swoje funkcje.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_27/ust_3",
+     "text": "Przedsiębiorstwo, przy którym działają powiatowe (miejskie, dzielnicowe) komplety orzekające, obowiązane jest ponadto dostarczyć kompletom orzekającym odpowiedniego pomieszczenia oraz niezbędnych urządzeń biurowych i materiałów kancelaryjnych,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_27/ust_4",
+     "text": "Koszty związane z prowadzeniem czynności kancelaryjnycn oraz dostarczeniem pomieszczeń, urządzeń i materiałów piśmiennych pokrywa przedsiębiorstwo, przy którym działają powiatowe (miejskie, dzielnicowe) koraplety orzekające, na rachunek instytucji nadrzędnej nad tym przedsisbiorstwem,",
+     "children": [
+      {
+       "type": "text",
+       "text": "aiym członkom terenowej komisji rozjemczej pi: \"ie prawo do zwrotu kosztów przejazdu, poniesion: „wiązku z udziałem w pracy terenowej komisji 1 zej. Obowiązek zwrotu kosztów przejazdu bala przedsiębiorstwo zatrudniające uprawnionego,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "29",
+   "path": "par_29",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_29/ust_1",
+     "text": "Terenowa komisja rozjemcza używa pieczęci z napisem: „Terenowa Komisja Rozjemcza przy Zarządzie Okręgowym Związku Zawodowego . . . . w. . . . . .„ . Komplet orzekający w . . . . .* (siedziba ZOZZ)",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_29/ust_2",
+     "text": "Wzór rysunkowy pieczęci stanowi załącznik nr 2 do niniejszego rozporządzenia.",
+     "children": [
+      {
+       "type": "text",
+       "text": "3, Uprawnionymi do korzystania z pieczęci terenowej komisji rozjemczej są przewodniczący komisji i jego zastępcy."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_29/ust_4",
+     "text": "Koszt wykonania pieczęci terenowej komisji rozjemczej pokrywa zarząd okręgowy właściwego związku ZRT,",
+     "children": [
+      {
+       "type": "text",
+       "text": "V. Postępowanie przed komisjami roziemczymi,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_30/ust_1",
+     "text": "Wszczęcie postępowania przed komisją rozjemczą następuje na wniosek pracownika lub kilku pracowników,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_30/ust_2",
+     "text": "Wniosek zgłasza się do przewodniczącego zakładowej komisji rozjemczej lub jego zastępcy na piśme lub ustnie do protokołu, a w postępowaniu przed terenową komisją rozjemczą do pracownika przedsiębiorstwa, przy którym komplety orzekające wykonują swoje funkcje, przydzielonego przez to przedsiębiorstwo do pro-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "wadzenia czynności kancelaryjnych powiatowych (miejskich, dzielnicowych) kompletów orzekających"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_30/ust_3",
+     "text": "Wniosek o rozpatrzenie sporu przez koinisję rozjemczą powinien być zgłoszony dopiero wówczas, gdy roszczenie pracownika nie zostało zaspokojone w drodze bezpośredniego porozumienia pomiędzy pracownikiem a kierownikiem przedsiębiorstwa lub gdy kierownik przedsiębiorstwa zwleka z wydaniem decyzji.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_30/ust_4",
+     "text": "We wniosku należy określić przedmiot sporu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "Przewodniczący komisji rozjemczej lub jego zastępca obowiązany jest sprawdzić, czy spór objęty wnioskiem podlega właściwości komisji rozjemczej. W razie stwierdzenia niewłaściwości komisji rozjeinczej przewodniczący lub jego zastępca zwraca wniosek zainteresowanemu pracownikowi wraz z pisemnym stwierdzeniem, że spór nie podlega właściwości komisji rozjemczej, oraz — w miarę możliwości — poucza pracownika, do kogo należy zgłosić roszczenie. . § 32. 1. Wnioski zgłoszone po upływie 'erminów określonych w art. 6 dekretu z dnia 24 lutego 1954 r. o zakładowych komisjach rozjemczych (Dz, U. Nr 10, poz. 35) nie będą rozpoznane. W przypadkach uzasadniorych szczególnymi okolicznościami komisja rozjemcza może uwzględnić jednomyślną decyzją kompletu orzekającego spóźnienie zgłoszenia wniosku o rozpatrzenie sporu.",
+   "children": [
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_31/ust_2",
+     "text": "Od odmownej decyzji komisji rozjemczej w sprawie rozpoznania wniosku, zgłoszonego w spóźnionym terminie, pracownik może wnieść w ciągu 7 dni od zawiadomienia go o decyzji odwołanie do zarządu głównego właściwego związku zawodowego. Cdwolanie wnosi się za pośrednictwem komisji rozjemczej,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_31/ust_3",
+     "text": "Zarząd główny bądź zatwierdza decyzję komisji rozjemczej, bądź uwzględnia odwołanie pracownika i w tym przypadku uchyla decyzję komisji rozjemczej oraz przekazuje wniosek pracownika o rozpoznanie sprawy do komisji celem przeprowadzenia rozprawy, Decyzja zarządu głównego jest ostateczna.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_33/ust_1",
+     "text": "W postępowaniu przed komisją rozjemcza pracownik działa osobiście.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_33/ust_2",
+     "text": "Pracownik, który nie może wziąć osobiście udziału w rozprawie, może ustanowić pełnomocnika w osobie członka swojej rodziny, przedstawiciela związku zawodowego lub innego pracownika przedsiębiorstwa, w którym jest zatrudniony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_33/ust_3",
+     "text": "Kierownik przedsiębiorstwa zastępuje przedsiębiorstwo osobiście lub przez wyznaczonego przez siebie pracownika.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_33/ust_4",
+     "text": "Upoważnienie do zastępowania przed komisją I rozjemczą powinno być udzielone na piśmie.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_34/ust_1",
+     "text": "Przewodniczący lub jego zastępca wyznacza terminy rozpraw oraz zarządza doręczenie wezwań.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_34/ust_2",
+     "text": "W sprawach dotyczących rozwiązania stosunku pracy termin rozprawy powinien być wyznaczony najpóźniej w ciągu 3 dni od dnia zgłoszenia wniosku, w sprawach o wynagrodzenie za godziny nadliczbowe — w ciągu 7 dni, a w pozostałych sprawach — w ciągu 14 dni.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_35/ust_1",
+     "text": "Na rozprawę wzywa się . strony ' oraz świadków. których wskazano we wniosku o rozpoznanie sprawy albo których obecność przewodniczący komisji lub jego zastępca uznał za niezbé gdną dla wyjaśnienia okoliczności spornych. W wezwaniu można żądać przedstawienia na rozprawie.ksiąg, wykazów,.pism oraw'wszelkich innych dokumentów, mogących przyczynić siąpóo wyjaśnienia okoliczności spornych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_35/ust_2",
+     "text": "Wezwanie doręcza się na piśmie za poświadczeniem odbioru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_35/ust_3",
+     "text": "W wezwaniu rależy podać skład kompletu orzekającego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_36/ust_1",
+     "text": "W przypadku konieczności przesłuchań'a w charakterze świadka osoby, która ma miejsce zamieszkania poza siedzibą komisji roziemczej lub która nie stawiła się na rozprawę bez usprawiedliwienia swego niestawiennictwa, przewodniczący komisji lub jego zastępca może zwrócić się do sądu powiatowego, właściwego ze względu na miejsce zamieszkania osoby wezwanej, z wnioskiem o przesłuchanie jej w charakterze świadka, na okoliczności wskazane we wniosku.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_36/ust_2",
+     "text": "Sąd powiatowy dokona przesłuchania świadka w trybie przepisów kodeksu postępowania cywilnego, przesyłając protokół przesłuchania komisji rozjemczej,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "Koszty przejazdu świadka, wezwanego na rozprawę przez komisję rozjemczą, oraz koszty przejazdu pracownika, który zgłosił wniosek o rozpoznanie sporu, pokrywa przedsiębiorstwo, w którym świadex iub pracownik jest zatrudniony. Ponadto za czas zwolnienia od pracy w związku z udziałem w postępowaniu przed komisją rozjemczą przedsiębiorstwo obowiązane jest wypłacić świadkowi lub pracownikowi wynagroczenie według zasad. obowiązujących przy ustalaniu wynagrodzenia za urlop wypoczynkowy,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_38/ust_1",
+     "text": "Następnego dnia po otrzymaniu wezwania na rozprawę pracownik ma prawo zgłosić do przewodniczącego komisji lub jego zastępcy wniosek o wyłączenie członka kompletu orzekającego. Wniosek powinien być odpowiednio uzasadniony,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_38/ust_2",
+     "text": "O uwzględnieniu wniosku decyduje przewodniczący komisji rozjemczej lub jego zastępca oraz jeden z członków komisji. Decyzja musi być jednomyślna, przy czym z dwu osób współdecydujących jedna musi być przedstawicielem związku zawodowego, a druga przedstawicielem przedsiębiorstwa.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_38/ust_3",
+     "text": "W razie uwzględnienia wniosku przewodniczący komisji lub jego zastępca wyznacza na miejsce wyłączonego członka kompletu orzekającego innego członka komisji,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_39/ust_1",
+     "text": "Przewodniczący kompletu orzekającego otwiera i prowadzi rozprawę.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_39/ust_2",
+     "text": "Rozprawa przed komisją rozjemczą jest jawna. W przypadkach uzasadnionych szczególnymi okolicznościami przewodniczący kompletu może zarządzić rozprawę przy drzwiach zamkniętych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_39/ust_3",
+     "text": "Jeden z członków kompletu orzekającego wyznaczony przez przewodniczącego prowadzi protokół rozprawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_40/ust_1",
+     "text": "Na wstępie przewodniczący kompletu zapoznaje komplet oraz wezwanych z przedmiotem sporu.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_40/ust_2",
+     "text": "Pracownik może uzupeinić lub sprostować dane, dotyczące przedmiotu sporu,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "Komisja rozjemcza powinna skłaniać strony do załatwienia sporu w drodze bezpośredniego porozumienia, zgodnego z obowiązującymi przepisami prawa,",
+   "children": [
+    {
+     "type": "text",
+     "text": "="
+    },
+    {
+     "type": "note",
+     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "W. razie nieosiągnięcia bezpośredniego porożumienia przewodniczący: kompletu wzywa strony, najpierw pracownika, następnie kierownika przedsiębiorstwa, do złożenia wyjaśnień, po czym komisja rozjemcza przesłuchuje świadków, bada dokumenty oraz pizeprowadza inne dowody,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "Z ważnych powodów komisja rozjemcza może odroczyć termin rozprawy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_44/ust_1",
+     "text": "Komisja rozjemcza rozstrzyga spory zgodnie z interesem mas pracujących i dobrem gospodarki narodowej, kierując się obowiązującymi przepisami prawa oraz poslanowieniami umów o pracę i regulaminów pracy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_44/ust_2",
+     "text": "W toku postępowania komisja rozjemcza poucza strony.o przysługujących im prawach i wyjaśnia im znaczenie obowiązujących przepisów ustawodawstwa pracy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_45/ust_1",
+     "text": "Po przeprowadzeniu postępowania dowodowego komisja rozjemcza odbywa naradę celem wydania orzeczenia. Narada jest niejawna.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_45/ust_2",
+     "text": "Orzeczenia komisji zapadają jednomyślnie. W braku jednomyślności komisja podeimuje uchwałę stwierdzającą, iż sprawa nie została rozstrzygnięta w postępowaniu przed komisją rozjemczą.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "46",
+   "path": "par_46",
+   "text": "Orzeczenie lub uchwała powinna zawierać:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_46/pkt_1",
+     "text": "nazwę komisji — („Zakładowa Komisją Rozjemcza lub „Komisja Rosjemexa przy Zarządzie Okręgowym Związku Zawodowego . ... + «© «© ee we",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_46/pkt_2",
+     "text": "imienny skład kompletu orzekającego z podaniem imion i nazwisk oraz stanowisk służbowych czionków kompletu, jak również ze wskazaniem, z czyjego ramienia występują, a jeżeli orzeczenie lub uchwałę wydaje powiatowy komplet orzekający — z podaniem nazwy powiatu (miasta stanowiącego powiat, dzielnicy m. st. Warszawy i m, Łodzi), dla którego komplet orzekający został powołany,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_46/pkt_3",
+     "text": "datę wydania orzeczenia lub podjęcia uchwały,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_46/pkt_4",
+     "text": "określenie stron,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_46/pkt_5",
+     "text": "oznaczenie przedmiotu sporu,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_46/pkt_6",
+     "text": "treść rozstrzygnięcia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "par_46/pkt_7",
+     "text": "uzasadnienie faktyczne i prawne,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "par_46/pkt_8",
+     "text": "pouczenie stron o przysługujących im środkach odwoławczych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "par_46/pkt_9",
+     "text": "pieczęć komisji rozjemczej i podpisy członków kompletu orzekającego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "47",
+   "path": "par_47",
+   "text": "Orzeczenie lub uchwała powinny być ogłoszone bezpośrednio po odbyciu narady przez komisję rozjemczą, a ponadto na żądanie strony — doięczone jej na piśmie w ciągu 3 dni od dnia rozprawy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "VI. Postępowanie odwoławcze,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "48",
+   "path": "par_48",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_48/ust_1",
+     "text": "W przypadku podjęcia uchwały stwierdzającej, że sprawa nie została rozstrzygnięta w postępowaniu przed komisją rozjemczą, przewodniczący komisji lub jego zastępca na żądanie pracownika, zgłoszone nie później niż w ciągu 14 dni od dnia ogłoszenia uchwały lub doręczenia jej na piśmie, kieruie sprawę do właściwego sądu powiatowego w ciągu 3 dni od zgłoszenia żądania.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_48/ust_2",
+     "text": "Wniosek o rozpoznanie sprawy przez komisję rozjemczą zastępuje pozew, Wraz z wnioskiem przewodniczący komisji lub jego zastępca przekazuje sądowi akta sprawy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "49",
+   "path": "par_49",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_49/ust_1",
+     "text": "Od orzeczenia komisji rozjemczej strona może odwołać się do zarządu głównego właściwego związku zawodowego w ciągu 7 dni od dnia ogłoszenia orzeczenia lub doręczenia go na piśmie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_49/ust_2",
+     "text": "Odwołanie należy wnieść do komisji rozjemczej, która w ciągu 3 dni od dnia wniesienia odwołania przekaże je wraz z aktami sprawy do zarządu głównego właściwego związku zawodowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "50",
+   "path": "par_50",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_50/ust_1",
+     "text": "Zarząd główny związku zawodowego bądź zatwierdza zaskarżone orzeczenie, bądź uchyla je, w przypadku gdy zostało wydane z naruszeniem obowiązujących przepisów prawa lub postanowień układu zbiorowego pracy, regulaminu pracy i umowy o pracę albo z isiotnym naruszeniem trybu postępowania, ustalonego w niniejszym rozporządzeniu,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_50/ust_2",
+     "text": "Przy wydaniu decyzji zarząd główny związku zawodowego opiera się na materiale zebranym w spiawie przez komisję rozjermczą,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_50/ust_3",
+     "text": "Zarząd giówny związku zawodowego powinien rozpatrzyć odwoianie w ciągu 7 dni od dnia oiizymania sprawy i",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_50/ust_4",
+     "text": "Zarząd główny związku zawodowego zawiadamia strony na piśmie o treści wydanej decyzji.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "51",
+   "path": "par_51",
+   "text": "W razie uchylenia orzeczenia komisji rozjem-: czej pracownik może w terminie 14 dni od dna otrzymania zawiadomienia o uchyleniu zgłosić wniosek do zarządu głównego właściwego związku zawodowego o skierowanie sprawy do właściwego sądu. O ile wniosek taki nie zostanie zgłoszony, zarząd giówny związku żawodowego kieruje sprawę do komisji rozjemczej celem ponownego rozpatrzenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Vil. Wykonanie orzeczeń komisji rozjemczych,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "52",
+   "path": "par_52",
+   "text": "Porozumienie zawarte przed komisją rozjemczą oraz orzeczenie komisji rozjemczej nie zaskarżone w przewidzianym trybie lub zatwierdzone przez zarząd główny związku zawodowego więżę strony i stanowi tytuł egzekucyjny, podlegający wykonaniu w trybie przewidzianym w przepisach postępowania cywiinego,",
+   "children": [
+    {
+     "type": "text",
+     "text": "VIII. Tryb zaskarżania orzeczeń naruszających ¥ a przepisy prawa."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "53",
+   "path": "par_53",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_53/ust_1",
+     "text": "W razie uznania, że prawomocne orzeczenie komisji rozjemczej narusza przepisy prawa, Prokurator Generalny Polskiej Rzeczypospolitej Ludowej może je w ciągu 6 miesięcy od uprawomocnienia się zaskarżyć do Centralnej Rady Związków Zawodowych.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_53/ust_2",
+     "text": "Orzeczenie zaskarżone w trybie określonym w ust. 1 może być przez Centralną Radę Związków Zawodowych uchylone,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_53/ust_3",
+     "text": "W razie uchylenia orzeczenia komisji rozjemczej stosuje się odpowiednio przepis § 51.",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "IX. Sprawy administracyjno-porządkowe."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "54",
+   "path": "par_54",
+   "text": "Akta i pieczęcie powinny być zabezpieczone i przechowywane w lokalu przeznaczonym dia potrzeb komisji, = . § 55. Zarządy główne związków zawodowych sprawują nadzór nad działalnością komisji rozjemczych w zakresie prawidłowego ich powoływania i funkcjonowania oraz w zakresie spraw administracyjnych,",
+   "children": [
+    {
+     "type": "text",
+     "text": "X. Przepisy końcowe,"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "56",
+   "path": "par_56",
+   "text": "Wykonanie rozporządzenia powierza się Przewodniczącemu Państwowej Komisji Pła. iia Gospodarczego oraz właściwym ministrom działającym w tym zakresie w porozumieniu z zarządami głównymi właściwych związków zawodowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "57",
+   "path": "par_57",
+   "text": "Rozporządzenie wchodzi w życie z dniem 1 maja 1954 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [
+  {
+   "heading": "Załączniki do rozporządzenia Rady” Ministrów z dnia 24 kwietnia 1954 r. (poz. 68). Załącznik nr '1.",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR PIECZĘCI ZAKŁADOWEJ KOMISJI ROZJEMCZEJ"
+    },
+    {
+     "type": "text",
+     "text": "Zakładowa Komisja Rozjemcza przy"
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 2.",
+   "body": [
+    {
+     "type": "text",
+     "text": "WZÓR PIECZĘCI TERENOWEJ KOMISJI ROZJEMCZEJ"
+    },
+    {
+     "type": "text",
+     "text": "Terenowa Komisja Rozjemcza przy Zarządzie Okręgowym Związku Zawodowego"
+    },
+    {
+     "type": "text",
+     "text": "3"
+    },
+    {
+     "type": "text",
+     "text": "Wise . 0"
+    },
+    {
+     "type": "text",
+     "text": "Komplet orzekający w"
+    }
+   ]
+  }
+ ],
+ "footnotes": {}
+}

@@ -1,0 +1,164 @@
+{
+ "eli": "DU/1950/338",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 25 lipca 1950 r. w sprawie prowadzenia rejestru i przesyłania doniesień dotyczących chorób wenerycznych.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/338/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 25 lipca 1950 r. w sprawie prowadzenia rejestru i przesyłania doniesień dotyczących chorób wenerycznych,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 10 ust. 3 dekretu z dnia 16 kwietnia 1946 r. o zwalczaniu chorób wenerycznych (Dz. U. R. P. z 1949 r. Nr 51, poz. 394) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Określenie „rejestr oznacza rejestr chorych na choroby weneryczne, określenie ,,doniesienie“ oznacza zawiadomienie władzy o zgłoszeniu się chorego na chorobę weneryczną. . § 2. 1. Lekarz obowiązany jest przy pierwszym zgłoszeniu się chorego na chorobę weneryczną:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "wpisać chorego do rejestru,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "wypełnić formularz doniesienia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "Do rejestru wpisuje się chorych na choroby weneryczne, objęte wykazem ustalonym przez Ministra Zdrowia. Poszczególne choroby weneryczne umieszczone w wykazie oznacza się cyframi. Wykaz chorób wenerycznych przeznaczony jest wyłącznie do użytku organów służby zdrowia, lekarzy i bezpośrednio z nimi współpracujących innych fachowych pracowników służby zdrowia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_1/ust_3",
+     "text": "Lekarz obowiązany jest również wpisać chorego do rejestru, wypełnić j przesiać doniesienie w przypadku stwierdzenia choroby wenerycznej u osoby będącej pod“jego opieką z powodu innego schorzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Do rejestru powinny być wpisane następujące dane: nazwisko j imię chorego, rozpoznanie (oznaczone cyirą), numer karty choroby oraz data wysłania doniesienia,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Doniesienie powinno zawierać: a) nazwisko i imię chorego, b) wiek, c) datę zgłoszenia się, dj zawód, e) miejsce zatrudnienia i zamieszkania, f) stan rodzinny, g) rozpoznanie i stadium choroby, h) inne dane mogące mieć znaczenie dla ustalenia dróg szerze-_ nią się chorób wenerycznych, w szczególności podane przez chorego nazwisko i imię osoby, od której przypuszczalnie zaraził się, oraz naw imiona osób, które chory mógł zarazić w okresie wylęgania się lub trwania choroby.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Lekarz obowiązany jest w terminie nie później niż siedem dni od daty zgłoszenia się chorego przesłać doniesienie:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_1/pkt_1",
+       "text": "do poradni skórno-wenerologicznej wskazanej przez lekarza powiatowego (miejskiego),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_1/pkt_2",
+       "text": "w przypadku zgłoszenia się chorego na chorobę weneryczną:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_1/pkt_2/lit_a",
+         "text": "odbywającego czynną służbę: wojskową — lekarzowi garnizonowemu lub lekarzowi najbliższej jednostki wojskowej,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_1/pkt_2/lit_b",
+         "text": "będącego funkcjonariuszem lub żołnierzem służby bezpieczeństwa publicznego — lekarzowi najbliższego urzędu bezpieczeństwa publicznego,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_1/pkt_2/lit_c",
+         "text": "powołanego do Powszechnej Organizacji „Służba Polsce* — lekarzowi powiatowej komendy „Służba Polsce\".",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Lekarz obowiązany jest przechowywać rejestr przez dwa lata, a w razie zmiany lekarza przez chorego, przesyłać dane z rejestru lekarzowi, do którego zgłosił się chory.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Poradnie skórno-wenerologiczne wskazane przez lekarza powiatowego (miejskiego) prowadzą na podstawie otrzymywanych doniesień rejestr chorych na choroby weneryczne, zamieszkałych na obszarze ich działalności.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Rejestr chorych na choroby weneryczne nie obejmuje osób wymienionych w § 5 ust. 1 pkt 2. § 7. Lekarz powiatowy (miejski) bądź wskazana przez niego poradnia skórno-wenerologiczna przesyła bezpłatnie lekarzom formularze doniesień.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia. i",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: T. Michejda"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

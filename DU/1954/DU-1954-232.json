@@ -1,0 +1,106 @@
+{
+ "eli": "DU/1954/232",
+ "title": "Rozporządzenie Rady Ministrów z dnia 11 sierpnia 1954 r. w sprawie utworzenia powiatu łapskiego w województwie białostockim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/232/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 sierpnia 1954 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia powiatu łapskiego w województwie białostockim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ustawy z dnia 4 lutego 1950 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz, 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się w województwie białostockim powiat łapski z siedzibą powiatowej rady narodowej w Łapach.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "W skład nowoutworzonego powiatu łapskiego w województwie białostockim wchodzą;",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "z powiatu wysokomazowieckiego w tymże województwie;",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_2/pkt_1/lit_a",
+         "text": "miasto Łapy, .",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_1/ust_2/pkt_1/lit_b",
+         "text": "gromady: Brzozowo Stare, Dworaki-Staśki, Gasówka-Oleksin, Kowalewszczyżna Łupianka Stara,",
+         "children": [
+          {
+           "type": "text",
+           "text": "Pietkowo, Płonka Kościelna, Poświętne, Sokoły, Stokowisko, Truskolasy-Lachy,"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "z powiatu białostockiego w tymże wcejewództwie: -",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_1/ust_2/pkt_2/lit_a",
+         "text": "miasto Suraż,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "bj",
+         "path": "par_1/ust_2/pkt_2/lit_bj",
+         "text": "gromady: Horodniany, Rynki, Trypucie, Turośł Dolna, Turośl Kościelna, Uhowo, Zawady i Za- Wyki. § 2. Wykonanie rozporządzenia porucza się Prezes sowi Rady Ministrów. §3. Rozporządzenie wchodzi w życie z dniem ogłoś, szenia,",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,56 @@
+{
+ "eli": "DU/1956/89",
+ "title": "Dekret z dnia 16 maja 1956 r. o zmianie ustawy z dnia 27 czerwca 1950 r. o postępowaniu niespornym w sprawach rodzinnych oraz z zakresu kurateli.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1956/89/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 16 maja 1956 r."
+  },
+  {
+   "type": "text",
+   "text": "o zmianie ustawy z dnia 27 czerwca 1956 r. o postępowaniu niespornym w sprawach rodzinnych oraz z zakresu kurateli."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W ustawie z dnia 27 czerwca 1950 r. o postępowaniu niespornym w sprawach rodzinnych oraz z zakresu kurateli (Dz, U. Nr 34, poz. 310) dodaje się po art. 55 nowy art. 55a w brzmieniu:",
+   "children": [
+    {
+     "type": "text",
+     "text": "„„ArtŁ 55a. § 1. Władza opiekuńcza może powoływać inspektorów społecznych jako organ pomocniczy w sprawach opiekuńczych małoletnich,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "§ 2. Minister Sprawiedliwości określi w drodze rozporządzenia zasady i tryb powoływania oraz odwoływania i zawieszania w czynnościach inspektorów społecznych, ich prawa obowiązki oraz nadzór nad ich działalnością.\"",
+     "quoted": true
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Dekret wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Państwa: A. Zawadzki Sekretarz Rady Państwa: Sł. Skrzeszewski"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

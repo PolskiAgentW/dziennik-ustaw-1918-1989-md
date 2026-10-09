@@ -1,0 +1,192 @@
+{
+ "eli": "DU/1956/23",
+ "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 3 lutego 1956 r. w sprawie kwalifikacji, warunków i trybu udzielania zezwoleń na obsługiwanie aparatów do wyświetlania filmów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1956/23/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE PREZESA RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 3 lutego 1956 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie kwalifikacji, warunków i trybu udzielania zezwoleń na obsługiwanie aparatów do wyświetlania filmów."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 12 ust 2 ustawy z dnia 15 grudnia 1951 r. o kinematografii (Dz. U. Nr 66, poz. 452) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Aparaty do wyświetlania filmów w teatrach świetlnych i innych punktach publicznego rozpowszechniania filmów mogą obsługiwać tylko kinooperatorzy, którzy uzyskają zezwolenie Centralnego Urzędu Kinematografii. §2. Ustanawia się trzy kategorie zezwoleń: om",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "zezwolenie I kategorii uprawniające do samodzielnego obsługiwania wszystkich rodzajów aparatów do wyświetlania filmów; i",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "zezwolenie II kategorii uprawniające do samodzielnego - obsługiwania przenośnych, normalno- i wąskotaśmowych aparatów do wyświetlania filmów oraz do obsługiwania aparatów innych rodzajów pod nadzorem kinooperatora posiadającego zezwolenie I kategorii;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "zezwolenie I kategorii uprawniające do samodzielnego s obsługiwania wąskotaśmowych, przenośnych aparatów do wyświetłania filmów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Zezwolenia będą wydawane osobom, które:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_3/pkt_1",
+     "text": "ukończyły 18 łat życia i posiadają odpowiedni stan zdrowia; :",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_3/pkt_2",
+     "text": "posiadają wymagane wykształcenie;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_3/pkt_3",
+     "text": "odbyły odpowiednią praktykę i szkołenie oraz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_3/pkt_4",
+     "text": "złożyły z pomyślnym wynikiem przepisany egzamin przed właściwą komisją egzaminacyjną dla kinooperatorów.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Prezes Centralnego Urzędu Kinematografii powoła komisje egzaminacyjne dla kinooperatorów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "Zezwolenie może być cofnięte przez Centralny Urząd Kinematografii czasowo lub na stałe.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "Prezes Centralnego Urzędu Kinematografii w porozumieniu z Zarządem Głównym Związku Zawodowego Prą- _ . ceowników Kultury ustali w drodze zarządzenia: ; 1) zakres wykształcenia, praktyki, wyszkolenia oraz egzaminu w zależności od kategorii zezwolenia, o które ubiega e . się kinooperator; i :",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_6/pkt_2",
+     "text": "organizację komisji egzaminacyjnych dla kinooperatarów, zc skład osobowy tych komisji i tryb odbywania sesji egzaminacyjnych oraz wysokość taksy egzaminacyjnej;",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_6/pkt_3",
+     "text": "wymagania, jakim powinny odpowiadać:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_6/pkt_3/lit_a",
+       "text": "podanie o dopuszczenie do egzaminu na kinooperatora,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_6/pkt_3/lit_b",
+       "text": "wniosek o zezwolenie na obsługiwanie aparatów do wyświetłania filmów;",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_6/pkt_4",
+     "text": "przypadki, w których zezwolenie może być cofnięte czasowo lub na stałe. §7. i. Przepisów niniejszego rozporządzenia nie stosuje się przy obsługiwaniu aparatów do wyświetlania filmów w wojsku przez żołnierzy w czynnej służbie wojskowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "W przypadkach przewidzianych w ust. 1 zezwolenia wydają organy wojskowe w trybie i na zasadach określonych w przepisach wojskowych. :",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Osoby, które przedstawią dowód uzyskania uprawnień do obsługiwania aparatów do wyświetlania filmów w wojsku, otrzymają zezwolenia odpowiedniej kategorii zgodnie z przepisami § 2.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "Zezwolenia stałe, wydane na podstawie przepisów dotychczasowych, podlegają wymianie na zezwolenia I kalegorii określone w § 2. § 9. Termin wygaśnięcia ważności zezwoleń tymczasowych, wydanych na podstawie dotychczasowych przepisów, oraz tryb i warunki uzyskiwania zezwoleń przewidzianych w niniejszym rozporządzeniu określi Prezes Centralnego Urzędu Kinematografii w porozumieniu z Zarządem Głównym Związku Zawodowego Pracowników Kultury.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Centralna Rada Związków Zawodowych w porozumieniu z Prezesem Centralnego Urzędu Kinematogratii określi, które kategorie zezwoleń (§ 2) uprawniają do uznania ich posiadaczy za egzaminowanych mechaników kinematograficznych w rozumieniu przepisów rozporządzenia Ministra Pracy i Opieki Społecznej z dnia 4 lutego 1948 r, o zaliczeniu egzaminowanych mechaników kinematograficznych. do kategorii pracowników umysłowych (Dz. U Nr 9. poz. 65). § 11. Traci moc rozporządzenie Prezesa Rady Ministrów z dnia 23 lipca 1952 r. w sprawie kwalifikacji, warunków i trybu udzielania zezwoleń na zawodowe obsługiwanie aparatów do wyświetlania filmów (Dz. U, Nr 34, poz. 243). § 12. Do czasu wydania przepisów przewidzianych w § 6 zachowują moc dotychczasowe przepisy wykonawcze ze zmianami wynikającymi z przepisów niniejszego rozporządzenia. ©",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia,",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

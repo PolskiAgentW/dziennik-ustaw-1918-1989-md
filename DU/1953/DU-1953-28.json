@@ -1,0 +1,67 @@
+{
+ "eli": "DU/1953/28",
+ "title": "Dekret z dnia 28 stycznia 1953 r. o zmianie dekretu o ustaleniu treści sporządzonych za granicą aktów stanu cywilnego (metryk) obywateli polskich.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1953/28/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 28 stycznia 1953 r."
+  },
+  {
+   "type": "text",
+   "text": "© zmianie dekretu o ustalaniu treści sporządzonych za granicą aktów stanu cywilnego (metryk) obywateli polskich,"
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "W dekrecie z dnia 22 października 1947 r. o ustałaniu treści sporządzonych za granicą aktów stanu cywilnego (metryk) obywateli polskich (Dz, U. Nr 65, poz. 392) wprowadza się następujące zmiany:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_1/pkt_1",
+     "text": "w art, 1 po wyrazach „obywatela polskiego\" dodaje się wyrazy .albo osoby, która stale zamieszkuje na obszarze Państwa Polskiego i której obywatelstwo nie jest określone, ';",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_1/pkt_2",
+     "text": "przewidziany w art. 18 ust. 2 termin przedłyża się do ania 31 grudnia 1953 r.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "22",
+   "path": "art_22",
+   "text": "Wykonanie dekretu porucza się Prezesowi Rady Ministrów oraz Ministrom Sprawiedliwości i Spraw Zagranicznych,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "Dekret wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 stycznia 1953 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Państwa: A. Zawadzki Sekretarz Rady Państwa: M. Rybicki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,706 @@
+{
+ "eli": "DU/1959/34",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 10 stycznia 1959 r. w sprawie nadzoru sanitarnego nad obrotem grzybami i przetwórstwem grzybów.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1959/34/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 10 stycznia 1959 r."
+  },
+  {
+   "type": "text",
+   "text": "\" w sprawie nadzoru sanitarnego nad obroiem grzybami i przetwórstwem grzybów."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 8 lit. a), b), c), d) ie) przepisów z dnia 22 marca 1928 r. o dozorze nad arlykuiami żywności i przedmiotami użytku (Dz. U. Nr 36, poz. 343 z późniejszymi zmianami) zarządza się, co następuje: ."
+  },
+  {
+   "type": "text",
+   "text": "\"8.1. 1. Rozporządzenie dotyczy nadzoru sanitarnego nad obroiem grzybami świeżymi i przetworami grzybowymi oraz nad przetwórstwem grzybów."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Użyte w rozporządzeniu określenie „grzyby świeże” oznacza surowe owocniki grzybów, a określenie „przetwory grzybowe ' — grzyby konserwowane albo ekstrakty bądź koncentraty grzybowe.",
+   "children": [
+    {
+     "type": "text",
+     "text": "§ 2, Do obrotu wolno POWA dać jedynie następujące gatunki grzybów świeżych:"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "ust_2/pkt_1",
+     "text": "borowik siniak — Boletus cyanescens (Gyroporus),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "ust_2/pkt_2",
+     "text": "borowik kasztanowaty — Boletus castaneus (Gyroporus).",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "ust_2/pkt_3",
+     "text": "borowik maślak — Boletus luteus (Ixocomus),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "ust_2/pkt_4",
+     "text": "borowik ziarnisty — Boletus granulatus (Ixocomus),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "ust_2/pkt_5",
+     "text": "borowik żółty — Boletus flavus (lxocomns),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "ust_2/pkt_6",
+     "text": "borowik strojny — Boletus elegans (Ixocomus),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "7",
+     "path": "ust_2/pkt_7",
+     "text": "borowik sitarz — Boletus bovinus (Ixocomus),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "8",
+     "path": "ust_2/pkt_8",
+     "text": "borowik pstry — Boletus variegatus ([xocomus),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "9",
+     "path": "ust_2/pkt_9",
+     "text": "borowik brunatny — Boletus badius (Xerocomus),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "10",
+     "path": "ust_2/pkt_10",
+     "text": "borowik złotawy — Boletus chrysenteron (Xerocomus),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "11",
+     "path": "ust_2/pkt_11",
+     "text": "borowik zajączek — Boletus subtomentosus (Xerocomus),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "12",
+     "path": "ust_2/pkt_12",
+     "text": "korowik szlachetny (prawdziwek — wszystkie jego odmiany) — Boletus edulis,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "13",
+     "path": "ust_2/pkt_13",
+     "text": "borowik kozak (koźlarz) — Boletus scaber (Krombholzia scabra), , i",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "14",
+     "path": "ust_2/pkt_14",
+     "text": "borowik pseudo-kozak (kożlarek) — Boletus pseudoscaber (Śrombholzia rugosa),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "15",
+     "path": "ust_2/pkt_15",
+     "text": "borowik czerwony (kozak czerwony z odmianami) — Boletus rufus (Krombholzia aurantiaca),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "16",
+     "path": "ust_2/pkt_16",
+     "text": "mleczaj rydz — Lactarius deliciosus,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "17",
+     "path": "ust_2/pkt_17",
+     "text": "gaska żółta (zielonka) — Tricholoma equestre, 1€) opienka miedowa — Armillaria mellea,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "19",
+     "path": "ust_2/pkt_19",
+     "text": "twardzioszek przydrożny —. Marasmius oreades,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "ust_2/pkt_20",
+     "text": "łuskwiak płachetka — Pholiota caperata tRozites),",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "ust_2/pkt_21",
+     "text": "pieczarka polna — Agaricus campester, z wyjątkiem zbyt miadych egzemplarzy ze zbioru naturalnego (dzikiego), których blaszki jeszcze nie zaróżowiały,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "ust_2/pkt_22",
+     "text": "pieczarka ogrodowa — Agaricus hortensis, z zastrzeżeniem zawartym w pkt 21,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "23",
+     "path": "ust_2/pkt_23",
+     "text": "pieczarka dwuzarodnikowa — Agaricus bisporus, z zastrzeżeniem zawartym w pkt 21,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "ust_2/pkt_24",
+     "text": "pieczarka lśniąca (leśna) — Agaricus silvaticus, z zastrzeżeniem zawartym w.pkt 21,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "ust_2/pkt_25",
+     "text": "czubajka kania (sowa) — Lepiota procera,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "ust_2/pkt_26",
+     "text": "pieprznik jadalny (kurka) — Cantharellus cibarius,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "27",
+     "path": "ust_2/pkt_27",
+     "text": "kolczak dachówkowaty — Hydnum imbricalum,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "28",
+     "path": "ust_2/pkt_28",
+     "text": "kolczak sbłączasty — Hydnum repandum,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "29",
+     "path": "ust_2/pkt_29",
+     "text": "lejkowiec dęty — Craterellus cornucopioides,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "30",
+     "path": "ust_2/pkt_30",
+     "text": "smardz jadalny — Morchella esculenta,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "31",
+     "path": "ust_2/pkt_31",
+     "text": "smardz stożkowaty (spiczak) — Morchella conica.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Do obrotu wolno wprowadzać jedynie następujące rodzaje grzybów Konserwowanyehe",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_1/pkt_1",
+       "text": "grzyby suszone, jeżeli:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_1/lit_a",
+         "text": "do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w § 2 pkt 2, 9, 11—15 i 26 oraz",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_1/lit_b",
+         "text": "nie zawierają więcej niż 12% wody,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_1/pkt_2",
+       "text": "grzyby mrożone, jeżeli:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_2/lit_a",
+         "text": "do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w § 2 oraz",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_2/lit_b",
+         "text": "w celu utrwalenia zostały poddane działaniu temperatury poniżej minus 15°C,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_1/pkt_3",
+       "text": "grzyby apertyzowane, jeżeli:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_3/lit_a",
+         "text": "do ich sporządzenia użyto grzybów gotowanych lub smażonych jednego gatunku spośród wymienionych w § 2 albo grzybów suszonych (pkt 1) oraz",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_3/lit_b",
+         "text": "zostały umieszczone w zaiewie lub w sosie z dodatkiem przypraw, zamknięte w szczelnym słoju lub puszce, a następnie poddane pasteryzacji lub sterylizacji,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_1/pkt_4",
+       "text": "grzyby kiszone, jeżeli:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_4/lit_a",
+         "text": "do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w § 2 oraz",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_4/lit_b",
+         "text": "zostały zbianszowane i utrwalone fermentacją mlekową,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_1/pkt_5",
+       "text": "grzyby solone, jeżeli:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_5/lit_a",
+         "text": "do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w § 2 oraz",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_5/lit_b",
+         "text": "zostały zblanszowane i utrwalone dodatkiem soli kuchennej w ilości do 15%,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_1/pkt_6",
+       "text": "grzyby marynowane, jeżeli:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_3/ust_1/pkt_6/lit_a",
+         "text": "do ich sporządzenia użyto jednego z gatunków grzybów świeżych wymienionych w § 2 oraz",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_3/ust_1/pkt_6/lit_b",
+         "text": "zostały zbłanszowane i umieszczone w zalewie zawierającej do 2,40/0 kwasu octowego lub mlekowego bądź ich mieszaniny.",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Grzyby suszone wolno wprowadzać do obrotu jedynie w postaci:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "samych kapeluszy,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "kapeluszy z trzonami,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "krajanki, płatków, grysiku, kaszki lub mączki sporządzonych z kapeluszy łącznie z trzonami, których liczba nie może przekraczać liczby kapełuszy — pod warunkiem umieszczenia w jednostkowych opakowaniach opatrzonych znakiem wytwórni.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_4/ust_1",
+     "text": "Grzybów świeżych nie wolno wprowadzać do obrotu ani używać do sporządzania przetworów grzybowych, jeżeli:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_4/ust_1/pkt_1",
+       "text": "stanowią mieszaninę różnych gatunków grzybów lub samych trzonów,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_4/ust_1/pkt_2",
+       "text": "zawierają domieszkę grzybów podzielonych na części, z tym że dla ustalenia stopnia zaczerwienia wolno tylko jeden raz przekroić osiowo kapelusz wraz z trzonem,",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_4/ust_1/pkt_3",
+       "text": "zawierają trzony oddzielone od kapeluszy w iłości przekraczającej ilość kapeluszy.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_4/ust_2",
+     "text": "W przypadkach uzasadnionych Główny Inspektor Sanitarny może zezwalać na odstępstwa od przepisu ust. 1 pkt 1.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Wolno wprowadzać do obrotu jedynie takie ekstrakty i koncentraty grzybowe, które zostały sporządzone z gatunków grzybów wymienionych w § 2.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Ekstrakt grzybowy może być wprowadzony do obrotu jedynie w postaci płynnego wodnego wyciągu z grzybów z dodatkiem do 15% soli kuchennej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Koncentrat grzybowy może być wprowadzony do obrotu jedynie w postaci:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_3/pkt_1",
+       "text": "pasty stanowiącej zagęszczony wyciąg z grzybów z dodatkiem do 25%» soli kuchennej albo",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_3/pkt_2",
+       "text": "proszku stanowiącego wysuszony i sproszkowany wyciąg z grzybów. . § 6. Jako oznaki zepsucia lub zanieczyszczenia przyjmuje się w szczególności:",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_5/ust_3/pkt_1",
+       "text": "w stosunku do wszelkich grzybów świeżych 1 konserwowanych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_3/pkt_1/lit_a",
+         "text": "spleśnienie,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_3/pkt_1/lit_b",
+         "text": "nadmierne zaczerwienie,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_5/ust_3/pkt_2",
+       "text": "w stosunku do grzybów świeżych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_3/pkt_2/lit_a",
+         "text": "gorzki smak,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_3/pkt_2/lit_b",
+         "text": "oślizgłość, ona cechą właściwą jeżeli nie jest gatunkowi, :",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_5/ust_3/pkt_3",
+       "text": "w stosunku do grzybów suszonych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_3/pkt_3/lit_a",
+         "text": "obcy zapach,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_3/pkt_3/lit_b",
+         "text": "porażenie rozkruszkami,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_3/pkt_3/lit_c",
+         "text": "nadmierne zawilgocenie lub zanieczyszczenie przypalonymi grzybami bądź piaskiem,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_5/ust_3/pkt_4",
+       "text": "w stosunku do grzybów mrożonych — powtórne zamrożenie po odtajeniu, 3} w stosunku do grzybów apertyzowanych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_3/pkt_4/lit_a",
+         "text": "zanieczyszczenie drobnoustrojami szkodliwymi dla zdrowia, i",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_3/pkt_4/lit_b",
+         "text": "zanieczyszczenie solami metali ciężkich w. ilościach szkodliwych dla zdrowia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_3/pkt_4/lit_c",
+         "text": "gorzki smak,",
+         "children": []
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_5/ust_3/pkt_6",
+       "text": "w stosunku do grzybów solonych, kiszonych i marynowanych:",
+       "children": [
+        {
+         "type": "lit",
+         "num": "a",
+         "path": "par_5/ust_3/pkt_6/lit_a",
+         "text": "maceracja,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "par_5/ust_3/pkt_6/lit_b",
+         "text": "gorzki smak,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "c",
+         "path": "par_5/ust_3/pkt_6/lit_c",
+         "text": "bakteryjne zaśluzowacenie zalewy,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "d",
+         "path": "par_5/ust_3/pkt_6/lit_d",
+         "text": "zanieczyszczenie drobnoustrojami szkodliwymi dla \". zdrowia,",
+         "children": []
+        },
+        {
+         "type": "lit",
+         "num": "e",
+         "path": "par_5/ust_3/pkt_6/lit_e",
+         "text": "zanieczyszczenie mineralne powyżej 0,2%. § 7. Zabrania się obnośnego (domokrążnego) handlu grzybami świeżymi i przetworami grzybowymi. §8. 1. W wytwórniach produkujących przetwory grzybowe surowiec przeznaczony do produkcji powinien być każdorazowo zakwalifikowany przez pracownika obeznanego z gatunkami i jakością grzybów (grzyboznawcę).",
+         "children": []
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Posiadanie umiejętności wymaganych od grzyboznawcy stwierdza wojewódzki inspektor sanitarny (inspektor sanitarny miasta wyłączonego z województwa) właściwy ze względu na położenie wytwórni.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 9 Grzyby świeże i przetwory grzybowe pochodzące z importu mogą być wprowadzane do obrotu jedynie za zgodą Głównego Inspektora Sanitarnego."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: w z. A. Pacha"
+  },
+  {
+   "type": "text",
+   "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Drukarni Akcydensowej w Warszawie, ul Tamka 3"
+  },
+  {
+   "type": "text",
+   "text": "Zam. 10"
+  },
+  {
+   "type": "text",
+   "text": "Cena 1,60 zł"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

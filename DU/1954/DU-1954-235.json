@@ -1,0 +1,91 @@
+{
+ "eli": "DU/1954/235",
+ "title": "Rozporządzenie Rady Ministrów z dnia 11 sierpnia 1954 r. w sprawie utworzenia powiatu staszowskiego w województwie kieleckim.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/235/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 11 sierpnia 1954 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie utworzenia powiatu staszowskiego w województwie kieleckim."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 2 ustawy z dnia 4 lutego i950 r. o dokonywaniu zmian podziału administracyjnego Państwa (Dz. U. Nr 6, poz. 48) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_1/ust_1",
+     "text": "Tworzy się w województwie kieleckim powiat siaszowski z siedzibą powiatowej rady narodowej w Staszowie.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_1/ust_2",
+     "text": "W skład nowoutworzonego powiatu staszowskiego w województwie kieleckim wchodzą:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_1/ust_2/pkt_1",
+       "text": "z powialu sandomierskiego w tymże województwie: aj miasto Staszów, b; gromady: Bogoria, Czajkéw, Mostki, Niedziałki, Piiskowola, Połaniec, Ruszczą, Rytwiany, Sirużki,",
+       "children": [
+        {
+         "type": "text",
+         "text": "Sirzegomek, Matiaszów, Tursko Wielkie, Wiśnio- Wa;"
+        }
+       ]
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_1/ust_2/pkt_2",
+       "text": "z powiatu buskiego w tymże województwie gromady: Koniemłoiy, Kurozwęki, Sielec, Wilkowa i Sichów Duży;",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_1/ust_2/pkt_3",
+       "text": "z powiatu opatowskiego w tymże województwie gromady Przyborowice i Wola Malkowska.",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów. §3. Rozporządzenie wchodzi w życie z dniem odłoszenia z mocą od dnia października 1954 r.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prezes Rady Ministrów. w z. H. Mine"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

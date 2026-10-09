@@ -1,0 +1,68 @@
+{
+ "eli": "DU/1951/397",
+ "title": "Rozporządzenie Ministra Zdrowia z dnia 19 października 1951 r. w sprawie obowiązku zgłaszania przypadków zapalenia wątroby zakaźnego oraz choroby Weila.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1951/397/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA ZDROWIA"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 19 października 1951 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie obowiązku zgłaszania przypadków zapalenia wątroby zakaźnego oraz choroby Weila."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art 3 ustawy z dnia 21 lutego 1935 r. © zapobieganiu chorobom zakaźnym i o ich zwalczaniu (Dz. U. R. P. z 1935 r: Nr 27, poż. 198 i z 1949 r. Nr 25, poz. 174) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Przewidziany w art. 1 ustawy z dnia 21 lutego 1935 r. o zapobieganiu chorobom zakaźnym i o ich zwalczaniu obowiązek zgłaszania zachorowań, śmierci lub podejrzeń co do chorób rozciąga się również na przypadki podejrzeń, zachorowań lub śmierci na:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "zapalenie wątroby zakaźne (hepatitis infectiosa vel morbus Botkini) oraz",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "chorobę .Weila (icterus hemorrhagica).",
+     "children": [
+      {
+       "type": "text",
+       "text": "Rozporządzenie wchodzi w życie z dniem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "ogłoszenia.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Zdrowia: J. Sztachelski"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

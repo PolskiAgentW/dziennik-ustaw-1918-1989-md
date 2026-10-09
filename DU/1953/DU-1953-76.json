@@ -1,0 +1,451 @@
+{
+ "eli": "DU/1953/76",
+ "title": "Rozporządzenie Rady Ministrów z dnia 25 marca 1953 r. w sprawie czynszów za lokale użytkowe i wpłat na Fundusz Gospodarki Mieszkaniowej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1953/76/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 25 marca 1953 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie czynszów za lokale użytkowe i wpłat na Fundusz Gospodarki Mieszkaniowej,"
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 13-b ust. 1 i 3i art. 23 ust. 2 dekretu z dnia 28 lipca 1948 r. o najmie lokali (Dz. U. z 1950 r. Nr 51, poz. 479, z 1951 r. Nr 10, poz. 75 i z 1953 r. Nr 19, poz. 74) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Ilekroć w rozporządzeniu jest mowa o:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_1/pkt_1",
+     "text": "jednostkach uspołecznionych — należy przez to rozumieć:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "par_1/pkt_1/lit_a",
+       "text": "urzędy, banki, zakłady i inne instytucje państwowe, .",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "par_1/pkt_1/lit_b",
+       "text": "instytucje publiczne i stowarzyszenia wyższej użyteczności,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "par_1/pkt_1/lit_c",
+       "text": "przedsiębiorstwa państwowe i pod zarządem państwowym,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "spółdzielczo-państwowe, centrale spół-"
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "par_1/pkt_1/lit_d",
+       "text": "centrale dzielni i spółdzielnie,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "par_1/pkt_1/lit_e",
+       "text": "spółki prawa .cywilnego, w których Państwo, przedsiębiorstwa państwowe albo instytucje publiczne posiadają udział wynoszący ponad 50°/o kapitału zakładowego,",
+       "children": []
+      },
+      {
+       "type": "text",
+       "text": "f). organizacje polityczne, zawodowe, społeczne i kulturalne,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "lokalu bez bliższego określenia — należy przez to rozumieć lokal użytkowy.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Przepisy rozporządzenia stosuje się do lokali bez względu na czas, w którym lokale te zostały zbudowane.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_3/ust_1",
+     "text": "Wysokość stawek czynszowych za lokale określona jest w tabelach stanowiących załączniki do rozporządzenia.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_3/ust_2",
+     "text": "Tabele określają sławki czynszu za 1 m” powierzchni użytkowej na okres jednego miesiąca dla nastepujecych kategorii lokali:",
+     "children": [
+      {
+       "type": "pkt",
+       "num": "1",
+       "path": "par_3/ust_2/pkt_1",
+       "text": "biurowych i bankowych (tatela nr 1),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "2",
+       "path": "par_3/ust_2/pkt_2",
+       "text": "przemysłowych (tabela nr 2),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "par_3/ust_2/pkt_3",
+       "text": "handlowych (tabela nr 3),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "4",
+       "path": "par_3/ust_2/pkt_4",
+       "text": "gastronomicznych i gastronomiczno-rozrywkowych (tabela nr 4),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "5",
+       "path": "par_3/ust_2/pkt_5",
+       "text": "pomieszczeń składowych i garaży (tabela nr 5),",
+       "children": []
+      },
+      {
+       "type": "pkt",
+       "num": "6",
+       "path": "par_3/ust_2/pkt_6",
+       "text": "służących celom kulturalno-oświatowym, służby zdrowia, pomocy społecznej i innym specjalnym (tabela nr 6); tabela ta odnosi się również do lokali widowiskowych (sale teatralne, koncertowe itp.).",
+       "children": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Przez urządzenia techniczne, o których mowa w załączonych do rozporządzenia tabelach, rozumie się:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "par_4/pkt_1",
+     "text": "instalację kanalizacyjną,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_4/pkt_2",
+     "text": "instalację elektryczną lub gazową.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "5",
+   "path": "par_5",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_5/ust_1",
+     "text": "Za lokale użytkowe w rozumieniu rozporządzenia uważa się lokale zajmowane na cele inne niż mieszkalne, chociażby lokale te z zasadniczego swego przeznaczenia były mieszkalne.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_5/ust_2",
+     "text": "Jeżeli część pomieszczeń w jednym lokalu służy celom użytkowym, a część mieszkalnym, czynsz oblicza się dla każdej części według właściwych stawek, Od pomieszczeń przynależnych oblicza się czynsz w zależności od tego, na jakie cele te pomieszczenia są użytkowane.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_5/ust_3",
+     "text": "Jeżeli poszczególne pomieszczenie wykorzystywane jest równocześnie dla celów mieszkalnych i dla celów użytkowych, należy stosować stawki czynszu odpowiadające zasadniczemu przeznaczeniu pomieszczenia, a więc dla izby mieszkalnej — stawkę przewidzianą dekrecie o najmie lokali dla izby niemieszkalnej, np. sklepu — stawkę wynikającą z rozporządzenia.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "6",
+   "path": "par_6",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_6/ust_1",
+     "text": "Przez powierzchnię użytkową lokalu rozumie się ogólną powierzchnię wszystkich pomieszczeń znajdujących się w nim oraz pomieszczeń przynależnych, jak kuchnie, przedpokoje, korytarze, łazienki, klozety, spiżarnie, alkowy, piwnice, zamknięte pomieszczenia składowe, garaże, komórki itp.,-z wyjątkiem strychów, antresol, balkonów, pawlaczów, szaf i schowków w Ścianach itp.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Jeżeli przedmiotem najmu jest cały budynek, to za podstawę do obliczania czynszu przyjmuje się jego pełną powierzchnię użytkową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Do powierzchni użytkowej w rozumieniu ust. 1 i2 nie wlicza się powierzchni przekroju poziomego muru.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Wielkość powierzchni przyjmuje się zgodnie z pomiarami dokonanymi w myśl przepisów dekretu o najmie lokali. fe",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 7 1. Oszaliczeniu lokalu do jednej z kategorii wymienionych w § 3 decyduje rzeczywisty sposób użytkowania lokalu, a nie podmiotowy charakter najemcy, np. lokal użytkowany przez instytucję oświatową na cele"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "biurowe lub przemysłowe zalicza się do lokali biurowych bądź przemysłowych, a nie do lokali służących celom oświatowym."
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_6/ust_2",
+     "text": "Czynsz za lokal nie dający się bezpośrednio zaliczyć do jednej z kategorii wymienionych w § 3 ust. 2 określa się przez zaliczenie go do tej kategorii, do której ze wzgiędu na sposób użytkowania jest najbardziej zbliżony.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_6/ust_3",
+     "text": "Za lokal użytkowy, posiadający dodatkowe urządzenia techniczne niezależnie od urządzeń wymienionych w tabelach, czynsz oblicza się według właściwej stawki określonej w tabeli. Za korzystanie-z urządzeń dodatkowych wynajmujący może pobierać osobne opłaty według umowy.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "4",
+     "path": "par_6/ust_4",
+     "text": "Za wykonane przez najemcę w lokalu lub budynku urządzenia specjalne nie służy najemcy prawo do żadnych potrąceń z czynszu.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "8",
+   "path": "par_8",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_8/ust_1",
+     "text": "Czynsz za lokal obejmujący pomieszczenia służące różnym celom (np. biurowym i handlowym) oblicza się według stawek właściwych dla każdego z tych pomieszczeń, Jeżeli jednak z ogólnej powierzchni użytkowej lokalu przypada na jeden z kilku celów, którym lokal służy, nie mniej niż 85% tej powierzchni, czynsz za cały lokal oblicza się według stawki właściwej ze względu na ten cel.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_8/ust_2",
+     "text": "Jeżeli lokal, o którym mowa w ust, 1, zawiera wspólne pomieszczenia przynależne (korytarze, przedpokoje itp.) — powierzchnię tych pomieszczeń, w celu zastosowania do nich właściwych stawek czynszu, dzieli się proporcjonalnie do powierzchni pomieszczenia służącej celom wymienionym w ust. 1,",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_8/ust_3",
+     "text": "Czynsz za pomieszczenia mające charakter pomocniczy w stosunku do właściwego przeznaczenia lokalu użytkowego (np. pomieszczenie składowe bezpośrednio połączone ze sklepem, zakładem gastronomicznym, apteką itp.) oblicza się według tych stawek, jakie maja zastosowanie dla właściwego lokalu użytkowego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "9",
+   "path": "par_9",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_9/ust_1",
+     "text": "Określone w tabelach stawki czynszu obowiązują w stosunku do lokali, których wysokość pokrywa się z wymiarami jednej kond gnacji budynku, którego lokale te stanowią część składową.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_9/ust_2",
+     "text": "Dla obliczenia czynszu za lokal lub jego część, którego wysokość pokrywa się z wymiarami dwu lub więcej kondygnacji budynku, którego lokal ten stanowi część składową, przyjmuje się jako podstawę obliczenia taką ilość metrów kwadratowych, jaka wypada z pomnożenia powierzchni tego lokalu przez ilość kondygnacji. Pełne stawki przyjmuje się jednakże tylko w stosunku do powierzchni pierwszej kondygnacji. W stosunku do powierzchni, jaka przypada na wszystkie dalsze kondyouacle, przyjmuje się stawki czynszu zmniejszone o 70/0.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_9/ust_3",
+     "text": "Jeżeli lokal zajmuje więcej niż jedną kondygnację budynku, którego stanowi część składową, ale nie pokrywa się ściśle z wymiarami kondygnacji — przyjmuje się 4 metry w pionie jako wysokość odpowiadającą jednej kondygnacji; stawki czynszu za resztę przestrzeni, której wysokość jest mniejsza niż 4 metry, zmniejsza się proporcjonalnie,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "10",
+   "path": "par_10",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_10/ust_1",
+     "text": "Czynsz za lokale w suterenach lub na poddaszu, jeżeli nie są one przeznaczone na pomieszczenia składowe, obniża- się o 20%.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_10/ust_2",
+     "text": "Czynsz za piwnice, stanowiące przynależność lokalu, jeżeli nie są używane na pomieszczenia składowe, obniża się o 50°/o.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "11",
+   "path": "par_11",
+   "text": "Opłatę za wodę z publicznych urządzeń wodociągowych pobiera się według rzeczywistego zużycia na podstawie wskazań wodomierza, w braku zaś odrębnego wodomierza, gdy wysokość opłaty nie została określona umową stron, wysokość tę ustala wynajmujący przy udziale komitetu blokowego lub domowego.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "12",
+   "path": "par_12",
+   "text": "Jeżeli przedmiotem nejmu na cele użytkowe jest cały budynek, a najemcą lub najemcami są jednostki uspołecznione, czynsz obniża się o 50°/o, o ile najemcy w drodze umowy zobowiążą się do wykonywania kapitalnych remontów.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "13",
+   "path": "par_13",
+   "text": "Jednostki uspołecznione zwolnione są od uiszczenia wpłat na Fundusz Gospodarki Mieszkaniowej od najmu lokali użytkowych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "14",
+   "path": "par_14",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_14/ust_1",
+     "text": "Jeżeli wynajmującym lokal jest osoba fizyczna lub osoba prawna nie będąca jednostką uspołecznioną, wpłaca ona 50% pobranego czynszu na rzecz Funduszu Gospodarki Mieszkaniowej.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_14/ust_2",
+     "text": "Przepisów ust. 1 nie stosuje się do przypadków, o których mowa w § 12. *",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "Jeżeli najemcą lokalu jest osoba fizyczna lub osoba prawna, nie będąca jednostką uspołecznioną, 0°))- wiązana jest ona uiszczać wpłatę przewidzianą w załączniku nr 7 do rozporządzenia. Na wynaimuiacym ciąży obowiązek odprowadzania tej wpłaty na Fundusz Gospodarki Mieszkaniowej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "16",
+   "path": "par_16",
+   "text": "W sprawach związanych z ustałaniem czynszów za lokale i ustalaniem wpłat na Fundusz Gospodarki Mieszkaniowej właściwe są organy czynszowe powołane na podstawie przepisów dekretu o najmie lokali.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "17",
+   "path": "par_17",
+   "text": "zynsz w wysokości wynikającej z przepisów rozporządzenia obowiązuje również w już istniejących stosunkach naimu. Odnosi się to jednak tylko do czynszu należnego za czas od dnia wejścia w życie 10Z- porządzenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "18",
+   "path": "par_18",
+   "text": "Wykonanie rozporządzenia porucza się Ministrowi Gospodarki Komunalnej i innym zainteresowanym ministrom.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "19",
+   "path": "par_19",
+   "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia z mocą od dnia 1 marca 1953 r.",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Prezes Rady Ministrów: B. Bierut"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

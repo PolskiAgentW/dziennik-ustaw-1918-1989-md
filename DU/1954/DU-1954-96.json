@@ -1,0 +1,110 @@
+{
+ "eli": "DU/1954/96",
+ "title": "Dekret z dnia 2 czerwca 1954 r. o zniesieniu Centralnego Urzędu Gospodarki Materiałowej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/96/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "DEKRET"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 2 czerwca 1954 r,"
+  },
+  {
+   "type": "text",
+   "text": "o zniesieniu Centralnego Urzędu Gospodarki Materiałowej."
+  },
+  {
+   "type": "art",
+   "num": "1",
+   "path": "art_1",
+   "text": "Znosi się Centralny Urząd Gospodarki Materiałowej.",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "2",
+   "path": "art_2",
+   "text": "Sprawy:",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "art_2/pkt_1",
+     "text": "ustalania zasad właściwego stosowania i wykorzystania surowców i innych materiałów, paliwa, narzędzi i artykułów technicznych, zwanych w dalszym ciągu materiałami,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "art_2/pkt_2",
+     "text": "normowania zużycia i zapasów materiałów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "art_2/pkt_3",
+     "text": "organizacji obrotu materiałami przechodzą do zakresu działania Państwowej Komisji Planowania Gospodarczego,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "3",
+   "path": "art_3",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "art_3/ust_1",
+     "text": "Działająca przy Prezesie Centralnego Urzędu Gospodarki Materiałowej Komisja Norm Zużycia i Zapasów działać będzie przy Przewodniczącym Państwowej Komisji Planowania Gospodarczego.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "art_3/ust_2",
+     "text": "Przewodniczący Państwowej Komisji Planowania Gospodarczego określa skład, organizację i zakres działania Komisji Norm Zużycia i Zapasów,",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "art",
+   "num": "4",
+   "path": "art_4",
+   "text": "Pracownicy Centralnego Urzędu Gospodarki Materiałowej przechodzą do pracy w Państwowej Koinisji Planowania Gospodarczego,",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "5",
+   "path": "art_5",
+   "text": "Traci moc dekret z dnia 24 kwietnia 1952 r. o Centralnym Urzędzie Gospodarki Materiałowej (Dz. U. Nr 22, poz. 143).",
+   "children": []
+  },
+  {
+   "type": "art",
+   "num": "6",
+   "path": "art_6",
+   "text": "Dekret wchodzi w życie z dniem ogłoszeńia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Przewodniczący Rady Państwa: A. Zawadzki Sekretarz Rady Państwa: M. Rybicki"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

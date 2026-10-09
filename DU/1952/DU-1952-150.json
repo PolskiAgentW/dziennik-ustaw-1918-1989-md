@@ -1,0 +1,82 @@
+{
+ "eli": "DU/1952/150",
+ "title": "Rozporządzenie Rady Ministrów z dnia 26 kwietnia 1952 r. w sprawie wprowadzenia publicznej gospodarki lokalami w niektórych miejscowościach województw: bydgoskiego, kieleckiego, koszalińskiego, łódzkiego i szczecińskiego.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1952/150/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE RADY MINISTRÓW"
+  },
+  {
+   "type": "text",
+   "text": "z dnia 26 kwietnia 1952 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie wprowadzenia publicznej gospodarki lokalami w niektórych miejscowościach województw: bydgoskiego, kieleckiego, koszalińskiego, łódzkiego i szczecińskiego."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art, 2 ust. 2 dekretu z dnia 21 grudnia 1945 r. o publicznej gospodarce lokalami (Dz. U. R.P. z 1950 r. Nr 36. poz. 343) zarządza się, co następuje:"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Wprowadza się publiczną gospodarkę lokalami w całości: |1) w województwie bydgoskim w mieście Ciechocinek,",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_1/pkt_2",
+     "text": "w województwie kieleckim w miastach: Busko- Zdrój Końskie i Pińczów,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_1/pkt_3",
+     "text": "w województwie koszalińskim w miastach: Darłowo, Drawsko, Kołobrzeg, Szczecinek, Ustka i Wałcz,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_1/pkt_4",
+     "text": "w województwie łódzkim w mieście Skierniewice,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_1/pkt_5",
+     "text": "w województwie szczecińskim w mieście Międzyzdroje.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów i Ministrowi Gospodarki Komunalnej.",
+   "children": [
+    {
+     "type": "text",
+     "text": "* § 3. Rozporządzenie wchodzi w życie z dniem ogłoszenia."
+    },
+    {
+     "type": "text",
+     "text": "Piezes Rady Ministrów: J. Cyrankiewicz"
+    }
+   ]
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}

@@ -1,0 +1,328 @@
+{
+ "eli": "DU/1956/90",
+ "title": "Rozporządzenie Ministra Leśnictwa z dnia 15 maja 1956 r. w sprawie czasów ochronnych dla zwierzyny łownej.",
+ "converter": "eli2md 0.6.49",
+ "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1956/90/text.pdf",
+ "body": [
+  {
+   "type": "note",
+   "text": "[Strona 1 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "ROZPORZĄDZENIE MINISTRA LEŚNICTWA"
+  },
+  {
+   "type": "text",
+   "text": "no z dnia 15 maja 1956 r."
+  },
+  {
+   "type": "text",
+   "text": "w sprawie czasów ochronnych dła zwierzyny łownej."
+  },
+  {
+   "type": "text",
+   "text": "Na podstawie art. 20 dekretu z dnia 29 października 1952 r. o prawie łowieckim (Dz. U. z 1952 r. Nr 44, poz. 300 i z 1955 r. Nr 18, poz. 108) zarządza się, co następuje: i 1. Czas ochronny dia zwierzyny łownej ustala się tak, że obejmuje on:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "dla jeleni-byków, łań i cieląt gatunku jeleń-sika (Cervus nippon) — cały rok;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "dla jeleni gatunku jeleń-europejski (Cervus elaphus):",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_2/lit_a",
+     "text": "dla jeleni-byków w województwach: bydgoskim, koszalińskim, opolskim, olsztyńskim i poznańskim — okres od 11 lutego do 31 sierpnia, w pozostałych województwach — cały rok,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_2/lit_b",
+     "text": "dla jeleni-łań i cieląt — cały rok,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_2/lit_c",
+     "text": "przy odstrzale hodowlanym: jeleni-byków okres od 11 lutego do 31 sierpnia, jeleni-lań i cieląt okres od 11 lutego do 31 lipca;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "a) dla danieli-byków, łań i cieląt — cały rok,",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "przy odstrzale hodowlanym: danieli-byków, łań i cieląt — okres od 11 lutego do 30 października;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "a) dla sarn-kozłów — okres od 21 października do 31 lipca, dla sarn-kóz i koźląt — cały rok,",
+   "children": [
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_4/lit_b",
+     "text": "przy odstrzale hodowlanym: sarn-kozłów — okres od 21 października do 20 maja, sarn-kóz i koźląt — okres od 11 lutego do 30 września;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "5",
+   "path": "pkt_5",
+   "text": "dla muflonów — cały rok;",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "dla zajęcy-szaraków — okres od 1 stycznia do 31 października; i",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "7",
+   "path": "pkt_7",
+   "text": "dla zajęcy-bielaków — cały rok;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "8",
+   "path": "pkt_8",
+   "text": "dla wiewiórek — okres od 11 lutego do 30 listopada;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "9",
+   "path": "pkt_9",
+   "text": "dla dzików:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_9/lit_a",
+     "text": "na gruntach rolnych włączonych do obwodów łowieckich — okres od 11 lutego do 30 czerwca, ~",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_9/lit_b",
+     "text": "na gruntach rolnych włączonych do obwodów łowieckich, a szczególnie zagrożonych szkodami łowieckimi — okres od 11 lutego do 30 maja, z tym że dla odyńców na tychże gruntach — okres od 11 lutego do 14 maja,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "pkt_9/lit_c",
+     "text": "na pozostałych terenach obwodów łowieckich — okres od 11 lutego do 31 lipca;",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "10",
+   "path": "pkt_10",
+   "text": "dla lisów: w powiecie pfłdnickim województwa opolskiego, w powiecie kępińskim województwa poznańskiego, w powiatach: brzeskim, grodkowskim, głubczyckim, namysłowskim i niemodlińskim województwa wrocławskiego oraz w powiecie głogowskim województwa zielonogórskiego — cały rok, na terenach zaliczonych zarządzeniem Ministra Leśnictwa wydanym na podstawie art. 1 ust. 5 dekretu o prawie łowieckim do zwierzyńców otwartych przeznaczonych do hodowli bażantów oraz w ośrodkach hodowłanych przeznaczonych wyłącznie do odłowu drobnej zwierzyny — okres od 1 marca do 30 kwietnia, na pozostałych terenach — okres od 11 lutego do 31 października;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "11",
+   "path": "pkt_11",
+   "text": "dla rysi — okres od 11 lutego do 31 października;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "12",
+   "path": "pkt_12",
+   "text": "dla borsuków — okres od 1 stycznia do 31 sierpnia, z tym że na terenach zaliczonych zarządzeniem Ministra LeŚnictwa wydanym na podstawie art. 1 ust. 5 dekretu o prawie łowieckim do zwierzyńców otwartych przeznaczonych do hodowli bażantów oraz w ośrodkach hodowlanych przeznaczonych wyłącznie do odłowu zwierzyny drobnej — okres od 1 stycznia do 30 kwietnia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "13",
+   "path": "pkt_13",
+   "text": "dla wydr — cały rok; : ‘",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "14",
+   "path": "pkt_14",
+   "text": "dla kun leśnych (tumaków) — okres od 11 lutego do 30 września; ;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "15",
+   "path": "pkt_15",
+   "text": "dla szopów — cały rok;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "16",
+   "path": "pkt_16",
+   "text": "dla dropi — cały rok;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "17",
+   "path": "pkt_17",
+   "text": "dla głuszców-kogutów — okres od 11 maja do 31 marca, głuszców-kur — cały rok; 18)\\dla cietrzewi-kogutów — okres od 21 maja do 31 marca, cietrzewi-kur — cały rok;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "19",
+   "path": "pkt_19",
+   "text": "dla jarząbków — okres od 11 stycznia do 31 października;",
+   "children": [
+    {
+     "type": "text",
+     "text": "- Poz. 90 i 91"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "20",
+   "path": "pkt_20",
+   "text": "dla bażantów-kogutów — okres od 11 stycznia do 31 października, ; bażantów-kur — cały rok;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "21",
+   "path": "pkt_21",
+   "text": "dla kuropatw — okres od 2i listopada do 20 września;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "22",
+   "path": "pkt_22",
+   "text": "dla przepiórek — okres od 11 października do 20 września;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "23",
+   "path": "pkt_23",
+   "text": "dla dubeliów, bekasów i bekasików — okres od przyłotu do 31 lipca; :",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "24",
+   "path": "pkt_24",
+   "text": "dla derkaczy — cały rok;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "25",
+   "path": "pkt_25",
+   "text": "dia dzikich gęsi — okres od 15 kwietnia do 31 lipca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "26",
+   "path": "pkt_26",
+   "text": "dla dzikich kaczek — okres od 1 stycznia do 31 lipca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "27",
+   "path": "pkt_27",
+   "text": "dia łysek -—— okres od 1 stycznia do 31 lipca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "28",
+   "path": "pkt_28",
+   "text": "dla słonek — okres od 11 maja do 31 lipca;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "29",
+   "path": "pkt_29",
+   "text": "dla batalionów — okres od 21 maja do 10 maja;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "30",
+   "path": "pkt_30",
+   "text": "dla grzywaczy i turkawek — okres od 1 października do 10 sierpnia;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "31",
+   "path": "pkt_31",
+   "text": "dla kwiczołów i paszkotów — okres od 1 marca do 31 października.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Grunty rolne określone w § 1 pkt 9 lit. b), wchodzące w skład obwodów łowieckich, w których wysoki stan dzików, nie usprawiedliwiony względami ochrony lasu, zagraża poważnymi szkodami w plonach rolnych, ustalają prezydia wojewódzkich rad narodowych w porozumieniu z okręgami lasów państwowych i wojewódzkimi radami łowieckimi. § 3. Na terenach zagrożonych inwazją szkodliwych dla lasu owadów prezydia wojewódzkich rad narodowych rnogą, na wniosek okręgu lasów państwowych, wstrzymać na określony czas polowanie na dziki.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Minister Leśnictwa może zezwolić na odstrzał zwierząt wymienionych w § 1 albo na łowienie ich środkami nie © raniącymi w każdym czasie ze względów hodowlanych lub naukowych. §5. Jeżeli koniec,okresu, w którym wolno polować, przypada na dzień poprzedzający dzień lub dnie ustawowo uznane za wolne od pracy, okres ten upływa z ostatnim dniem użnanym za wolny od pracy. Jeżeli zaś początek okresu, w którym wolno polować, przypada na dzień następny po dniu lub dniach ustawowo uznanych za wolne od pracy, okres ten rozpoczyna sią pierwszego dnia ustawowo uznanego za wolny od pracy przed ustalonym terminem rozpoczęcia polowania. §6. Traci moc rozporządzenie Ministra Leśnictwa z dnia 20 lipca 1955 r. w sprawie czasów ochronnych dla zwierząt łownych (Dz. U. Nr 29, poz. 181 i Nr 42, poz. 270). §7. Rozporządzenie wchodzi w życie z dniem ogłoszenia,",
+   "children": []
+  },
+  {
+   "type": "signature",
+   "text": "Minister Leśnictwa: J. Dąb-Kocioł"
+  }
+ ],
+ "annexes": [],
+ "footnotes": {}
+}
