@@ -889,16 +889,12 @@
    "num": "77",
    "path": "art_77",
    "text": "Przepisy oddziału niniejszego nie uchybiają przepisom o obowiązku naprawienia szkody ani przepisom o niesłusznym z bogaceniu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "DZIAŁ IIIT."
-    },
-    {
-     "type": "text",
-     "text": "Współwłasność."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ IIIT",
+   "text": "Współwłasność."
   },
   {
    "type": "art",

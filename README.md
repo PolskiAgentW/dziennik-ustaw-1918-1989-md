@@ -191,6 +191,17 @@ Wersje konwertera: eli2md 0.6.49 (28728).
 
 Błędy konwersji zgłaszaj w Issues. Najlepiej podaj pozycję aktu i fragment.
 
+## Zmiana 2026-10-10
+
+Drzewo JSON (kod drzewa eli2md 0.6.50, 73 akty; opis w README eli2md, wpis 0.6.50): nagłówki z liczebnikiem słownym
+(„DZIAŁ PIĄTY”, „CZĘŚĆ PIERWSZA”), z numerem rzymskim z wielką literą („DZIAŁ IVA”) albo z odnośnikiem po numerze
+(„Rozdział 5a[^28]”) są w `.json` węzłami `heading`. Wcześniej trafiały jako tekst do artykułu, paragrafu albo punktu
+przed nimi. Nowych nagłówków: 117, żaden nie zniknął. `.md` się nie zmienił, więc pole `converter` (w `.md`, `.json` i
+`index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek bez zmian, słowa w drzewach: zgubione 0.
+Pozostałe akty bez zmian (porównanie drzew wszystkich aktów zbioru). W 18 skanach z lat 1918–1945 zmieniły się ścieżki
+kilku jednostek: paragraf albo ustęp tuż po nowym nagłówku, przed którym OCR nie odczytał numeru artykułu, nie jest
+już częścią artykułu sprzed nagłówka (DU/1932/725: `art_260/par_1` → `par_1`).
+
 ## Licencja
 
 Akty normatywne i ich urzędowe projekty oraz urzędowe dokumenty i materiały nie są przedmiotem prawa

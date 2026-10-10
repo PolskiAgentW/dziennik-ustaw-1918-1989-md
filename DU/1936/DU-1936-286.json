@@ -206,48 +206,44 @@
        "num": "b",
        "path": "art_4/par_3/lit_b",
        "text": "Sztab Główny z Szełem Sztabu Głównego na czele,",
-       "children": [
-        {
-         "type": "text",
-         "text": "Dział IU."
-        },
-        {
-         "type": "text",
-         "text": "Art. 6, § 1. Minister Spraw Wojskowych:"
-        }
-       ]
-      },
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_4/par_3/lit_a",
-       "text": "dowodzi bezpośrednio i dysponuje w czasie pokoju Siłami Zbrojnemi;",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "art_4/par_3/lit_b",
-       "text": "przygotowuje je do zadań wojennych;",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "c",
-       "path": "art_4/par_3/lit_c",
-       "text": "kieruje ich administracją i sprawami personalnemi;",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "d",
-       "path": "art_4/par_3/lit_d",
-       "text": "reprezentuje w Rządzie sprawy obrony Państwa oraz wedle dyrektyw Generalnego Inspektora Sił Zbrojnych referuje jego wnioski, § 2. Pozatem należą do Ministra Spraw Wojskowych wszelkie prawa i obowiązki, wynikające z jego roli jako członka Rządu.",
        "children": []
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział IU",
+   "text": "Art. 6, § 1. Minister Spraw Wojskowych:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "dowodzi bezpośrednio i dysponuje w czasie pokoju Siłami Zbrojnemi;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "przygotowuje je do zadań wojennych;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "kieruje ich administracją i sprawami personalnemi;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "d",
+   "path": "lit_d",
+   "text": "reprezentuje w Rządzie sprawy obrony Państwa oraz wedle dyrektyw Generalnego Inspektora Sił Zbrojnych referuje jego wnioski, § 2. Pozatem należą do Ministra Spraw Wojskowych wszelkie prawa i obowiązki, wynikające z jego roli jako członka Rządu.",
+   "children": []
   },
   {
    "type": "art",

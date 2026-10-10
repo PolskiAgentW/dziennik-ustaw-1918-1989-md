@@ -60,16 +60,13 @@
     {
      "type": "text",
      "text": "- o monopolu spirytusowym."
-    },
-    {
-     "type": "text",
-     "text": "CZĘŚĆ PIERWSZA."
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia ogólne."
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ PIERWSZA",
+   "text": "Postanowienia ogólne."
   },
   {
    "type": "art",
@@ -615,20 +612,17 @@
     {
      "type": "text",
      "text": "llóść spirytusu, otrzymana na mocy póstanowień punktu 2 poprzedniego ustępu, winna być przerobiona na taki produkt, jaki został wyeksportowany (względnie złożony do wolnych składów eksportowychy i puszczony w obieg na zużycie w kraju w myśl obowiązujących przepisów, o ile. Minister Skarbu w -poszczególnych wypadkach nie zezwoli na przeróbkę spirytusu na inne cele,"
-    },
-    {
-     "type": "text",
-     "text": "CZĘŚĆ DRUGA."
-    },
-    {
-     "type": "text",
-     "text": "Gorzelnie, regulowanie produkcji i przerobu spirytusu."
-    },
-    {
-     "type": "text",
-     "text": "IL O gorzelniach."
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ DRUGA",
+   "text": "Gorzelnie, regulowanie produkcji i przerobu spirytusu."
+  },
+  {
+   "type": "text",
+   "text": "IL O gorzelniach."
   },
   {
    "type": "art",
@@ -1226,34 +1220,31 @@
     {
      "type": "text",
      "text": "Art, 84. Minister Skarbu w porozumieniu z Ministrem Spraw Wewnętrznych wyda przepisy o urzą: dżeniu' zakładów sprzedaży i wyszynku napojów alkoholowych i stosowaniu w tych zakładach wymogów zdrowotności i porządku."
-    },
-    {
-     "type": "text",
-     "text": "CZĘŚĆ TRZECIA."
-    },
-    {
-     "type": "text",
-     "text": "Nadzór skarbowy."
-    },
-    {
-     "type": "text",
-     "text": "+. „Art. 85. Nadzorowi skarbowemu podlegają zakłady, które: „ 1) wyrabiają maszyny, ‘erevveay lub naczynia, \" służące do pędzenia spirytusu; _ 2) spirytus lub przetwory z niego wyrabiają, . ° magazynują, sprzedają ii transportują; _*/3) wyrabiają drożdże w drodze fermentacji alko- _* holu lub inne artykuły bez równoczesnej pro- ._ dukcji spirytusu;"
-    },
-    {
-     "type": "pkt",
-     "num": "4",
-     "path": "art_83/pkt_4",
-     "text": "bez używania spirytusu wyrabiają, przerabiają i lub sprzedają takie artykuły, z których bez +- =: „fermentacji otrzymać mozna spirytus; \"_5) wyrabiają drożdże prasowane;",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "6",
-     "path": "art_83/pkt_6",
-     "text": "wyrabiają ocet ze spirytusu. . Pozatem obowiązane są poddać się nadzorowi skarbowemu te zakłady, które otrzymują do dalszego przerobu spirytus nieskażony lub częściowo skażony po cenach niższych od ustanowionych dla spirytusu do picia. Wymienione pod pozycją 1 do 6 zakłady winny posiadać przed uruchomieniem przedsiębiorstwa zezwolenie władz skarbowych (patenty) na prowadzenie, zakładu.",
-     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ TRZECIA",
+   "text": "Nadzór skarbowy."
+  },
+  {
+   "type": "text",
+   "text": "+. „Art. 85. Nadzorowi skarbowemu podlegają zakłady, które: „ 1) wyrabiają maszyny, ‘erevveay lub naczynia, \" służące do pędzenia spirytusu; _ 2) spirytus lub przetwory z niego wyrabiają, . ° magazynują, sprzedają ii transportują; _*/3) wyrabiają drożdże w drodze fermentacji alko- _* holu lub inne artykuły bez równoczesnej pro- ._ dukcji spirytusu;"
+  },
+  {
+   "type": "pkt",
+   "num": "4",
+   "path": "pkt_4",
+   "text": "bez używania spirytusu wyrabiają, przerabiają i lub sprzedają takie artykuły, z których bez +- =: „fermentacji otrzymać mozna spirytus; \"_5) wyrabiają drożdże prasowane;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "6",
+   "path": "pkt_6",
+   "text": "wyrabiają ocet ze spirytusu. . Pozatem obowiązane są poddać się nadzorowi skarbowemu te zakłady, które otrzymują do dalszego przerobu spirytus nieskażony lub częściowo skażony po cenach niższych od ustanowionych dla spirytusu do picia. Wymienione pod pozycją 1 do 6 zakłady winny posiadać przed uruchomieniem przedsiębiorstwa zezwolenie władz skarbowych (patenty) na prowadzenie, zakładu.",
+   "children": []
   },
   {
    "type": "art",

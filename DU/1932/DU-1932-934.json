@@ -137,16 +137,12 @@
    "num": "8",
    "path": "art_8",
    "text": "Sprawy cywilne mogą być rozslrzygane lakże przez sądy polubowne na zasadach, określonych w. niniejszym kodeksie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "KSIĘGA PIERWSZA."
-    },
-    {
-     "type": "text",
-     "text": "Sąd."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "KSIĘGA PIERWSZA",
+   "text": "Sąd."
   },
   {
    "type": "heading",
@@ -1037,16 +1033,12 @@
    "num": "62",
    "path": "art_62",
    "text": "Przepisy niniejszego działu stosuje się odpowiednio do wyłączenia prokuratora oraz innych organów sądowych. Wniosek o wyłączenie sąd przekazuje ich władzy przełożonej. Od wydanych zarządzeń niema środka odwoławczego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "KSIĘGA DRUGA."
-    },
-    {
-     "type": "text",
-     "text": "Proces."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "KSIĘGA DRUGA",
+   "text": "Proces."
   },
   {
    "type": "heading",

@@ -4263,48 +4263,45 @@
     {
      "type": "note",
      "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Rozdział IU."
-    },
-    {
-     "type": "text",
-     "text": "Śledztwo."
-    },
-    {
-     "type": "text",
-     "text": "Art. 261,"
-    },
-    {
-     "type": "par",
-     "num": "1",
-     "path": "art_260/par_1",
-     "text": "Śledztwo prowadzi bądź sędzia śledczy, któremu dana sprawa przypadnie w drodze przyjętego w sądzie okręgowym podziału czynności, bądź, na wniosek prokuratora, sędzia, którego prezes sądu okręgowego wyznaczy dla danej sprawy.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "art_260/par_2",
-     "text": "Prowadzenie śledztwa poza siedzibą sądu okręgowego prezes sądu okręgowego może na wniosek prokuratora zlecić sądowi grodzkiemu.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "3",
-     "path": "art_260/par_3",
-     "text": "Sąd apelacyjny może na wniosek prokuratora apelacyjnego zlecić prowadzenie śledztwa sędziemu śledczemu de spraw wyjątkowego znaczenia.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "4",
-     "path": "art_260/par_4",
-     "text": "Sąd Najwyższy na wniosek Naczelnego Prokuratora może do przeprowadzenia danej sprawy wyznaczyć jednego z pośród sędziów śledczych do spraw wyjątkowego znaczenia, czynnych w sądach apelacyjnych.",
-     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IU",
+   "text": "Śledztwo."
+  },
+  {
+   "type": "text",
+   "text": "Art. 261,"
+  },
+  {
+   "type": "par",
+   "num": "1",
+   "path": "par_1",
+   "text": "Śledztwo prowadzi bądź sędzia śledczy, któremu dana sprawa przypadnie w drodze przyjętego w sądzie okręgowym podziału czynności, bądź, na wniosek prokuratora, sędzia, którego prezes sądu okręgowego wyznaczy dla danej sprawy.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Prowadzenie śledztwa poza siedzibą sądu okręgowego prezes sądu okręgowego może na wniosek prokuratora zlecić sądowi grodzkiemu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Sąd apelacyjny może na wniosek prokuratora apelacyjnego zlecić prowadzenie śledztwa sędziemu śledczemu de spraw wyjątkowego znaczenia.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Sąd Najwyższy na wniosek Naczelnego Prokuratora może do przeprowadzenia danej sprawy wyznaczyć jednego z pośród sędziów śledczych do spraw wyjątkowego znaczenia, czynnych w sądach apelacyjnych.",
+   "children": []
   },
   {
    "type": "art",

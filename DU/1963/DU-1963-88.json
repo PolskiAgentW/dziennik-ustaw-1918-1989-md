@@ -65,11 +65,8 @@
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "CZĘŚĆ PIERWSZA"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "CZĘŚĆ PIERWSZA",
    "text": "POSTANOWIENIA OGÓLNE"
   },
   {

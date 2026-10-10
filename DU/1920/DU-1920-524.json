@@ -78,19 +78,20 @@
     {
      "type": "text",
      "text": "O"
-    },
-    {
-     "type": "text",
-     "text": "CZĘŚĆ PIERWSZA. Podatek spadkowy."
-    },
-    {
-     "type": "ust",
-     "num": "3",
-     "path": "par_3/ust_3",
-     "text": "Przedmiot podatku. (art. 1 Przep. o op. sp.)",
-     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ PIERWSZA",
+   "text": "Podatek spadkowy."
+  },
+  {
+   "type": "ust",
+   "num": "3",
+   "path": "ust_3",
+   "text": "Przedmiot podatku. (art. 1 Przep. o op. sp.)",
+   "children": []
   },
   {
    "type": "par",
@@ -1218,19 +1219,20 @@
     {
      "type": "note",
      "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "CZĘŚĆ DRUGA. Podatek od darowizn"
-    },
-    {
-     "type": "ust",
-     "num": "15",
-     "path": "par_80/ust_15",
-     "text": "Przedmiot (art. 1 i 2 Przep. o op. sp.).",
-     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ DRUGA",
+   "text": "Podatek od darowizn"
+  },
+  {
+   "type": "ust",
+   "num": "15",
+   "path": "ust_15",
+   "text": "Przedmiot (art. 1 i 2 Przep. o op. sp.).",
+   "children": []
   },
   {
    "type": "par",

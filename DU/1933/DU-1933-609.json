@@ -25,11 +25,8 @@
    "text": "Na podstawie art. 44 ust. 6 Konstytucji i ustawy z dnia 25 marca 1933 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 29, poz. 249) postanawiam co następuje:"
   },
   {
-   "type": "text",
-   "text": "CZĘŚĆ PIERWSZA."
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "CZĘŚĆ PIERWSZA",
    "text": "USTRÓJ NOTARJATU."
   },
   {
@@ -2479,16 +2476,12 @@
    "num": "122",
    "path": "art_122",
    "text": "Wzory ksiąg notarjusza ustali Minister Sprawiedliwości.",
-   "children": [
-    {
-     "type": "text",
-     "text": "CZĘŚĆ TRZECIA."
-    },
-    {
-     "type": "text",
-     "text": "PRZEPISY WPROWADZAJĄCE."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ TRZECIA",
+   "text": "PRZEPISY WPROWADZAJĄCE."
   },
   {
    "type": "heading",

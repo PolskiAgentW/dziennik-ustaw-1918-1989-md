@@ -1754,18 +1754,14 @@
        "num": "3",
        "path": "art_124/ust_3",
        "text": "Wniesienie odwołania. od zarządzeń, wydanych na podstawie ust. 1 lub 2, nie wstrzymuje ich wykonania.",
-       "children": [
-        {
-         "type": "text",
-         "text": "DZIAŁ VM"
-        },
-        {
-         "type": "text",
-         "text": "Państwowa Rada Górnictwa."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "DZIAŁ VM",
+     "text": "Państwowa Rada Górnictwa."
     },
     {
      "type": "art",

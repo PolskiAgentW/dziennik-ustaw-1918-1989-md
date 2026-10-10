@@ -81,11 +81,8 @@
    "text": "RAA\" yk» Dziennik Ustaw Nr 27"
   },
   {
-   "type": "text",
-   "text": "CZĘŚĆ PIERWSZA"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "CZĘŚĆ PIERWSZA",
    "text": "POSTANOWIENIA OGÓLNE"
   },
   {
@@ -3746,17 +3743,14 @@
     {
      "type": "text",
      "text": "Na bezpośrednie zapytania sądów i prokuratur drugiej Strony należy udzielać wolnych od opłat informacji z rejestru skazanych. —"
-    },
-    {
-     "type": "text",
-     "text": "CZĘŚĆ TRZECIA"
-    },
-    {
-     "type": "text",
-     "text": "POSTANOWIENIA KOŃCOWE"
     }
    ],
    "label": "Artykuł 85"
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ TRZECIA",
+   "text": "POSTANOWIENIA KOŃCOWE"
   },
   {
    "type": "art",

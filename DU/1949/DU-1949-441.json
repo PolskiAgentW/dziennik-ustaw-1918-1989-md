@@ -1247,18 +1247,14 @@
      "num": "3",
      "path": "par_78/ust_3",
      "text": "Zarządzenie tymczasowe jest natychmiast wykonalne.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ IE."
-      },
-      {
-       "type": "text",
-       "text": "OPŁATY ARBITRAŻOWE."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ IE",
+   "text": "OPŁATY ARBITRAŻOWE."
   },
   {
    "type": "par",

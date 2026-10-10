@@ -2683,18 +2683,14 @@
      "num": "3",
      "path": "art_187/par_3",
      "text": "W wypadku przeniesienia w stan spoczynku okresu zawieszenia nie wlicza się do czasu służby.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział IK."
-      },
-      {
-       "type": "text",
-       "text": "Przepis ogólny."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział IK",
+   "text": "Przepis ogólny."
   },
   {
    "type": "art",

@@ -34,38 +34,34 @@
    "num": "1",
    "path": "art_1",
    "text": "W stosunkach handlowych obowiązują w braku przepisów kodeksu handlowego i ustaw szcześólnych lub powszechnego w państwie prawa zwyczajowego przepisy prawa cywilnego.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "KSIĘGA PIERWSZA",
+   "text": "KUPIEC."
+  },
+  {
+   "type": "text",
+   "text": "DZIAŁ I,"
+  },
+  {
+   "type": "text",
+   "text": "Pojęcie kupca."
+  },
+  {
+   "type": "text",
+   "text": "Art, 2. § 1. Kupcem jest, kto we własnem imieniu prowadzi przedsiębiorstwo zarobkowe."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Gospodarstwa rolnego nie uważa się za przedsiębiorstwo zarobkowe. § 3, Gospodarstwem rolnem w rozumieniu kodeksu niniejszego jest również gospodarstwo leśne, ogrodowe, hodowlane, rybne, łowieckie lub pszczelarskie.",
    "children": [
     {
      "type": "text",
-     "text": "KSIĘGA PIERWSZA."
-    },
-    {
-     "type": "text",
-     "text": "KUPIEC."
-    },
-    {
-     "type": "text",
-     "text": "DZIAŁ I,"
-    },
-    {
-     "type": "text",
-     "text": "Pojęcie kupca."
-    },
-    {
-     "type": "text",
-     "text": "Art, 2. § 1. Kupcem jest, kto we własnem imieniu prowadzi przedsiębiorstwo zarobkowe."
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "art_1/par_2",
-     "text": "Gospodarstwa rolnego nie uważa się za przedsiębiorstwo zarobkowe. § 3, Gospodarstwem rolnem w rozumieniu kodeksu niniejszego jest również gospodarstwo leśne, ogrodowe, hodowlane, rybne, łowieckie lub pszczelarskie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art. 33 Wykonywanie zawodu wolnego samo przez się nie jest przedsiębiorstwem zarobkowem."
-      }
-     ]
+     "text": "Art. 33 Wykonywanie zawodu wolnego samo przez się nie jest przedsiębiorstwem zarobkowem."
     }
    ]
   },
@@ -2450,18 +2446,14 @@
      "num": "1",
      "path": "art_157/par_1",
      "text": "Śmierć komandytarjusza nie stanowi przyczyny rozwiązania spółki. Spadkobiercy komandytarjusza powinni wskazać spółce do wykonywania jego praw jedną osobę. Czynności, dokonane przez pozostałych spólników przed takiem wskazaniem, są dla spadkobierców komandytarjusza wiążące. § 2. Podział między spadkobierców udziału komandytarjusza skuteczny jest wobec spółki jedynie za zgoda pozostałych spólników,",
-     "children": [
-      {
-       "type": "text",
-       "text": "KSIĘGA DRUGA."
-      },
-      {
-       "type": "text",
-       "text": "CZYNNOŚCI HANDLOWE."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "KSIĘGA DRUGA",
+   "text": "CZYNNOŚCI HANDLOWE."
   },
   {
    "type": "heading",

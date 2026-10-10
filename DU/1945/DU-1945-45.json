@@ -390,18 +390,14 @@
      "num": "2",
      "path": "art_17/par_2",
      "text": "Tryb likwidacji i przejęcia agend dotychczasowego „Tymczasowego Zarządu Państwowego nad Nieruchomościami” ustali w drodze specjalnego zarządzenia Minister Skarbu.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Dział IN."
-      },
-      {
-       "type": "text",
-       "text": "Przywrócenie posiadania majątków opuszczonych."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział IN",
+   "text": "Przywrócenie posiadania majątków opuszczonych."
   },
   {
    "type": "art",

@@ -375,16 +375,12 @@
    "num": "24",
    "path": "par_24",
    "text": "Właściwy minster -(Prezes Centralnego Urzędu Szkolenia Zawodowego) określi egzaminy i zakłady naukowe, których złożenie lub ukończenie jest równoznaczne z ukończeniem wyższego kursu nauczycielskiego, państwowego pedagogium lub studiów wyższych.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dział ID."
-    },
-    {
-     "type": "text",
-     "text": "Dedatki do uposażenia."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Dział ID",
+   "text": "Dedatki do uposażenia."
   },
   {
    "type": "par",

@@ -145,20 +145,16 @@
    "num": "14",
    "path": "art_14",
    "text": "Szczegółowe przepisy o urządzeniu i prowadzeniu ksiąg wieczystych wyda w drodze rozporządzenia Minister Sprawiedliwości.",
-   "children": [
-    {
-     "type": "text",
-     "text": "DZIAŁ IT."
-    },
-    {
-     "type": "text",
-     "text": "Wpisy."
-    },
-    {
-     "type": "text",
-     "text": "_! Art. 15. Każdy wpis, oprócz właściwej treści, zawiera numer i datę złożenia wniosku, wymienienie nazwy i dat dokumentów, będących podstawą wpisu, oraz wskazanie numerów, którymi są oznaczone w zbiorze dokumentów, datę dokonania wpisu i podpis sędziego."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ IT",
+   "text": "Wpisy."
+  },
+  {
+   "type": "text",
+   "text": "_! Art. 15. Każdy wpis, oprócz właściwej treści, zawiera numer i datę złożenia wniosku, wymienienie nazwy i dat dokumentów, będących podstawą wpisu, oraz wskazanie numerów, którymi są oznaczone w zbiorze dokumentów, datę dokonania wpisu i podpis sędziego."
   },
   {
    "type": "art",

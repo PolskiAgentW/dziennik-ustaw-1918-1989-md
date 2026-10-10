@@ -68,26 +68,23 @@
       {
        "type": "text",
        "text": "KO DE KRK S POS TL ĘP O"
-      },
-      {
-       "type": "text",
-       "text": "CZĘŚĆ PIERWSZA"
-      },
-      {
-       "type": "text",
-       "text": "Postępowanie sporne."
-      },
-      {
-       "type": "text",
-       "text": "TYTUŁ WSTĘPNY."
-      },
-      {
-       "type": "text",
-       "text": "Przepisy ogólne."
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ PIERWSZA",
+   "text": "Postępowanie sporne."
+  },
+  {
+   "type": "text",
+   "text": "TYTUŁ WSTĘPNY."
+  },
+  {
+   "type": "text",
+   "text": "Przepisy ogólne."
   },
   {
    "type": "art",
@@ -258,16 +255,16 @@
    "num": "8",
    "path": "art_8",
    "text": "Sprawy eywilne mogą być rozstrzygane także przez sądy polubowne na zasadach, określonych 'w niniejszym kodeksie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "KSIĘGA PIERWSZA — Sąd. > a Y"
-    },
-    {
-     "type": "text",
-     "text": "Nar"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "KSIĘGA PIERWSZA",
+   "text": "— Sąd. > a Y"
+  },
+  {
+   "type": "text",
+   "text": "Nar"
   },
   {
    "type": "heading",
@@ -6085,18 +6082,14 @@
      "num": "1",
      "path": "art_485/par_1",
      "text": "Jeżeli zaginięcie lub zniszczenie akt nastąpiło w związku z działaniami wojennymi lub klęskami.elementarnymi, odtworzenie akt następuje tylko ma wniosek strony. 8 2. Sad może wszcząć postępowanie o odtworzenie akt z urzędu, jeżeli sprawa, której akta zaginęły lub uległy zniszczeniu, była wszczęta z urzędu.",
-     "children": [
-      {
-       "type": "text",
-       "text": "KSIĘGA TRZECIA"
-      },
-      {
-       "type": "text",
-       "text": "Sąd polubowny."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "KSIĘGA TRZECIA",
+   "text": "Sąd polubowny."
   },
   {
    "type": "heading",
@@ -6585,23 +6578,18 @@
    "text": "‘Art. 513. Ilekroć w niniejszej księdze mówi się © sądzie państwowym, rozumie się ten sąd państwowy, który byłby właściwy do rozpoznania sporu między \"stronami, o ile by strony nie zapisały się na sąd polybowny. Ast. 514. Przepisy niniejszej księgi mają odpowiednie zastosowanie do sądów polubownych, ustanowionych \"w rozporządzeniach ostatniej woli lub w aktach fundacyjnych, jak również — o ile ustawy szczególne inaczej nie stanowią — do stałych sądów molubownych, powołanych do życia postanowieniami statutów lub regulaminów instytucyj publicznych lub społecznych. Jednak postanowienia te nie mogą uchyfbiać tym przepisom niniejszej księgi, które są dla stron fbezwzględnie cbowigzujace. Tak ustanowione sądy polubowne nie mają również prawa odbierania przyrzeczenia od stron, świadków i biegłych ani też prawa stosowania środków przymusowych."
   },
   {
-   "type": "text",
-   "text": "CZĘŚĆ DRUGA"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "CZĘŚĆ DRUGA",
    "text": "Postępowanie egzckucyjne i zabezpieczające."
   },
   {
-   "type": "text",
-   "text": "KSIĘGA PIERWSZA Postępowanie egzekucyjne."
+   "type": "heading",
+   "label": "KSIĘGA PIERWSZA",
+   "text": "Postępowanie egzekucyjne."
   },
   {
-   "type": "text",
-   "text": "TYTUŁ PIERWSZY"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "TYTUŁ PIERWSZY",
    "text": "Przepisy ogólne."
   },
   {
@@ -12152,16 +12140,12 @@
    "num": "854",
    "path": "art_854",
    "text": "Egzekucja celem zniesienia współwłasności i egzekucja z nieruchomości mogą się toczyć jednocześnie. W razie sprzedaży nieruchomości w toku jednej z tych egzekucyj drugą zawiesza się, a po uprawomocnieniu się postanowienia o przysądzeniu umarza się. a",
-   "children": [
-    {
-     "type": "text",
-     "text": "KSIĘGA DRUGA"
-    },
-    {
-     "type": "text",
-     "text": "Postępowanie zabezpieczające,"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "KSIĘGA DRUGA",
+   "text": "Postępowanie zabezpieczające,"
   },
   {
    "type": "heading",

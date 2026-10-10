@@ -25,11 +25,8 @@
    "text": "Na podstawie art. 44 ust. 6 Konstytucji i art. 1 lit. a) ustawy z dnia 17 marca 1932 r. o upoważnieniu Prezydenta Rzeczypospolitej do wydawania rozporządzeń z mocą ustawy (Dz. U. R. P. Nr. 22, poz. 155) postanawiam co nasiępuje:"
   },
   {
-   "type": "text",
-   "text": "TYTUŁ PIERWSZY."
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "TYTUŁ PIERWSZY",
    "text": "PRZEPISY OGÓLNE."
   },
   {
@@ -1443,26 +1440,23 @@
       {
        "type": "text",
        "text": "Art. 72, Na postanowienie sądu co do ośraniczeń egzekucji służy zażalenie,"
-      },
-      {
-       "type": "text",
-       "text": "TYTUŁ DRUGI"
-      },
-      {
-       "type": "text",
-       "text": "PRZEPISY SZCZEGÓŁOWE O EGZEKUCJI,"
-      },
-      {
-       "type": "text",
-       "text": "Dział 1,"
-      },
-      {
-       "type": "text",
-       "text": "EGZEKUCJA NALEŻNOŚCI PIENIĘŻNYCH."
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "TYTUŁ DRUGI",
+   "text": "PRZEPISY SZCZEGÓŁOWE O EGZEKUCJI,"
+  },
+  {
+   "type": "text",
+   "text": "Dział 1,"
+  },
+  {
+   "type": "text",
+   "text": "EGZEKUCJA NALEŻNOŚCI PIENIĘŻNYCH."
   },
   {
    "type": "heading",

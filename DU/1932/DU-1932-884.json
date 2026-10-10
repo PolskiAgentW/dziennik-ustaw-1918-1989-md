@@ -204,11 +204,8 @@
      "text": "o tymczasowem uregulowaniu finansów komunalnych."
     },
     {
-     "type": "text",
-     "text": "CZĘŚĆ PIERWSZA."
-    },
-    {
-     "type": "text",
+     "type": "heading",
+     "label": "CZĘŚĆ PIERWSZA",
      "text": "PODATKI."
     },
     {
@@ -1270,22 +1267,18 @@
        "num": "2",
        "path": "art_26/pkt_2",
        "text": "Minister Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu wyda w rozporządzeniu wykonawczem także przepisy, zmierzające do zapobieżenia wielokrotnemu opodatkowaniu płatników na rzecz związków komunalnych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "CZĘŚĆ DRUGA."
-        },
-        {
-         "type": "text",
-         "text": "OPŁATY I SPECJALNE DOPŁATY."
-        },
-        {
-         "type": "text",
-         "text": "A. OPŁATY."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ DRUGA",
+     "text": "OPŁATY I SPECJALNE DOPŁATY."
+    },
+    {
+     "type": "text",
+     "text": "A. OPŁATY."
     },
     {
      "type": "art",
@@ -1472,18 +1465,14 @@
        "num": "3",
        "path": "art_32/pkt_3",
        "text": "Do specjalnych dopłat stosuje się odpowiednie postanowienia, zawarte w art. 31 ust. 1, 2 i w drugiem zdaniu ustępu 3.",
-       "children": [
-        {
-         "type": "text",
-         "text": "CZĘŚĆ TRZECIA."
-        },
-        {
-         "type": "text",
-         "text": "INNE ZRODLA DOCHODOWE."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ TRZECIA",
+     "text": "INNE ZRODLA DOCHODOWE."
     },
     {
      "type": "art",
@@ -1529,18 +1518,14 @@
        "num": "2",
        "path": "art_34/pkt_2",
        "text": "Aż do czasu wprowadzenia w życie samorządu wojewódzkiego wojewódzkie związki komunalne w b, dzielnicy pruskiej otrzymują dla spełnienia zadań, przewidzianych w ustawie z dnia 30 kwietnia 1873 r. o dotacji związków prowincjonalnych (Zbiór Ustaw pruskich str, 187), w uslawie z dnia 8 lipca 1875 r. w przedmiocie wykonania $§ 5 i 6 powołanej ustawy (Zbiór Ustaw pruskich str. 497) i w ustawie z dnia 2 czerwca 1902 r. w sprawie przekazania związkom prowincjonalnym dalszych rat dotacyjnych (Zbiór Ustaw pruskich str. 167) zamiast kwot, określonych w tych ustawach, tytułem rocznej dotacji ze Skarbu Państwa ryczałtową sumę, wynoszącą 1.300.000 zł dla zwięzku poznańskiego, zaś 750.000 zł dla pomorskiego. Dotacja ta piatna jest w 12 równych ratach miesięcznych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "CZĘŚĆ CZWARTA."
-        },
-        {
-         "type": "text",
-         "text": "WŁADZE NADZORCZE I ICH POSTĘPOWANIE."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ CZWARTA",
+     "text": "WŁADZE NADZORCZE I ICH POSTĘPOWANIE."
     },
     {
      "type": "art",
@@ -1696,16 +1681,12 @@
      "num": "42",
      "path": "art_42",
      "text": "O ile według innych ustaw uchwały związków komunalnych w sprawie pobierania podatków, opłat i dopłat, wzsiędnie składek, oraz zaciągania pożyczek podlegają zatwierdzeriu władz nadzorczych, władzami właściwemi do zatwierdzenia tych uchwał są władze nadzorcze, wskazane w art. 36 i 37, przyczem art. 38 — 41 mają odpowiednie zastosowanie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "CZĘŚĆ PIĄTA."
-      },
-      {
-       "type": "text",
-       "text": "WYMIAR I POBÓR DANIN KOMUNALNYCH,"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ PIĄTA",
+     "text": "WYMIAR I POBÓR DANIN KOMUNALNYCH,"
     },
     {
      "type": "art",
@@ -2191,18 +2172,14 @@
        "num": "4",
        "path": "art_61/pkt_4",
        "text": "Kwoty wpłaconych zaliczek będą potrącone z należności krajowych dodatków do podatków bezpośrednich.",
-       "children": [
-        {
-         "type": "text",
-         "text": "CZĘŚĆ SZÓSTA."
-        },
-        {
-         "type": "text",
-         "text": "KARY."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ SZÓSTA",
+     "text": "KARY."
     },
     {
      "type": "art",
@@ -2313,18 +2290,14 @@
        "num": "4",
        "path": "art_66/pkt_4",
        "text": "Do kar, nałożonych na podstawie niniejszego artykułu, mają zastosowanie przepisy, zawarte w ust. 2 i 3 art. 65.",
-       "children": [
-        {
-         "type": "text",
-         "text": "CZĘŚĆ SIÓDMA."
-        },
-        {
-         "type": "text",
-         "text": "PRZEPISY OGÓLNE."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ SIÓDMA",
+     "text": "PRZEPISY OGÓLNE."
     },
     {
      "type": "art",
@@ -2410,100 +2383,96 @@
        "num": "2",
        "path": "art_72/pkt_2",
        "text": "Gminy wiejskie o charakterze miejskim mają prawo pobierać na swoją rzecz podatek od lokali na podstawie ustawy z dnia 2 sierpnia 1926 r. (Dz. U. R. P. Nr. 94, poz. 550), zmienionej częściowo ustawą z dnia 17 grudnia 1931 r. (Dz. U. R. P. Nr. 112, poz. 879), a to do takiej wysokości, w jakiej podatek ten w myśl wymienionej ustawy przypada gminom miejskim. Rozporządzenie Ministra Spraw Wewnętrznych, wydane w porozumieniu z Ministrem Skarbu, określi bliżej sposób wymiaru i poboru tego podatku.",
-       "children": [
-        {
-         "type": "text",
-         "text": "CZĘŚĆ ÓSMA."
-        },
-        {
-         "type": "text",
-         "text": "PRZEPISY KOŃCOWE."
-        },
-        {
-         "type": "text",
-         "text": "Art. 73,"
-        },
-        {
-         "type": "text",
-         "text": "Wpływy z państwowego podatku obrotowego, pobranego w b. dzielnicy pruskiej za r. 1922, przekazuje się gminom miejskim, o ile chodzi o wpływy z ich obszarów, a powiatowym związkom komunalnym, o ile chodzi o wpływy z $min wiejskich i obszarów dworskich."
-        },
-        {
-         "type": "text",
-         "text": "Art. 74,"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_72/pkt_1",
-       "text": "Ustawa niniejsza obowiazuje na całym obszarze Rzeczypospolitej z wyjątkiem województwa śląskiego.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_72/pkt_2",
-       "text": "Przepisy niniejszej ustawy, dotyczące b. dzielnicy austrjackiej, obowiązują także na ziemiach Spiszą i Orawy.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 75,"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_72/pkt_1",
-       "text": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia,",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_72/pkt_2",
-       "text": "Przepisy, dotyczące poboru podatków komunalnych, wymienionych w art. 2, 3, 4, 6, 8 i 9, obowiązują od 1 stycznia 1923 r.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_72/pkt_3",
-       "text": "Przepis art. 35 ustęp 2 obowiązuje również od dnia 1 stycznia 1923 r. z tem, że ustanowienie rocznych dotacyj dla wojewódzkich związków komunalnych w stałych kwotach ryczałtowych obowiązuje od dnia 1 kwietnia 1932 r.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "art_72/pkt_4",
-       "text": "Minister Spraw Wewnętrznych oznaczy w porozumieniu z Ministrem Skarbu termin, w którym",
-       "children": [
-        {
-         "type": "text",
-         "text": "Nr. 106,"
-        },
-        {
-         "type": "text",
-         "text": "nabiorą mocy obowiązującej postanowienia, zawarte w art. 10."
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "art_72/pkt_5",
-       "text": "Komunalne podatki samoistne i dodatki do podatków, pobrane na rok podatkowy 1923 na zasadzie przepisów, obowiązujących do dnia wejścia w życie niniejszej ustawy, podlegają zaliczeniu na poczet właściwych danin, należnych związkom komunalnym na podstawie tej ustawy.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "art_72/pkt_6",
-       "text": "Związki komunalne są obowiązane uzgodnić swe uchwały (statuty, regulaminy i t. p.), dotyczące danin komunalnych, z przepisami niniejszej ustawy najpóźniej do końca 1923 r. Uchwały te tracą moc obowiązującą z dniem 31 grudnia 1923 r.",
        "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ ÓSMA",
+     "text": "PRZEPISY KOŃCOWE."
+    },
+    {
+     "type": "text",
+     "text": "Art. 73,"
+    },
+    {
+     "type": "text",
+     "text": "Wpływy z państwowego podatku obrotowego, pobranego w b. dzielnicy pruskiej za r. 1922, przekazuje się gminom miejskim, o ile chodzi o wpływy z ich obszarów, a powiatowym związkom komunalnym, o ile chodzi o wpływy z $min wiejskich i obszarów dworskich."
+    },
+    {
+     "type": "text",
+     "text": "Art. 74,"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Ustawa niniejsza obowiazuje na całym obszarze Rzeczypospolitej z wyjątkiem województwa śląskiego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Przepisy niniejszej ustawy, dotyczące b. dzielnicy austrjackiej, obowiązują także na ziemiach Spiszą i Orawy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 75,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Przepisy, dotyczące poboru podatków komunalnych, wymienionych w art. 2, 3, 4, 6, 8 i 9, obowiązują od 1 stycznia 1923 r.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Przepis art. 35 ustęp 2 obowiązuje również od dnia 1 stycznia 1923 r. z tem, że ustanowienie rocznych dotacyj dla wojewódzkich związków komunalnych w stałych kwotach ryczałtowych obowiązuje od dnia 1 kwietnia 1932 r.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Minister Spraw Wewnętrznych oznaczy w porozumieniu z Ministrem Skarbu termin, w którym",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 106,"
+      },
+      {
+       "type": "text",
+       "text": "nabiorą mocy obowiązującej postanowienia, zawarte w art. 10."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "pkt_5",
+     "text": "Komunalne podatki samoistne i dodatki do podatków, pobrane na rok podatkowy 1923 na zasadzie przepisów, obowiązujących do dnia wejścia w życie niniejszej ustawy, podlegają zaliczeniu na poczet właściwych danin, należnych związkom komunalnym na podstawie tej ustawy.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "pkt_6",
+     "text": "Związki komunalne są obowiązane uzgodnić swe uchwały (statuty, regulaminy i t. p.), dotyczące danin komunalnych, z przepisami niniejszej ustawy najpóźniej do końca 1923 r. Uchwały te tracą moc obowiązującą z dniem 31 grudnia 1923 r.",
+     "children": []
     },
     {
      "type": "art",

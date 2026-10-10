@@ -257,11 +257,8 @@
      "text": "o opłatach stemplowych."
     },
     {
-     "type": "text",
-     "text": "CZĘŚĆ PIERWSZA."
-    },
-    {
-     "type": "text",
+     "type": "heading",
+     "label": "CZĘŚĆ PIERWSZA",
      "text": "Postanowienia ogólne."
     },
     {
@@ -1167,24 +1164,20 @@
      "num": "51",
      "path": "art_51",
      "text": ". Koniec czasokresu, oznaczonego w ustawie niniejszej wedłuś tygodni, miesięcy lub lat, przypada w ostatnim tygodniu, względnie w ostatnim miesiącu czasokresu na ten dzień, który swą nazwą, względnie swą datą, odpowiada dacie rozpoczęcia czasokresu; jeżeli w ostatnim miesiącu takiego dnia niema, to koniec czasokresu przypada na ostatni dzień tego miesiąca. Koniec czasokresu, przypadający na dzień wolny od zajęć urzędowych, przesuwa się na najbliższy dzień powszedni.",
-     "children": [
-      {
-       "type": "text",
-       "text": "CZĘŚĆ DRUGA."
-      },
-      {
-       "type": "text",
-       "text": "Postanowienia szczegółowe."
-      },
-      {
-       "type": "text",
-       "text": "Rozdział dziesiąty."
-      },
-      {
-       "type": "text",
-       "text": "Pisma, tyczące się przejścia własności rzeczy nieruchomych."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ DRUGA",
+     "text": "Postanowienia szczegółowe."
+    },
+    {
+     "type": "text",
+     "text": "Rozdział dziesiąty."
+    },
+    {
+     "type": "text",
+     "text": "Pisma, tyczące się przejścia własności rzeczy nieruchomych."
     },
     {
      "type": "art",
@@ -4308,50 +4301,47 @@
         {
          "type": "text",
          "text": "Osoba, posiadająca świadectwo, wydane bez uiszczenia opłaty stemplowej, na mocy punktu 4 artykułu 160 — jeżeliby chciała przedstawić je nie instytucji ubezpieczeń społecznych, lecz innej osobie — ma uprzednio uiścić opłatę stemplową; w razie nieuiszczenia albo uiszczenia spóźnionego lub nieprawidłowego stosuje się punkt 3 artykułu 33 oraz art. 42. Do zwrotu nienależnie uiszczonych opłat od świadectw stosuje się przepisy art. 153."
-        },
-        {
-         "type": "text",
-         "text": "CZĘŚĆ TRZECIA."
-        },
-        {
-         "type": "text",
-         "text": "Przepisy końcowe,"
-        },
-        {
-         "type": "text",
-         "text": "Art. 162 (uchylony)."
-        },
-        {
-         "type": "text",
-         "text": "Art. 163 (uchylony)."
-        },
-        {
-         "type": "text",
-         "text": "Art 164."
-        },
-        {
-         "type": "text",
-         "text": "Strony, zawierające umowę, mogą umówić się, która z nich ma uiścić opłatę stempiową od umowy, lub w jakiej mierze każda strona ma się przyczynić do uiszczenia opłaty. W braku takiego postanowienia w umowie ma każda strona uiścić połowę opłaty. Jeżeli jednak w myśl art. 16, 55 lub 88 należy się Skarbowi Państwa tylko połowa opłaty, to w braku odmiennego postanowienia w umowie jest obowiązana do uiszczenia tylko ta strona, na której ciąży obowiązek uiszczenia w myśl powołanych postanowień. Posiadaczowi pisma albo odpisu lub tłumaczenia, wymienicnemu w punkcie c) art. 15, względnie odbiorcy weksłu (art. 125, ustęp drugi i trzeci), przekazu (art. 127, ustęp szósty) lub czeku (art. 128, ustęp pierwszy), służy prawo regresu przeciw osobom, które były obowiązane do uiszczenia opłaty, zanim pismo doszło do jego rąk. Prawo regresu obejmuje całą kwotę opłaty, uiszczonej przez posiadacza (odbiorcę) pisma w granicach należności. Przepisy powyższe normują jedynie stosunek prywatno-prawny między stronami i nie mają znaczenia dla stosunku publiczno-prawnego między Skarbem Państwa a obu stronami umawiającemi się; ten ostatni stosunek ocenia się wyłącznie według przepisów części pierwszej i drugiej ustawy niniejszej."
-        },
-        {
-         "type": "text",
-         "text": "Art. 165,"
-        },
-        {
-         "type": "text",
-         "text": "Ilekroć w ustawie niniejszej jest użyte wyrażenie „księga wieczysta”, należy przez nie rozumieć również księgi: hipoteczną, gruntową, górniczą, naftową i kolejową. Przepisy niniejszej ustawy, dotyczące wpisu do księgi wieczystej, stosuje się na obszarze obowiązywania kodeksu cywilnego austrjackiego również do złożenia dokumentu (85 434, 436, 451 powołanego kodeksu według noweli III)."
-        },
-        {
-         "type": "text",
-         "text": "Art. 166,"
-        },
-        {
-         "type": "text",
-         "text": "Ustęp pierwszy art. 65 będzie stosowany również do tych umów w przedmiocie praw do ciał kopalnych (punkty 1 lub 2 art. 64), które zawarto przed wejściem niniejszej ustawy w życie. Nie nastąpi zwrot opłat, które uiszczono od umów takich, zgodnie z przepisami dotychczasowemi, przed wejściem niniejszej ustawy w życie."
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "CZĘŚĆ TRZECIA",
+     "text": "Przepisy końcowe,"
+    },
+    {
+     "type": "text",
+     "text": "Art. 162 (uchylony)."
+    },
+    {
+     "type": "text",
+     "text": "Art. 163 (uchylony)."
+    },
+    {
+     "type": "text",
+     "text": "Art 164."
+    },
+    {
+     "type": "text",
+     "text": "Strony, zawierające umowę, mogą umówić się, która z nich ma uiścić opłatę stempiową od umowy, lub w jakiej mierze każda strona ma się przyczynić do uiszczenia opłaty. W braku takiego postanowienia w umowie ma każda strona uiścić połowę opłaty. Jeżeli jednak w myśl art. 16, 55 lub 88 należy się Skarbowi Państwa tylko połowa opłaty, to w braku odmiennego postanowienia w umowie jest obowiązana do uiszczenia tylko ta strona, na której ciąży obowiązek uiszczenia w myśl powołanych postanowień. Posiadaczowi pisma albo odpisu lub tłumaczenia, wymienicnemu w punkcie c) art. 15, względnie odbiorcy weksłu (art. 125, ustęp drugi i trzeci), przekazu (art. 127, ustęp szósty) lub czeku (art. 128, ustęp pierwszy), służy prawo regresu przeciw osobom, które były obowiązane do uiszczenia opłaty, zanim pismo doszło do jego rąk. Prawo regresu obejmuje całą kwotę opłaty, uiszczonej przez posiadacza (odbiorcę) pisma w granicach należności. Przepisy powyższe normują jedynie stosunek prywatno-prawny między stronami i nie mają znaczenia dla stosunku publiczno-prawnego między Skarbem Państwa a obu stronami umawiającemi się; ten ostatni stosunek ocenia się wyłącznie według przepisów części pierwszej i drugiej ustawy niniejszej."
+    },
+    {
+     "type": "text",
+     "text": "Art. 165,"
+    },
+    {
+     "type": "text",
+     "text": "Ilekroć w ustawie niniejszej jest użyte wyrażenie „księga wieczysta”, należy przez nie rozumieć również księgi: hipoteczną, gruntową, górniczą, naftową i kolejową. Przepisy niniejszej ustawy, dotyczące wpisu do księgi wieczystej, stosuje się na obszarze obowiązywania kodeksu cywilnego austrjackiego również do złożenia dokumentu (85 434, 436, 451 powołanego kodeksu według noweli III)."
+    },
+    {
+     "type": "text",
+     "text": "Art. 166,"
+    },
+    {
+     "type": "text",
+     "text": "Ustęp pierwszy art. 65 będzie stosowany również do tych umów w przedmiocie praw do ciał kopalnych (punkty 1 lub 2 art. 64), które zawarto przed wejściem niniejszej ustawy w życie. Nie nastąpi zwrot opłat, które uiszczono od umów takich, zgodnie z przepisami dotychczasowemi, przed wejściem niniejszej ustawy w życie."
     },
     {
      "type": "art",

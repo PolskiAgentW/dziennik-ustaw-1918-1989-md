@@ -56,77 +56,73 @@
      "num": "5",
      "path": "par_5",
      "text": "Ustawa z dnia 26 maja 1882 r. o podwyższeniu cła wwozowego i zaprowadzeniu podatku konsumcyjnego od oleju kopalinnego, tudzież o zniesieniu podatku konsumcyjnego od oleju kopalinnego, przywożonego do miast, które celem poboru podatku konsumcyjnego uznane są za zamknięte. Za zgodą obu Izb Rady państwa postanowiłem i stanowię co następuje:",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "ROZDZIAŁ PIERWSZY",
+     "text": "Przedmioty podlegające cłu i wymiar tegoż. gi Ustęp lit. d) 28 mej pozycji Taryfy cłowej powszechnej, zmienia się w sposób następujący: Oleje kopalinne, tudzież smoła z węgli kamiennych i łupku:"
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Surowe i bez poprzedniego rafinowania czyli oczyszczenia, nie dające się używać do oświetlania:",
      "children": [
       {
-       "type": "text",
-       "text": "ROZDZIAŁ PIERWSZY."
+       "type": "lit",
+       "num": "aa",
+       "path": "ust_1/lit_aa",
+       "text": "Ciężkie, których gęstość przy 12°R. wynosi więcej niż 830 stopni (tysiącznych części Eyes szyk) wody), 100 kilo-",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "bb",
+       "path": "ust_1/lit_bb",
+       "text": "Lekkie, których gęstość wynosi 830 stopni. i mniej, .",
+       "children": []
       },
       {
        "type": "text",
-       "text": "Przedmioty podlegające cłu i wymiar tegoż. gi Ustęp lit. d) 28 mej pozycji Taryfy cłowej powszechnej, zmienia się w sposób następujący: Oleje kopalinne, tudzież smoła z węgli kamiennych i łupku:"
+       "text": "gramów wagi czystej. . . . 1zł l0c 100 kilogramów wagi czystej. . . 21 s"
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "ust_2",
+     "text": "Surowe, bez poprzedniego rafinowania czyli oczyszczenia, dające się używać do oświetlania, 100 kilogramów wagi czystej 10 — Rafinowane lub półrafinowane:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "aa",
+       "path": "ust_2/lit_aa",
+       "text": "Ciężkie, których gęstość wynosi więcej niż 870 stopni,",
+       "children": []
       },
       {
-       "type": "ust",
-       "num": "1",
-       "path": "par_5/ust_1",
-       "text": "Surowe i bez poprzedniego rafinowania czyli oczyszczenia, nie dające się używać do oświetlania:",
+       "type": "lit",
+       "num": "bb",
+       "path": "ust_2/lit_bb",
+       "text": "Lekkie, których gęstość wynosi 870 stopni i mniej",
        "children": [
         {
-         "type": "lit",
-         "num": "aa",
-         "path": "par_5/ust_1/lit_aa",
-         "text": "Ciężkie, których gęstość przy 12°R. wynosi więcej niż 830 stopni (tysiącznych części Eyes szyk) wody), 100 kilo-",
-         "children": []
+         "type": "text",
+         "text": "100 kilogramów wagi czystej. . I y 90 100 kilogramów wagi czystej. . . . 10, —, Uwaga 1. Cła ustanowione pod 2 i 3 lit. bb) zawierają w sobie podatek konsumcyjny. Uwaga 2. Olej kopalinny rumuński, surowy i nie dający się używać do oświetlania bez poprzedniego rafinowania czyli oczyszczenia, którego gęstość wynosi przy 12 stopniach Reaumura więcej niż 830 stopni (1 lit. aa), gdy jest przywożony przez granicę rumuńską, za certyfikatami pochodzenia, 100 kilogramów wagi czystej, 68 c. Uwaga 3. Oleje kopalinne rafinowane, przeznaczone do celów przemysłowych, jako środek do otrzymywania rozczynów i wyciągów, mające mniej niż 770 stopni gęstości, są wolne od cła za dopełnieniem warunków i ostrożności, które przepisane będą osobnem rozporządzeniem."
         },
         {
-         "type": "lit",
-         "num": "bb",
-         "path": "par_5/ust_1/lit_bb",
-         "text": "Lekkie, których gęstość wynosi 830 stopni. i mniej, .",
-         "children": []
+         "type": "note",
+         "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
         },
         {
          "type": "text",
-         "text": "gramów wagi czystej. . . . 1zł l0c 100 kilogramów wagi czystej. . . 21 s"
-        }
-       ]
-      },
-      {
-       "type": "ust",
-       "num": "2",
-       "path": "par_5/ust_2",
-       "text": "Surowe, bez poprzedniego rafinowania czyli oczyszczenia, dające się używać do oświetlania, 100 kilogramów wagi czystej 10 — Rafinowane lub półrafinowane:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "aa",
-         "path": "par_5/ust_2/lit_aa",
-         "text": "Ciężkie, których gęstość wynosi więcej niż 870 stopni,",
-         "children": []
+         "text": "ROZDZIAŁ DROGI."
         },
         {
-         "type": "lit",
-         "num": "bb",
-         "path": "par_5/ust_2/lit_bb",
-         "text": "Lekkie, których gęstość wynosi 870 stopni i mniej",
-         "children": [
-          {
-           "type": "text",
-           "text": "100 kilogramów wagi czystej. . I y 90 100 kilogramów wagi czystej. . . . 10, —, Uwaga 1. Cła ustanowione pod 2 i 3 lit. bb) zawierają w sobie podatek konsumcyjny. Uwaga 2. Olej kopalinny rumuński, surowy i nie dający się używać do oświetlania bez poprzedniego rafinowania czyli oczyszczenia, którego gęstość wynosi przy 12 stopniach Reaumura więcej niż 830 stopni (1 lit. aa), gdy jest przywożony przez granicę rumuńską, za certyfikatami pochodzenia, 100 kilogramów wagi czystej, 68 c. Uwaga 3. Oleje kopalinne rafinowane, przeznaczone do celów przemysłowych, jako środek do otrzymywania rozczynów i wyciągów, mające mniej niż 770 stopni gęstości, są wolne od cła za dopełnieniem warunków i ostrożności, które przepisane będą osobnem rozporządzeniem."
-          },
-          {
-           "type": "note",
-           "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-          },
-          {
-           "type": "text",
-           "text": "ROZDZIAŁ DROGI."
-          },
-          {
-           "type": "text",
-           "text": "Przedmiot podlegający wewnętrznemu podatkowi konsumcyjnemu, wymiar i rozciągłość tegoż, obowiązek płacenia i odpowiedzialność."
-          }
-         ]
+         "type": "text",
+         "text": "Przedmiot podlegający wewnętrznemu podatkowi konsumcyjnemu, wymiar i rozciągłość tegoż, obowiązek płacenia i odpowiedzialność."
         }
        ]
       }
@@ -169,23 +165,20 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "ROZDZIAŁ TRZECI."
-      },
-      {
-       "type": "text",
-       "text": "Zabezpieczenie poboru podatku konsumcyjnego w rafinerjach oleju kopalinnego."
-      },
-      {
-       "type": "ust",
-       "num": "1",
-       "path": "par_6/ust_1",
-       "text": "Przepisy, tyczące się lokalów fabrykacji, przyrządów do wyrobu. naczyń dozachowywania zapasówoleju kopalinnego, kierowników przedsiębiorstw rafinerji oleju kopalinnego, jakoteż pomieszczenia dla wykonawców Władzy skarbowej.",
-       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "ROZDZIAŁ TRZECI",
+     "text": "Zabezpieczenie poboru podatku konsumcyjnego w rafinerjach oleju kopalinnego."
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Przepisy, tyczące się lokalów fabrykacji, przyrządów do wyrobu. naczyń dozachowywania zapasówoleju kopalinnego, kierowników przedsiębiorstw rafinerji oleju kopalinnego, jakoteż pomieszczenia dla wykonawców Władzy skarbowej.",
+     "children": []
     },
     {
      "type": "par",
@@ -514,16 +507,12 @@
      "num": "27",
      "path": "par_27",
      "text": "Pod warunkami i ostrożnościami potrzebnemi do zabezpieczenia skarbu państwa, wolno będzie przedsiębiorcy rafinerji oleju kopalinnego, o to proszącemu, wywozić ze swego lokalu fabrykacji bez opłaty podatku olej kopalinny o płatny, który z za linji cłowej lub z rafinerji oleju kopalinnego, leżącej w obrębie linji cłowej, sprowadza do swego lokalu fabrykacji, z odwołaniem się do uskutecznionej już opłaty cła lub podatku konsumcyjnego, tudzież wszelki ołej kopalinny o płatny, który chce wysłać za linję cłową.",
-     "children": [
-      {
-       "type": "text",
-       "text": "ROZDZIAŁ CZWARTY."
-      },
-      {
-       "type": "text",
-       "text": "Przepisy karne."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "ROZDZIAŁ CZWARTY",
+     "text": "Przepisy karne."
     },
     {
      "type": "par",

@@ -1468,26 +1468,22 @@
      "num": "3",
      "path": "par_35/pkt_3",
      "text": "intendent I klasy może zajmować każde stanowisko w służbie administracyjno-gospodarczej na każdym statku.",
-     "children": [
-      {
-       "type": "text",
-       "text": "DZIAŁ IM"
-      },
-      {
-       "type": "text",
-       "text": "Kwaliiikacje marynarzy."
-      },
-      {
-       "type": "text",
-       "text": "Rozdział 1,"
-      },
-      {
-       "type": "text",
-       "text": "Przepis ogólny."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "DZIAŁ IM",
+   "text": "Kwaliiikacje marynarzy."
+  },
+  {
+   "type": "text",
+   "text": "Rozdział 1,"
+  },
+  {
+   "type": "text",
+   "text": "Przepis ogólny."
   },
   {
    "type": "par",

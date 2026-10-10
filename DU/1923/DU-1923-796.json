@@ -37,27 +37,23 @@
    "num": "1",
    "path": "par_1",
    "text": "Użyte w niniejszem rozporządzeniu skrócenie „ust. o op. sp.” oznacza ustawę z dn. 29 maja 1920 r. w przedmiocie zmiany przepisów o opodatkowaniu spadków i darowizn (Dz. U. R. P. Ne 49 poz. 299 i Dz. Urz. Min. b. Dzielnicy Pruskiej Ne 55 str. 961). Skrócenie „niem. ust. o op. sp.” oznacza ustawę Rzeszy Niemieckiej z dn. 3 czerwca 1906 r. (Dz. Ust. \"Rzeszy Niemieckiej str. 654). Skrócenie „K. C. niem.”, oznacza kodeks cywilny niemiecki z r. 1896 utrzymany w mocy ustawą z dn. 1 sierpnia 1919 r. (Dz. P.P. P. Ne 64 poz. 385). Paragrafy ($), powołane w niniejszem rozporządzeniu kez dalszego określenia, oznaczają przepisy niniejszego rozporządzenia,",
-   "children": [
-    {
-     "type": "text",
-     "text": "CZĘŚĆ PIERWSZA."
-    },
-    {
-     "type": "text",
-     "text": "Podatek spadkowy."
-    },
-    {
-     "type": "text",
-     "text": "H. Przedmiot podatku."
-    },
-    {
-     "type": "ust",
-     "num": "2",
-     "path": "par_1/ust_2",
-     "text": "Jeżeli w przypadku, przewidzianym w czeprzyp P ści drugiej § 1952 K. C. niem., spadkobiercy przyjęli wyraźnie lub milcząco (§ 1943 K. C. niem.) spadek, który przypadł na spadkodawce, to podatek spadkowy należy się zarówno od spadki, który przypadł na spadkodawcę jakoteż z powodu nabycia odnośnego majątku przez spadkobierców.",
-     "children": []
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ PIERWSZA",
+   "text": "Podatek spadkowy."
+  },
+  {
+   "type": "text",
+   "text": "H. Przedmiot podatku."
+  },
+  {
+   "type": "ust",
+   "num": "2",
+   "path": "ust_2",
+   "text": "Jeżeli w przypadku, przewidzianym w czeprzyp P ści drugiej § 1952 K. C. niem., spadkobiercy przyjęli wyraźnie lub milcząco (§ 1943 K. C. niem.) spadek, który przypadł na spadkodawce, to podatek spadkowy należy się zarówno od spadki, który przypadł na spadkodawcę jakoteż z powodu nabycia odnośnego majątku przez spadkobierców.",
+   "children": []
   },
   {
    "type": "par",
@@ -1072,32 +1068,28 @@
    "num": "65",
    "path": "par_65",
    "text": "Podatnik ponosi koszta w przypadkach, przewidzianych w ustępie pierwszym, zdaniu czwartem, art. 6 ustawy z dnia 31 marca 1922 r. (Dz. U. R. P. Na 31 poz. 263). Opłaty pocztowe ponosi zasadniczo Skarb Państwa.\" Strony mają uiścić opłatę pocztową co do wszelkich pism, które one wnoszą de władzy skarbowej, nadto zaś co do przesyłek władzy skarbowej, mieszczących decyzję na skutek środków prawnych ($§ 58 do 60) lub na skutek prośby o wznowienie (§ 63).",
-   "children": [
-    {
-     "type": "text",
-     "text": "CZĘŚĆ DRUGA."
-    },
-    {
-     "type": "text",
-     "text": "Podatsk od darowizn."
-    },
-    {
-     "type": "text",
-     "text": "XV. Przedmiot."
-    },
-    {
-     "type": "text",
-     "text": "(Art. 11 ust. o op. sp.; $§ 55 1 56 niem. ust. 'o op. sp.)."
-    },
-    {
-     "type": "text",
-     "text": "8 €6. Podatek od darowizn będzie pobierany również od umów o wyprawę (§ 1620 K. C. niem.) i o wyposażenie (§ 1624 K. C. niem.), o ile one są darowiznami w myśl przepisów niemieckiego Kodeksu Cywilnego. w Jeżeli co do darowizny nie sporządzono dokumentu sądowego ani notarjalnego, to podatek należy się mimo to, o ile świadczenie, będące przedmiotem darowizny, faktycznie wykonano."
-    },
-    {
-     "type": "text",
-     "text": "XVI. Analogiczne zastesowenie przepisów 6 podatku spadkowym."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "CZĘŚĆ DRUGA",
+   "text": "Podatsk od darowizn."
+  },
+  {
+   "type": "text",
+   "text": "XV. Przedmiot."
+  },
+  {
+   "type": "text",
+   "text": "(Art. 11 ust. o op. sp.; $§ 55 1 56 niem. ust. 'o op. sp.)."
+  },
+  {
+   "type": "text",
+   "text": "8 €6. Podatek od darowizn będzie pobierany również od umów o wyprawę (§ 1620 K. C. niem.) i o wyposażenie (§ 1624 K. C. niem.), o ile one są darowiznami w myśl przepisów niemieckiego Kodeksu Cywilnego. w Jeżeli co do darowizny nie sporządzono dokumentu sądowego ani notarjalnego, to podatek należy się mimo to, o ile świadczenie, będące przedmiotem darowizny, faktycznie wykonano."
+  },
+  {
+   "type": "text",
+   "text": "XVI. Analogiczne zastesowenie przepisów 6 podatku spadkowym."
   },
   {
    "type": "par",
@@ -1435,8 +1427,9 @@
    "text": "Szczegółowe Dowody załączone skarbowej do zeznania określenie"
   },
   {
-   "type": "text",
-   "text": "DZIAŁ IW Udziały w spadku. 20 23"
+   "type": "heading",
+   "label": "DZIAŁ IW",
+   "text": "Udziały w spadku. 20 23"
   },
   {
    "type": "text",

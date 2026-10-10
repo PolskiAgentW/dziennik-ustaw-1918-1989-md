@@ -25,11 +25,8 @@
    "text": "Na mocy ust. 1 art. 36 Ustawy Konsytucyjnej z dnia 15 lipca 1920 r., zawierającej statut organiczny Województwa Śląskiego (Dz. U. R. P. Ne 73 poz. 497), w brzmieniu art. 1 ustawy z dnia 18 października 1921 r. (Dz. UG. R. P. Ne 85, poz. 608) w związku z ustępem ostatnim art. 40 powołanej Ustawy Konstytucyjnej w brzmieniu art. 2 ustawy z dnia 30 lipca 1921 r. (Dz. U.R.P. Ne 69, poz. 449) stanowię w porozumieniu z Tymczasową Radą Wojewódzką Województwa Śląskiego co następuje:"
   },
   {
-   "type": "text",
-   "text": "ROZDZIAŁ PIERWSZY."
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "ROZDZIAŁ PIERWSZY",
    "text": "Sądy powiatowe."
   },
   {
@@ -64,36 +61,29 @@
     {
      "type": "text",
      "text": "Do okręgu sądu powiatowego w Wodzisławiu przyłącza się gminy: Bełsznica, Bluszczów, Buków, Gorzyce Małe i folwark, Gorzyce Wielkie i folwark, Kamień, Ligita Tworkowska, Lubomia, Nieboszowy, Odra, Olza, Pogrzebień, Rogów, Syrynia i Uchylsko, należące dotąd do okręgu niemieckiego sądu powia* towego w Raciborzu,"
-    },
-    {
-     "type": "text",
-     "text": "ROZDZIAŁ DRUGI."
-    },
-    {
-     "type": "text",
-     "text": "Sądy okręgowe."
-    },
-    {
-     "type": "text",
-     "text": "Art, 3. Oprócz już istniejącego na obszarze Województwa Śląskiego sądu okręgowego w Cieszynie tworzy się nowy sąd okręgowy z siedzibą w Katowicach. >"
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "ROZDZIAŁ DRUGI",
+   "text": "Sądy okręgowe."
+  },
+  {
+   "type": "text",
+   "text": "Art, 3. Oprócz już istniejącego na obszarze Województwa Śląskiego sądu okręgowego w Cieszynie tworzy się nowy sąd okręgowy z siedzibą w Katowicach. >"
   },
   {
    "type": "art",
    "num": "4",
    "path": "art_4",
    "text": "Do obwodu sądu okręgowego w Katowicach należą sądy powiatowe w Katowicach, Królewskiej Hucie, Lublińcu, Mikołowie, Mysłowicach, Pszczynie, Rudzie, Rybniku, Tarnowskich Górach, Wodzisławiu i Zórach.",
-   "children": [
-    {
-     "type": "text",
-     "text": "ROZDZIAŁ TRZECI."
-    },
-    {
-     "type": "text",
-     "text": "Sąd apelacyjny."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "ROZDZIAŁ TRZECI",
+   "text": "Sąd apelacyjny."
   },
   {
    "type": "art",
