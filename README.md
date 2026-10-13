@@ -78,6 +78,10 @@ Poniżej 90% poprawnych słów: 3 z 64 (78–88%: pogrubione tytuły, przebijaj�
 
 ## Stan
 
+Metadane (daty, tytuł, status, słowa kluczowe) uzgadnia z API ELI co tydzień workflow „Metadane” (od 2026-10-13):
+akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.csv`, front matter, linii `# tytuł`
+i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
+
 <!-- stats:start -->
 Stan na 2026-10-09 07:06 UTC (liczone z `index.csv`).
 

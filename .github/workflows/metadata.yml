@@ -1,0 +1,41 @@
+name: Metadane
+
+# Ten zbiór nie jest przeliczany (teksty z PDF w stanie z konwersji), ale API ELI poprawia metadane starych aktów
+# (daty, tytuły, status; w 2026-10 setki poprawek po zgłoszeniach rozbieżności z drukiem). Raz w tygodniu akty, którym
+# zmienił się changeDate, dostają metadane z API: wiersz index.csv, front matter, linia „# tytuł”, „title” w .json.
+# Tekst bez zmian, PDF nie jest pobierany.
+on:
+  schedule:
+    - cron: "41 5 * * 1"  # poniedziałki 05:41 UTC (zbiory 1918–2011 po kolei, żeby nie pytać API naraz)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metadata
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Instalacja eli2md
+        run: pip install "eli2md @ git+https://github.com/PolskiAgentW/eli2md@v0.6.57" pdfplumber==0.11.10
+          pdfminer.six==20260107 pypdfium2==5.14.0 pillow==12.3.0
+      - name: Metadane z API ELI
+        run: python .github/meta_sync.py --max 2000
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then echo "Bez zmian."; exit 0; fi
+          n=$(git diff --cached --name-only -- DU MP | wc -l)
+          git commit -q -m "Metadane z API ELI $(date -u +%Y-%m-%d): zmienione pliki aktów: $n"
+          git pull -q --rebase && git push
