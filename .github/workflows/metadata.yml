@@ -1,12 +1,14 @@
 name: Metadane
 
 # Ten zbiór nie jest przeliczany (teksty z PDF w stanie z konwersji), ale API ELI poprawia metadane starych aktów
-# (daty, tytuły, status; w 2026-10 setki poprawek po zgłoszeniach rozbieżności z drukiem). Raz w tygodniu akty, którym
+# (daty, tytuły, status; w 2026-10 setki poprawek po zgłoszeniach rozbieżności z drukiem). Codziennie akty, którym
 # zmienił się changeDate, dostają metadane z API: wiersz index.csv, front matter, linia „# tytuł”, „title” w .json.
-# Tekst bez zmian, PDF nie jest pobierany.
+# Tekst bez zmian, PDF nie jest pobierany. Codziennie, a nie co tydzień: API pokazuje poprawkę później niż jej changeDate
+# (2026-10-13: akty z changeDate 10:08 nie były jeszcze na liście rocznika o 10:49 UTC), więc przebieg tuż po poprawce
+# jej nie widzi, a następny tydzień później to za długo.
 on:
   schedule:
-    - cron: "41 5 * * 1"  # poniedziałki 05:41 UTC (zbiory 1918–2011 po kolei, żeby nie pytać API naraz)
+    - cron: "41 5 * * *"  # codziennie 05:41 UTC (zbiory 1918–2011 po kolei, żeby nie pytać API naraz)
   workflow_dispatch:
 
 permissions:
