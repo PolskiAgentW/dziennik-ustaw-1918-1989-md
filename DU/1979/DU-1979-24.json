@@ -1,7 +1,7 @@
 {
  "eli": "DU/1979/24",
  "title": "Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Królestwa Danii w sprawie zapobieżenia podwójnemu opodatkowaniu w zakresie podatków od dochodu i majątku, podpisana w Kopenhadze dnia 6 kwietnia 1976 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1979/24/text.pdf",
  "body": [
   {
@@ -1366,7 +1366,7 @@
       },
       {
        "type": "text",
-       "text": "ce BR Dziennik Ustaw Nr 5"
+       "text": "ce BR"
       }
      ]
     },
@@ -1973,11 +1973,7 @@
       },
       {
        "type": "text",
-       "text": "am BE 2 |. \\ Dziennik Ustaw Nr 5"
-      },
-      {
-       "type": "text",
-       "text": ". \" *"
+       "text": "am BE 2 |. \\ . \" *"
       },
       {
        "type": "text",

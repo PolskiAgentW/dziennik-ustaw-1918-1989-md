@@ -1,7 +1,7 @@
 {
  "eli": "DU/1944/40",
  "title": "Rozporządzenie Kierownika Resortu Obrony Narodowej w porozumieniu z Kierownikami Resortów Administracji Publicznej oraz Gospodarki Narodowej i Finansów z dnia 6 października 1944 r. o częściowej mobilizacji koni i wozów z uprzężą dla potrzeb Wojska Polskiego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/40/text.pdf",
  "body": [
   {
@@ -120,17 +120,8 @@
    "type": "par",
    "num": "6",
    "path": "par_6",
-   "text": "Konie i wozy z uprzężą właścicieli, umyślnie uchylających się od poboru, podlegają rekwizycji",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 7"
-    },
-    {
-     "type": "text",
-     "text": "bez żadnego odszkodowania, niezależnie od odpowiedzialności karnej właścicieli tychże koni i wozów, przewidzianej w art. 90 i 92 ustawy z dnia 30 marca 1939_r. o powszechnym obowiązku świadczeń rzeczowych (Dz. U. R. P. Nr 30, poz. 200) oraz art. 31 rozporządzenia Prezydenta Rzeczypospolitej, o obowiązku odstępowania zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów dla celów obrony Państwa z dnia 8 listopada 1927 r. (Dz. U. R. P. z 1939 r. Nr 74, poz. 502)."
-    }
-   ]
+   "text": "Konie i wozy z uprzężą właścicieli, umyślnie uchylających się od poboru, podlegają rekwizycji bez żadnego odszkodowania, niezależnie od odpowiedzialności karnej właścicieli tychże koni i wozów, przewidzianej w art. 90 i 92 ustawy z dnia 30 marca 1939_r. o powszechnym obowiązku świadczeń rzeczowych (Dz. U. R. P. Nr 30, poz. 200) oraz art. 31 rozporządzenia Prezydenta Rzeczypospolitej, o obowiązku odstępowania zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów dla celów obrony Państwa z dnia 8 listopada 1927 r. (Dz. U. R. P. z 1939 r. Nr 74, poz. 502).",
+   "children": []
   },
   {
    "type": "par",

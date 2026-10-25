@@ -1,7 +1,7 @@
 {
  "eli": "DU/1962/228",
  "title": "Obwieszczenie Ministra Gospodarki Komunalnej z dnia 25 lipca 1962 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 28 maja 1957 r. o wyłączeniu spod publicznej gospodarki lokalami domów jednorodzinnych oraz lokali w domach spółdzielni mieszkaniowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1962/228/text.pdf",
  "body": [
   {
@@ -83,20 +83,16 @@
   {
    "type": "signature",
    "text": "Minister Gospodarki Komunalnej: w z. J. Goryński"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "+ Dziennik Ustaw Nr 47 = APRĆ 6 użęgu 5% Poz. 228"
   }
  ],
  "annexes": [
   {
    "heading": "Załącznik do obwieszczenia Ministra Gespodarki Komunalnej 2 dnia 23 NE z ea 1962 r. (pęz. 228).",
    "body": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
     {
      "type": "text",
      "text": "USTAWA"

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1958/192",
  "title": "Rozporządzenie Rady Ministrów z dnia 13 czerwca 1958 r. w sprawie tworzenia funduszu zakładowego na rok 1958 w niektórych przedsiębiorstwach podległych Ministrowi Żeglugi i Gospodarki Wodnej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1958/192/text.pdf",
  "body": [
   {
@@ -81,7 +81,11 @@
       },
       {
        "type": "text",
-       "text": "= BBE — Dziennik Ustaw Nr 41 8%, Przackierewa Robót. Czerpalnych i wro”,"
+       "text": "= BBE —"
+      },
+      {
+       "type": "text",
+       "text": "8%, Przackierewa Robót. Czerpalnych i wro”,"
       }
      ]
     },

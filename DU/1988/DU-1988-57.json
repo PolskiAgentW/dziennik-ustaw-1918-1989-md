@@ -1,7 +1,7 @@
 {
  "eli": "DU/1988/57",
  "title": "Rozporządzenie Rady Ministrów z dnia 7 marca 1988 r. w sprawie ustalenia listy przedsiębiorstw o podstawowym znaczeniu dla gospodarki narodowej, w których dyrektora powołuje i odwołuje organ założycielski.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1988/57/text.pdf",
  "body": [
   {
@@ -70,20 +70,16 @@
   {
    "type": "signature",
    "text": "Prezes Rady Ministrów: w z. Z. Szałajda"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "? Dziennik Ustaw Nr 8"
   }
  ],
  "annexes": [
   {
    "heading": "Załącznik do rozporządzenia Rady Ministrów z dnia 7 marca 1988 r. (poz. 57)",
    "body": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
     {
      "type": "text",
      "text": "LISTA PRZEDSIĘBIORSTW O PODSTAWOWYM ZNACZENIU DLA GOSPODARKI NARODOWEJ, W KTÓRYCH DYREKTORA POWOŁUJE I ODWOŁUJE ORGAN ZAŁOŻYCIELSKI"
@@ -392,7 +388,12 @@
     },
     {
      "type": "text",
-     "text": "Wrocławskie Przedsiębiorstwo Konstrukcji Stalowych i Urządzeń Chłodniczych i Przemysłowych „Mostostal\" we Wrocławiu . Śląskie Przedsiębiorstwo Konstrukcji Stalowych i 25. kom-ZWUT\" w Warszawie. 181.",
+     "text": "Wrocławskie Przedsiębiorstwo Konstrukcji Stalowych i Urządzeń Chłodniczych i Przemysłowych „Mostostal\" we Wrocławiu . Śląskie Przedsiębiorstwo Konstrukcji Stalowych i 25. kom-ZWUT\" w Warszawie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "181",
      "quoted": true
     },
     {

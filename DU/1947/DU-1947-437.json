@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/437",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 14 listopada 1947 r. Regulamin wewnętrznego urzędowania sądów obywatelskich oraz sądów grodzkich i okręgowych w sprawach rozpoznawanych przez sądy obywatelskie.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/437/text.pdf",
  "body": [
   {
@@ -198,7 +198,7 @@
     },
     {
      "type": "text",
-     "text": "a 1175 — Dziennik Ustaw Nr 71"
+     "text": "a 1175 —"
     },
     {
      "type": "text",
@@ -1093,8 +1093,13 @@
    "type": "par",
    "num": "116",
    "path": "par_116",
-   "text": "W sali rozpraw na ścianie poza stołem 'sędziowskim winien znajdować się wizerunek herbu państwowego, a na stole sędziowskim krzyż. W miejscowościach, gdzie spodziewane jest składanie przysięgi przez osoby wyznania mojżeszowego, powinna się znajdować w sądzie tora.",
-   "children": []
+   "text": "W sali rozpraw na ścianie poza stołem 'sędziowskim winien znajdować się wizerunek herbu państwowego, a na stole sędziowskim krzyż.",
+   "children": [
+    {
+     "type": "text",
+     "text": "W miejscowościach, gdzie spodziewane jest składanie przysięgi przez osoby wyznania mojżeszowego, powinna się znajdować w sądzie tora."
+    }
+   ]
   },
   {
    "type": "par",

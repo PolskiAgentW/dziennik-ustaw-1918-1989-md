@@ -1,7 +1,7 @@
 {
  "eli": "DU/1945/39",
  "title": "Dekret z dnia 12 marca 1945 r. o powszechnym obowiązku świadczeń osobistych na rzecz odbudowy m. st. Warszawy.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/39/text.pdf",
  "body": [
   {
@@ -278,10 +278,6 @@
    "path": "art_6",
    "text": "§ t. Osoby, powołane do świadczeń osobistych, korzystają w przypadku choroby, powstałej w czasie wykonywania świadczenia, na koszt Skarbu Państwa z bezpłalnej pomocy lekarskiej, środków leczniczych i opatrunkowych oraz leczenia szpitalnego 1 utrzymania.",
    "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 8"
-    },
     {
      "type": "par",
      "num": "2",

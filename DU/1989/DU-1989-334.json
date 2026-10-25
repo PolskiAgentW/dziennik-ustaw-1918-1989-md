@@ -1,7 +1,7 @@
 {
  "eli": "DU/1989/334",
  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 16 października 1989 r. w sprawie warunków oraz rodzajów i wysokości świadczeń pomocy materialnej dla studentów studiów dziennych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1989/334/text.pdf",
  "body": [
   {
@@ -297,7 +297,7 @@
     },
     {
      "type": "text",
-     "text": "= 853 — Dziennik Ustaw Nr 56",
+     "text": "= 853 —",
      "quoted": true
     },
     {
@@ -509,10 +509,6 @@
         {
          "type": "note",
          "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "4 336 i 854 — Dziennik Ustaw Nr 56"
         }
        ]
       }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1949/73",
  "title": "Rozporządzenie Rady Ministrów z dnia 19 lutego 1949 r. w sprawie dostaw, robót i usług na rzecz Skarbu Państwa, samorządu oraz niektórych kategorii osób prawnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/73/text.pdf",
  "body": [
   {
@@ -488,11 +488,6 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "<— 122 —. Poz. 73 Dziennik Ustaw Nr 12",
-       "quoted": true
       },
       {
        "type": "text",
@@ -1355,7 +1350,11 @@
     },
     {
      "type": "text",
-     "text": "§ 638 1. Zawiadamiający może przedłużyć termin „ wykonania umowy bez pobierania odszkodowania umownego za zwłokę lub umorzyć wymierzone już odszkodowanie jedynie w przypadkach, gdy przekroczenie terminu nastąpiło z przyczyny niezawinionej przez dostawcę lub przedsiębiorcę albo jeżeli zamawiający nie poniósł konkretnej szkody wskutek niedotrzymania terminu. przedłużenia terminu"
+     "text": "§ 638 1. Zawiadamiający może przedłużyć termin „ wykonania umowy bez pobierania odszkodowania umownego za zwłokę lub umorzyć wymierzone już odszkodowanie jedynie w przypadkach, gdy przekroczenie terminu nastąpiło z przyczyny niezawinionej przez dostawcę lub przedsiębiorcę albo jeżeli zamawiający nie poniósł konkretnej szkody wskutek niedotrzymania terminu."
+    },
+    {
+     "type": "text",
+     "text": "przedłużenia terminu"
     },
     {
      "type": "ust",

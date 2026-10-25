@@ -1,7 +1,7 @@
 {
  "eli": "DU/1962/295",
  "title": "Rozporządzenie Ministrów Komunikacji i Spraw Wewnętrznych z dnia 1 października 1962 r. w sprawie ruchu na drogach publicznych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1962/295/text.pdf",
  "body": [
   {
@@ -5672,10 +5672,6 @@
      "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
-     "type": "text",
-     "text": "\"Poz. 295. Dziennik Ustaw Nr 61"
-    },
-    {
      "type": "pkt",
      "num": "1",
      "path": "par_161/pkt_1",
@@ -7291,6 +7287,10 @@
       {
        "type": "note",
        "text": "[Strona 30 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "\"534 —"
       }
      ]
     }
@@ -9100,11 +9100,6 @@
     {
      "type": "note",
      "text": "[Strona 38 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw. Nr 61",
-     "quoted": true
     },
     {
      "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1949/243",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 18 maja 1949 r. o ogłoszeniu jednolitego tekstu kodeksu postępowania karnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/243/text.pdf",
  "body": [
   {
@@ -103,7 +103,7 @@
       },
       {
        "type": "text",
-       "text": "— 1% — Dziennik Ustaw Nr 33"
+       "text": "— 1% —"
       }
      ]
     },
@@ -737,7 +737,11 @@
       },
       {
        "type": "text",
-       "text": "> Dziennik Ustaw Nr 53 ZA GRADE EZ,"
+       "text": ">"
+      },
+      {
+       "type": "text",
+       "text": "ZA GRADE EZ,"
       },
       {
        "type": "text",
@@ -2992,7 +2996,7 @@
         },
         {
          "type": "text",
-         "text": "= _Poz. 243 Dziennik Ustaw Nr 23 cus"
+         "text": "= _Poz. 243 cus"
         },
         {
          "type": "text",
@@ -4893,7 +4897,7 @@
           },
           {
            "type": "text",
-           "text": "wa i Poz. 243 Dziennik Ustaw Nr 32 —"
+           "text": "wa i Poz. 243"
           }
          ]
         }
@@ -5412,6 +5416,10 @@
         {
          "type": "note",
          "text": "[Strona 21 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "751 ="
         },
         {
          "type": "text",
@@ -7403,7 +7411,7 @@
         },
         {
          "type": "text",
-         "text": "* Dziennik Ustaw Nr 33"
+         "text": "*"
         }
        ]
       },
@@ -8347,7 +8355,7 @@
         },
         {
          "type": "text",
-         "text": "— m2 — Dziennik Ustaw Nr 33",
+         "text": "— m2 —",
          "quoted": true
         },
         {

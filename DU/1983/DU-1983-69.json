@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/69",
  "title": "Umowa między Polską Rzecząpospolitą Ludową a Królestwem Maroka o pomocy prawnej w sprawach cywilnych i karnych, sporządzona w Warszawie dnia 21 maja 1979 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/69/text.pdf",
  "body": [
   {
@@ -1039,6 +1039,10 @@
       {
        "type": "note",
        "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "212 =,"
       },
       {
        "type": "text",
@@ -2163,11 +2167,6 @@
       {
        "type": "note",
        "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "470 219 + Dziennik Ustaw Nr 14 —",
-       "quoted": true
       },
       {
        "type": "text",

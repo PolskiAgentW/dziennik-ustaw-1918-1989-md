@@ -1,7 +1,7 @@
 {
  "eli": "DU/1986/179",
  "title": "Rozporządzenie Ministra Komunikacji z dnia 11 września 1986 r. w sprawie zaliczenia dróg do kategorii dróg wojewódzkich w województwach: bydgoskim, elbląskim, gdańskim, gorzowskim, legnickim, krakowskim, łódzkim, skierniewickim, toruńskim, wałbrzyskim, włocławskim i wrocławskim.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1986/179/text.pdf",
  "body": [
   {
@@ -160,7 +160,7 @@
     },
     {
      "type": "text",
-     "text": "Poz."
+     "text": "— 2 — Poz."
     },
     {
      "type": "text",
@@ -534,7 +534,7 @@
       },
       {
        "type": "text",
-       "text": "Poz."
+       "text": "— 13 — Poz."
       },
       {
        "type": "text",
@@ -1807,7 +1807,7 @@
     },
     {
      "type": "text",
-     "text": "—-. 39 = = + Poz. -179 Dziennik Ustaw Nr 35",
+     "text": "—-. 39 = = + Poz. -179",
      "quoted": true
     },
     {
@@ -2068,7 +2068,7 @@
       },
       {
        "type": "text",
-       "text": "BD EPO Dziennik Ustaw Nr 35"
+       "text": "BD EPO"
       },
       {
        "type": "text",
@@ -2200,8 +2200,12 @@
      "type": "ust",
      "num": "38353",
      "path": "ust_38353",
-     "text": "Ruda — Kamion 38354 Skierniewice — Bartniki — Miedniewice 38355 Skierniewice — Głuchów — granica węjewędzową — _ (Józefin) 38356 Lipce — Godzianów — Zapady 38357 Słupia — Lipce — Pszczonów. 38358 Kalenice — Bobrowa - 38359 Trzcianka — Chlebów 38360 Lipce — Teresin 38361 Słupia — Kołacinek > 38362 (Niesułków) — granica województwa — Kołacin — Jeżów 38363 (Głowno) — granica województwa — Kołacin 38364 Nagawki — Nadolna — Kotulin 38365 Grodzisk — Zawady-Trzcianka 38366 . „Dmosin — Szczecin — granica województwa — (Niesułków) 38367 Tadzin — Dmosin. 38368 Brzeziny — granica województwa — . (Sierznia) 38369 Brzeziny — granica województwa — (Andrespol)",
+     "text": "Ruda — Kamion 38354 Skierniewice — Bartniki — Miedniewice 38355 Skierniewice — Głuchów — granica węjewędzową — _ (Józefin) 38356 Lipce — Godzianów — Zapady 38357 Słupia — Lipce — Pszczonów. 38358 Kalenice — Bobrowa - 38359 Trzcianka — Chlebów",
      "children": [
+      {
+       "type": "text",
+       "text": "38360 Lipce — Teresin 38361 Słupia — Kołacinek > 38362 (Niesułków) — granica województwa — Kołacin — Jeżów 38363 (Głowno) — granica województwa — Kołacin 38364 Nagawki — Nadolna — Kotulin 38365 Grodzisk — Zawady-Trzcianka 38366 . „Dmosin — Szczecin — granica województwa — (Niesułków) 38367 Tadzin — Dmosin. 38368 Brzeziny — granica województwa — . (Sierznia) 38369 Brzeziny — granica województwa — (Andrespol)"
+      },
       {
        "type": "text",
        "text": "— 45 — DEC i Pog. 179"
@@ -2402,7 +2406,11 @@
       },
       {
        "type": "text",
-       "text": ". Załącznik nr 9 WYKAZ DRÓG WOJEWÓDZKICH"
+       "text": ". Załącznik nr 9"
+      },
+      {
+       "type": "text",
+       "text": "WYKAZ DRÓG WOJEWÓDZKICH"
       },
       {
        "type": "text",

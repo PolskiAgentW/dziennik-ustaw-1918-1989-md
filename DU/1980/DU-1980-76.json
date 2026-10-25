@@ -1,7 +1,7 @@
 {
  "eli": "DU/1980/76",
  "title": "Konwencja konsularna między Polską Rzecząpospolitą Ludową a Socjalistyczną Republiką Wietnamu, podpisana w Hanoi dnia 27 września 1979 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1980/76/text.pdf",
  "body": [
   {
@@ -391,6 +391,11 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "—= 228 —:",
+       "quoted": true
       },
       {
        "type": "text",
@@ -1040,7 +1045,7 @@
       },
       {
        "type": "text",
-       "text": "= i 22 Dziennik Ustaw Nr 21",
+       "text": "= i 22",
        "quoted": true
       },
       {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/117",
  "title": "Rozporządzenie Ministra Skarbu z dnia 21 lutego 1939 r. o zmianie rozporządzenia Ministra Skarbu z dnia 10 września 1932 r. w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 lipca 1932 r. o monopolu spirytusowym, opodatkowaniu kwasu octowego i drożdży oraz sprzedaży napojów alkoholowych, wydane co do §1 pkt 1, 9-18, 20-22, 29 i 39 w porozumieniu z Ministrem Rolnictwa i Reform Rolnych oraz co do § 1 pkt 1, 3, 4, 22, 23 i 29 w porozumieniu z Ministrem Przemysłu i Handlu a co do §§ 2 i 3 w porozumieniu z Ministrami Rolnictwa i Reform Rolnych oraz Przemysłu i Handlu.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/117/text.pdf",
  "body": [
   {
@@ -194,10 +194,6 @@
        "path": "ust_2/pkt_14/lit_b",
        "text": "10% — w stosunku prostym do obszaru zajętego przeciętnie w ostatnim trzechleciu pod uprawę ziemniaków. W razie zmniejszenia się w ciągu ostatniego trzechlecia ogólnego obszaru majątku połączonego z śorzelnią wskutek parcelacji, wydzierżawienia lub częściowego wyzbycia się, powodującego zmniejszenie się plantacji ziemniaków, należy przyjmować do obliczenia zmniejszony obszar plantacji ziemniaków według stanu istniejącego w chwili składania podania; postanowienia te stosuje się również do czynników wy-",
        "children": [
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 18"
-        },
         {
          "type": "text",
          "text": "_'mienionych pod lit. c) i g). W przy-"

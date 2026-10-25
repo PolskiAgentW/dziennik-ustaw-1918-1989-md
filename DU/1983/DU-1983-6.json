@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/6",
  "title": "Rozporządzenie Ministra Finansów z dnia 10 stycznia 1983 r. zmieniające rozporządzenie w sprawie zryczałtowania podatków obrotowego i dochodowego od niektórych grup podatników oraz w sprawie opłaty skarbowej z tytułu wykonywania rzemiosła.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/6/text.pdf",
  "body": [
   {
@@ -98,12 +98,7 @@
   },
   {
    "type": "text",
-   "text": "aa JO Dziennik Ustaw Nr 1",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "*",
+   "text": "aa JO *",
    "quoted": true
   },
   {

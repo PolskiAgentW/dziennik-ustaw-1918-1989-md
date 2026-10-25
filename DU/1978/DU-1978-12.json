@@ -1,7 +1,7 @@
 {
  "eli": "DU/1978/12",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 16 lutego 1978 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 6 maja 1953 r. - Prawo górnicze.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1978/12/text.pdf",
  "body": [
   {
@@ -2161,7 +2161,7 @@
         },
         {
          "type": "text",
-         "text": ".. r,s;.\" t --"
+         "text": ".. r,s;.\" --"
         },
         {
          "type": "note",
@@ -2927,7 +2927,7 @@
           },
           {
            "type": "text",
-           "text": "— \"Ss = Dziennik Ustaw Nr 4"
+           "text": "— \"Ss ="
           }
          ]
         },
@@ -3218,7 +3218,7 @@
       },
       {
        "type": "text",
-       "text": ",. . 'J I ', . '{/' •. ł.\""
+       "text": ",. .'J I ', . t '{/' •. ł.\""
       }
      ]
     }

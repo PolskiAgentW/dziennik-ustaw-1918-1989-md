@@ -1,7 +1,7 @@
 {
  "eli": "DU/1975/210",
  "title": "Rozporządzenie Rady Ministrów z dnia 20 listopada 1975 r. w sprawie ceł na towary przywożone w handlowym obrocie towarowym z zagranicą.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/210/text.pdf",
  "body": [
   {
@@ -16939,7 +16939,11 @@
         },
         {
          "type": "text",
-         "text": "14.06 Proszki i płatki miedzi 10 15 74.07 Rury i przewody oraz tuleje z miedzi, sztaby puste wewnątrz z miedzi 15 25 74.08 Armatura do rur i przewodów (np. złącza, kolanka, obrzeza i mufy) z miedzi he 25 174.09 Rezerwuary, cysterny, kadzie i podobne poire A E I jemniki na jakikolwiek materiał (inny niż sprężony lub skroplony gaz), z miedzi, o po- ; pean wazna :"
+         "text": "14.06 Proszki i płatki miedzi 10 15"
+        },
+        {
+         "type": "text",
+         "text": "74.07 Rury i przewody oraz tuleje z miedzi, sztaby puste wewnątrz z miedzi 15 25 74.08 Armatura do rur i przewodów (np. złącza, kolanka, obrzeza i mufy) z miedzi he 25 174.09 Rezerwuary, cysterny, kadzie i podobne poire A E I jemniki na jakikolwiek materiał (inny niż sprężony lub skroplony gaz), z miedzi, o po- ; pean wazna :"
         },
         {
          "type": "text",
@@ -18784,7 +18788,11 @@
        "children": [
         {
          "type": "text",
-         "text": "30 20"
+         "text": "30"
+        },
+        {
+         "type": "text",
+         "text": "20"
         }
        ]
       },
@@ -18833,8 +18841,13 @@
        "type": "pkt",
        "num": "3",
        "path": "ust_5/pkt_3",
-       "text": "podzespoły i części 10 15 84.44 Walcarki i wałce walcarek: 84.36 kien sztucznych; maszyny stosowane do przygotowania włókien naturalnych lub sztucznych; przędzarki i skręcarki; maszyny do",
-       "children": []
+       "text": "podzespoły i części 10 15",
+       "children": [
+        {
+         "type": "text",
+         "text": "84.44 Walcarki i wałce walcarek: 84.36 kien sztucznych; maszyny stosowane do przygotowania włókien naturalnych lub sztucznych; przędzarki i skręcarki; maszyny do"
+        }
+       ]
       },
       {
        "type": "pkt",
@@ -20804,10 +20817,6 @@
       },
       {
        "type": "text",
-       "text": "= Poz. 210 Dziennik Ustaw Nr 40"
-      },
-      {
-       "type": "text",
        "text": "Stawka celna Nr Nazwa towaru w % od wartości I"
       },
       {
@@ -21786,8 +21795,13 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "wyroby z masy perłowej 20 30 95.03 Obrobiona kość słoniowa i wyroby z kości słoniowej:",
-     "children": []
+     "text": "wyroby z masy perłowej 20 30",
+     "children": [
+      {
+       "type": "text",
+       "text": "95.03 Obrobiona kość słoniowa i wyroby z kości słoniowej:"
+      }
+     ]
     },
     {
      "type": "pkt",
@@ -21800,11 +21814,23 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "wyroby z kości słoniowej 20 30 95.04 Obrobiona kość (z wyjątkiem fiszbinu) i wyroby z kości (z wyjątkiem wyrobów z fiszbinu) 20 30",
+     "text": "wyroby z kości słoniowej 20 30",
      "children": [
       {
        "type": "text",
-       "text": "95.05 Obrobiony róg, koral (naturalny lub spiekany) i inne materiały rzeźbiarskie pochodzenia zwierzęcego oraz wyroby z rogu, korala lub z innych matertaléw rzeźbiarskich pochodzenia zwierzęcego 20 30 95.06 Obrobione materiały rzeźbiarskie pochodzenia roślinnego (np. korozo) oraz wyroby z materiałów rzeźbiarskich pochodzenia roślinnego 20 30 95.07 Obrobione: gagat (oraz mineralne namiastki gagata), Pny, pianka morska, bursztyn spiekany, pianka morska spiekana oraz wyroby z tych materiałów:"
+       "text": "95.04 Obrobiona kość (z wyjątkiem fiszbinu) i wyroby z kości (z wyjątkiem wyrobów z fiszbinu) 20 30"
+      },
+      {
+       "type": "text",
+       "text": "95.05 Obrobiony róg, koral (naturalny lub spiekany) i inne materiały rzeźbiarskie pochodzenia zwierzęcego oraz wyroby z rogu, korala lub z innych matertaléw rzeźbiarskich pochodzenia zwierzęcego 20 30"
+      },
+      {
+       "type": "text",
+       "text": "95.06 Obrobione materiały rzeźbiarskie pochodzenia roślinnego (np. korozo) oraz wyroby z materiałów rzeźbiarskich pochodzenia roślinnego 20 30"
+      },
+      {
+       "type": "text",
+       "text": "95.07 Obrobione: gagat (oraz mineralne namiastki gagata), Pny, pianka morska, bursztyn spiekany, pianka morska spiekana oraz wyroby z tych materiałów:"
       }
      ]
     },
@@ -21838,7 +21864,11 @@
       },
       {
        "type": "text",
-       "text": "Szczotki, pędzie, odkurzacze z piór, puszki de pudru i sita Uwagi: Niniejszy rozdział nie obejmuje: ="
+       "text": "Szczotki, pędzie, odkurzacze z piór, puszki de pudru i sita Uwagi:"
+      },
+      {
+       "type": "text",
+       "text": "Niniejszy rozdział nie obejmuje: ="
       },
       {
        "type": "lit",
@@ -21887,8 +21917,16 @@
      "type": "pkt",
      "num": "2",
      "path": "pkt_2",
-     "text": "pozostałe 20 30 96.03 Wiązki i pęczki przygotowane do wyrobu szczotek i pędzli 20 30 96.04 Odkurzacze z piór 30 45 96.05 Puszk’ do pudru i tampony do kosmetyków oraz wyrobów toaletowych, z wszelkich materiałów 20 30",
+     "text": "pozostałe 20 30",
      "children": [
+      {
+       "type": "text",
+       "text": "96.03 Wiązki i pęczki przygotowane do wyrobu szczotek i pędzli 20 30 96.04 Odkurzacze z piór 30 45"
+      },
+      {
+       "type": "text",
+       "text": "96.05 Puszk’ do pudru i tampony do kosmetyków oraz wyrobów toaletowych, z wszelkich materiałów 20 30"
+      },
       {
        "type": "text",
        "text": "96.06 Przetaki ręczne oraz sita ken z wszelkich materiałów 15 25"

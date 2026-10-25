@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/365",
  "title": "Rozporządzenie Ministra Skarbu z dnia 31 października 1946 r. o księgach handlowych, uproszczonych i podatkowych, wydane co do §§ 2-11 w porozumieniu z Ministrami Przemysłu oraz Aprowizacji i Handlu.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/365/text.pdf",
  "body": [
   {
@@ -658,7 +658,7 @@
     },
     {
      "type": "text",
-     "text": "= 7 Poz. 365 «— 788 Dziennik Ustaw Nr 65"
+     "text": "= 7 Poz. 365 «— 788"
     }
    ]
   },
@@ -932,7 +932,15 @@
    "children": [
     {
      "type": "text",
-     "text": "Minister Skarbu: Konstanty Dąbrowski Minister Przemysłu: © ~ - Hilary Mine Minister Aprowizacji i Handlua Jerzy Sziachelskt"
+     "text": "Minister Skarbu: Konstanty Dąbrowski"
+    },
+    {
+     "type": "text",
+     "text": "Minister Przemysłu: © ~ - Hilary Mine"
+    },
+    {
+     "type": "text",
+     "text": "Minister Aprowizacji i Handlua Jerzy Sziachelskt"
     },
     {
      "type": "note",
@@ -976,11 +984,7 @@
     },
     {
      "type": "text",
-     "text": "TABELA AMORTYZACYJNA Odpisy na cmortyzecie la t a ca"
-    },
-    {
-     "type": "text",
-     "text": "Wzór Nr 1 do § 10 ro a as ee es ae 19 —_— MI"
+     "text": "TABELA AMORTYZACYJNA Odpisy na cmortyzecie la t a ca Wzór Nr 1 do § 10 ro a as ee es ae 19 —_— MI"
     },
     {
      "type": "text",
@@ -1237,12 +1241,7 @@
       },
       {
        "type": "text",
-       "text": "Poe. 365",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 65 . (Karta tytułowej Wzór Nr 5",
+       "text": "Poe. 365 (Karta tytułowej Wzór Nr 5",
        "quoted": true
       },
       {
@@ -2398,7 +2397,12 @@
       },
       {
        "type": "text",
-       "text": "e) w rubryce 13 — wypłaty pochodzące z sum pobranych do rozliczenia i za-, księgowanych na przychód. * Uwaga: wypełnienie rubryki 12 pozostawia się do uznania podatnika, przy czym w przypadku jej niewypełnienia nie należy również wypełniać rubryk 9, 10, 11, natomiast wypełnianie rubryki 13 oraz zamieszczanie w rubrykach 9, 10, 11 treści, odnoszącej się do sum z rubryki 13, jest obowiązkowe,",
+       "text": "e) w rubryce 13 — wypłaty pochodzące z sum pobranych do rozliczenia i za-, księgowanych na przychód. *",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Uwaga: wypełnienie rubryki 12 pozostawia się do uznania podatnika, przy czym w przypadku jej niewypełnienia nie należy również wypełniać rubryk 9, 10, 11, natomiast wypełnianie rubryki 13 oraz zamieszczanie w rubrykach 9, 10, 11 treści, odnoszącej się do sum z rubryki 13, jest obowiązkowe,",
        "quoted": true
       },
       {

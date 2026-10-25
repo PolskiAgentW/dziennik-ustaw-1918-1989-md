@@ -1,7 +1,7 @@
 {
  "eli": "DU/1989/357",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 17 października 1989 r. w sprawie opłaty od podania o wniesienie rewizji nadzwyczajnej w sprawach karnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1989/357/text.pdf",
  "body": [
   {
@@ -41,14 +41,6 @@
   {
    "type": "signature",
    "text": "Minister Sprawiedliwości: A. Bentkowski"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "— Dziennik Ustaw Nr 60 ="
   }
  ],
  "annexes": [],

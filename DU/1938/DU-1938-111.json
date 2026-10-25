@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/111",
  "title": "Rozporządzenie Ministra Komunikacji z dnia 16 lutego 1938 r. wydane w porozumieniu z Ministrami Spraw Wojskowych i Spraw Wewnętrznych w sprawie przepisów o zapobieganiu zderzeniu statków powietrznych w trudnych warunkach atmosferycznych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/111/text.pdf",
  "body": [
   {
@@ -392,10 +392,6 @@
     {
      "type": "note",
      "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "—————-——_—_—_ Dziennik Ustaw Nr 16"
     },
     {
      "type": "text",

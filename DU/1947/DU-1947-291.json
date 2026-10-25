@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/291",
  "title": "Rozporządzenie Ministra Skarbu z dnia 21 czerwca 1947 r. w sprawie wykonania dekretu z dnia 18 sierpnia 1945 r. o podatku od wynagrodzeń.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/291/text.pdf",
  "body": [
   {
@@ -204,7 +204,7 @@
       },
       {
        "type": "text",
-       "text": "— sor — Dziennik Ustaw Nr 54 ."
+       "text": "— sor —"
       }
      ]
     },
@@ -365,6 +365,10 @@
       },
       {
        "type": "text",
+       "text": "—"
+      },
+      {
+       "type": "text",
        "text": "/"
       },
       {
@@ -499,7 +503,7 @@
       },
       {
        "type": "text",
-       "text": "ZEŃ aa Dziennik Ustaw Nr 54"
+       "text": "ZEŃ aa"
       },
       {
        "type": "text",
@@ -1298,7 +1302,7 @@
         },
         {
          "type": "text",
-         "text": "_899 Dziennik Ustaw Nr 54",
+         "text": "_899",
          "quoted": true
         },
         {

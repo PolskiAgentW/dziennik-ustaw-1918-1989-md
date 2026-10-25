@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/128",
  "title": "Rozporządzenie Ministra Skarbu z dnia 2 marca 1938 r. o zmianie w organizacji urzędów skarbowych i urzędów opłat stemplowych w okręgu administracyjnym Izby Skarbowej w Białymstoku, Grudziądzu, Kielcach, Krakowie i Poznaniu.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/128/text.pdf",
  "body": [
   {
@@ -84,10 +84,6 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "i:129 ; Dziennik Ustaw Nr 17"
     },
     {
      "type": "text",

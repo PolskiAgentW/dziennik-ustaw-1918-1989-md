@@ -1,7 +1,7 @@
 {
  "eli": "DU/1972/351",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 grudnia 1972 r. w sprawie projektów wynalazczych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1972/351/text.pdf",
  "body": [
   {
@@ -139,7 +139,7 @@
         },
         {
          "type": "text",
-         "text": "= RZL nh Eg a p $ p g=zg Z, owi"
+         "text": "— 63 = RZL nh Eg a p $ p g=zg Z, owi"
         },
         {
          "type": "text",
@@ -2299,7 +2299,7 @@
   },
   {
    "type": "text",
-   "text": "są Poz. 351 Dziennik Ustaw Nr 54",
+   "text": "są Poz. 351",
    "quoted": true
   },
   {
@@ -2944,7 +2944,7 @@
     },
     {
      "type": "text",
-     "text": "— 646 — \" Poz. 351 _ Dziennik Ustaw Nr 54"
+     "text": "— 646 — \" Poz. 351 _"
     }
    ]
   }

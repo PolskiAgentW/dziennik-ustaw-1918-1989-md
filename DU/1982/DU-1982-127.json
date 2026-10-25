@@ -1,7 +1,7 @@
 {
  "eli": "DU/1982/127",
  "title": "Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Hiszpanii o unikaniu podwójnego opodatkowania w zakresie podatków od dochodu i majątku, podpisana w Madrycie dnia 15 listopada 1979 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/127/text.pdf",
  "body": [
   {
@@ -87,7 +87,7 @@
   },
   {
    "type": "text",
-   "text": "a, AO tm Dziennik Ustaw Nr 17.",
+   "text": "a, AO tm",
    "quoted": true
   },
   {
@@ -442,6 +442,11 @@
   {
    "type": "note",
    "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "== :",
+   "quoted": true
   },
   {
    "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/44",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 16 stycznia 1939 r. o ogłoszeniu jednolitego tekstu kodeksu postępowania karnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/44/text.pdf",
  "body": [
   {
@@ -615,7 +615,14 @@
      "type": "par",
      "num": "1",
      "path": "art_37/par_1",
-     "text": "Jeżeli sąd wojskowy zażąda odstąpienia mu spławy rozpozhawanej przez sąd powszechny, lub odwrotnie, a sąd, od którego zażądano odstapietiia, na to się nie zgadza, wówczas sąd powszechny przedstawia rzecz wraz ze swoją opinią do decyzji sądu powszechnego drugiej instancji. §2. Jeżeli sąd powszechny drugiej instancji również oświadczy się za właściwością sądu powszechnego, wówczas przedstawia rzecz wraz ze swoją opinią do decyzji Sądu Najwyższego. 8 3. Jeżeli Sąd Najwyższy także oświad- „ czy się za właściwością sądu powszechnego, to przesyła sprawę wraz ze swoją opinią Najwyższemu Sądowi Wojskowemu, a w razie niezgodności opinii obu Sądów Najwyższych, sprawę rozstrzyga zespół z siedmiu osób, a mianowicie — z sześciu sędziów delegowanych w równej liczbie przez oba sądy, pod przewodnictwem kolejnym prezesów obu sądów. Decyzje zapadają na posiedzeniu niejawnym, według przepisów niniejszego kodeksu, po wysłuchaniu wniosków prokuratorów obu sądów.",
+     "text": "Jeżeli sąd wojskowy zażąda odstąpienia mu spławy rozpozhawanej przez sąd powszechny, lub odwrotnie, a sąd, od którego zażądano odstapietiia, na to się nie zgadza, wówczas sąd powszechny przedstawia rzecz wraz ze swoją opinią do decyzji sądu powszechnego drugiej instancji.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_37/par_2",
+     "text": "Jeżeli sąd powszechny drugiej instancji również oświadczy się za właściwością sądu powszechnego, wówczas przedstawia rzecz wraz ze swoją opinią do decyzji Sądu Najwyższego. 8 3. Jeżeli Sąd Najwyższy także oświad- „ czy się za właściwością sądu powszechnego, to przesyła sprawę wraz ze swoją opinią Najwyższemu Sądowi Wojskowemu, a w razie niezgodności opinii obu Sądów Najwyższych, sprawę rozstrzyga zespół z siedmiu osób, a mianowicie — z sześciu sędziów delegowanych w równej liczbie przez oba sądy, pod przewodnictwem kolejnym prezesów obu sądów. Decyzje zapadają na posiedzeniu niejawnym, według przepisów niniejszego kodeksu, po wysłuchaniu wniosków prokuratorów obu sądów.",
      "children": [
       {
        "type": "text",
@@ -966,10 +973,6 @@
      "path": "art_58/par_3",
      "text": "Czynność dokonana przez oskarżyciela publicznego, który powinien się był wyłączyć, nie jest z tego powodu nieważna.",
      "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 8"
-      },
       {
        "type": "text",
        "text": "Art. 60, § 1. Oskarżyciel publiczny może już w toku dochodzenia złożyć wniosek o zabezpieczenie grożącej oskarżonemu kary pieniężnej lub konfiskaty sposobami, wskazanymi w ustawie postępowania cywilnego dla zabezpieczenia powództwa."
@@ -1882,12 +1885,7 @@
       },
       {
        "type": "text",
-       "text": "§ 1. W sprawach o podrabianie polskich pieniędzy sąd zasięga opinii urzędu lub zakładu,",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 8 powołanego do drukowania bańknotów lub bicia monet.",
+       "text": "§ 1. W sprawach o podrabianie polskich pieniędzy sąd zasięga opinii urzędu lub zakładu, powołanego do drukowania bańknotów lub bicia monet.",
        "quoted": true
       },
       {
@@ -2180,11 +2178,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 8",
-       "quoted": true
-      },
-      {
-       "type": "text",
        "text": "Art. 163.",
        "quoted": true
       },
@@ -2260,7 +2253,7 @@
       },
       {
        "type": "text",
-       "text": "§1. Schwytanego na gorącym uczynku lub bezpośrednio potem w czasie pościgu, każdy ma prawo zatrzymać nawet bez postanowienia sądu, jeżeli zachodzi obawa ucieczki schwytanego lub jeżeli nie można ustalić jego tożsamości.",
+       "text": "§ 1. Schwytanego na gorącym uczynku lub bezpośrednio potem w czasie pościgu, każdy ma prawo zatrzymać nawet bez postanowienia sądu, jeżeli zachodzi obawa ucieczki schwytanego lub jeżeli nie można ustalić jego tożsamości.",
        "quoted": true
       },
       {
@@ -2846,7 +2839,7 @@
       },
       {
        "type": "text",
-       "text": "— ostatnim znanym adresem, uważa się za doręczone.",
+       "text": "ostatnim znanym adresem, uważa się za doręczone.",
        "quoted": true
       },
       {
@@ -3388,7 +3381,12 @@
       },
       {
        "type": "text",
-       "text": "§ 2. O odmowie ścigania lub umorzeniu dochodzenia zawiadamia się. pokrzywdzonego oraz osobę, którą sąd przesłuchał jako podejrzaną lub co do której wydano nakaz aresztowania. § 3. Na postanowienia powyższe służy zażalenie.",
+       "text": "§ 2. O odmowie ścigania lub umorzeniu dochodzenia zawiadamia się. pokrzywdzonego oraz osobę, którą sąd przesłuchał jako podejrzaną lub co do której wydano nakaz aresztowania.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3. Na postanowienia powyższe służy zażalenie.",
        "quoted": true
       },
       {
@@ -3849,7 +3847,7 @@
       },
       {
        "type": "text",
-       "text": "M — Dziennik Ustaw Nr 8 okręgowego celem powzięcia na posiedzeniu niejawnym, po wysłuchaniu oskarżonego lub jego postanowienia co do zastosowania - obrońcy, względem oskarżonego środków wychowawczych lub zabezpieczających. ="
+       "text": "M — okręgowego celem powzięcia na posiedzeniu niejawnym, po wysłuchaniu oskarżonego lub jego postanowienia co do zastosowania - obrońcy, względem oskarżonego środków wychowawczych lub zabezpieczających. ="
       }
      ]
     },
@@ -4669,12 +4667,7 @@
    "num": "335",
    "path": "art_335",
    "text": "Po wysłuchaniu oskarżonego przewodniczący zarządza postępowanie dowodowe oraz poucza oskarżonego, że wolno mu czynić uwagi i składać wyjaśnienia co do każdego dowodu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 8"
-    }
-   ]
+   "children": []
   },
   {
    "type": "art",
@@ -6907,7 +6900,7 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 8 Art, 529, Sąd Najwyższy po rozpoztanitt sprawy wydaje wyrok, którego mocą oddala kasację albo uchyla zaskarżony wytok w całości lub w eżęświ,"
+       "text": "Art, 529, Sąd Najwyższy po rozpoztanitt sprawy wydaje wyrok, którego mocą oddala kasację albo uchyla zaskarżony wytok w całości lub w eżęświ,"
       },
       {
        "type": "text",
@@ -7111,10 +7104,6 @@
       {
        "type": "note",
        "text": "[Strona 42 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "oo Dziennik Ustaw Nr 8"
       },
       {
        "type": "text",
@@ -7441,7 +7430,11 @@
     },
     {
      "type": "text",
-     "text": "Art. 568, Prośba o ułaskawienie nie wstrzymuje wykonania wyroku."
+     "text": "Art. 568,"
+    },
+    {
+     "type": "text",
+     "text": "Prośba o ułaskawienie nie wstrzymuje wykonania wyroku."
     }
    ]
   },
@@ -7593,7 +7586,14 @@
    "children": [
     {
      "type": "text",
-     "text": "Art. 578, § 1. Od skazanego sąd zasądza na rzecz Skarbu Państwa koszty postępowania łącznie z wydatkami, poniesionymi w toku dochodzenia i śledztwa oraz kosztami wykonania wyroku."
+     "text": "Art. 578,"
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_577/par_1",
+     "text": "Od skazanego sąd zasądza na rzecz Skarbu Państwa koszty postępowania łącznie z wydatkami, poniesionymi w toku dochodzenia i śledztwa oraz kosztami wykonania wyroku.",
+     "children": []
     },
     {
      "type": "par",
@@ -8219,10 +8219,6 @@
      "path": "art_620/par_2",
      "text": "Obok środków, wskazanych w § 1 lit. a), sąd może zażądać poręczenia lub kaucji od osoby; której nieletniego powierzono.",
      "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 8"
-      },
       {
        "type": "text",
        "text": "Art, 621,"

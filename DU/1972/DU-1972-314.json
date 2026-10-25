@@ -1,7 +1,7 @@
 {
  "eli": "DU/1972/314",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 30 listopada 1972 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 25 stycznia 1958 r. o radach narodowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1972/314/text.pdf",
  "body": [
   {
@@ -3240,10 +3240,6 @@
         {
          "type": "note",
          "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "= \"Poz. 314 Dziennik Ustaw Nr 49"
         }
        ]
       },
@@ -3488,7 +3484,7 @@
         },
         {
          "type": "text",
-         "text": "ani BOB a Dziennik Ustaw Nr 49"
+         "text": "ani BOB a"
         }
        ]
       },

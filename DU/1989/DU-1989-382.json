@@ -1,7 +1,7 @@
 {
  "eli": "DU/1989/382",
  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 8 listopada 1989 r. zmieniające rozporządzenie w sprawie wynagradzania nauczycieli akademickich.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1989/382/text.pdf",
  "body": [
   {
@@ -268,11 +268,6 @@
   {
    "type": "text",
    "text": "i",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "* Poz. 380, 381 i 382 Dziennik Ustaw Nr 63",
    "quoted": true
   },
   {
@@ -743,7 +738,7 @@
           },
           {
            "type": "text",
-           "text": "WM iż. Dziennik Ustaw Nr 63",
+           "text": "WM iż.",
            "quoted": true
           },
           {

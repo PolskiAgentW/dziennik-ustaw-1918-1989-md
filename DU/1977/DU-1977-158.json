@@ -1,7 +1,7 @@
 {
  "eli": "DU/1977/158",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 listopada 1977 r. w sprawie zasad i stawek wynagrodzenia twórców dzieł plastycznych oraz umów o wykonanie lub wykorzystanie tych dzieł.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1977/158/text.pdf",
  "body": [
   {
@@ -22,54 +22,62 @@
   },
   {
    "type": "text",
-   "text": "Na podstawie art. 33 §-1-ustawy z'dnia 10 lipca 1952 r. ' o prawie autorskim (Dz. U. z 1952 r. Nr 34, poz, 234 — z 1975 r. Nr 34, poz. 184) zarządza się, co następuje: .- § 1. Przepisy rozporządzenia stosuje się przy ustalaniu wynagrodzeń za dzieła z dziedziny sztuk plastycznych w umowach o wykonanie: lub wykorzystanie tych dzieł oraz przy zawieraniu i wykonywaniu takich umów. § 2. Ustala się:"
+   "text": "Na podstawie art. 33 §-1-ustawy z'dnia 10 lipca 1952 r. ' o prawie autorskim (Dz. U. z 1952 r. Nr 34, poz, 234 — z 1975 r. Nr 34, poz. 184) zarządza się, co następuje: .- § 1. Przepisy rozporządzenia stosuje się przy ustalaniu wynagrodzeń za dzieła z dziedziny sztuk plastycznych w umowach o wykonanie: lub wykorzystanie tych dzieł oraz przy zawieraniu i wykonywaniu takich umów."
   },
   {
-   "type": "pkt",
-   "num": "1",
-   "path": "pkt_1",
-   "text": "ogólne zasady zawierania umów o-wykonanie lub wykorzystanie dzieł plastycznych, stanowiące załącznik pt UostozcoPzą Ein",
-   "children": []
-  },
-  {
-   "type": "pkt",
+   "type": "par",
    "num": "2",
-   "path": "pkt_2",
-   "text": "tabele wynagrodzeń za wykonanie lub wykorzystanie dzieł plastycznych, stanowiące załącznik nr 2 do rozporządzenia,",
+   "path": "par_2",
+   "text": "Ustala się:",
    "children": [
     {
-     "type": "text",
-     "text": "$-3. 'Upoważnia się Ministra Kultury i Sztuki do:"
+     "type": "pkt",
+     "num": "1",
+     "path": "par_2/pkt_1",
+     "text": "ogólne zasady zawierania umów o-wykonanie lub wykorzystanie dzieł plastycznych, stanowiące załącznik pt UostozcoPzą Ein",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "tabele wynagrodzeń za wykonanie lub wykorzystanie dzieł plastycznych, stanowiące załącznik nr 2 do rozporządzenia,",
+     "children": [
+      {
+       "type": "text",
+       "text": "$-3. 'Upoważnia się Ministra Kultury i Sztuki do:"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "ustalania — w porozumieniu z Ministrem Pracy, Płac — ; Spraw Socjalnych — zasad i stawek wynagrodzenia konsultantów dzieł plastycznych,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "par_2/pkt_2",
+     "text": "wprowadzania — w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych — uzupełnień do tabel wynagrodzeń, .",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "par_2/pkt_3",
+     "text": "udzielania w indywidualnych wypadkach zezwoleń na zastosowanie wynagrodzeń odmiennych niż przewidziane w tabelach,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "wydawania wytycznych w sprawie szczegółowego . F F t 6 d » SE ae ee ode",
+     "children": []
     }
    ]
-  },
-  {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "ustalania — w porozumieniu z Ministrem Pracy, Płac — ; Spraw Socjalnych — zasad i stawek wynagrodzenia konsultantów dzieł plastycznych,",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "wprowadzania — w porozumieniu z Ministrem Pracy, Płac i Spraw Socjalnych — uzupełnień do tabel wynagrodzeń, .",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "udzielania w indywidualnych wypadkach zezwoleń na zastosowanie wynagrodzeń odmiennych niż przewidziane w tabelach,",
-   "children": []
-  },
-  {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "wydawania wytycznych w sprawie szczegółowego . F F t 6 d » SE ae ee ode",
-   "children": []
   },
   {
    "type": "par",
@@ -105,7 +113,7 @@
   },
   {
    "type": "text",
-   "text": "Dziennik Ustaw Nr 36 = — 307 —"
+   "text": "= — 307 —"
   }
  ],
  "annexes": [
@@ -2562,7 +2570,7 @@
         },
         {
          "type": "text",
-         "text": "— 314 = Dziennik Ustaw Nr 36"
+         "text": "— 314 ="
         },
         {
          "type": "text",
@@ -3851,6 +3859,10 @@
       {
        "type": "note",
        "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 317 = >"
       },
       {
        "type": "text",

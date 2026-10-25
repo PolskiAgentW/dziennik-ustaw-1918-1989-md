@@ -1,7 +1,7 @@
 {
  "eli": "DU/1950/144",
  "title": "Rozporządzenie Rady Ministrów z dnia 1 kwietnia 1950 r. zmieniające rozporządzenie Rady Ministrów o określeniu niektórych cen sprzedażnych lub czynszów przy przekazywaniu mienia nierolniczego na obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/144/text.pdf",
  "body": [
   {
@@ -130,11 +130,8 @@
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "lit",
-       "num": "i",
-       "path": "par_1/ust_2/lit_i",
-       "text": "Dziennik Ustaw Nr 17",
-       "children": []
+       "type": "text",
+       "text": "i)"
       }
      ]
     },

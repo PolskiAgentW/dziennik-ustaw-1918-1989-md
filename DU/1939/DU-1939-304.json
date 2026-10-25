@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/304",
  "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 10 maja 1939 r. o tępieniu korówki wełnistej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/304/text.pdf",
  "body": [
   {
@@ -120,17 +120,8 @@
    "type": "par",
    "num": "10",
    "path": "par_10",
-   "text": "(1) Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia,",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 47"
-    },
-    {
-     "type": "text",
-     "text": "rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 19 września 1935 r. o tępieniu korówki wełnistej (Dz. U. R. P. Nr 74, poz. 465)."
-    }
-   ]
+   "text": "(1) Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia, rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 19 września 1935 r. o tępieniu korówki wełnistej (Dz. U. R. P. Nr 74, poz. 465).",
+   "children": []
   },
   {
    "type": "signature",

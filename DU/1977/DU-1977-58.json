@@ -1,7 +1,7 @@
 {
  "eli": "DU/1977/58",
  "title": "Rozporządzenie Ministrów Energetyki i Energii Atomowej oraz Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 9 kwietnia 1977 r. w sprawie warunków technicznych, jakim powinny odpowiadać instalacje elektroenergetyczne i urządzenia oświetlenia elektrycznego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1977/58/text.pdf",
  "body": [
   {
@@ -10,7 +10,7 @@
   },
   {
    "type": "text",
-   "text": "dochodowy na zasadach ogólnych na podstawie WRZ > właściwego organu 'w razie:"
+   "text": "- 4 dochodowy na zasadach ogólnych na podstawie WRZ > właściwego organu 'w razie:"
   },
   {
    "type": "pkt",
@@ -912,7 +912,7 @@
         },
         {
          "type": "text",
-         "text": "Bon. 50 Dziennik Ustaw Nr 14 — 1422 —",
+         "text": "Bon. 50",
          "quoted": true
         },
         {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/106",
  "title": "Rozporządzenie Ministra Skarbu z dnia 12 marca 1948 r. w sprawie wykonania ustawy z dnia 30 stycznia 1948 r. o obowiązku społecznego oszczędzania, wydane co do §§ 6, 8 ust. 1 i 4, 9, 11, 12, 13, 14, 16 ust. 1 i 3, 30 i 35 w porozumieniu z Ministrami Administracji Publicznej i Ziem Odzyskanych, co do § 14 nadto w porozumieniu z Ministrem Aprowizacji, a co do § 39 ust. 2 w porozumieniu z Ministrem Rolnictwa i Reform Rolnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/106/text.pdf",
  "body": [
   {
@@ -428,29 +428,44 @@
        "type": "lit",
        "num": "b",
        "path": "par_22/ust_2/lit_b",
-       "text": "w treści — pouczenie dla uczestników funduszu o prawach i obowiązkach uczestnika oraz odpowiednie rubryki dla dokonywania wpisów. § 23. Książeczki oszczędnościowo-inwestycyjne wystawiają uczestnikom funduszów A i C— zbiornice P.K.O., uczestnikom funduszu B — powiatowe K.K.O. § 24. W przypadku nie przedstawienia książeczki na żądanie (art. 13 ust. 4) w ciągu 2 miesięcy od daty wezwania -za stawę do ustalenia stanu wkładu oszczędnościowego przyjęty będzie stan konta uczestnika w zbiornicy P.K.O. lub w K.K.O. Niezależnie od tego nie przedstawienie książeczki pociąga za sobą skutki przewidziane w art. 35. § 25. W przypadku utraty książeczki oszczędnościowo - inwestycyjnej instytucja, która wydała książeczkę, wystawi na żądanie właściciela na jego koszt duplikat. Utracona książeczka oszczędnościowo - inwestycyjna traci ważność, Do art. 14 ust. 3. § 26. 1. Wkłady oszczędnościowo - inwestycyjne będą oprocentowane w wysokości 29/6 rocz” nie. Oprocentowanie zaczyna biec od dnia 1-go następnego miesiąca, licząc od p poza wpłaty, a kończy się w ostatnim dniu miesiąca rzedzającego wypłatę. Pe 2. Odsetki wypłacane będą:",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "par_22/ust_2/lit_a",
-       "text": "osobom prawnym i spadkom nieobjętym gotówką przy wycofaniu, zwrocie lub też innych wypłatach z książeczki oszczędnościowo - inwestycyjnej, nie podjęte odsetki zapisywane będą na wolny rachunek oszczędnościowy;",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "par_22/ust_2/lit_b",
-       "text": "osobom fizycznym w formie premii ubezpieczeniowej na wypadek śmierci.",
+       "text": "w treści — pouczenie dla uczestników funduszu o prawach i obowiązkach uczestnika oraz odpowiednie rubryki dla dokonywania wpisów.",
        "children": []
       }
      ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Książeczki oszczędnościowo-inwestycyjne wystawiają uczestnikom funduszów A i C— zbiornice P.K.O., uczestnikom funduszu B — powiatowe K.K.O. § 24. W przypadku nie przedstawienia książeczki na żądanie (art. 13 ust. 4) w ciągu 2 miesięcy od daty wezwania -za stawę do ustalenia stanu wkładu oszczędnościowego przyjęty będzie stan konta uczestnika w zbiornicy P.K.O. lub w K.K.O. Niezależnie od tego nie przedstawienie książeczki pociąga za sobą skutki przewidziane w art. 35.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "W przypadku utraty książeczki oszczędnościowo - inwestycyjnej instytucja, która wydała książeczkę, wystawi na żądanie właściciela na jego koszt duplikat. Utracona książeczka oszczędnościowo - inwestycyjna traci ważność, Do art. 14 ust. 3. § 26. 1. Wkłady oszczędnościowo - inwestycyjne będą oprocentowane w wysokości 29/6 rocz” nie. Oprocentowanie zaczyna biec od dnia 1-go następnego miesiąca, licząc od p poza wpłaty, a kończy się w ostatnim dniu miesiąca rzedzającego wypłatę. Pe 2. Odsetki wypłacane będą:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_25/lit_a",
+     "text": "osobom prawnym i spadkom nieobjętym gotówką przy wycofaniu, zwrocie lub też innych wypłatach z książeczki oszczędnościowo - inwestycyjnej, nie podjęte odsetki zapisywane będą na wolny rachunek oszczędnościowy;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_25/lit_b",
+     "text": "osobom fizycznym w formie premii ubezpieczeniowej na wypadek śmierci.",
+     "children": []
     },
     {
      "type": "ust",
      "num": "3",
-     "path": "par_22/ust_3",
+     "path": "par_25/ust_3",
      "text": "Odsetek nie dolicza się do wkładu eszczednosciowego.",
      "children": []
     }
@@ -868,7 +883,7 @@
       },
       {
        "type": "text",
-       "text": "ws. ANIĄ eas Dziennik Ustaw Nr 14"
+       "text": "ws. ANIĄ eas"
       },
       {
        "type": "text",

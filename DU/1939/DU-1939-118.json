@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/118",
  "title": "Rozporządzenie Ministra Skarbu z dnia 23 lutego 1939 r. o organizacji i zakresie działania izb skarbowych oraz podległych im urzędów i organów wykonawczych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/118/text.pdf",
  "body": [
   {
@@ -158,16 +158,8 @@
    "type": "par",
    "num": "9",
    "path": "par_9",
-   "text": "(1) Aprobata pism składanych Ministerstwu Skarbu należy do wyłącznej kompetencji dyrektora izby skarbowej. Dyrektor izby skarbowej może jednak upoważnić naczelnika wydziału III do podpisywania składanych Ministerstwu Skarbu sprawozdań rachunkowo-kasowych, a za zgodą Ministerstwa Skarbu także innych naczelników wydziałów oraz inspektora ochrony skarbowej — do podpisywania określonych kategorii sprawozdań mniejszego znaczę-",
+   "text": "(1) Aprobata pism składanych Ministerstwu Skarbu należy do wyłącznej kompetencji dyrektora izby skarbowej. Dyrektor izby skarbowej może jednak upoważnić naczelnika wydziału III do podpisywania składanych Ministerstwu Skarbu sprawozdań rachunkowo-kasowych, a za zgodą Ministerstwa Skarbu także innych naczelników wydziałów oraz inspektora ochrony skarbowej — do podpisywania określonych kategorii sprawozdań mniejszego znaczenia składanych Ministerstwu Skarbu w ich zakresie działania,",
    "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 18"
-    },
-    {
-     "type": "text",
-     "text": "nią składanych Ministerstwu Skarbu w ich zakresie działania,"
-    },
     {
      "type": "text",
      "text": "przechodzą ... ,cgo zastępcę w przvnadkach nieobecności w służbie lub niemożności pełnienia służby przez dyrektora izby skarbowej."
@@ -339,21 +331,12 @@
      "type": "lit",
      "num": "a",
      "path": "par_13/lit_a",
-     "text": "oddział 1 administracyjny załatwia sprawy nadzoru i bezpieczeństwa kas urzędów, sprawy niedoborów i nadwyżek kasowych, sprawy dotyczące rozrachunku z samorządami, sprawuje nadzór nad działalnością instytucyj prawa publicznego, którym zlecono wymiar i pobór podatków w zakresie poboru tych podatków, a w zakresie wymiaru współdziała z wydziałem II, ustala plany rewizji i inspekcji kas urzędów, prowadzi ewidencję akt inspekcyjnych i korespondencję w sprawach dochodzeń, wydaje zarządzenia poinspekcyjne, ustala maksymalne normy zapasów kasowych, czuwa nad ogólnym stanem gotowizny w kasach urzędów skarbowych, sporządza zestawienia i sprawozdania o obro- . tach kasowych, sprawuje nadzór nad „czynnościami urzędów jako wierzycieli należności własnych w zakresie działania działów rachunkowo-kasowych tych urzędów oraz nad czynnościami urzędów skarbowych jako władzy egzekucyjnej w tymże zakresie, zaopatruje rachunki kosztów podróży naczelników urzędów skarbowych z wyjazdów służbowych w sprawach rachunkowo-kasowych w klauzulę stwierdzającą konieczność odbycia podróży, należyte użycie czasu i środków lokomocji, tudzież wykonanie zlecenia służbowego, wydaje orzeczenia w zakresie administracji kasowej, współdziała z wydziałem I w sprawach osobowych, organizacyjnych i gospodarczych działu służby rachunkowo-kasowej, załatwia sprawy racjonalnej organizacji pracy tego działu b)",
-     "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 18."
-      },
-      {
-       "type": "text",
-       "text": "służby, wreszcie załatwia inne sprawy, nie należące do właściwości pozostałych oddziałów wydziału III; do składu osobowego oddziału należą inspektorzy, podlegli bezpośrednio naczelnikowi wydziału;"
-      },
-      {
-       "type": "text",
-       "text": "oddział 2 asygnowań sprawdza pod względem formalnym i cyfrowym ra-. chunki administracyjne izby oraz podle- „głych izbie urzędów i organów wykonawczych, wystawia asygnaty i zlecenia wypłaty (czeki), kontrasygnuje te zlecenia, prowadzi ewidencję oraz asygnuje uposażenia służbowe personelu okręgu izby tudzież inne należności periodyczne (zaliczki, ryczałty, komorne itp.), czuwa nad terminowym wyliczaniem się z zaliczek, prowadzi rachunkowość krę- 'dytów i wydatków budżetowych izby"
-      }
-     ]
+     "text": "oddział 1 administracyjny załatwia sprawy nadzoru i bezpieczeństwa kas urzędów, sprawy niedoborów i nadwyżek kasowych, sprawy dotyczące rozrachunku z samorządami, sprawuje nadzór nad działalnością instytucyj prawa publicznego, którym zlecono wymiar i pobór podatków w zakresie poboru tych podatków, a w zakresie wymiaru współdziała z wydziałem II, ustala plany rewizji i inspekcji kas urzędów, prowadzi ewidencję akt inspekcyjnych i korespondencję w sprawach dochodzeń, wydaje zarządzenia poinspekcyjne, ustala maksymalne normy zapasów kasowych, czuwa nad ogólnym stanem gotowizny w kasach urzędów skarbowych, sporządza zestawienia i sprawozdania o obro- . tach kasowych, sprawuje nadzór nad „czynnościami urzędów jako wierzycieli należności własnych w zakresie działania działów rachunkowo-kasowych tych urzędów oraz nad czynnościami urzędów skarbowych jako władzy egzekucyjnej w tymże zakresie, zaopatruje rachunki kosztów podróży naczelników urzędów skarbowych z wyjazdów służbowych w sprawach rachunkowo-kasowych w klauzulę stwierdzającą konieczność odbycia podróży, należyte użycie czasu i środków lokomocji, tudzież wykonanie zlecenia służbowego, wydaje orzeczenia w zakresie administracji kasowej, współdziała z wydziałem I w sprawach osobowych, organizacyjnych i gospodarczych działu służby rachunkowo-kasowej, załatwia sprawy racjonalnej organizacji pracy tego działu b) służby, wreszcie załatwia inne sprawy, nie należące do właściwości pozostałych oddziałów wydziału III; do składu osobowego oddziału należą inspektorzy, podlegli bezpośrednio naczelnikowi wydziału;",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "oddział 2 asygnowań sprawdza pod względem formalnym i cyfrowym ra-. chunki administracyjne izby oraz podle- „głych izbie urzędów i organów wykonawczych, wystawia asygnaty i zlecenia wypłaty (czeki), kontrasygnuje te zlecenia, prowadzi ewidencję oraz asygnuje uposażenia służbowe personelu okręgu izby tudzież inne należności periodyczne (zaliczki, ryczałty, komorne itp.), czuwa nad terminowym wyliczaniem się z zaliczek, prowadzi rachunkowość krę- 'dytów i wydatków budżetowych izby"
     },
     {
      "type": "lit",
@@ -724,11 +707,6 @@
       {
        "type": "note",
        "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— Dziennik Ustaw Nr 18",
-       "quoted": true
       },
       {
        "type": "text",

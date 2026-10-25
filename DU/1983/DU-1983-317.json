@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/317",
  "title": "Rozporządzenie Ministra Komunikacji z dnia 8 grudnia 1983 r. w sprawie warunków technicznych i badań pojazdów.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/317/text.pdf",
  "body": [
   {
@@ -548,7 +548,7 @@
         },
         {
          "type": "text",
-         "text": "— 908: = Dziennik Ustaw Nr 70"
+         "text": "— 908: ="
         }
        ]
       }
@@ -2824,7 +2824,7 @@
       },
       {
        "type": "text",
-       "text": "ae 2 Dziennik Ustaw Nr 70",
+       "text": "ae 2",
        "quoted": true
       },
       {
@@ -3508,6 +3508,11 @@
       {
        "type": "note",
        "text": "[Strona 15 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 97 =",
+       "quoted": true
       },
       {
        "type": "text",

@@ -83,7 +83,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 18:56 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 19:52 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -160,7 +160,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 28619, razem 73220 z 78
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 233.
 
 Rodzaje aktów: Rozporządzenie 21103, Oświadczenie rządowe 4227, Dekret 1294, Obwieszczenie 720, Konwencja 465, Umowa międzynarodowa 280, Protokół 124, Układ 113, Zarządzenie 112, Uchwała 90, Porozumienie 83, Traktat 49, Oświadczenie 18, Przepisy wykonawcze 10, Statut 8, Przepisy 7, Ustawa 6, Postanowienie 5, Deklaracja 5, Orędzie 3, Reskrypt 2, Sprostowanie 1, Instrukcja 1, Regulamin 1, Rezolucja 1.
-Wersje konwertera: eli2md 0.6.49 (28303), eli2md 0.6.65 (280), eli2md 0.6.66 (144), eli2md 0.6.62 (1).
+Wersje konwertera: eli2md 0.6.49 (27461), eli2md 0.6.66 (986), eli2md 0.6.65 (280), eli2md 0.6.62 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -239,6 +239,15 @@ było w nich 480, zostało 148. Bez zmian
 zostało 47: w 39 nowy plik ma tyle samo nagłówków, w 8 krótkich aktach (624–1407 znaków) reszta tekstu różniła się o
 0,52–1,08% (DU/1937/52, 213, 519, DU/1938/5, 285, 350, 616, 687). W zbiorze zostało 136 nagłówków z numerem strony
 w 85 aktach (OCR czyta „Poz.” z błędem: „Pz.”, „paź.”, „P oz.”, albo nagłówek nie stoi w pierwszych akapitach strony).
+
+Tego samego dnia eli2md 0.6.66, kolejne 842 akty: ucięty nagłówek numeru był też w aktach spoza list wyżej — w środku
+strony (OCR czyta wiersze w innej kolejności), doklejony do akapitu albo usuwany dopiero później, więc lista wybierana po
+pierwszych akapitach strony go nie obejmowała. Przeliczyłem ponownie (z eli2md 0.6.49) 1917 aktów, w których po nazwie
+dziennika jest numer bez „poz.” (to wyklucza cytaty). Reguła jak wyżej. Nowy plik zostaje w 842 aktach (w 618 z nich
+reszta tekstu ma te same znaki); uciętych nagłówków było w nich 1392, zostało 368. Bez zmian zostało 1075: w 1059 nowy
+plik ma tyle samo nagłówków (OCR czyta je razem z szumem albo z innym tekstem w jednej linii, albo leżą poza górnym pasem
+strony), w 16 reszta tekstu różniła się o więcej niż 0,5% (DU/1937/77, 211, DU/1938/347, DU/1945/8, DU/1946/169, DU/1948/35,
+DU/1950/381, DU/1952/217, DU/1954/62, DU/1961/96, 180, DU/1974/129, DU/1978/78, 128, DU/1979/105, DU/1987/148).
 
 ## Licencja
 

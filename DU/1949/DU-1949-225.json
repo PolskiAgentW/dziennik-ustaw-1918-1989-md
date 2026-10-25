@@ -1,7 +1,7 @@
 {
  "eli": "DU/1949/225",
  "title": "Konwencja (nr 36) dotycząca obowiązkowego ubezpieczenia na starość pracowników najemnych, zatrudnionych w przedsiębiorstwach rolnych, przyjęta w Genewie dnia 29 czerwca 1933 r. (ratyfikowana zgodnie z ustawą z dnia 26 czerwca 1948 r.).",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/225/text.pdf",
  "body": [
   {
@@ -67,10 +67,6 @@
   {
    "type": "note",
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "= ; Poz. 225 Dziennik Ustaw Nr 31 —"
   },
   {
    "type": "text",
@@ -558,8 +554,13 @@
      "type": "ust",
      "num": "4",
      "path": "art_12/ust_4",
-     "text": "Jednakże ustawodawstwo narodowe może zastrzec dla wiasnych obywateli korzystanie z dodatków, podwyżek lub z części pensji, wypłacanych z funduszów publicznych i przyznawanych wyłącznie ubezpieczonym, którzy przekroczyli określony wiek w chwili wprowadzenia w Życie ustwodawstwa o obowiązkowym ubezpieczeniu.",
-     "children": []
+     "text": "Jednakże ustawodawstwo narodowe może zastrzec dla wiasnych obywateli korzystanie z dodatków, podwyżek lub z części pensji, wypłacanych z funduszów publicznych i przyznawanych wyłącznie ubezpieczonym, którzy przekroczyli określony wiek w chwili wprowadzenia w Życie ustwodawstwa o obowiązkowym ubezpieczę-",
+     "children": [
+      {
+       "type": "text",
+       "text": "niu."
+      }
+     ]
     },
     {
      "type": "ust",
@@ -716,10 +717,6 @@
       {
        "type": "note",
        "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "= Poz. 225 Dziennik Ustaw Nr 31 —"
       }
      ]
     },
@@ -860,7 +857,7 @@
     },
     {
      "type": "text",
-     "text": "— 645 = Dziennik Ustaw Nr 31 es RE"
+     "text": "— 645 = es RE"
     },
     {
      "type": "text",
@@ -1281,7 +1278,7 @@
       },
       {
        "type": "text",
-       "text": "… 647 = Dziennik Ustaw Nr 31 pr ae"
+       "text": "… 647 = pr ae"
       },
       {
        "type": "text",
@@ -1621,6 +1618,10 @@
       },
       {
        "type": "text",
+       "text": "== 649 =="
+      },
+      {
+       "type": "text",
        "text": "involve the payment of a minimum number of contributions since entry into insurance and during a prescribed period immediately preceding the happening of the event insured against."
       },
       {
@@ -1836,7 +1837,7 @@
       },
       {
        "type": "text",
-       "text": "*— 650 — Dziennik Ustaw Nr 31"
+       "text": "*— 650 —"
       },
       {
        "type": "text",

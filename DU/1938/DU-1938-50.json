@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/50",
  "title": "Rozporządzenie Ministra Spraw Wojskowych z dnia 22 stycznia 1938 r. o sposobie udowodnienia czynnego udziału w walkach o niepodległość Państwa Polskiego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/50/text.pdf",
  "body": [
   {
@@ -319,7 +319,11 @@
      "children": [
       {
        "type": "text",
-       "text": "Oddziały i instytucje wojska wielkopolskiego Straż Ludowa i Obrona Krajowa"
+       "text": "Oddziały i instytucje wojska wielkopolskiego"
+      },
+      {
+       "type": "text",
+       "text": "Straż Ludowa i Obrona Krajowa"
       },
       {
        "type": "text",
@@ -352,10 +356,6 @@
       {
        "type": "text",
        "text": "Samoobrona Ziemi Grodzieńskiej"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 8"
       },
       {
        "type": "text",

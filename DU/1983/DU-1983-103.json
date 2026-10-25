@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/103",
  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 28 kwietnia 1983 r. o narodowym planie społeczno-gospodarczym na lata 1983-1985.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/103/text.pdf",
  "body": [
   {
@@ -1307,7 +1307,7 @@
       },
       {
        "type": "text",
-       "text": "s §95 t= Dziennik Ustaw Nr 24"
+       "text": "s §95 t="
       }
      ]
     }
@@ -1605,7 +1605,7 @@
     },
     {
      "type": "text",
-     "text": "—' 338 — Dziennik Ustaw Nr 24",
+     "text": "—' 338 —",
      "quoted": true
     },
     {
@@ -2114,7 +2114,11 @@
     },
     {
      "type": "text",
-     "text": "3.800 \"500"
+     "text": "3.800"
+    },
+    {
+     "type": "text",
+     "text": "\"500"
     },
     {
      "type": "text",

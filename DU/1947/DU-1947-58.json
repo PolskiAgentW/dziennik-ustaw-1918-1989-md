@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/58",
  "title": "Rozporządzenie Ministra Skarbu z dnia 31 grudnia 1946 r. w sprawie wykonania dekretu z dnia 21 grudnia 1945 r. o podatku obrotowym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/58/text.pdf",
  "body": [
   {
@@ -1188,7 +1188,7 @@
   },
   {
    "type": "text",
-   "text": "x + 154 Dziennik Ustaw Nr 15",
+   "text": "x + 154",
    "quoted": true
   },
   {
@@ -1329,6 +1329,11 @@
   {
    "type": "note",
    "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "155 =",
+   "quoted": true
   },
   {
    "type": "text",
@@ -1666,6 +1671,11 @@
   {
    "type": "note",
    "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "158 ==",
+   "quoted": true
   },
   {
    "type": "text",

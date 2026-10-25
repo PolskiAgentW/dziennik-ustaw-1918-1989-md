@@ -1,7 +1,7 @@
 {
  "eli": "DU/1951/450",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 24 grudnia 1951 r. o opłatach za dokonanie czynności notarialnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1951/450/text.pdf",
  "body": [
   {
@@ -173,6 +173,10 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "La"
     },
     {
      "type": "text",
@@ -609,7 +613,7 @@
         },
         {
          "type": "text",
-         "text": "at — 554 = Dziennik Ustaw Nr 65"
+         "text": "at — 554 ="
         },
         {
          "type": "text",

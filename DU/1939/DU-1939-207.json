@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/207",
  "title": "Rozporządzenie Rady Ministrów z dnia 24 marca 1939 r. o przygotowaniu w czasie pokoju obrony przeciwlotniczej i przeciwgazowej w dziedzinie budownictwa przemysłowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/207/text.pdf",
  "body": [
   {
@@ -139,16 +139,8 @@
    "type": "par",
    "num": "3",
    "path": "par_3",
-   "text": "(1) Minister Spraw Wojskowych w porozumieniu z właściwym ministrem może w poszczególnych przypadkach, ze względu na rodzaj produkcji, zdolność produkcyjną albo wysokość kapitału zainwestowańego, zarządzić zastosowanie do zakładu przemysłowego, zaliczonego do kategorii niższej, — warunków, wymaganych dla kategorii wyższej, jak również zarządzić zastosowanie przepisów rozporządzę-",
+   "text": "(1) Minister Spraw Wojskowych w porozumieniu z właściwym ministrem może w poszczególnych przypadkach, ze względu na rodzaj produkcji, zdolność produkcyjną albo wysokość kapitału zainwestowańego, zarządzić zastosowanie do zakładu przemysłowego, zaliczonego do kategorii niższej, — warunków, wymaganych dla kategorii wyższej, jak również zarządzić zastosowanie przepisów rozporządzenia niniejszego do zakładu, wyłączonego spod",
    "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 31"
-    },
-    {
-     "type": "text",
-     "text": "nią niniejszego do zakładu, wyłączonego spod"
-    },
     {
      "type": "text",
      "text": "(2) W przypadkach, zasługujących na uwzględnienie, w zależności od położenia, rodzaju produkcji, ' zdolności produkcyjnej albo wysokości kapitału zainwestowanego, właściwy minister w porozumieniu z Ministrem Spraw Wojskowych może zezwolić na niestosowanie do poszczególnych zakładów przemysłowych przepisów rozporządzenia niniejszego w całości lub w części,"
@@ -333,7 +325,7 @@
     },
     {
      "type": "text",
-     "text": "= BIE ="
+     "text": "BIE ="
     },
     {
      "type": "text",
@@ -396,10 +388,6 @@
     {
      "type": "text",
      "text": "pr ="
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 31"
     },
     {
      "type": "text",

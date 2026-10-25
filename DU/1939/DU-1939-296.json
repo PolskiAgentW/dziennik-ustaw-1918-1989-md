@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/296",
  "title": "Obwieszczenie Ministra Skarbu z dnia 2 maja 1939 r. o ogłoszeniu jednolitego tekstu statutu Banku Polskiego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/296/text.pdf",
  "body": [
   {
@@ -278,10 +278,6 @@
     {
      "type": "note",
      "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "- Dziennik Ustaw Nr 46,"
     },
     {
      "type": "text",
@@ -745,10 +741,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 46"
-      },
-      {
-       "type": "text",
        "text": "Art. 57,"
       },
       {
@@ -908,10 +900,6 @@
    "path": "art_70",
    "text": "Bank obowiązany jest na żądanie Ministra Skarbu przyjmować bezpłatnie wpłaty na rachunek Skarbu Państwa i dokonywać bezpłatnie wszelkich wypłat z tego rachunku, ponadto zaś może załatwiać komisowo wszelkie operacje na rachunek Skarbu Państwa, o ile z tych operacyj nie wynika saldo, obciążające Skarb",
    "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 46"
-    },
     {
      "type": "text",
      "text": "Papiery wartościowe, będące w posiadaniu Banku, wstawia się do bilansu, stosownie do przepisów, obowiązujących w tej mierze banki akcyjne."
@@ -1160,17 +1148,8 @@
    "type": "art",
    "num": "90",
    "path": "art_90",
-   "text": "Wszelkie spory między Rządem a Bankiem, wynikające z zastosowania przepisów niniejszego statutu oraz udzielonego nim przywileju, rozstrzyga ostatecznie Komisja Rozjem-",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 46"
-    },
-    {
-     "type": "text",
-     "text": "cza z wyłączeniem wszelkich dalszych kroków prawnych. Komisja Rozjemcza składa się z Prezesa Sądu Najwyższego jako przewodniczącego i 4 członków, z tych dwóch mianowanych przez Prezesa Rady Ministrów, a dwóch przez Radę Banku. . Komisja Rozjemcza wydaje orzeczenie zwykłą większością głosów, po uprzednim wysłuchaniu przedstawicieli Rządu i Rady Banku. W razie jednakowej ilości głosów rozstrzyga głos przewodniczącego. Komisja Rozjemcza nie jest związana w swym postępowaniu żadnymi przepisami, obowiązana jest jednak orzeczenie swoje uzasadnić, SE"
-    }
-   ]
+   "text": "Wszelkie spory między Rządem a Bankiem, wynikające z zastosowania przepisów niniejszego statutu oraz udzielonego nim przywileju, rozstrzyga ostatecznie Komisja Rozjemcza z wyłączeniem wszelkich dalszych kroków prawnych. Komisja Rozjemcza składa się z Prezesa Sądu Najwyższego jako przewodniczącego i 4 członków, z tych dwóch mianowanych przez Prezesa Rady Ministrów, a dwóch przez Radę Banku. . Komisja Rozjemcza wydaje orzeczenie zwykłą większością głosów, po uprzednim wysłuchaniu przedstawicieli Rządu i Rady Banku. W razie jednakowej ilości głosów rozstrzyga głos przewodniczącego. Komisja Rozjemcza nie jest związana w swym postępowaniu żadnymi przepisami, obowiązana jest jednak orzeczenie swoje uzasadnić, SE",
+   "children": []
   }
  ],
  "annexes": [],

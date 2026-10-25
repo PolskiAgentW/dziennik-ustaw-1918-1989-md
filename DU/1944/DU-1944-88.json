@@ -1,7 +1,7 @@
 {
  "eli": "DU/1944/88",
  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 27 grudnia 1944 r. o tymczasowym uregulowaniu uposażeń pracowników państwowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/88/text.pdf",
  "body": [
   {
@@ -193,10 +193,6 @@
    "path": "art_6",
    "text": "Dekret. niniejszy wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia",
    "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 16"
-    },
     {
      "type": "text",
      "text": "1 sierpnia 1944 r. —* jednak różnica na niekorzyść funkcjonariusza między wypłacanymi mu dotychczas zaliczkami, a uposażeniem należnym mu w myśl niniejszego dekretu nie podlega zwrotowi. ="

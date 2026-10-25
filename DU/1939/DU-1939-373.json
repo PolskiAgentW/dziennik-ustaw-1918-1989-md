@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/373",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 28 czerwca 1939 r. o tymczasowym wprowadzeniu w życie postanowień układu handlowego między Rzecząpospolitą Polską a Republiką Słowacką.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/373/text.pdf",
  "body": [
   {
@@ -217,16 +217,11 @@
      "num": "a",
      "path": "art_5/lit_a",
      "text": "do przywilejów, których się udziela lub które mogłyby być w przyszłości udzielone przez jedną z Wysokich Układających się Stron dla ułatwiania obrotu śranicznego w strefie nie przekraczającej 15 kilometrów od jej granic;",
-     "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 57."
-      },
-      {
-       "type": "text",
-       "text": "znamenal skrytć obmedzenie vo vzajomnej vymene tovarov:"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "znamenal skrytć obmedzenie vo vzajomnej vymene tovarov:"
     },
     {
      "type": "ust",

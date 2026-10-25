@@ -1,7 +1,7 @@
 {
  "eli": "DU/1982/155",
  "title": "Rozporządzenie Rady Ministrów z dnia 24 czerwca 1982 r. zmieniające rozporządzenie w sprawie wysokości, zasad i trybu wymierzania i ściągania kar pieniężnych za nieprzestrzeganie wymagań ochrony środowiska.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/155/text.pdf",
  "body": [
   {
@@ -26,7 +26,7 @@
   },
   {
    "type": "text",
-   "text": "=. 7% Dziennik Ustaw Nr 21"
+   "text": "=. 7%"
   },
   {
    "type": "text",
@@ -155,7 +155,11 @@
     },
     {
      "type": "text",
-     "text": "Stawki jednostkowe kar pieniężnych w zł za 1 cm obwodu pnia drzewa, przy obwodzie w centymetrach do 25 cm 26—50 cm 51—100 cm |101—200 cm powyżej 200 cm"
+     "text": "Stawki jednostkowe kar pieniężnych w zł za 1 cm obwodu pnia drzewa, przy obwodzie w centymetrach"
+    },
+    {
+     "type": "text",
+     "text": "do 25 cm 26—50 cm 51—100 cm |101—200 cm powyżej 200 cm"
     },
     {
      "type": "text",

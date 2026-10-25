@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/90",
  "title": "Karta Narodów Zjednoczonych, Statut Międzynarodowego Trybunału Sprawiedliwości i Porozumienie ustanawiające Komisję Przygotowawczą Narodów Zjednoczonych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/90/text.pdf",
  "body": [
   {
@@ -995,7 +995,12 @@
     },
     {
      "type": "text",
-     "text": "Article 56 ‘All Members pledge themselves to take joint and separate action in cooperation with the Organization for the achievement of the purposes set forth in Article 55.",
+     "text": "Article 56",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "‘All Members pledge themselves to take joint and separate action in cooperation with the Organization for the achievement of the purposes set forth in Article 55.",
      "quoted": true
     },
     {
@@ -1417,7 +1422,12 @@
     },
     {
      "type": "text",
-     "text": "Article §3 „| 1. The functions of the United Nations with regard to trusteeship agreements for all areas not designated as strategic, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the General Assembly.",
+     "text": "Article §3",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "„| 1. The functions of the United Nations with regard to trusteeship agreements for all areas not designated as strategic, including the approval of the terms of the trusteeship agreements and of their alteration or amendment, shall be exercised by the General Assembly.",
      "quoted": true
     },
     {
@@ -3920,7 +3930,8 @@
     },
     {
      "type": "text",
-     "text": "Article 54"
+     "text": "Article 54",
+     "quoted": true
     },
     {
      "type": "text",
@@ -3988,210 +3999,192 @@
     },
     {
      "type": "text",
-     "text": "Article 58 . L'Organisation fait des recommandations en vue de coordonner les programmes et activités des institutions spécialisées."
+     "text": "Article 58 . L'Organisation fait des recommandations en vue de coordonner les programmes et activités des institutions spécialisées.",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Article 59 L'Organisation provoque, lorsqu’il y a lieu, des négociations entre les Etats intéressés en vue de la création de toutes nouvelles institutions spécialisées nécessaires pour atteindre les buts énoncés à l’article 55."
+     "text": "Article 59 L'Organisation provoque, lorsqu’il y a lieu, des négociations entre les Etats intéressés en vue de la création de toutes nouvelles institutions spécialisées nécessaires pour atteindre les buts énoncés à l’article 55.",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Article 60 L'Assemblée Générale et, sous son autorité, Je Conseil Economique et: Social qui dispose à cet effet des pouvoirs qui lui sont attribués aux termes du Chapitre X, sont chargés de remplir les fonctions de L'Organisation énoncées au présent chapitre."
+     "text": "Article 60 L'Assemblée Générale et, sous son autorité, Je Conseil Economique et: Social qui dispose à cet effet des pouvoirs qui lui sont attribués aux termes du Chapitre X, sont chargés de remplir les fonctions de L'Organisation énoncées au présent chapitre.",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "CHAPITRE X CONSEIL ECONOMIQUE ET SOCIAL Composition 4 Article 61"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le Conseil Economique et Social se compose de dix-huit Membres des Nations Unies, élus par l'Assemblée Générale.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Sous réserve dés dispositions du paragraphe 3, six membres du Conseil Economique . et Social sont élus chaque année pour une période de trois ans. Les membres sortants sont immédiatement . rééligibles. —",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Dix-huit membres du Conseil Economique et Social sont désignés lors de la première. élection, Le mandat de six de ces membres expirera au bout d’un an et celui de six autres membres, au bout de deux ans, selon les dispositions prises par l’Assemblée Générale, 4, Chaque membre du Conseil Economique et Social a un représentant au Conseil.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Fonctions et Pouvoirs"
+     "text": "CHAPITRE X CONSEIL ECONOMIQUE ET SOCIAL Composition 4 Article 61",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Article 62"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le Conseil Economique et Social peut faire ou provoquer des études et des rapports sur des questions internationales dans les domaines économique, social, de la culture intellectuelle et de l’education, de.la santé publique et autres domaines connexes et peut adresser des recommandations sur toutes ces questions à FAssemblée Générale, aux Membres de POrganisation et aux institutions spécialisées intéressées.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Il peut faire des recommandations en vue d'assurer le respect effectif des droits de Phomme et des libertés fondamentales pour tous,",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "Il peut, sur des questions de sa compétence, préparer des projets de convention pour les soumettre à l'Assemblée Généraie.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "4",
-   "path": "ust_4",
-   "text": "Il peut convoquer, conformément aux règles fixées par l'Organisation, des conférences internationales sur des questions de sa compétence.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 63"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le Conseil Economique et Social peut conclure avec toute institution visée à l’article 57, des accords fixant les conditions dans lesquelles cette institution sera reliée à l’Organisation. Ces accords sont soumis à l’approba« tion de l’Assemblée Générale. \"",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Il peut coordonner l'activité des institutions spécialisées en se concertant avec elles, en leur adressant des recommandations, ainsi qu'en adressant des recommandations à l’Assemblée Générale et aux Membres Ges Nations Unies.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 64"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le Conseil Economique et Social peut prendre toutes fhesures utiles pour recevoir des rapports réguliers des institutions spécialisées. Il peut s'entendre avec les Membres de l'Organisation et avec les institutions spécia< lisées afin de recevoir des rapports sur les mesurés prises en exécution de ses propres recommandations et des recommandations de l'Assemblée Générale sur des objets relevant de la compétence du Conseil. ‘2. Il peut communiquer à l'AssembJée Générale ses observations sur ces rapports.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 65 Le Conseil Economique et Social peut fournir des informations au Conseil de Sécurité et l’assister si celui-ci le demande."
+     "text": "1. Le Conseil Economique et Social se compose de dix-huit Membres des Nations Unies, élus par l'Assemblée Générale.",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Article 66"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le Conseil Economique et Social, dans ‘l'exécution des recommandations de PAssemblée Générale, s'acquitte de toutes les fonctions qui entrent dans sa compétence.",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Il peut, avec l'approbation, de PAssemblée Générale, rendre les services qui lui seraient demandés par des Membres de l'Organisation ou pax des institutions spécialisées,",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "3",
-   "path": "ust_3",
-   "text": "IL s’acquitte des autres fonctions qui lui sont dévolues dans d'autres parties de la présente Charte ou qui peuvent lui.étre ate. tribuées par l'Assemblée Générale. Vote _ Article 67",
-   "children": []
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Chaque membre du Conseil Econumique et Social Teer d'une voix.",
-   "children": [
+     "text": "2. Sous réserve dés dispositions du paragraphe 3, six membres du Conseil Economique . et Social sont élus chaque année pour une période de trois ans. Les membres sortants sont immédiatement . rééligibles. —",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Dix-huit membres du Conseil Economique et Social sont désignés lors de la première. élection, Le mandat de six de ces membres expirera au bout d’un an et celui de six autres membres, au bout de deux ans, selon les dispositions prises par l’Assemblée Générale, 4, Chaque membre du Conseil Economique et Social a un représentant au Conseil.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Fonctions et Pouvoirs",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 62",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Le Conseil Economique et Social peut faire ou provoquer des études et des rapports sur des questions internationales dans les domaines économique, social, de la culture intellectuelle et de l’education, de.la santé publique et autres domaines connexes et peut adresser des recommandations sur toutes ces questions à FAssemblée Générale, aux Membres de POrganisation et aux institutions spécialisées intéressées.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Il peut faire des recommandations en vue d'assurer le respect effectif des droits de Phomme et des libertés fondamentales pour tous,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. Il peut, sur des questions de sa compétence, préparer des projets de convention pour les soumettre à l'Assemblée Généraie.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4. Il peut convoquer, conformément aux règles fixées par l'Organisation, des conférences internationales sur des questions de sa compétence.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 63",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Le Conseil Economique et Social peut conclure avec toute institution visée à l’article 57, des accords fixant les conditions dans lesquelles cette institution sera reliée à l’Organisation. Ces accords sont soumis à l’approba« tion de l’Assemblée Générale. \"",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Il peut coordonner l'activité des institutions spécialisées en se concertant avec elles, en leur adressant des recommandations, ainsi qu'en adressant des recommandations à l’Assemblée Générale et aux Membres Ges Nations Unies.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 64",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Le Conseil Economique et Social peut prendre toutes fhesures utiles pour recevoir des rapports réguliers des institutions spécialisées. Il peut s'entendre avec les Membres de l'Organisation et avec les institutions spécia< lisées afin de recevoir des rapports sur les mesurés prises en exécution de ses propres recommandations et des recommandations de l'Assemblée Générale sur des objets relevant de la compétence du Conseil. ‘2. Il peut communiquer à l'AssembJée Générale ses observations sur ces rapports.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 65 Le Conseil Economique et Social peut fournir des informations au Conseil de Sécurité et l’assister si celui-ci le demande.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 66",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Le Conseil Economique et Social, dans ‘l'exécution des recommandations de PAssemblée Générale, s'acquitte de toutes les fonctions qui entrent dans sa compétence.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2. Il peut, avec l'approbation, de PAssemblée Générale, rendre les services qui lui seraient demandés par des Membres de l'Organisation ou pax des institutions spécialisées,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3. IL s’acquitte des autres fonctions qui lui sont dévolues dans d'autres parties de la présente Charte ou qui peuvent lui.étre ate. tribuées par l'Assemblée Générale. Vote _ Article 67",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1. Chaque membre du Conseil Econumique et Social Teer d'une voix.",
+     "quoted": true
+    },
     {
      "type": "note",
      "text": "[Strona 30 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, fra+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
      "type": "text",
-     "text": ": a —"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "2",
-   "path": "ust_2",
-   "text": "Les décisions du Conseil Economique et Social sont prises à la majorité des membres présents et votant. Procédure",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 68 4 Le Conseil Economique et Social institue des commissisus pour €: qu s. oe CA ques et sociales et le progrés des droits de l'homme ainsi que toutes autres commissions nécessaires à l'exercice de ses fonctions."
+     "text": ": a —",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Article 69 Le Conseil Economique et Social, lorsqu’il examine une question qui intéresse particu- ‘ lièrement un Membre de l'Organisation, convie celui-ci à participer, sans droit de vote, à ses délibérations. Abel 70 Le Conseil Economique et Social peut prendre toutes dispositions pour que des représentants des institutions spécialisées partici pent, sans droit de vote, à ses délibérations et à celles des commissions instituées par lui, et pour que ses propres représentants particint aux délibérations des institutions apeciaisées."
+     "text": "2. Les décisions du Conseil Economique et Social sont prises à la majorité des membres présents et votant. Procédure",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Article 71 Le Conseil Economique et Social peut prendre toutes dispositions utiles pour consulter les organisations non gouvernementales qui s'occupent de questions relevant de sa compétence. Ces dispositions peuvent s'appliquer à des organisations internationales et, s'il y a lieu, à des organisations nationales après consultation du Membre intéressé de l'Organisation."
+     "text": "Article 68 4 Le Conseil Economique et Social institue des commissisus pour €: qu s. oe CA ques et sociales et le progrés des droits de l'homme ainsi que toutes autres commissions nécessaires à l'exercice de ses fonctions.",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Article 72"
-    }
-   ]
-  },
-  {
-   "type": "ust",
-   "num": "1",
-   "path": "ust_1",
-   "text": "Le Conseil Economique et Social adopte son règlement intérieur dans lequel il fixe le mode de désignation de son Président. .2. IL se réunit selon les besoins conformément à son règlement; celui-ci comportera Wes dispositions prévoyant la convocation du Conseil sur la demande de la majorité de ses membres. CHAPITRE XI DECLARATION RELATIVE AUX TERRITOIRES NON AUTONOMES",
-   "children": [
-    {
-     "type": "text",
-     "text": "Article 73"
+     "text": "Article 69 Le Conseil Economique et Social, lorsqu’il examine une question qui intéresse particu- ‘ lièrement un Membre de l'Organisation, convie celui-ci à participer, sans droit de vote, à ses délibérations. Abel 70 Le Conseil Economique et Social peut prendre toutes dispositions pour que des représentants des institutions spécialisées partici pent, sans droit de vote, à ses délibérations et à celles des commissions instituées par lui, et pour que ses propres représentants particint aux délibérations des institutions apeciaisées.",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Les Membres des Nations Unies qui ont ou qui assument la responsabilité d'administrer des territoires dont les populations ne s’admj. mistrent pas encore complètement elles-mémes, reconnaissent le principe de la primauté des intérêts des habitants de ces territoires. Ils acceptent comme une mission sacrée l'obligation de favoriser dans toute la mesure du possible leur prospérité, dans le cadre du système de paix et de sécurité internationales établi par la récente Charte st, à cette fin:"
+     "text": "Article 71 Le Conseil Economique et Social peut prendre toutes dispositions utiles pour consulter les organisations non gouvernementales qui s'occupent de questions relevant de sa compétence. Ces dispositions peuvent s'appliquer à des organisations internationales et, s'il y a lieu, à des organisations nationales après consultation du Membre intéressé de l'Organisation.",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "a. d'assurer, en respectant la culture des populations en question, leur progrès politique, économique et social, ainsi que le développement de, leur instruction, de les traiter avec équité et de les protéger contre les abus; b. de développer leur capacité de S'administrer elles-mêmes, de tenir compte des aspirations politiques des populations et de les aider dans le développement progressif de leurs libres institutions politi« ques, dans la mesure appropriée aux conditions particulières de chaque territoire et de ses populations et à leurs degrés variables de développement; c. daffermir la paix et la sécurité internationales ; d. de favoriser des mesures constructives de développement, d'encourager des travaux de recherche, de coopérer entre eux et, quand les circonstances s'y préteront, avec les organismes internationaux spécialisés, en vue d'atteindre effectives ment les. buts sociaux; économiques et scientifiques énoncés au présent article ; e. de communiquer régulièrement au Secrétaire Général, à titre d’information, sous réserve des exigences de la sécurité et de considérations d'ordre costitutionnel,. des renseignements statistiques et autres de nature technique relatifs aux conditions économiques, sociales et de l'instruction dans les territoires dont ils sont respectivement responsables, autres que ceux auxquels s'appliquent les cha pitres XII et XIIL"
+     "text": "Article 72",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Article 74 Les Membres de l'Organisation reconnaissent aussi que leur politique doit être fondé » autant dans les territoires auxquels s'applique le présent chapitre que dans leurs territoires métropolitains, sur le principe général du bon voisinage dans le domaine social, économique et commercial, compte tenu des intérêts et de la prospérité du reste du monde."
+     "text": "1. Le Conseil Economique et Social adopte son règlement intérieur dans lequel il fixe le mode de désignation de son Président. .2. IL se réunit selon les besoins conformément à son règlement; celui-ci comportera Wes dispositions prévoyant la convocation du Conseil sur la demande de la majorité de ses membres. CHAPITRE XI DECLARATION RELATIVE AUX TERRITOIRES NON AUTONOMES",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "__ CHAPITRE XII REGIME INTERNATIONAL DE TUTELLE"
+     "text": "Article 73",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Article 75 L'Organisation des Nations Unies établira, sous son autorité, un régime international de Tutelle pour l'administration et la surveillance des territoires qui pourront être placés sous ce régime en vertu d'accords particuliers ultérieurs. Ces territoires sont désignés ci-après par l'expression , territoires sous Tutelle”."
+     "text": "Les Membres des Nations Unies qui ont ou qui assument la responsabilité d'administrer des territoires dont les populations ne s’admj. mistrent pas encore complètement elles-mémes, reconnaissent le principe de la primauté des intérêts des habitants de ces territoires. Ils acceptent comme une mission sacrée l'obligation de favoriser dans toute la mesure du possible leur prospérité, dans le cadre du système de paix et de sécurité internationales établi par la récente Charte st, à cette fin:",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "a. d'assurer, en respectant la culture des populations en question, leur progrès politique, économique et social, ainsi que le développement de, leur instruction, de les traiter avec équité et de les protéger contre les abus; b. de développer leur capacité de S'administrer elles-mêmes, de tenir compte des aspirations politiques des populations et de les aider dans le développement progressif de leurs libres institutions politi« ques, dans la mesure appropriée aux conditions particulières de chaque territoire et de ses populations et à leurs degrés variables de développement; c. daffermir la paix et la sécurité internationales ; d. de favoriser des mesures constructives de développement, d'encourager des travaux de recherche, de coopérer entre eux et, quand les circonstances s'y préteront, avec les organismes internationaux spécialisés, en vue d'atteindre effectives ment les. buts sociaux; économiques et scientifiques énoncés au présent article ; e. de communiquer régulièrement au Secrétaire Général, à titre d’information, sous réserve des exigences de la sécurité et de considérations d'ordre costitutionnel,. des renseignements statistiques et autres de nature technique relatifs aux conditions économiques, sociales et de l'instruction dans les territoires dont ils sont respectivement responsables, autres que ceux auxquels s'appliquent les cha pitres XII et XIIL",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 74 Les Membres de l'Organisation reconnaissent aussi que leur politique doit être fondé » autant dans les territoires auxquels s'applique le présent chapitre que dans leurs territoires métropolitains, sur le principe général du bon voisinage dans le domaine social, économique et commercial, compte tenu des intérêts et de la prospérité du reste du monde.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "__ CHAPITRE XII REGIME INTERNATIONAL DE TUTELLE",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Article 75 L'Organisation des Nations Unies établira, sous son autorité, un régime international de Tutelle pour l'administration et la surveillance des territoires qui pourront être placés sous ce régime en vertu d'accords particuliers ultérieurs. Ces territoires sont désignés ci-après par l'expression , territoires sous Tutelle”.",
+     "quoted": true
     },
     {
      "type": "text",
@@ -6097,7 +6090,7 @@
       },
       {
        "type": "text",
-       "text": "(= 323 — Dziennik Ustaw Nr 23"
+       "text": "(= 323 —"
       }
      ]
     },
@@ -7495,7 +7488,12 @@
     },
     {
      "type": "text",
-     "text": "«w BSE aa Dziennik Ustaw Nr 23 treści porozumień powierniczych oraz ich zmian lub poprawek, wykonywać będzie Ogólne Zgromadzenie,",
+     "text": "«w BSE aa",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "treści porozumień powierniczych oraz ich zmian lub poprawek, wykonywać będzie Ogólne Zgromadzenie,",
      "quoted": true
     },
     {
@@ -8242,6 +8240,11 @@
       },
       {
        "type": "text",
+       "text": "' —",
+       "quoted": true
+      },
+      {
+       "type": "text",
        "text": "Artykuł 18.",
        "quoted": true
       },
@@ -8487,8 +8490,13 @@
      "type": "ust",
      "num": "4",
      "path": "art_31/ust_4",
-     "text": "Postanowienia niniejszego artykułu powinny być stosowane również i w przypadkach Poe w artykułach 26 i 29. W taich razach Prezes powinien poprosić jednego, a w razie potrzeby dwóch, spośród członków Trybunału, wchodzących w skład Izby żeby ustąpili swych miejsc członkom Trybunału narodowości stron zainteresowanych, a gdyby takich nie było albo gdyby nie mogli zażądać, to sędziom umyślnie w tym celu wybranym przez strony.",
-     "children": []
+     "text": "Postanowienia niniejszego artykułu powinny być stosowane również i w przypadkach Poe w artykułach 26 i 29. W taich razach Prezes powinien poprosić jednego, a w razie potrzeby dwóch, spośród członków Trybunału, wchodzących w skład Izby żeby ustąpili swych miejsc członkom Trybunału narodowości stron zainteresowanych, a gdyby takich nie było albo gdyby nie mogli zażądać, to sędziom umyślnie w tym celu wybranym",
+     "children": [
+      {
+       "type": "text",
+       "text": "przez strony."
+      }
+     ]
     },
     {
      "type": "ust",
@@ -9049,7 +9057,7 @@
       },
       {
        "type": "text",
-       "text": "Pox 90 34% — Dziennik Ustaw Nr 23 —"
+       "text": "Pox 90 34% —"
       }
      ]
     },

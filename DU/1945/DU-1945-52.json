@@ -1,7 +1,7 @@
 {
  "eli": "DU/1945/52",
  "title": "Rozporządzenie Ministra Administracji Publicznej z dnia 15 marca 1945 r. o komisjach dyscyplinarnych i postępowaniu dyscyplinarnym przeciwko członkom organów wykonawczych samorządu terytorialnego, państwowego oraz gmin wiejskich i miejskich.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/52/text.pdf",
  "body": [
   {
@@ -172,17 +172,8 @@
    "type": "par",
    "num": "18",
    "path": "par_18",
-   "text": "Przewodniczący komisji dyscyplinarnej wyznacza termin rozprawy dyscyplinar-",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 10"
-    },
-    {
-     "type": "text",
-     "text": "nej. O terminie rozprawy należy powiadomić obwinionego, jego obrońcę, oraz rzecznika dyscyplinarnego. Pomiędzy dniem doręczenia zawiadomienia o rozprawie, a jej terminem powinno upłynąć co najmniej czternaście dni."
-    }
-   ]
+   "text": "Przewodniczący komisji dyscyplinarnej wyznacza termin rozprawy dyscyplinarnej. O terminie rozprawy należy powiadomić obwinionego, jego obrońcę, oraz rzecznika dyscyplinarnego. Pomiędzy dniem doręczenia zawiadomienia o rozprawie, a jej terminem powinno upłynąć co najmniej czternaście dni.",
+   "children": []
   },
   {
    "type": "par",

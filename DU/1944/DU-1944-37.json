@@ -1,7 +1,7 @@
 {
  "eli": "DU/1944/37",
  "title": "Rozporządzenie Kierownika Resortu Kultury i Sztuki wydane w porozumieniu z Kierownikiem Resortu Administracji Publicznej z dnia 5 października 1944 r. o utworzeniu organów kultury i sztuki przy urzędach wojewódzkich i starostwach powiatowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/37/text.pdf",
  "body": [
   {
@@ -111,12 +111,7 @@
    "num": "4",
    "path": "par_4",
    "text": "Powiatowy (grodzki) referat kultury i sztuki jest powołany do spełniania na terenie danego powiatu zadań, określonych w $.2, w szczególności, do zakładania i nadzorowania: teatrów, chórów, zbiorów i muzeów, szkół R choreograficznych, sztuk plastycznych i t. p.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr7"
-    }
-   ]
+   "children": []
   },
   {
    "type": "par",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1958/376",
  "title": "Rozporządzenie Rady Ministrów z dnia 12 grudnia 1958 r. w sprawie uposażenia lekarzy, lekarzy dentystów oraz innych pracowników z wyższym wykształceniem zatrudnionych w zakładach społecznych służby zdrowia.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1958/376/text.pdf",
  "body": [
   {
@@ -597,7 +597,7 @@
       },
       {
        "type": "text",
-       "text": "20940 — R Dziennik Ustaw Nr 74"
+       "text": "20940 — R"
       }
      ]
     },
@@ -1324,7 +1324,12 @@
     },
     {
      "type": "text",
-     "text": "200 Kierownik oddziału, pracowni w powiatowej (miejskiej, dzielnicówej) lub portowej stacji sanitarno-epidemiologicznej 200 Instruktor oświaty sanitarnej w powiatowej (miejskiej, 49. dzielnicowej) lub portowej stacji sanitarno-epidemiologicznej 50.",
+     "text": "200 Kierownik oddziału, pracowni w powiatowej (miejskiej, dzielnicówej) lub portowej stacji sanitarno-epidemiologicznej 200 Instruktor oświaty sanitarnej w powiatowej (miejskiej, 49.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "dzielnicowej) lub portowej stacji sanitarno-epidemiologicznej 50.",
      "quoted": true
     },
     {

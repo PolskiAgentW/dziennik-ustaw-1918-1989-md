@@ -1,7 +1,7 @@
 {
  "eli": "DU/1989/417",
  "title": "Rozporządzenie Ministra Pracy i Polityki Socjalnej z dnia 1 grudnia 1989 r. w sprawie najwyższych dopuszczalnych stężeń i natężeń czynników szkodliwych dla zdrowia w środowisku pracy.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1989/417/text.pdf",
  "body": [
   {
@@ -110,10 +110,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— Dziennik Ustaw Nr 69 —"
       },
       {
        "type": "text",
@@ -974,7 +970,15 @@
       },
       {
        "type": "text",
-       "text": "Wartości skorygowane przyspieszenia drgań ogdimych a, należy mierzyć za pomocą filtru korekcyjnego o charakterystyce określonej w polskiej normie. 2.4. Dła ekspozycji krótszej niż 480 minut dopuszczalne wartości przyspieszenia drgań należy określić według punktu 1.4, przyjmując dane z tabel 2,:3 i 4. 2.5. Narażenie zdrowia pracowników ma miejsce, gdy zmierzone wartości skuteczne lub skorygowane przyspieszenia drgań są większe od wartości dopuszczalnych dla danego czasu ekspozycji. 2.6. W przypadku stanowisk pracy chronionej podane wyżej wartości normatywne należy obniżyć zgodnie z zaleceniami lekarza lub innymi przepisami szczegółowymi."
+       "text": "Wartości skorygowane przyspieszenia drgań ogdimych a, należy mierzyć za pomocą filtru korekcyjnego o charakterystyce określonej w polskiej normie."
+      },
+      {
+       "type": "text",
+       "text": "2.4. Dła ekspozycji krótszej niż 480 minut dopuszczalne wartości przyspieszenia drgań należy określić według punktu 1.4, przyjmując dane z tabel 2,:3 i 4."
+      },
+      {
+       "type": "text",
+       "text": "2.5. Narażenie zdrowia pracowników ma miejsce, gdy zmierzone wartości skuteczne lub skorygowane przyspieszenia drgań są większe od wartości dopuszczalnych dla danego czasu ekspozycji. 2.6. W przypadku stanowisk pracy chronionej podane wyżej wartości normatywne należy obniżyć zgodnie z zaleceniami lekarza lub innymi przepisami szczegółowymi."
       }
      ]
     },

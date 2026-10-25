@@ -1,7 +1,7 @@
 {
  "eli": "DU/1949/158",
  "title": "Konwencja generalna pomiędzy Polską a Francją o zabezpieczeniu społecznym, Układ dodatkowy dotyczący systemu zabezpieczenia społecznego stosowanego do pracowników górnictwa i przedsiębiorstw zrównanych z górnictwem, Układ dodatkowy dotyczący sposobu przekazywania funduszów i Protokół ogólny, podpisane w Paryżu dnia 9 czerwca 1948 r. (ratyfikowane zgodnie z ustawą z dnia 18 listopada 1948 r.).",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/158/text.pdf",
  "body": [
   {
@@ -90,7 +90,7 @@
   },
   {
    "type": "text",
-   "text": "e Poz. 158 Dziennik Ustaw Nr 24"
+   "text": "e Poz. 158"
   },
   {
    "type": "text",
@@ -906,7 +906,7 @@
     },
     {
      "type": "text",
-     "text": "— SIT r=. Dziennik Ustaw Nr 24"
+     "text": "— SIT r=."
     },
     {
      "type": "text",
@@ -1597,7 +1597,7 @@
       },
       {
        "type": "text",
-       "text": "= 520 — Dziennik Ustaw Nr 24"
+       "text": "= 520 —"
       },
       {
        "type": "text",
@@ -2027,10 +2027,6 @@
     },
     {
      "type": "text",
-     "text": "© Poz. 158 Dziennik Ustaw Nr 24"
-    },
-    {
-     "type": "text",
      "text": "wały inwalidztwo, uwzględniając przy tym ewentualnie postanowienia niniejszego układu, dotyczące zliczania okresów ubezpieczenia. . Renty -(pensje) inwalidzkie obciążają wyłącznie instytucję właściwą w myśl tego ostatniego ustawodawstwa. -"
     },
     {
@@ -2169,8 +2165,12 @@
    "text": "— Świadczenia węglowe i zakwaterowania,"
   },
   {
-   "type": "text",
-   "text": "Artykuł 21. Udzielanie rencistom (spensjonowanym) świadczeń węglowych i zakwaterowania lub ekwiwalentu w ich miejsce będzie przedmiotem porozumienia pomiędzy zwierzchnimi władzami administracyjnymi obu krajów."
+   "type": "art",
+   "num": "21",
+   "path": "art_21",
+   "text": "Udzielanie rencistom (spensjonowanym) świadczeń węglowych i zakwaterowania lub ekwiwalentu w ich miejsce będzie przedmiotem porozumienia pomiędzy zwierzchnimi władzami administracyjnymi obu krajów.",
+   "children": [],
+   "label": "Artykuł 21"
   },
   {
    "type": "heading",

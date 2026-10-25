@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/401",
  "title": "Rozporządzenie Rady Ministrów z dnia 20 czerwca 1939 r. o należnościach za podróże służbowe, delegacje i przeniesienia żołnierzy wojska i marynarki wojennej oraz funkcjonariuszów państwowych administracji wojskowej w czasie wojny i mobilizacji.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/401/text.pdf",
  "body": [
   {
@@ -413,10 +413,6 @@
        "children": [
         {
          "type": "text",
-         "text": "Dziennik Ustaw Nr 61"
-        },
-        {
-         "type": "text",
          "text": "Podpułkownika, komandora - rucznika . . « . . 15 zł ajora, komandora - podporucznika . . . . . . . . 13, Kapitana . EEEE We Porucznika, podporucznika 8 w i"
         }
        ]
@@ -714,10 +710,6 @@
      "path": "par_17/ust_2",
      "text": "Przy wspólnych podróżach kołowych należy zaliczyć jedną podwodę lub samochód co najtnniej na dwie osoby. W razie równocze- Shego przewożu większego bagażu służbowego wolno zaliczyć jedną podwodę lub samochód na każdą z jadących wspólnie osób, ; 3. Wydatek za użycie koni lub motorowych środków lokomocji zwraca się w całości tylko wtedy, jeżeli nie ma możności przejazdu tańszym środkiem lokomocji, jak kolejami, wszelkiego rodzaju autobusami, statkami itp. z wyjątkiem przypadków nagłych oraz w razie potrzeby odbycia czynności urzędówych w większej liczbie miejscowości, jeżeli przeż to za- Oszczędza się diety. Jeżeli natomiast istnieje fhożność przejazdu tańszym środkiem lokomocji, wydatek za użycie koni lub motorowych środków lokomocji zwraca się tylko do wysokości ustalonej taryfy dla kursującego na danej przestrzeni najtatiszego środka lokomócji; przepis ten nie ma zastosowania, gdy przejazd kursującym na danej przestrzeni najtańszym śtodkiem lokomocji mógł być kredytowany.",
      "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 61"
-      },
       {
        "type": "text",
        "text": "8 18, 1. Za czynności służbowe wykonane w miejscach leżących w granicach garnizonu lub rejonu zakwaterowania na obszarze wojennym, lecz w odległości ponad dwa km od budynku, w którym mieści się urząd, należy się tylko zwrot kosztów za przejazd dorożką lub samochodem, w kwocie faktycznie wydanej i odpowiadającej miejscowym cenom. Jeżeli na danej przestrzeni istnieje tańszy środek komunikacyjny jak tramwaj, autobus itp, zwraca się koszt przejazdu tym środkiem komunikacyinym. ,"
@@ -1054,17 +1046,8 @@
      "type": "ust",
      "num": "2",
      "path": "par_27/ust_2",
-     "text": "Rachunki należności za podróże służbowe lub delegacje trwające dłużej niż trzydzieści dni, należy przedstawiać za każdy miesiąc kalendarzowy z dołu w ciągu czternastu pierwszych dni następnego miesiąca kalendarzowego. W takim samym terminie mogą być przedstawiane rachunki powtarzających się w ciągu miesiąca podróży służbowych, jeżeli w tych",
-     "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 61"
-      },
-      {
-       "type": "text",
-       "text": "przypadkach nie zastosowano ryczałtów przewidzianych w § 29."
-      }
-     ]
+     "text": "Rachunki należności za podróże służbowe lub delegacje trwające dłużej niż trzydzieści dni, należy przedstawiać za każdy miesiąc kalendarzowy z dołu w ciągu czternastu pierwszych dni następnego miesiąca kalendarzowego. W takim samym terminie mogą być przedstawiane rachunki powtarzających się w ciągu miesiąca podróży służbowych, jeżeli w tych przypadkach nie zastosowano ryczałtów przewidzianych w § 29.",
+     "children": []
     },
     {
      "type": "ust",

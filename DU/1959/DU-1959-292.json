@@ -1,7 +1,7 @@
 {
  "eli": "DU/1959/292",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 14 sierpnia 1959 r. w sprawie warunków ogólnych, naukowych i zawodowych, jakim powinny odpowiadać osoby mające sprawować kierownictwo i dozór ruchu zakładu górniczego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1959/292/text.pdf",
  "body": [
   {
@@ -193,10 +193,6 @@
           {
            "type": "note",
            "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-          },
-          {
-           "type": "text",
-           "text": "— \" Poz. 292 Dziennik Ustaw Nr 48"
           }
          ]
         }

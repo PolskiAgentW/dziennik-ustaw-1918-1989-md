@@ -1,7 +1,7 @@
 {
  "eli": "DU/1979/96",
  "title": "Rozporządzenie Ministra Handlu Zagranicznego i Gospodarki Morskiej z dnia 25 czerwca 1979 r. w sprawie bezpieczeństwa i higieny pracy na morskich statkach handlowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1979/96/text.pdf",
  "body": [
   {
@@ -1134,7 +1134,7 @@
       },
       {
        "type": "text",
-       "text": "— ADS Dziennik Ustaw Nr 14"
+       "text": "— ADS"
       }
      ]
     }
@@ -2845,6 +2845,10 @@
       {
        "type": "note",
        "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "202 |-<"
       }
      ]
     },

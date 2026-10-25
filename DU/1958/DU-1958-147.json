@@ -1,7 +1,7 @@
 {
  "eli": "DU/1958/147",
  "title": "Umowa między Polską Rzecząpospolitą Ludową a Związkiem Socjalistycznych Republik Radzieckich o pomocy prawnej i stosunkach prawnych w sprawach cywilnych, rodzinnych i karnych, podpisana w Warszawie dnia 28 grudnia 1957 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1958/147/text.pdf",
  "body": [
   {
@@ -585,7 +585,7 @@
       },
       {
        "type": "text",
-       "text": "m AFL m Dziennik Ustaw Nr 32"
+       "text": "m AFL m"
       },
       {
        "type": "text",
@@ -1118,7 +1118,7 @@
       },
       {
        "type": "text",
-       "text": "m AS\" Dziennik Ustaw Nr 32",
+       "text": "m AS\"",
        "quoted": true
       },
       {
@@ -1520,7 +1520,7 @@
       },
       {
        "type": "text",
-       "text": "zał ASP Dziennik Ustaw Nr 32",
+       "text": "zał ASP",
        "quoted": true
       },
       {
@@ -2850,11 +2850,6 @@
       {
        "type": "note",
        "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "ę Dziennik Ustaw Nr 32",
-       "quoted": true
       },
       {
        "type": "text",

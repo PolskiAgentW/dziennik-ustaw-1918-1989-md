@@ -1,7 +1,7 @@
 {
  "eli": "DU/1986/102",
  "title": "Umowa między Polską Rzecząpospolitą Ludową i Socjalistyczną Federacyjną Republiką Jugosławii w sprawie unikania podwójnego opodatkowania w zakresie podatków od dochodu i majątku, podpisana w Warszawie dnia 10 stycznia 1985 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1986/102/text.pdf",
  "body": [
   {
@@ -403,6 +403,11 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "\"268",
+       "quoted": true
       },
       {
        "type": "text",
@@ -1308,7 +1313,7 @@
       },
       {
        "type": "text",
-       "text": "m 4 — Dziennik Ustaw Nr 20"
+       "text": "m 4 —"
       }
      ]
     }
@@ -1797,7 +1802,7 @@
       },
       {
        "type": "text",
-       "text": ", ; Boz: 102°",
+       "text": "; Boz: 102°",
        "quoted": true
       },
       {
@@ -2367,7 +2372,7 @@
       },
       {
        "type": "text",
-       "text": ". p \" * . PROTOKÓŁ",
+       "text": "p \" * . PROTOKÓŁ",
        "quoted": true
       },
       {

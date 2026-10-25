@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/174",
  "title": "Układ między Rzecząpospolitą Polską a Republiką Łotewską w sprawie polskich robotników rolnych, sezonowych i innych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/174/text.pdf",
  "body": [
   {
@@ -159,10 +159,6 @@
    "text": "Artykuł 11. Postanowienia niniejszego Układu i Porozumień, zawartych stosownie do art. 13 niniej-."
   },
   {
-   "type": "text",
-   "text": "Dziennik Ustaw Nr 26"
-  },
-  {
    "type": "ust",
    "num": "8",
    "path": "ust_8",
@@ -182,7 +178,11 @@
    "children": [
     {
      "type": "text",
-     "text": "Aug3a mtinétas Vienośanis izbeigSanas gadijuma tas noteikumus attiecinas uz polu laukstradniekiem un to gimenes locekjiem $i Noliguma spĘka pastavéSanas laika. Ja Latvija ievestu obligatorisku apdrośinaSanu pret vecumu, pret darba nespeju un navi, kuru attiecinatu uz laukstradniekiem, tad starp Polijas un Latvijas Valdibam noslegs papildu vienośanos, kura noteiks, vai un kada mera polu laukstradnieki bis padoti Sai sabiedriskas apdroŚinaSanas nozarei. Ja Vini bis padoti obligatoriskai apdroginaSanai augsa apradita lauka, Si papildu vienośanas nokartos tiesibas, kuras izriet no padotibas Sai apdrośinaSanai parmainus Polija un Latvija."
+     "text": "Aug3a mtinétas Vienośanis izbeigSanas gadijuma tas noteikumus attiecinas uz polu laukstradniekiem un to gimenes locekjiem $i Noliguma spĘka pastavéSanas laika."
+    },
+    {
+     "type": "text",
+     "text": "Ja Latvija ievestu obligatorisku apdrośinaSanu pret vecumu, pret darba nespeju un navi, kuru attiecinatu uz laukstradniekiem, tad starp Polijas un Latvijas Valdibam noslegs papildu vienośanos, kura noteiks, vai un kada mera polu laukstradnieki bis padoti Sai sabiedriskas apdroŚinaSanas nozarei. Ja Vini bis padoti obligatoriskai apdroginaSanai augsa apradita lauka, Si papildu vienośanas nokartos tiesibas, kuras izriet no padotibas Sai apdrośinaSanai parmainus Polija un Latvija."
     }
    ]
   },

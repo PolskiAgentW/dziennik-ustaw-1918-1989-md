@@ -1,7 +1,7 @@
 {
  "eli": "DU/1959/351",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 21 października 1959 r. w sprawie organizacji i sposobu powoływania komisji dyscyplinarnych dla rzeczników patentowych oraz zasad i trybu postępowania dyscyplinarnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1959/351/text.pdf",
  "body": [
   {
@@ -441,11 +441,6 @@
       {
        "type": "note",
        "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "f Dziennik Ustaw Nr 59",
-       "quoted": true
       },
       {
        "type": "text",

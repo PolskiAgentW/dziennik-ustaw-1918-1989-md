@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/305",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 15 maja 1939 r. o warunkach udzielania zezwoleń na uliczną sprzedaż druków nie będących czasopismami.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/305/text.pdf",
  "body": [
   {
@@ -18,10 +18,6 @@
    "path": "par_10",
    "text": "(1) Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia,",
    "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 47"
-    },
     {
      "type": "text",
      "text": "(2) Jednocześnie traci moc obowiązującą rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 19 września 1935 r. o tępieniu korówki wełnistej (Dz. U. R. P. Nr 74, poz. 465)."
@@ -92,7 +88,11 @@
    "children": [
     {
      "type": "text",
-     "text": "(2) Zezwolenia należy odmówić temu, kto ukarany był więzieniem za zbrodnię lub występek, bądź też aresztem za występek z chęci zysku lub z innych niskich pobudek. -§ 5. (1) Zezwolenie uprawnia do wykonywania ulicznej sprzedaży druków tylko tego. kto je otrzymał, i nie może być odstąpione komu innemu w drodze aktu prywatnego ani przejęte w drodze spadkobrania."
+     "text": "(2) Zezwolenia należy odmówić temu, kto ukarany był więzieniem za zbrodnię lub występek, bądź też aresztem za występek z chęci zysku lub z innych niskich pobudek."
+    },
+    {
+     "type": "text",
+     "text": "-§ 5. (1) Zezwolenie uprawnia do wykonywania ulicznej sprzedaży druków tylko tego. kto je otrzymał, i nie może być odstąpione komu innemu w drodze aktu prywatnego ani przejęte w drodze spadkobrania."
     },
     {
      "type": "text",

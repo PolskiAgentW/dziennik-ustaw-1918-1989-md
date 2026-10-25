@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/192",
  "title": "Dekret z dnia 13 czerwca 1946 r. o przestępstwach szczególnie niebezpiecznych w okresie odbudowy Państwa.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/192/text.pdf",
  "body": [
   {
@@ -254,7 +254,12 @@
     },
     {
      "type": "text",
-     "text": "1) godło, chorągiew lub: inny znak państwowy polski, albo państwa sprzymierzonego;",
+     "text": "1) godło, chorągiew lub: inny znak państwowy polski, albo państwa sprzymie-",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "rzonego;",
      "quoted": true
     },
     {
@@ -308,7 +313,7 @@
     },
     {
      "type": "text",
-     "text": "—- 350 = - Dziennik Ustaw Nr 30",
+     "text": "—- 350 = -",
      "quoted": true
     },
     {

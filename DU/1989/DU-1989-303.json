@@ -1,7 +1,7 @@
 {
  "eli": "DU/1989/303",
  "title": "Konwencja konsularna między Polską Rzecząpospolitą Ludową a Republiką Turecką, podpisana w Ankarze dnia 5 czerwca 1987 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1989/303/text.pdf",
  "body": [
   {
@@ -418,7 +418,7 @@
       },
       {
        "type": "text",
-       "text": ": = mujące może ódiaówić uznawania tej osoby za urzędnika konsularnego lub pracownika konsularnego.",
+       "text": "mujące może ódiaówić uznawania tej osoby za urzędnika konsularnego lub pracownika konsularnego.",
        "quoted": true
       },
       {
@@ -721,7 +721,12 @@
       },
       {
        "type": "text",
-       "text": "— BRA — Dziennik Ustaw Nr 51 pomieszczeń zleybędnych dla urzędu konsularnego, a w - razie potrzeby również odpowiednich mieszkań dla członków. urzędu konsularnego.",
+       "text": "— BRA —",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "pomieszczeń zleybędnych dla urzędu konsularnego, a w - razie potrzeby również odpowiednich mieszkań dla członków. urzędu konsularnego.",
        "quoted": true
       },
       {
@@ -2755,7 +2760,7 @@
       },
       {
        "type": "text",
-       "text": "w FBR Dziennik Ustaw Nr 51",
+       "text": "w FBR",
        "quoted": true
       },
       {

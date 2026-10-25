@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/172",
  "title": "Konwencja międzynarodowa o zwalczaniu zaraźliwych chorób zwierzęcych, podpisana w Genewie dnia 20 lutego 1935 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/172/text.pdf",
  "body": [
   {
@@ -368,10 +368,6 @@
    "children": [
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 26"
-    },
-    {
-     "type": "text",
      "text": "Article 2."
     },
     {
@@ -572,10 +568,6 @@
    "path": "art_4",
    "text": "Article 4.",
    "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 26"
-    },
     {
      "type": "text",
      "text": "Article 4."
@@ -1336,11 +1328,23 @@
     },
     {
      "type": "text",
-     "text": "Zaznajomiwszy się z powyższą Konwencją i załączoną Deklaracją, uznaliśmy je i uznajemy za słuszne zarówno w całości, jak i w każdym z postanowień w nich zawartych; oświadczamy, że są przyjęte, ratyfikowane i potwierdzone i przyrzekamy, że będą niezmiennie zachowywane. - Na dowód czego wydaliśmy Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej. W Warszawie, dnia 11 października 1938 r. (—) I. Mościcki Prezes Rady Ministrów: (—) Sławoj Składkowski Minister Spraw Zagranicznych: (—) Beck"
+     "text": "Zaznajomiwszy się z powyższą Konwencją i załączoną Deklaracją, uznaliśmy je i uznajemy za słuszne zarówno w całości, jak i w każdym z postanowień w nich zawartych; oświadczamy, że są przyjęte, ratyfikowane i potwierdzone i przyrzekamy, że będą niezmiennie zachowywane. - Na dowód czego wydaliśmy Akt niniejszy, opatrzony pieczęcią Rzeczypospolitej. W Warszawie, dnia 11 października 1938 r."
     },
     {
      "type": "text",
-     "text": "Apres avoir vu et examiné lesdites Convention et Déclaration Annexe, Nous les avons approuvées et approuvons en toutes et chacune des dispositions qui y sont contenues, déclarons qu'elles sont acceptées, ratifićes et confirmées et promettons qu'elles seront inviolablement observćes. En Foi de Quoi Nous avons donnć les Présentes, revétues du Sceau de la République. A Varsovie, le 11 octobre 1938. (—) I. Mościcki Le Président du Conseil des Ministres: (—) Sławoj Składkowski Le Ministre des Affaires Etrangeres: (—) Beck"
+     "text": "(—) I. Mościcki Prezes Rady Ministrów: (—) Sławoj Składkowski Minister Spraw Zagranicznych: (—) Beck"
+    },
+    {
+     "type": "text",
+     "text": "Apres avoir vu et examiné lesdites Convention et Déclaration Annexe, Nous les avons approuvées et approuvons en toutes et chacune des dispositions qui y sont contenues, déclarons qu'elles sont acceptées, ratifićes et confirmées et promettons qu'elles seront inviolablement observćes."
+    },
+    {
+     "type": "text",
+     "text": "En Foi de Quoi Nous avons donnć les Présentes, revétues du Sceau de la République. A Varsovie, le 11 octobre 1938."
+    },
+    {
+     "type": "text",
+     "text": "(—) I. Mościcki Le Président du Conseil des Ministres: (—) Sławoj Składkowski Le Ministre des Affaires Etrangeres: (—) Beck"
     }
    ]
   }

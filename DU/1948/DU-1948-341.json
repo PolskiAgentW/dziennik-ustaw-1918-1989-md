@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/341",
  "title": "Konwencja nr 80 dotycząca częściowej rewizji konwencyj, uchwalonych przez Konferencję Ogólną Międzynarodowej Organizacji Pracy na jej pierwszych dwudziestu ośmiu sesjach, przyjęta w Montrealu dnia 9 października 1946 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/341/text.pdf",
  "body": [
   {
@@ -138,7 +138,7 @@
       },
       {
        "type": "text",
-       "text": "a AR m: Dziennik Ustaw Nr 46"
+       "text": "a AR m:"
       },
       {
        "type": "text",
@@ -398,7 +398,11 @@
     },
     {
      "type": "text",
-     "text": "Article ? 7 disposition"
+     "text": "Article ? 7"
+    },
+    {
+     "type": "text",
+     "text": "disposition"
     },
     {
      "type": "text",

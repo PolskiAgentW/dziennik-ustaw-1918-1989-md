@@ -1,7 +1,7 @@
 {
  "eli": "DU/1981/89",
  "title": "Rozporządzenie Ministra Finansów z dnia 2 lipca 1981 r. w sprawie podatków obrotowego i dochodowego od osób fizycznych i osób prawnych nie będących jednostkami gospodarki uspołecznionej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1981/89/text.pdf",
  "body": [
   {
@@ -311,6 +311,10 @@
       },
       {
        "type": "text",
+       "text": "= 208 —"
+      },
+      {
+       "type": "text",
        "text": "stra Finansów z dnia 26 kwietnia 1978 r. w sprawie zasad . dokonywania odpisów na zużycie przedmiotów majątkowych przez podatników podatku dochodowego nie -będą- \"cych jednostkami gospodarki uspołecznionej (Dz. U. Ne 11, poz. 49)."
       }
      ]
@@ -516,7 +520,7 @@
         },
         {
          "type": "text",
-         "text": "a Dziennik Ustaw Nr 18"
+         "text": "a"
         }
        ]
       },

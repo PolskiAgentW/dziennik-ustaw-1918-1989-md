@@ -1,7 +1,7 @@
 {
  "eli": "DU/1985/303",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 10 grudnia 1985 r. w sprawie szczegółowych zasad wykonywania nadzoru nad sądami i sędziami oraz nad państwowymi biurami notarialnymi.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1985/303/text.pdf",
  "body": [
   {
@@ -261,7 +261,7 @@
    "type": "lit",
    "num": "os",
    "path": "lit_os",
-   "text": "BM Ss Dziennik Ustaw Nr 59",
+   "text": "BM Ss",
    "children": []
   },
   {
@@ -801,7 +801,7 @@
       },
       {
        "type": "text",
-       "text": "s. 842 —i Dziennik Ustaw Nr 59"
+       "text": "s. 842 —i"
       }
      ]
     },

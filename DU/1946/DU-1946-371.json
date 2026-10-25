@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/371",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 12 listopada 1946 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 14 lutego 1946 r. o uposażeniu wojskowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/371/text.pdf",
  "body": [
   {
@@ -63,8 +63,13 @@
        "type": "ust",
        "num": "2",
        "path": "art_2/ust_2",
-       "text": "Tryb wypłaty zasiłków i nagród pieniężnych ustala Minister Obrony Narodowej. _ 3. Wojskowym zawodowym może być udzielona w przypadkach zasługujących na uwzględnienie bezprocentowa zaliczka zwrotna na uposażenie Warunki przyznawania i spłaty zaliczek określi Minister Obrony Narodowej w porozumieniu z Ministrem Skarbu.",
-       "children": []
+       "text": "Tryb wypłaty zasiłków i nagród pieniężnych ustala Minister Obrony Narodowej.",
+       "children": [
+        {
+         "type": "text",
+         "text": "_ 3. Wojskowym zawodowym może być udzielona w przypadkach zasługujących na uwzględnienie bezprocentowa zaliczka zwrotna na uposażenie Warunki przyznawania i spłaty zaliczek określi Minister Obrony Narodowej w porozumieniu z Ministrem Skarbu."
+        }
+       ]
       }
      ]
     },
@@ -254,7 +259,7 @@
         },
         {
          "type": "text",
-         "text": "'— 82 — Dziennik Ustaw Nr 67"
+         "text": "'— 82 —"
         },
         {
          "type": "text",

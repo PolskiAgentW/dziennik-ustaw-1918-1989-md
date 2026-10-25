@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/127",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 10 marca 1939 r. o tymczasowym wprowadzeniu w życie postanowień porozumienia między Rzecząpospolitą Polską a Wielką Brytanią, dotyczącego clenia pewnych wyrobów chemicznych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/127/text.pdf",
  "body": [
   {
@@ -67,10 +67,6 @@
       {
        "type": "text",
        "text": "Pozycja taryfy celnej i"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 19"
       },
       {
        "type": "text",
@@ -204,7 +200,11 @@
      "children": [
       {
        "type": "text",
-       "text": "I request that Your Excellency will be good enough to inform me whether the Polish Government accept this Arrangement. I avail myself of this opportunity to renew to Your Excellency the assurance of my highest consideration, H. W. Kennard"
+       "text": "I request that Your Excellency will be good enough to inform me whether the Polish Government accept this Arrangement. I avail myself of this opportunity to renew to Your Excellency the assurance of my highest consideration,"
+      },
+      {
+       "type": "text",
+       "text": "H. W. Kennard"
       },
       {
        "type": "text",
@@ -229,7 +229,7 @@
       },
       {
        "type": "text",
-       "text": "— 256 — Dziennik Ustaw Nr 19",
+       "text": "256 — Dziennik Ustaw Nr 19",
        "quoted": true
       },
       {

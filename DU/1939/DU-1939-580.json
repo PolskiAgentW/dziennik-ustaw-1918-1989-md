@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/580",
  "title": "Rozporządzenie Ministrów: Spraw Wojskowych, Spraw Wewnętrznych i Skarbu z dnia 31 sierpnia 1939 r. wydane w porozumieniu z Ministrami: Spraw Zagranicznych, Rolnictwa i Reform Rolnych, Przemysłu i Handlu, Komunikacji oraz Poczt i Telegrafów w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 8 listopada 1927 r. o obowiązku odstępowania zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów dla celów obrony Państwa.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/580/text.pdf",
  "body": [
   {
@@ -2297,17 +2297,8 @@
      "type": "pkt",
      "num": "1",
      "path": "par_87/pkt_1",
-     "text": "rozporządzenie Ministra Spraw Wojskowych i Ministra Spraw Wewnętrznych z dnia 23 marca:1928 r. wydane w porozumieniu z Ministrami: Rolnictwa, Robót Publicznych, Przemysłu i Handlu, Poczt i Telegrafów oraz Skarbu w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 8 listopada 1927 r. o obowiązku odstępo-",
-     "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 90"
-      },
-      {
-       "type": "text",
-       "text": "wania zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów dla celów obrony Państwa (Dz. U. R. P. Nr 44, poz. 425); 2) rozporządzenie Ministra Spraw Wojskowych z dnia 30 stycznia 1928 r. wydane w porozumieniu z Ministrami: Spraw Wewnętrznych, Rolnictwa, Przemysłu i Handlu, Robót Publicznych i Skarbu o sposobie ustalenia i wypłaty odszkodowania i wynagrodzenia za zatrzymanie zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów przez formacje wojskowe (Dz. U. R. P. Nr 16, poz. 133)."
-      }
-     ]
+     "text": "rozporządzenie Ministra Spraw Wojskowych i Ministra Spraw Wewnętrznych z dnia 23 marca:1928 r. wydane w porozumieniu z Ministrami: Rolnictwa, Robót Publicznych, Przemysłu i Handlu, Poczt i Telegrafów oraz Skarbu w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 8 listopada 1927 r. o obowiązku odstępowania zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów dla celów obrony Państwa (Dz. U. R. P. Nr 44, poz. 425); 2) rozporządzenie Ministra Spraw Wojskowych z dnia 30 stycznia 1928 r. wydane w porozumieniu z Ministrami: Spraw Wewnętrznych, Rolnictwa, Przemysłu i Handlu, Robót Publicznych i Skarbu o sposobie ustalenia i wypłaty odszkodowania i wynagrodzenia za zatrzymanie zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów przez formacje wojskowe (Dz. U. R. P. Nr 16, poz. 133).",
+     "children": []
     }
    ]
   },

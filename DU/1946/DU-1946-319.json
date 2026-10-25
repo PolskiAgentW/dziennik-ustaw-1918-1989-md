@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/319",
  "title": "Dekret z dnia 11 października 1946 r. - Prawo rzeczowe.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/319/text.pdf",
  "body": [
   {
@@ -475,6 +475,10 @@
       },
       {
        "type": "text",
+       "text": "— 660 =:"
+      },
+      {
+       "type": "text",
        "text": "wyrażą bezwarunkową. zgodę na niezwłoczne przejście własności."
       }
      ]
@@ -907,8 +911,13 @@
    "type": "art",
    "num": "79",
    "path": "art_79",
-   "text": "Współwłaściciel może rozporządzać swoim udziałem bez zgody pozostałych współwłaścicieli; może jednak zobowiązać się, że nie dokona oznaczonych rozporządzeń. - Art. 80. W razie sprzedaży udziału przez jednego ze współwłaścicieli służy pozostałymi współwłaścicielom prawo pierwokupu, chyba że kupującym jest inny współwłaściciel ałbo osoba, która dziedziczyłaby z ustawy po sprze. dawcy.",
-   "children": []
+   "text": "Współwłaściciel może rozporządzać swoim udziałem bez zgody pozostałych współwłaścicieli; może jednak zobowiązać się, że nie dokona oznaczonych rozporządzeń.",
+   "children": [
+    {
+     "type": "text",
+     "text": "- Art. 80. W razie sprzedaży udziału przez jednego ze współwłaścicieli służy pozostałymi współwłaścicielom prawo pierwokupu, chyba że kupującym jest inny współwłaściciel ałbo osoba, która dziedziczyłaby z ustawy po sprze. dawcy."
+    }
+   ]
   },
   {
    "type": "art",
@@ -2164,7 +2173,7 @@
       },
       {
        "type": "text",
-       "text": "|—_668 = Dziennik Ustaw Nr 57"
+       "text": "|—_668 ="
       },
       {
        "type": "text",

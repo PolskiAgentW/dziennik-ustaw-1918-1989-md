@@ -1,7 +1,7 @@
 {
  "eli": "DU/1965/181",
  "title": "Rozporządzenie Przewodniczącego Komitetu Pracy i Płac z dnia 25 czerwca 1965 r. w sprawie zgłoszeń do ubezpieczenia społecznego rzemieślników, legitymacji ubezpieczeniowych, składek, ustalania prawa do świadczeń i wypłaty świadczeń pieniężnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1965/181/text.pdf",
  "body": [
   {
@@ -908,12 +908,7 @@
        "num": "a",
        "path": "par_25/ust_3/lit_a",
        "text": "PEP\" — Kadm „Ride 1 r —4: z vai UŁ : uj St ee oad",
-       "children": [
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 27 —"
-        }
-       ]
+       "children": []
       }
      ]
     }

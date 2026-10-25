@@ -1,7 +1,7 @@
 {
  "eli": "DU/1974/126",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 29 maja 1974 r. w sprawie pomocy postpenitencjarnej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1974/126/text.pdf",
  "body": [
   {
@@ -403,10 +403,6 @@
         {
          "type": "note",
          "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": ": Dziennik Ustaw Nr 21"
         }
        ]
       },

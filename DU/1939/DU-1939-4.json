@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/4",
  "title": "Rozporządzenie Ministrów: Rolnictwa i Reform Rolnych, Spraw Wewnętrznych oraz Sprawiedliwości z dnia 4 stycznia 1939 r. o zniesieniu niektórych wojewódzkich i powiatowych urzędów rozjemczych do spraw majątkowych posiadaczy gospodarstw wiejskich.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/4/text.pdf",
  "body": [
   {
@@ -210,17 +210,8 @@
    "type": "par",
    "num": "7",
    "path": "par_7",
-   "text": "Ewentualne niedobory powiatowego urzędu rozjemczego, działającego na terenie",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 1"
-    },
-    {
-     "type": "text",
-     "text": "dwóch lub więcej powiatów, pokrywają wszystkie zainteresowane wydziały powiatowe. Udział w kwocie potrzebnych w tym celu dopłat pozostawać będzie w stosunku prostym do sumy wpływów z tytułu wpisów, opłat kancelaryjnych i innych, jakie wniesiono z danego powiatu. Rozrachunek między wymienionymi powiatowymi związkami samorządowymi dokonywa się każdego kwartału roku budżetowego po przedstawieniu rozliczenia przez powiatowy związek samorządowy, w siedzibie którego działa urząd rozjemczy."
-    }
-   ]
+   "text": "Ewentualne niedobory powiatowego urzędu rozjemczego, działającego na terenie dwóch lub więcej powiatów, pokrywają wszystkie zainteresowane wydziały powiatowe. Udział w kwocie potrzebnych w tym celu dopłat pozostawać będzie w stosunku prostym do sumy wpływów z tytułu wpisów, opłat kancelaryjnych i innych, jakie wniesiono z danego powiatu. Rozrachunek między wymienionymi powiatowymi związkami samorządowymi dokonywa się każdego kwartału roku budżetowego po przedstawieniu rozliczenia przez powiatowy związek samorządowy, w siedzibie którego działa urząd rozjemczy.",
+   "children": []
   },
   {
    "type": "par",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/243",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 kwietnia 1939 r. wydane w porozumieniu z Ministrem Skarbu o zawiadywaniu sumami na koszty akcji przeciwpożarowej, sposobie ich pobierania oraz dysponowania nimi i kontroli ich zużycia.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/243/text.pdf",
  "body": [
   {
@@ -73,17 +73,8 @@
    "type": "par",
    "num": "7",
    "path": "par_7",
-   "text": "Wydatkowanie ‘sum, ustalonych w szczegółowych planach zużycia sum, o których mowa w § 6, uskutecznia Powszechny Zakład Ubezpieczeń Wzajemnych, a na obszarze województw poznańskiego i pomorskiego — Zakład Ubezpieczeń Wzajemnych w Poznaniu. Sumy przeznaczone w planie finansowym na cele akcji przeciwpożarowej na obszarze",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 37"
-    },
-    {
-     "type": "text",
-     "text": "województw poznańskiego i pomorskiego Powszechny Zakład Ubezpieczeń Wzajemnych w Warszawie przekazuje Zakładowi Ubezpieczeń Wzajemnych w Poznaniu z sum, o których mowa w § 2. Powszechny Zakład Ubezpieczeń Wzajemnych w Warszawie prowadzi również ogólny obrachunek wydatków z tego tytułu."
-    }
-   ]
+   "text": "Wydatkowanie ‘sum, ustalonych w szczegółowych planach zużycia sum, o których mowa w § 6, uskutecznia Powszechny Zakład Ubezpieczeń Wzajemnych, a na obszarze województw poznańskiego i pomorskiego — Zakład Ubezpieczeń Wzajemnych w Poznaniu. Sumy przeznaczone w planie finansowym na cele akcji przeciwpożarowej na obszarze województw poznańskiego i pomorskiego Powszechny Zakład Ubezpieczeń Wzajemnych w Warszawie przekazuje Zakładowi Ubezpieczeń Wzajemnych w Poznaniu z sum, o których mowa w § 2. Powszechny Zakład Ubezpieczeń Wzajemnych w Warszawie prowadzi również ogólny obrachunek wydatków z tego tytułu.",
+   "children": []
   },
   {
    "type": "par",

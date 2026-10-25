@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/222",
  "title": "Układ między Stolicą Apostolską i Rzecząpospolitą Polską w sprawie ziem, kościołów i kaplic pounickich, których Kościół Katolicki pozbawiony został przez Rosję, podpisany w Warszawie dnia 20 czerwca 1938 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/222/text.pdf",
  "body": [
   {
@@ -26,11 +26,19 @@
   },
   {
    "type": "text",
-   "text": "Przekład. UKŁAD między Stolicą Apostolską a Rzecząpospolitą Polską w sprawie ziem, kościołów i kaplic pounickich, których Kościół Katolicki został pozbawiony przez Rosję. Jego Świętobliwość Papież Pius XI i Jego Ekscelencja Prezydent Rzeczypospolitej Polskiej, ożywieni pragnieniem uregulowania sprawy: ziem, kościołów i kaplic pounickich, których Kościół Katolicki został pozbawiony przez Rosję, . postanowili, w wykonaniu artykułu XXIV ust, 3 Konkordatu między Stolicą Apostolską a Rzecząpospolitą Polską, podpisanego w Rzymie dnia 10 lutego 1925 r., zawrzeć odnośny Układ i mianowali w tym celu swymi Pełnomocnikami, a mianowicie: Jego Świętobliwość: Jego Ekscelencje Monseigneur Filipa CORTES], Arcybiskupa Syraceńskiego, Nuncjusza Apostolskiego w Warszawie; Jego Ekscelencja Prezydent Rzeczypospolitej Polskiej: Jego Ekscelencję Pana Józefa BECKA, Ministra Spraw Zagranicznych, którzy, po wymianie swych pełnomocnictw, uznanych za dobre i w należytej formie, zgodzili się na postanowienia następujące:"
+   "text": "Przekład. UKŁAD między Stolicą Apostolską a Rzecząpospolitą Polską w sprawie ziem, kościołów i kaplic pounickich, których Kościół Katolicki został pozbawiony przez Rosję."
   },
   {
    "type": "text",
-   "text": "ACCORD entre le Saint-Siége et la République de Pologne au sujet des terres, églises et chapelles exuniates, dont l'Eglise Catholique a été privée par la Russie."
+   "text": "Jego Świętobliwość Papież Pius XI i Jego Ekscelencja Prezydent Rzeczypospolitej Polskiej, ożywieni pragnieniem uregulowania sprawy: ziem, kościołów i kaplic pounickich, których Kościół Katolicki został pozbawiony przez Rosję, . postanowili, w wykonaniu artykułu XXIV ust, 3 Konkordatu między Stolicą Apostolską a Rzecząpospolitą Polską, podpisanego w Rzymie dnia 10 lutego 1925 r., zawrzeć odnośny Układ i mianowali w tym celu swymi Pełnomocnikami, a mianowicie: Jego Świętobliwość: Jego Ekscelencje Monseigneur Filipa CORTES], Arcybiskupa Syraceńskiego, Nuncjusza Apostolskiego w Warszawie; Jego Ekscelencja Prezydent Rzeczypospolitej Polskiej: Jego Ekscelencję Pana Józefa BECKA, Ministra Spraw Zagranicznych, którzy, po wymianie swych pełnomocnictw, uznanych za dobre i w należytej formie, zgodzili się na postanowienia następujące:"
+  },
+  {
+   "type": "text",
+   "text": "ACCORD"
+  },
+  {
+   "type": "text",
+   "text": "entre le Saint-Siége et la République de Pologne au sujet des terres, églises et chapelles exuniates, dont l'Eglise Catholique a été privée par la Russie."
   },
   {
    "type": "text",
@@ -110,10 +118,6 @@
      "path": "art_IV/ust_1",
      "text": "W ciągu czterech lat od daty wejścia w życie niniejszego Układu, Kościół Katolicki przeprowadzi podział ziem, które w myśl arty-",
      "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 35"
-      },
       {
        "type": "text",
        "text": "Article I."

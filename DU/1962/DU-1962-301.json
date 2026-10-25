@@ -1,7 +1,7 @@
 {
  "eli": "DU/1962/301",
  "title": "Umowa między Polską Rzecząpospolitą Ludową a Rumuńską Republiką Ludową o pomocy prawnej i stosunkach prawnych w sprawach cywilnych, rodzinnych i karnych, podpisana w Bukareszcie dnia 25 stycznia 1962 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1962/301/text.pdf",
  "body": [
   {
@@ -541,7 +541,7 @@
       },
       {
        "type": "text",
-       "text": "_ EG Reę, 2 Dziennik Ustaw Nr 63 Ę"
+       "text": "EG Reę, 2 Dziennik Ustaw Nr 63 Ę"
       },
       {
        "type": "text",
@@ -1075,7 +1075,7 @@
     },
     {
      "type": "text",
-     "text": "i: RAGE r Dziennik Ustaw Nr 63",
+     "text": "i: RAGE r",
      "quoted": true
     },
     {
@@ -1475,6 +1475,11 @@
     {
      "type": "note",
      "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "'— 569.",
+     "quoted": true
     },
     {
      "type": "text",
@@ -3468,7 +3473,7 @@
     },
     {
      "type": "text",
-     "text": "= 580 — Dziennik Ustaw Nr 63",
+     "text": "= 580 —",
      "quoted": true
     },
     {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1981/168",
  "title": "Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Królestwa Holandii o uniknięciu podwójnego opodatkowania i zapobieżeniu uchylaniu się od opodatkowania w zakresie podatków od dochodu i majątku, podpisana w Warszawie dnia 20 września 1979 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1981/168/text.pdf",
  "body": [
   {
@@ -175,6 +175,11 @@
   {
    "type": "note",
    "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "'— 343 —",
+   "quoted": true
   },
   {
    "type": "text",
@@ -625,12 +630,7 @@
       },
       {
        "type": "text",
-       "text": "F Dziennik Ustaw Nr 31",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "* waż Poz. 168",
+       "text": "F * waż Poz. 168",
        "quoted": true
       },
       {

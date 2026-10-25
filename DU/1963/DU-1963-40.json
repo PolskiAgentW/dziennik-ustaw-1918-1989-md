@@ -1,7 +1,7 @@
 {
  "eli": "DU/1963/40",
  "title": "Rozporządzenie Ministra Żeglugi z dnia 7 lutego 1963 r. w sprawie kwalifikacji zawodowych oficerów i marynarzy na polskich statkach morskich.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1963/40/text.pdf",
  "body": [
   {
@@ -362,7 +362,7 @@
       },
       {
        "type": "text",
-       "text": ", — p",
+       "text": "— p",
        "quoted": true
       },
       {
@@ -2552,7 +2552,7 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 7 = 8 = +"
+       "text": "= 8 = +"
       }
      ]
     }
@@ -2770,7 +2770,7 @@
     },
     {
      "type": "text",
-     "text": "we 79 — Poz. 40. Dziennik Ustaw Nr 7"
+     "text": "we 79 — Poz. 40."
     },
     {
      "type": "text",

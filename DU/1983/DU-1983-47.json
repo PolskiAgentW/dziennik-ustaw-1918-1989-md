@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/47",
  "title": "Rozporządzenie Rady Ministrów z dnia 5 lutego 1983 r. w sprawie ustalenia listy przedsiębiorstw o podstawowym znaczeniu dla gospodarki narodowej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/47/text.pdf",
  "body": [
   {
@@ -1487,7 +1487,7 @@
       },
       {
        "type": "text",
-       "text": "Fa Dziennik Ustaw Nr 9",
+       "text": "Fa",
        "quoted": true
       },
       {
@@ -2858,10 +2858,6 @@
       {
        "type": "note",
        "text": "[Strona 20 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": ". Poz. 4r..."
       }
      ]
     },

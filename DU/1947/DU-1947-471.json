@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/471",
  "title": "Rozporządzenie Ministrów: Rolnictwa i Reform Rolnych, Ziem Odzyskanych oraz Administracji Publicznej z dnia 22 listopada 1947 r. wydane w porozumieniu z Ministrami Obrony Narodowej i Skarbu w sprawie norm obszarowych, szacunku, odliczenia od ceny na rzecz osadników wojskowych oraz spłaty należności za gospodarstwa, nadane na podstawie dekretu z dnia 6 września 1946 r. o ustroju rolnym i osadnictwie na obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/471/text.pdf",
  "body": [
   {
@@ -790,8 +790,12 @@
    "type": "par",
    "num": "27",
    "path": "par_27",
-   "text": "I. gruntów przeprowadza mierniczy, wyznaczony przez wojewódzką władzę administracji ogólnej. . Czynności, wymienione w ust. I, mogą być również dokonane przez odpowiednio wykwalifikowane osoby, \"wyznaczone ez powiatową władzę administracji - ogólnej. , . W razie potrzeby powinewa władza administracji * ogólnej powołuje FZECZO- znawców. . Z czynności klasyfikacyjno-szacunkowych sporządza się szczegółowy protokół oraz załącza do niego szkic z oznaczeniem granic poszczególnych klas gruntów. . Jeżeli istnieją mapy lub inne dowody pomiarowe z uwidocznioną na nich klasyfikacją, ustalenie klas gruntów i konturów klasyfikacyjnych może być dokonane na podstawie tych dowodów. *",
+   "text": "I. gruntów przeprowadza mierniczy, wyznaczony przez wojewódzką władzę administracji ogólnej. . Czynności, wymienione w ust. I, mogą być również dokonane przez odpowiednio wykwalifikowane osoby, \"wyznaczone ez powiatową władzę administracji - ogólnej. , . W razie potrzeby powinewa władza administracji * ogólnej powołuje FZECZO- znawców.",
    "children": [
+    {
+     "type": "text",
+     "text": ". Z czynności klasyfikacyjno-szacunkowych sporządza się szczegółowy protokół oraz załącza do niego szkic z oznaczeniem granic poszczególnych klas gruntów. . Jeżeli istnieją mapy lub inne dowody pomiarowe z uwidocznioną na nich klasyfikacją, ustalenie klas gruntów i konturów klasyfikacyjnych może być dokonane na podstawie tych dowodów. *"
+    },
     {
      "type": "text",
      "text": "ca"
@@ -1482,7 +1486,7 @@
         },
         {
          "type": "text",
-         "text": "PR 471 1 472 Dziennik Ustaw Nr 74"
+         "text": "PR 471 1 472"
         },
         {
          "type": "text",

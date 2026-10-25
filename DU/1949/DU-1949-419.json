@@ -1,7 +1,7 @@
 {
  "eli": "DU/1949/419",
  "title": "Obwieszczenie Ministra Skarbu z dnia 29 września 1949 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 3 lutego 1947 r. o opłacie skarbowej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/419/text.pdf",
  "body": [
   {
@@ -1065,87 +1065,81 @@
         },
         {
          "type": "text",
-         "text": "„Poz. 419 Dziennik Ustaw Nr 53",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Stawka opłaty Po- Przedmiot opłaty zyzł 0/9 cia",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) przy przesyłkach dzienników i czasopism od każdego arkusza listu przewozowego lub innego tego rodzaju dokumentu (list ekspre- ; sowy, specjalny wykaz nadawczy) 5 —",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "b) bilet iub inny dokument uprawniajecy do jazdy statkiem morskim lub powietrznym, wystawiony przez przedsiębiorcę okrętowego lub żeglugi powietrznej, mającego w Poisce",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Po- Stawka opłaty zy- Przedmiot opłaty . cja zł Og. siedzibę lub działającego przez swe przedsiębiorstwo (pełnomocnika lub komisanta), a wręczony bądź w. Polsce, bądź za granicą osobie w Poisce zamieszkałej — od sumy : wynagrodzenia za przewóz statkiem i za inne jeszcze ewentualne świadezenia, do których przedsiębiorca się zobowiązał (żywienie itp.) . — 1",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1i. Umowy majątkowe małżeńskie . . . 5.600 —",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Część I.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Przepisy dodatkowe,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Nr . prze- Treść przepisu pisu",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Do poz. 1.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1. Podanie wniesione przez jedną osobę, choćby dotyczyło dwu lub więcej spraw (przedmiotów), podlega jednokrotnej opłacie według stawki najwyższej; jeżeli z tych spraw władza uczyni przedmiotem załatwienia jedną, opłata należy się według stawki przypadającej od tej sprawy.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": ". Podanie ponowne, przy którym jedynie zostają złożone załączniki, potrzebne do załatwienia pierwszego podania, nie podlega opłacie, od załączników opłaca się jednak po 10 zł od sztuki.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": ". Podania w sprawach, wymienionych w art. 38 ust. 2 i w art. 41 prawa o aktach stanu cywilnego oraz w $§ 4i 5 rozporządzenia Ministrów Administracji Publicznej i Ziem Odzyskanych z dnia 23 marca 1948 r. o taryfie opłat za czynności urzędów stanu cywilnego i władz nadzorczych (Dz. U. R. P. Nr 21, poz. 150), wnoszone do władz nadzorczych nad urzędami stanu cywilnego — podlegają opłacie według poz. 1 [it. a).",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": ". Protokół zastępujący podanie podlega opłacie takiej samej jak podanie. Każdy zaś. dalszy eg”emplarz lub odpis podania, złożony wraz z podaniem, podlega opłacie jak załącznik.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Nie podlegają opłacie:"
-        },
-        {
-         "type": "text",
-         "text": ". podania, zawierające wnioski w sprawach publicznych albo wiadomości udzielone w sprawie publicznej w myśl obowiązującego przepisu lub na żądanie władzy, wnioski o wydanie świadectw, których posiadanie jest przez obowiązujące przepisy nakazane ze względów publicznych, w sprawach wyborów do sejmu, do ciał reprezentacyjnych samorządu terytorialnego, samorządu gospodarczego oraz komisji podatkowych, podania o wydanie świadectw upoważniających do przekroczenia granicy, przewidzianych w umowach . międzypaństwowych o ułatwieniach w małym. ruchu granicznym."
-        },
-        {
-         "type": "text",
-         "text": "Nr Treść przepisu przepisu"
+         "text": "Stawka opłaty Po- Przedmiot opłaty zyzł 0/9 cia"
         }
        ]
+      },
+      {
+       "type": "pkt",
+       "num": "3",
+       "path": "ust_4/pkt_3",
+       "text": "przy przesyłkach dzienników i czasopism od każdego arkusza listu przewozowego lub innego tego rodzaju dokumentu (list ekspre- ; sowy, specjalny wykaz nadawczy) 5 —",
+       "children": [
+        {
+         "type": "lit",
+         "num": "b",
+         "path": "ust_4/pkt_3/lit_b",
+         "text": "bilet iub inny dokument uprawniajecy do jazdy statkiem morskim lub powietrznym, wystawiony przez przedsiębiorcę okrętowego lub żeglugi powietrznej, mającego w Poisce",
+         "children": [
+          {
+           "type": "text",
+           "text": "Po- Stawka opłaty zy- Przedmiot opłaty . cja zł Og. siedzibę lub działającego przez swe przedsiębiorstwo (pełnomocnika lub komisanta), a wręczony bądź w. Polsce, bądź za granicą osobie w Poisce zamieszkałej — od sumy : wynagrodzenia za przewóz statkiem i za inne jeszcze ewentualne świadezenia, do których przedsiębiorca się zobowiązał (żywienie itp.) . — 1"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "ust",
+     "num": "1i",
+     "path": "ust_1i",
+     "text": "Umowy majątkowe małżeńskie . . . 5.600 —",
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Część I",
+     "text": "Przepisy dodatkowe,"
+    },
+    {
+     "type": "text",
+     "text": "Nr . prze- Treść przepisu pisu"
+    },
+    {
+     "type": "text",
+     "text": "Do poz. 1."
+    },
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "ust_1",
+     "text": "Podanie wniesione przez jedną osobę, choćby dotyczyło dwu lub więcej spraw (przedmiotów), podlega jednokrotnej opłacie według stawki najwyższej; jeżeli z tych spraw władza uczyni przedmiotem załatwienia jedną, opłata należy się według stawki przypadającej od tej sprawy.",
+     "children": [
+      {
+       "type": "text",
+       "text": ". Podanie ponowne, przy którym jedynie zostają złożone załączniki, potrzebne do załatwienia pierwszego podania, nie podlega opłacie, od załączników opłaca się jednak po 10 zł od sztuki."
+      },
+      {
+       "type": "text",
+       "text": ". Podania w sprawach, wymienionych w art. 38 ust. 2 i w art. 41 prawa o aktach stanu cywilnego oraz w $§ 4i 5 rozporządzenia Ministrów Administracji Publicznej i Ziem Odzyskanych z dnia 23 marca 1948 r. o taryfie opłat za czynności urzędów stanu cywilnego i władz nadzorczych (Dz. U. R. P. Nr 21, poz. 150), wnoszone do władz nadzorczych nad urzędami stanu cywilnego — podlegają opłacie według poz. 1 [it. a)."
+      },
+      {
+       "type": "text",
+       "text": ". Protokół zastępujący podanie podlega opłacie takiej samej jak podanie. Każdy zaś. dalszy eg”emplarz lub odpis podania, złożony wraz z podaniem, podlega opłacie jak załącznik."
+      },
+      {
+       "type": "text",
+       "text": "Nie podlegają opłacie:"
+      },
+      {
+       "type": "text",
+       "text": ". podania, zawierające wnioski w sprawach publicznych albo wiadomości udzielone w sprawie publicznej w myśl obowiązującego przepisu lub na żądanie władzy, wnioski o wydanie świadectw, których posiadanie jest przez obowiązujące przepisy nakazane ze względów publicznych, w sprawach wyborów do sejmu, do ciał reprezentacyjnych samorządu terytorialnego, samorządu gospodarczego oraz komisji podatkowych, podania o wydanie świadectw upoważniających do przekroczenia granicy, przewidzianych w umowach . międzypaństwowych o ułatwieniach w małym. ruchu granicznym."
+      },
+      {
+       "type": "text",
+       "text": "Nr Treść przepisu przepisu"
       }
      ]
     },
@@ -1365,7 +1359,7 @@
       },
       {
        "type": "text",
-       "text": "„m 1043 Dziennik Ustaw Nr 53",
+       "text": "„m 1043",
        "quoted": true
       },
       {

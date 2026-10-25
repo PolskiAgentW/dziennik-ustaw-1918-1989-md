@@ -1,7 +1,7 @@
 {
  "eli": "DU/1956/97",
  "title": "Rozporządzenie Rady Ministrów z dnia 4 czerwca 1956 r. w sprawie klasyfikacji gruntów.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1956/97/text.pdf",
  "body": [
   {
@@ -876,7 +876,7 @@
       },
       {
        "type": "text",
-       "text": "— \"119 — Dziennik Ustaw Nr 19"
+       "text": "— \"119 —"
       },
       {
        "type": "text",
@@ -952,6 +952,10 @@
       {
        "type": "note",
        "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "_"
       },
       {
        "type": "text",

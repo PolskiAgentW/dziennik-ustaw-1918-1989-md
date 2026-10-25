@@ -1,7 +1,7 @@
 {
  "eli": "DU/1968/19",
  "title": "Obwieszczenie Przewodniczącego Komitetu Pracy i Płac z dnia 24 stycznia 1968 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 28 maja 1957 r. o zaopatrzeniu emerytalnym górników i ich rodzin.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1968/19/text.pdf",
  "body": [
   {
@@ -432,7 +432,7 @@
   },
   {
    "type": "text",
-   "text": "ra SAME Dziennik Ustaw Nr 3",
+   "text": "ra SAME",
    "quoted": true
   }
  ],
@@ -876,7 +876,7 @@
           },
           {
            "type": "text",
-           "text": "' 78 \"— : -—__ Poz. 19"
+           "text": "—' 78 \"— : -—__ Poz. 19"
           }
          ]
         },

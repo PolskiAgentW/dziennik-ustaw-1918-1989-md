@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/216",
  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 28 lutego 1939 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej o prawie budowlanym i zabudowaniu osiedli.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/216/text.pdf",
  "body": [
   {
@@ -827,15 +827,7 @@
     },
     {
      "type": "text",
-     "text": "(4) W razie, gdy teren, objęty sporządzanym planem zabudowania, stanowi część obszaru, dla którego sporządza się regionalny lub"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 34"
-    },
-    {
-     "type": "text",
-     "text": "wspólny plan zabudowania (art. 23), bądź przylega do takiego obszaru, wówczas organ, sporządzający plan zabudowania, obowiązany jest zasięgnąć opinii przewodniczącego odnośnej komisji co do zamierzeń, będących przedmiotem sporządzanych planów zabudowania."
+     "text": "(4) W razie, gdy teren, objęty sporządzanym planem zabudowania, stanowi część obszaru, dla którego sporządza się regionalny lub wspólny plan zabudowania (art. 23), bądź przylega do takiego obszaru, wówczas organ, sporządzający plan zabudowania, obowiązany jest zasięgnąć opinii przewodniczącego odnośnej komisji co do zamierzeń, będących przedmiotem sporządzanych planów zabudowania."
     }
    ]
   },
@@ -1417,17 +1409,8 @@
    "type": "art",
    "num": "56",
    "path": "art_56",
-   "text": "W wypadkach, gdy na terenach, podlegających parcelacji, konieczne jest przeprowadzenie nowych ulic lub dróg albo gdy zachodzi potrzeba zmiany przyległych do tych terenów lub przechodzących przez nie istniejących ulic, placów i dróg lub wreszcie, gdy parcelacja doły-",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 34"
-    },
-    {
-     "type": "text",
-     "text": "czy terenu o powierzchni co najmniej hektara, a w miastach przy portach morskich co najmniej 1/2 hektara, nie posiadającego prawomocnego szczegółowego planu zabudowania, powinny być sporządzone plany zabudowania odnośnych terenów w trybie, przewidzianym w art. 7—51."
-    }
-   ]
+   "text": "W wypadkach, gdy na terenach, podlegających parcelacji, konieczne jest przeprowadzenie nowych ulic lub dróg albo gdy zachodzi potrzeba zmiany przyległych do tych terenów lub przechodzących przez nie istniejących ulic, placów i dróg lub wreszcie, gdy parcelacja dotyczy terenu o powierzchni co najmniej hektara, a w miastach przy portach morskich co najmniej 1/2 hektara, nie posiadającego prawomocnego szczegółowego planu zabudowania, powinny być sporządzone plany zabudowania odnośnych terenów w trybie, przewidzianym w art. 7—51.",
+   "children": []
   },
   {
    "type": "heading",
@@ -1588,10 +1571,6 @@
   {
    "type": "note",
    "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "ea Dziennik Ustaw Nr 34"
   },
   {
    "type": "art",
@@ -1827,7 +1806,12 @@
     },
     {
      "type": "text",
-     "text": "Art. 79, Gdy w miejsce działki drobnej nie może być wydzielona działka zdatna do zabudowania, utworzona w myśl art. 78 część obszaru scalenia, stanowiąca równoważnik tej działki, powinna być użyta na powiększenie innej lub innych działek, właściciel zaś otrzymuje odszkodowanie pieniężne. Art, 80.",
+     "text": "Art. 79,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Gdy w miejsce działki drobnej nie może być wydzielona działka zdatna do zabudowania, utworzona w myśl art. 78 część obszaru scalenia, stanowiąca równoważnik tej działki, powinna być użyta na powiększenie innej lub innych działek, właściciel zaś otrzymuje odszkodowanie pieniężne. Art, 80.",
      "quoted": true
     },
     {
@@ -1842,7 +1826,12 @@
     },
     {
      "type": "text",
-     "text": "Art. 81. W wypadkach, gdy to jest konieczne dla przeprowadzenia scalenia (art. 78 ust, (3)), mogą być ustanowione odpowiednie służebności, jak wspólne użytkowanie podwórz, prawo widoku i światła itp.",
+     "text": "Art. 81.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "W wypadkach, gdy to jest konieczne dla przeprowadzenia scalenia (art. 78 ust, (3)), mogą być ustanowione odpowiednie służebności, jak wspólne użytkowanie podwórz, prawo widoku i światła itp.",
      "quoted": true
     },
     {
@@ -1877,12 +1866,22 @@
     },
     {
      "type": "text",
-     "text": "Art. 85. Przy obliczaniu dopłat i odszkodowań (art. art. 79, 83 i 84) nie może być brane pod uwagę ogólne powiększenie wartości gruntów na obszarze scalenia, które może nastąpić wskutek scalenia.",
+     "text": "Art. 85.",
      "quoted": true
     },
     {
      "type": "text",
-     "text": "Art. 86. Służebności, ustanowione w myśl art. 81, powinny być wzięte pod uwagę przy ustalaniu dopłat i odszkodowań (art. 83 i 84).",
+     "text": "Przy obliczaniu dopłat i odszkodowań (art. art. 79, 83 i 84) nie może być brane pod uwagę ogólne powiększenie wartości gruntów na obszarze scalenia, które może nastąpić wskutek scalenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 86.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Służebności, ustanowione w myśl art. 81, powinny być wzięte pod uwagę przy ustalaniu dopłat i odszkodowań (art. 83 i 84).",
      "quoted": true
     },
     {
@@ -1892,7 +1891,12 @@
     },
     {
      "type": "text",
-     "text": "Art. 88. Za wkłady na roboty budowlane, urządzanie ogrodów, melioracje itp., dokonane po wszczęciu postępowania scaleniowego przez właścicieli działek, włączonych do obszaru scalenia, odszkodowanie się nie należy,",
+     "text": "Art. 88.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Za wkłady na roboty budowlane, urządzanie ogrodów, melioracje itp., dokonane po wszczęciu postępowania scaleniowego przez właścicieli działek, włączonych do obszaru scalenia, odszkodowanie się nie należy,",
      "quoted": true
     },
     {
@@ -1907,7 +1911,12 @@
     },
     {
      "type": "text",
-     "text": "Rozdział 2. Prawa osób trzecich.",
+     "text": "Rozdział 2.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Prawa osób trzecich.",
      "quoted": true
     },
     {
@@ -2080,15 +2089,7 @@
       },
       {
        "type": "text",
-       "text": "(1) Na podstawie sporządzonych planu i wykazu o potrzebie i obszarze scalenia orzekają w Warszawie — Minister Spraw We-"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 34"
-      },
-      {
-       "type": "text",
-       "text": "wnętrznych, w innych miejscowościach — wojewoda."
+       "text": "(1) Na podstawie sporządzonych planu i wykazu o potrzebie i obszarze scalenia orzekają w Warszawie — Minister Spraw Wewnętrznych, w innych miejscowościach — wojewoda."
       },
       {
        "type": "text",
@@ -2440,15 +2441,7 @@
       },
       {
        "type": "text",
-       "text": "(2) W razie, gdy scalenie dotyczy części osiedla, zniszczonej wskutek klęski żywiołowej,"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 34"
-      },
-      {
-       "type": "text",
-       "text": "op przeglądania projektu scalenia wynosi 7 dni."
+       "text": "(2) W razie, gdy scalenie dotyczy części osiedla, zniszczonej wskutek klęski żywiołowej, op przeglądania projektu scalenia wynosi 7 dni."
       }
      ]
     }
@@ -3063,10 +3056,6 @@
     {
      "type": "text",
      "text": "Byli właściciele działek, którzy żechcą skorzystać z prawa przysługującego im w myśl art. 147, powinni w terminie trzech miesięcy od dnia powiadomienia w myśl art. 163 zgłosić na ręce organów, wymienionych w art. 150, żądanie nabycia nowoutworzonych działek."
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 34"
     },
     {
      "type": "text",
@@ -3828,10 +3817,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 34"
-    },
-    {
-     "type": "text",
      "text": "(2) W wypadku wypuszczenia na świetlik okien schodów, przekrój poziomy świetlika powinien zawierać co najmniej tyle metrów kwadratowych, ile metrów bieżących wynosi wysokość murów, okalających świetlik, licząc tę fa od poziomu pierwszego stopnia schoów."
     },
     {
@@ -4135,10 +4120,6 @@
       {
        "type": "text",
        "text": "(1) Podłoga w pomieszczeniach, przeznaczonych na pobyt ludzi, powinna być wzniesiona co najmniej 40 centymetrów ponad najwyższy znany poziom wody zaskórnej."
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 34"
       },
       {
        "type": "text",
@@ -5076,17 +5057,7 @@
     },
     {
      "type": "text",
-     "text": "(2) Przy budowie i przebudowie studzien, mających dostarczać wody do picia, ściany studni, o ile nie są wykonane z muru na zaprawie cementowej albo z kręgów betonowych, po-",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 34",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "winny być obłożone warstwą gliny co najmniej 15 centymetrów grubości, do głębokości 11/2 metra pod powierzchnią ziemi, przy wyższym zaś stanie powierzchni wody, do głębokości 30 centymetrów poniżej zwierciadła wody.",
+     "text": "(2) Przy budowie i przebudowie studzien, mających dostarczać wody do picia, ściany studni, o ile nie są wykonane z muru na zaprawie cementowej albo z kręgów betonowych, powinny być obłożone warstwą gliny co najmniej 15 centymetrów grubości, do głębokości 11/2 metra pod powierzchnią ziemi, przy wyższym zaś stanie powierzchni wody, do głębokości 30 centymetrów poniżej zwierciadła wody.",
      "quoted": true
     },
     {
@@ -5722,11 +5693,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 34",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "Art. 336,",
      "quoted": true
     },
@@ -5966,11 +5932,6 @@
     {
      "type": "text",
      "text": "Art. 354. O ile chodzi o roboty, wymagające zgłoszenia, roboty te powinny być zgłoszone do właściwej władzy,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 34",
      "quoted": true
     },
     {
@@ -6639,11 +6600,6 @@
     },
     {
      "type": "text",
-     "text": "— Dziennik Ustaw Nr 34.",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "TYTUŁ IX,",
      "quoted": true
     },
@@ -7051,7 +7007,12 @@
     },
     {
      "type": "text",
-     "text": "3) nie stosuje się do zarządzeń władzy, wydanych na podstawie art. 338, 379 i 380, — podlega karze aresztu do 3 miesięcy lub grzywny do 3.000 złotych.",
+     "text": "3) nie stosuje się do zarządzeń władzy, wydanych na podstawie art. 338, 379 i 380, —",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "podlega karze aresztu do 3 miesięcy lub grzywny do 3.000 złotych.",
      "quoted": true
     },
     {
@@ -7301,11 +7262,6 @@
     {
      "type": "text",
      "text": "1) zakaz wznoszenia budynków mieszkalnych przy ulicach nieurządzonych;",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 34",
      "quoted": true
     },
     {

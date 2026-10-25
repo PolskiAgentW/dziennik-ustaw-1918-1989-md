@@ -1,7 +1,7 @@
 {
  "eli": "DU/1976/145",
  "title": "Rozporządzenie Rady Ministrów z dnia 2 lipca 1976 r. w sprawie wynagradzania pracowników instytutów naukowo-badawczych i placówek naukowych Polskiej Akademii Nauk oraz pracowników naukowo-badawczych zatrudnionych w innych jednostkach organizacyjnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1976/145/text.pdf",
  "body": [
   {
@@ -137,7 +137,7 @@
       },
       {
        "type": "text",
-       "text": "— 386 <= Dziennik Ustaw Nr 25"
+       "text": "— 386 <="
       },
       {
        "type": "text",
@@ -799,131 +799,116 @@
      "type": "text",
      "text": ": . z\"",
      "quoted": true
+    }
+   ]
+  },
+  {
+   "heading": "Załącznik nr 4",
+   "body": [
+    {
+     "type": "text",
+     "text": "Tabela dodatków funkeyjnych dla pracowników naukowo-badawczych zatrudnionych na stanowiskach kierawasezych"
     },
     {
      "type": "text",
-     "text": "Załącznik nr 4 Tabela dodatków funkeyjnych dla pracowników naukowo-badawczych zatrudnionych na stanowiskach kierawasezych",
-     "quoted": true
+     "text": "Lp. Stanowisko — funkcja"
     },
     {
      "type": "text",
-     "text": "Lp. Stanowisko — funkcja",
-     "quoted": true
+     "text": "Dyrektor (instytutu, centrum)"
     },
     {
      "type": "text",
-     "text": "Dyrektor (instytutu, centrum)",
-     "quoted": true
+     "text": "Zastępca dyrektora (instytutu. centrum), Sekretarz naukowy instytutu, Kierownik oddziału zamiejscowego (instytutu, centrum), i Kierownik samodzielnego zakładu Polskiej Akademii Nauk"
     },
     {
      "type": "text",
-     "text": "Zastępca dyrektora (instytutu. centrum), Sekretarz naukowy instytutu, Kierownik oddziału zamiejscowego (instytutu, centrum), i Kierownik samodzielnego zakładu Polskiej Akademii Nauk",
-     "quoted": true
+     "text": "Kierownik zakładu, kierownik kliniki, Kierownik zespołu badawczego, _ Kierownik laboratorium środowiskowego, i Kategoria dodatku funkcyjnega"
     },
     {
      "type": "text",
-     "text": "Kierownik zakładu, kierownik kliniki, Kierownik zespołu badawczego, _ Kierownik laboratorium środowiskowego, i Kategoria dodatku funkcyjnega",
-     "quoted": true
+     "text": "8—11"
     },
     {
      "type": "text",
-     "text": "8—11",
-     "quoted": true
+     "text": "1—10"
     },
     {
      "type": "text",
-     "text": "1—10",
-     "quoted": true
+     "text": "6—9"
     },
     {
      "type": "text",
-     "text": "6—9",
-     "quoted": true
+     "text": "Zastępca kierownika samodzielnego zakładu Polskiej Akademii Nauk"
     },
     {
      "type": "text",
-     "text": "Zastępca kierownika samodzielnego zakładu Polskiej Akademii Nauk",
-     "quoted": true
+     "text": "_ Kierownik samodzielnej pracowni, Kierownik studium doktoranckiego"
     },
     {
      "type": "text",
-     "text": "_ Kierownik samodzielnej pracowni, Kierownik studium doktoranckiego",
-     "quoted": true
+     "text": "Kierownik pracowni, laboratorium, ' Kierownik grupy problemowej"
     },
     {
      "type": "text",
-     "text": "Kierownik pracowni, laboratorium, ' Kierownik grupy problemowej",
-     "quoted": true
+     "text": "Kierownik sekcji"
     },
     {
      "type": "text",
-     "text": "Kierownik sekcji",
-     "quoted": true
+     "text": "5—8"
     },
     {
      "type": "text",
-     "text": "5—8",
-     "quoted": true
+     "text": "3-1"
     },
     {
      "type": "text",
-     "text": "3-1",
-     "quoted": true
+     "text": "14"
     },
     {
      "type": "text",
-     "text": "14",
-     "quoted": true
+     "text": "Zaiącznik or 5"
     },
     {
      "type": "text",
-     "text": "Zaiącznik or 5",
-     "quoted": true
+     "text": "Tabela stanowisk, kwalifikacji, zaszeregowań oraz dodatków specjalnych dla pracowników inżynieryjno-technicznych i innych równorzędnych oraz pracowników organizacyjno-ekonomicznych, administracyjnych i obsługi"
     },
     {
      "type": "text",
-     "text": "Tabela stanowisk, kwalifikacji, zaszeregowań oraz dodatków specjalnych dla pracowników inżynieryjno-technicznych i innych równorzędnych oraz pracowników organizacyjno-ekonomicznych, administracyjnych i obsługi",
-     "quoted": true
+     "text": "Wymagane kwalifikacje c O kn cc. KOGO MA Kwota dodatku: Lp. Stanowisko . . wyksstałcenie liczba. lat pracy zaszere- specjalnego w zł zawodowej gowania od—do miesięcznie rt |... « ff ge «| °° °&4» & SE » @"
+    },
+    {
+     "type": "heading",
+     "label": "I.",
+     "text": "Pracownicy inżynieryjno-techniczni i inni réwnorzedni oraz organizacy jno-ekonomiczni i administracyjni 1 Zastępca dyrektora*), naczelny inżynier, wyższe odpowiedniej| . zastępca kierownika zamiejscowego od- specjalności działu instytutu"
     },
     {
      "type": "text",
-     "text": "Wymagane kwalifikacje c O kn cc. KOGO MA Kwota dodatku: Lp. Stanowisko . . wyksstałcenie liczba. lat pracy zaszere- specjalnego w zł zawodowej gowania od—do miesięcznie rt |... « ff ge «| °° °&4» & SE » @",
-     "quoted": true
+     "text": "2 Główny księgowy w instytucie nie wyższe ekonomiczne, \"| będącym jednostką budżetową prawnicze, administracyjne"
     },
     {
      "type": "text",
-     "text": "I. Pracownicy inżynieryjno-techniczni i inni réwnorzedni oraz organizacy jno-ekonomiczni i administracyjni 1 Zastępca dyrektora*), naczelny inżynier, wyższe odpowiedniej| . zastępca kierownika zamiejscowego od- specjalności działu instytutu",
-     "quoted": true
+     "text": "3 Główny specjalista**) wyższe odpowiedniej specjalności"
     },
     {
      "type": "text",
-     "text": "2 Główny księgowy w instytucie nie wyższe ekonomiczne, \"| będącym jednostką budżetową prawnicze, administracyjne",
-     "quoted": true
+     "text": ": 4 Kierownik komórki (wydziału, zakładu, wyższe odpowiedniej działu) podległej bezpośrednio dyrekto- specjalności rowi lub zastępcy dyrektora, prewa- 2 : dzącej prace związane bezpośrednio z działalnością naukowo-badawczą, jego zastępca, starszy specjalista w tej komórce sd s 8 lat, w tym 4 lata na 15—19 450—2.000 stanowisku kierowniczym lub samodzielnym"
     },
     {
      "type": "text",
-     "text": "3 Główny specjalista**) wyższe odpowiedniej specjalności",
-     "quoted": true
+     "text": "8 lat 15—19 450—2.000"
     },
     {
      "type": "text",
-     "text": ": 4 Kierownik komórki (wydziału, zakładu, wyższe odpowiedniej działu) podległej bezpośrednio dyrekto- specjalności rowi lub zastępcy dyrektora, prewa- 2 : dzącej prace związane bezpośrednio z działalnością naukowo-badawczą, jego zastępca, starszy specjalista w tej komórce sd s 8 lat, w tym 4 lata na 15—19 450—2.000 stanowisku kierowniczym lub samodzielnym",
-     "quoted": true
+     "text": "7 lat pracy, w tym 4 lata 14—19 400—1.900 w danej .speejalności i 2 lata na stanowisku kierowniczym lub samodzie|- nym '"
     },
     {
      "type": "text",
-     "text": "8 lat 15—19 450—2.000",
-     "quoted": true
+     "text": "l 7 lat pracy. w tym 2 lata 12—18 350—1.800' na stanowisku samodziel- i"
     },
     {
      "type": "text",
-     "text": "7 lat pracy, w tym 4 lata 14—19 400—1.900 w danej .speejalności i 2 lata na stanowisku kierowniczym lub samodzie|- nym '",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "l 7 lat pracy. w tym 2 lata 12—18 350—1.800' na stanowisku samodziel- i nym -",
-     "quoted": true
+     "text": "nym -"
     },
     {
      "type": "note",
@@ -931,28 +916,23 @@
     },
     {
      "type": "text",
-     "text": "\"Boz. 145 Dziennik Ustaw Nr 25",
-     "quoted": true
+     "text": "\"Boz. 145"
     },
     {
      "type": "text",
-     "text": "Wymagane kwalifikacje",
-     "quoted": true
+     "text": "Wymagane kwalifikacje"
     },
     {
      "type": "text",
-     "text": "Stanowisko ak wykształcenie",
-     "quoted": true
+     "text": "Stanowisko ak wykształcenie"
     },
     {
      "type": "text",
-     "text": "3",
-     "quoted": true
+     "text": "3"
     },
     {
      "type": "text",
-     "text": "kwalifikacje określone Rzecznik patentowy kierujący zespow przepisach o rzeczniłem rzeczników patentowych lub żakach patentowych trudniony na jednoosobowym stanowisku***) Pozostali rzecznicy patentowi ” Zastępca dyrektora do spraw administracyjnych, kierownik działu technicznego, ekonomicznego, do spraw prawyższe cowniczych lub równorzędnego, główny księgowy w jednostce budżetowej, kierownik ośrodka informacji naukowo- _techniczne} “Specj a lista w komórkach wymdeujonych wyższe odpowiedniej specjalności pod Ip. 4i 7, starszy dokumentalista p ATR Zastępca głównego księgowego wyższe ekonomiczne, prawnicze administracyjne średnie kwalifikacje \"kwalifikacje określone — Radca prawny w przepisach o obsłudze prawnej przedsiębiorstw państwowych wyższe prawnicze Kierownik robót, starszy mistrz, kieśrednie techniczne równik zmiany",
-     "quoted": true
+     "text": "kwalifikacje określone Rzecznik patentowy kierujący zespow przepisach o rzeczniłem rzeczników patentowych lub żakach patentowych trudniony na jednoosobowym stanowisku***) Pozostali rzecznicy patentowi ” Zastępca dyrektora do spraw administracyjnych, kierownik działu technicznego, ekonomicznego, do spraw prawyższe cowniczych lub równorzędnego, główny księgowy w jednostce budżetowej, kierownik ośrodka informacji naukowo- _techniczne} “Specj a lista w komórkach wymdeujonych wyższe odpowiedniej specjalności pod Ip. 4i 7, starszy dokumentalista p ATR Zastępca głównego księgowego wyższe ekonomiczne, prawnicze administracyjne średnie kwalifikacje \"kwalifikacje określone — Radca prawny w przepisach o obsłudze prawnej przedsiębiorstw państwowych wyższe prawnicze Kierownik robót, starszy mistrz, kieśrednie techniczne równik zmiany"
     },
     {
      "type": "text",

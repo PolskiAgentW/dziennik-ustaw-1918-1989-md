@@ -1,7 +1,7 @@
 {
  "eli": "DU/1963/108",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 25 kwietnia 1963 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 30 stycznia 1959 r. o powszechnym obowiązku wojskowym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1963/108/text.pdf",
  "body": [
   {
@@ -819,7 +819,12 @@
       },
       {
        "type": "text",
-       "text": "* Dziennik Ustaw Nr 20 — SS",
+       "text": "*",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "SS",
        "quoted": true
       },
       {
@@ -988,7 +993,7 @@
       },
       {
        "type": "text",
-       "text": ". mia QS",
+       "text": "mia QS",
        "quoted": true
       },
       {
@@ -1640,7 +1645,7 @@
       },
       {
        "type": "text",
-       "text": "‘— 25 — Dziennik Ustaw Nr 20.",
+       "text": "‘— 25 —",
        "quoted": true
       },
       {
@@ -3187,7 +3192,7 @@
       },
       {
        "type": "text",
-       "text": "—. 259\" — Dziennik Ustaw Nr 20",
+       "text": "—. 259\" —",
        "quoted": true
       },
       {

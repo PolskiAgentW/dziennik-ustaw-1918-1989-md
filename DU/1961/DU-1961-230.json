@@ -1,7 +1,7 @@
 {
  "eli": "DU/1961/230",
  "title": "Rozporządzenie Rady Ministrów z dnia 13 września 1961 r. zmieniające rozporządzenie z dnia 12 grudnia 1958 r. w sprawie uposażenia lekarzy, lekarzy dentystów oraz innych pracowników z wyższym wykształceniem zatrudnionych w zakładach społecznych służby zdrowia.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1961/230/text.pdf",
  "body": [
   {
@@ -59,10 +59,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": ": — Dziennik Ustaw Nr 43 ge,"
       }
      ]
     },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1989/8",
  "title": "Rozporządzenie Ministra Edukacji Narodowej z dnia 22 grudnia 1988 r. zmieniające rozporządzenie w sprawie klasyfikacji zawodów i specjalności szkolnictwa zawodowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1989/8/text.pdf",
  "body": [
   {
@@ -58,19 +58,23 @@
     },
     {
      "type": "text",
-     "text": "W klasyfikacji zastosowano trzystopniowy podział za- 'wodów i specjalności, a mianowicie na: I — grupy zawodów (kod dwucyfrowy), I] — zawody (kod czterocyfrowy), lil — specjalności (kod sześciocyfrowy)."
+     "text": "W klasyfikacji zastosowano trzystopniowy podział za- 'wodów i specjalności, a mianowicie na: I — grupy zawodów (kod dwucyfrowy), I] — zawody (kod czterocyfrowy), lil — specjalności (kod sześciocyfrowy).",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Struktura symbolu cyfrowego (kodu) zawodów: i specjalności jest zgodna z ogólną zasadą przyjętą w „Klasyfikacji zawodów-specjalności\"” gospodarki narodowej, a mianowicie: o xx xx dwie pierwsze cyfry kodu wska- XxX _zuja na przyporządkowanie zawodu do grupy zawodów; symbol \"ten jest zgodny z symbolem grupy dużej w klasyfikacji gospodarczej z roku 1982;"
+     "text": "Struktura symbolu cyfrowego (kodu) zawodów: i specjalności jest zgodna z ogólną zasadą przyjętą w „Klasyfikacji zawodów-specjalności\"” gospodarki narodowej, a mianowicie: o xx xx dwie pierwsze cyfry kodu wska- XxX _zuja na przyporządkowanie zawodu do grupy zawodów; symbol \"ten jest zgodny z symbolem grupy dużej w klasyfikacji gospodarczej z roku 1982;",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "cyfry trzecia i czwarta oznaczają zawód w ramach grupy zawodów; piąta i. szósta cyfra oznaczają specjalność występującą w ra- - mach poszczególnych zawodów."
+     "text": "cyfry trzecia i czwarta oznaczają zawód w ramach grupy zawodów; piąta i. szósta cyfra oznaczają specjalność występującą w ra- - mach poszczególnych zawodów.",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "W klasyfikacji zawodów i specjalności szkolnictwa zawodowego w zawodach nierobotniczych przyjęto podział zgodny z „Klasyfikacją zawodów-specjalności” gospodarki narodowej w zakresie czterech eyfr kodu, natomiast w zawodach robotniczych przyjęto zgodność podziału zawodów w zakresie dwóch cyfr kodu,"
+     "text": "W klasyfikacji zawodów i specjalności szkolnictwa zawodowego w zawodach nierobotniczych przyjęto podział zgodny z „Klasyfikacją zawodów-specjalności” gospodarki narodowej w zakresie czterech eyfr kodu, natomiast w zawodach robotniczych przyjęto zgodność podziału zawodów w zakresie dwóch cyfr kodu,",
+     "quoted": true
     },
     {
      "type": "note",
@@ -78,27 +82,41 @@
     },
     {
      "type": "text",
-     "text": "Re Fe obłok mona ee aoi +AGÓA aska 2"
+     "text": "Re Fe obłok mona ee aoi +AGÓA aska 2",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 2 — 4 Układ grup zawodów uwzględnia podział zatrudnionych w gospodarce narodowej na dwie kategorie społeczno-zawodowe: -— pracownicy na stanowiskach nierobotniczych, — pracownicy na stanowiskach robotniczych i pokrewnych, wprowadzony zarządzeniem nr 39 Prezesa Głównego Urzędu Statystycznego z dnia 14 sierpnia 1984 r. w sprawie ustalenia klasyfikacji zatrudnionych w gospodarce uspołecznionej. 4"
+     "text": "4 Układ grup zawodów uwzględnia podział zatrudnionych w gospodarce narodowej na dwie kategorie społeczno-zawodowe: -— pracownicy na stanowiskach nierobotniczych, — pracownicy na stanowiskach robotniczych i pokrewnych, wprowadzony zarządzeniem nr 39 Prezesa Głównego Urzędu Statystycznego z dnia 14 sierpnia 1984 r. w sprawie ustalenia klasyfikacji zatrudnionych w gospodarce uspołecznionej. 4",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "W klasyfikacji zastosowano różnorodne kryteria wyodrębniania zawodu i specjalności ze względu na fakt, że gospodarka narodowa zorganizowana jest również według - różnorodnych kryteriów. Dominuje jednak kryterium bran- , żowe. W odniesieniu do zawodów i specjalności wyodręb- . nionych na podstawie kryterium branżowego w postaci rodzaju maszyn i urządzeń w przygotowaniu zawodowym: . przewiduje się treści kształcenia obejmujące zarówno - zagadnienia konstrukcyjne i technologiczne, jak i eksploatacyjne. i"
+     "text": "W klasyfikacji zastosowano różnorodne kryteria wyodrębniania zawodu i specjalności ze względu na fakt, że gospodarka narodowa zorganizowana jest również według - różnorodnych kryteriów. Dominuje jednak kryterium bran- , żowe. W odniesieniu do zawodów i specjalności wyodręb- . nionych na podstawie kryterium branżowego w postaci rodzaju maszyn i urządzeń w przygotowaniu zawodowym: . przewiduje się treści kształcenia obejmujące zarówno - zagadnienia konstrukcyjne i technologiczne, jak i eksploatacyjne. i",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Objaśnienia symboli użytych w tekście klasyfikacji zawodów i specjalności szkolnictwa zawodowego MEN — Minister Edukacji Narodowej MF — Minister Finansów MGPiB -— Minister Gospodarki Przestrzennej i Budownictwa MKiS *— Minister Kultury i Sztuki MOSiZN —- Minister Ochrony Środowiska i Zasobów Naturalnych MPiPS -- Minister Pracy i Polityki Socjalnej MP i — Minister Przemysłu MRLiGŻ — Minister Rolnictwa, Leśnictwa i Gospodarki Żywnościowej MRW — Minister Rynku Wewnętrznego MS — Minister Sprawiedliwości MSW — Minister 'Spraw Wewnętrznych MTŻiŁ — Minister Transportu, Żeglugi i Łączności MWGzz -— Minister Współpracy Gospodarczej z Zagranicą MZiOS -— Minister Zdrowia t Opieki Społecznej e"
+     "text": "Objaśnienia symboli użytych w tekście klasyfikacji zawodów i specjalności szkolnictwa zawodowego MEN — Minister Edukacji Narodowej MF — Minister Finansów MGPiB -— Minister Gospodarki Przestrzennej i Budownictwa MKiS *— Minister Kultury i Sztuki MOSiZN —- Minister Ochrony Środowiska i Zasobów Naturalnych MPiPS -- Minister Pracy i Polityki Socjalnej MP i — Minister Przemysłu MRLiGŻ — Minister Rolnictwa, Leśnictwa i Gospodarki Żywnościowej MRW — Minister Rynku Wewnętrznego MS — Minister Sprawiedliwości MSW — Minister 'Spraw Wewnętrznych MTŻiŁ — Minister Transportu, Żeglugi i Łączności MWGzz -— Minister Współpracy Gospodarczej z Zagranicą MZiOS -— Minister Zdrowia t Opieki Społecznej e",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "UPNTiW — Minister— Kierownik Urzędu Postępu Naukowo-Technicznego i Wdrożeń URM — Minister-Szef Urzędu Rady Ministrów GUS — Prezes Głównego Urzędu Statystycznego PAA — Prezes Państwowej Agencji Atomistyki CZR — Zarząd Centralnego Związku Rzemiosła CZSM — Zarząd Centralnego Związku Spółdzielni Mleczarskich CZSN — Zarząd Centralnego Związku Spółdzielni Niewidomych CZSP — Zarząd Centralnego Związku Spółdzielczości Pracy CZS „S.Ch.' — Zarząd Centralnego Związku Spółdzielni „Samopomoc Chłopska” i ; CZSS — Zarząd Centralnego Związku Spółdzielni Spożywców ;,Spotem” (b.o.) — urząd bezpośrednio odpowiedzialny, ze wskazaniem symbolu tego urzędu: GUC — Główny Urząd Ceł NDAP — Naczelna Dyrekcja Archiwów Państwowych"
+     "text": "UPNTiW — Minister— Kierownik Urzędu Postępu Naukowo-Technicznego i Wdrożeń URM — Minister-Szef Urzędu Rady Ministrów GUS — Prezes Głównego Urzędu Statystycznego PAA — Prezes Państwowej Agencji Atomistyki CZR — Zarząd Centralnego Związku Rzemiosła CZSM — Zarząd Centralnego Związku Spółdzielni Mleczarskich CZSN — Zarząd Centralnego Związku Spółdzielni Niewidomych CZSP — Zarząd Centralnego Związku Spółdzielczości Pracy CZS „S.Ch.' — Zarząd Centralnego Związku Spółdzielni „Samopomoc Chłopska” i ;",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "L — liceum specjalistyczne (ekonomiczne, medyczne, muzyczne, plastyczne) LZ — liceum zawodowe LO ; — liceum ogólnokształcące"
+     "text": "CZSS — Zarząd Centralnego Związku Spółdzielni Spożywców ;,Spotem” (b.o.) — urząd bezpośrednio odpowiedzialny, ze wskazaniem symbolu tego urzędu: GUC — Główny Urząd Ceł NDAP — Naczelna Dyrekcja Archiwów Państwowych",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "L — liceum specjalistyczne (ekonomiczne, medyczne, muzyczne, plastyczne)"
+    },
+    {
+     "type": "text",
+     "text": "LZ — liceum zawodowe LO ; — liceum ogólnokształcące"
     },
     {
      "type": "text",

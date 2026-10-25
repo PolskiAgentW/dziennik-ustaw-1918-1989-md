@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/106",
  "title": "Dekret z dnia 3 lutego 1947 r. o podatku od nabycia praw majątkowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/106/text.pdf",
  "body": [
   {
@@ -1161,6 +1161,10 @@
       },
       {
        "type": "text",
+       "text": "= 4"
+      },
+      {
+       "type": "text",
        "text": "15 do 21 — w dniu 22 danego miesiąca i w czasie od 22 do końca miesiąca — w dniu 1 miesiąca następnego;"
       }
      ]
@@ -1325,7 +1329,7 @@
       },
       {
        "type": "text",
-       "text": "c= 409 = Dziennik Ustaw Nr 27"
+       "text": "c= 409 ="
       },
       {
        "type": "text",

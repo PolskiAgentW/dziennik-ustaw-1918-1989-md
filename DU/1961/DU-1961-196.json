@@ -1,7 +1,7 @@
 {
  "eli": "DU/1961/196",
  "title": "Rozporządzenie Przewodniczącego Komitetu Budownictwa, Urbanistyki i Architektury z dnia 21 lipca 1961 r. w sprawie warunków technicznych, jakim powinny odpowiadać obiekty budowlane budownictwa powszechnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1961/196/text.pdf",
  "body": [
   {
@@ -319,7 +319,7 @@
       },
       {
        "type": "text",
-       "text": "= 4070 = Dziennik Ustaw Nr 38"
+       "text": "= 4070 ="
       },
       {
        "type": "text",
@@ -1010,7 +1010,7 @@
       },
       {
        "type": "text",
-       "text": "da: RQ a 101 Dziennik Ustaw Nr 38"
+       "text": "da: RQ a 101"
       }
      ]
     },
@@ -4198,7 +4198,7 @@
         },
         {
          "type": "text",
-         "text": "RR PIM Dziennik Ustaw Nr 38"
+         "text": "RR PIM"
         }
        ]
       }
@@ -4680,6 +4680,11 @@
       {
        "type": "text",
        "text": "WIEK I rh,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„pa EZPĄ IK Z",
        "quoted": true
       },
       {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/60",
  "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 3 lutego 1939 r. wydane w porozumieniu z Ministrami Skarbu oraz Przemysłu i Handlu, a co do § 5 również w porozumieniu z Ministrem Sprawiedliwości o umowach zbiorowych cukrowniczo-plantatorskich na okres kampanijny 1939/40.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/60/text.pdf",
  "body": [
   {
@@ -61,17 +61,8 @@
      "type": "pkt",
      "num": "2",
      "path": "par_2/pkt_2",
-     "text": "W razie całkowitego lub częściowego rozparcelowania nieruchomości ziemskiej, \"w której na okres kampanijny 1938/39 były plantowane buraki cukrowe, cukrownia powinna zaproponować zakontraktowanie takiei ilości buraków kat. A, jaka była plantowana uprzednio w danej nieruchomości, właścicielom gospodarstw powstałych z rozparcelowania tej nieruchomości oraz gospodarstwa odpowiadającego części nierozparcelowanej, każdemu stosunkowo do obszaru jego gospodarstwa. 3)-Ilość buraków kat. B, przeznaczonych w okresie kampanijnym 1939/40 do wyprodukowania cukru zapasowego i eksportowego, zostanie rozdzielona pomiędzy wszystkich plan-",
-     "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 11"
-      },
-      {
-       "type": "text",
-       "text": "tatorów stosunkowo do ilości buraków kat. A, które będą u nich zakontraktowane."
-      }
-     ]
+     "text": "W razie całkowitego lub częściowego rozparcelowania nieruchomości ziemskiej, \"w której na okres kampanijny 1938/39 były plantowane buraki cukrowe, cukrownia powinna zaproponować zakontraktowanie takiei ilości buraków kat. A, jaka była plantowana uprzednio w danej nieruchomości, właścicielom gospodarstw powstałych z rozparcelowania tej nieruchomości oraz gospodarstwa odpowiadającego części nierozparcelowanej, każdemu stosunkowo do obszaru jego gospodarstwa. 3)-Ilość buraków kat. B, przeznaczonych w okresie kampanijnym 1939/40 do wyprodukowania cukru zapasowego i eksportowego, zostanie rozdzielona pomiędzy wszystkich plantatorów stosunkowo do ilości buraków kat. A, które będą u nich zakontraktowane.",
+     "children": []
     },
     {
      "type": "pkt",

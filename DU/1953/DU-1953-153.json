@@ -1,7 +1,7 @@
 {
  "eli": "DU/1953/153",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 24 czerwca 1953 r. o ogłoszeniu jednolitego tekstu Kodeksu Wojskowego Postępowania Karnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1953/153/text.pdf",
  "body": [
   {
@@ -2257,7 +2257,7 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 36 pods ZY",
+       "text": "pods ZY",
        "quoted": true
       },
       {
@@ -3750,7 +3750,12 @@
       },
       {
        "type": "text",
-       "text": "Art. 254, § 1. Zażalenie wnosi się do organu wymiaru sprawiedliwości, który wydał zaskarżone postanowienie. § 2. Żołnierze mogą wnieść zażalenie do protokołu wobec przełożonej władzy wojskowej. Protokół ten należy niezwłocznie przesłać sądowi lub prokuratorowi wojskowemu.",
+       "text": "Art. 254, § 1. Zażalenie wnosi się do organu wymiaru sprawiedliwości, który wydał zaskarżone postanowienie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 2. Żołnierze mogą wnieść zażalenie do protokołu wobec przełożonej władzy wojskowej. Protokół ten należy niezwłocznie przesłać sądowi lub prokuratorowi wojskowemu.",
        "quoted": true
       },
       {
@@ -3850,12 +3855,22 @@
       },
       {
        "type": "text",
-       "text": "§ 1. Prokuratorowie wojskowi mają prawo składać skargi rewizyjne na korzyść lub niekorzyść oskarżonych lub skazanych. § 2. Inne osoby mogą zaskarżać orzeczenie tylko na korzyść skazanych,",
+       "text": "§ 1. Prokuratorowie wojskowi mają prawo składać skargi rewizyjne na korzyść lub niekorzyść oskarżonych lub skazanych.",
        "quoted": true
       },
       {
        "type": "text",
-       "text": "§ 3. Strona może zaskarżać orzeczenie tylko z powodu uchybienia obrażającego jej prawa. § 4. Ten, kto złożył skargę rewizyjną, może ją cofnąć.",
+       "text": "§ 2. Inne osoby mogą zaskarżać orzeczenie tylko na korzyść skazanych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3. Strona może zaskarżać orzeczenie tylko z powodu uchybienia obrażającego jej prawa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 4. Ten, kto złożył skargę rewizyjną, może ją cofnąć.",
        "quoted": true
       },
       {

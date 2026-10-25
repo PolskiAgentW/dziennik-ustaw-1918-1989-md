@@ -1,7 +1,7 @@
 {
  "eli": "DU/1962/297",
  "title": "Rozporządzenie Rady Ministrów z dnia 24 września 1962 r. w sprawie zezwoleń na wykonywanie przemysłu, rzemiosła i niektórych usług przez jednostki gospodarki nie uspołecznionej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1962/297/text.pdf",
  "body": [
   {
@@ -2039,10 +2039,6 @@
       {
        "type": "note",
        "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "297 Dziennik Ustaw Nr 62"
       }
      ]
     },

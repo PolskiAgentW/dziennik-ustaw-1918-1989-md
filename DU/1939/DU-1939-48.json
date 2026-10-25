@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/48",
  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 23 stycznia 1939 r. o tymczasowym uregulowaniu ubezpieczeń społecznych górników i hutników na ziemiach odzyskanych i włączonych do województwa śląskiego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/48/text.pdf",
  "body": [
   {
@@ -83,10 +83,6 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— Dziennik Ustaw Nr 9"
     }
    ]
   },

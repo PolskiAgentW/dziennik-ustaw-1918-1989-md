@@ -1,7 +1,7 @@
 {
  "eli": "DU/1945/131",
  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 7 czerwca 1945 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 17 marca 1932 r. o zaopatrzeniu inwalidzkim.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/131/text.pdf",
  "body": [
   {
@@ -43,10 +43,6 @@
   {
    "type": "note",
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Dzieńnik Ustaw Nr 22... = 170 — i |= 2 Poz. 131"
   },
   {
    "type": "text",
@@ -715,7 +711,7 @@
       },
       {
        "type": "text",
-       "text": "— 175 = Dziennik Ustaw Nr 22"
+       "text": "— 175 ="
       },
       {
        "type": "text",
@@ -1324,7 +1320,7 @@
         },
         {
          "type": "text",
-         "text": "Dziennik Ustaw Nr 22 \"Art. 52. Państwo może sable zastrzec prawo własności co. „do kosztownych aparatów, netecen i psa."
+         "text": "\"Art. 52. Państwo może sable zastrzec prawo własności co. „do kosztownych aparatów, netecen i psa."
         }
        ]
       }

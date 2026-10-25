@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/416",
  "title": "Dekret z dnia 28 października 1947 r. o mleczarstwie.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/416/text.pdf",
  "body": [
   {
@@ -56,7 +56,7 @@
       },
       {
        "type": "text",
-       "text": "= 1146 Dziennik Ustaw Nr 67"
+       "text": "= 1146"
       },
       {
        "type": "text",
@@ -279,10 +279,6 @@
       {
        "type": "note",
        "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— Dziennik Ustaw Nr 67 _. a>"
       }
      ]
     }
@@ -530,7 +526,7 @@
         },
         {
          "type": "text",
-         "text": "= 1148 = Dziennik Ustaw Nr 67"
+         "text": "= 1148 ="
         },
         {
          "type": "text",

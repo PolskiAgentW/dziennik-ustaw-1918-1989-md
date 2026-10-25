@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/301",
  "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 10 maja 1939 r. o zwalczaniu raka ziemniaczanego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/301/text.pdf",
  "body": [
   {
@@ -213,17 +213,8 @@
      "type": "pkt",
      "num": "2",
      "path": "par_11/pkt_2",
-     "text": "nakazać usunięcie z gruntu zarażonego lub zagrożonego rakiem ziemniaczanym albo",
-     "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 47"
-      },
-      {
-       "type": "text",
-       "text": "żniszczenie roślin lub ich części, jeżeli rośliny te były zasadzone wbrew zakazowi, a uprawa ich grozi Szczególnym niebezpieczeństwem utrzymywania się lub szerzenia się raka ziemniaczanego;"
-      }
-     ]
+     "text": "nakazać usunięcie z gruntu zarażonego lub zagrożonego rakiem ziemniaczanym albo żniszczenie roślin lub ich części, jeżeli rośliny te były zasadzone wbrew zakazowi, a uprawa ich grozi Szczególnym niebezpieczeństwem utrzymywania się lub szerzenia się raka ziemniaczanego;",
+     "children": []
     },
     {
      "type": "pkt",

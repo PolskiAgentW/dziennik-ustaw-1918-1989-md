@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/344",
  "title": "Rozporządzenie Ministrów: Pracy i Opieki Społecznej, Zdrowia, Przemysłu, Odbudowy, Administracji Publicznej oraz Ziem Odzyskanych z dnia 6 listopada 1946 r. wydane w porozumieniu z Ministrami: Obrony Narodowej, Skarbu, Sprawiedliwości, Oświaty, Rolnictwa i Reform Rolnych, Komunikacji, Poczt i Telegrafów, Leśnictwa oraz Aprowizacji i Handlu o ogólnych przepisach dotyczących bezpieczeństwa i higieny pracy.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/344/text.pdf",
  "body": [
   {
@@ -708,10 +708,6 @@
       {
        "type": "note",
        "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "\" * Poz. 344 Dziennik Ustaw Nr 62 —"
       },
       {
        "type": "text",

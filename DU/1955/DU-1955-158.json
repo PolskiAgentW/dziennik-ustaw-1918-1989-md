@@ -1,7 +1,7 @@
 {
  "eli": "DU/1955/158",
  "title": "Rozporządzenie Ministra Handlu Wewnętrznego z dnia 30 czerwca 1955 r. w sprawie obrotu mięsem pochodzącym z uboju gospodarczego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1955/158/text.pdf",
  "body": [
   {
@@ -1059,7 +1059,12 @@
   },
   {
    "type": "text",
-   "text": "Załączniki do rozporządzenia Mini- + stra Handlu Wewnętrznego z dnia 30 czerwca 1955 r. (poz. 158). _ Załącznik nr 1, WYKAZ POWIATÓW, Z TERENU KTÓRYCH PRODUCENCI ROLNI MOGĄ SPRZEDAWAĆ MIĘSO Z UBOJU GOSPO- DARCZEGO NA OBSZARZE M, ST. WARSZAWY, M. ŁODZI, GDYNI I SOPOTU, MIAST WOJEWÓDZKICH ORAZ MIAST: GÓRNOŚLĄSKIEGO OKRĘGU PRZEMYSŁOWEGO Powiaty, z terenu których producenci rolni mogą sprzedawać mięso z uboju go- |--P Miasta spodarczego na obszarze miast wymienionych w odpowiedniej pozycji rubryki 2 1 2 3 1 Warszawa . grodzisko-mazowiecki, grójecki, garwoliński, miński, nowodworski, miejskouzdrowiskowy Otwock, piaseczyński, płoński, pruszkowski, pułtuski, sochaczewski i wołomiński ;",
+   "text": "Załączniki do rozporządzenia Mini- + stra Handlu Wewnętrznego z dnia 30 czerwca 1955 r. (poz. 158). _ Załącznik nr 1, WYKAZ POWIATÓW, Z TERENU KTÓRYCH PRODUCENCI ROLNI MOGĄ SPRZEDAWAĆ MIĘSO Z UBOJU GOSPO- DARCZEGO NA OBSZARZE M, ST. WARSZAWY, M. ŁODZI, GDYNI I SOPOTU, MIAST WOJEWÓDZKICH ORAZ MIAST: GÓRNOŚLĄSKIEGO OKRĘGU PRZEMYSŁOWEGO",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Powiaty, z terenu których producenci rolni mogą sprzedawać mięso z uboju go- |--P Miasta spodarczego na obszarze miast wymienionych w odpowiedniej pozycji rubryki 2 1 2 3 1 Warszawa . grodzisko-mazowiecki, grójecki, garwoliński, miński, nowodworski, miejskouzdrowiskowy Otwock, piaseczyński, płoński, pruszkowski, pułtuski, sochaczewski i wołomiński ;",
    "quoted": true
   },
   {
@@ -1310,7 +1315,7 @@
           },
           {
            "type": "text",
-           "text": "_Poz. 158 i 159 Dziennik Ustaw Nr 27"
+           "text": "_Poz. 158 i 159"
           }
          ]
         },

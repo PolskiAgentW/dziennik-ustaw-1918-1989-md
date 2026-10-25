@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/57",
  "title": "Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 23 lutego 1983 r. w sprawie zasad tworzenia i zakresu działania zrzeszeń właścicieli i zarządców domów oraz Krajowej Komisji Współpracy Zrzeszeń Właścicieli i Zarządców Domów.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/57/text.pdf",
  "body": [
   {
@@ -276,11 +276,6 @@
       {
        "type": "note",
        "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 11 - —",
-       "quoted": true
       },
       {
        "type": "text",

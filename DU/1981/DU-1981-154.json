@@ -1,7 +1,7 @@
 {
  "eli": "DU/1981/154",
  "title": "Dekret z dnia 12 grudnia 1981 r. o stanie wojennym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1981/154/text.pdf",
  "body": [
   {
@@ -546,7 +546,7 @@
       },
       {
        "type": "text",
-       "text": "= M2 — Dziennik Ustaw Nr 29"
+       "text": "= M2 —"
       },
       {
        "type": "text",
@@ -1267,8 +1267,12 @@
      "type": "ust",
      "num": "2",
      "path": "art_45/ust_2",
-     "text": "Do internowania stosuje się odpowiednio przepisy kodeksu karnego wykonawczego w zakresie nadzoru panitencjarnego i tymczasowego aresztowania, a",
+     "text": "Do internowania stosuje się odpowiednio przepisy kodeksu karnego wykonawczego w zakresie nadzoru panitencjarnego i tymczasowego aresztowania,",
      "children": [
+      {
+       "type": "text",
+       "text": "a"
+      },
       {
        "type": "text",
        "text": "Przepisy karne,"
@@ -1599,7 +1603,7 @@
       },
       {
        "type": "text",
-       "text": "— HF — Dziennik Ustaw Nr 29"
+       "text": "— HF —"
       }
      ]
     }

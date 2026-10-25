@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/245",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 23 kwietnia 1937 r. w sprawie tymczasowego wprowadzenia w życie postanowień układu między Polską a Szwajcarią w sprawie uregulowania płatności handlowych, podpisanego wraz z protokołem końcowym w Bernie dnia 31 grudnia 1936 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/245/text.pdf",
  "body": [
   {
@@ -368,10 +368,6 @@
         {
          "type": "note",
          "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "——----- Dziennik Ustaw Nr 31"
         }
        ]
       }

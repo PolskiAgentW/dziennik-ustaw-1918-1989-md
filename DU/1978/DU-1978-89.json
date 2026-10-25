@@ -1,7 +1,7 @@
 {
  "eli": "DU/1978/89",
  "title": "Rozporządzenie Rady Ministrów z dnia 18 sierpnia 1978 r. w sprawie statusu naczelnika gminy.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1978/89/text.pdf",
  "body": [
   {
@@ -200,7 +200,7 @@
         },
         {
          "type": "text",
-         "text": "= 164 — Dziennik Ustaw Nr 20"
+         "text": "= 164 —"
         }
        ]
       },
@@ -767,6 +767,10 @@
         {
          "type": "note",
          "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "— 168 _ : Poz. 89"
         }
        ]
       },
@@ -1182,7 +1186,7 @@
         },
         {
          "type": "text",
-         "text": "_Poz. 89 Dziennik Ustaw Nr 20"
+         "text": "_Poz. 89"
         },
         {
          "type": "text",
@@ -1765,6 +1769,10 @@
         {
          "type": "note",
          "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "173 — ‘"
         }
        ]
       },
@@ -2315,7 +2323,7 @@
       },
       {
        "type": "text",
-       "text": "— 176 = Dziennik Ustaw Nr 20",
+       "text": "— 176 =",
        "quoted": true
       },
       {

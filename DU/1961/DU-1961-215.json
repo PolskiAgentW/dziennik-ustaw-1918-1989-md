@@ -1,7 +1,7 @@
 {
  "eli": "DU/1961/215",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 21 czerwca 1961 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 28 lipca 1939 r. - Prawo o sądach ubezpieczeń społecznych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1961/215/text.pdf",
  "body": [
   {
@@ -1521,7 +1521,7 @@
         },
         {
          "type": "text",
-         "text": "Poz.' 21527) Dziennik Ustaw Nr 41",
+         "text": "Poz.' 21527)",
          "quoted": true
         },
         {
@@ -2384,7 +2384,7 @@
       },
       {
        "type": "text",
-       "text": "Sen ee Dziennik Ustaw Nr 41"
+       "text": "Sen ee"
       }
      ]
     },

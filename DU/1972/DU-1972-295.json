@@ -1,7 +1,7 @@
 {
  "eli": "DU/1972/295",
  "title": "Rozporządzenie Ministra Leśnictwa i Przemysłu Drzewnego z dnia 6 listopada 1972 r. w sprawie uposażenia pracowników przedsiębiorstw lasów państwowych, jednostki grupującej te przedsiębiorstwa oraz funkcjonariuszy Straży Leśnej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1972/295/text.pdf",
  "body": [
   {
@@ -55,7 +55,7 @@
         },
         {
          "type": "text",
-         "text": "=— 450 — Dziennik Ustaw Nr 46"
+         "text": "=— 450 —"
         }
        ]
       },
@@ -585,7 +585,12 @@
     },
     {
      "type": "text",
-     "text": "kategoria jednostki I \" m Il Kierownik jednostki organizacyjnej szczególnej",
+     "text": "kategoria jednostki I \" m Il",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Kierownik jednostki organizacyjnej szczególnej",
      "quoted": true
     },
     {

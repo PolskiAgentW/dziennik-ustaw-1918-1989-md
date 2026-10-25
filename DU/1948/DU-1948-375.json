@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/375",
  "title": "Rozporządzenie Rady Ministrów z dnia 29 września 1948 r. o właściwości władz i postępowaniu przy ustalaniu wysokości czynszu oraz przy wymiarze i ściąganiu wpłat na Fundusz Gospodarki Mieszkaniowej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/375/text.pdf",
  "body": [
   {
@@ -108,7 +108,7 @@
     },
     {
      "type": "text",
-     "text": "— 1009 — “ . Dziennik Ustaw Nr 49 a"
+     "text": "— 1009 — “ . a"
     },
     {
      "type": "text",
@@ -253,10 +253,6 @@
       {
        "type": "note",
        "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "’ Poz. 375 i 376 - Dziennik Ustaw Nr 49"
       }
      ]
     }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1961/313",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 14 listopada 1961 r. w sprawie wykonywania obowiązku meldunkowego oraz prowadzenia ewidencji ludności.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1961/313/text.pdf",
  "body": [
   {
@@ -553,10 +553,6 @@
   },
   {
    "type": "text",
-   "text": "Dziennik Ustaw Nr 56"
-  },
-  {
-   "type": "text",
    "text": "Cena l: zł ZGŁOSZENIE ZAMIESZK ANIA fis geen gr aera ana, EE, iza I ; ee nr lokalu ........ 4 . a) Nazwisko ....................u. wagi ct \"Pad DRA Ka air Zgraja Lea oe a err b)” Imię: (imiona) oO ża = a ho WIĘ DO RWE ee UN A PCE ACB PAC ciate ta JWRC (imiena rodziców i naawiske rodowa matki)"
   },
   {
@@ -570,8 +566,12 @@
    "type": "ust",
    "num": "1",
    "path": "ust_1",
-   "text": "Miejsce poprzedniego zamieszkania... awiza wid ; (miejscowość, powiat, nlica, nr domu, nr lokalu) . Zawód wykonywany oraz miejsce pracy (uazwa zakładu pracy)",
+   "text": "Miejsce poprzedniego zamieszkania... awiza wid ; (miejscowość,",
    "children": [
+    {
+     "type": "text",
+     "text": "powiat, nlica, nr domu, nr lokalu) . Zawód wykonywany oraz miejsce pracy (uazwa zakładu pracy)"
+    },
     {
      "type": "text",
      "text": "(nazwa i numer wojskowego dokumentu osobistego oraz wskazanie WKR, która dokument wystawiła) ” (przynałeźność ewidencyjna do WKR we poprzedniego miejsca zamieszkania)"

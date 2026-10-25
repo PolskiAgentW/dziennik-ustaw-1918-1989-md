@@ -1,7 +1,7 @@
 {
  "eli": "DU/1982/156",
  "title": "Rozporządzenie Rady Ministrów z dnia 28 czerwca 1982 r. w sprawie szczegółowych zasad gospodarki finansowej przedsiębiorstw państwowych oraz dostosowania przepisów ustawy o gospodarce finansowej przedsiębiorstw państwowych do specyfiki niektórych przedsiębiorstw.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/156/text.pdf",
  "body": [
   {
@@ -551,7 +551,12 @@
       },
       {
        "type": "text",
-       "text": "zt Dziennik Ustaw Nr 22 * Poz.. 156 naj yn",
+       "text": "zt",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "* Poz.. 156 naj yn",
        "quoted": true
       },
       {
@@ -1235,7 +1240,7 @@
       },
       {
        "type": "text",
-       "text": "A” = Ti Dziennik Ustaw Nr 22"
+       "text": "A” = Ti"
       }
      ]
     },

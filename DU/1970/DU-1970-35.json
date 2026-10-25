@@ -1,7 +1,7 @@
 {
  "eli": "DU/1970/35",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 28 lutego 1970 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 17 lutego 1960 r. o Polskiej Akademii Nauk.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1970/35/text.pdf",
  "body": [
   {
@@ -1468,11 +1468,7 @@
         },
         {
          "type": "text",
-         "text": "— 50 = Dziennik Ustaw Nr 4"
-        },
-        {
-         "type": "text",
-         "text": "Z 35 ."
+         "text": "— 50 = Z 35 ."
         }
        ]
       }

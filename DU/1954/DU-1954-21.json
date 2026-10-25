@@ -1,7 +1,7 @@
 {
  "eli": "DU/1954/21",
  "title": "Rozporządzenie Ministra Finansów z dnia 27 stycznia 1954 r. w sprawie poboru w formie ryczałtu podatków obrotowego i dochodowego od drobnych rzemieślników.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/21/text.pdf",
  "body": [
   {
@@ -121,7 +121,7 @@
       },
       {
        "type": "text",
-       "text": "— Wa Dziennik Ustaw Nr 7"
+       "text": "— Wa"
       },
       {
        "type": "text",
@@ -894,7 +894,11 @@
        "children": [
         {
          "type": "text",
-         "text": ". U E ew eee ww te kk te b a kl #8 Umowa z dnia 2. ww a» kk te ke ke ee ek on or b i. . DE Umowa z dnia a i a a ass a oś a i . a"
+         "text": ". U E ew eee ww te kk te b a kl #8 Umowa z dnia 2. ww a» kk te"
+        },
+        {
+         "type": "text",
+         "text": "ke ke ee ek on or b i. . DE Umowa z dnia a i a a ass a oś a i . a"
         },
         {
          "type": "text",

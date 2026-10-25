@@ -1,7 +1,7 @@
 {
  "eli": "DU/1980/121",
  "title": "Protokół sporządzony w Moskwie dnia 23 stycznia 1980 r. do Umowy między Polską Rzecząpospolitą Ludową a Związkiem Socjalistycznych Republik Radzieckich o pomocy prawnej i stosunkach prawnych w sprawach cywilnych, rodzinnych i karnych, podpisanej w Warszawie dnia 28 grudnia 1957 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1980/121/text.pdf",
  "body": [
   {
@@ -108,7 +108,7 @@
   },
   {
    "type": "text",
-   "text": "= 900) 14 Dziennik Ustaw Nr 28",
+   "text": "= 900) 14",
    "quoted": true
   },
   {
@@ -254,11 +254,6 @@
   {
    "type": "note",
    "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "= Poz. 121 Dziennik Ustaw Nr 28",
-   "quoted": true
   },
   {
    "type": "text",

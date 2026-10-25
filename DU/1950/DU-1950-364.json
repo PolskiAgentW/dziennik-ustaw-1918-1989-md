@@ -1,7 +1,7 @@
 {
  "eli": "DU/1950/364",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 2 września 1950 r. o ogłoszeniu jednolitego tekstu kodeksu postępowania karnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/364/text.pdf",
  "body": [
   {
@@ -1259,10 +1259,6 @@
         {
          "type": "note",
          "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "A En"
         }
        ]
       },
@@ -2321,7 +2317,7 @@
           },
           {
            "type": "text",
-           "text": "<= 505 — Dziennik Ustaw Nr 40"
+           "text": "<= 505 —"
           }
          ]
         },
@@ -3942,7 +3938,7 @@
         },
         {
          "type": "text",
-         "text": "— Sit — Poz. 364 Dziennik Ustaw Nr 40 md nnn w A"
+         "text": "— Sit — Poz. 364 md nnn w A"
         },
         {
          "type": "text",
@@ -4211,7 +4207,7 @@
       },
       {
        "type": "text",
-       "text": "= 512 = Dziennik Ustaw Nr 40"
+       "text": "= 512 ="
       },
       {
        "type": "text",
@@ -5076,7 +5072,7 @@
       },
       {
        "type": "text",
-       "text": "<— 515 — Dziennik Ustaw Nr 40"
+       "text": "<— 515 —"
       }
      ]
     },

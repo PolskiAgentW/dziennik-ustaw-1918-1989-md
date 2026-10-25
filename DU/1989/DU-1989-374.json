@@ -1,7 +1,7 @@
 {
  "eli": "DU/1989/374",
  "title": "Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Republiki Włoskiej w sprawie unikania podwójnego opodatkowania w zakresie podatków od dochodu i zapobiegania uchylaniu się od opodatkowania, sporządzona w Rzymie dnia 21 czerwca 1985 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1989/374/text.pdf",
  "body": [
   {
@@ -674,7 +674,7 @@
        "type": "lit",
        "num": "a",
        "path": "art_1/ust_4/lit_a",
-       "text": "OF = ape a te 1”. Pos 374 Dziennik Ustaw Nr 62",
+       "text": "OF = ape a te 1”. Pos 374",
        "children": []
       },
       {
@@ -774,6 +774,11 @@
       {
        "type": "note",
        "text": "[Strona 26 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "s",
+       "quoted": true
       },
       {
        "type": "text",
@@ -980,7 +985,7 @@
       },
       {
        "type": "text",
-       "text": "Poz. : 374. 950 = -.-. pom ee Dziennik Ustaw Nr 62",
+       "text": "Poz. : 374. 950 = -.-. pom ee",
        "quoted": true
       },
       {
@@ -1576,7 +1581,7 @@
       },
       {
        "type": "text",
-       "text": "m Lay OB == Dziennik Ustaw Nr 62"
+       "text": "m Lay OB =="
       },
       {
        "type": "text",
@@ -1960,7 +1965,7 @@
         },
         {
          "type": "text",
-         "text": "y Dziennik Ustaw Nr 62",
+         "text": "y",
          "quoted": true
         },
         {

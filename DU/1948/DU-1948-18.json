@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/18",
  "title": "Rozporządzenie Ministra Skarbu z dnia 17 grudnia 1947 r. wydane w porozumieniu z Ministrami Ziem Odzyskanych i Administracji Publicznej o zasadach spłaty należności Skarbu Państwa za mienie nierolnicze przekazane na obszarze Ziem Odzyskanych i b. Wolnego Miasta Gdańska.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/18/text.pdf",
  "body": [
   {
@@ -48,7 +48,7 @@
     },
     {
      "type": "text",
-     "text": "+= WIG << Dziennik Ustaw Nr 3"
+     "text": "+= WIG <<"
     },
     {
      "type": "text",

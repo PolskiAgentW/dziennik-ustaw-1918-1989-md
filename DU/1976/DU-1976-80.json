@@ -1,7 +1,7 @@
 {
  "eli": "DU/1976/80",
  "title": "Protokół do Umowy między Polską Rzecząpospolitą Ludową a Niemiecką Republiką Demokratyczną o obrocie prawnym w sprawach cywilnych, rodzinnych i karnych, podpisanej w Warszawie dnia 1 lutego 1957 r., sporządzony w Warszawie dnia 18 kwietnia 1975 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1976/80/text.pdf",
  "body": [
   {
@@ -175,6 +175,11 @@
     {
      "type": "note",
      "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "152 =",
+     "quoted": true
     },
     {
      "type": "text",
@@ -357,7 +362,7 @@
     },
     {
      "type": "text",
-     "text": "153 = Dziennik Ustaw Nr 14",
+     "text": "153 =",
      "quoted": true
     },
     {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1959/311",
  "title": "Konwencja Konsularna między Polską Rzecząpospolitą Ludową a Federacyjną Ludową Republiką Jugosławii, podpisana w Belgradzie dnia 17 listopada 1958 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1959/311/text.pdf",
  "body": [
   {
@@ -98,7 +98,7 @@
   },
   {
    "type": "text",
-   "text": "r Dziennik Ustaw Nr 51"
+   "text": "r"
   },
   {
    "type": "text",
@@ -1763,7 +1763,12 @@
   },
   {
    "type": "text",
-   "text": "Artykuł 44 W. korespondencji z organami: i instytucjami państwa przyjmującego konsul posługuje się językiem urzędowym względnie jednym z języków urzędowych tego państwa.",
+   "text": "Artykuł 44",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "W. korespondencji z organami: i instytucjami państwa przyjmującego konsul posługuje się językiem urzędowym względnie jednym z języków urzędowych tego państwa.",
    "quoted": true
   },
   {

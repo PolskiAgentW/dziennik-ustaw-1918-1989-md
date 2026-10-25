@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/122",
  "title": "Dekret z dnia 3 lutego 1947 r. Prawo akcyzowe.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/122/text.pdf",
  "body": [
   {
@@ -2229,7 +2229,11 @@
   {
    "type": "heading",
    "label": "Rozdział 4",
-   "text": "Akcyza od kwasu octowego. Przedmiot akcyzy."
+   "text": "Akcyza od kwasu octowego."
+  },
+  {
+   "type": "text",
+   "text": "Przedmiot akcyzy."
   },
   {
    "type": "art",
@@ -3090,7 +3094,7 @@
       },
       {
        "type": "text",
-       "text": "= 451 — - Dziennik Ustaw Nr 29"
+       "text": "= 451 — -"
       }
      ]
     },

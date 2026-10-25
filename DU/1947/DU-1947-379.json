@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/379",
  "title": "Dekret z dnia 22 października 1947 r. o utworzeniu Akademii Sztabu Generalnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/379/text.pdf",
  "body": [
   {
@@ -123,8 +123,13 @@
      "type": "ust",
      "num": "2",
      "path": "art_6/ust_2",
-     "text": "W sprawach, zastrzeżonych w przepisach o państwowych szkołach akademickich senatom akademickim i radom wydziałowym, współdziała z komendantem Akademii z głosem doradczym rada profesorów Akademii. 3, Komendanta Akademii Sztabu” Generalnego mianuje Prezydent Rzeczypospolitej na wniosek Ministra Obrony Narodowej.",
-     "children": []
+     "text": "W sprawach, zastrzeżonych w przepisach o państwowych szkołach akademickich senatom akademickim i radom wydziałowym, współdziała z komendantem Akademii z głosem doradczym rada profesorów Akademii.",
+     "children": [
+      {
+       "type": "text",
+       "text": "3, Komendanta Akademii Sztabu” Generalnego mianuje Prezydent Rzeczypospolitej na wniosek Ministra Obrony Narodowej."
+      }
+     ]
     }
    ]
   },
@@ -159,8 +164,13 @@
      "type": "ust",
      "num": "4",
      "path": "art_7/ust_4",
-     "text": "Stosunek służbowy cywilnych nauczycieli i pomocniczych sił naukowych Akademii Sztabu- Generalnego regulują przepisy ‘o stosunku służbowym profesorów i pomocniczych sił naukowych państwowych szkół' akademickich. s. Minister Obrony Narodowej może w porozumieniu z Ministrem Oświaty nadać wykładowcom Akademii Sztabu Generalnego uprawnienia nauczycieli akademickich w zakresie uposażenia.",
-     "children": []
+     "text": "Stosunek służbowy cywilnych nauczycieli i pomocniczych sił naukowych Akademii Sztabu- Generalnego regulują przepisy ‘o stosunku służbowym profesorów i pomocniczych sił naukowych państwowych szkół' akademickich.",
+     "children": [
+      {
+       "type": "text",
+       "text": "s. Minister Obrony Narodowej może w porozumieniu z Ministrem Oświaty nadać wykładowcom Akademii Sztabu Generalnego uprawnienia nauczycieli akademickich w zakresie uposażenia."
+      }
+     ]
     }
    ]
   },
@@ -173,10 +183,6 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "* Poz. 379 i 380 Dziennik Ustaw Nr 65"
     },
     {
      "type": "text",
