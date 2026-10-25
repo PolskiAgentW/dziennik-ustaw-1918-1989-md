@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/672",
  "title": "Konwencja o ujednostajnieniu niektórych przepisów dotyczących niesienia pomocy i ratownictwa morskiego, podpisana w Brukseli dnia 23 września 1910 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/672/text.pdf",
  "body": [
   {
@@ -111,10 +111,6 @@
   {
    "type": "note",
    "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "——— = Dziennik Ustaw Nr 101"
   },
   {
    "type": "text",
@@ -268,7 +264,11 @@
     },
     {
      "type": "text",
-     "text": "M. B. C. J. LODER, Docteur en droit, Conseiller 4 la Cour de Cassation de La Haye; M. C. D. ASSER jr., Docteur en droit, Avocat a Amsterdam, ‘ Sa Majesté le Roi de Portugal et des Algarves:"
+     "text": "M. B. C. J. LODER, Docteur en droit, Conseiller 4 la Cour de Cassation de La Haye; M. C. D. ASSER jr., Docteur en droit, Avocat a Amsterdam, ‘"
+    },
+    {
+     "type": "text",
+     "text": "Sa Majesté le Roi de Portugal et des Algarves:"
     },
     {
      "type": "text",
@@ -418,10 +418,6 @@
     {
      "type": "note",
      "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 101 Str. 150"
     },
     {
      "type": "lit",
@@ -863,11 +859,6 @@
   },
   {
    "type": "text",
-   "text": "Dziennik Ustaw Nr 101 Str. 1506",
-   "quoted": true
-  },
-  {
-   "type": "text",
    "text": "ZA JAPONIĘ: POUR LE JAPON: K. Nabeshima K. Nabeshima Y. Irić T. Ishikawa M. Matsuda",
    "quoted": true
   },
@@ -1078,11 +1069,6 @@
   {
    "type": "note",
    "text": "[Strona 13 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Str. 1508",
-   "quoted": true
   },
   {
    "type": "text",

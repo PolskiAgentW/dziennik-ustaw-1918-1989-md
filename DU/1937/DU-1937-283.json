@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/283",
  "title": "Rozporządzenie Ministra Skarbu z dnia 4 maja 1937 r. o obrocie solą.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/283/text.pdf",
  "body": [
   {
@@ -128,7 +128,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 756 Dziennik Ustaw Nr 37 |ozzzz a"
+       "text": "Str. 756 |ozzzz a"
       },
       {
        "type": "text",
@@ -766,7 +766,7 @@
     },
     {
      "type": "text",
-     "text": "—————————- Dziennik Ustaw Nr 37 Str. 762 (Strona 1). Wzór Nr 2 do § 6 ust. (2, pkt 1) lit. b,"
+     "text": "(Strona 1). Wzór Nr 2 do § 6 ust. (2, pkt 1) lit. b,"
     },
     {
      "type": "text",
@@ -835,10 +835,6 @@
     {
      "type": "note",
      "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 37 Str, 766"
     },
     {
      "type": "text",
@@ -1110,10 +1106,6 @@
       {
        "type": "note",
        "text": "[Strona 16 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 37 Str. 770"
       },
       {
        "type": "text",

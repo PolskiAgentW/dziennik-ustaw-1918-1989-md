@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/92",
  "title": "Rozporządzenie Rady Ministrów z dnia 29 stycznia 1937 r. o dostawach i robotach na rzecz Skarbu Państwa, samorządu oraz instytucyj prawa publicznego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/92/text.pdf",
  "body": [
   {
@@ -112,10 +112,6 @@
       {
        "type": "text",
        "text": "A"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 13"
       }
      ]
     },
@@ -329,7 +325,7 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 13 \"Str. 151"
+     "text": "\"Str. 151"
     },
     {
      "type": "text",
@@ -461,10 +457,6 @@
       {
        "type": "note",
        "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "——-----. Dziennik Ustaw Nr 13 Str. 152"
       },
       {
        "type": "text",

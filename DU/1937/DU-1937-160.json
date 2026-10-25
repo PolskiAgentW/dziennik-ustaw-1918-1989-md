@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/160",
  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 23 marca 1937 r. wydane w porozumieniu z Ministrami: Spraw Wewnętrznych, Spraw Zagranicznych oraz Przemysłu i Handlu w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 4 czerwca 1927 r. o ochronie rynku pracy.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/160/text.pdf",
  "body": [
   {
@@ -94,14 +94,6 @@
     {
      "type": "text",
      "text": "Minister Opieki Społecznej: Marian Zyndram-Kościałkowskł"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "———————---- Dziennik Ustaw Nr 24 Str. 324"
     }
    ]
   }
@@ -110,6 +102,10 @@
   {
    "heading": "Załączniki do rozporządzenia Ministra Opieki Społecznej z dnia 23 marca 1937 r. (poz. 160). Załącznik Nr 1",
    "body": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
     {
      "type": "text",
      "text": "Do Urzędu Wojewódzkiego (Komisariatu Rządu na m. st, Warszawę)"
@@ -200,14 +196,6 @@
       {
        "type": "text",
        "text": "*) Powołanie się na zezwolenie wymagane jest w przypadku zatrudnienia pracownika cudzoziemskiego na podstawie zezwolenia, wydanego w trybie art. 4."
-      },
-      {
-       "type": "note",
-       "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "——-————-—- Dziennik Ustaw Nr 24 Str. 326"
       }
      ]
     }
@@ -216,6 +204,10 @@
   {
    "heading": "Załącznik Nr 3",
    "body": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
     {
      "type": "text",
      "text": "Do Urzędu Wojewódzkiego (Komisariatu Rządu na m. st, Warszawę)"
@@ -243,10 +235,6 @@
     {
      "type": "note",
      "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Str. 327 Dziennik Ustaw Nr 24 —————————-—————__ Poz. 160"
     },
     {
      "type": "text",

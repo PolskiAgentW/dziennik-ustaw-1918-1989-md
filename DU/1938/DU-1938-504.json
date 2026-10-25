@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/504",
  "title": "Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 18 sierpnia 1938 r. wydane w porozumieniu z Ministrami Spraw Wojskowych i Spraw Wewnętrznych w sprawie określenia szkół, których uczniowie i słuchacze są uprawnieni do ubiegania się o odroczenie zasadniczej służby wojskowej.",
- "converter": "eli2md 0.6.65",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/504/text.pdf",
  "body": [
   {
@@ -105,7 +105,7 @@
   },
   {
    "type": "text",
-   "text": "Dziennik Ustaw Nr 69 ‘Str. 1172"
+   "text": "‘Str. 1172"
   },
   {
    "type": "text",
@@ -264,10 +264,6 @@
     {
      "type": "note",
      "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "——_——______———_——_ Dziennik Ustaw Nr 69 Str. 1174"
     },
     {
      "type": "text",
@@ -604,11 +600,6 @@
     {
      "type": "note",
      "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "————_____—_—————__ Dziennik Ustaw Nr 69 Str. 1178",
-     "quoted": true
     },
     {
      "type": "text",

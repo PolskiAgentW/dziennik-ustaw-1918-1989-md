@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/76",
  "title": "Rozporządzenie Rady Ministrów z dnia 29 stycznia 1937 r. o przekazaniu składek za pracowników umysłowych i łączeniu uprawnień emerytalnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/76/text.pdf",
  "body": [
   {
@@ -173,10 +173,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 11 Str. 125"
-      },
-      {
-       "type": "text",
        "text": "nią lub zwolnienie od tego obowiązku, z powodu niemożności znalezienia odpowiedniego zajęcia, pod warunkiem, iż pracownik rejestrował się we właściwej instytucji w charakterze poszukującego"
       },
       {
@@ -282,10 +278,6 @@
     {
      "type": "note",
      "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 11"
     },
     {
      "type": "lit",

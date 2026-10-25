@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/66",
  "title": "Obwieszczenie Ministra Spraw Wojskowych z dnia 4 stycznia 1937 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 28 października 1933 r. o uposażeniu wojska.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/66/text.pdf",
  "body": [
   {
@@ -452,10 +452,6 @@
     {
      "type": "note",
      "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "- Dziennik Ustaw Nr 8 Str, 83"
     },
     {
      "type": "lit",
@@ -970,8 +966,17 @@
    "type": "art",
    "num": "46",
    "path": "art_46",
-   "text": "Postanowienia rozporządzenia niniejszego, odnoszące się do oficerów zawodowych, stosuje się odpowiednio do oficerów, powołanych do służby czynnej w czasie wojny, mobilizacji lub zarządzeniem Rady Ministrów, o ile bezpieczeństwo Państwa tego wymaga. Postanowienia rozporządzenia niniejszego, odnoszące się do podoficerów i szeregowców, pełniących obowiązkową służbę czynną, stosuje się odpowiednio do podoficerów i szeregowców, powołanych do służby czynnej w czasie wojny, mobilizacji lub zarządzeniem Rady Ministrów, o ile bezpieczeństwo Państwa tego wymaga. Do chorążych (równorzędnych) oraz pozostających w stanie spoczynku podoficerów i szeregowców, powołanych do służby czynnej w czasie wojny, mobilizacji lub zarządzeniem Rady Ministrów, o ile bezpieczeństwo Państwa tego wymaga, stosuje się odpowiednio postanowienia, dotyczące zawodowych chorążych (równorzędnych) lub innych zawodowych podoficerów i szeregowców. ' Oficerowie i chorążowie (równorzędni), powołani do służby czynnej w czasie wojny, mobilizacji lub zarządzeniem Rady Ministrów, © ile bezpieczeństwo Państwa tego wymaga, jak również podchorążowie rezerwy i podoficerowie mianowani w tym czasie podporucznikami rezerwy lub chorążymi rezerwy (równorzędnymi) otrzymują przy powołaniu lub mianowaniu wyekwipowanie w naturze albo równowartość pieniężną, którą określi Minister Spraw ojskowych; od tego uprawnienia w całości lub w części są wyłączeni oficerowie i chorążowie (równorzędni), którzy tego rodzaju należność lub jej część w wojsku polskim (polskiej marynarce wojennej) już otrzymali,",
-   "children": []
+   "text": "Postanowienia rozporządzenia niniejszego, odnoszące się do oficerów zawodowych, stosuje się odpowiednio do oficerów, powołanych do służby czynnej w czasie wojny, mobilizacji lub zarządzeniem Rady Ministrów, o ile bezpieczeństwo Państwa tego wymaga.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Postanowienia rozporządzenia niniejszego, odnoszące się do podoficerów i szeregowców, pełniących obowiązkową służbę czynną, stosuje się odpowiednio do podoficerów i szeregowców, powołanych do służby czynnej w czasie wojny, mobilizacji lub zarządzeniem Rady Ministrów, o ile bezpieczeństwo Państwa tego wymaga."
+    },
+    {
+     "type": "text",
+     "text": "Do chorążych (równorzędnych) oraz pozostających w stanie spoczynku podoficerów i szeregowców, powołanych do służby czynnej w czasie wojny, mobilizacji lub zarządzeniem Rady Ministrów, o ile bezpieczeństwo Państwa tego wymaga, stosuje się odpowiednio postanowienia, dotyczące zawodowych chorążych (równorzędnych) lub innych zawodowych podoficerów i szeregowców. ' Oficerowie i chorążowie (równorzędni), powołani do służby czynnej w czasie wojny, mobilizacji lub zarządzeniem Rady Ministrów, © ile bezpieczeństwo Państwa tego wymaga, jak również podchorążowie rezerwy i podoficerowie mianowani w tym czasie podporucznikami rezerwy lub chorążymi rezerwy (równorzędnymi) otrzymują przy powołaniu lub mianowaniu wyekwipowanie w naturze albo równowartość pieniężną, którą określi Minister Spraw ojskowych; od tego uprawnienia w całości lub w części są wyłączeni oficerowie i chorążowie (równorzędni), którzy tego rodzaju należność lub jej część w wojsku polskim (polskiej marynarce wojennej) już otrzymali,"
+    }
+   ]
   },
   {
    "type": "art",

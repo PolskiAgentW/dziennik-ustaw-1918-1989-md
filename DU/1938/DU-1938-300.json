@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/300",
  "title": "Konwencja międzynarodowa o przewozie osób i bagażu kolejami żelaznymi (K.M.O.), (z 2 załącznikami), podpisana w Rzymie dnia 23 listopada 1933 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/300/text.pdf",
  "body": [
   {
@@ -366,235 +366,253 @@
    "text": "PRZEWÓZ OSÓB."
   },
   {
-   "type": "text",
-   "text": "Artykuł 5. Prawo do przejazdu. § 1 — Podróżny musi posiadać bilet przy rozpoczęciu podróży. Taryfy mogą przewidywać pod tym względem wyjątki."
-  },
-  {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "— Podróżny jest obowiązany zachować bilet przez cały czas podróży. Powinien okazywać $o na żądanie każdemu z pracowników, upoważnionych do kontroli i oddać go po ukończeniu podróży. - Artykuł 6. Bilety. § 1. — Bilety, wydane na przewóz międzynarodowy na zasadach Konwencji niniejszej, powinny być opatrzone znakiem ¢.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "—Bilety muszą zawierać następujące dane:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "par_2/lit_a",
-     "text": "stację wyjazdu i przeznaczenia;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "par_2/lit_b",
-     "text": "drogę przewozu; jeżeli dozwolone jest użycie różnych dróg lub środków przewozowych, powinno to być zaznaczone na bilecie;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "par_2/lit_c",
-     "text": "rodzaj pociągu i klasę wagonu;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "par_2/lit_d",
-     "text": "opłatę za przewóz;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "par_2/lit_e",
-     "text": "pierwszy dzień ważności;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "par_2/lit_f",
-     "text": "czas ważności. § 3. — Taryfy lub umowy między kolejami żelaznymi postanawiają, w jakim języku bilety mają być drukowane i wypełniane, oraz określają ich formę i treść.",
-     "children": []
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "4",
-   "path": "par_4",
-   "text": "— Bilety w formie książeczek, zawierające odcinki kontrolne (bilety książeczkowe), jako też zestawiane bilety zeszytowe zarządów kolei żelaznych stanowią jeden dowód przewozowy w rozumieniu Konwencji niniejszej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Bilety, łączone pod jedną okładką przez urzędowe biura podróży lub ajencje prywatne,"
-    },
-    {
-     "type": "text",
-     "text": "Str. 586"
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "par_4/lit_a",
-     "text": "le voyageur se conforme aux prescriptions de la présente Convention;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "par_4/lit_b",
-     "text": "le transport soit possible avec les moyens ordinaires de transport;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "par_4/lit_c",
-     "text": "le transport ne soit pas interdit dans un des Etats intćressćs, par suite de dispositions légales ou pour des raisons d'ordre public;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "par_4/lit_d",
-     "text": "le transport ne soit pas empóchć par des circonstances que le Chemin de fer ne pouvait pas éviter et auxquelles il ne dépendait pas de lui de remédier.",
-     "children": [
-      {
-       "type": "text",
-       "text": "TITRE IL"
-      },
-      {
-       "type": "text",
-       "text": "DU CONTRAT DE TRANSPORT."
-      },
-      {
-       "type": "text",
-       "text": "Chapitre premier. TRANSPORT DES VOYAGEURS."
-      },
-      {
-       "type": "text",
-       "text": "Article 5."
-      },
-      {
-       "type": "text",
-       "text": "Droit au transport."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "— Le voyageur doit, lorsqu'il commence son voyage, ćtre muni d'un billet. Les tarifs peuvent prévoir des exceptions A cet égard.",
-   "children": [
-    {
-     "type": "text",
-     "text": "§ 2, — Le voyageur est tenu de conserver son billet pendant tout le cours du voyage. Il doit, s'il en est requis, le présenter A tout agent chargé du contróle et le rendre a la fin du voyage."
-    },
-    {
-     "type": "text",
-     "text": "Article 6. Billets."
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "1",
-   "path": "par_1",
-   "text": "— Les billets délivrés pour un transport international régi par la présente Convention doivent porter le signe “b-",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "— Les mentions suivantes sont obligatoires sur les billets:",
-   "children": [
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "par_2/lit_a",
-     "text": "lindication des stations de départ et de destination;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "par_2/lit_b",
-     "text": "l'itinéraire; si l'emploi de différents itinéraires ou moyens de transport est permis, cette faculté doit étre mentionnée;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "par_2/lit_c",
-     "text": "la catégorie de train et la classe de voiture; ,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "par_2/lit_d",
-     "text": "le prix de transport;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "par_2/lit_e",
-     "text": "le jour oli commence la validité;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "f",
-     "path": "par_2/lit_f",
-     "text": "la durée de validité.",
-     "children": [
-      {
-       "type": "text",
-       "text": "§ 3, — Les tarifs ou les accords entre Chemins de fer déterminent la langue dans laquelle les billets doivent étre imprimés et remplis, ainsi que leur forme et leur contenu."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "type": "par",
-   "num": "4",
-   "path": "par_4",
-   "text": "— Les billets formés d'un livret renfermant des feuillets de contróle (billets-livrets), ainsi que les billets 4 coupons combinés des Administrations de Chemins de fer constituent un titre de transport unique au sens de la présente Convention. Les billets réunis sous une couverture par des bureaux de voyage olficiels ou des agences",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Str. 587 Dziennik Ustaw Nr 35"
-    },
-    {
-     "type": "text",
-     "text": "stanowią każdy dla siebie odrębny dowód przewozowy, podlegający, zależnie od okoliczności, przepisom wewnętrznym zainteresowaneśo państwa lub przepisom Konwencji niniejszej."
-    }
-   ]
-  },
-  {
-   "type": "par",
+   "type": "art",
    "num": "5",
-   "path": "par_5",
-   "text": "—W razie braku wyjątków, przewidzianych w taryfach, bilet można odstąpić tylko wówczas, gdy nie jest imienny i jeżeli podróż nie została jeszcze rozpoczęta. Spekulacja biletami i odprzedawanie ich za cenę inną niż taryfowa podlega w każdym państwie ustawom i przepisom tego państwa.",
-   "children": []
+   "path": "art_5",
+   "text": "Prawo do przejazdu. § 1 — Podróżny musi posiadać bilet przy rozpoczęciu podróży. Taryfy mogą przewidywać pod tym względem wyjątki.",
+   "children": [
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_5/par_2",
+     "text": "— Podróżny jest obowiązany zachować bilet przez cały czas podróży. Powinien okazywać $o na żądanie każdemu z pracowników, upoważnionych do kontroli i oddać go po ukończeniu podróży. - Artykuł 6. Bilety. § 1. — Bilety, wydane na przewóz międzynarodowy na zasadach Konwencji niniejszej, powinny być opatrzone znakiem ¢.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_5/par_2",
+     "text": "—Bilety muszą zawierać następujące dane:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/par_2/lit_a",
+       "text": "stację wyjazdu i przeznaczenia;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/par_2/lit_b",
+       "text": "drogę przewozu; jeżeli dozwolone jest użycie różnych dróg lub środków przewozowych, powinno to być zaznaczone na bilecie;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/par_2/lit_c",
+       "text": "rodzaj pociągu i klasę wagonu;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_5/par_2/lit_d",
+       "text": "opłatę za przewóz;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_5/par_2/lit_e",
+       "text": "pierwszy dzień ważności;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_5/par_2/lit_f",
+       "text": "czas ważności. § 3. — Taryfy lub umowy między kolejami żelaznymi postanawiają, w jakim języku bilety mają być drukowane i wypełniane, oraz określają ich formę i treść.",
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "art_5/par_4",
+     "text": "— Bilety w formie książeczek, zawierające odcinki kontrolne (bilety książeczkowe), jako też zestawiane bilety zeszytowe zarządów kolei żelaznych stanowią jeden dowód przewozowy w rozumieniu Konwencji niniejszej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Bilety, łączone pod jedną okładką przez urzędowe biura podróży lub ajencje prywatne,"
+      },
+      {
+       "type": "text",
+       "text": "Str. 586"
+      },
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/par_4/lit_a",
+       "text": "le voyageur se conforme aux prescriptions de la présente Convention;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/par_4/lit_b",
+       "text": "le transport soit possible avec les moyens ordinaires de transport;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/par_4/lit_c",
+       "text": "le transport ne soit pas interdit dans un des Etats intćressćs, par suite de dispositions légales ou pour des raisons d'ordre public;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_5/par_4/lit_d",
+       "text": "le transport ne soit pas empóchć par des circonstances que le Chemin de fer ne pouvait pas éviter et auxquelles il ne dépendait pas de lui de remédier.",
+       "children": [
+        {
+         "type": "text",
+         "text": "TITRE IL"
+        },
+        {
+         "type": "text",
+         "text": "DU CONTRAT DE TRANSPORT."
+        },
+        {
+         "type": "text",
+         "text": "Chapitre premier."
+        },
+        {
+         "type": "text",
+         "text": "TRANSPORT DES VOYAGEURS."
+        },
+        {
+         "type": "text",
+         "text": "Article 5."
+        },
+        {
+         "type": "text",
+         "text": "Droit au transport."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_5/par_1",
+     "text": "— Le voyageur doit, lorsqu'il commence son voyage, ćtre muni d'un billet. Les tarifs peuvent prévoir des exceptions A cet égard.",
+     "children": [
+      {
+       "type": "text",
+       "text": "§ 2, — Le voyageur est tenu de conserver son billet pendant tout le cours du voyage. Il doit, s'il en est requis, le présenter A tout agent chargé du contróle et le rendre a la fin du voyage."
+      },
+      {
+       "type": "text",
+       "text": "Article 6."
+      },
+      {
+       "type": "text",
+       "text": "Billets."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "1",
+     "path": "art_5/par_1",
+     "text": "— Les billets délivrés pour un transport international régi par la présente Conven-",
+     "children": [
+      {
+       "type": "text",
+       "text": "tion doivent porter le signe “b-"
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_5/par_2",
+     "text": "— Les mentions suivantes sont obligatoires sur les billets:",
+     "children": [
+      {
+       "type": "lit",
+       "num": "a",
+       "path": "art_5/par_2/lit_a",
+       "text": "lindication des stations de départ et de destination;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "b",
+       "path": "art_5/par_2/lit_b",
+       "text": "l'itinéraire; si l'emploi de différents itinéraires ou moyens de transport est permis, cette faculté doit étre mentionnée;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "c",
+       "path": "art_5/par_2/lit_c",
+       "text": "la catégorie de train et la classe de voiture; ,",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "d",
+       "path": "art_5/par_2/lit_d",
+       "text": "le prix de transport;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "e",
+       "path": "art_5/par_2/lit_e",
+       "text": "le jour oli commence la validité;",
+       "children": []
+      },
+      {
+       "type": "lit",
+       "num": "f",
+       "path": "art_5/par_2/lit_f",
+       "text": "la durée de validité.",
+       "children": [
+        {
+         "type": "text",
+         "text": "§ 3, — Les tarifs ou les accords entre Chemins de fer déterminent la langue dans laquelle les billets doivent étre imprimés et remplis, ainsi que leur forme et leur contenu."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "4",
+     "path": "art_5/par_4",
+     "text": "— Les billets formés d'un livret renfermant des feuillets de contróle (billets-livrets), ainsi que les billets 4 coupons combinés des Administrations de Chemins de fer constituent un titre de transport unique au sens de la présente Convention. Les billets réunis sous une couverture par des bureaux de voyage olficiels ou des agences",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Str. 587"
+      },
+      {
+       "type": "text",
+       "text": "stanowią każdy dla siebie odrębny dowód przewozowy, podlegający, zależnie od okoliczności, przepisom wewnętrznym zainteresowaneśo państwa lub przepisom Konwencji niniejszej."
+      }
+     ]
+    },
+    {
+     "type": "par",
+     "num": "5",
+     "path": "art_5/par_5",
+     "text": "—W razie braku wyjątków, przewidzianych w taryfach, bilet można odstąpić tylko wówczas, gdy nie jest imienny i jeżeli podróż nie została jeszcze rozpoczęta. Spekulacja biletami i odprzedawanie ich za cenę inną niż taryfowa podlega w każdym państwie ustawom i przepisom tego państwa.",
+     "children": []
+    }
+   ],
+   "label": "Artykuł 5"
   },
   {
    "type": "art",
@@ -1306,10 +1324,6 @@
         },
         {
          "type": "text",
-         "text": "— ———-— Dziennik Ustaw Nr 35"
-        },
-        {
-         "type": "text",
          "text": "Taryly mogą ograniczyć iłość, rozmiary i wagę wyżej wymienionych przedmiotów, dopuszczonych do przewozu jako bagaż."
         }
        ]
@@ -1516,10 +1530,6 @@
         {
          "type": "note",
          "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "————-—--- —--—- Dziennik Ustaw Nr 35"
         },
         {
          "type": "text",
@@ -3610,7 +3620,7 @@
     },
     {
      "type": "text",
-     "text": "—— mnę awm Dziennik Ustaw Nr 35",
+     "text": "mnę awm Dziennik Ustaw Nr 35",
      "quoted": true
     },
     {
@@ -4236,11 +4246,6 @@
     },
     {
      "type": "text",
-     "text": "~ — Dziennik Ustaw Nr 35 Str. 612",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "Artykuł 60. Articie 60.",
      "quoted": true
     },
@@ -4559,7 +4564,7 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 35 Str. 614",
+     "text": "Str. 614",
      "quoted": true
     },
     {
@@ -4666,7 +4671,7 @@
     },
     {
      "type": "text",
-     "text": "——-———-—_—_-_-—_______ Dziennik Ustaw Nr 35 Str. 616 Kartka 3, strona przednia, Międzynarodowy przewóz bagażu. KWIT BAGAŻOWY. NC) HO a do ss ferret Reta = c ŻEM ="
+     "text": "Kartka 3, strona przednia, Międzynarodowy przewóz bagażu. KWIT BAGAŻOWY. NC) HO a do ss ferret Reta = c ŻEM ="
     },
     {
      "type": "text",
@@ -4738,7 +4743,7 @@
     },
     {
      "type": "text",
-     "text": "— > Dziennik Ustaw Nr 35 Str. 618 3e feuille, recto, Transport international de bagages, (Nom de l'administration du Chemin de fer.) BULLETIN DE BAGAGES"
+     "text": "> Dziennik Ustaw Nr 35 Str. 618 3e feuille, recto, Transport international de bagages, (Nom de l'administration du Chemin de fer.) BULLETIN DE BAGAGES"
     },
     {
      "type": "text",

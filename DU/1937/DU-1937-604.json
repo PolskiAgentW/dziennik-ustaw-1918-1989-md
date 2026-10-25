@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/604",
  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 29 października 1937 r. wydane w porozumieniu z Ministrami Spraw Wewnętrznych, Spraw Wojskowych, Skarbu, Sprawiedliwości, Wyznań Religijnych i Oświecenia Publicznego, Rolnictwa i Reform Rolnych, Przemysłu i Handlu oraz Komunikacji o postępowaniu przy wymiarze i poborze należności na rzecz Funduszu Pracy.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/604/text.pdf",
  "body": [
   {
@@ -733,10 +733,6 @@
       },
       {
        "type": "text",
-       "text": "Str. 1525 Dziennik Ustaw Nr 83 ——————_-————————- Poz. 604"
-      },
-      {
-       "type": "text",
        "text": "Załącznik Nr 3 do § 17."
       },
       {
@@ -758,10 +754,6 @@
       {
        "type": "note",
        "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "———________—__—_ Dziennik Ustaw Nr 83 Str. 1526"
       },
       {
        "type": "text",

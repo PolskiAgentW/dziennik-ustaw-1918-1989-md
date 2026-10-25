@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/6",
  "title": "Obwieszczenie Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 8 listopada 1937 r. w sprawie ogłoszenia tekstu ustawy z dnia 15 marca 1933 r. o szkołach akademickich.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/6/text.pdf",
  "body": [
   {
@@ -394,7 +394,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 7 Dziennik Ustaw Nr 1"
+     "text": "Str. 7"
     },
     {
      "type": "text",
@@ -1038,6 +1038,10 @@
     },
     {
      "type": "text",
+     "text": "Str. 13"
+    },
+    {
+     "type": "text",
      "text": "Publicznego, do ktérego należy wówczas także decyzja o wznowieniu zawieszonych czynności."
     },
     {
@@ -1421,7 +1425,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 16 Dziennik Ustaw Nr 1"
+       "text": "Str. 16"
       }
      ]
     },
@@ -1714,11 +1718,6 @@
       {
        "type": "text",
        "text": "VIII. ustawa z dnia 23 lipca 1926 r. zmieniająca art. 112 ustawy z dnia",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 1",
        "quoted": true
       },
       {

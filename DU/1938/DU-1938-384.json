@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/384",
  "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 23 czerwca 1938 r. wydane w porozumieniu z Ministrem Przemysłu i Handlu o wywozie masła za granicę.",
- "converter": "eli2md 0.6.65",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/384/text.pdf",
  "body": [
   {
@@ -583,7 +583,7 @@
     },
     {
      "type": "text",
-     "text": "———————————————- Dzienmk Ustaw Nr 49 Str. 846 ZNAKOWANIE BECZKI isa Rola 2 dua 23 ee (przykrywy i czołowej klepki)"
+     "text": "ZNAKOWANIE BECZKI isa Rola 2 dua 23 ee (przykrywy i czołowej klepki)"
     },
     {
      "type": "text",
@@ -681,10 +681,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 49"
-    },
-    {
-     "type": "text",
      "text": "pieczęć przedsiębiorstwa eksportowego (eksportera) mósasawodię A EA ‘ See Nr rejestracyjny m-..-.-.......-.."
     },
     {
@@ -762,14 +758,6 @@
       {
        "type": "text",
        "text": "podpis przedstawiciela 5. B. M."
-      },
-      {
-       "type": "note",
-       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 49 Str. 850 nn"
       }
      ]
     }
@@ -778,6 +766,10 @@
   {
    "heading": "Załącznik Nr 4,",
    "body": [
+    {
+     "type": "note",
+     "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
     {
      "type": "text",
      "text": "Il uli „ił —"
@@ -809,20 +801,16 @@
     {
      "type": "text",
      "text": "@ Data wystawienia zaświadczenia, (©) Nazwa miejscowości, w której znajduje się S. B. M. Wymiary 60 mm X 40 mm."
-    },
-    {
-     "type": "note",
-     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Str. 851 Dziennik Ustaw Nr 49 ——-————_—__—__————- Poz, 384"
     }
    ]
   },
   {
    "heading": "Załącznik Nr 6. MUZEUM PRZEMYSŁU I ROLNICTWA W WARSZAWIE of scssssccscstsecsewuctcoteceny AB peeeeeeeezeeeecewecenoneeenaeee 1 93...Fo STACJA BADANIA MASŁA",
    "body": [
+    {
+     "type": "note",
+     "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
     {
      "type": "text",
      "text": "ZAŚWIADCZENIE Nr. ważne do dnia.........-..----e--mm--mmrru-enn-en-----— W TAZIE złożenia przesyłki w chłodni ważne do dnia........................--.-----eu---a Stacja. Badania Masła Wema stwierdza niniejszym, że przesyłka masła zgłoszona przez ERZE LTL OOOO LLL nazwa przedsiębiorstwa eksportowego 4 aeaaka zaraża ika bakaz ani kaaęadaaadaą znak eksportera ae raj przeznaczenia 0 . SR Numery jednostek opakunkowych wg numeracji eksportera"

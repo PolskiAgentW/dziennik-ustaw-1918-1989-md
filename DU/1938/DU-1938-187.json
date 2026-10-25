@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/187",
  "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 21 marca 1938 r. o wykonywaniu pomiarów i sporządzaniu planów pól górniczych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/187/text.pdf",
  "body": [
   {
@@ -46,7 +46,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 335 Dziennik Ustaw Nr 21"
+     "text": "Str. 335"
     }
    ]
   },
@@ -179,11 +179,6 @@
     {
      "type": "note",
      "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": ". Poz, 187 i 188 = Dziennik Ustaw Nr 21",
-     "quoted": true
     },
     {
      "type": "text",

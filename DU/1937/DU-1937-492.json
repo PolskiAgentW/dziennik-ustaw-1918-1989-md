@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/492",
  "title": "Układ dotyczący długów publicznych niezabezpieczonych austriackich i węgierskich opiewających na floreny srebrne, floreny lub korony, podpisany w Paryżu dnia 11 lutego 1931 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/492/text.pdf",
  "body": [
   {
@@ -300,7 +300,12 @@
   },
   {
    "type": "text",
-   "text": "Les titres des emprunts ci-dessous: Emprunts des",
+   "text": "Les titres des emprunts ci-dessous:",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Emprunts des",
    "quoted": true
   },
   {
@@ -339,7 +344,7 @@
   },
   {
    "type": "text",
-   "text": "Str. 1233 Dziennik Ustaw Nr 64",
+   "text": "Str. 1233",
    "quoted": true
   },
   {
@@ -562,7 +567,7 @@
   },
   {
    "type": "text",
-   "text": "Str. 1235 Dziennik Ustaw Nr 64",
+   "text": "Str. 1235",
    "quoted": true
   },
   {
@@ -1206,7 +1211,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1242 Dziennik Ustaw Nr 64"
+     "text": "Str. 1242"
     },
     {
      "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/313",
  "title": "Rozporządzenie Ministra Skarbu z dnia 5 maja 1938 r. o zmianie tabeli tarowej stanowiącej załącznik do § 4 rozporządzenia Ministra Skarbu z dnia 9 października 1934 r. - Przepisy wykonawcze do rozporządzenia Prezydenta Rzeczypospolitej z dnia 23 sierpnia 1932 r. o ustanowieniu taryfy celnej przywozowej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/313/text.pdf",
  "body": [
   {
@@ -501,7 +501,12 @@
     },
     {
      "type": "text",
-     "text": "233 p. 1, 2a 233 p. 2b, 234, 235. 236",
+     "text": "233 p. 1, 2a",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "233 p. 2b, 234, 235. 236",
      "quoted": true
     },
     {
@@ -517,11 +522,6 @@
     {
      "type": "text",
      "text": "241, 242",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 37",
      "quoted": true
     },
     {
@@ -687,11 +687,6 @@
     {
      "type": "note",
      "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "————----- Dziennik Ustaw. Nr 37 Str. 642",
-     "quoted": true
     },
     {
      "type": "text",
@@ -911,11 +906,6 @@
     },
     {
      "type": "text",
-     "text": "—————_—_—_———_— Dziennik Ustaw Nr 37 Str. 646",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "Tara Tara Pozycja A ‘ w pro- Pozycja , z w pr ty okey Rodzaj opakowania “ae faryty celad Rodzaj opakowania a rutto",
      "quoted": true
     },
@@ -986,11 +976,6 @@
     {
      "type": "text",
      "text": "496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507 |w skrzyniach 18 w belach 1 w belach z deskami z dwóch stron 508 do 511 włącznie |w skrzyniach 20 \" |w belach 5 512, 513 w skrzyniach 18 w belach 2 514 w skrzyniach 20 w beczkach 16 w blaszankach 10 w workach, belach 2 546, 547, 548 w skrzyniach 12 w beczkach 10 549, 550 w skrzyniach 15 560 p. 2b, 4b w skrzyniach 18 w belach 2 561 i uwaga2| w skrzyniach 18 w skrzyniach i nadto w pudełkach tekturowych |30 w belach 2 562 w skrzyniach 25 w skrzyniach i nadto w pudełkach tekturowych |35 571 w skrzyniach 20 w belach 2 572, 573 w skrzyniach 20 574, 575 w skrzyniach 25 w skrzyniach i nadto w pudełkach tekturowych |35 589 p. 1b,c, 2b, 590 p. 1b, p. 2 ‘ i 3, 591 w skrzyniach 20 w belach,.workach 2 592 w skrzyniach 18 w belach, workach 2 w belach ściągniętych drutem 2% 593, 594 p.|w skrzyniach przy przy- 1—9 wozie drogą morską 20 w skrzyniach przy przy” wozie drogą lądową 18 w beczkach 16 w belach, workach przy przywozie drogą morska 3 w belach, wójkich przy przywozie drogą lądową| 214 w belach i nadto w paczkach do 1 kg owiniętych w papier 9",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 37",
      "quoted": true
     },
     {
@@ -1150,11 +1135,6 @@
     {
      "type": "text",
      "text": "Rodzaj opakowania",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 37",
      "quoted": true
     },
     {
@@ -1467,11 +1447,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 37",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "Rodzaj opakowania",
      "quoted": true
     },
@@ -1771,17 +1746,7 @@
     },
     {
      "type": "text",
-     "text": "1020",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 37",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "w koszach w workach w skrzyniach, beczkach w koszach w workach w skrzyniach, beczkach w koszach w workach w skrzyniach w koszach w workach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach w klatkach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach © w skrzyniach w skrzyniach w beczkach w bębnach z blachy Żelaznej w skrzyniach w beczkach w skrzyniach w beczkach w blaszankach w workach, belach w skrzyniach w skrzyniach w beczkach w słomie w skrzyniach, beczkach w skrzyniach, beczkach w koszach w skrzyniach, beczkach w skrzyniach, beczkach w belach",
+     "text": "1020 w koszach w workach w skrzyniach, beczkach w koszach w workach w skrzyniach, beczkach w koszach w workach w skrzyniach w koszach w workach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach w klatkach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach, beczkach w skrzyniach © w skrzyniach w skrzyniach w beczkach w bębnach z blachy Żelaznej w skrzyniach w beczkach w skrzyniach w beczkach w blaszankach w workach, belach w skrzyniach w skrzyniach w beczkach w słomie w skrzyniach, beczkach w skrzyniach, beczkach w koszach w skrzyniach, beczkach w skrzyniach, beczkach w belach",
      "quoted": true
     },
     {

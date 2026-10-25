@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/281",
  "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 20 kwietnia 1938 r. o zmianie rozporządzenia Ministra Przemysłu i Handlu z dnia 22 lipca 1932 r. o opłatach za legalizację narzędzi mierniczych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/281/text.pdf",
  "body": [
   {
@@ -334,10 +334,6 @@
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "text",
-       "text": "- Dziennik Ustaw Nr 32 Str. 520"
-      },
-      {
        "type": "lit",
        "num": "a",
        "path": "par_24/ust_4/lit_a",
@@ -508,10 +504,6 @@
     {
      "type": "note",
      "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 32 Str. 522"
     },
     {
      "type": "lit",
@@ -1013,7 +1005,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 526 Dziennik Ustaw Nr 32"
+       "text": "Str. 526"
       },
       {
        "type": "text",

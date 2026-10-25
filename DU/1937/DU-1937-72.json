@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/72",
  "title": "Rozporządzenie Ministra Skarbu z dnia 6 lutego 1937 r. w sprawie wykonania dekretu Prezydenta Rzeczypospolitej o uregulowaniu gospodarki cukrowej i buraczanej, wydane co do §§ 1-4, 5 ust. 1 i 2, 6-12 i 15-18 w porozumieniu z Ministrem Rolnictwa i Reform Rolnych oraz Ministrem Przemysłu i Handlu.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/72/text.pdf",
  "body": [
   {
@@ -485,10 +485,6 @@
   },
   {
    "type": "text",
-   "text": "———————__ Dziennik Ustaw Nr 9 Str. 106 I"
-  },
-  {
-   "type": "text",
    "text": "Załączniki do rozp. Min. Skarbu z dn. 6 lutego 1937 r. (poz. 72), Wzór Nr 1 do § 16. (Str. 1.)"
   },
   {
@@ -609,7 +605,7 @@
   },
   {
    "type": "text",
-   "text": "———————————--__ Dziennik Ustaw Nr 9 Str. 108 SS Wzór Nr 2_ do § 17. (Sfr. 1.)"
+   "text": "SS Wzór Nr 2_ do § 17. (Sfr. 1.)"
   },
   {
    "type": "text",
@@ -701,10 +697,6 @@
     {
      "type": "note",
      "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "—-----. Dziennik Ustaw Nr 9 Str. 110"
     },
     {
      "type": "text",

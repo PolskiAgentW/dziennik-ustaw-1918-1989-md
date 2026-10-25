@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/627",
  "title": "Dekret Prezydenta Rzeczypospolitej z dnia 22 listopada 1938 r. o zmianie prawa górniczego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/627/text.pdf",
  "body": [
   {
@@ -315,10 +315,6 @@
         {
          "type": "note",
          "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "'Poz. 627 Dziennik Ustaw Nr 91"
         }
        ]
       },
@@ -1156,7 +1152,12 @@
         },
         {
          "type": "text",
-         "text": "Str. 1382 Dziennik Ustaw Nr 91 a mó .....-onooo cc CA A <Owoy+YDÓ0DT(DYNSŚŚZŚ ŚŚ ŚŚ ŚŚ NS SSS śś",
+         "text": "Str. 1382",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a mó .....-onooo cc CA A <Owoy+YDÓ0DT(DYNSŚŚZŚ ŚŚ ŚŚ ŚŚ NS SSS śś",
          "quoted": true
         },
         {

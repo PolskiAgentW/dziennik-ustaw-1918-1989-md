@@ -83,7 +83,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 18:30 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 18:56 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -160,7 +160,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 28619, razem 73220 z 78
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 233.
 
 Rodzaje aktów: Rozporządzenie 21103, Oświadczenie rządowe 4227, Dekret 1294, Obwieszczenie 720, Konwencja 465, Umowa międzynarodowa 280, Protokół 124, Układ 113, Zarządzenie 112, Uchwała 90, Porozumienie 83, Traktat 49, Oświadczenie 18, Przepisy wykonawcze 10, Statut 8, Przepisy 7, Ustawa 6, Postanowienie 5, Deklaracja 5, Orędzie 3, Reskrypt 2, Sprostowanie 1, Instrukcja 1, Regulamin 1, Rezolucja 1.
-Wersje konwertera: eli2md 0.6.49 (28414), eli2md 0.6.65 (313), eli2md 0.6.62 (1).
+Wersje konwertera: eli2md 0.6.49 (28303), eli2md 0.6.65 (280), eli2md 0.6.66 (144), eli2md 0.6.62 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -227,6 +227,18 @@ Poz. 105”), pozostałe 131 zwykle z szumem OCR obok („— Dziennik Ustaw Nr 
 DU/1937/23, 76, 83, 99, 323, 328, 363, 365, DU/1945/23, DU/1947/320, DU/1949/6, 434, DU/1951/10, DU/1952/50,
 DU/1958/257, DU/1962/132, DU/1968/153, DU/1969/22, DU/1970/129, DU/1987/45, DU/1989/52, 208; w DU/1952/82 reszta tekstu
 różniła się o 1,2%.
+
+Tego samego dnia eli2md 0.6.66, 144 akty (opis w README eli2md, wpis 0.6.66): w latach 1937–1938 nagłówek strony ma numer
+strony („Dziennik Ustaw Nr 16 Str. 194”) i OCR czyta go jako jedną linię z pozycjami na początku („Poz. 105 —— Dziennik
+Ustaw Nr 16 Str. 194”) albo z długą kreską przed pozycjami. Do 0.6.65 reszta takiej linii zostawała w tekście, a strona
+z kreską nie miała listy pozycji, od której zależy, gdzie zaczyna się akt (DU/1937/420: „Dziennik Ustaw Nr 53 Str. 978
+420 ROZPORZĄDZENIE …” w jednym akapicie). Przeliczyłem ponownie 191 aktów z takim nagłówkiem (420 wystąpień). Reguła jak
+wyżej; przed porównaniem z obu wersji wycinany jest też nagłówek z numerem strony i kreski skanu. Nowy plik zostaje w 144
+aktach (w 25 z nich reszta tekstu ma te same znaki); wystąpień „Dziennik Ustaw Nr N” poza nagłówkiem z „— N — Poz.”
+było w nich 480, zostało 148. Bez zmian
+zostało 47: w 39 nowy plik ma tyle samo nagłówków, w 8 krótkich aktach (624–1407 znaków) reszta tekstu różniła się o
+0,52–1,08% (DU/1937/52, 213, 519, DU/1938/5, 285, 350, 616, 687). W zbiorze zostało 136 nagłówków z numerem strony
+w 85 aktach (OCR czyta „Poz.” z błędem: „Pz.”, „paź.”, „P oz.”, albo nagłówek nie stoi w pierwszych akapitach strony).
 
 ## Licencja
 

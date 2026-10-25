@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/616",
  "title": "Rozporządzenie Ministrów Komunikacji, Spraw Wewnętrznych i Spraw Wojskowych z dnia 27 października 1937 r. wydane w porozumieniu z Ministrem Opieki Społecznej o ruchu pojazdów mechanicznych na drogach publicznych.",
- "converter": "eli2md 0.6.65",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/616/text.pdf",
  "body": [
   {
@@ -323,10 +323,6 @@
         {
          "type": "note",
          "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "————————— Dziennik Ustaw Nr 85 Str. 1540"
         },
         {
          "type": "text",

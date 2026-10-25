@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/486",
  "title": "Rozporządzenie Ministra Skarbu z dnia 22 sierpnia 1938 r. wydane w porozumieniu z Ministrami Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych w sprawie zmiany rozporządzenia Ministra Skarbu z dnia 26 kwietnia 1938 r. o zniżkach celnych i zwolnieniach od cła.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/486/text.pdf",
  "body": [
   {
@@ -68,10 +68,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "————__——__ Dziennik Ustaw Nr 64 Str. 1144"
       }
      ]
     },

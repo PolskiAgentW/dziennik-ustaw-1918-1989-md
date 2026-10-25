@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/74",
  "title": "Rozporządzenie Rady Ministrów z dnia 12 lutego 1937 r. o ustaleniu na rok 1937 wykazu imiennego nieruchomości podlegających przymusowemu wykupowi.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/74/text.pdf",
  "body": [
   {
@@ -124,7 +124,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 115 Dziennik Ustaw Nr 10",
+     "text": "Str. 115",
      "quoted": true
     },
     {
@@ -437,7 +437,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 117 Dziennik Ustaw Nr 10 a NN",
+     "text": "Str. 117 a NN",
      "quoted": true
     },
     {
@@ -675,11 +675,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 10",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "Skrzyszów, Niedomice, Smigno, Tarnowiec, Wierzchosławice, Zawada, Żukowice Nowe, Piotrkowice, Ilkowice, Pogorska Wola, Niziny, Zdżary, Radlna, Zalasowa, Szynwałd, Sierakowice, Biała, Głów, Gosławice, Wólka Tarnowiecka, Rudno i Borek stanowiących własność Romana- Władysława - Stanisława - Antoniego Sanguszki; w województwie poznańskim:",
      "quoted": true
     },
@@ -765,7 +760,12 @@
     },
     {
      "type": "text",
-     "text": "w powiecie chodzieskim: 605 ha z nieruchomości: Nietuszkowo t. I k. 1 i Nietuszkowo w. 1. 10, 25 i 41, Chrustowo w. |. 4, 17 i 53 i Ujska Nowawieś t VIII w. I. 318 stanowiących własność Anny-Marii Jouanne; 210 ha z nieruchomości Podanin t. I w. I. 1 stanowiącej własność Wernera Sprotte; w powiecie inowrocławskim: 415 ha z nieruchomości: Pałczyn t. I w. 1. 1, Bedzitowo dom. t. I w. L. 11 i 16 i Kolankowo t. I w. l. 11 stanowiących własność Bruno Jahnza; 470 ha z nieruchomości: Kawęczyn i Grabia t lw. lL. 1 stanowiących własność Waltera Schencka; 330 ha z nieruchomości Wybranowo t. I w. 1. 1 stanowiącej własność Kurta Heinecke; 140 ha z nieruchomości Dobrogościce t. 1 w. |. 1 i w. 43 i 44 stanowiącej własność Alfreda Hempla; 900 ha z nieruchomości: Lipie t I w. lL. 1, Lipie dom. t. I w. LL 2 i 7 i Ośniszczewo t. I w. l. 1 stanowiących własność Wandy- Elfriedy i Helmutha-Konrada-Arnolda Rosenstielów; 1000 ha z nieruchomości: Liszkowo t, I w.",
+     "text": "w powiecie chodzieskim: 605 ha z nieruchomości: Nietuszkowo t. I k. 1 i Nietuszkowo w. 1. 10, 25 i 41, Chrustowo w. |. 4, 17 i 53 i Ujska Nowawieś t VIII w. I. 318 stanowiących własność Anny-Marii Jouanne; 210 ha z nieruchomości Podanin t. I w. I. 1 stanowiącej własność Wernera Sprotte;",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "w powiecie inowrocławskim: 415 ha z nieruchomości: Pałczyn t. I w. 1. 1, Bedzitowo dom. t. I w. L. 11 i 16 i Kolankowo t. I w. l. 11 stanowiących własność Bruno Jahnza; 470 ha z nieruchomości: Kawęczyn i Grabia t lw. lL. 1 stanowiących własność Waltera Schencka; 330 ha z nieruchomości Wybranowo t. I w. 1. 1 stanowiącej własność Kurta Heinecke; 140 ha z nieruchomości Dobrogościce t. 1 w. |. 1 i w. 43 i 44 stanowiącej własność Alfreda Hempla; 900 ha z nieruchomości: Lipie t I w. lL. 1, Lipie dom. t. I w. LL 2 i 7 i Ośniszczewo t. I w. l. 1 stanowiących własność Wandy- Elfriedy i Helmutha-Konrada-Arnolda Rosenstielów; 1000 ha z nieruchomości: Liszkowo t, I w.",
      "quoted": true
     },
     {
@@ -957,7 +957,7 @@
       },
       {
        "type": "text",
-       "text": "Str, Dziennik Ustaw Nr 10"
+       "text": "Str,"
       },
       {
        "type": "text",

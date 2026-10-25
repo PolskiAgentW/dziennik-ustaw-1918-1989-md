@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/97",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 18 lutego 1938 r. w sprawie tymczasowego wprowadzenia w życie postanowień układu płatniczego między Polską a Francją z dnia 29 grudnia 1937 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/97/text.pdf",
  "body": [
   {
@@ -37,10 +37,6 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Str. 148 Dziennik Ustaw Nr 14"
     }
    ]
   },

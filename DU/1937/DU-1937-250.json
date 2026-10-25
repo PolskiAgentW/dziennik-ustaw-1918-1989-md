@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/250",
  "title": "Rozporządzenie Ministra Skarbu z dnia 31 marca 1937 r. wydane w porozumieniu z Ministrami: Spraw Wewnętrznych oraz Rolnictwa i Reform Rolnych o wymiarze i poborze państwowego podatku gruntowego.",
- "converter": "eli2md 0.6.65",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/250/text.pdf",
  "body": [
   {
@@ -2665,11 +2665,6 @@
   },
   {
    "type": "text",
-   "text": "——_—_—_———_- Dziennik Ustaw Nr 32 Str. 580",
-   "quoted": true
-  },
-  {
-   "type": "text",
    "text": "U (Strona 1). Załączniki do rozp. Min. Skarbu",
    "quoted": true
   },
@@ -2896,7 +2891,7 @@
   },
   {
    "type": "text",
-   "text": "—————————————— — Dziennik Ustaw Nr 32 „Str. 584 Wzór Nr 3 Do do § 23. Urzędu Skarbowego w.",
+   "text": "„Str. 584 Wzór Nr 3 Do do § 23. Urzędu Skarbowego w.",
    "quoted": true
   },
   {
@@ -3094,7 +3089,7 @@
   },
   {
    "type": "text",
-   "text": "—- Dziennik Ustaw Ńr32 __. a _ Str. 586",
+   "text": "Ńr32 __. a _ Str. 586",
    "quoted": true
   },
   {
@@ -3174,241 +3169,244 @@
   },
   {
    "type": "text",
-   "text": "(sołtys) 1) Le przedstawiciele płatników"
+   "text": "(sołtys) 1) Le przedstawiciele płatników",
+   "quoted": true
   },
   {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "CEZ RO",
-   "children": [
-    {
-     "type": "text",
-     "text": "Uwaga: Zbędne wyrazy w druku skreślić,"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 29 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "URZĄD SKARBOWY (Strona 1), Wzór Nr 5 W zk ka on do § 25i 55. To awa"
-    },
-    {
-     "type": "text",
-     "text": "REJESTR WYMIAROWY państwowego podatku gruntowego na lata ......... Ram"
-    },
-    {
-     "type": "text",
-     "text": "dla miasta na nn aś"
-    },
-    {
-     "type": "text",
-     "text": "Gla gminy: Wiejskiej aussi ee"
-    },
-    {
-     "type": "text",
-     "text": "U wagi: 1) Na jednej stronicy należy wpisywać nie więcej jak 2 płatników."
-    }
-   ]
+   "type": "text",
+   "text": "2) CEZ RO",
+   "quoted": true
   },
   {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "Po dokonaniu wymiaru państwowego podatku gruntowego należy podsumować kolumny, dotyczące kwot podatku.",
-   "children": []
+   "type": "text",
+   "text": "Uwaga: Zbędne wyrazy w druku skreślić,",
+   "quoted": true
   },
   {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "Kolumnę 5 wypełnia się na podstawie ewidencji gruntów (z kol. 25 wzór Nr 1 lub z kol. 24 wzór Nr 8).",
-   "children": []
+   "type": "note",
+   "text": "[Strona 29 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "pkt",
-   "num": "4",
-   "path": "pkt_4",
-   "text": "Kolumn 6—12 nie wypełnia się dla podatkowych jednostek zbiorowych.",
-   "children": []
+   "type": "text",
+   "text": "URZĄD SKARBOWY (Strona 1), Wzór Nr 5 W zk ka on do § 25i 55. To awa",
+   "quoted": true
   },
   {
-   "type": "pkt",
-   "num": "5",
-   "path": "pkt_5",
-   "text": "Zmiany w wymiarze należy notować w kol. ,Uwagi\".",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 30 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Str: 588 2 z Imię i isk"
-    },
-    {
-     "type": "lit",
-     "num": "ks",
-     "path": "pkt_5/lit_ks",
-     "text": "Nazwa jednostki po* mieszkania = E datkowej płatnika lub = Ę (osada, pr majątek siedziba i j Ś « M o a m 1 2 4",
-     "children": [
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 32 w y m i e Kwota państwowego podatku"
-      },
-      {
-       "type": "text",
-       "text": "( Strona 2). Kwota państwowego podatku gruntowego, podlegająca odpisaniu 2 tytułu ulgi z art, 8 (przy Oddzielny dodatek obliczony w myśl Roczna kwo- racie) art. 7 ta państwoku grunto- opłacana przez śókość uli iść płatnika w obrębie wy encji + ae i puto danej gminy \"Sal ep) poz. rejestru wy-| kwota —_______|miarowego albo % zł gr listy rozkładu zł gr 5 6 7 9 10 11"
-      },
-      {
-       "type": "text",
-       "text": "(c. d. str. 2)."
-      },
-      {
-       "type": "text",
-       "text": "r z o n"
-      },
-      {
-       "type": "text",
-       "text": "Kwota dodatku za rok rata |gruntowego (po Kwota dodatku |Razem (kolumna Kwota oddziel- Razem (kol. o. respon! ps samorządowego ty z tytułu ulg d datk 15 + 16 z art. 8—kolum- PĘPKA zł gr zł gr zł gr 17"
-      },
-      {
-       "type": "text",
-       "text": "Poz. 250 nego dodatku posew Rdr ) Poz. księgi kol. 12 a ziemnego 18 + 19 , , (EB ) dodatku bierczej A"
-      },
-      {
-       "type": "text",
-       "text": "zł gr zł gr zł gr"
-      },
-      {
-       "type": "note",
-       "text": "[Strona 31 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "__Wzór Nr 6 _ do § 29 i 61. URZĄD SKARBOWY (Strona 1),"
-      },
-      {
-       "type": "text",
-       "text": "Zarząd Gminy meu.eeemeemaaeeenananennea _"
-      },
-      {
-       "type": "text",
-       "text": "Nr kolejny....................."
-      },
-      {
-       "type": "text",
-       "text": "LISTA"
-      },
-      {
-       "type": "text",
-       "text": "rozkładu państwowego podatku gruntowego wyznaczonego na r. 193......... na podatkową jednostkę zbiorową"
-      },
-      {
-       "type": "text",
-       "text": "(wieś, osada; majątek) uz EA Poz. wyciągu z rejestru wymiarowego urzędu skarbowego -.-...........---euuue. een aaeanna een"
-      },
-      {
-       "type": "text",
-       "text": "Łączna kwota wymierzonego ee dodatku samorządowego Raze"
-      },
-      {
-       "type": "text",
-       "text": "UW AGI: 1) Od uczestników podatkowych jednostek zbiorowych, którzy od swych gruntów, . położonych w granicach jednej gminy, opłacają państwowego podatku gruntowego:"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "pkt_5/lit_a",
-     "text": "nie więcej niż 10 zł rocznie — nie pobiera się I raty, a pobiera się tylko II ratę,",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "pkt_5/lit_b",
-     "text": "powyżej 10 zł do 35 zł roczriie — pobiera się 60% I raty i całą II ratę.",
-     "children": []
-    }
-   ]
+   "type": "text",
+   "text": "REJESTR WYMIAROWY państwowego podatku gruntowego na lata ......... Ram",
+   "quoted": true
   },
   {
-   "type": "pkt",
-   "num": "2",
-   "path": "pkt_2",
-   "text": "Uczestnicy podatkowych jednostek zbiorowych, opłacający od gruntów w po* wiecie powyżej 110 zł rocznie, nie korzystają z ulg z art. 8.",
-   "children": []
+   "type": "text",
+   "text": "dla miasta na nn aś",
+   "quoted": true
   },
   {
-   "type": "pkt",
-   "num": "3",
-   "path": "pkt_3",
-   "text": "Uczestnikom podatkowych jednostek zbiorowych, dla których roczny państwowy podatek gruntowy po potrąceniu kwoty ulg z art. 8 wynosi 30 gr i mniej, podatek ten umarza się na podstawie § 92, przy czym nie wypełnia się kolumn 12 — 17 i fakt umorzenia zaznacza się w kol. „Uwagi”.",
-   "children": [
-    {
-     "type": "note",
-     "text": "[Strona 32 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Str. 590 Podatek zg gruntów posiadanych — = w danej podatkowej jednostce zbiorowej"
-    },
-    {
-     "type": "text",
-     "text": "Nazwisko i imię Odległość w ki- Roczna kwota ź oe płatnika lometrach od Obszar państwowego miasta liczące- gruntów podatku grungo ponad towego 100.000 mieszkańców ha a zł gr"
-    },
-    {
-     "type": "text",
-     "text": "4 5"
-    },
-    {
-     "type": "text",
-     "text": "N r” |= z g wy > tc. d. str. 2). 4 E Ulgi z art. 8 © 2 A I rata"
-    },
-    {
-     "type": "text",
-     "text": "Sharh — miękki różnica pomiędzy ; a AGR z kol. morządowych 5 a sumą z kol. 11)"
-    },
-    {
-     "type": "text",
-     "text": "zł. śr"
-    },
-    {
-     "type": "text",
-     "text": "\"Poz. 250"
-    },
-    {
-     "type": "text",
-     "text": "Roczna kwota w innych miejscowościach danej gminy podatku grunto- , wego na rzecz Pozycja listy Roczna kwota Skarbu Państwa Nazwa podat- rozkładu pod. państwowego ze Wadi są „| gruntowego lub podatku grun- śruntów w dakowej jednostki wyciągu z re- towego nej gminie bi z jestru wymia- (kol. 5+ kol. 8) zbiorowej |rowego urzędu skarbowego zł śr 6 1 8"
-    },
-    {
-     "type": "text",
-     "text": "Grunty posiadane w innych naa na rzecz więc Ara powista Uwagi bu Państwa morządowych bada “we 8 Ć"
-    },
-    {
-     "type": "text",
-     "text": "gruntów i gminę) zł gr zł śr"
-    },
-    {
-     "type": "note",
-     "text": "[Strona 33 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "(Strona 1), Wzór Nr 7 do § 30,62 i 76"
-    },
-    {
-     "type": "text",
-     "text": "WYCIĄG z rejestru wymiarowego państwowego podatku gruntowego na rok podatkowy 193..........."
-    },
-    {
-     "type": "text",
-     "text": "UW AGA: 1) Do kolumny 5 wpisuje się sumy z kol. 5 rejestru wymiarowego. i"
-    }
-   ]
+   "type": "text",
+   "text": "Gla gminy: Wiejskiej aussi ee",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "U wagi: 1) Na jednej stronicy należy wpisywać nie więcej jak 2 płatników.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "2) Po dokonaniu wymiaru państwowego podatku gruntowego należy podsumować kolumny, dotyczące kwot podatku.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "3) Kolumnę 5 wypełnia się na podstawie ewidencji gruntów (z kol. 25 wzór Nr 1 lub z kol. 24 wzór Nr 8).",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "4) Kolumn 6—12 nie wypełnia się dla podatkowych jednostek zbiorowych.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "5) Zmiany w wymiarze należy notować w kol. ,Uwagi\".",
+   "quoted": true
+  },
+  {
+   "type": "note",
+   "text": "[Strona 30 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Str: 588 2 z Imię i isk",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "ks) Nazwa jednostki po* mieszkania = E datkowej płatnika lub = Ę (osada, pr majątek siedziba i j Ś « M o a m 1 2 4",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Dziennik Ustaw Nr 32 w y m i e Kwota państwowego podatku",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "( Strona 2). Kwota państwowego podatku gruntowego, podlegająca odpisaniu 2 tytułu ulgi z art, 8 (przy Oddzielny dodatek obliczony w myśl Roczna kwo- racie) art. 7 ta państwoku grunto- opłacana przez śókość uli iść płatnika w obrębie wy encji + ae i puto danej gminy \"Sal ep) poz. rejestru wy-| kwota —_______|miarowego albo % zł gr listy rozkładu zł gr 5 6 7 9 10 11",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "(c. d. str. 2).",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "r z o n",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Kwota dodatku za rok rata |gruntowego (po Kwota dodatku |Razem (kolumna Kwota oddziel- Razem (kol. o. respon! ps samorządowego ty z tytułu ulg d datk 15 + 16 z art. 8—kolum- PĘPKA zł gr zł gr zł gr 17",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Poz. 250 nego dodatku posew Rdr ) Poz. księgi kol. 12 a ziemnego 18 + 19 , , (EB ) dodatku bierczej A",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "zł gr zł gr zł gr",
+   "quoted": true
+  },
+  {
+   "type": "note",
+   "text": "[Strona 31 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Wzór Nr 6 _ do § 29 i 61. URZĄD SKARBOWY (Strona 1),",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Zarząd Gminy meu.eeemeemaaeeenananennea _",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Nr kolejny.....................",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "LISTA",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "rozkładu państwowego podatku gruntowego wyznaczonego na r. 193......... na podatkową jednostkę zbiorową",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "(wieś, osada; majątek) uz EA Poz. wyciągu z rejestru wymiarowego urzędu skarbowego -.-...........---euuue. een aaeanna een",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Łączna kwota wymierzonego ee dodatku samorządowego Raze",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "UW AGI: 1) Od uczestników podatkowych jednostek zbiorowych, którzy od swych gruntów, . położonych w granicach jednej gminy, opłacają państwowego podatku gruntowego:",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "a) nie więcej niż 10 zł rocznie — nie pobiera się I raty, a pobiera się tylko II ratę,",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "b) powyżej 10 zł do 35 zł roczriie — pobiera się 60% I raty i całą II ratę.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "2) Uczestnicy podatkowych jednostek zbiorowych, opłacający od gruntów w po* wiecie powyżej 110 zł rocznie, nie korzystają z ulg z art. 8.",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "3) Uczestnikom podatkowych jednostek zbiorowych, dla których roczny państwowy podatek gruntowy po potrąceniu kwoty ulg z art. 8 wynosi 30 gr i mniej, podatek ten umarza się na podstawie § 92, przy czym nie wypełnia się kolumn 12 — 17 i fakt umorzenia zaznacza się w kol. „Uwagi”.",
+   "quoted": true
+  },
+  {
+   "type": "note",
+   "text": "[Strona 32 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Str. 590 Podatek zg gruntów posiadanych — = w danej podatkowej jednostce zbiorowej",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Nazwisko i imię Odległość w ki- Roczna kwota ź oe płatnika lometrach od Obszar państwowego miasta liczące- gruntów podatku grungo ponad towego 100.000 mieszkańców ha a zł gr",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "4 5",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "N r” |= z g wy > tc. d. str. 2). 4 E Ulgi z art. 8 © 2 A I rata",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Sharh — miękki różnica pomiędzy ; a AGR z kol. morządowych 5 a sumą z kol. 11)"
+  },
+  {
+   "type": "text",
+   "text": "zł. śr"
+  },
+  {
+   "type": "text",
+   "text": "\"Poz. 250"
+  },
+  {
+   "type": "text",
+   "text": "Roczna kwota w innych miejscowościach danej gminy podatku grunto- , wego na rzecz Pozycja listy Roczna kwota Skarbu Państwa Nazwa podat- rozkładu pod. państwowego ze Wadi są „| gruntowego lub podatku grun- śruntów w dakowej jednostki wyciągu z re- towego nej gminie bi z jestru wymia- (kol. 5+ kol. 8) zbiorowej |rowego urzędu skarbowego zł śr 6 1 8"
+  },
+  {
+   "type": "text",
+   "text": "Grunty posiadane w innych naa na rzecz więc Ara powista Uwagi bu Państwa morządowych bada “we 8 Ć"
+  },
+  {
+   "type": "text",
+   "text": "gruntów i gminę) zł gr zł śr"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 33 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "(Strona 1), Wzór Nr 7 do § 30,62 i 76"
+  },
+  {
+   "type": "text",
+   "text": "WYCIĄG z rejestru wymiarowego państwowego podatku gruntowego na rok podatkowy 193..........."
+  },
+  {
+   "type": "text",
+   "text": "UW AGA: 1) Do kolumny 5 wpisuje się sumy z kol. 5 rejestru wymiarowego. i"
   },
   {
    "type": "pkt",
@@ -3612,7 +3610,7 @@
   },
   {
    "type": "text",
-   "text": "= Dziennik Ustaw Nr 32 Str, 594 Wzór Nr 10 do § 38. PROTOKÓŁ A (| oe ae anna —_ 193... r. Dennen _— przybył do maj, — folw, — wsi — na skutek. SSA"
+   "text": "Wzór Nr 10 do § 38. PROTOKÓŁ A (| oe ae anna —_ 193... r. Dennen _— przybył do maj, — folw, — wsi — na skutek. SSA"
   },
   {
    "type": "text",
@@ -3723,7 +3721,7 @@
     },
     {
      "type": "text",
-     "text": "———————————— Dziennik Ustaw Nr 32 Str. 596 URZĄD SKARBOWY (Strona 1). Wzór Nr 12 do § 75.",
+     "text": "URZĄD SKARBOWY (Strona 1). Wzór Nr 12 do § 75.",
      "quoted": true
     },
     {
@@ -3796,7 +3794,7 @@
     },
     {
      "type": "text",
-     "text": "—— - Dziennik Ustaw Nr 32 7 Str. 598"
+     "text": "7 Str. 598"
     },
     {
      "type": "text",
@@ -3982,7 +3980,7 @@
     },
     {
      "type": "text",
-     "text": "————_——_——- Dziennik Ustaw Nr 32 Str. 602 YE (Strona 2). Z |. OP a 00 Hele ;wajewAzij0 : uajAzosJ0p Azoruzezd ZBĄBU. eg oma\" eiup 'EIUeĄZsaIUez 22s(ar] (ema qn] eyrojejd drm oysiazeu) arię a yy O ek a ——————— OP qoAstEZaJeu NEA 481 MOG. Ferrerem zwana eurug (npdzan pbzoayd) \"“—§2IM —*M]O] — “fer :moqunig po jezoaają «są Qe £6T AMOYjEpod yor eu Amojunig 423 — -epod Amomjsued eu oJazorujejd nzeyeu nazzajsa 3N eliuazodI0Op pomoT"
+     "text": "YE (Strona 2). Z |. OP a 00 Hele ;wajewAzij0 : uajAzosJ0p Azoruzezd ZBĄBU. eg oma\" eiup 'EIUeĄZsaIUez 22s(ar] (ema qn] eyrojejd drm oysiazeu) arię a yy O ek a ——————— OP qoAstEZaJeu NEA 481 MOG. Ferrerem zwana eurug (npdzan pbzoayd) \"“—§2IM —*M]O] — “fer :moqunig po jezoaają «są Qe £6T AMOYjEpod yor eu Amojunig 423 — -epod Amomjsued eu oJazorujejd nzeyeu nazzajsa 3N eliuazodI0Op pomoT"
     },
     {
      "type": "text",
@@ -4126,10 +4124,6 @@
     },
     {
      "type": "text",
-     "text": "——————— Dziennik Ustaw Nr 32 Str. 604"
-    },
-    {
-     "type": "text",
      "text": "(Strona 2). (srdpod) (sidpody ee ne oo a a a A A AA WA M MA KZ swuoapewAzijo - uajAzod10p Azorujepd zeyeu \"LEG, U nne erup 'EIUBĄZSOJUWEZ 2OS(ATN R ne re renee rae <n ;0p yodoezaieu (npdzin 93z9a1d) SS eaeremenicnsaesy — §2IM — *Mjoy — ‘leur :moqunag po (zo1aq '84) m IN |-\"T£6T AMOYJEpod Hos eu AMmojunIg Ha} —_ SSS s„epod AMOM]SUEd eu Ogfazorujejd nzuyBu (nąsa[22) \"== IN eruszodiop pomog"
     },
     {
@@ -4175,10 +4169,6 @@
     {
      "type": "note",
      "text": "[Strona 47 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Str. 605 Dziennik Ustaw Nr 32 ————~——-———_————_ Poz. 250"
     },
     {
      "type": "text",
@@ -4243,10 +4233,6 @@
       {
        "type": "note",
        "text": "[Strona 48 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "——————______— Dziennik Ustaw Nr 32 Str. 606"
       },
       {
        "type": "text",

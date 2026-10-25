@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/435",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 30 lipca 1938 r. o tymczasowym wprowadzeniu w życie postanowień piątego protokołu dodatkowego do konwencji handlowej między Rzecząpospolitą Polską a Królestwem Węgier z dnia 26 marca 1925 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/435/text.pdf",
  "body": [
   {
@@ -206,10 +206,6 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "—————_—____——_———-. Dziennik Ustaw Nr 55 Str. 904"
       }
      ]
     },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/532",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 7 października 1938 r. o tymczasowym wprowadzeniu w życie postanowień porozumienia między Polską a Japonią z dnia 19 września 1938 r. o zniżkach celnych na pewne towary japońskie.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/532/text.pdf",
  "body": [
   {
@@ -67,7 +67,7 @@
     },
     {
      "type": "text",
-     "text": "- Dziennik Ustaw Nr '77 Str. 1214"
+     "text": "Nr '77 Str. 1214"
     },
     {
      "type": "ust",
@@ -262,10 +262,6 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 77 Str. 1216"
       },
       {
        "type": "text",

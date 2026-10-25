@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/501",
  "title": "Konwencja o ekstradycji i pomocy prawnej w sprawach karnych między Rzecząpospolitą Polską a Królestwem Węgier, podpisana w Budapeszcie dnia 24 kwietnia 1936 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/501/text.pdf",
  "body": [
   {
@@ -72,10 +72,6 @@
   {
    "type": "note",
    "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "% Dziennik Ustaw Nr 66"
   },
   {
    "type": "ust",
@@ -568,7 +564,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 1287 Dziennik Ustaw Nr 66"
+       "text": "Str. 1287"
       },
       {
        "type": "text",
@@ -920,7 +916,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1290 Dziennik Ustaw Nr 66"
+     "text": "Str. 1290"
     },
     {
      "type": "text",
@@ -1114,7 +1110,7 @@
     },
     {
      "type": "text",
-     "text": "503 — Str. 1292 Dziennik Ustaw Nr 66"
+     "text": "503 — Str. 1292"
     },
     {
      "type": "text",

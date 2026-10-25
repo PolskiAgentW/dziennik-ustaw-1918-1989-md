@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/340",
  "title": "Rozporządzenie Rady Ministrów z dnia 15 maja 1937 r. w sprawie zmiany rozporządzenia Rady Ministrów z dnia 25 czerwca 1932 r. o postępowaniu egzekucyjnym władz skarbowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/340/text.pdf",
  "body": [
   {
@@ -612,10 +612,6 @@
   },
   {
    "type": "text",
-   "text": "Str, 867 Dziennik Ustaw Nr 43 ————————_——————-. Poz. 340"
-  },
-  {
-   "type": "text",
    "text": "Załącznik do § 13 rozp. Rady Min.z dnia UW AGI; 1) Podstawę obliczenia kosztów upom- 25 czerwca 1932r. (Dz, U. R. P. Nr 62, poz. 580) 0, w brzmieniu zmienionym rozp. Rady Min. nienia stanowi ogólna suma poszuz dnia 15 maja 1937 r. (poz. 340). , , SET ‘ A kiwanej należności objęta każdym Tabela kosztów upomnienia. poszczególnym upomnieniem."
   },
   {
@@ -644,7 +640,7 @@
     },
     {
      "type": "text",
-     "text": "————__—_—_———__ Dziennik Ustaw Nr 43 m. Str, 868 OJEJ do § 57 rozp. Rady Min. z dn. 25 czerwca 1932 r. (Dz. U. R. P. Nr 62, poz. 580) w brzmieniu nadanym rozp. Rady Min z dnia 15 maja 1937 r. (poz. 340)."
+     "text": "m. Str, 868 OJEJ do § 57 rozp. Rady Min. z dn. 25 czerwca 1932 r. (Dz. U. R. P. Nr 62, poz. 580) w brzmieniu nadanym rozp. Rady Min z dnia 15 maja 1937 r. (poz. 340)."
     },
     {
      "type": "text",
@@ -790,7 +786,11 @@
    "children": [
     {
      "type": "text",
-     "text": "IV. W! przypadku, gdy ściągnięcie należności wymagać będzie kilkakrotnego dokonania zajęcia lub obok zajęcia ruchomości zajęcia wierzytelności pieniężnych lub innych praw majątkowych — opłatę za zajęcie pobiera się tylko raz od poszukiwanej należności, objętej każdym poszczególnym tytułem wykonawczym. V. Opłatę za rozpisanie licytacji lub zarządzenie sprzedaży z wolnej ręki pobiera się tylko raz."
+     "text": "IV. W! przypadku, gdy ściągnięcie należności wymagać będzie kilkakrotnego dokonania zajęcia lub obok zajęcia ruchomości zajęcia wierzytelności pieniężnych lub innych praw majątkowych — opłatę za zajęcie pobiera się tylko raz od poszukiwanej należności, objętej każdym poszczególnym tytułem wykonawczym."
+    },
+    {
+     "type": "text",
+     "text": "V. Opłatę za rozpisanie licytacji lub zarządzenie sprzedaży z wolnej ręki pobiera się tylko raz."
     }
    ]
   }

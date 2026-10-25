@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/453",
  "title": "Rozporządzenie Ministra Spraw Wojskowych z dnia 8 lipca 1937 r. wydane w porozumieniu z Ministrami: Wyznań Religijnych i Oświecenia Publicznego oraz Spraw Wewnętrznych o zakładach naukowych tudzież egzaminach, których ukończenie lub złożenie uprawnia do skróconej służby wojskowej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/453/text.pdf",
  "body": [
   {
@@ -360,10 +360,6 @@
       },
       {
        "type": "text",
-       "text": "————___—___—___—_ Dziennik Ustaw Nr 57 Str, 1134"
-      },
-      {
-       "type": "text",
        "text": "Nr"
       },
       {
@@ -437,6 +433,10 @@
       {
        "type": "note",
        "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Str. 1135"
       },
       {
        "type": "text",
@@ -656,10 +656,6 @@
       {
        "type": "note",
        "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 57 Str. 1138"
       },
       {
        "type": "text",
@@ -1181,10 +1177,6 @@
       {
        "type": "note",
        "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "——————_———_—————_ Dziennik Ustaw Nr 57 Str, 1146"
       },
       {
        "type": "text",

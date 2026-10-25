@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/175",
  "title": "Konwencja w sprawie jednolitej ustawy o wekslach trasowanych i własnych.",
- "converter": "eli2md 0.6.65",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/175/text.pdf",
  "body": [
   {
@@ -221,11 +221,6 @@
   {
    "type": "note",
    "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Str. 351",
-   "quoted": true
   },
   {
    "type": "text",
@@ -819,11 +814,6 @@
   {
    "type": "note",
    "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Str. 358",
-   "quoted": true
   },
   {
    "type": "text",
@@ -4757,10 +4747,6 @@
     {
      "type": "note",
      "text": "[Strona 46 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "—————-— Dziennik Ustaw Nr 26 Str. 392"
     },
     {
      "type": "text",

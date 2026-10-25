@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/262",
  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 31 marca 1938 r. wydane w porozumieniu z Ministrami Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych w sprawie podziału terytorialnego Rzeczypospolitej Polskiej na okręgi i obwody inspekcji pracy.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/262/text.pdf",
  "body": [
   {
@@ -102,10 +102,6 @@
   },
   {
    "type": "text",
-   "text": "Dziennik Ustaw Nr 29 Str, 478"
-  },
-  {
-   "type": "text",
    "text": "Nr okręgu Siedziba okręgu i obwodu Do okręgu względnie obwodu należy względnie obwodu"
   },
   {
@@ -191,10 +187,6 @@
   {
    "type": "note",
    "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Str. 479 Dziennik Ustaw Nr 29 ——————_-—_-——_——— Poz. 262"
   },
   {
    "type": "text",
@@ -304,11 +296,6 @@
   {
    "type": "text",
    "text": "Okrąg IX Województwo śląskie Obwód 54 m. Katowice Powiat katowicki Obwód 55 m. Chorzów Powiat świętochłowicki Obwód 56 Powiat lubliniecki „ tarnogórski Obwód 57 Powiat pszczyński . „ rybnicki Obwód 58 m. Bielsko Powiat bielski (Śl.) „ Cieszyński",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Dziennik Ustaw Nr 29",
    "quoted": true
   },
   {

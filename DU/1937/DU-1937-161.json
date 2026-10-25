@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/161",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 24 marca 1937 r. wydane w porozumieniu z Ministrem Poczt i Telegrafów w sprawie zmiany rozporządzenia Ministra Sprawiedliwości z dnia 27 czerwca 1926 r., wydanego w porozumieniu z Ministrem Poczt i Telegrafów o sporządzaniu przez urzędy i agencje pocztowe protestów weksli.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.66",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/161/text.pdf",
  "body": [
   {
@@ -1033,10 +1033,6 @@
       {
        "type": "note",
        "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 24 Str. 330"
       }
      ]
     },
@@ -4875,7 +4871,7 @@
        "type": "lit",
        "num": "a",
        "path": "ust_1/lit_a",
-       "text": "obycejne (hrube kose k baleni, ntiSe, kosatiny, kose na pradlo, vrse a: podobne.\\ leci) z neoloupan ych neb oloupan ych prutti atd., nemorene, nebarvene, nepokostovane, nelakovane, tez spojene se dfevem, zelezem nebo obecn ymi kovy • • 120--",
+       "text": "obycejne (hrube kose k baleni, ntiSe, kosatiny, kose na pradlo, vrse a: podobne.\\leci) z neoloupan ych neb oloupan ych prutti atd., nemorene, nebarvene, nepokostovane, nelakovane, tez spojene se dfevem, zelezem nebo obecn ymi kovy • • 120--",
        "children": []
       },
       {
@@ -5014,7 +5010,7 @@
       },
       {
        "type": "text",
-       "text": ".. vlysy, obruby, pHcky a vyplne, hoblovane 50'- • • • 351 ze ex Dyhy, jakoz i desky sklizenych dyh: .' I • ex a) nevykIadane: .. .. .. .."
+       "text": ".. vlysy, obruby, pHcky a vyplne, hoblovane 50'- • • • ze ex 351 Dyhy, jakoz i desky sklizenych dyh: .' I • ex a) nevykIadane: .. .. .. .."
       }
      ]
     },
@@ -10609,7 +10605,7 @@
        "type": "lit",
        "num": "a",
        "path": "ust_1/lit_a",
-       "text": "pres 600 kg •• • • • • • -28;. ..... .. .. .. ., • • • ., .,",
+       "text": "pres 600 kg •• • • • • • -28;...... .. .. .. ., • • • ., .,",
        "children": []
       },
       {
@@ -14148,7 +14144,7 @@
     },
     {
      "type": "text",
-     "text": "Vek t .. h •••• h_ ........................................ _ .................................................................................................................................................................. _h. ...................._ _ _ Age: Age:",
+     "text": "Vek t .. h •••• h_ ........................................ _ .................................................................................................................................................................. _h.....................__ _ Age: Age:",
      "quoted": true
     },
     {
@@ -14163,7 +14159,7 @@
     },
     {
      "type": "text",
-     "text": "Zvhistni znameni: ....................................................... ____ .. _ .................. _. ........... \". .. __. ... ________. _ _ .................. __ ._ _ ... _ ............... _. Signes particuliers: Special mar~:",
+     "text": "Zvhistni znameni: ....................................................... ____ .. _ .................. _............ \". .. __.... ________. _ _ .................. __ ._ _ ... _ ............... _. Signes particuliers: Special mar~:",
      "quoted": true
     },
     {
@@ -14221,12 +14217,12 @@
     },
     {
      "type": "text",
-     "text": "dne. .................. .19 ___ _ ________ .~ _____M •• ___ ••• _M.M.M.M •••• M_ .M. ... _'M.MM.M ..... M ..... M._. ..... M ........................... _._ ... _._._. _ _ ...... _ _ • __ le the",
+     "text": "dne. .................. .19 ___ _ ________ .~ _____M •• ___••• _M.M.M.M •••• M_ .M.... _'M.MM.M .....M ..... M._...... M ........................... _._ ... _._._._ _ ...... _ _ • __ le the",
      "quoted": true
     },
     {
      "type": "text",
-     "text": "• ____. ................................._ . __ ..• ·_·,····. . ··. . __ ·. . ·M. __ .. '··· __ ·· __ _",
+     "text": "• ____.................................._ . __ ..• ·_·,····. . ··. . __ ·. . ·M. __ .. '··· __ ·· __ _",
      "quoted": true
     },
     {
