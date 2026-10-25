@@ -1,7 +1,7 @@
 {
  "eli": "DU/1950/479",
  "title": "Obwieszczenie Ministra Gospodarki Komunalnej z dnia 30 października 1950 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 28 lipca 1948 r. o najmie lokali.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/479/text.pdf",
  "body": [
   {
@@ -35,10 +35,6 @@
   {
    "type": "text",
    "text": "©"
-  },
-  {
-   "type": "text",
-   "text": "Dziennik Ustaw Nr 51"
   },
   {
    "type": "text",
@@ -198,11 +194,6 @@
   {
    "type": "text",
    "text": "c)",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Dziennik Ustaw Nr 51",
    "quoted": true
   },
   {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/489",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 30 lipca 1938 r. wydane w porozumieniu z Ministrami Skarbu, Spraw Zagranicznych i Spraw Wojskowych w sprawie kontroli ruchu osobowego przez granice Państwa.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/489/text.pdf",
  "body": [
   {
@@ -42,10 +42,6 @@
     {
      "type": "text",
      "text": "Str. 1147"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 65"
     },
     {
      "type": "text",
@@ -529,7 +525,11 @@
     },
     {
      "type": "text",
-     "text": "włącznie. pg yin ODA wzw Fees Pieczęć Starostwa: m podpis Starosty"
+     "text": "włącznie. pg yin ODA wzw Fees"
+    },
+    {
+     "type": "text",
+     "text": "Pieczęć Starostwa: m podpis Starosty"
     },
     {
      "type": "note",

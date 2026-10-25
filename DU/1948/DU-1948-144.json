@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/144",
  "title": "Dekret z dnia 14 kwietnia 1948 r. w sprawie dostosowana do warunków powstałych w związku z wojną zasad postępowania scaleniowego, przewidzianego w ustawie z dnia 31 lipca 1923 r. o scalaniu gruntów.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/144/text.pdf",
  "body": [
   {
@@ -151,10 +151,6 @@
       {
        "type": "text",
        "text": "="
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 21"
       }
      ]
     },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/346",
  "title": "Dekret z dnia 8 listopada 1946 r. o postępowaniu spadkowym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/346/text.pdf",
  "body": [
   {
@@ -619,6 +619,10 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 754"
       }
      ]
     }
@@ -2127,7 +2131,21 @@
      "type": "pkt",
      "num": "7",
      "path": "art_133/pkt_7",
-     "text": "podatki i inne daniny publiczne, niewymienione w pkt 4 i 5, a stanowiące dług spadkowy, zaległe za rok ostatni przed licytacją, wraz z dodatkami za zwłokę i kosztami egzekucyjnymi. § 2. Pozostała reszta dołączona będzie do sumy, osiągniętej z innych źródeł. § 3. Sprzedaż, dokonana w postępowaniu likwidacyjnym, ma te same skutki prawne, jakie ma sprzedaż w postępowaniu egzeku» cyjnym.",
+     "text": "podatki i inne daniny publiczne, niewymienione w pkt 4 i 5, a stanowiące dług spadkowy, zaległe za rok ostatni przed licytacją, wraz z dodatkami za zwłokę i kosztami egzekucyjnymi.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "2",
+     "path": "art_133/par_2",
+     "text": "Pozostała reszta dołączona będzie do sumy, osiągniętej z innych źródeł.",
+     "children": []
+    },
+    {
+     "type": "par",
+     "num": "3",
+     "path": "art_133/par_3",
+     "text": "Sprzedaż, dokonana w postępowaniu likwidacyjnym, ma te same skutki prawne, jakie ma sprzedaż w postępowaniu egzeku» cyjnym.",
      "children": []
     },
     {
@@ -2229,10 +2247,6 @@
         {
          "type": "text",
          "text": "\\ ="
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 63"
         },
         {
          "type": "text",
@@ -2587,11 +2601,6 @@
       {
        "type": "text",
        "text": "*",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 63 —",
        "quoted": true
       },
       {

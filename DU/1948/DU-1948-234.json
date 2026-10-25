@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/234",
  "title": "Rozporządzenie Ministra Oświaty z dnia 20 czerwca 1948 r. w sprawie organizacji i programów studiów wstępnych w szkołach wyższych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/234/text.pdf",
  "body": [
   {
@@ -71,10 +71,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 34"
       }
      ]
     },
@@ -219,7 +215,7 @@
     },
     {
      "type": "text",
-     "text": "BOK a Dziennik Ustaw Nr 34"
+     "text": "BOK a"
     },
     {
      "type": "text",

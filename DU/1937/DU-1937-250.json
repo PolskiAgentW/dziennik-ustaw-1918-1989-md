@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/250",
  "title": "Rozporządzenie Ministra Skarbu z dnia 31 marca 1937 r. wydane w porozumieniu z Ministrami: Spraw Wewnętrznych oraz Rolnictwa i Reform Rolnych o wymiarze i poborze państwowego podatku gruntowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/250/text.pdf",
  "body": [
   {
@@ -108,7 +108,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 560 Dziennik Ustaw Nr 32"
+     "text": "Str. 560"
     },
     {
      "type": "text",
@@ -421,7 +421,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 562 Dziennik Ustaw Nr 32"
+       "text": "Str. 562"
       }
      ]
     },
@@ -549,10 +549,6 @@
     {
      "type": "text",
      "text": "Str. 563"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 32"
     },
     {
      "type": "text",
@@ -811,10 +807,6 @@
     {
      "type": "text",
      "text": "Str. 565"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 32"
     },
     {
      "type": "text",
@@ -1927,11 +1919,6 @@
   },
   {
    "type": "text",
-   "text": "Dziennik Ustaw Nr 32",
-   "quoted": true
-  },
-  {
-   "type": "text",
    "text": "(3) Przed rozesłaniem zarządom gmin nakazów płatniczych na państwowy podatek gruntowy dla podatkowych jednostek indywidualnych, o których mowa w § 95, celem doręczenia — urzędy skarbowe zamieszczają na tych nakazach tuszem odmiennego koloru pieczątkę: „należność płatna jest w kasie Zarządu Gminy... , zarządy zaś śmin przed doręczeniem — zamieszczają pozycję księgi bierczej B.",
    "quoted": true
   },
@@ -2358,7 +2345,7 @@
   },
   {
    "type": "text",
-   "text": "Str. 577 Dziennik Ustaw Nr 32",
+   "text": "Str. 577",
    "quoted": true
   },
   {
@@ -2467,7 +2454,12 @@
   },
   {
    "type": "text",
-   "text": "Przykład: Powierzchnia, dotknięta klęską, wynosi 50 ha; państwowy podatek. śruntowy, opłacany z tej powierzchni, wynosi rocznie 4 zł z 1 ha, czyli razem 200 zł; uszkodzone zostały drzewostany sosnowe: 1-roczne, 20, 40, 60 i 80- letnie— na powierzchni po 10 ha każdego drzewostanu; kolej rębu 80-letnia.",
+   "text": "Przykład:",
+   "quoted": true
+  },
+  {
+   "type": "text",
+   "text": "Powierzchnia, dotknięta klęską, wynosi 50 ha; państwowy podatek. śruntowy, opłacany z tej powierzchni, wynosi rocznie 4 zł z 1 ha, czyli razem 200 zł; uszkodzone zostały drzewostany sosnowe: 1-roczne, 20, 40, 60 i 80- letnie— na powierzchni po 10 ha każdego drzewostanu; kolej rębu 80-letnia.",
    "quoted": true
   },
   {

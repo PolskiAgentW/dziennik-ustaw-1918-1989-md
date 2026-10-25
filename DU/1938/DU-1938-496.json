@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/496",
  "title": "Obwieszczenie Ministra Spraw Wojskowych z dnia 6 lipca 1938 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 8 listopada 1927 r. o obowiązku odstępowania zwierząt pociągowych, wozów, pojazdów mechanicznych i rowerów dla celów obrony Państwa.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/496/text.pdf",
  "body": [
   {
@@ -400,10 +400,6 @@
         {
          "type": "text",
          "text": "Str. 1159."
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 66"
         }
        ]
       }
@@ -504,7 +500,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1160 Dziennik Ustaw Nr 66"
+     "text": "Str. 1160"
     }
    ]
   },

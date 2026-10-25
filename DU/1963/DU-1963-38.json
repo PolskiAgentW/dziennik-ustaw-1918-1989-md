@@ -1,7 +1,7 @@
 {
  "eli": "DU/1963/38",
  "title": "Rozporządzenie Ministra Rolnictwa z dnia 27 grudnia 1962 r. w sprawie prowadzenia ksiąg zwierząt zarodowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1963/38/text.pdf",
  "body": [
   {
@@ -1732,11 +1732,6 @@
       {
        "type": "text",
        "text": "* Pła",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 6",
        "quoted": true
       },
       {

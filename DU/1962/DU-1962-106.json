@@ -1,7 +1,7 @@
 {
  "eli": "DU/1962/106",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 kwietnia 1962 r. w sprawie zaliczenia powiatów do okręgów gospodarczych, ustalenia norm przeciętnego przychodu szacunkowego oraz stawek podatku gruntowego dla celów wymiaru podatku gruntowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1962/106/text.pdf",
  "body": [
   {
@@ -350,11 +350,6 @@
     {
      "type": "text",
      "text": "O",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 24 .",
      "quoted": true
     },
     {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1973/260",
  "title": "Rozporządzenie Rady Ministrów z dnia 2 listopada 1973 r. w sprawie zakładowego funduszu socjalnego i zakładowej działalności socjalnej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1973/260/text.pdf",
  "body": [
   {
@@ -174,11 +174,6 @@
         {
          "type": "text",
          "text": "#",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 43",
          "quoted": true
         },
         {

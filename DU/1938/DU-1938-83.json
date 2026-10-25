@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/83",
  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 31 stycznia 1938 r. o zasadach obliczania wysokości składek za ubezpieczenie od wypadków w zatrudnieniu i chorób zawodowych oraz warunkach obniżania lub podwyższania tych składek, wydane w zakresie obniżania lub podwyższania składek w porozumieniu z Ministrem Przemysłu i Handlu oraz co do przedsiębiorstw wojskowych - z Ministrem Spraw Wojskowych, a co do gospodarstw rolnych - z Ministrem Rolnictwa i Reform Rolnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/83/text.pdf",
  "body": [
   {
@@ -101,11 +101,6 @@
       {
        "type": "text",
        "text": "Str. 115",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 12",
        "quoted": true
       },
       {
@@ -841,7 +836,7 @@
       },
       {
        "type": "text",
-       "text": "\"Poz. 83 i 84 Dziennik Ustaw Nr 12 Str. 119",
+       "text": "\"Poz. 83 i 84 Str. 119",
        "quoted": true
       },
       {

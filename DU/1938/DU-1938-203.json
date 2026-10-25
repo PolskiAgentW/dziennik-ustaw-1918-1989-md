@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/203",
  "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 7 marca 1938 r. o maklerach przysięgłych na giełdach towarowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/203/text.pdf",
  "body": [
   {
@@ -118,11 +118,6 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "„Poz. 203 Dziennik Ustaw Nr 23",
-     "quoted": true
     },
     {
      "type": "text",
@@ -528,11 +523,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 23 ————",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "§ 23. (1) Maklerzy przysięgli są uprawnieni wydawać za opłatą, ustaloną przez radę gieldowa,, na żądanie stron, wyciągi lub odpisy z księgi maklerskiej, zaopatrzone podpisem i pieczęcią maklera: przysięgłego, z zaznaczeniem.w księdze maklerskiej daty wydania, oraz mazwiska lub firmy strony, otrzymującej żądany wyciąg albo odpis.",
      "quoted": true
     },
@@ -627,282 +617,314 @@
      "quoted": true
     },
     {
+     "type": "lit",
+     "num": "b",
+     "path": "par_1/lit_b",
+     "text": "udzielanie wyjaśnień komisarzowi giełdowemu i radzie giełdowej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_1/lit_c",
+     "text": "sprawowanie funkcyj, zleconych mu w drodze uchwał rady giełdowej, -",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_1/lit_d",
+     "text": "branie udziału z głosem doradczym w posiedzeniach rady giełdowej oraz w ogólnych zgromadzeniach członków giełdy.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Starszy makler przysięgły może być obecny na posiedzeniu rady. giełdowej przy. rozpatrywaniu spraw dotyczących materialnych interesów maklerów przysięgłych, lecz w głosowaniu nad nimi nie bierze udziału."
+      },
+      {
+       "type": "text",
+       "text": "(3) W razie nieistnienia na giełdzie starszego maklera przysięgłego i jego zastępcy — mo-"
+      },
+      {
+       "type": "note",
+       "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "że spełniać funkcje te w miarę potrzeby jeden z urzędujących na danej giełdzie maklerów przysięgłych, za zgodą rady giełdowej i komisarza giełdowego, nie nabywając jednak przez to uprawnień, przysługujących zatwierdzonemu przez Ministra Przemysłu i Handlu starszemu maklerawi przysięgłemu."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "30",
+   "path": "par_30",
+   "text": "(1) Za zobowiązania powstałe z czynności maklerów przysięgłych giełda nie odpowiada.",
+   "children": [
+    {
      "type": "text",
-     "text": "b) udzielanie wyjaśnień komisarzowi giełdowemu i radzie giełdowej,",
-     "quoted": true
+     "text": "(2) W razie szkody, wyrządzonej działaniem lub zaniedbaniem maklera przysięgłego, strony mogą pociągnąć do odpowiedzialności jedynie maklera przysięgłego osobiście."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "31",
+   "path": "par_31",
+   "text": "(1) Za niestosowanie się do obowiązujących przepisów ustawowych i regulaminowych, jak również do zarządzeń władz giełdy oraz zą wykroczenia, popełnione w związku z wykonywaniem swych czynności maklerskich, makler przysięgły może zostać pociągnięty do odpowiedzialności przed komisją dyscyplinarną dla maklerów przysięgłych.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Kwalifikowanie spraw do rozpatrzenia przez komisję dyscyplinarną należy do rady giełdowej. Rada giełdowa nie może odmówić skierowania do komisji dyscyplinarnej sprawy -wytoczonej maklerowi przysięgłemu przez komisarza giełdowego."
     },
     {
      "type": "text",
-     "text": "c) sprawowanie funkcyj, zleconych mu w drodze uchwał rady giełdowej, -",
-     "quoted": true
+     "text": "9 32, Na wniosek komisarza giełdowego lub jego zastępcy musi być przeciwko maklerowi przysięgłemu wdrożone postępowanie dyscyplinarne w razie:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_31/lit_a",
+     "text": "nieuzasadnionej i nieprzerwanej nieobecności dłuższej niż 2 tygodnie, a łącznie w ciągu roku dłuższej niż 6 tygodni;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_31/lit_b",
+     "text": "wykazanej w ciągu urzędowania i stwierdzonej przez władze giełdy i komisarza giełdowego nieudolności w spełnianiu czynności maklera przysięgłego;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_31/lit_c",
+     "text": "ujawnienia w toku urzędowania nałogów; stanowiących przeszkodę w sprawowaniu czynności osoby publicznego zaufania;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_31/lit_d",
+     "text": "udowodnionej, szkodliwej dla giełdy, jako instytucji gospodarczej, działalności.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "33",
+   "path": "par_33",
+   "text": "(1) Komisja dyscyplinarna dla maklerów przysięgłych składa się z 5 członków, a mianowicie: z prezesa lub jednego z wiceprezesów rady giełdowej, trzech członków rady giełdowej i dyrektora lub zastępcy dyrektora giełdy. Komisarz giełdowy lub jego zastępca * bierze udział w posiedzeniu komisji dyscyplinarnej dla maklerów przysięgłych, lecz nie giosuje nad kwestią winy i kary.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Posiedzeniom komisji dyscyplinarnej dla maklerów przysięgłych przewodniczy prezes rady giełdowej lub jeden z wiceprezesów."
     },
     {
      "type": "text",
-     "text": "d) branie udziału z głosem doradczym w posiedzeniach rady giełdowej oraz w ogólnych zgromadzeniach członków giełdy.",
-     "quoted": true
+     "text": "Str. 360"
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "34",
+   "path": "par_34",
+   "text": "(1) Komisja dyscyplinarna może orzec następujące kary:",
+   "children": [
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "par_34/lit_a",
+     "text": "napomnienia,",
+     "children": []
     },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "par_34/lit_b",
+     "text": "nagany zwykłej lub nagany surowej,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "par_34/lit_c",
+     "text": "zawieszenia w czynnościach do 6 miesięcy,",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "d",
+     "path": "par_34/lit_d",
+     "text": "zwolnienia ze stanowiska.",
+     "children": [
+      {
+       "type": "text",
+       "text": "(2) Orzeczenie komisji dyscyplinarnej, zawierające zwolnienie maklera przysięgłego ze stanowiska, zostaje przez radę giełdową z odpowiednim wnioskiem, za pośrednictwem komisarza giełdowego lub jego zastępcy, złożone Ministrowi Przemysłu i Handlu w celu wydania zarządzenia zwolnienia maklera przysięgłego ze stanowiska."
+      },
+      {
+       "type": "text",
+       "text": "(3) Wykonanie orzeczeń komisji dyseyplinarnej powierza się prezesowi rady giełdowej."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "35",
+   "path": "par_35",
+   "text": "W razie wszczęcia przeciwko maklerowi przysięgłemu postępowania dyscyplinarnego lub dochodzenia o ścigane z urzędu przestępstwa popełnione z chęci zysku lub z innych niskich pobudek, jak również w razie wszczęcia postępowania upadłościowego, makler przysięgły może zostać zawieszony w czynnościach zarządzeniem prezesa rady giełdowej, w porozumieniu z komisarzem giełdowym. Wniosek komisarza giełdowego w tym przedmiocie jest dla prezesa rady giełdowej wiążący.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "36",
+   "path": "par_36",
+   "text": "W razie zajścia lub stwierdzenia powstałych dawniej okoliczności, przewidzianych w §3 lit. b), makler przysięgły zostaje zwolniony ze stanowiska zarządzeniem Ministra Przemysłu i Handlu na wniosek rady giełdowej i w porozumieniu z komisarzem giełdowym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "37",
+   "path": "par_37",
+   "text": "Do czasu otrzymania zarządzenia Ministra Przemysłu i Handlu, zwalniającego maklera przysięgłego ze stanowiska, makler przysięgły pawinien być zawieszony w czynnościach stosownie do § 36.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "38",
+   "path": "par_38",
+   "text": "(1) W przypadku orzeczenia przez komisję dyscyplinarną kary zawieszenia w czynnościach lub kary zwolnienia ze stanowiska (§ 34 ust. (1) lit. c id) — służy skazanemu maklerowi przysięgłemy prawo odwołania się do komisji adwoławczej dla maklerów przysięgłych, w terminie 8-dniowym od dnia otrzymania pisemnego orzeczenia komisji dyscyplinarnej.",
+   "children": [
     {
      "type": "text",
-     "text": "(2) Starszy makler przysięgły może być obecny na posiedzeniu rady. giełdowej przy. rozpatrywaniu spraw dotyczących materialnych interesów maklerów przysięgłych, lecz w głosowaniu nad nimi nie bierze udziału.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(3) W razie nieistnienia na giełdzie starszego maklera przysięgłego i jego zastępcy — mo-",
-     "quoted": true
-    },
-    {
-     "type": "note",
-     "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "że spełniać funkcje te w miarę potrzeby jeden z urzędujących na danej giełdzie maklerów przysięgłych, za zgodą rady giełdowej i komisarza giełdowego, nie nabywając jednak przez to uprawnień, przysługujących zatwierdzonemu przez Ministra Przemysłu i Handlu starszemu maklerawi przysięgłemu.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 30. (1) Za zobowiązania powstałe z czynności maklerów przysięgłych giełda nie odpowiada.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(2) W razie szkody, wyrządzonej działaniem lub zaniedbaniem maklera przysięgłego, strony mogą pociągnąć do odpowiedzialności jedynie maklera przysięgłego osobiście.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 31. (1) Za niestosowanie się do obowiązujących przepisów ustawowych i regulaminowych, jak również do zarządzeń władz giełdy oraz zą wykroczenia, popełnione w związku z wykonywaniem swych czynności maklerskich, makler przysięgły może zostać pociągnięty do odpowiedzialności przed komisją dyscyplinarną dla maklerów przysięgłych.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(2) Kwalifikowanie spraw do rozpatrzenia przez komisję dyscyplinarną należy do rady giełdowej. Rada giełdowa nie może odmówić skierowania do komisji dyscyplinarnej sprawy -wytoczonej maklerowi przysięgłemu przez komisarza giełdowego.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "9 32, Na wniosek komisarza giełdowego lub jego zastępcy musi być przeciwko maklerowi przysięgłemu wdrożone postępowanie dyscyplinarne w razie:",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "a) nieuzasadnionej i nieprzerwanej nieobecności dłuższej niż 2 tygodnie, a łącznie w ciągu roku dłuższej niż 6 tygodni;",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "b) wykazanej w ciągu urzędowania i stwierdzonej przez władze giełdy i komisarza giełdowego nieudolności w spełnianiu czynności maklera przysięgłego;",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "c) ujawnienia w toku urzędowania nałogów; stanowiących przeszkodę w sprawowaniu czynności osoby publicznego zaufania;",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "d) udowodnionej, szkodliwej dla giełdy, jako instytucji gospodarczej, działalności.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 33. (1) Komisja dyscyplinarna dla maklerów przysięgłych składa się z 5 członków, a mianowicie: z prezesa lub jednego z wiceprezesów rady giełdowej, trzech członków rady giełdowej i dyrektora lub zastępcy dyrektora giełdy. Komisarz giełdowy lub jego zastępca * bierze udział w posiedzeniu komisji dyscyplinarnej dla maklerów przysięgłych, lecz nie giosuje nad kwestią winy i kary.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(2) Posiedzeniom komisji dyscyplinarnej dla maklerów przysięgłych przewodniczy prezes rady giełdowej lub jeden z wiceprezesów.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Str. 360",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 34. (1) Komisja dyscyplinarna może orzec następujące kary:",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "a) napomnienia,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "b) nagany zwykłej lub nagany surowej,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "c) zawieszenia w czynnościach do 6 miesięcy,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "d) zwolnienia ze stanowiska.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(2) Orzeczenie komisji dyscyplinarnej, zawierające zwolnienie maklera przysięgłego ze stanowiska, zostaje przez radę giełdową z odpowiednim wnioskiem, za pośrednictwem komisarza giełdowego lub jego zastępcy, złożone Ministrowi Przemysłu i Handlu w celu wydania zarządzenia zwolnienia maklera przysięgłego ze stanowiska.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(3) Wykonanie orzeczeń komisji dyseyplinarnej powierza się prezesowi rady giełdowej.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 35. W razie wszczęcia przeciwko maklerowi przysięgłemu postępowania dyscyplinarnego lub dochodzenia o ścigane z urzędu przestępstwa popełnione z chęci zysku lub z innych niskich pobudek, jak również w razie wszczęcia postępowania upadłościowego, makler przysięgły może zostać zawieszony w czynnościach zarządzeniem prezesa rady giełdowej, w porozumieniu z komisarzem giełdowym. Wniosek komisarza giełdowego w tym przedmiocie jest dla prezesa rady giełdowej wiążący.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 36. W razie zajścia lub stwierdzenia powstałych dawniej okoliczności, przewidzianych w §3 lit. b), makler przysięgły zostaje zwolniony ze stanowiska zarządzeniem Ministra Przemysłu i Handlu na wniosek rady giełdowej i w porozumieniu z komisarzem giełdowym.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 37. Do czasu otrzymania zarządzenia Ministra Przemysłu i Handlu, zwalniającego maklera przysięgłego ze stanowiska, makler przysięgły pawinien być zawieszony w czynnościach stosownie do § 36.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 38. (1) W przypadku orzeczenia przez komisję dyscyplinarną kary zawieszenia w czynnościach lub kary zwolnienia ze stanowiska (§ 34 ust. (1) lit. c id) — służy skazanemu maklerowi przysięgłemy prawo odwołania się do komisji adwoławczej dla maklerów przysięgłych, w terminie 8-dniowym od dnia otrzymania pisemnego orzeczenia komisji dyscyplinarnej.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(2) Da czasu rozstrzyśnięcia sprawy przez komisję odwoławczą skazany powinien być zawieszony w czynnościach.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 39. (1) Komisja odwoławcza dla makierów przysięgłych składa się z 7 członków, a mianowicie: z prezesa lub jednego z wicepręzesów rady giełdowej, przewodniczącego komisji",
-     "quoted": true
-    },
+     "text": "(2) Da czasu rozstrzyśnięcia sprawy przez komisję odwoławczą skazany powinien być zawieszony w czynnościach."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "39",
+   "path": "par_39",
+   "text": "(1) Komisja odwoławcza dla makierów przysięgłych składa się z 7 członków, a mianowicie: z prezesa lub jednego z wicepręzesów rady giełdowej, przewodniczącego komisji",
+   "children": [
     {
      "type": "note",
      "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
     },
     {
      "type": "text",
-     "text": "Str. 361",
-     "quoted": true
+     "text": "Str. 361"
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 23",
-     "quoted": true
+     "text": "odwoławczęj i trzech członków komisji odwoławczej, przewidzianej w § 28 ust. (3) rozporządzenia Prezydenta Rzeczypospolitej o organizacji giełd, starszego maklera przysięgłego lub jego zastępcy bądź jednego z urzędujących maklerów przysięgłych właściwej giełdy, wyznaczonego przez prezesa rady giełdowej w porozumieniu z komisarzem giełdowym oraz dyrektora giełdy lub jego zastępcy."
     },
     {
      "type": "text",
-     "text": "odwoławczęj i trzech członków komisji odwoławczej, przewidzianej w § 28 ust. (3) rozporządzenia Prezydenta Rzeczypospolitej o organizacji giełd, starszego maklera przysięgłego lub jego zastępcy bądź jednego z urzędujących maklerów przysięgłych właściwej giełdy, wyznaczonego przez prezesa rady giełdowej w porozumieniu z komisarzem giełdowym oraz dyrektora giełdy lub jego zastępcy.",
-     "quoted": true
+     "text": "(2) W komplecie sądzącym komisji odwoławczej powinni zasiadać ci członkowie rady giełdowej, którzy nie brali udziału w komplecie komisji dyseyplinarnej dla maklerów przysięśłych, powołanym do rozpatrywania tej samej"
     },
     {
      "type": "text",
-     "text": "(2) W komplecie sądzącym komisji odwoławczej powinni zasiadać ci członkowie rady giełdowej, którzy nie brali udziału w komplecie komisji dyseyplinarnej dla maklerów przysięśłych, powołanym do rozpatrywania tej samej",
-     "quoted": true
+     "text": "sprawy."
     },
     {
      "type": "text",
-     "text": "sprawy.",
-     "quoted": true
+     "text": "(3) Posiedzeniu komisji odwoławczej przewodniczy przewodniczący komisji odwoław-"
     },
     {
      "type": "text",
-     "text": "(3) Posiedzeniu komisji odwoławczej przewodniczy przewodniczący komisji odwoław-",
-     "quoted": true
+     "text": "czej."
     },
     {
      "type": "text",
-     "text": "czej.",
-     "quoted": true
+     "text": "(4) Komisja odwoławcza orzeka kary określone w § 34."
     },
     {
      "type": "text",
-     "text": "(4) Komisja odwoławcza orzeka kary określone w § 34.",
-     "quoted": true
+     "text": "(5) Czasokres kary zawieszenia w czynnościach może być orzeczeniem komisji odwoławczej wliczony w całości lub części do czasokresu zwolnienia, orzeczonego przez komisję dyscyplinarną."
     },
     {
      "type": "text",
-     "text": "(5) Czasokres kary zawieszenia w czynnościach może być orzeczeniem komisji odwoławczej wliczony w całości lub części do czasokresu zwolnienia, orzeczonego przez komisję dyscyplinarną.",
-     "quoted": true
+     "text": "(6) Komisarz giełdowy lub jego zastępca nie bierze udziału w głosowaniu nad kwestią winy i kary."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "40",
+   "path": "par_40",
+   "text": "Szczegółowy tryb postępowania przed komisją dyscyplinarną oraz przed komisją odwoławczą dla maklerów przysięgłych, jak również sposoby pokrywania kosztów działalności tych komisji z funduszów giełd, określa regulamin, uchwalony przez radę giełdową i zatwierdzony przez Ministra Przemysłu i Handlu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "41",
+   "path": "par_41",
+   "text": "(1) Jeżeli makler przysiegiy złoży radzie giełdowej podanie do Ministra Przemysłu i Handlu o zwolnienie go z zajmowanego stanowiska, jak również w razie śmierci maklera przysięgłego. lub zwolnienia go w drodze dyscyplinarnej — rada giełdowa obowiązana jest w drodze publicznego ogłoszenia, dopilnować, uregulowania wszelkich roszczeń, jakie wyniknąć mogły z jego czynności maklerskich.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Ogłoszenie to powinno być wywieszone w miejscu zebrań giełdowych i zamieszczone na koszt giełdy w „Monitorze Polskim* oraz przynajmniej w jednym z miejscowych dzienników polskich, przy czym termin zgłaszania roszczeń do maklera nie może być krótszy niż sześciotygodniowy. Zgłoszenia należy składać do rady giełdowej. Rada giełdowa w porozumieniu z komisarzem giełdowym uzna, które z tych roszczeń wynikły z wykonywania czynneści maklerskich."
     },
     {
      "type": "text",
-     "text": "(6) Komisarz giełdowy lub jego zastępca nie bierze udziału w głosowaniu nad kwestią winy i kary.",
-     "quoted": true
+     "text": "(3) O śmierci lub o zwolnieniu maklera przysięgłego giełda zawiadamia izbę skarbową, w której okręgu znajduje się siedziba giełdy, podając zarazem jego dokładny adres."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "42",
+   "path": "par_42",
+   "text": "(1) Jeżeli makler przysięgły złożył stosownie do § 14 kaucję, to wę wszystkich przypadkach zwolnienia maklera ze stanowiska oraz w razie jego śmierci nalęży zastosować postępowanie ustalone w § 41 ust. (1) i (2). W tych przypadkach kaucja służy do zaspokojenia ‘przede wszystkim roszczeń z tytułu należności giełdy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) W razie zgłoszenia innych jeszcze roszczeń — reszta kaucji, pozostała po zaspokojeniu należności giełdowych, powinna być złożona do depozytu właściwego sądu powszechnego."
     },
     {
      "type": "text",
-     "text": "§ 40. Szczegółowy tryb postępowania przed komisją dyscyplinarną oraz przed komisją odwoławczą dla maklerów przysięgłych, jak również sposoby pokrywania kosztów działalności tych komisji z funduszów giełd, określa regulamin, uchwalony przez radę giełdową i zatwierdzony przez Ministra Przemysłu i Handlu.",
-     "quoted": true
+     "text": "(3) W razie zaspokojenia przez maklera przysięgłego wszystkich zgłoszonych pretensyj w ciągu wyznaczonego przez radę giełdową terminu (§ 41) — rada giełdowa zarządza zwrot kaucji."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "43",
+   "path": "par_43",
+   "text": "Do wniosku o zwolnienie maklera przysięgłeśo, ze stanowiska, przedstawionego „Ministrowi Przemysłu i Handlu, rada giełdowa powinna dołączyć zaświadczenie o złożeniu przez maklera przysięgłego dowodów, że uznane roszczenia zostały przezeń uregulowane. W przeciwnym razie sprawa powinna być skierowana do komisji dyscyplinarnej,",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "44",
+   "path": "par_44",
+   "text": "(1) W przypadkach, wyszczególnionych w rozporządzeniu niniejszym, pisma, doręczane maklerom przysięgłym i zawierające zarządzenia zawieszenia maklerów przysięgłych w ich czynnościach, podpisują: prezes rady giełdowej, komisarz giełdowy, oraz dyrektor giełdy, lub ich zastępcy.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Pismo, zawiadamiające o zarządzeniu Ministra Przemysłu i Handlu, zwalniającym maklera przysięgłego ze stanowiska, podpisują osoby wymienione w ust. (1)."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "45",
+   "path": "par_45",
+   "text": "(1) Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": [
+    {
+     "type": "text",
+     "text": "(2) Równocześnie traci moc obowiązującą rozporządzenie Ministra Przemysłu i Handlu w porozumieniu z Ministrem Skarbu z dnia 15 marca 1927 r. o powoływaniu i zwalnianiu oraz prawach i obowiązkach maklerów przysięgłych na giełdach towarowych (Dz. U. R. p, Nr 32, poz. 292) oraz wszelkie inne w tym przedmiocie dawniejsze przepisy, niezgodne z rozporządzeniem niniejszym."
     },
     {
      "type": "text",
-     "text": "§ 41. (1) Jeżeli makler przysiegiy złoży radzie giełdowej podanie do Ministra Przemysłu i Handlu o zwolnienie go z zajmowanego stanowiska, jak również w razie śmierci maklera przysięgłego. lub zwolnienia go w drodze dyscyplinarnej — rada giełdowa obowiązana jest w drodze publicznego ogłoszenia, dopilnować, uregulowania wszelkich roszczeń, jakie wyniknąć mogły z jego czynności maklerskich.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(2) Ogłoszenie to powinno być wywieszone w miejscu zebrań giełdowych i zamieszczone na koszt giełdy w „Monitorze Polskim* oraz przynajmniej w jednym z miejscowych dzienników polskich, przy czym termin zgłaszania roszczeń do maklera nie może być krótszy niż sześciotygodniowy. Zgłoszenia należy składać do rady giełdowej. Rada giełdowa w porozumieniu z komisarzem giełdowym uzna, które z tych roszczeń wynikły z wykonywania czynneści maklerskich.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(3) O śmierci lub o zwolnieniu maklera przysięgłego giełda zawiadamia izbę skarbową, w której okręgu znajduje się siedziba giełdy, podając zarazem jego dokładny adres.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 42. (1) Jeżeli makler przysięgły złożył stosownie do § 14 kaucję, to wę wszystkich przypadkach zwolnienia maklera ze stanowiska oraz w razie jego śmierci nalęży zastosować postępowanie ustalone w § 41 ust. (1) i (2). W tych przypadkach kaucja służy do zaspokojenia ‘przede wszystkim roszczeń z tytułu należności giełdy.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(2) W razie zgłoszenia innych jeszcze roszczeń — reszta kaucji, pozostała po zaspokojeniu należności giełdowych, powinna być złożona do depozytu właściwego sądu powszechnego.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(3) W razie zaspokojenia przez maklera przysięgłego wszystkich zgłoszonych pretensyj w ciągu wyznaczonego przez radę giełdową terminu (§ 41) — rada giełdowa zarządza zwrot kaucji.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 43. Do wniosku o zwolnienie maklera przysięgłeśo, ze stanowiska, przedstawionego „Ministrowi Przemysłu i Handlu, rada giełdowa powinna dołączyć zaświadczenie o złożeniu przez maklera przysięgłego dowodów, że uznane roszczenia zostały przezeń uregulowane. W przeciwnym razie sprawa powinna być skierowana do komisji dyscyplinarnej,",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 44. (1) W przypadkach, wyszczególnionych w rozporządzeniu niniejszym, pisma, doręczane maklerom przysięgłym i zawierające zarządzenia zawieszenia maklerów przysięgłych w ich czynnościach, podpisują: prezes rady giełdowej, komisarz giełdowy, oraz dyrektor giełdy, lub ich zastępcy.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(2) Pismo, zawiadamiające o zarządzeniu Ministra Przemysłu i Handlu, zwalniającym maklera przysięgłego ze stanowiska, podpisują osoby wymienione w ust. (1).",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "§ 45. (1) Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "(2) Równocześnie traci moc obowiązującą rozporządzenie Ministra Przemysłu i Handlu w porozumieniu z Ministrem Skarbu z dnia 15 marca 1927 r. o powoływaniu i zwalnianiu oraz prawach i obowiązkach maklerów przysięgłych na giełdach towarowych (Dz. U. R. p, Nr 32, poz. 292) oraz wszelkie inne w tym przedmiocie dawniejsze przepisy, niezgodne z rozporządzeniem niniejszym.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Minister Przemysłu i Handlu: Antoni Roman",
-     "quoted": true
+     "text": "Minister Przemysłu i Handlu: Antoni Roman"
     }
    ]
   }

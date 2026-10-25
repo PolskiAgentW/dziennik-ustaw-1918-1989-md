@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/153",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 11 marca 1939 r. o tymczasowym wprowadzeniu w życie postanowień układu handlowego między Rzecząpospolitą Polską a Związkiem Socjalistycznych Republik Rad oraz protokołu dodatkowego do tegoż układu.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/153/text.pdf",
  "body": [
   {
@@ -129,10 +129,6 @@
     {
      "type": "text",
      "text": "i"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 24 —"
     },
     {
      "type": "lit",
@@ -868,10 +864,6 @@
   },
   {
    "type": "text",
-   "text": "/Poz. 153 — Dziennik Ustaw Nr 24"
-  },
-  {
-   "type": "text",
    "text": "PROTOKÓŁ KOŃCOWY."
   },
   {
@@ -1013,8 +1005,13 @@
    "type": "art",
    "num": "3",
    "path": "art_3",
-   "text": "Niniejszy Protokół podlega ratyfikacji i wymiana dokumentów ratyfikacyjnych nastąpi w Warszawie równocześnie z wymianą dokumentów ratyfikacyjnych. wspomnianego Układu Handlowego. Niniejszy Protokół wejdzie w życie piętnastego dnia od daty wymiany dokumentów ratyfikacyjnych i pozostawać będzie w mocy do chwili wejścia w życie Porozumienia wymienionego w Artykule 1 niniejszego Protokołu. Niniejszy Protokół sporządzony został w dwóch oryginalnych egzemplarzach, każdy w języku polskim i rosyjskim, przy czym obydwa teksty są jednakowo miarodajne,",
-   "children": [],
+   "text": "Niniejszy Protokół podlega ratyfikacji i wymiana dokumentów ratyfikacyjnych nastąpi w Warszawie równocześnie z wymianą dokumentów ratyfikacyjnych. wspomnianego Układu Handlowego. Niniejszy Protokół wejdzie w życie piętnastego dnia od daty wymiany dokumentów ratyfikacyjnych i pozostawać będzie w mocy do chwili wejścia w życie Porozumienia wymienionego w Artykule 1 niniejszego Protokołu.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Niniejszy Protokół sporządzony został w dwóch oryginalnych egzemplarzach, każdy w języku polskim i rosyjskim, przy czym obydwa teksty są jednakowo miarodajne,"
+    }
+   ],
    "label": "Artykuł 3"
   },
   {

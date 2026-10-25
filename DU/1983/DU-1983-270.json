@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/270",
  "title": "Rozporządzenie Rady Ministrów z dnia 3 października 1983 r. w sprawie postępowania dyscyplinarnego przeciwko nauczycielom akademickim.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/270/text.pdf",
  "body": [
   {
@@ -833,10 +833,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 60"
-      },
-      {
-       "type": "text",
        "text": "nią prowadzonego przez rzecznika dyscyplinarnego, których nie można uzupełnić na rozprawie, skład orzekający \"wydaje postanowienie o uzupełńieniu przez '* rzecznika «dyscyplinarnego zebranego’materiału, wskazując zarazem zakres i termin jego uzupełnienia. —"
       },
       {
@@ -1069,10 +1065,6 @@
   {
    "type": "note",
    "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": ". Poz. 270° “= 798"
   },
   {
    "type": "text",

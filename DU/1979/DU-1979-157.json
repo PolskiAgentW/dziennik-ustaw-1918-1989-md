@@ -1,7 +1,7 @@
 {
  "eli": "DU/1979/157",
  "title": "Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Królestwa Norwegii o unikaniu podwójnego opodatkowania i zapobieżeniu uchylaniu się od opodatkowania w zakresie podatków od dochodu i majątku, podpisana w Oslo dnia 24 maja 1977 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1979/157/text.pdf",
  "body": [
   {
@@ -63,10 +63,6 @@
   {
    "type": "note",
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "° ‘3 Dziennik Ustaw Nr 27 — 350 —"
   },
   {
    "type": "art",
@@ -391,7 +387,7 @@
         },
         {
          "type": "text",
-         "text": "_ 35l"
+         "text": "—_ 35l"
         },
         {
          "type": "text",
@@ -1647,11 +1643,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 27",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "ną lub władzę lókalną jakiejkolwiek osobie fizycznej z tytułu usług świadczonych na rzecz tego Państwa, jego jednostki terytorialnej lub władzy lokalnej, pe opodatkowane tylko w tym Państwie. b). Jednakże wynagrodzenie takie będzie opodatkowane tylko w tym drugim Umawiającym się Państwie, jeżeli usługi są świadczone w tym Państwie, a;osoba otrzymująca takie wynagrodzenie ma miejsce zamieszkania w tym drugim Umawiającym się Państwie oraz osoba ta: \\",
      "quoted": true
     },
@@ -2079,7 +2070,7 @@
     },
     {
      "type": "text",
-     "text": "7\" Pox. 157 = Dziennik Ustaw Nr 27 —",
+     "text": "7\" Pox. 157 =",
      "quoted": true
     },
     {

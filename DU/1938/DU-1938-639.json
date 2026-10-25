@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/639",
  "title": "Rozporządzenie Rady Ministrów z dnia 25 listopada 1938 r. o ustaleniu okręgów i siedzib dyrekcyj Lasów Państwowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/639/text.pdf",
  "body": [
   {
@@ -23,6 +23,10 @@
   {
    "type": "note",
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "Str. 1422 Poz. 639 = —"
   },
   {
    "type": "par",
@@ -177,10 +181,6 @@
       {
        "type": "text",
        "text": "Str. 1423"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 95"
       }
      ]
     },

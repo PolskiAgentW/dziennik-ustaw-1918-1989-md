@@ -1,7 +1,7 @@
 {
  "eli": "DU/1963/162",
  "title": "Umowa między Polską Rzecząpospolitą Ludową a Federacyjną Ludową Republiką Jugosławii o obrocie prawnym w sprawach cywilnych i karnych, podpisana w Warszawie dnia 6 lutego 1960 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1963/162/text.pdf",
  "body": [
   {
@@ -233,6 +233,11 @@
     {
      "type": "note",
      "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "—",
+     "quoted": true
     },
     {
      "type": "text",
@@ -928,11 +933,6 @@
     {
      "type": "text",
      "text": ": Bey",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 27",
      "quoted": true
     },
     {
@@ -2876,7 +2876,7 @@
     },
     {
      "type": "text",
-     "text": "= 539. 2 Dziennik Ustaw Nr 27",
+     "text": "= 539. 2",
      "quoted": true
     },
     {
@@ -3259,11 +3259,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 27",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "Artykuł 83,",
      "quoted": true
     },
@@ -3548,11 +3543,6 @@
     {
      "type": "text",
      "text": "c= 334 —",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 27",
      "quoted": true
     },
     {

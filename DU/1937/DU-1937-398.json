@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/398",
  "title": "Rozporządzenie Ministrów Skarbu i Sprawiedliwości z dnia 1 lipca 1937 r. - Przepisy wykonawcze do prawa karnego skarbowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/398/text.pdf",
  "body": [
   {
@@ -68,10 +68,6 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 51"
     },
     {
      "type": "lit",
@@ -255,7 +251,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 951 Dziennik Ustaw Nr 51"
+     "text": "Str. 951"
     },
     {
      "type": "text",
@@ -555,10 +551,6 @@
     {
      "type": "text",
      "text": "Str. 953"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 51"
     },
     {
      "type": "text",

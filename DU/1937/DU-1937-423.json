@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/423",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 25 czerwca 1937 r. w sprawie tymczasowego wprowadzenia w życie postanowień traktatu handlowego i nawigacyjnego pomiędzy Rzecząpospolitą Polską a Republiką Francuską, podpisanego wraz z protokołem podpisania w Paryżu dnia 22 maja 1937 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/423/text.pdf",
  "body": [
   {
@@ -182,10 +182,6 @@
   },
   {
    "type": "ocr",
-   "text": "Dziennik Ustaw Nr 54"
-  },
-  {
-   "type": "ocr",
    "text": "ou pourrait accorder A toute autre puissance, en vertu de mesures tarifaires ou de conventions commerciales, tant en ce qui concerne les droits a limportation actuellement établis ou ceux que la France pourrait éventuellement leur substituer, qu'en ce qui concerne les surtaxes ou toutes autres majorations que la France a établies ou pourrait établir. Sans préjudice des dispositions ci-dessus, les produits natyrels ou fabriqués originaires et en provenance du territoire douanier polonais, énumérés A la liste B ci-annexée bénéficieront, a leur importation sur le territoire douanier francais, des droits inscrits a ladite liste, sans que cette inscription constitue une consolidation de ces droits."
   },
   {
@@ -278,7 +274,7 @@
   },
   {
    "type": "ocr",
-   "text": "Dziennik Ustaw Nr 54 Str. 1008 DL NN nn Ź"
+   "text": "Str. 1008 DL NN nn Ź"
   },
   {
    "type": "ocr",
@@ -354,10 +350,6 @@
   },
   {
    "type": "ocr",
-   "text": "Dziennik Ustaw Nr 54"
-  },
-  {
-   "type": "ocr",
    "text": "Pour bénéficier des dispositions ci-dessus, les envois devront étre accompagnés de toutes piéces justificatives établissant que les conditions qui y sont exigées sont remplies."
   },
   {
@@ -395,10 +387,6 @@
   {
    "type": "note",
    "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "\"Poz, 423 Dziennik Ustaw Nr 54"
   },
   {
    "type": "text",
@@ -579,7 +567,7 @@
       },
       {
        "type": "ocr",
-       "text": "Dziennik Ustaw Nr 54 | Str. 1012 nn LL"
+       "text": "| Str. 1012 nn LL"
       },
       {
        "type": "ocr",
@@ -690,7 +678,7 @@
     },
     {
      "type": "ocr",
-     "text": "Dziennik Ustaw Nr 54 Str. 1014 m O"
+     "text": "Str. 1014 m O"
     },
     {
      "type": "ocr",
@@ -1107,7 +1095,7 @@
     },
     {
      "type": "ocr",
-     "text": "Dziennik Ustaw Nr 54 O CZ AAA awa,"
+     "text": "O CZ AAA awa,"
     },
     {
      "type": "ocr",
@@ -1343,10 +1331,6 @@
     },
     {
      "type": "ocr",
-     "text": "Dziennik Ustaw Nr 54"
-    },
-    {
-     "type": "ocr",
      "text": "Str. 1020 — Z O wj"
     },
     {
@@ -1416,10 +1400,6 @@
     {
      "type": "ocr",
      "text": "Przy przywozie. na polskie terytorium celne produkty naturalne lub przetworzone, pochodzące lub przychodzące z kolonii francuskich zwanych asymilowanymi, z wyjątkiem tych produktów, które są podane na liście 1 załączonej przy niniejszym, będą korzystały, o ile są zawarte w liście A, ze zniżek procentowych na liście tej przewidzianych, a bez względu na to, czy zawarte są, czy brak ich na liście A — Z traktowania na stopie kraju najbardziej uprzywilejowanego. , W koloniach zwanych nieasymilowanymi, to jest posiadających specjalny ustrój celny, Oraz w Tunisie, produkty pochodzące i przychodzące z polskiego terytorium celnego, o któ- RA mowa w pierwszym ustępie niniejszego aryauly, będą korzystały z najniższych taryf celpict, jakie są lub mogłyby być tam udzielone 2¢emu innemu mocarstwu w wyniku zarzązeń taryfowych lub umów handlowych. Produkty kolonii zwanych nieasymilowa- \"YM, protektoratów i krajów, znajdujących się"
-    },
-    {
-     "type": "ocr",
-     "text": "Dziennik Ustaw Nr 54"
     },
     {
      "type": "ocr",
@@ -1495,7 +1475,11 @@
     },
     {
      "type": "ocr",
-     "text": "WW: portach kolonii francuskich statki handlowe polskie i gdańskie będą korzystały, stosując się do przepisów porządku publicznego oraz bezpieczeństwa, jak również do miejscowych ustaw i rózporządzeń, z traktowania na stopie kraju najbardziej uprzywilejowanego. Rząd francuski zaleci Rządowi Tunisu rozciągnięcie na porty Tunisu powyższego postanowienia z zastrzeżeniem dla rybołówstwa i kabótażu."
+     "text": "WW: portach kolonii francuskich statki handlowe polskie i gdańskie będą korzystały, stosując się do przepisów porządku publicznego oraz bezpieczeństwa, jak również do miejscowych ustaw i rózporządzeń, z traktowania na stopie kraju najbardziej uprzywilejowanego."
+    },
+    {
+     "type": "ocr",
+     "text": "Rząd francuski zaleci Rządowi Tunisu rozciągnięcie na porty Tunisu powyższego postanowienia z zastrzeżeniem dla rybołówstwa i kabótażu."
     },
     {
      "type": "ocr",
@@ -1516,10 +1500,6 @@
     {
      "type": "ocr",
      "text": "Rząd frańciski zaleci Rządowi Tunisu, aby tén nie czynił niekorzystnego różniczkowania w stosunku do obywateli polskich i gdańskich, €G.dó ich wjazdii Oraz ich pobytu w Tunisie, jak również aby udzielał obywatelom polskim i gdańskim, zarówno gsoboni fiżycznym i spółkomi, które osiedlily się na terytorium Tunisu, korzyści praw, przysługujących wspólnie obywatelom różnych mocarstw, z zastrzeżeniem stosowania się do ustaw porządku publicznego"
-    },
-    {
-     "type": "ocr",
-     "text": "Dziennik Ustaw Nr 54"
     },
     {
      "type": "ocr",
@@ -2017,7 +1997,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1629 Dziennik Ustaw Nr 54",
+     "text": "Str. 1629",
      "quoted": true
     },
     {
@@ -2281,7 +2261,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1032 Dziennik Ustaw Nr 54 rg ną",
+     "text": "Str. 1032 rg ną",
      "quoted": true
     },
     {
@@ -8498,7 +8478,7 @@
             },
             {
              "type": "ocr",
-             "text": "Dziennik Ustaw Nr 54 Str. 1084"
+             "text": "Str. 1084"
             },
             {
              "type": "ocr",
@@ -9217,10 +9197,6 @@
             },
             {
              "type": "ocr",
-             "text": "Dziennik Ustaw Nr 54"
-            },
-            {
-             "type": "ocr",
              "text": "80"
             },
             {
@@ -9469,7 +9445,7 @@
             },
             {
              "type": "text",
-             "text": "Str. 1092 Dziennik Ustaw Nr 54",
+             "text": "Str. 1092",
              "quoted": true
             },
             {
@@ -9628,10 +9604,6 @@
             },
             {
              "type": "ocr",
-             "text": "Dziennik Ustaw Nr 54"
-            },
-            {
-             "type": "ocr",
              "text": "Dw"
             },
             {
@@ -9709,10 +9681,6 @@
             {
              "type": "ocr",
              "text": "LL Rząd polski oświadcza, że nie sprzeciwia się, aby francuskie przedsiębiorstwa zeglugowe, o których mowa w artykule 34, mogły - dokonywać przewozu emigrantów, opuszczających polskie terytorium celne drogą morską, przeładowując ich w portach francuskich lub"
-            },
-            {
-             "type": "ocr",
-             "text": "Dziennik Ustaw Nr 54"
             },
             {
              "type": "ocr",
@@ -9840,7 +9808,12 @@
             },
             {
              "type": "text",
-             "text": "Fait a Paris, en double exemplaire, le 22 Mai 1937. J. Lukasiewicz Yvon Delbos Antoni Roman Paul Bastid",
+             "text": "Fait a Paris, en double exemplaire, le 22 Mai 1937.",
+             "quoted": true
+            },
+            {
+             "type": "text",
+             "text": "J. Lukasiewicz Yvon Delbos Antoni Roman Paul Bastid",
              "quoted": true
             }
            ]

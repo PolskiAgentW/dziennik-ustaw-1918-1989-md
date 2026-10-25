@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/43",
  "title": "Rozporządzenie Rady Ministrów z dnia 7 lutego 1983 r. w sprawie wieku emerytalnego oraz wzrostu emerytur i rent inwalidzkich dla pracowników zatrudnionych w szczególnych warunkach lub w szczególnym charakterze.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/43/text.pdf",
  "body": [
   {
@@ -438,7 +438,7 @@
         },
         {
          "type": "text",
-         "text": "119 = Dziennik Ustaw Nr 8 —"
+         "text": "119 ="
         }
        ]
       },
@@ -1409,11 +1409,6 @@
     {
      "type": "text",
      "text": "~",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 8 — 122 —",
      "quoted": true
     },
     {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1963/204",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 8 sierpnia 1963 r. w sprawie kwalifikacji osób uprawnionych do sporządzania projektów badań geologicznych, dokumentacji geologicznych, sprawowania nadzoru geologicznego i prowadzenia niektórych robót objętych prawem geologicznym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1963/204/text.pdf",
  "body": [
   {
@@ -73,10 +73,6 @@
       {
        "type": "text",
        "text": "PEPE Eo EZ zw Bym YE"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 35"
       },
       {
        "type": "text",
@@ -558,10 +554,6 @@
         {
          "type": "text",
          "text": "aA"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 35"
         }
        ]
       }

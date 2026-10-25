@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/136",
  "title": "Rozporządzenie Ministra Skarbu z dnia 20 marca 1947 r. w sprawie wykonania dekretu o podatku dochodowym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/136/text.pdf",
  "body": [
   {
@@ -145,7 +145,7 @@
     },
     {
      "type": "text",
-     "text": "= Wt = Dziennik Ustaw Nr 31"
+     "text": "= Wt ="
     },
     {
      "type": "text",
@@ -1219,10 +1219,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 31 —"
-    },
-    {
-     "type": "text",
      "text": "Do art. 19 ust. (1) pkt 1) i 2)."
     }
    ]
@@ -1329,7 +1325,11 @@
       },
       {
        "type": "text",
-       "text": "Prenumerata wynosi ‘dla władz, urzędów, instytucyj i zakładów państwowych i samorządowych 1000 zł rocznie, 300 zł kwartalnie, dla innych prenumeratorów 2000 zł rocznie, 600 zł kwartalnie. Prenumeratę należy wpłacać z góry na konto Administracji Dziennika Ustaw R. P. w Warszawie, ul. Rakowiecka 41, P. K. O. Nr I—1999, - Ponadto zgłoszenia na prenumeratę przyjmują Biura Sprzedaży Dziennika Ustaw: w Warszawie, AL Wyzwolenia 30 i w Łodzi, ul. Piotrkowska 89. Reklamacje z powodu niedoręczenia należy zgłaszać we właściwym Urzędzie Pocztowym niezwłocznie po otrzymaniu następnego kolejnego numeru. Reklamacje kierowane bezpośrednio do Administracji pozostaną bez odpowiedzi. Pojedyncze numery są do nabycia w Biurach Sprzedaży i kasach wszystkich Sądów „Okręgowych. —_—— ee ogr Tioczono z polecenia Ministra Sprawiedliwości w Drukarni Min. Sprawiedliwości w Warszawie, Al. Wyzwolenia 30"
+       "text": "Prenumerata wynosi ‘dla władz, urzędów, instytucyj i zakładów państwowych i samorządowych 1000 zł rocznie, 300 zł kwartalnie, dla innych prenumeratorów 2000 zł rocznie, 600 zł kwartalnie. Prenumeratę należy wpłacać z góry na konto Administracji Dziennika Ustaw R. P. w Warszawie, ul. Rakowiecka 41, P. K. O. Nr I—1999, - Ponadto zgłoszenia na prenumeratę przyjmują Biura Sprzedaży Dziennika Ustaw: w Warszawie, AL Wyzwolenia 30 i w Łodzi, ul. Piotrkowska 89. Reklamacje z powodu niedoręczenia należy zgłaszać we właściwym Urzędzie Pocztowym niezwłocznie po otrzymaniu następnego kolejnego numeru. Reklamacje kierowane bezpośrednio do Administracji pozostaną bez odpowiedzi."
+      },
+      {
+       "type": "text",
+       "text": "Pojedyncze numery są do nabycia w Biurach Sprzedaży i kasach wszystkich Sądów „Okręgowych. —_—— ee ogr Tioczono z polecenia Ministra Sprawiedliwości w Drukarni Min. Sprawiedliwości w Warszawie, Al. Wyzwolenia 30"
       },
       {
        "type": "text",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1958/111",
  "title": "Rozporządzenie Rady Ministrów z dnia 6 maja 1958 r. w sprawie zawieszenia prawa do renty oraz zasad wypłacania inwalidzkiej renty wyrównawczej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1958/111/text.pdf",
  "body": [
   {
@@ -138,10 +138,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 26"
       }
      ]
     },
@@ -385,7 +381,7 @@
       },
       {
        "type": "text",
-       "text": "— 399 = Dziennik Ustaw Nr 26 EGZ SIĘ THG GZ RĘCE GE TEE TZ OJ GAGA E WĘG LL a SE"
+       "text": "— 399 = EGZ SIĘ THG GZ RĘCE GE TEE TZ OJ GAGA E WĘG LL a SE"
       },
       {
        "type": "text",

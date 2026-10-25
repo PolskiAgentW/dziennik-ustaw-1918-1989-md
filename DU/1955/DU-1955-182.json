@@ -1,7 +1,7 @@
 {
  "eli": "DU/1955/182",
  "title": "Układ o przyjaźni, współpracy i pomocy wzajemnej między Ludową Republiką Albanii, Ludową Republiką Bułgarii, Węgierską Republiką Ludową, Niemiecką Republiką Demokratyczną, Polską Rzeczpospolitą Ludową, Rumuńską Republiką Ludową, Związkiem Socjalistycznych Republik Radzieckich i Republiką Czechosłowacką, podpisany w Warszawie dnia 14 maja 1955 roku.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1955/182/text.pdf",
  "body": [
   {
@@ -58,7 +58,7 @@
   },
   {
    "type": "text",
-   "text": "«— 302 — Dziennik Ustaw Nr 30"
+   "text": "«— 302 —"
   },
   {
    "type": "text",
@@ -537,11 +537,6 @@
     {
      "type": "note",
      "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 30",
-     "quoted": true
     },
     {
      "type": "text",

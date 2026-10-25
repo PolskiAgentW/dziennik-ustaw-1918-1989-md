@@ -1,7 +1,7 @@
 {
  "eli": "DU/1963/84",
  "title": "Rozporządzenie Rady Ministrów z dnia 16 marca 1963 r. w sprawie postępowania spornego przed Urzędem Patentowym oraz w sprawie utworzenia i organizacji Komisji Odwoławczej przy Urzędzie Patentowym oraz postępowania przed tą Komisją.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1963/84/text.pdf",
  "body": [
   {
@@ -383,10 +383,6 @@
       {
        "type": "text",
        "text": "*"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 16"
       }
      ]
     }

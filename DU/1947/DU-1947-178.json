@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/178",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 20 marca 1947 r. wydane w porozumieniu z Ministrem Skarbu o dodatkach do uposażenia żołnierzy pełniących służbę w warunkach szczególnych i żołnierzy - specjalistów.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/178/text.pdf",
  "body": [
   {
@@ -94,28 +94,36 @@
       },
       {
        "type": "text",
-       "text": "= 568 == . Dziennik Ustaw Nr 37 § 4. Prawo do pobierania dodatku ulega przerwie:"
+       "text": "= 568 == ."
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "4",
+   "path": "par_4",
+   "text": "Prawo do pobierania dodatku ulega przerwie:",
+   "children": [
     {
      "type": "lit",
      "num": "a",
-     "path": "par_3/lit_a",
+     "path": "par_4/lit_a",
      "text": "w przypadku delegacji ponad 1 mię-. siąc,",
      "children": []
     },
     {
      "type": "lit",
      "num": "b",
-     "path": "par_3/lit_b",
+     "path": "par_4/lit_b",
      "text": "w przypadku otrzymania urlopu ponad 1 miesiąc, t",
      "children": []
     },
     {
      "type": "lit",
      "num": "c",
-     "path": "par_3/lit_c",
+     "path": "par_4/lit_c",
      "text": "w przypadku choroby ponad 1 miesiąc. § 5. Prawo do dodatku powstaje z dniem 1-szym następnego miesiąca po objęciu stanowiska i gaśnie z dniem 1-szym następnego miesiąca po utracie stanowiska.",
      "children": [
       {
@@ -538,10 +546,6 @@
     {
      "type": "text",
      "text": "Fy"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 37"
     },
     {
      "type": "text",

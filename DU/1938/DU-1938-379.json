@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/379",
  "title": "Konwencja między Rzecząpospolitą Polską a Republiką Litewską, dotycząca żeglugi i spławu, podpisana w Kownie dnia 14 maja 1938 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/379/text.pdf",
  "body": [
   {
@@ -97,6 +97,10 @@
     {
      "type": "note",
      "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Str. 823 MŚ L|L|_L_L_L|L|L|L vr"
     },
     {
      "type": "text",
@@ -658,11 +662,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 48",
-     "quoted": true
-    },
-    {
-     "type": "text",
      "text": "Artykuł 30. Niniejsza Konwencja zawarta jest na dwa ata. Z wygaśnięciem tego okresu pozostanie ona w mocy tak długo, dopóki jedna z obu Umawiających się Stron nie powiadomi drugiej \"Strony, za sześciomiesięcznym uprzedzeniem, o swym zamiarze uchylenia mocy obowiązującej tej Konwencji,",
      "quoted": true
     },
@@ -886,11 +885,19 @@
     },
     {
      "type": "text",
-     "text": "Do artykułu 1, Regularna żegluga dla przewozów obliczonych na zysk będzie wymagała specjalnego Porozumienia, które będzie zawarte w czasie właściwym."
+     "text": "Do artykułu 1,"
     },
     {
      "type": "text",
-     "text": "Do artykułu 2, Rozumie się, że postanowienia tego artykułu, jeśli chodzi o tranzyt, w którym Polska lub Litwa stanowią kraj przeznaczenia, w niczym nie będą mogły przesądzać, ani też uchybiać stosunkom tranzytowym obu Umawiających się Stron z państwami trzecimi na podstawie ich układów lub porozumień,"
+     "text": "Regularna żegluga dla przewozów obliczonych na zysk będzie wymagała specjalnego Porozumienia, które będzie zawarte w czasie właściwym."
+    },
+    {
+     "type": "text",
+     "text": "Do artykułu 2,"
+    },
+    {
+     "type": "text",
+     "text": "Rozumie się, że postanowienia tego artykułu, jeśli chodzi o tranzyt, w którym Polska lub Litwa stanowią kraj przeznaczenia, w niczym nie będą mogły przesądzać, ani też uchybiać stosunkom tranzytowym obu Umawiających się Stron z państwami trzecimi na podstawie ich układów lub porozumień,"
     },
     {
      "type": "text",
@@ -910,11 +917,19 @@
     },
     {
      "type": "text",
-     "text": "Do artykułów od 12 do 14. ' Drewno pochodzenia litewskiego, spławiane Żejmianą (Zeimena), jej dopływami i Wilią (Neris) do Litwy, będzie na wodach wspólnych uważane za spławiane przez obywateli polskich nawet wówczas, gdyby kierownikiem transportu i jego konwojentem byli obywatele litewscy."
+     "text": "Do artykułów od 12 do 14. '"
     },
     {
      "type": "text",
-     "text": "Do artykułu 16. Kontrola dokumentów żeglarskich lub spławnych, oraz dowodów tożsamości nie może utrudniać żeglugi lub spławu i powinna się ograniczać do bezpośredniej bliskości własnych brzegów, a gdy chodzi o kajaki, łódki i statki turystyczne, ograniczać się nadto powinna do przypadków istotnej konieczności."
+     "text": "Drewno pochodzenia litewskiego, spławiane Żejmianą (Zeimena), jej dopływami i Wilią (Neris) do Litwy, będzie na wodach wspólnych uważane za spławiane przez obywateli polskich nawet wówczas, gdyby kierownikiem transportu i jego konwojentem byli obywatele litewscy."
+    },
+    {
+     "type": "text",
+     "text": "Do artykułu 16."
+    },
+    {
+     "type": "text",
+     "text": "Kontrola dokumentów żeglarskich lub spławnych, oraz dowodów tożsamości nie może utrudniać żeglugi lub spławu i powinna się ograniczać do bezpośredniej bliskości własnych brzegów, a gdy chodzi o kajaki, łódki i statki turystyczne, ograniczać się nadto powinna do przypadków istotnej konieczności."
     },
     {
      "type": "text",
@@ -966,7 +981,11 @@
     },
     {
      "type": "text",
-     "text": "Le bois de provenance lithuanienne, flotté par la Zejmiana (Zeimena) ses affluents et la Wilia (Neris) vers la Lithuanie, sera considéré lors du flottage sur les eaux communes comme étant servi par des ressortissants polonais méme dans le cas ot le chef du transport et son convoyeur seraient ressortissants lithuaniens. ‘Ad article 16."
+     "text": "Le bois de provenance lithuanienne, flotté par la Zejmiana (Zeimena) ses affluents et la Wilia (Neris) vers la Lithuanie, sera considéré lors du flottage sur les eaux communes comme étant servi par des ressortissants polonais méme dans le cas ot le chef du transport et son convoyeur seraient ressortissants lithuaniens."
+    },
+    {
+     "type": "text",
+     "text": "‘Ad article 16."
     },
     {
      "type": "text",
@@ -979,10 +998,6 @@
     {
      "type": "text",
      "text": "Str. 835"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 48"
     },
     {
      "type": "text",

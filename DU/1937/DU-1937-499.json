@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/499",
  "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 28 sierpnia 1937 r. w sprawie przepisów o materiałach kotłowych oraz o budowie kotłów parowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/499/text.pdf",
  "body": [
   {
@@ -626,7 +626,7 @@
         },
         {
          "type": "text",
-         "text": "Str. 1249 Dziennik Ustaw Nr 65"
+         "text": "Str. 1249"
         },
         {
          "type": "text",
@@ -883,7 +883,11 @@
        "children": [
         {
          "type": "text",
-         "text": "dla blach o grubości: 7 do 9,9 mm i dowolnej szerokości i długości — 0,3 mm 10 do 11,9 mm i dowolnej szerokości i długości —0,4 » 12 mm i powyżej oraz dowolnej szerokości i długości —05 ,"
+         "text": "dla blach o grubości:"
+        },
+        {
+         "type": "text",
+         "text": "7 do 9,9 mm i dowolnej szerokości i długości — 0,3 mm 10 do 11,9 mm i dowolnej szerokości i długości —0,4 » 12 mm i powyżej oraz dowolnej szerokości i długości —05 ,"
         },
         {
          "type": "text",
@@ -1552,7 +1556,7 @@
         },
         {
          "type": "text",
-         "text": "Str. 1254 Dziennik Ustaw Nr 65"
+         "text": "Str. 1254"
         }
        ]
       },
@@ -1711,7 +1715,7 @@
         },
         {
          "type": "text",
-         "text": "Str. 1255 Dziennik Ustaw Nr 65"
+         "text": "Str. 1255"
         },
         {
          "type": "text",
@@ -1848,7 +1852,7 @@
         },
         {
          "type": "text",
-         "text": "Str. 1256 Dziennik Ustaw Nr 65"
+         "text": "Str. 1256"
         },
         {
          "type": "text",
@@ -1990,7 +1994,7 @@
         },
         {
          "type": "text",
-         "text": "—_—_——_——- Poz, 499 Dziennik Ustaw Nr 65"
+         "text": "—_—_——_——- Poz, 499"
         }
        ]
       }
@@ -2597,11 +2601,6 @@
         },
         {
          "type": "text",
-         "text": "Dziennik Ustaw Nr 65",
-         "quoted": true
-        },
-        {
-         "type": "text",
          "text": "Rys. 11,",
          "quoted": true
         },
@@ -2711,11 +2710,6 @@
         {
          "type": "text",
          "text": "Str. 1265",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 65",
          "quoted": true
         },
         {
@@ -3296,15 +3290,23 @@
        "type": "ust",
        "num": "6",
        "path": "par_20/ust_6",
-       "text": "Dla rur czworokątnych niefalowanych o jednakowej grubości ścianek momenty zginające oblicza się z następujących wzorów: 3 3 M.=\"/;* = „a. » e a (35)",
+       "text": "Dla rur czworokątnych niefalowanych o jednakowej grubości ścianek momenty zginające oblicza się z następujących wzorów:",
        "children": [
+        {
+         "type": "text",
+         "text": "3 3 M.=\"/;* = „a. » e a (35)"
+        },
         {
          "type": "text",
          "text": "3 3"
         },
         {
          "type": "text",
-         "text": "Ms=m -a— 1 a7—1/,- „ (86) Jeżeli grubość dwóch ścianek - przeciwle- $łych o szerokości 2 m wynosi ,,g,\", a grubość pozostałych ścianek wynosi ,,g\", to momenty zginające oblicza się z wzorów: $ m?+g,9 -n$ . « (37) = ae"
+         "text": "Ms=m -a— 1 a7—1/,- „ (86)"
+        },
+        {
+         "type": "text",
+         "text": "Jeżeli grubość dwóch ścianek - przeciwle- $łych o szerokości 2 m wynosi ,,g,\", a grubość pozostałych ścianek wynosi ,,g\", to momenty zginające oblicza się z wzorów: $ m?+g,9 -n$ . « (37) = ae"
         },
         {
          "type": "text",
@@ -3339,8 +3341,12 @@
        "type": "ust",
        "num": "9",
        "path": "par_20/ust_9",
-       "text": "Aby na wewnętrznej stronie naroża nie powstały niedopuszczalne naprężenia, powinien być spełniony warunek r> ++ ¢>8mm gdzie „g” jest wymiarem grubszej ścianki,",
+       "text": "Aby na wewnętrznej stronie naroża nie powstały niedopuszczalne naprężenia, powinien być spełniony warunek r> ++ ¢>8mm",
        "children": [
+        {
+         "type": "text",
+         "text": "gdzie „g” jest wymiarem grubszej ścianki,"
+        },
         {
          "type": "text",
          "text": "8 (i STE I 8"
@@ -3483,7 +3489,7 @@
         },
         {
          "type": "text",
-         "text": "Str. 1272 Dziennik Ustaw Nr 65"
+         "text": "Str. 1272"
         }
        ]
       }
@@ -3715,10 +3721,6 @@
           {
            "type": "text",
            "text": "Str. 1273"
-          },
-          {
-           "type": "text",
-           "text": "Dziennik Ustaw Nr 65"
           },
           {
            "type": "text",
@@ -3972,7 +3974,7 @@
         },
         {
          "type": "text",
-         "text": "Str. 1275 Dziennik Ustaw Nr 65"
+         "text": "Str. 1275"
         },
         {
          "type": "text",
@@ -4415,10 +4417,6 @@
         {
          "type": "note",
          "text": "[Strona 33 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "— Dziennik Ustaw Nr 65"
         }
        ]
       },

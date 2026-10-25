@@ -1,7 +1,7 @@
 {
  "eli": "DU/1974/18",
  "title": "Konwencja konsularna między Polską Rzecząpospolitą Ludową a Królestwem Belgii, podpisana w Warszawie dnia 11 lutego 1972 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1974/18/text.pdf",
  "body": [
   {
@@ -684,7 +684,7 @@
     },
     {
      "type": "text",
-     "text": "EA» JĄ EA Dziennik Ustaw Nr 3",
+     "text": "EA» JĄ EA",
      "quoted": true
     },
     {
@@ -1550,11 +1550,6 @@
     {
      "type": "note",
      "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 3",
-     "quoted": true
     },
     {
      "type": "text",

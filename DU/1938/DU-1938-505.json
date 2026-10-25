@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/505",
  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 31 sierpnia 1938 r. o ubezpieczeniu brackim w powiatach będzińskim, bielskim, bialskim i chrzanowskim.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/505/text.pdf",
  "body": [
   {
@@ -809,7 +809,7 @@
         },
         {
          "type": "text",
-         "text": "Str. 1184 Dziennik Ustaw Nr 69"
+         "text": "Str. 1184"
         },
         {
          "type": "text",
@@ -1183,10 +1183,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 69"
-      },
-      {
-       "type": "text",
        "text": "(3) Termin płatności wpłaty miesięcznej przypada na dzień 25 każdego miesiąca kalendarzowego."
       },
       {
@@ -1260,10 +1256,6 @@
     {
      "type": "note",
      "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "- Dziennik Ustaw Nr 69"
     },
     {
      "type": "text",

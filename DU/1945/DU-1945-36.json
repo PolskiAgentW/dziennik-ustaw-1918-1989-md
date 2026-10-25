@@ -1,7 +1,7 @@
 {
  "eli": "DU/1945/36",
  "title": "Dekret z dnia 6 lutego 1945 r. o utworzeniu Rad Zakładowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/36/text.pdf",
  "body": [
   {
@@ -374,11 +374,6 @@
     {
      "type": "text",
      "text": "sPoż. 36 i 37",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 8",
      "quoted": true
     },
     {

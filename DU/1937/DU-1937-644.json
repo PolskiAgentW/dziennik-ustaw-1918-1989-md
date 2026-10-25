@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/644",
  "title": "Oświadczenie rządowe z dnia 15 grudnia 1937 r. o zmianach w wykazach A i B do polsko-niemieckiego porozumienia z dnia 17 maja 1934 r. w sprawie dróg celnych i innych przejść granicznych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/644/text.pdf",
  "body": [
   {
@@ -357,10 +357,6 @@
    "children": [
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 89"
-    },
-    {
-     "type": "text",
      "text": "WYKAZ A."
     },
     {
@@ -410,11 +406,6 @@
     {
      "type": "text",
      "text": "Str. 1659",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 89 —",
      "quoted": true
     },
     {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1957/148",
  "title": "Rozporządzenie Rady Ministrów z dnia 23 maja 1957 r. w sprawie bezpieczeństwa i higieny pracy przy stosowaniu promieniowania jonizującego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1957/148/text.pdf",
  "body": [
   {
@@ -196,10 +196,6 @@
         {
          "type": "text",
          "text": "*"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 34"
         }
        ]
       }
@@ -974,7 +970,7 @@
     },
     {
      "type": "text",
-     "text": "Poz.. 148 sa 418 = Dziennik Ustaw Nr 34",
+     "text": "Poz.. 148 sa 418 =",
      "quoted": true
     },
     {

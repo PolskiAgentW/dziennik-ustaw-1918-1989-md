@@ -1,7 +1,7 @@
 {
  "eli": "DU/1975/209",
  "title": "Rozporządzenie Rady Ministrów z dnia 21 listopada 1975 r. w sprawie postępowania arbitrażowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/209/text.pdf",
  "body": [
   {
@@ -1159,11 +1159,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 39 — 4",
-       "quoted": true
-      },
-      {
-       "type": "text",
        "text": "‘Rozdział 14",
        "quoted": true
       },
@@ -1649,6 +1644,11 @@
       {
        "type": "note",
        "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "492 =",
+       "quoted": true
       },
       {
        "type": "text",

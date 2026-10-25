@@ -1,7 +1,7 @@
 {
  "eli": "DU/1982/131",
  "title": "Rozporządzenie Rady Ministrów z dnia 28 maja 1982 r. zmieniające rozporządzenie w sprawie projektów wynalazczych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/131/text.pdf",
  "body": [
   {
@@ -48,7 +48,7 @@
     },
     {
      "type": "text",
-     "text": "e. WM Dziennik Ustaw Nr 18",
+     "text": "e. WM",
      "quoted": true
     },
     {
@@ -433,11 +433,6 @@
     {
      "type": "note",
      "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 18",
-     "quoted": true
     },
     {
      "type": "text",

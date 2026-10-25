@@ -1,7 +1,7 @@
 {
  "eli": "DU/1960/204",
  "title": "Oświadczenie rządowe z dnia 23 czerwca 1960 r. w sprawie przystąpienia szeregu Państw do Konwencji o ruchu drogowym oraz w sprawie przystąpienia i ratyfikacji przez szereg państw Protokołu o znakach i sygnałach drogowych, podpisanych w Genewie dnia 19 września 1949 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1960/204/text.pdf",
  "body": [
   {
@@ -193,11 +193,6 @@
     {
      "type": "text",
      "text": "SS",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 36",
      "quoted": true
     },
     {

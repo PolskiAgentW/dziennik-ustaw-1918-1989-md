@@ -1,7 +1,7 @@
 {
  "eli": "DU/1956/132",
  "title": "Rozporządzenie Przewodniczącego Państwowej Komisji Planowania Gospodarczego z dnia 12 czerwca 1956 r. w sprawie zatwierdzenia norm państwowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1956/132/text.pdf",
  "body": [
   {
@@ -59,10 +59,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 29"
       },
       {
        "type": "text",

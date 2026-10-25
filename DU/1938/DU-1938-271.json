@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/271",
  "title": "Rozporządzenie Ministra Skarbu z dnia 26 kwietnia 1938 r. wydane w porozumieniu z Ministrami Przemysłu i Handlu oraz Rolnictwa i Reform Rolnych o zniżkach celnych i zwolnieniach od cła.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/271/text.pdf",
  "body": [
   {
@@ -216,10 +216,6 @@
       {
        "type": "text",
        "text": "Str. 489"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 30"
       }
      ]
     },
@@ -313,7 +309,7 @@
   },
   {
    "type": "text",
-   "text": "Po. 271 Dziennik Ustaw Nr 30 Str. 490"
+   "text": "Po. 271 Str. 490"
   },
   {
    "type": "text",

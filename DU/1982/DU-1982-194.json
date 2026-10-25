@@ -1,7 +1,7 @@
 {
  "eli": "DU/1982/194",
  "title": "Konwencja Konsularna między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Republiki Iraku, podpisana w Bagdadzie dnia 16 kwietnia 1980 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/194/text.pdf",
  "body": [
   {
@@ -406,7 +406,7 @@
     },
     {
      "type": "text",
-     "text": "492 = Dziennik Ustaw Nr 27 I",
+     "text": "492 = I",
      "quoted": true
     },
     {
@@ -1541,11 +1541,6 @@
     {
      "type": "note",
      "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 27",
-     "quoted": true
     },
     {
      "type": "text",

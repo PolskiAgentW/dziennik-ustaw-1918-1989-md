@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/454",
  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 24 czerwca 1938 r. o określaniu cen aptecznych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/454/text.pdf",
  "body": [
   {
@@ -1030,11 +1030,6 @@
         },
         {
          "type": "text",
-         "text": "Dziennik Ustaw Nr 58",
-         "quoted": true
-        },
-        {
-         "type": "text",
          "text": "50",
          "quoted": true
         },
@@ -1387,7 +1382,7 @@
         },
         {
          "type": "text",
-         "text": "Piperazinum effervescens . • • • • 40 320 Pittylenum . • • . • • • • • • 20. 165 Pix liquida Pi ni • • • • • • • • • 12 \" Lithantracis. • • • • • • • • 5 40 \" solida , , , .. , , . , , , 10 t Placenta animalia . • . . • . . . 8 80 = \" amygdalarum pulvis Farina amygdalarum\" , , , , . , , , 10 75 135 \" seminum Lini pulverata • • • • 5 25 t Plumbum aceticum '. . • . • • • • 5 42 76 t\" \"basicum solutum • • • 5 35 65 \" carbonicum basicum . • • .• • 5 40 75 \" hyperoxydatum rubrum. • • • 5 35 65 t \" jodatum .•••••• 30 235 t \" nitricum purum • • • • • • 5 15 \" oxyda tum • • • • • • • 5 38 70 t 50 Pneumolitinum . • . • • • • • • 5 t 175 Polocainum. . . . . . • • • • 18 t = Podophyllinum Resina Podophy11i • • • 5 27 Potio Magnesii citrici eHervescens • • • • 5 40 \" Riverii , , .. , , , ... \" .. 5 35 t 65 Procainum hydrochloricum. • • • • • 7 Prodermin , , , .. , .. , , , .. 5 25 t Prominal ..\"\"\"\"\"\"\".... 11 110 [ Promonta • • • • . • • • • • 10 80 t 75 Propalgonum • • • • • • • • • 8 Prorgolum , , , , , , , , , .. 5 25 t Protargolum . . • . • • • • • 9 85 t 8 80 Pulmo siccum pulv.. . . • • • • . Pulpa Tamarindi depurata . . . . • • 15 125 Pul vis adspersorius cum Bismuto subgallico. . 20 \" aerophorus l porcja - -20 groszy . \" \" laxans 1 porcja - 28 groszy \"Botkini •. •.• 9 70 \"Dalmaticus .. ' • • • • . 19 150 \" dentifricus albus. . • • • • • 10 , 75 \"digestivus ••••••• 6 50 \" fum ali s , , , , , , , , , 19 150 \" gummosus . •••••• 5 13 \" infantum Hufelandi • . • • • ; 5 40 t 45 \" Ipecacuanhae opiatu s . • . • .• 6 t \" J alapae compositus ..•• 5 22 \" Liquiritiae compositus - Pulvis , Gly<:yrhizae compositus. . . • • • • 10 75 \" Magnesiae cum Rheo . ' . • • • 5 12 \" Pectoralis . . . • • • • • 5 22 \" salicy1icus cum Talco . • • . • 10 75 Pyoctaninum coeruleum. • • • • • . 50 400 t Pyractinum. • • • • . • • • . 6 60 t Pyralginum • • . • • • . • • • 7 70 t Pyramidonum • .•••. 10 100 t \" camphoratum...... 9 90 t \"salicylicum . 9 90 t Pyrazolonum dimethyloaminophenylodimethyli- = cum Amidopyrinum '. 13 100 t \" phenylodimethy1icum - Antipyrinum . .• 8 65 t \" phenylodimethy1icum. salicylicum - Antipyrinum saHcy1icum • 10 80",
+         "text": "Piperazinum effervescens . • • • • 40 320 Pittylenum . • • . • • • • • • 20. 165 Pix liquida Pi ni • • • • • • • • • 12 \" Lithantracis. • • • • • • • • 5 40 \" solida , , , .. , , . , , , 10 t Placenta animalia . • . . • . . . 8 80 = \" amygdalarum pulvis Farina amygdalarum\" , , , , . , , , 10 75 135 \" seminum Lini pulverata • • • • 5 25 t Plumbum aceticum '. . • . • • • • 5 42 76 t\" \"basicum solutum • • • 5 35 65 \" carbonicum basicum . • • .• • 5 40 75 \" hyperoxydatum rubrum. • • • 5 35 65 t \" jodatum .•••••• 30 235 t \" nitricum purum • • • • • • 5 15 \" oxydatum • • • • • • • 5 38 70 t 50 Pneumolitinum . • . • • • • • • 5 t 175 Polocainum. . . . . . • • • • 18 t = Podophyllinum Resina Podophy11i • • • 5 27 Potio Magnesii citrici eHervescens • • • • 5 40 \" Riverii , , .. , , , ... \" .. 5 35 t 65 Procainum hydrochloricum. • • • • • 7 Prodermin , , , .. , .. , , , .. 5 25 t Prominal ..\"\"\"\"\"\"\".... 11 110 [ Promonta • • • • . • • • • • 10 80 t 75 Propalgonum • • • • • • • • • 8 Prorgolum , , , , , , , , , .. 5 25 t Protargolum . . • . • • • • • 9 85 t 8 80 Pulmo siccum pulv.. . . • • • • . Pulpa Tamarindi depurata . . . . • • 15 125 Pul vis adspersorius cum Bismuto subgallico. . 20 \" aerophorus l porcja - -20 groszy . \" \" laxans 1 porcja - 28 groszy \"Botkini •. •.• 9 70 \"Dalmaticus .. ' • • • • . 19 150 \" dentifricus albus. . • • • • • 10 , 75 \"digestivus ••••••• 6 50 \" fum ali s , , , , , , , , , 19 150 \" gummosus . •••••• 5 13 \" infantum Hufelandi • . • • • ; 5 40 t 45 \" Ipecacuanhae opiatu s . • . • .• 6 t \" J alapae compositus ..•• 5 22 \" Liquiritiae compositus - Pulvis , Gly<:yrhizae compositus. . . • • • • 10 75 \" Magnesiae cum Rheo . ' . • • • 5 12 \" Pectoralis . . . • • • • • 5 22 \" salicy1icus cum Talco . • • . • 10 75 Pyoctaninum coeruleum. • • • • • . 50 400 t Pyractinum. • • • • . • • • . 6 60 t Pyralginum • • . • • • . • • • 7 70 t Pyramidonum • .•••. 10 100 t \" camphoratum...... 9 90 t \"salicylicum . 9 90 t Pyrazolonum dimethyloaminophenylodimethyli- = cum Amidopyrinum '. 13 100 t \" phenylodimethy1icum - Antipyrinum . .• 8 65 t \" phenylodimethy1icum. salicylicum - Antipyrinum saHcy1icum • 10 80",
          "quoted": true
         },
         {
@@ -1401,11 +1396,6 @@
         {
          "type": "text",
          "text": "Str. 951",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 58",
          "quoted": true
         },
         {
@@ -1535,11 +1525,6 @@
         {
          "type": "text",
          "text": "Tabulettae Acidi acetylosalicylici A 0,25 + 10 sztuk 30 drozy \" » acetylosalicylici a 0,5 . i» 10 sztuk 35 groszy a 4 — hydrochlorici a 0,25. if 10 sztuk 130 groszy moż = \" hydrochlorici a 0,5 ie 10. sztuk 225 groszy f w% Hydraugyri bichlorati a 0,5 . Ę 10 sztuk 45 groszy =\" 1 sztuka 6 groszy",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 58",
          "quoted": true
         },
         {
@@ -1741,7 +1726,7 @@
         },
         {
          "type": "text",
-         "text": "Poż. 454 Dziennik Ustaw Nr 58 Str. 958",
+         "text": "Poż. 454 Str. 958",
          "quoted": true
         },
         {
@@ -1856,11 +1841,6 @@
         {
          "type": "text",
          "text": "Str. 959",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 58",
          "quoted": true
         },
         {
@@ -2199,10 +2179,6 @@
         },
         {
          "type": "text",
-         "text": "Dziennik Ustaw Nr 58"
-        },
-        {
-         "type": "text",
          "text": "Grosze"
         },
         {
@@ -2508,7 +2484,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 963 Dziennik Ustaw Nr 58"
+     "text": "Str. 963"
     },
     {
      "type": "text",

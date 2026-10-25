@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/382",
  "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 30 czerwca 1938 r. o wprowadzeniu w życie na pewnych obszarach Państwa niektórych przepisów ustawy o nadzorze nad hodowlą bydła, trzody chlewnej i owiec.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/382/text.pdf",
  "body": [
   {
@@ -39,10 +39,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 48"
       },
       {
        "type": "text",

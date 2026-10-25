@@ -1,7 +1,7 @@
 {
  "eli": "DU/1975/139",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 9 lipca 1975 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 25 stycznia 1958 r. o radach narodowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/139/text.pdf",
  "body": [
   {
@@ -1380,10 +1380,6 @@
           {
            "type": "text",
            "text": "\"A"
-          },
-          {
-           "type": "text",
-           "text": "Dziennik Ustaw Nr 26"
           }
          ]
         }
@@ -1903,7 +1899,7 @@
         },
         {
          "type": "text",
-         "text": "= 366 = Dziennik Ustaw Nr 26"
+         "text": "= 366 ="
         }
        ]
       }
@@ -2953,7 +2949,7 @@
           },
           {
            "type": "text",
-           "text": "= m = Dziennik Ustaw Nr 26"
+           "text": "= m ="
           }
          ]
         },
@@ -3241,7 +3237,7 @@
         },
         {
          "type": "text",
-         "text": "— a) Dziennik Ustaw Nr 26"
+         "text": "— a)"
         }
        ]
       },

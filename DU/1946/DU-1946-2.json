@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/2",
  "title": "Rozporządzenie Ministra Kultury i Sztuki z dnia 7 grudnia 1945 r. w sprawie ustroju specjalnego szkolnictwa muzycznego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/2/text.pdf",
  "body": [
   {
@@ -195,10 +195,6 @@
     {
      "type": "text",
      "text": "W:"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 1"
     }
    ]
   },

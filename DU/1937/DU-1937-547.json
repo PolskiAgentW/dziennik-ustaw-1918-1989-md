@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/547",
  "title": "Rozporządzenie Ministrów Komunikacji i Spraw Wojskowych z dnia 8 września 1937 r. wydane w porozumieniu z Ministrem Spraw Wewnętrznych o lotnictwie szybowcowym (szybownictwie).",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/547/text.pdf",
  "body": [
   {
@@ -270,7 +270,7 @@
     },
     {
      "type": "text",
-     "text": "Str, 1375 Dziennik Ustaw Nr 75"
+     "text": "Str, 1375"
     }
    ]
   },
@@ -434,6 +434,10 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Str. 1376 Poz. 547 ———— ———w"
       },
       {
        "type": "text",
@@ -941,10 +945,6 @@
     {
      "type": "text",
      "text": "Str. 1379"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 75"
     }
    ]
   },

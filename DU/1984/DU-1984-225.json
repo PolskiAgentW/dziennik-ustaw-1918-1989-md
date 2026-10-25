@@ -1,7 +1,7 @@
 {
  "eli": "DU/1984/225",
  "title": "Rozporządzenie Rady Ministrów z dnia 3 sierpnia 1984 r. w sprawie szczegółowego zakresu działania Komisji Planowania przy Radzie Ministrów, jej Prezydium oraz Przewodniczącego Komisji Planowania przy Radzie Ministrów.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1984/225/text.pdf",
  "body": [
   {
@@ -171,10 +171,6 @@
         {
          "type": "text",
          "text": "é"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 43"
         }
        ]
       },

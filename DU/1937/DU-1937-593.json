@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/593",
  "title": "Rozporządzenie Ministra Skarbu z dnia 30 listopada 1937 r. wydane w porozumieniu z Ministrem Sprawiedliwości w sprawie zmian w statucie Kieleckiego Towarzystwa Kredytowego Miejskiego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/593/text.pdf",
  "body": [
   {
@@ -339,11 +339,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 82",
-       "quoted": true
-      },
-      {
-       "type": "text",
        "text": "torów wybiera komitet nadzorczy na okres lat 6 większością 2/3 statutowej liczby członków. Jeden z członków dyrekcji musi być wybrany spośród członków Towarzystwa. Co najmniej jeden z dyrektorów obowiązany jest urzędować w Towarzystwie stale. Odwołanie członka dyrekcji przeć upływem terminu, przewidzianego w ustępie pierwszym paragrafu niniejsześo, może uastąpić jedynie na podstawie przepisów § 68 pkt 5.",
        "quoted": true
       },
@@ -427,7 +422,12 @@
       },
       {
        "type": "text",
-       "text": "pisów § 85, wyboru dyrekcji, która niezwłocznie po wyborze obejmie urzędowanie, Komitet nadzorczy w dotychczasowym składzie urzęduje do czasu wyboru nowych członków komitetu przez pierwsze zebranie pełnomocników, dyrekcja — do czasu powołania nowej dyrekcji przez komitet nadzorczy, wybrany na podstawie przepisów § 76. Zwołanie pierwszych zebrań wyborczych i pierwszego zebrania pełnomocników należy do dotychczasowych władz Towarzystwa (komitetu nadzorczego i dyrekcji) pod nadzorem komisarza rządowego Towarzystwa.",
+       "text": "pisów § 85, wyboru dyrekcji, która niezwłocznie po wyborze obejmie urzędowanie,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Komitet nadzorczy w dotychczasowym składzie urzęduje do czasu wyboru nowych członków komitetu przez pierwsze zebranie pełnomocników, dyrekcja — do czasu powołania nowej dyrekcji przez komitet nadzorczy, wybrany na podstawie przepisów § 76. Zwołanie pierwszych zebrań wyborczych i pierwszego zebrania pełnomocników należy do dotychczasowych władz Towarzystwa (komitetu nadzorczego i dyrekcji) pod nadzorem komisarza rządowego Towarzystwa.",
        "quoted": true
       },
       {

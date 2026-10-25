@@ -1,7 +1,7 @@
 {
  "eli": "DU/1949/133",
  "title": "Umowa między Rzecząpospolitą Polską a Republiką Czechosłowacką o wzajemnym obrocie prawnym w sprawach cywilnych i karnych, podpisana w Warszawie dnia 21 stycznia 1949 r. (ratyfikowana zgodnie z ustawą z dnia 1 marca 1949 r.).",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/133/text.pdf",
  "body": [
   {
@@ -2078,10 +2078,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 20"
-      },
-      {
-       "type": "text",
        "text": "=a"
       }
      ]
@@ -2612,7 +2608,7 @@
       },
       {
        "type": "text",
-       "text": "ne wezwana zażąda od Strony wzywającej wyjaśnień dodatkowych. A",
+       "text": "———— ne wezwana zażąda od Strony wzywającej wyjaśnień dodatkowych. A",
        "quoted": true
       },
       {
@@ -3527,7 +3523,12 @@
       },
       {
        "type": "text",
-       "text": "4. Strony zakomunikują sobie wzajemnie podział okręgów sądów powszechnych i wojskowych oraz innych organów wymiaru sprawiedliwości. Na dowód czego pełnomocnicy obu Stron -podpisali niniejszy protokół, który ma równą ważność, jak umowa sama. Sporządzono w Warszawie w dwóch oryginalnych egzemplarzach dnia 21 stycznia 1949 r.",
+       "text": "4. Strony zakomunikują sobie wzajemnie podział okręgów sądów powszechnych i wojskowych oraz innych organów wymiaru sprawiedliwości. Na dowód czego pełnomocnicy obu Stron -podpisali niniejszy protokół, który ma równą ważność, jak umo-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "wa sama. Sporządzono w Warszawie w dwóch oryginalnych egzemplarzach dnia 21 stycznia 1949 r.",
        "quoted": true
       },
       {
@@ -3582,7 +3583,12 @@
       },
       {
        "type": "text",
-       "text": "21. ledna 1949. (—) Dr Alexej Cepitka",
+       "text": "21. ledna 1949.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "(—) Dr Alexej Cepitka",
        "quoted": true
       },
       {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1961/253",
  "title": "Umowa między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Związku Socjalistycznych Republik Radzieckich o stosunkach prawnych na polsko-radzieckiej granicy państwowej oraz współpracy i wzajemnej pomocy w sprawach granicznych podpisana w Moskwie dnia 15 lutego 1961 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1961/253/text.pdf",
  "body": [
   {
@@ -850,10 +850,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 47"
-      },
-      {
-       "type": "text",
        "text": "jącym nastąpić rozpoczęciu prac przy oczyszczaniu przesieki granicznej, nie później niż na 10 dni przed ich rozpoczęciem. Przedstawiciele odpowiednich władz Umawiających się Stron mają prawo być obecnymi przy tych pracach."
       }
      ]
@@ -1001,10 +997,6 @@
       {
        "type": "text",
        "text": "RE RET"
-      },
-      {
-       "type": "text",
-       "text": "—. 580 — : Poz. 253 Dziennik Ustaw Nr 47"
       },
       {
        "type": "text",
@@ -1303,7 +1295,7 @@
       },
       {
        "type": "text",
-       "text": "LE sgh Dziennik Ustaw Nr 47 -"
+       "text": "LE sgh"
       },
       {
        "type": "text",
@@ -1723,7 +1715,7 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 47 = sdb SE"
+       "text": "= sdb SE"
       },
       {
        "type": "text",
@@ -2841,6 +2833,11 @@
       },
       {
        "type": "text",
+       "text": "p o",
+       "quoted": true
+      },
+      {
+       "type": "text",
        "text": "Artykuł 44.",
        "quoted": true
       },
@@ -3298,6 +3295,11 @@
       {
        "type": "note",
        "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 594 =",
+       "quoted": true
       },
       {
        "type": "text",

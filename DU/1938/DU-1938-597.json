@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/597",
  "title": "Dekret Prezydenta Rzeczypospolitej z dnia 18 listopada 1938 r. o stosunku Państwa do Polskiego Autokefalicznego Kościoła Prawosławnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/597/text.pdf",
  "body": [
   {
@@ -234,7 +234,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 1319 Dziennik Ustaw Nr 88"
+       "text": "Str. 1319"
       }
      ]
     },
@@ -495,7 +495,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1321 Dziennik Ustaw Nr 88"
+     "text": "Str. 1321"
     },
     {
      "type": "text",
@@ -750,7 +750,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1323 Dziennik Ustaw Nr 88"
+     "text": "Str. 1323"
     },
     {
      "type": "text",
@@ -1241,10 +1241,6 @@
     {
      "type": "text",
      "text": "Str. 1325"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 88"
     }
    ]
   },

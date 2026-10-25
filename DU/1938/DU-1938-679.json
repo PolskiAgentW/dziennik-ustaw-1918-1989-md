@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/679",
  "title": "Rozporządzenie Rady Ministrów z dnia 10 grudnia 1938 r. o uznaniu Statutu Wewnętrznego Polskiego Autokefalicznego Kościoła Prawosławnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/679/text.pdf",
  "body": [
   {
@@ -406,7 +406,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 1548 Dziennik Ustaw Nr 103",
+       "text": "Str. 1548",
        "quoted": true
       },
       {
@@ -879,7 +879,11 @@
    "children": [
     {
      "type": "text",
-     "text": "§ 35, W skład Komisji wchodzą zatwierdzeni na lat 3 przez Św. Sobór Biskupów:"
+     "text": "§ 35,"
+    },
+    {
+     "type": "text",
+     "text": "W skład Komisji wchodzą zatwierdzeni na lat 3 przez Św. Sobór Biskupów:"
     },
     {
      "type": "lit",
@@ -1276,7 +1280,7 @@
     },
     {
      "type": "text",
-     "text": "\"Str. 1553 Dziennik Ustaw Nr 103"
+     "text": "\"Str. 1553"
     }
    ]
   },
@@ -1971,7 +1975,7 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 103 Str. 1559"
+     "text": "Str. 1559"
     },
     {
      "type": "text",
@@ -2400,13 +2404,20 @@
      "type": "pkt",
      "num": "3",
      "path": "par_1/pkt_3",
-     "text": "zaspokojenia duchowvch i moralnych potrzeb członków Kościoła, 4).pieczy nad jego potrzebami materialnvmil. Sobór Generalny opiera swe uchwały na podstawie Słowa Bożego, doómatów, sw. kanoów i tradycyj Św. Powszechnego Wschodniego ościoła Prawosławnego. 8 2. Sohér Generalnv otwiera, odracza i zamyka Metropolita za zgodą Ministra Wyznań Religiinvch i Oświecenia Publicznego lub z jego inicjatywy. Obrady Soboru są ważne bez względu na liczbę obecnvch członków. mowadniwacyń Soboru jest z urzędu Metropolita, który może powierzać czasowo przewodniczenie zastępcy Metropolity. Językiem urzędowym czynności Soboru jest język polski. Przemówienia, wyjaśnienia, sprostowania itd. mogą być wygłaszane i składane w językach, używanych przez ludność prawosławną w Polsce.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Str. 1562 _ Koszta Soberu pokrywa się z funduszu Soboru Generalnego, znajdującego się pod Zarządem Metropolity,"
-      }
-     ]
+     "text": "zaspokojenia duchowvch i moralnych potrzeb członków Kościoła, 4).pieczy nad jego potrzebami materialnvmil. Sobór Generalny opiera swe uchwały na podstawie Słowa Bożego, doómatów, sw. kanoów i tradycyj Św. Powszechnego Wschodniego ościoła Prawosławnego.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Sohér Generalnv otwiera, odracza i zamyka Metropolita za zgodą Ministra Wyznań Religiinvch i Oświecenia Publicznego lub z jego inicjatywy. Obrady Soboru są ważne bez względu na liczbę obecnvch członków. mowadniwacyń Soboru jest z urzędu Metropolita, który może powierzać czasowo przewodniczenie zastępcy Metropolity. Językiem urzędowym czynności Soboru jest język polski. Przemówienia, wyjaśnienia, sprostowania itd. mogą być wygłaszane i składane w językach, używanych przez ludność prawosławną w Polsce.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Str. 1562 _ Koszta Soberu pokrywa się z funduszu Soboru Generalnego, znajdującego się pod Zarządem Metropolity,"
     }
    ]
   },
@@ -2426,7 +2437,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1563"
+     "text": "- Str. 1563"
     }
    ]
   },
@@ -3139,7 +3150,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1569 » Dziennik Ustaw Nr 103"
+     "text": "Str. 1569 »"
     },
     {
      "type": "text",
@@ -3284,7 +3295,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1570 Dziennik Ustaw Nr 103"
+     "text": "Str. 1570"
     },
     {
      "type": "text",
@@ -4335,11 +4346,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 103",
-       "quoted": true
-      },
-      {
-       "type": "text",
        "text": "c) kronikę parafialną do zapisywania ważniejszych wydarzeń,",
        "quoted": true
       },
@@ -4673,7 +4679,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 1579 Dziennik Ustaw Nr 103",
+       "text": "Str. 1579",
        "quoted": true
       },
       {
@@ -5200,7 +5206,12 @@
       },
       {
        "type": "text",
-       "text": "Str. 1582: i służby kościelnej oddzielnie przez każdą oso» bę. Podział tych gruntów i zabudowań pomiędzy poszczególne osoby dokonywany jest na zasadzie specjalnych przepisów, wydanych przez Św. Sobór Biskupów. Grunty te i zabudowania mośą być wydzierżawione przez poszczególnych użytkowników na termin, nie przekraczający jednego roku.",
+       "text": "Str. 1582:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "i służby kościelnej oddzielnie przez każdą oso» bę. Podział tych gruntów i zabudowań pomiędzy poszczególne osoby dokonywany jest na zasadzie specjalnych przepisów, wydanych przez Św. Sobór Biskupów. Grunty te i zabudowania mośą być wydzierżawione przez poszczególnych użytkowników na termin, nie przekraczający jednego roku.",
        "quoted": true
       },
       {

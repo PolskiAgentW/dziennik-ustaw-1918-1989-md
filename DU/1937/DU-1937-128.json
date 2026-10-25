@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/128",
  "title": "Dekret Prezydenta Rzeczypospolitej z dnia 12 marca 1937 r. o służbie wojskowej oficerów.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/128/text.pdf",
  "body": [
   {
@@ -447,10 +447,6 @@
       {
        "type": "text",
        "text": "Str, 217"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 20"
       },
       {
        "type": "text",
@@ -2238,7 +2234,11 @@
   {
    "type": "heading",
    "label": "CZĘŚĆ IIL",
-   "text": "PRZEPISY SZCZEGÓŁOWE DLA OFICERÓW MARYNARKI WOJENNEJ."
+   "text": "PRZEPISY SZCZEGÓŁOWE DLA OFICERÓW"
+  },
+  {
+   "type": "text",
+   "text": "MARYNARKI WOJENNEJ."
   },
   {
    "type": "heading",
@@ -2275,8 +2275,12 @@
        "type": "pkt",
        "num": "2",
        "path": "art_71/par_1/pkt_2",
-       "text": "korpus morskich oficerów technicznych;",
+       "text": "korpus morskich oficerów technicz-",
        "children": [
+        {
+         "type": "text",
+         "text": "nych;"
+        },
         {
          "type": "lit",
          "num": "b",

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1952/262",
  "title": "Rozporządzenie Ministra Spraw Zagranicznych z dnia 2 września 1952 r. o opłatach konsularnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1952/262/text.pdf",
  "body": [
   {
@@ -76,10 +76,6 @@
       {
        "type": "text",
        "text": "LJ"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 38 —"
       }
      ]
     },
@@ -805,7 +801,7 @@
       },
       {
        "type": "text",
-       "text": "m £54 = Dziennik Ustaw Nr 38 $$$ )"
+       "text": "m £54 = $$$ )"
       },
       {
        "type": "text",

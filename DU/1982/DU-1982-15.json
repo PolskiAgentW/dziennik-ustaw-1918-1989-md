@@ -1,7 +1,7 @@
 {
  "eli": "DU/1982/15",
  "title": "Rozporządzenie Rady Ministrów z dnia 8 stycznia 1982 r. w sprawie skróconego czasu pracy oraz dodatkowych płatnych urlopów dla pracowników zatrudnionych w niektórych zakładach pracy podległych Ministrowi Hutnictwa i Przemysłu Maszynowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/15/text.pdf",
  "body": [
   {
@@ -235,10 +235,6 @@
     {
      "type": "text",
      "text": "Z"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 2"
     },
     {
      "type": "text",

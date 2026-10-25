@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/609",
  "title": "Dekret Prezydenta Rzeczypospolitej z dnia 21 listopada 1938 r. o usprawnieniu postępowania sądowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/609/text.pdf",
  "body": [
   {
@@ -524,7 +524,7 @@
         },
         {
          "type": "text",
-         "text": "Str. 1345 Dziennik Ustaw Nr 89",
+         "text": "Str. 1345",
          "quoted": true
         },
         {
@@ -875,10 +875,6 @@
         },
         {
          "type": "text",
-         "text": "Dziennik Ustaw Nr 89"
-        },
-        {
-         "type": "text",
          "text": "„Wniesienie środka odwoławczego od odmowy lub cofnięcia prawa ubogich nie wstrzymuje postępowania w sprawie. ' ; 8) Ast 125 otrzymuje następujące brzmienie: „Art. 125. Nie ma środka odwoławczego od postanowienia, którym sąd prawo ubogich przyznał, odmówił jego cofnięcia lub nałożenia dodatkowej zapłaty oraz od postanowienia sądu drugiej instancji, odmawiającego lub cołającego prawo ubogich. Zażalenie służy jednak na postanowienie sądu drugiej instancji, odmawiające lub cofające prawo ubogich dla instancji kasacyjnej, '",
          "quoted": true
         },
@@ -1021,10 +1017,6 @@
         {
          "type": "text",
          "text": "W"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 89"
         },
         {
          "type": "text",
@@ -1322,11 +1314,6 @@
         {
          "type": "note",
          "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Str. 1350 Dziennik Ustaw Nr 89",
-         "quoted": true
         },
         {
          "type": "text",

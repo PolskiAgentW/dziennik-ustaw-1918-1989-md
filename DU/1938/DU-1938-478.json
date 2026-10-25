@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/478",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 5 sierpnia 1938 r. o tymczasowym wprowadzeniu w życie niektórych postanowień umowy gospodarczej z dnia 1 lipca 1938 r. między Rzecząpospolitą Polską a Rzeszą Niemiecką wraz z protokołem końcowym, protokołem posiedzenia, układem w sprawie płatności za obroty towarowe (rozrachunkowym) oraz protokołem końcowym do umowy gospodarczej i układu rozrachunkowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/478/text.pdf",
  "body": [
   {
@@ -127,10 +127,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 62"
-    },
-    {
-     "type": "text",
      "text": "Załącznik A. Wytwory polskiego obszaru celnego wymienione w załączniku A nie będą podlegały, przy ich przywozie do obszaru celnego Niemiec, wvzszym cłom od tych, które ustalone są w tym załączniku."
     },
     {
@@ -220,7 +216,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 1024 Dziennik Ustaw Nr 62"
+     "text": "Str. 1024"
     },
     {
      "type": "text",
@@ -387,7 +383,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 1026. Dziennik Ustaw Nr 62"
+       "text": "Str. 1026."
       },
       {
        "type": "text",
@@ -651,7 +647,17 @@
     },
     {
      "type": "text",
-     "text": "Wirtschaftsvertrag zwischen der Republik „Polen und dem Deutschen Reich vom 4, November 1935. Vereinbarung vom 18. Juli 1936 iiber die Erganzung des Wirtschaftsvertrages und des Verrechnungsabkommens zwischen der Republik Polen und dem Deutschen Reich vom 4. November 1935. Vertrag vom 20. Februar 1937 iiber die Verlangerung des Wirtschaftsvertrages zwischen der Republik Polen und dem Deutschen Reich. Zusatzvereinbarung vom 29, November 1937 zu dem am 20. Februar 1937 in Warschau unterzeichneten Vertrage iiber die Verlangerung des Wirtschaftsvertrages zwischen der Republik Polen und dem Deutschen Reich vom 4. November 1935. Handelsvertrag zwischen Polen und Osterréich vom 11, Oktober 1933. Zusatzabkommen vom 29. Juli 1936 zum Handelsvertrag zwischen Polen und Osterreich vom 11. Oktober 1933. Dieser Vertrag ist in doppelter Urschrift in polnischer und in deutscher Sprache ausgefértigt. Zu Urkund dessen haben die Bevollmachtigten den Vertrag unterzeichnet und hierunter ihre Siegel gesetzt, Berlin, den 1. Juli 1938. Józeł Lipski - Freiherr von Weizsdcker - Karl Schnurre T. Geppert",
+     "text": "Wirtschaftsvertrag zwischen der Republik „Polen und dem Deutschen Reich vom 4, November 1935. Vereinbarung vom 18. Juli 1936 iiber die Erganzung des Wirtschaftsvertrages und des Verrechnungsabkommens zwischen der Republik Polen und dem Deutschen Reich vom 4. November 1935. Vertrag vom 20. Februar 1937 iiber die Verlangerung des Wirtschaftsvertrages zwischen der Republik Polen und dem Deutschen Reich. Zusatzvereinbarung vom 29, November 1937 zu dem am 20. Februar 1937 in Warschau unterzeichneten Vertrage iiber die Verlangerung des Wirtschaftsvertrages zwischen der Republik Polen und dem Deutschen Reich vom 4. November 1935. Handelsvertrag zwischen Polen und Osterréich vom 11, Oktober 1933. Zusatzabkommen vom 29. Juli 1936 zum Handelsvertrag zwischen Polen und Osterreich vom 11. Oktober 1933. Dieser Vertrag ist in doppelter Urschrift in polnischer und in deutscher Sprache ausgefértigt. Zu Urkund dessen haben die Bevollmachtigten den Vertrag unterzeichnet und hierunter ihre Siegel gesetzt,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Berlin, den 1. Juli 1938.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Józeł Lipski - Freiherr von Weizsdcker - Karl Schnurre T. Geppert",
      "quoted": true
     },
     {
@@ -1170,7 +1176,11 @@
           },
           {
            "type": "text",
-           "text": "\"1300 a a a a a P * 400 W. 6 A © 8 + Obuwie ze skóry chromowej, którego para waży: 554"
+           "text": "\"1300 a a a a a P"
+          },
+          {
+           "type": "text",
+           "text": "* 400 W. 6 A © 8 + Obuwie ze skóry chromowej, którego para waży: 554"
           }
          ]
         }
@@ -1744,7 +1754,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 1039 Dziennik Ustaw Nr 62 CE — —— — —— —— ee"
+       "text": "Str. 1039 CE — —— — —— —— ee"
       },
       {
        "type": "text",
@@ -2474,6 +2484,10 @@
         {
          "type": "note",
          "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "Str. 1044 = - Poz. 478-"
         },
         {
          "type": "text",
@@ -3740,7 +3754,7 @@
         },
         {
          "type": "text",
-         "text": "Str. 1055 Poz. 478. Dziennik Ustaw Nr 62"
+         "text": "Str. 1055 Poz. 478."
         },
         {
          "type": "text",
@@ -3970,10 +3984,6 @@
       {
        "type": "text",
        "text": "'Poż. 478"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 62"
       },
       {
        "type": "text",
@@ -4644,10 +4654,6 @@
       {
        "type": "text",
        "text": "‘Str. 1063"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 62"
       },
       {
        "type": "text",
@@ -6382,7 +6388,11 @@
       },
       {
        "type": "text",
-       "text": "Do artykułu 13. Oba Rządy zastrzegają sobie jeszcze zawarcie bliższych porozumień celem wykonania tych postanowień."
+       "text": "Do artykułu 13."
+      },
+      {
+       "type": "text",
+       "text": "Oba Rządy zastrzegają sobie jeszcze zawarcie bliższych porozumień celem wykonania tych postanowień."
       },
       {
        "type": "text",
@@ -6644,8 +6654,12 @@
      "type": "ust",
      "num": "8",
      "path": "art_21/ust_8",
-     "text": "Zu Nr 1100. Elektromotoren fiir . Elektrotiefpumpen, welche getrennt eingefiihrt werden, werden nach der Tarifnummer 1099 behandelt werden.",
+     "text": "Zu Nr 1100.",
      "children": [
+      {
+       "type": "text",
+       "text": "Elektromotoren fiir . Elektrotiefpumpen, welche getrennt eingefiihrt werden, werden nach der Tarifnummer 1099 behandelt werden."
+      },
       {
        "type": "text",
        "text": "9, Zu Nr 1197 P. 1b."
@@ -7031,7 +7045,11 @@
      "children": [
       {
        "type": "text",
-       "text": "Artikel 3. Der beiderseitige Transitverkehr fallt nicht unter die Bestimmungen dieses Abkommens,"
+       "text": "Artikel 3."
+      },
+      {
+       "type": "text",
+       "text": "Der beiderseitige Transitverkehr fallt nicht unter die Bestimmungen dieses Abkommens,"
       },
       {
        "type": "text",
@@ -7039,7 +7057,11 @@
       },
       {
        "type": "text",
-       "text": "Artikel 5. Warenverkehr im Sinne dieses Abkommens ist:"
+       "text": "Artikel 5."
+      },
+      {
+       "type": "text",
+       "text": "Warenverkehr im Sinne dieses Abkommens ist:"
       },
       {
        "type": "lit",
@@ -7281,10 +7303,6 @@
     {
      "type": "text",
      "text": "Str. 1099"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 62"
     },
     {
      "type": "text",

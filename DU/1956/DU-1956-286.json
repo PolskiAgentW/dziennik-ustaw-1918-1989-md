@@ -1,7 +1,7 @@
 {
  "eli": "DU/1956/286",
  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 7 grudnia 1956 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 14 sierpnia 1954 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1956/286/text.pdf",
  "body": [
   {
@@ -335,7 +335,7 @@
         },
         {
          "type": "text",
-         "text": "ooo Dziennik Ustaw Nr 59"
+         "text": "ooo"
         },
         {
          "type": "text",
@@ -1087,10 +1087,6 @@
         {
          "type": "text",
          "text": "~~ L__-"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 59"
         },
         {
          "type": "text",

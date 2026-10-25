@@ -83,7 +83,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 16:00 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 18:30 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -160,7 +160,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 28619, razem 73220 z 78
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 233.
 
 Rodzaje aktów: Rozporządzenie 21103, Oświadczenie rządowe 4227, Dekret 1294, Obwieszczenie 720, Konwencja 465, Umowa międzynarodowa 280, Protokół 124, Układ 113, Zarządzenie 112, Uchwała 90, Porozumienie 83, Traktat 49, Oświadczenie 18, Przepisy wykonawcze 10, Statut 8, Przepisy 7, Ustawa 6, Postanowienie 5, Deklaracja 5, Orędzie 3, Reskrypt 2, Sprostowanie 1, Instrukcja 1, Regulamin 1, Rezolucja 1.
-Wersje konwertera: eli2md 0.6.49 (28727), eli2md 0.6.62 (1).
+Wersje konwertera: eli2md 0.6.49 (28414), eli2md 0.6.65 (313), eli2md 0.6.62 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -213,6 +213,20 @@ eli2md 0.6.62, 1 akt (opis w README eli2md, wpis 0.6.62): nagłówek strony nume
 pierwszą linią strony. W tym zbiorze był w jednym akcie: DU/1968/337 („Dziennik Ustaw Nr 46 — 528 — Poz. 337” w środku
 akapitu). Po przeliczeniu go nie ma, a wyraz przeniesiony przez granicę stron jest złączony („lud-” / „ności” →
 „ludności”). Reszta tekstu ma te same znaki.
+
+Tego samego dnia eli2md 0.6.65, 313 aktów (opis w README eli2md, wpis 0.6.65): na stronach czytanych przez OCR
+nagłówek numeru odczytany bez numeru strony i pozycji („Dziennik Ustaw Nr 34”) i linia drukarni z górnego pasa strony
+nie trafiają już do tekstu. Przeliczyłem ponownie (z eli2md 0.6.49) 336 aktów, w których taki nagłówek był osobnym
+akapitem na górze strony z OCR. Nowy plik zostaje tylko wtedy, gdy nagłówków (pełnych i uciętych) i notek jest mniej,
+a reszta tekstu (bez nich, białych znaków i ogonków) różni się od poprzedniej najwyżej o 0,5% znaków. Tak jest w 313
+aktach (w 247 z nich reszta tekstu ma te same znaki). Uciętych nagłówków było w nich 1024, zostały 382: 251 w 64 aktach
+z lat 1937–1939, w których nagłówek ma inny układ („Dziennik Ustaw Nr 16 Str. 194”, „Str. 195 Dziennik Ustaw Nr 16 …
+Poz. 105”), pozostałe 131 zwykle z szumem OCR obok („— Dziennik Ustaw Nr 26”), w 16 miejscach jako osobny akapit
+(np. DU/1937/267 s. 5: nagłówek leży tuż pod górnym pasem strony, w którym jest szukany). Bez zmian zostały
+23 akty: w 22 nowy plik ma tyle samo nagłówków (OCR odczytuje je z szumem albo z błędem, np. „Dziennik Ustąw”):
+DU/1937/23, 76, 83, 99, 323, 328, 363, 365, DU/1945/23, DU/1947/320, DU/1949/6, 434, DU/1951/10, DU/1952/50,
+DU/1958/257, DU/1962/132, DU/1968/153, DU/1969/22, DU/1970/129, DU/1987/45, DU/1989/52, 208; w DU/1952/82 reszta tekstu
+różniła się o 1,2%.
 
 ## Licencja
 

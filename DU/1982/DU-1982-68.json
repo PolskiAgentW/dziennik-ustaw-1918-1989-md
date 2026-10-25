@@ -1,7 +1,7 @@
 {
  "eli": "DU/1982/68",
  "title": "Rozporządzenie Ministra Finansów z dnia 22 lutego 1982 r. w sprawie szczególnego nadzoru podatkowego oraz zasad i trybu wykonywania tego nadzoru.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/68/text.pdf",
  "body": [
   {
@@ -310,7 +310,7 @@
       },
       {
        "type": "text",
-       "text": "\"AAA Bo wa. _.Roz.:68"
+       "text": "— 187 — \"AAA Bo wa. _.Roz.:68"
       },
       {
        "type": "text",
@@ -1432,10 +1432,6 @@
       {
        "type": "text",
        "text": "EJ"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 9"
       }
      ]
     },

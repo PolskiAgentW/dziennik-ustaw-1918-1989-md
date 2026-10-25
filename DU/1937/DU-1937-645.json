@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/645",
  "title": "Rozporządzenie Prezydenta Rzeczypospolitej z dnia 29 grudnia 1937 r. w sprawie tymczasowego wprowadzenia w życie postanowień porozumienia celnego z dnia 15 grudnia 1937 r. między Rzecząpospolitą Polską a Związkiem Socjalistycznych Republik Rad.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/645/text.pdf",
  "body": [
   {
@@ -348,7 +348,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 1664 Dziennik Ustaw Nr 90",
+       "text": "Str. 1664",
        "quoted": true
       },
       {
@@ -468,11 +468,6 @@
       {
        "type": "text",
        "text": "Str. 1665",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 90",
        "quoted": true
       },
       {

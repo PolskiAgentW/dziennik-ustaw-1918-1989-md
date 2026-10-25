@@ -1,7 +1,7 @@
 {
  "eli": "DU/1950/251",
  "title": "Rozporządzenie Rady Ministrów z dnia 3 lipca 1950 r. w sprawie zaliczenia poszczególnych powiatów do jednego z okręgów gospodarczych oraz ustalenia norm przeciętnego przychodu szacunkowego hektara gruntów dla celów wymiaru podatku gruntowego na rok 1950.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/251/text.pdf",
  "body": [
   {
@@ -495,11 +495,6 @@
       {
        "type": "text",
        "text": "‘",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 27",
        "quoted": true
       },
       {

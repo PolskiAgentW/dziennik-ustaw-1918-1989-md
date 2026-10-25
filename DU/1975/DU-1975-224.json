@@ -1,7 +1,7 @@
 {
  "eli": "DU/1975/224",
  "title": "Rozporządzenie Ministra Handlu Zagranicznego i Gospodarki Morskiej z dnia 1 grudnia 1975 r. w sprawie preferencyjnych stawek celnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/224/text.pdf",
  "body": [
   {
@@ -929,6 +929,11 @@
   {
    "type": "note",
    "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "— 595 =",
+   "quoted": true
   },
   {
    "type": "text",
@@ -2018,7 +2023,7 @@
     },
     {
      "type": "text",
-     "text": "598 = Dziennik Ustaw Nr 43 pa"
+     "text": "598 = pa"
     },
     {
      "type": "text",
@@ -6306,11 +6311,6 @@
     {
      "type": "text",
      "text": "™",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 43",
      "quoted": true
     },
     {

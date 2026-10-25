@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/585",
  "title": "Rozporządzenie Ministra Skarbu z dnia 20 października 1937 r. wydane w porozumieniu z Ministrem Sprawiedliwości w sprawie zmian w statucie Białostockiego Towarzystwa Kredytowego Miejskiego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/585/text.pdf",
  "body": [
   {
@@ -251,11 +251,6 @@
       {
        "type": "text",
        "text": "Str. 1453",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 81",
        "quoted": true
       },
       {
@@ -518,7 +513,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 1455 Dziennik Ustaw Nr 81",
+       "text": "Str. 1455",
        "quoted": true
       },
       {

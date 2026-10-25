@@ -1,7 +1,7 @@
 {
  "eli": "DU/1955/316",
  "title": "Rozporządzenie Rady Ministrów z dnia 7 grudnia 1955 r. w sprawie tablic i pieczęci urzędowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1955/316/text.pdf",
  "body": [
   {
@@ -58,10 +58,6 @@
       {
        "type": "text",
        "text": "ł"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 47"
       },
       {
        "type": "text",
@@ -288,10 +284,6 @@
     {
      "type": "note",
      "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "F Dziennik Ustaw Nr 47"
     },
     {
      "type": "text",

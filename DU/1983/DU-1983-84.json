@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/84",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 21 marca 1983 r. w sprawie wykonania przepisów ustawy o księgach wieczystych i hipotece.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/84/text.pdf",
  "body": [
   {
@@ -1434,11 +1434,6 @@
       {
        "type": "text",
        "text": "U",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 19",
        "quoted": true
       },
       {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/37",
  "title": "Konwencja międzynarodowa dotycząca zwalczania handlu kobietami pełnoletnimi, podpisana w Genewie dnia 11 października 1933 r. (ratyfikowana zgodnie z ustawą z dnia 18 marca 1937 r.).",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/37/text.pdf",
  "body": [
   {
@@ -218,7 +218,7 @@
   },
   {
    "type": "text",
-   "text": "Str. 63 Dziennik Ustaw Nr 7"
+   "text": "Str. 63"
   },
   {
    "type": "text",
@@ -471,7 +471,11 @@
       },
       {
        "type": "text",
-       "text": "Str. 66 1907, for the Pacific Settlement: of International Disputes."
+       "text": "Str. 66"
+      },
+      {
+       "type": "text",
+       "text": "1907, for the Pacific Settlement: of International Disputes."
       },
       {
        "type": "text",
@@ -646,10 +650,6 @@
     {
      "type": "text",
      "text": "Str. 69"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 7"
     },
     {
      "type": "text",

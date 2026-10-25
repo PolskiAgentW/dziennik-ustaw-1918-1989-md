@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/185",
  "title": "Konwencja dotycząca opłaty stemplowej w przedmiocie czeków.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/185/text.pdf",
  "body": [
   {
@@ -158,7 +158,7 @@
   },
   {
    "type": "text",
-   "text": "Dziennik Ustaw Nr 26 s Poz, 185"
+   "text": "s Poz, 185"
   },
   {
    "type": "text",
@@ -274,7 +274,7 @@
   },
   {
    "type": "text",
-   "text": "Dziennik Ustaw Nr 26 Str. 484"
+   "text": "Str. 484"
   },
   {
    "type": "text",
@@ -334,7 +334,7 @@
   },
   {
    "type": "text",
-   "text": "Str. 485 Dziennik Ustaw Nr 26"
+   "text": "Str. 485"
   },
   {
    "type": "text",
@@ -472,10 +472,6 @@
     {
      "type": "text",
      "text": "Str. 487"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 26"
     },
     {
      "type": "text",
@@ -629,11 +625,6 @@
     {
      "type": "text",
      "text": "Str. 489",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 26",
      "quoted": true
     },
     {

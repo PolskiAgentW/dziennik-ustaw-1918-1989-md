@@ -1,7 +1,7 @@
 {
  "eli": "DU/1967/143",
  "title": "Rozporządzenie Rady Ministrów z dnia 25 lipca 1967 r. w sprawie uposażenia pracowników zatrudnionych w Centralnym Archiwum Filmowym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1967/143/text.pdf",
  "body": [
   {
@@ -446,11 +446,6 @@
     {
      "type": "text",
      "text": "w",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 30",
      "quoted": true
     }
    ]

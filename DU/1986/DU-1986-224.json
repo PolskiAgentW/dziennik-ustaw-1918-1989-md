@@ -1,7 +1,7 @@
 {
  "eli": "DU/1986/224",
  "title": "Uchwała Sejmu Polskiej Rzeczypospolitej Ludowej z dnia 18 grudnia 1986 r. o narodowym planie społeczno-gospodarczym na lata 1986-1990.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1986/224/text.pdf",
  "body": [
   {
@@ -366,7 +366,7 @@
       },
       {
        "type": "text",
-       "text": "— 657 r— id Dziennik Ustaw Nr 45"
+       "text": "— 657 r— id"
       }
      ]
     },
@@ -2665,7 +2665,7 @@
     },
     {
      "type": "text",
-     "text": "a GO0 = Dziennik Ustaw Nr 45"
+     "text": "a GO0 ="
     },
     {
      "type": "text",
@@ -6756,8 +6756,13 @@
    "type": "par",
    "num": "3",
    "path": "par_3",
-   "text": "Transport wodny śródlądowy — Żegluga śródlądowa",
-   "children": []
+   "text": "Transport wodny śródlądowy",
+   "children": [
+    {
+     "type": "text",
+     "text": "— Żegluga śródlądowa"
+    }
+   ]
   },
   {
    "type": "par",
@@ -7114,11 +7119,6 @@
   {
    "type": "text",
    "text": "PRZ",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Dziennik Ustaw Nr 45 —",
    "quoted": true
   },
   {

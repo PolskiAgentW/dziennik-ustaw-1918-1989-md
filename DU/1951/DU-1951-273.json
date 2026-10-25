@@ -1,7 +1,7 @@
 {
  "eli": "DU/1951/273",
  "title": "Rozporządzenie Ministra Finansów z dnia 6 czerwca 1951 r. w sprawie wykonania dekretu z dnia 26 października 1950 r. o podatku obrotowym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1951/273/text.pdf",
  "body": [
   {
@@ -1783,10 +1783,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 35 —"
-      },
-      {
-       "type": "text",
        "text": "urządzeń mechanicznych, maszyn lub bardziej skomplikowanych narzędzi oraz bez dokonania obróbki mechanicznej poszczególnych części (jak np. cięcie blachy, wyginanie, falcowanie, lutowanie itp.);"
       },
       {
@@ -2195,10 +2191,6 @@
       {
        "type": "note",
        "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 35 —"
       },
       {
        "type": "text",

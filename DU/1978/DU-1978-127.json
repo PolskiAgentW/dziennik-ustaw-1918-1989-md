@@ -1,7 +1,7 @@
 {
  "eli": "DU/1978/127",
  "title": "Rozporządzenie Rady Ministrów z dnia 8 grudnia 1978 r. zmieniające rozporządzenie w sprawie ceł na towary przywożone w handlowym obrocie towarowym z zagranicą.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1978/127/text.pdf",
  "body": [
   {
@@ -3197,7 +3197,12 @@
         },
         {
          "type": "text",
-         "text": "B otrzymywane w procesie destylacji wysokotemperaturowej smoły węgiowej, ale które otrzymuje się w wyniku takich procesów, jak: proces destylacji niskotemperaturowej. smoły węgłowej lub innyen smół mineralnych, proces przerobu ropy naftowej lub jakikolwiek inny proces pod warunkiem. że udział masy aromatycznych składni- - ków produktu przewyższa udział masy składników niearomatycznych Uwagi podane w pozycji ur 27.10, dotyczące otejów z ropy naftowej gd i z mmerałów bitumicznych, odnoszą się nie tylko do tych olejów, ale = _ również do olejów podobnych, składających się z mieszanmy węglowodorów. nienasyconych 1 otrzymywanych: w jakimkolwiek procesie pod warunkiem. że udział \"masy niearomatycznych składników olejów przewyższa udział masy składników aromatycznych. . Pozycja nr 27.13, poza parafiną i innyan objętym: nią produktami, a obejmuje również produkty podobne, otrzymywane w wynikn syntezy lub innych procesów,",
+         "text": "B otrzymywane w procesie destylacji wysokotemperaturowej smoły węgiowej, ale które otrzymuje się w wyniku takich procesów, jak: proces destylacji niskotemperaturowej. smoły węgłowej lub innyen smół mineralnych, proces przerobu ropy naftowej lub jakikolwiek inny proces pod warunkiem. że udział masy aromatycznych składni- - ków produktu przewyższa udział masy składników niearomatycznych Uwagi podane w pozycji ur 27.10, dotyczące otejów z ropy naftowej gd",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "i z mmerałów bitumicznych, odnoszą się nie tylko do tych olejów, ale = _ również do olejów podobnych, składających się z mieszanmy węglowodorów. nienasyconych 1 otrzymywanych: w jakimkolwiek procesie pod warunkiem. że udział \"masy niearomatycznych składników olejów przewyższa udział masy składników aromatycznych. . Pozycja nr 27.13, poza parafiną i innyan objętym: nią produktami, a obejmuje również produkty podobne, otrzymywane w wynikn syntezy lub innych procesów,",
          "quoted": true
         },
         {
@@ -3247,12 +3252,22 @@
         },
         {
          "type": "text",
-         "text": "4) oleje smarowe i „specjalne smary stale 15 25 * 5) pozostałe 15 25 27.11 Gazy ziemne i inne węglowodory gazowe bez cła 3 27.12 Wazelina 15 25",
+         "text": "4) oleje smarowe i „specjalne smary stale 15 25 * 5) pozostałe 15 25",
          "quoted": true
         },
         {
          "type": "text",
-         "text": "217.13 Parafina, wosk mikrokrystaliczny, gacz parafinowy, ozokeryt, wosk montanowy, wosk torfowy oraz inne woski mineralne, nawet bar- __ wionę: :",
+         "text": "27.11 Gazy ziemne i inne węglowodory gazowe bez cła 3 27.12 Wazelina 15 25",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "217.13 Parafina, wosk mikrokrystaliczny, gacz parafinowy, ozokeryt, wosk montanowy, wosk torfowy oraz inne woski mineralne, nawet bar-",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "__ wionę: :",
          "quoted": true
         },
         {
@@ -3267,7 +3282,12 @@
         },
         {
          "type": "text",
-         "text": "3) pozostałe 10 15 27.14 Bitumy naftowe, koks naftowy oraz inne pozostałości ałejów otrzymywanych z ropy naftowej lub z minerałów bitumicznych:",
+         "text": "3) pozostałe 10 15",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "27.14 Bitumy naftowe, koks naftowy oraz inne pozostałości ałejów otrzymywanych z ropy naftowej lub z minerałów bitumicznych:",
          "quoted": true
         },
         {
@@ -5686,7 +5706,7 @@
         },
         {
          "type": "text",
-         "text": "s ‘ e _ Poz. 127 Dziennik Ustaw Nr 29 — 292 —",
+         "text": "s ‘ e _ Poz. 127",
          "quoted": true
         },
         {
@@ -11161,7 +11181,7 @@
     },
     {
      "type": "text",
-     "text": "nr_308 — Dziennik Ustaw Nr 29",
+     "text": "nr_308 —",
      "quoted": true
     },
     {
@@ -13725,7 +13745,12 @@
       },
       {
        "type": "text",
-       "text": "3) podzespoły i części 10 Walcarki i walee walcarek:",
+       "text": "3) podzespoły i części 10",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Walcarki i walee walcarek:",
        "quoted": true
       },
       {
@@ -13735,7 +13760,12 @@
       },
       {
        "type": "text",
-       "text": "2) walce oraz inne podzespoły i części NA Obrabiarki do obróbki metali lub węglików metali, z wyjątkiem maszyn objętych pozycjami nr 84.49 lub nr 84.50:",
+       "text": "2) walce oraz inne podzespoły i części NA",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Obrabiarki do obróbki metali lub węglików metali, z wyjątkiem maszyn objętych pozycjami nr 84.49 lub nr 84.50:",
        "quoted": true
       },
       {
@@ -14706,11 +14736,6 @@
     {
      "type": "text",
      "text": "\\",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 29",
      "quoted": true
     },
     {

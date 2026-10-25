@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/365",
  "title": "Rozporządzenie Ministrów Komunikacji i Opieki Społecznej z dnia 27 maja 1938 r. wydane w porozumieniu z Ministrami Spraw Wojskowych i Spraw Wewnętrznych o służbie zdrowia lotnictwa cywilnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/365/text.pdf",
  "body": [
   {
@@ -746,10 +746,6 @@
      "text": "Str. 801"
     },
     {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 44"
-    },
-    {
      "type": "lit",
      "num": "a",
      "path": "par_26/lit_a",
@@ -916,11 +912,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 803"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 44 Wymiar 915 x 1415 cm. (Str. 1)."
+       "text": "Str. 803 Wymiar 915 x 1415 cm. (Str. 1)."
       },
       {
        "type": "text",
@@ -1069,7 +1061,7 @@
     },
     {
      "type": "text",
-     "text": "Str. 804 Dziennik Ustaw Nr 44"
+     "text": "Str. 804"
     },
     {
      "type": "text",

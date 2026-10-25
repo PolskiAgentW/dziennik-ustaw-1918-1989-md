@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/322",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 10 maja 1938 r. o warunkach służby przygotowawczej i zasadach odpowiedzialności służbowej kandydatów na szeregowych Policji Województwa Śląskiego przyjętych do służby przygotowawczej w charakterze pracowników kontraktowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/322/text.pdf",
  "body": [
   {
@@ -128,7 +128,7 @@
       },
       {
        "type": "text",
-       "text": "a Poz. 322 Dziennik Ustaw Nr 38 Str. 665"
+       "text": "a Poz. 322 Str. 665"
       },
       {
        "type": "text",
@@ -518,10 +518,6 @@
     {
      "type": "text",
      "text": "Str. 667"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 38"
     },
     {
      "type": "lit",

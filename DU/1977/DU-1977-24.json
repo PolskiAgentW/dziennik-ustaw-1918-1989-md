@@ -1,7 +1,7 @@
 {
  "eli": "DU/1977/24",
  "title": "Rozporządzenie Ministra Finansów z dnia 31 stycznia 1977 r. w sprawie zryczałtowania podatków obrotowego i dochodowego do niektórych grup podatników.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1977/24/text.pdf",
  "body": [
   {
@@ -103,10 +103,6 @@
         {
          "type": "text",
          "text": "= 47 c="
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 5"
         }
        ]
       },
@@ -881,6 +877,10 @@
       {
        "type": "note",
        "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "51 —"
       }
      ]
     },
@@ -1161,10 +1161,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 5"
-    },
-    {
-     "type": "text",
      "text": "Symbol i"
     },
     {
@@ -1417,7 +1413,11 @@
     },
     {
      "type": "text",
-     "text": "Symbol 098 2 098 3 098 4 098 5"
+     "text": "Symbol"
+    },
+    {
+     "type": "text",
+     "text": "098 2 098 3 098 4 098 5"
     },
     {
      "type": "text",
@@ -1453,7 +1453,11 @@
     },
     {
      "type": "text",
-     "text": "= Rodzaj wykonywanego rzemiosła mechanika maszyn biurowych optyka iz wytwarzanie i naprawa wag i ' zegarmistrzostwo"
+     "text": "= Rodzaj wykonywanego rzemiosła"
+    },
+    {
+     "type": "text",
+     "text": "mechanika maszyn biurowych optyka iz wytwarzanie i naprawa wag i ' zegarmistrzostwo"
     },
     {
      "type": "text",

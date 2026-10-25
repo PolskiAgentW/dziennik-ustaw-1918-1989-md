@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/279",
  "title": "Rozporządzenie Rady Ministrów z dnia 24 lipca 1948 r. o należnościach w razie pełnienia czynności służbowych poza zwykłym miejscem służbowym oraz w razie przeniesienia na inne miejsce służbowe.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/279/text.pdf",
  "body": [
   {
@@ -221,10 +221,6 @@
     {
      "type": "text",
      "text": ". H"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 38"
     },
     {
      "type": "ust",
@@ -961,7 +957,7 @@
       },
       {
        "type": "text",
-       "text": "=. 279 Poz. Dziennik Ustaw Nr 38"
+       "text": "=. 279 Poz."
       },
       {
        "type": "pkt",

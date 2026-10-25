@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/377",
  "title": "Rozporządzenie Ministrów Aprowizacji oraz Przemysłu i Handlu z dnia 28 września 1948 r. wydane w porozumieniu z Ministrami: Administracji Publicznej, Ziem Odzyskanych, Rolnictwa i Reform Rolnych oraz Skarbu o przemiale zbóż.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/377/text.pdf",
  "body": [
   {
@@ -88,11 +88,6 @@
     {
      "type": "text",
      "text": "\\",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 49",
      "quoted": true
     },
     {

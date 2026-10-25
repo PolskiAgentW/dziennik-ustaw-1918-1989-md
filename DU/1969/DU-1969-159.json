@@ -1,7 +1,7 @@
 {
  "eli": "DU/1969/159",
  "title": "Obwieszczenie Ministra Gospodarki Komunalnej z dnia 7 lipca 1969 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 14 lipca 1961 r. o gospodarce terenami w miastach i osiedlach.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1969/159/text.pdf",
  "body": [
   {
@@ -284,10 +284,6 @@
         {
          "type": "note",
          "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 22 — 0 —"
         },
         {
          "type": "text",
@@ -626,7 +622,7 @@
         },
         {
          "type": "text",
-         "text": "thes WIĘ J Poz. 159 — 792 a Dziennik Ustaw Nr 22"
+         "text": "thes WIĘ J Poz. 159 — 792 a"
         }
        ]
       },

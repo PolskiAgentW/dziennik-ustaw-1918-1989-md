@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/641",
  "title": "Rozporządzenie Ministra Skarbu z dnia 21 listopada 1938 r. wydane w porozumieniu z Ministrami: Spraw Wewnętrznych, Spraw Zagranicznych, Spraw Wojskowych, Rolnictwa i Reform Rolnych, Przemysłu i Handlu, Komunikacji, Opieki Społecznej oraz Poczt i Telegrafów w zakresie ich właściwości, o zmianie przepisów wykonawczych do prawa celnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/641/text.pdf",
  "body": [
   {
@@ -184,7 +184,7 @@
         },
         {
          "type": "text",
-         "text": "Str. 1426 Dziennik Ustaw Nr 95"
+         "text": "Str. 1426"
         },
         {
          "type": "text",
@@ -279,10 +279,6 @@
       {
        "type": "text",
        "text": "Str. 1427"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 95"
       },
       {
        "type": "text",
@@ -1070,11 +1066,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 95",
-       "quoted": true
-      },
-      {
-       "type": "text",
        "text": "4) Pozwolenie na zwolnienie od cła towarów zwrotnych, od których przy wywozie uiszczono cło wywozowe, jest jednocześnie pozwoleniem na zwrot cla wywozowego. ';",
        "quoted": true
       }
@@ -1249,22 +1240,24 @@
        "type": "lit",
        "num": "b",
        "path": "par_72/pkt_58/lit_b",
-       "text": "po ust. 1) dodaje się nowy ust. la) w brzmieniu: „łaj. W razie zmiany wezwania płatnicze- $o. wyrażającej się w obniżeniu lub podwyższeniu wykazanej w wezwaniu kwoty niedoboru, odsetki za zwłokę pobiera się:",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "par_72/pkt_58/lit_a",
-       "text": "przy obniżeniu kwoty niedoboru — od obniżonej kwoly za czas, licząc od upływu 30-dniowego ierminu po dniu doręczenia stromie pierwotnego wezwania płatniczego,",
-       "children": []
-      },
-      {
-       "type": "lit",
-       "num": "b",
-       "path": "par_72/pkt_58/lit_b",
-       "text": "przy podwyższeniu kwoty niedoboru — od podwyższonej kwoty niedoboru za czas, licząc od upływu 30 dni po dniu doręczenia stronie sprostowania wezwania plainiczego, do tego zaś czasu — od kwoty niedoboru wykazanego w pierwotnym wezwaniu. ';",
-       "children": []
+       "text": "po ust. 1) dodaje się nowy ust. la) w brzmieniu:",
+       "children": [
+        {
+         "type": "text",
+         "text": "„łaj. W razie zmiany wezwania płatnicze- $o. wyrażającej się w obniżeniu lub podwyższeniu wykazanej w wezwaniu kwoty niedoboru, odsetki za zwłokę pobiera się:",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "a) przy obniżeniu kwoty niedoboru — od obniżonej kwoly za czas, licząc od upływu 30-dniowego ierminu po dniu doręczenia stromie pierwotnego wezwania płatniczego,",
+         "quoted": true
+        },
+        {
+         "type": "text",
+         "text": "b) przy podwyższeniu kwoty niedoboru — od podwyższonej kwoty niedoboru za czas, licząc od upływu 30 dni po dniu doręczenia stronie sprostowania wezwania plainiczego, do tego zaś czasu — od kwoty niedoboru wykazanego w pierwotnym wezwaniu. ';",
+         "quoted": true
+        }
+       ]
       }
      ]
     },
@@ -1336,24 +1329,26 @@
      "type": "pkt",
      "num": "62",
      "path": "par_72/pkt_62",
-     "text": "Załącznik V do § 48 ust. 5), zawierający wykaz danych, które mogą być pominięte przy szczegółowym zgłoszeniu towarów do odprawy celnej przywozowej, uzupełnia się przez. dodanie po pozycji 59 taryty celnej — pozycji 60° p. 2 uwaga 1 w brzmieniu: „60 p. 2 uwaga 1 banany bez wskazania",
-     "children": []
+     "text": "Załącznik V do § 48 ust. 5), zawierający wykaz danych, które mogą być pominięte przy szczegółowym zgłoszeniu towarów do odprawy celnej przywozowej, uzupełnia się przez. dodanie po pozycji 59 taryty celnej — pozycji 60° p. 2 uwaga 1 w brzmieniu:",
+     "children": [
+      {
+       "type": "text",
+       "text": "„60 p. 2 uwaga 1 banany bez wskazania",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 2. Przy powrotnym wywozie towarów, odprawionych w czynnym obrocie uszlachetnia-\" jącym i reparacyjnym przed wejściem w życie niniejszego rozporządzenia oraz przy powrót-/ nym przywozie towarów, odprawionych ' w biernym obrocie uszlachetniającym i reparacyj-- nym przed wejściem w życie niniejszego rozporządzenia, opłaty manipulacyjne pobiera się według norm dotychczas obowiązujących.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3. Rozporządzenie niniejsze wchodzi w życie z dniem 1 stycznia 1939 r.",
+       "quoted": true
+      }
+     ]
     }
    ]
-  },
-  {
-   "type": "par",
-   "num": "2",
-   "path": "par_2",
-   "text": "Przy powrotnym wywozie towarów, odprawionych w czynnym obrocie uszlachetnia-\" jącym i reparacyjnym przed wejściem w życie niniejszego rozporządzenia oraz przy powrót-/ nym przywozie towarów, odprawionych ' w biernym obrocie uszlachetniającym i reparacyj-- nym przed wejściem w życie niniejszego rozporządzenia, opłaty manipulacyjne pobiera się według norm dotychczas obowiązujących.",
-   "children": []
-  },
-  {
-   "type": "par",
-   "num": "3",
-   "path": "par_3",
-   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 stycznia 1939 r.",
-   "children": []
   },
   {
    "type": "signature",

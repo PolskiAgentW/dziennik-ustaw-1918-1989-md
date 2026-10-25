@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/174",
  "title": "Dekret z dnia 16 maja 1946 r. o postępowaniu podatkowym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/174/text.pdf",
  "body": [
   {
@@ -57,6 +57,10 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "— 308 ="
       },
       {
        "type": "text",
@@ -490,10 +494,6 @@
   {
    "type": "text",
    "text": "+"
-  },
-  {
-   "type": "text",
-   "text": "Dziennik Ustaw Nr 27"
   },
   {
    "type": "text",
@@ -1147,7 +1147,7 @@
     },
     {
      "type": "text",
-     "text": "— 313 = Dziennik Ustaw Nr 27"
+     "text": "— 313 ="
     },
     {
      "type": "text",
@@ -1401,10 +1401,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 27"
-      },
-      {
-       "type": "text",
        "text": "zaliczek w wysokości wynikającej z zobowiązań podatkowych, ustalonych za poprzedni rok poaatkowy. ;"
       }
      ]
@@ -1462,15 +1458,15 @@
      "type": "ust",
      "num": "2",
      "path": "art_62/ust_2",
-     "text": "Podatnicy, prowadzący księgi podatkowe, obowiązani są w składanych zeznaniach podatkowych zaznaczyć fakt prowadzenia ksiąg, a por.adto do zeznań do wymiaru podatku obrotowego dołączyć te księgi. Minister Skarbu może w drodze rozporządzenia zwalniać od tego obowiązku niektóre grupy podatników, bądź też zarządzić przechowywanie tych ksiąg pod okrę- Ślonymi warunkami we władzach samorządu zawodowego Dział X.",
-     "children": [
-      {
-       "type": "text",
-       "text": "»o stępowanie wyjaśniające."
-      }
-     ]
+     "text": "Podatnicy, prowadzący księgi podatkowe, obowiązani są w składanych zeznaniach podatkowych zaznaczyć fakt prowadzenia ksiąg, a por.adto do zeznań do wymiaru podatku obrotowego dołączyć te księgi. Minister Skarbu może w drodze rozporządzenia zwalniać od tego obowiązku niektóre grupy podatników, bądź też zarządzić przechowywanie tych ksiąg pod okrę- Ślonymi warunkami we władzach samorządu zawodowego",
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział X",
+   "text": "»o stępowanie wyjaśniające."
   },
   {
    "type": "art",
@@ -3523,7 +3519,7 @@
       },
       {
        "type": "text",
-       "text": "— §24 Dziennik Ustaw Nr 27"
+       "text": "— §24"
       },
       {
        "type": "text",
@@ -3675,7 +3671,7 @@
       },
       {
        "type": "text",
-       "text": "— 35 = Dziennik Ustaw Nr 27"
+       "text": "— 35 ="
       },
       {
        "type": "text",

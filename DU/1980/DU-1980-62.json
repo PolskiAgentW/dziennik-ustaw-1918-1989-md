@@ -1,7 +1,7 @@
 {
  "eli": "DU/1980/62",
  "title": "Rozporządzenie Ministra Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 3 lipca 1980 r. w sprawie warunków technicznych, jakim powinny odpowiadać budynki.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1980/62/text.pdf",
  "body": [
   {
@@ -3548,11 +3548,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 17",
-       "quoted": true
-      },
-      {
-       "type": "text",
        "text": "§ 143.",
        "quoted": true
       },
@@ -5308,11 +5303,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 17",
-       "quoted": true
-      },
-      {
-       "type": "text",
        "text": "otworami należy sumować przy określaniu wielkości stref pożarowych z uwzględnieniem przepisu § 173 ust. 4. § 201. 1.6W budynkach inwentarskich i dla drobiu wielkości stref pożarowych określa poniższa tabela:",
        "quoted": true
       },
@@ -5464,6 +5454,11 @@
       {
        "type": "note",
        "text": "[Strona 32 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "\"204",
+       "quoted": true
       },
       {
        "type": "text",

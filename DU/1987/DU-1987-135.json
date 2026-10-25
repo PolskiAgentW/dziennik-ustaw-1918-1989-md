@@ -1,7 +1,7 @@
 {
  "eli": "DU/1987/135",
  "title": "Umowa między Polską Rzecząpospolitą Ludową a Koreańską Republiką Ludowo-Demokratyczną o pomocy prawnej w sprawach cywilnych, rodzinnych i karnych, podpisana w Phenianie dnia 28 września 1986 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1987/135/text.pdf",
  "body": [
   {
@@ -35,10 +35,6 @@
   {
    "type": "text",
    "text": "A sa Nd"
-  },
-  {
-   "type": "text",
-   "text": "Dziennik Ustaw Nr 24"
   },
   {
    "type": "text",
@@ -932,7 +928,7 @@
     },
     {
      "type": "text",
-     "text": "mz GR eu Dziennik Ustaw Nr 24",
+     "text": "mz GR eu",
      "quoted": true
     },
     {
@@ -1558,6 +1554,11 @@
     },
     {
      "type": "text",
+     "text": "279 —",
+     "quoted": true
+    },
+    {
+     "type": "text",
      "text": "Rozdział II",
      "quoted": true
     },
@@ -2141,11 +2142,6 @@
     {
      "type": "text",
      "text": "= x",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 24 —",
      "quoted": true
     },
     {

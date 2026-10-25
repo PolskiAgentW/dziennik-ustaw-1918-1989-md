@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/575",
  "title": "Rozporządzenie Ministra Skarbu z dnia 30 października 1937 r. o zmianie rozporządzenia Ministra Skarbu z dnia 10 września 1932 r. w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 11 lipca 1932 r. o monopolu spirytusowym, opodatkowaniu kwasu octowego i drożdży oraz sprzedaży napojów alkoholowych, wydane co do § 1 pkt 3 i 4 (§§ 209 ust. 3, 214a, 215, 216 ust. 2 i 292 rozporządzenia Ministra Skarbu z dnia 10 września 1932 r. w nowym brzmieniu) oraz §§ 2 i 3 w porozumieniu z Ministrami Rolnictwa i Reform Rolnych oraz Przemysłu i Handlu.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/575/text.pdf",
  "body": [
   {
@@ -491,11 +491,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 79",
-       "quoted": true
-      },
-      {
-       "type": "text",
        "text": "etykietę, na której należy podać: „esencja octowa' lub „ocet z esencji octowej' literami jednakowej wielkości, rodzaju i barwy, zawartość kwasu octowego w procentach wag. (tzw. moc esencji lub octu), ilość płynu w litrach lub kilogramach oraz nazwę i adres wytwórni lub rozlewni. Rozlewnie wypuszczające esencję octową pod firmowymi etykietami wytwórni obowiązane są podać nazwę i adres rozlewni na etykietach wytwórni,",
        "quoted": true
       },
@@ -597,11 +592,6 @@
       {
        "type": "note",
        "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "Str. 1438 Dziennik Ustaw Nr 79",
-       "quoted": true
       },
       {
        "type": "text",
@@ -714,7 +704,7 @@
       },
       {
        "type": "text",
-       "text": "Str. 1439 Dziennik Ustaw Nr 79",
+       "text": "Str. 1439",
        "quoted": true
       },
       {

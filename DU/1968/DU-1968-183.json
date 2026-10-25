@@ -1,7 +1,7 @@
 {
  "eli": "DU/1968/183",
  "title": "Rozporządzenie Ministrów Komunikacji i Spraw Wewnętrznych z dnia 20 lipca 1968 r. w sprawie ruchu na drogach publicznych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1968/183/text.pdf",
  "body": [
   {
@@ -137,7 +137,7 @@
     },
     {
      "type": "text",
-     "text": "w Dziennik Ustaw Nr 27"
+     "text": "w"
     }
    ]
   },
@@ -2854,7 +2854,7 @@
         },
         {
          "type": "text",
-         "text": "ee eee Dziennik Ustaw Nr 27",
+         "text": "ee eee",
          "quoted": true
         },
         {
@@ -3849,7 +3849,7 @@
         },
         {
          "type": "text",
-         "text": "gf Dziennik Ustaw Nr 27",
+         "text": "gf",
          "quoted": true
         },
         {
@@ -8316,11 +8316,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 27",
-       "quoted": true
-      },
-      {
-       "type": "text",
        "text": "§ 195.",
        "quoted": true
       },
@@ -9126,11 +9121,6 @@
       {
        "type": "text",
        "text": "bi",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 27",
        "quoted": true
       },
       {

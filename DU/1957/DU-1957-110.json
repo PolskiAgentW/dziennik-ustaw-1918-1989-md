@@ -1,7 +1,7 @@
 {
  "eli": "DU/1957/110",
  "title": "Rozporządzenie Rady Ministrów z dnia 16 kwietnia 1957 r. w sprawie niektórych zmian w zakresie wynagradzania pracowników przedsiębiorstwa \"Polskie Koleje Państwowe\".",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1957/110/text.pdf",
  "body": [
   {
@@ -363,16 +363,20 @@
   {
    "type": "signature",
    "text": "Prezes Rady Ministrów: w z. P, Jaroszewicz"
+  },
+  {
+   "type": "note",
+   "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+  },
+  {
+   "type": "text",
+   "text": "== 228"
   }
  ],
  "annexes": [
   {
    "heading": "Załączniki do rozporządzenia Rady Ministrów z dnia 16 kwietnia 1957 r. (poz. 110). Załącznik nr 1.",
    "body": [
-    {
-     "type": "note",
-     "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
     {
      "type": "text",
      "text": "WYKAZ STANOWISK, NA KTÓRYCH PRACOWNICY UPRAWNIENI SĄ DO OTRZYMANIA DODATKU FUNKCYJNEGO eee ET LT"
@@ -529,11 +533,6 @@
     {
      "type": "text",
      "text": "Aye się",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 23",
      "quoted": true
     },
     {

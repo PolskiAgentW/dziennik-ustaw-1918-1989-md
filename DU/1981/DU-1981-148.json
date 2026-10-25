@@ -1,7 +1,7 @@
 {
  "eli": "DU/1981/148",
  "title": "Rozporządzenie Ministra Finansów z dnia 12 listopada 1981 r. zmieniające niektóre rozporządzenia dotyczące opodatkowania podatkami obrotowym i dochodowym osób fizycznych i osób prawnych nie będących jednostkami gospodarki uspołecznionej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1981/148/text.pdf",
  "body": [
   {
@@ -95,11 +95,6 @@
       {
        "type": "text",
        "text": "N",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 28",
        "quoted": true
       },
       {

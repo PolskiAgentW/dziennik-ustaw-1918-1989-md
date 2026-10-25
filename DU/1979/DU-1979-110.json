@@ -1,7 +1,7 @@
 {
  "eli": "DU/1979/110",
  "title": "Rozporządzenie Ministra Rolnictwa z dnia 23 lipca 1979 r. w sprawie zaopatrywania w świadectwa miejsca pochodzenia zwierząt.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1979/110/text.pdf",
  "body": [
   {
@@ -172,10 +172,6 @@
           },
           {
            "type": "text",
-           "text": "Dziennik Ustaw Nr 17"
-          },
-          {
-           "type": "text",
            "text": "2..Zą przedłużenie świadectwa jednostkowego lub jego wydanie na podstawie świadectwa zbiorczego lub zamieszczenie wzmianki na świadectwie o zmianie posiadacza po- - biera sievoplate.w wysokości -50'/ę opłat ustalonych.w ust. 1."
           }
          ]
@@ -231,7 +227,11 @@
   },
   {
    "type": "text",
-   "text": "Pojedyncze egzemplarze Dziennika Ustaw nabywać można w punktach sprzedaży w Warszawie: al. I Armii Wojska Polskiego 2/4, „Dom Książki” — Księgatnia Prawno-Ekonomiczna — ul. Żurawia 1, kiosk „Domu Książki” w gmachu sądów — al. Gen. Świerczewskiego 127 i w kasach Sądów w Białymstoku, Bielsku-Białej, Bydgoszczy, Bytomiu, Cieszynie, Częstochowie, Gdańsku, Gdyni, Gliwicach, Kaliszu, Katowicach, Kielcach, Koszalinie. Krakowie, Lublinie. Łodzi, Olsztynie, Opolu, Ostrowie Wielkopolskim, Poznaniu, Radomiu, Rzeszowie, Słupcy, Szczecinie, Tarnowie, Toruniu, Wałbrzychu z tymczasową siedzibą w Świdnicy, Wrocławiu, Zamościu i Zielonej Górze. Redakcja: Urząd Rady Ministrów — Biuro-Prawne. Warszawa, Al. Ujazdowskie 1/3. Administracja: Administracja Wydawnictw Urzędu Rady Ministrów, uł Powsińska 69/71 00-979 Warszawa (skrytka poczlowa BI], tel. 28-90-01 w. 608 i 42-14-78."
+   "text": "Pojedyncze egzemplarze Dziennika Ustaw nabywać można w punktach sprzedaży w Warszawie: al. I Armii Wojska Polskiego 2/4, „Dom Książki” — Księgatnia Prawno-Ekonomiczna — ul. Żurawia 1, kiosk „Domu Książki” w gmachu sądów — al. Gen. Świerczewskiego 127 i w kasach Sądów w Białymstoku, Bielsku-Białej, Bydgoszczy, Bytomiu, Cieszynie, Częstochowie, Gdańsku, Gdyni, Gliwicach, Kaliszu, Katowicach, Kielcach, Koszalinie. Krakowie, Lublinie. Łodzi, Olsztynie, Opolu, Ostrowie Wielkopolskim, Poznaniu, Radomiu, Rzeszowie, Słupcy, Szczecinie, Tarnowie, Toruniu, Wałbrzychu z tymczasową siedzibą w Świdnicy, Wrocławiu, Zamościu i Zielonej Górze."
+  },
+  {
+   "type": "text",
+   "text": "Redakcja: Urząd Rady Ministrów — Biuro-Prawne. Warszawa, Al. Ujazdowskie 1/3. Administracja: Administracja Wydawnictw Urzędu Rady Ministrów, uł Powsińska 69/71 00-979 Warszawa (skrytka poczlowa BI], tel. 28-90-01 w. 608 i 42-14-78."
   },
   {
    "type": "text",

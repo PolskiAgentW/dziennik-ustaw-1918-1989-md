@@ -1,7 +1,7 @@
 {
  "eli": "DU/1965/248",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 4 września 1965 r. zmieniające rozporządzenie o zastosowaniu przepisów rozporządzenia Rady Ministrów z dnia 9 maja 1958 r. w sprawie ustalenia stanowisk, kwalifikacji i uposażenia pracowników prezydiów rad narodowych do pracowników Głównego Urzędu Statystycznego zatrudnionych w terenowych organach statystyki państwowej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1965/248/text.pdf",
  "body": [
   {
@@ -78,10 +78,6 @@
       {
        "type": "text",
        "text": "©"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 39"
       }
      ]
     }

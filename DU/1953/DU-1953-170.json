@@ -1,7 +1,7 @@
 {
  "eli": "DU/1953/170",
  "title": "Rozporządzenie Rady Ministrów z dnia 1 sierpnia 1953 r. w sprawie zasad i trybu ustalania odszkodowania oraz naprawiania szkód, powstałych przy wykonywaniu pomiarów geodezyjnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1953/170/text.pdf",
  "body": [
   {
@@ -147,10 +147,6 @@
         {
          "type": "text",
          "text": "\\"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 39"
         }
        ]
       },

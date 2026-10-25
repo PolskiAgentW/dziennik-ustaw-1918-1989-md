@@ -1,7 +1,7 @@
 {
  "eli": "DU/1978/112",
  "title": "Rozporządzenie Rady Ministrów z dnia 29 września 1978 r. zmieniające rozporządzenie w sprawie uposażenia nauczycieli i nauczycieli akademickich.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1978/112/text.pdf",
  "body": [
   {
@@ -192,10 +192,6 @@
       {
        "type": "text",
        "text": "ł"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 24"
       }
      ]
     }
@@ -428,11 +424,6 @@
       {
        "type": "text",
        "text": "\\",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 24 —",
        "quoted": true
       },
       {

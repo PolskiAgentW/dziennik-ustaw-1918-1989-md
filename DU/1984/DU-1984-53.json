@@ -1,7 +1,7 @@
 {
  "eli": "DU/1984/53",
  "title": "Rozporządzenie Rady Ministrów z dnia 23 stycznia 1984 r. zmieniające rozporządzenie w sprawie opłaty skarbowej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1984/53/text.pdf",
  "body": [
   {
@@ -548,10 +548,6 @@
         {
          "type": "text",
          "text": "z"
-        },
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 13"
         }
        ]
       },

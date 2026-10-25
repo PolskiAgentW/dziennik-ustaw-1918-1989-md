@@ -1,7 +1,7 @@
 {
  "eli": "DU/1960/32",
  "title": "Rozporządzenie Rady Ministrów z dnia 26 stycznia 1960 r. w sprawie odszkodowań za szkody wyrządzone w uprawach i plonach rolnych przez dziki, jelenie i daniele.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1960/32/text.pdf",
  "body": [
   {
@@ -172,10 +172,6 @@
       {
        "type": "text",
        "text": "md"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 5 —"
       },
       {
        "type": "text",

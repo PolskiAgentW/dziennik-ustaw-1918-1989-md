@@ -1,7 +1,7 @@
 {
  "eli": "DU/1962/62",
  "title": "Rozporządzenie Ministra Handlu Zagranicznego z dnia 17 lutego 1962 r. w sprawie kontroli celnej i postępowania celnego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1962/62/text.pdf",
  "body": [
   {
@@ -525,10 +525,6 @@
           {
            "type": "text",
            "text": "a ae te dial PF"
-          },
-          {
-           "type": "text",
-           "text": "Dziennik Ustaw Nr 14"
           }
          ]
         }

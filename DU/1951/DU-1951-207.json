@@ -1,7 +1,7 @@
 {
  "eli": "DU/1951/207",
  "title": "Rozporządzenie Ministra Szkół Wyższych i Nauki z dnia 2 maja 1951 r. w sprawie wydawania eksternom dyplomów zawodowych pierwszego stopnia przez Szkołę Główną Służby Zagranicznej w Warszawie.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1951/207/text.pdf",
  "body": [
   {
@@ -85,10 +85,6 @@
       {
        "type": "text",
        "text": "*+"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 27"
       }
      ]
     }

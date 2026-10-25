@@ -1,7 +1,7 @@
 {
  "eli": "DU/1978/77",
  "title": "Rozporządzenie Ministra Zdrowia i Opieki Społecznej z dnia 28 czerwca 1978 r. w sprawie siedzib i terytorialnego zakresu działania państwowych terenowych i portowych inspektorów sanitarnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1978/77/text.pdf",
  "body": [
   {
@@ -231,11 +231,6 @@
     {
      "type": "text",
      "text": "ay „Ta",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 17",
      "quoted": true
     },
     {
@@ -777,7 +772,7 @@
       },
       {
        "type": "text",
-       "text": "Pi Dziennik Ustaw Nr 17"
+       "text": "Pi"
       }
      ]
     },

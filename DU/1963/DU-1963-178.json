@@ -1,7 +1,7 @@
 {
  "eli": "DU/1963/178",
  "title": "Rozporządzenie Ministra Komunikacji z dnia 22 czerwca 1963 r. w sprawie polskiego rejestru państwowego statków powietrznych oraz znaków i napisów na sprzęcie lotniczym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1963/178/text.pdf",
  "body": [
   {
@@ -496,11 +496,6 @@
     {
      "type": "text",
      "text": "i",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 31",
      "quoted": true
     },
     {

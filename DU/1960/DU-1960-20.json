@@ -1,7 +1,7 @@
 {
  "eli": "DU/1960/20",
  "title": "Rozporządzenie Ministra Zdrowia z dnia 7 grudnia 1959 r. w sprawie taryfy opłat za niektóre usługi zakładów społecznych służby zdrowia na obszarze morskich portów i przystani świadczone na rzecz płatników zagranicznych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1960/20/text.pdf",
  "body": [
   {
@@ -133,10 +133,6 @@
           {
            "type": "text",
            "text": "\"z"
-          },
-          {
-           "type": "text",
-           "text": "Dziennik Ustaw Nr 3"
           }
          ]
         },

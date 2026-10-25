@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/275",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 29 kwietnia 1939 r. wydane w porozumieniu z Ministrami Spraw Zagranicznych, Spraw Wojskowych, Skarbu i Opieki Społecznej w sprawie wykonania ustawy z dnia 30 marca 1939 r. o zasiłkach dla rodzin osób, odbywających czynną służbę wojskową.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/275/text.pdf",
  "body": [
   {
@@ -155,12 +155,7 @@
        "num": "a",
        "path": "par_3/pkt_2/lit_a",
        "text": "poszczególni członkowie rodziny posiadają wystarczające środki utrzymania _ ze źródeł niezależnych od pracy lub zarobku powołanego,",
-       "children": [
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 41"
-        }
-       ]
+       "children": []
       },
       {
        "type": "lit",
@@ -397,10 +392,6 @@
     {
      "type": "text",
      "text": "Miejscowość . . s 5 s Gmina a . . D . ry . . . . . s EJ . a P owiat ... a dA a a a a a o e se © A w"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 41"
     },
     {
      "type": "text",

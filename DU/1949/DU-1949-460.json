@@ -1,7 +1,7 @@
 {
  "eli": "DU/1949/460",
  "title": "Międzynarodowa Konwencja Telekomunikacyjna, Protokół końcowy do Konwencji i Protokoły dodatkowe do Konwencji, podpisane w Atlantic City dnia 2 października 1947 r. (ratyfikowane zgodnie z ustawą z dnia 9 marca 1949 r.).",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/460/text.pdf",
  "body": [
   {
@@ -452,7 +452,7 @@
   },
   {
    "type": "text",
-   "text": "1083: Dziennik Ustaw Nr 59",
+   "text": "1083",
    "quoted": true
   },
   {
@@ -2245,10 +2245,6 @@
     {
      "type": "note",
      "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 59"
     }
    ]
   },
@@ -3667,7 +3663,7 @@
     },
     {
      "type": "text",
-     "text": "— 101 = Dziennik Ustaw Nr 59",
+     "text": "— 101 =",
      "quoted": true
     },
     {
@@ -3843,7 +3839,7 @@
     },
     {
      "type": "text",
-     "text": "1103 = Dziennik Ustaw Nr 58 page"
+     "text": "1103 = page"
     }
    ]
   },
@@ -4291,6 +4287,10 @@
     {
      "type": "note",
      "text": "[Strona 27 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "— 1107 —"
     },
     {
      "type": "text",
@@ -4847,7 +4847,7 @@
     },
     {
      "type": "text",
-     "text": "ża 11193 — Dziennik Ustaw Nr 59"
+     "text": "ża 11193 —"
     }
    ]
   },
@@ -6506,7 +6506,7 @@
     },
     {
      "type": "text",
-     "text": "= MR = Dziennik Ustaw Nr 59"
+     "text": "= MR ="
     },
     {
      "type": "text",
@@ -7596,6 +7596,11 @@
   },
   {
    "type": "text",
+   "text": "—_1133 —",
+   "quoted": true
+  },
+  {
+   "type": "text",
    "text": "1oz. 460",
    "quoted": true
   },
@@ -8028,7 +8033,7 @@
   },
   {
    "type": "text",
-   "text": "= 1136 — Dziennik Ustaw Nr 59",
+   "text": "= 1136 —",
    "quoted": true
   },
   {
@@ -8618,7 +8623,7 @@
   },
   {
    "type": "text",
-   "text": "_ U! — Poz. 46°",
+   "text": "—_ U! — Poz. 46°",
    "quoted": true
   },
   {
@@ -8959,7 +8964,7 @@
   },
   {
    "type": "text",
-   "text": "_' Poz. 460 Dziennik Ustaw Nr 59 eee kk |\" „manna 0mmmmmm>M>MPMM",
+   "text": "_' Poz. 460 eee kk |\" „manna 0mmmmmm>M>MPMM",
    "quoted": true
   },
   {
@@ -11038,7 +11043,7 @@
     },
     {
      "type": "text",
-     "text": "pe PB Dziennik Ustaw Nr 59",
+     "text": "pe PB",
      "quoted": true
     },
     {

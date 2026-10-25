@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/311",
  "title": "Rozporządzenie Ministra Przemysłu i Handlu z dnia 22 sierpnia 1947 r. wydane w porozumieniu z Ministrami Administracji Publicznej i Ziem Odzyskanych o właściwości władz przemysłowych oraz o trybie i warunkach udzielania zezwoleń na prowadzenie przedsiębiorstw handlowych i zawodowe wykonywanie czynności handlowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/311/text.pdf",
  "body": [
   {
@@ -68,10 +68,6 @@
     {
      "type": "text",
      "text": "- ż z *"
-    },
-    {
-     "type": "text",
-     "text": "Dziennik Ustaw Nr 57"
     },
     {
      "type": "ust",
@@ -157,8 +153,13 @@
      "type": "ust",
      "num": "2",
      "path": "par_8/ust_2",
-     "text": "Minister Przemysłu i Handlu może w dro- „dze zarządzenia zastrzec sobie udzielanie zezwos ' poz, 311 leń na prowadzenie handlu w innych cece. kach nie wymienionych w ust. 1 pkt a).",
-     "children": []
+     "text": "Minister Przemysłu i Handlu może w dro- „dze zarządzenia zastrzec sobie udzielanie zezwos ' poz, 311",
+     "children": [
+      {
+       "type": "text",
+       "text": "leń na prowadzenie handlu w innych cece. kach nie wymienionych w ust. 1 pkt a)."
+      }
+     ]
     },
     {
      "type": "ust",
@@ -184,35 +185,50 @@
        "type": "lit",
        "num": "c",
        "path": "par_8/ust_2/lit_c",
-       "text": "postępowaniem zgodnym z zasadami etyki kupieckiej. § 15. 1. Przygotowanie fachowe wykazuje się przez przedłożenie zaświadczenia Kupieckiego Instytutu Wiedzy Zawodowej (dyplomu kupieckiego).",
+       "text": "postępowaniem zgodnym z zasadami etyki kupieckiej.",
        "children": []
       }
      ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "15",
+   "path": "par_15",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_15/ust_1",
+     "text": "Przygotowanie fachowe wykazuje się przez przedłożenie zaświadczenia Kupieckiego Instytutu Wiedzy Zawodowej (dyplomu kupieckiego).",
+     "children": []
     },
     {
      "type": "ust",
      "num": "2",
-     "path": "par_8/ust_2",
+     "path": "par_15/ust_2",
      "text": "Osoby, które w dniu wejścia w życie usta\" wy 2 dnia 2 czerwca 1947 r. o zezwoleniach na prowadzenie przedsiębiorstw handlowych i za” wodowe wykonywanie czynności handlowych Dz. U. R. P. Nr 43, poz. 220) prowadziły przedsiębiorstwo lub wykonywały zawodowo czynności handlowe, mogą wykazać przygoto” wanie fachowe zaświadczeniem zrzeszenia kupieckiego.",
      "children": []
     },
     {
      "type": "ust",
      "num": "3",
-     "path": "par_8/ust_3",
+     "path": "par_15/ust_3",
      "text": "Do dnia 31 grudnia 1950 r. można wy” kazać przygotowanie fachowe:",
      "children": [
       {
        "type": "lit",
        "num": "a",
-       "path": "par_8/ust_3/lit_a",
+       "path": "par_15/ust_3/lit_a",
        "text": "przez złożenie zaświadczenia o kończę” niu co najmniej 4 klas szkoły powszech- \"nej oraz zaświadczenia zrzeszenia kupiec” kiego o, ukończeniu co najmniej 3-letniej nauki kupieckiej, albo.",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "par_8/ust_3/lit_b",
+       "path": "par_15/ust_3/lit_b",
        "text": "przez złożenie zaświadczenia o. ukończeniu zawodowej dokształcającej szkoły handlowej lub udowodnienie zaliczenia do kategorii sprzedawców i ekspedientów sklepowych i księgarskich w myśl art. 2 pkt 9 rozporządzenia Prezydenta Rzeczypospolitej z dnia 16 marca 1923 r. o umowie o pracę pracowników umysłowych (Dz. U. R. P. Nr 35, poz. 325)",
        "children": [
         {
@@ -229,10 +245,6 @@
         },
         {
          "type": "text",
-         "text": "Dziennik Ustaw Nr 57"
-        },
-        {
-         "type": "text",
          "text": "$ r6. Od wykazania przygotowania fachowego wolne są osoby, posiadające:"
         }
        ]
@@ -240,28 +252,28 @@
       {
        "type": "lit",
        "num": "a",
-       "path": "par_8/ust_3/lit_a",
+       "path": "par_15/ust_3/lit_a",
        "text": "ukończone studia handlowe, ekonomiczne lub spółdzielcze na wyższych uczelniach » krajowych lub zagranicznych oraz",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "par_8/ust_3/lit_b",
+       "path": "par_15/ust_3/lit_b",
        "text": "osoby, które ukończyły szkołę . średnią lub spółdzielczą i wykazały j, handlową się jednoroczną praktyką kupiecką. \"8 17. Osoby, które w-inny wystarczający sposób wykażą przygotowanie fachowe, być zwolnione od obowiązku przedłożeftia db-. wodu przygotowania fachowego na wniosek powiatowego zrzeszenia kupićckiego przez właści wy. wojewódzki związek zrzeszeń kupieckich. |. 6 18. Ubiegający się o zezwólenie: powinien złożyć własnoręcznie podpisine oświadczenie o. niekaralności: R,",
        "children": []
       },
       {
        "type": "lit",
        "num": "a",
-       "path": "par_8/ust_3/lit_a",
+       "path": "par_15/ust_3/lit_a",
        "text": "za przestępstwo, popełnione z chęci zysku,",
        "children": []
       },
       {
        "type": "lit",
        "num": "b",
-       "path": "par_8/ust_3/lit_b",
+       "path": "par_15/ust_3/lit_b",
        "text": "za umyślny występek skarbowy.",
        "children": []
       }

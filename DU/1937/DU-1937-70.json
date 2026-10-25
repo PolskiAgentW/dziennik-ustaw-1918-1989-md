@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/70",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 29 stycznia 1937 r. wydane w porozumieniu z Ministrem Skarbu o gromadach.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/70/text.pdf",
  "body": [
   {
@@ -33,11 +33,6 @@
   {
    "type": "note",
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "Dziennik Ustaw Nr 9",
-   "quoted": true
   },
   {
    "type": "text",
@@ -619,7 +614,7 @@
     },
     {
      "type": "text",
-     "text": ". a NN w, ś"
+     "text": "a NN w, ś"
     },
     {
      "type": "text",
@@ -1113,7 +1108,7 @@
     },
     {
      "type": "text",
-     "text": "+ Dziennik Ustaw Nr 9 Str. 99"
+     "text": "+ Str. 99"
     }
    ]
   },

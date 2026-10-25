@@ -1,7 +1,7 @@
 {
  "eli": "DU/1979/111",
  "title": "Obwieszczenie Ministra Obrony Narodowej z dnia 6 lipca 1979 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Polskiej Rzeczypospolitej Ludowej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1979/111/text.pdf",
  "body": [
   {
@@ -2767,7 +2767,7 @@
         },
         {
          "type": "text",
-         "text": "' ‘ Ę Dziennik Ustaw Nr 18"
+         "text": "' ‘ Ę"
         },
         {
          "type": "text",
@@ -3126,7 +3126,11 @@
         },
         {
          "type": "text",
-         "text": "generałowie i admirałowie generał brygady kontradmirał © generał dywizji wiceadmirał generał broni admirał generał armii"
+         "text": "generałowie i admirałowie"
+        },
+        {
+         "type": "text",
+         "text": "generał brygady kontradmirał © generał dywizji wiceadmirał generał broni admirał generał armii"
         }
        ]
       },
@@ -5868,10 +5872,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 18 — 268 —"
-      },
-      {
-       "type": "text",
        "text": "formacja obrony cywilnej jest podporządkowańa, albo jednoslka organizacyjha, o której mowa w art. 146 ust. 3."
       },
       {
@@ -7035,6 +7035,10 @@
         {
          "type": "note",
          "text": "[Strona 29 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+        },
+        {
+         "type": "text",
+         "text": "+"
         },
         {
          "type": "text",

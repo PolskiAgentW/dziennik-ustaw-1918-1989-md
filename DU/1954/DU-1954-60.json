@@ -1,7 +1,7 @@
 {
  "eli": "DU/1954/60",
  "title": "Rozporządzenie Rady Ministrów z dnia 10 kwietnia 1954 r. w sprawie wysokości i trybu uiszczania opłat w postępowaniu arbitrażowym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/60/text.pdf",
  "body": [
   {
@@ -88,10 +88,6 @@
       {
        "type": "text",
        "text": "+"
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 16"
       }
      ]
     },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1986/199",
  "title": "Rozporządzenie Ministra Komunikacji z dnia 10 września 1986 r. w sprawie personelu lotniczego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1986/199/text.pdf",
  "body": [
   {
@@ -347,10 +347,6 @@
       {
        "type": "text",
        "text": "="
-      },
-      {
-       "type": "text",
-       "text": "Dziennik Ustaw Nr 41"
       },
       {
        "type": "text",
@@ -2728,10 +2724,6 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw Nr 41"
-      },
-      {
-       "type": "text",
        "text": "2.10.1.1. Wiek. Kandydat powinien mieć ukończonych 18 lat życia."
       },
       {
@@ -2982,7 +2974,7 @@
         },
         {
          "type": "text",
-         "text": "ej : é Poz. 199 Dziennik Ustaw Nr 41"
+         "text": "ej : é Poz. 199"
         }
        ]
       },
@@ -3871,7 +3863,7 @@
         },
         {
          "type": "text",
-         "text": "— SPF — Dziennik Ustaw Nr 41"
+         "text": "— SPF —"
         }
        ]
       },
@@ -4808,11 +4800,6 @@
           {
            "type": "text",
            "text": "re *",
-           "quoted": true
-          },
-          {
-           "type": "text",
-           "text": "Dziennik Ustaw Nr 41",
            "quoted": true
           },
           {

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/291",
  "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 4 maja 1937 r. w sprawie wykonania ustawy o nadzorze nad hodowlą bydła, trzody chlewnej i owiec.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.65",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/291/text.pdf",
  "body": [
   {
@@ -993,10 +993,6 @@
     },
     {
      "type": "text",
-     "text": "Dziennik Ustaw Nr 38"
-    },
-    {
-     "type": "text",
      "text": "ry do 15 lutego według stanu z 1 lutego, tryki do 15 lipca według stanu z 1 lipca. Zgłoszenie powinno zawierać: wiek, maść, w miarę możności rasę rozpłodnika, nazwisko i miejsce zamieszkania właściciela."
     },
     {
@@ -1365,6 +1361,10 @@
     {
      "type": "note",
      "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "Str. 793"
     },
     {
      "type": "text",
