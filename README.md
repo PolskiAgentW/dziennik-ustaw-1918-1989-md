@@ -83,7 +83,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-09 07:06 UTC (liczone z `index.csv`).
+Stan na 2026-10-25 16:00 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -160,7 +160,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 28619, razem 73220 z 78
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 233.
 
 Rodzaje aktów: Rozporządzenie 21103, Oświadczenie rządowe 4227, Dekret 1294, Obwieszczenie 720, Konwencja 465, Umowa międzynarodowa 280, Protokół 124, Układ 113, Zarządzenie 112, Uchwała 90, Porozumienie 83, Traktat 49, Oświadczenie 18, Przepisy wykonawcze 10, Statut 8, Przepisy 7, Ustawa 6, Postanowienie 5, Deklaracja 5, Orędzie 3, Reskrypt 2, Sprostowanie 1, Instrukcja 1, Regulamin 1, Rezolucja 1.
-Wersje konwertera: eli2md 0.6.49 (28728).
+Wersje konwertera: eli2md 0.6.49 (28727), eli2md 0.6.62 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -206,6 +206,13 @@ przed nimi. Nowych nagłówków: 117, żaden nie zniknął. `.md` się nie zmien
 Pozostałe akty bez zmian (porównanie drzew wszystkich aktów zbioru). W 18 skanach z lat 1918–1945 zmieniły się ścieżki
 kilku jednostek: paragraf albo ustęp tuż po nowym nagłówku, przed którym OCR nie odczytał numeru artykułu, nie jest
 już częścią artykułu sprzed nagłówka (DU/1932/725: `art_260/par_1` → `par_1`).
+
+## Zmiana 2026-10-25
+
+eli2md 0.6.62, 1 akt (opis w README eli2md, wpis 0.6.62): nagłówek strony numeru zostawał w tekście aktu, gdy nie był
+pierwszą linią strony. W tym zbiorze był w jednym akcie: DU/1968/337 („Dziennik Ustaw Nr 46 — 528 — Poz. 337” w środku
+akapitu). Po przeliczeniu go nie ma, a wyraz przeniesiony przez granicę stron jest złączony („lud-” / „ności” →
+„ludności”). Reszta tekstu ma te same znaki.
 
 ## Licencja
 

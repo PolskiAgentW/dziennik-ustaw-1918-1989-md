@@ -1,7 +1,7 @@
 {
  "eli": "DU/1968/337",
  "title": "Rozporządzenie Ministra Finansów z dnia 9 grudnia 1968 r. zmieniające rozporządzenie w sprawie wykonania niektórych przepisów dekretu o postępowaniu podatkowym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.62",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1968/337/text.pdf",
  "body": [
   {
@@ -448,17 +448,8 @@
        "type": "pkt",
        "num": "2",
        "path": "par_1/ust_9/pkt_2",
-       "text": "20.000 zł — gdy chodzi o zmianę decyzji . przez organ finansowy prezydium powiatowej rady narodowej (rady narodowej miasta stanowiącego powiat) oraz dzielnicowej rady narodowej w miastach wyłączonych z województw w zakresie zobowiązań podmiotów gospodarki nie uspołecznionej i lud-",
-       "children": [
-        {
-         "type": "text",
-         "text": "Dziennik Ustaw Nr 46 — 528 — Poz. 337"
-        },
-        {
-         "type": "text",
-         "text": "ności oraz w zakresie nie wymienionych w pkt 1 zobowiązań podmiotów gospodarki uspołecznionej,"
-        }
-       ]
+       "text": "20.000 zł — gdy chodzi o zmianę decyzji . przez organ finansowy prezydium powiatowej rady narodowej (rady narodowej miasta stanowiącego powiat) oraz dzielnicowej rady narodowej w miastach wyłączonych z województw w zakresie zobowiązań podmiotów gospodarki nie uspołecznionej i ludności oraz w zakresie nie wymienionych w pkt 1 zobowiązań podmiotów gospodarki uspołecznionej,",
+       "children": []
       },
       {
        "type": "pkt",
