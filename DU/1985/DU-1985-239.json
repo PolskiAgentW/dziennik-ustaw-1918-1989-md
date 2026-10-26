@@ -1,7 +1,7 @@
 {
  "eli": "DU/1985/239",
  "title": "Rozporządzenie Rady Ministrów z dnia 16 września 1985 r. w sprawie szczegółowych zasad i trybu oddawania w użytkowanie wieczyste gruntów i sprzedaży nieruchomości państwowych, kosztów i rozliczeń z tym związanych oraz zarządzania sprzedanymi nieruchomościami.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1985/239/text.pdf",
  "body": [
   {
@@ -110,7 +110,7 @@
       },
       {
        "type": "text",
-       "text": "Driennik. Ustaw Nr 7% = 632"
+       "text": "Driennik. Ustaw Nr 7%"
       }
      ]
     },
@@ -334,10 +334,6 @@
       {
        "type": "note",
        "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "= 633 —"
       },
       {
        "type": "text",

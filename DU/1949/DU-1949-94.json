@@ -1,7 +1,7 @@
 {
  "eli": "DU/1949/94",
  "title": "Rozporządzenie Rady Ministrów z dnia 19 lutego 1949 r. w sprawie dodatków funkcyjnych i służbowych dla pracowników państwowych i samorządowych oraz przewodniczących organów wykonawczych gmin miejskich i wiejskich.",
- "converter": "eli2md 0.6.65",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/94/text.pdf",
  "body": [
   {
@@ -394,20 +394,16 @@
   {
    "type": "signature",
    "text": "Minister Odbudowy: M. Kaczorowski"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "= 209 —"
   }
  ],
  "annexes": [
   {
    "heading": "ZAŁĄCZNIK Nr 1",
    "body": [
+    {
+     "type": "note",
+     "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
     {
      "type": "text",
      "text": "do rozporządzenia Rady Ministrów z dnia 19 lutego 1949 r. w sprawie dodatków funkcyjnych i służbowych dla pracowników państwowych i samorządowych oraz przewodniczących orgaaów wykonawczych gmin miej-"

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1950/364",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 2 września 1950 r. o ogłoszeniu jednolitego tekstu kodeksu postępowania karnego.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/364/text.pdf",
  "body": [
   {
@@ -4207,10 +4207,6 @@
       },
       {
        "type": "text",
-       "text": "= 512 ="
-      },
-      {
-       "type": "text",
        "text": "Art, 278. Sąd może zarządzić prowadzenie przy drzwiach zamkniętych całej rozprawy lub jej części, jeżeli choćby jeden z oskarżonych nie ukończył lat siedemnastu."
       }
      ]
@@ -5906,7 +5902,7 @@
         },
         {
          "type": "text",
-         "text": "518 = ziennik Ustaw Nr 40",
+         "text": "ziennik Ustaw Nr 40",
          "quoted": true
         },
         {
@@ -6102,11 +6098,6 @@
         {
          "type": "note",
          "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "=— 519",
-         "quoted": true
         },
         {
          "type": "text",

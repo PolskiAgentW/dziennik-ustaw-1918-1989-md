@@ -1,7 +1,7 @@
 {
  "eli": "DU/1960/61",
  "title": "Oświadczenie rządowe z dnia 24 grudnia 1959 r. w sprawie ratyfikacji przez szereg państw Konwencji (nr 95) dotyczącej ochrony płacy, przyjętej w Genewie dnia 1 lipca 1949 r.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1960/61/text.pdf",
  "body": [
   {
@@ -43,10 +43,6 @@
   {
    "type": "note",
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "— 108 ="
   },
   {
    "type": "text",

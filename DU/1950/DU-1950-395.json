@@ -1,7 +1,7 @@
 {
  "eli": "DU/1950/395",
  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 5 września 1950 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 23 lipca 1945 r. o zasiłkach i pomocy dla osób, pozostałych po uczestnikach ruchu podziemnego i partyzanckiego, poległych w walce o wyzwolenie Polski spod najazdu hitlerowskiego.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/395/text.pdf",
  "body": [
   {
@@ -27,10 +27,6 @@
   {
    "type": "note",
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "= 609 —"
   },
   {
    "type": "text",

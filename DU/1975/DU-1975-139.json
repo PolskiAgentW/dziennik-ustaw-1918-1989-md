@@ -1,7 +1,7 @@
 {
  "eli": "DU/1975/139",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 9 lipca 1975 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 25 stycznia 1958 r. o radach narodowych.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/139/text.pdf",
  "body": [
   {
@@ -1896,10 +1896,6 @@
         {
          "type": "note",
          "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "= 366 ="
         }
        ]
       }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/216",
  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 28 lutego 1939 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej o prawie budowlanym i zabudowaniu osiedli.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/216/text.pdf",
  "body": [
   {
@@ -7153,11 +7153,6 @@
     {
      "type": "note",
      "text": "[Strona 52 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 678 =",
-     "quoted": true
     },
     {
      "type": "text",

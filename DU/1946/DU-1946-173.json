@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/173",
  "title": "Dekret z dnia 16 maja 1946 r. o zobowiązaniach podatkowych.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/173/text.pdf",
  "body": [
   {
@@ -201,10 +201,6 @@
       },
       {
        "type": "text",
-       "text": "— 304 ="
-      },
-      {
-       "type": "text",
        "text": "t pobrania od podatnika należności z tytułu wobowiazania podatkowego, za pobranie w kwocie niższej niż należało, jak również za niewpłacenie właściwym władzom we właściwym terminie sum pobranych. Poza tym do zobowiązania płatnika stosuje się te same przepisy co do zobowiązania podatkowego podatnika. Przepisy ustaw ograniczające odpow iedzialnos¢ platników pozostają w mocy."
       }
      ]
@@ -396,10 +392,6 @@
       {
        "type": "note",
        "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— 305 ="
       }
      ]
     },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1971/213",
  "title": "Rozporządzenie Rady Ministrów z dnia 3 września 1971 r. w sprawie świadczeń na rzecz obrony kraju.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1971/213/text.pdf",
  "body": [
   {
@@ -369,10 +369,6 @@
       {
        "type": "note",
        "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "= 227 ="
       }
      ]
     },
@@ -1247,11 +1243,6 @@
     {
      "type": "note",
      "text": "[Strona 6 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 230 = Dziennik Ustaw Nr 23 '",
-     "quoted": true
     },
     {
      "type": "text",

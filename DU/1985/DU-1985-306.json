@@ -1,7 +1,7 @@
 {
  "eli": "DU/1985/306",
  "title": "Rozporządzenie Ministra Komunikacji z dnia 27 listopada 1985 r. w sprawie szczególnych warunków przewozu koleją żywych zwierząt.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1985/306/text.pdf",
  "body": [
   {
@@ -235,10 +235,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "= 37 ="
       },
       {
        "type": "text",

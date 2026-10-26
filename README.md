@@ -288,6 +288,15 @@ resztą tekstu z drugiego łamu tej samej strony, a cięcie zabiera wszystko od 
 DU/1935/416 § 1–3). Gdy cała ostatnia strona jest stopką, nie liczy się już do stron aktu (`pages_ocr`,
 `pages_without_text` w 31 aktach).
 
+Tego samego dnia eli2md 0.6.72, 122 akty (opis w README eli2md, wpis 0.6.72): wiersz z samym numerem strony u góry
+strony („— 170 —”, „= 579 —”) nie jest już tekstem. Przeliczyłem ponownie 154 akty, w których stoi taki wiersz. Nowy
+plik zostaje tylko wtedy, gdy ciąg słów różni się od poprzedniego wyłącznie brakiem numerów stron i kawałków nagłówka
+(„Dziennik Ustaw Nr 23”, „Poz.”), a jednostki drzewa są te same. Tak jest w 122 aktach. W 32 zostaje poprzedni plik:
+w 13 nowy był taki sam, w 19 porównanie wykazało też inne różnice (w tym zmiany konwertera od wersji poprzedniego pliku:
+0.6.49, 0.6.65, 0.6.66), których tu nie publikuję. Gdy z ostatniej strony do aktu
+trafiał tylko numer strony, ta strona nie liczy się już do stron aktu (`pages_ocr`, `pages_without_text` w 3 aktach).
+Wierszy z samym numerem strony było w zbiorze 246 w 154 aktach, zostało 116 w 35.
+
 ## Licencja
 
 Akty normatywne i ich urzędowe projekty oraz urzędowe dokumenty i materiały nie są przedmiotem prawa

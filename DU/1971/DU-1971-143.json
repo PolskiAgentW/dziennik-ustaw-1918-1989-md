@@ -1,7 +1,7 @@
 {
  "eli": "DU/1971/143",
  "title": "Oświadczenie rządowe z dnia 25 maja 1971 r. w sprawie uczestnictwa Tunezji i Barbadosu w Konwencji o dochodzeniu roszczeń alimentacyjnych za granicą, sporządzonej w Nowym Jorku dnia 20 czerwca 1956 r.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1971/143/text.pdf",
  "body": [
   {
@@ -27,10 +27,6 @@
   {
    "type": "note",
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "— 143 ="
   },
   {
    "type": "text",

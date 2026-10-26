@@ -1,7 +1,7 @@
 {
  "eli": "DU/1969/48",
  "title": "Obwieszczenie Ministra Kultury i Sztuki z dnia 20 lutego 1969 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 29 marca 1962 r. o wyższych szkołach artystycznych.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1969/48/text.pdf",
  "body": [
   {
@@ -142,21 +142,16 @@
   {
    "type": "signature",
    "text": "Minister Kultury i Sztuki: L. Motyka"
-  },
-  {
-   "type": "note",
-   "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-  },
-  {
-   "type": "text",
-   "text": "= 80 =",
-   "quoted": true
   }
  ],
  "annexes": [
   {
    "heading": "Załącznik do obwieszczenia Ministra Kullury i Szluki z dnia 20 lulego 1969 r. (poz. 48).",
    "body": [
+    {
+     "type": "note",
+     "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
     {
      "type": "text",
      "text": "USTAWA"

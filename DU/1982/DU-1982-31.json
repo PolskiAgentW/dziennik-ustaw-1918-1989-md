@@ -1,7 +1,7 @@
 {
  "eli": "DU/1982/31",
  "title": "Rozporządzenie Ministra Handlu Zagranicznego z dnia 27 stycznia 1982 r. zmieniające rozporządzenie w sprawie ceł i pozwoleń na towary przywożone i na towary wywożone w niehandlowym obrocie towarowym z zagranicą.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/31/text.pdf",
  "body": [
   {
@@ -277,11 +277,6 @@
         {
          "type": "text",
          "text": ">",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "— 7 =",
          "quoted": true
         },
         {

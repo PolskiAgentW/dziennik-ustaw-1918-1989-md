@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/312",
  "title": "Rozporządzenie Ministra Handlu Zagranicznego z dnia 9 grudnia 1983 r. w sprawie zwolnień od obowiązku posiadania pozwolenia na przywóz i wywóz oraz od cła w obrocie towarowym z zagranicą.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/312/text.pdf",
  "body": [
   {
@@ -1628,10 +1628,6 @@
         {
          "type": "text",
          "text": "*"
-        },
-        {
-         "type": "text",
-         "text": "= 896 —"
         }
        ]
       }

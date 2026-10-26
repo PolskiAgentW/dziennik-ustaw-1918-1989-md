@@ -1,7 +1,7 @@
 {
  "eli": "DU/1945/131",
  "title": "Obwieszczenie Ministra Pracy i Opieki Społecznej z dnia 7 czerwca 1945 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 17 marca 1932 r. o zaopatrzeniu inwalidzkim.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/131/text.pdf",
  "body": [
   {
@@ -711,10 +711,6 @@
       },
       {
        "type": "text",
-       "text": "— 175 ="
-      },
-      {
-       "type": "text",
        "text": "Rózdział cits Zaopatrzenie pieniężne sierot i rodziców r ‘granica rent osób pozostałych."
       }
      ]
@@ -1041,7 +1037,7 @@
         },
         {
          "type": "text",
-         "text": "4 = Por. 131"
+         "text": "Por. 131"
         },
         {
          "type": "text",
@@ -1602,10 +1598,6 @@
     {
      "type": "text",
      "text": "ustawa z dnia 12 lutego 1924 r. (Dz.U.R,P. Nr 21, poz. 223), ustawa z dnia 3 marca 1925 r. (Dz.U.R.P. Nr 30, poz. 209), rozporządzenia Prezydenta Rzeczypospolitej: z dnia 10 czerwca 1927 r. (Dz.U.R.P. Nr 54, poz. 475), .z dnia 7 października 1927 Y."
-    },
-    {
-     "type": "text",
-     "text": "7 ="
     },
     {
      "type": "text",

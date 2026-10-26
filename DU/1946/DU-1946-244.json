@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/244",
  "title": "Rozporządzenie Ministra Pracy i Opieki Społecznej z dnia 7 sierpnia 1946 r. o zmianie rozporządzenia Ministra Opieki Społecznej z dnia 31 sierpnia 1938 r. o ubezpieczeniu brackim w powiatach: będzińskim, bielskim, bialskim i chrzanowskim.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/244/text.pdf",
  "body": [
   {
@@ -119,10 +119,6 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "— 458 ="
     },
     {
      "type": "text",

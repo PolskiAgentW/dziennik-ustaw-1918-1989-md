@@ -1,7 +1,7 @@
 {
  "eli": "DU/1949/273",
  "title": "Rozporządzenie Ministra Oświaty z dnia 4 czerwca 1949 r. o trybie postępowania przy przyjmowaniu kandydatów na pierwszy rok studiów do państwowych szkół wyższych na rok szkolny 1949/50.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1949/273/text.pdf",
  "body": [
   {
@@ -179,10 +179,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "=— 816 —"
       }
      ]
     },

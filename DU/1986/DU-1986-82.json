@@ -1,7 +1,7 @@
 {
  "eli": "DU/1986/82",
  "title": "Konwencja konsularna między Rządem Polskiej Rzeczypospolitej Ludowej a Rządem Syryjskiej Republiki Arabskiej, podpisana w Warszawie dnia 10 kwietnia 1981 r.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1986/82/text.pdf",
  "body": [
   {
@@ -1030,11 +1030,6 @@
     {
      "type": "note",
      "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "= 170 —",
-     "quoted": true
     },
     {
      "type": "text",
@@ -2821,7 +2816,7 @@
     },
     {
      "type": "text",
-     "text": "AP zi 182 =",
+     "text": "AP zi",
      "quoted": true
     },
     {

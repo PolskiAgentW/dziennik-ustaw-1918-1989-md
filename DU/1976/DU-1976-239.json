@@ -1,7 +1,7 @@
 {
  "eli": "DU/1976/239",
  "title": "Rozporządzenie Ministra Pracy, Płac i Spraw Socjalnych z dnia 13 grudnia 1976 r. w sprawie dostosowania niektórych przepisów o ubezpieczeniu społecznym i o ubezpieczeniu rodzinnym do zasad określających składniki funduszu płac.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1976/239/text.pdf",
  "body": [
   {
@@ -182,10 +182,6 @@
      "path": "par_3/pkt_2",
      "text": "dodatkowego wynagrodzenia dla oblatywaczy samolotów i za sprawdzanie spa.ochronów,",
      "children": [
-      {
-       "type": "text",
-       "text": "— 434 ="
-      },
       {
        "type": "text",
        "text": "3)"

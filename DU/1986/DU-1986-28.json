@@ -1,7 +1,7 @@
 {
  "eli": "DU/1986/28",
  "title": "Rozporządzenie Rady Ministrów z dnia 6 lutego 1986 r. zmieniające rozporządzenie w sprawie udzielania odroczeń zasadniczej służby wojskowej oraz uznawania poborowych i żołnierzy za jedynych żywicieli rodzin oraz w sprawie szczególnych uprawnień żołnierzy i osób spełniających zastępczo obowiązek służby wojskowej oraz członków ich rodzin.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1986/28/text.pdf",
  "body": [
   {
@@ -489,11 +489,6 @@
       {
        "type": "note",
        "text": "[Strona 5 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— 45 =",
-       "quoted": true
       },
       {
        "type": "text",

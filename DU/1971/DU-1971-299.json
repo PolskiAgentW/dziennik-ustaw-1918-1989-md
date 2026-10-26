@@ -1,7 +1,7 @@
 {
  "eli": "DU/1971/299",
  "title": "Rozporządzenie Ministra Żeglugi z dnia 30 października 1971 r. w sprawie kwalifikacji zawodowych członków załóg polskich statków morskich.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1971/299/text.pdf",
  "body": [
   {
@@ -180,10 +180,6 @@
         {
          "type": "note",
          "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "— 330 ="
         }
        ]
       },
@@ -3845,7 +3841,7 @@
       },
       {
        "type": "text",
-       "text": "— 343 = \"Dziennik Ustaw Nr 33"
+       "text": "\"Dziennik Ustaw Nr 33"
       }
      ]
     }

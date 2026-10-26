@@ -1,7 +1,7 @@
 {
  "eli": "DU/1971/198",
  "title": "Rozporządzenie Rady Ministrów z dnia 6 sierpnia 1971 r. zmieniające rozporządzenie w sprawie uposażenia administracyjnego pracowników sądów powszechnych i sądów ubezpieczeń społecznych.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1971/198/text.pdf",
  "body": [
   {
@@ -48,11 +48,6 @@
     {
      "type": "note",
      "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "= 28 =",
-     "quoted": true
     },
     {
      "type": "text",

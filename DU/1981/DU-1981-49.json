@@ -1,7 +1,7 @@
 {
  "eli": "DU/1981/49",
  "title": "Rozporządzenie Ministra Pracy, Płac i Spraw Socjalnych z dnia 6 kwietnia 1981 r. zmieniające rozporządzenie w sprawie obliczania podstawy wymiaru składek na ubezpieczenie społeczne oraz świadczeń z ubezpieczenia społecznego z tytułu zatrudnienia w spółdzielczych zakładach usługowych.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1981/49/text.pdf",
  "body": [
   {
@@ -125,11 +125,6 @@
   {
    "type": "text",
    "text": "FĘ",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "= 136 =",
    "quoted": true
   }
  ],

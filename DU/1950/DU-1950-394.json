@@ -1,7 +1,7 @@
 {
  "eli": "DU/1950/394",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 25 sierpnia 1950 r. o ogłoszeniu jednolitego tekstu kodeksu postępowania cywilnego.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/394/text.pdf",
  "body": [
   {
@@ -2305,7 +2305,7 @@
     },
     {
      "type": "text",
-     "text": "(Dziennik Ustaw Nr”43. = 5057 —",
+     "text": "(Dziennik Ustaw Nr”43.",
      "quoted": true
     },
     {
@@ -6225,7 +6225,7 @@
     },
     {
      "type": "text",
-     "text": ". Dziennik Ustaw Nr 43 aż 579 ="
+     "text": ". Dziennik Ustaw Nr 43 aż"
     },
     {
      "type": "text",
@@ -8380,7 +8380,7 @@
       },
       {
        "type": "text",
-       "text": "oh Poz. 394 == 588",
+       "text": "oh Poz. 394",
        "quoted": true
       },
       {
@@ -11824,10 +11824,6 @@
     {
      "type": "note",
      "text": "[Strona 56 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "== 605 —"
     },
     {
      "type": "text",

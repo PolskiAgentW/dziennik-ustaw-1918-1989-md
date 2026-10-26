@@ -1,7 +1,7 @@
 {
  "eli": "DU/1985/76",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 12 lutego 1985 r. w sprawie opłat za dokonanie czynności notarialnych.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1985/76/text.pdf",
  "body": [
   {
@@ -432,7 +432,7 @@
       },
       {
        "type": "text",
-       "text": "— o Poz. 76 = 191"
+       "text": "— o Poz. 76"
       },
       {
        "type": "text",
@@ -782,10 +782,6 @@
     {
      "type": "note",
      "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "= 192 —"
     }
    ]
   },

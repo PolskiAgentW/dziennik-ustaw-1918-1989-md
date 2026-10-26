@@ -1,7 +1,7 @@
 {
  "eli": "DU/1982/47",
  "title": "Rozporządzenie Ministra Finansów z dnia 15 lutego 1982 r. w sprawie zryczałtowania podatków obrotowego i dochodowego od niektórych grup podatników oraz w sprawie opłaty skarbowej z tytułu wykonywania rzemiosła.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/47/text.pdf",
  "body": [
   {
@@ -1114,10 +1114,6 @@
       {
        "type": "note",
        "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— 110 ="
       },
       {
        "type": "text",

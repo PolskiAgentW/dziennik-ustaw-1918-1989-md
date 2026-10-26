@@ -1,7 +1,7 @@
 {
  "eli": "DU/1946/174",
  "title": "Dekret z dnia 16 maja 1946 r. o postępowaniu podatkowym.",
- "converter": "eli2md 0.6.71",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1946/174/text.pdf",
  "body": [
   {
@@ -57,10 +57,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— 308 ="
       },
       {
        "type": "text",
@@ -1147,10 +1143,6 @@
     },
     {
      "type": "text",
-     "text": "— 313 ="
-    },
-    {
-     "type": "text",
      "text": "(zakładu), posiadania składu lub wykonywania zajęcia. W razie zaniedbania tego obowiązku doręczenie pod poprzednim adresem ma skutek"
     },
     {
@@ -2105,7 +2097,7 @@
       },
       {
        "type": "text",
-       "text": "Dziennik Ustaw_Nr_27 317 ="
+       "text": "Dziennik Ustaw_Nr_27"
       },
       {
        "type": "text",
@@ -2287,10 +2279,6 @@
       {
        "type": "note",
        "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "318 = Dziennik Ustaw Nr 27, ="
       },
       {
        "type": "text",
@@ -3668,10 +3656,6 @@
       {
        "type": "note",
        "text": "[Strona 19 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "— 35 ="
       },
       {
        "type": "text",

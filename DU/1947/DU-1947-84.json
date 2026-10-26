@@ -1,7 +1,7 @@
 {
  "eli": "DU/1947/84",
  "title": "Dekret z dnia 28 stycznia 1947 r. o egzekucji administracyjnej świadczeń pieniężnych.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1947/84/text.pdf",
  "body": [
   {
@@ -293,10 +293,6 @@
       {
        "type": "text",
        "text": "\"a"
-      },
-      {
-       "type": "text",
-       "text": "= 217 —"
       }
      ]
     }
@@ -1118,10 +1114,6 @@
       {
        "type": "note",
        "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "222 ="
       }
      ]
     },
@@ -1265,10 +1257,6 @@
     {
      "type": "note",
      "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "== 223 —"
     }
    ]
   },
@@ -1569,11 +1557,6 @@
       {
        "type": "note",
        "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "225 ==",
-       "quoted": true
       },
       {
        "type": "text",
@@ -2535,7 +2518,7 @@
       },
       {
        "type": "text",
-       "text": "232 = Dziennik Ustaw Nr 21 zm",
+       "text": "zm",
        "quoted": true
       },
       {
@@ -3262,11 +3245,6 @@
       {
        "type": "note",
        "text": "[Strona 23 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "237 =",
-       "quoted": true
       },
       {
        "type": "text",

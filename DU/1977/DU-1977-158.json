@@ -1,7 +1,7 @@
 {
  "eli": "DU/1977/158",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 listopada 1977 r. w sprawie zasad i stawek wynagrodzenia twórców dzieł plastycznych oraz umów o wykonanie lub wykorzystanie tych dzieł.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1977/158/text.pdf",
  "body": [
   {
@@ -110,10 +110,6 @@
   {
    "type": "text",
    "text": "106 a ot \".-"
-  },
-  {
-   "type": "text",
-   "text": "= — 307 —"
   }
  ],
  "annexes": [
@@ -2567,10 +2563,6 @@
         {
          "type": "note",
          "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "— 314 ="
         },
         {
          "type": "text",

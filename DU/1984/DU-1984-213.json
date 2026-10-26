@@ -1,7 +1,7 @@
 {
  "eli": "DU/1984/213",
  "title": "Rozporządzenie Rady Ministrów z dnia 20 sierpnia 1984 r. w sprawie szczegółowych zasad udzielania zezwoleń, rejestracji i kontroli przedsiębiorstw oraz zakładów i urządzeń poligraficznych.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1984/213/text.pdf",
  "body": [
   {
@@ -684,10 +684,6 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "= 509 —"
       }
      ]
     },

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1981/43",
  "title": "Protokół podpisany w Sofii dnia 27 czerwca 1980 r. do Umowy między Polską Rzecząpospolitą Ludową a Ludową Republiką Bułgarii o pomocy prawnej i stosunkach prawnych w sprawach cywilnych, rodzinnych i karnych, podpisanej w Warszawie dnia 4 grudnia 1961 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1981/43/text.pdf",
  "body": [
   {
@@ -216,11 +216,6 @@
     {
      "type": "note",
      "text": "[Strona 3 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "—= 131 —",
-     "quoted": true
     },
     {
      "type": "text",

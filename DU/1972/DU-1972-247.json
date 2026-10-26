@@ -1,7 +1,7 @@
 {
  "eli": "DU/1972/247",
  "title": "Rozporządzenie Rady Ministrów z dnia 11 sierpnia 1972 r. w sprawie wykonywania w stosunku do żołnierzy kar orzeczonych za wykroczenia popełnione przed wcieleniem do czynnej służby wojskowej.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.72",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1972/247/text.pdf",
  "body": [
   {
@@ -140,10 +140,6 @@
       {
        "type": "note",
        "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "= 360 —"
       }
      ]
     }
