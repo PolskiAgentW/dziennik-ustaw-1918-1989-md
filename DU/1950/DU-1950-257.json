@@ -1,7 +1,7 @@
 {
  "eli": "DU/1950/257",
  "title": "Rozporządzenie Rady Ministrów z dnia 21 czerwca 1950 r. w sprawie mieszkań służbowych i mieszkań pracowniczych.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.49",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/257/text.pdf",
  "body": [
   {
@@ -167,7 +167,7 @@
       },
       {
        "type": "text",
-       "text": "am 318 —"
+       "text": "am 318 — Dziennik Ustaw Nr 28"
       },
       {
        "type": "text",
@@ -670,60 +670,72 @@
       {
        "type": "note",
        "text": "[Strona 4 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "„poem 320 — Poz. 257 1 258 qi M a A",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "§ 22.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "1. Pracodawca dokona do dnia 31 grudnia 1950 r. przydziału lokali mieszkalnych, zajmowanych w tym dniu przez pracowników, jeżeli lokale te w myśl niniejszego rozporządzenia uważa się za mieszkania służbowe lub pracownicze.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "2. W przypadku przejścia pracownika do służby (pracy) u innego pracodawcy w okresie od dnia otrzymania mieszkania do dnia wejścia w życie niniejszego rozporządzenia, jeżeli przejście nastąpiło przy zachowaniu wymogów uzasadniających otrzymanie mieszkania zastępczego (§ 9 ust. 1, § 12 ust. 3 i § 13), przydziału dokona nowy pracodawca w terminie do dnia 31 grudnia 1950 r.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "3. W przypadku przejścia pracownika do służby (pracy) u innego pracodawcy w okresie od dnia otrzymania mieszkania do dnia wejścia w życie niniejszego rozporządzenia, jeżeli przejście nastąpiło bez zachowania wymogów uzasadniających otrzymanie mieszkania zastępczego (§ 9 ust. 2 i § 12 ust. 1), dawny pracodawca ma prawo żądać opróżnienia mieszkania przez pracownika i osoby wspólnie z nim zamieszkałe w terminie określonym w ust. 1. W razie niezgłoszenia żądania w tym terminie przydziału dokona nowy pracodawca do dnia 31 marca 1951 r.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "z",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "§ 23. Pracownik lub inna osoba uprawniona ma prawo w terminie 14 dni od dnia otrzymania przydziału lub wezwania do opróżnienia mieszkania (§ 21) zwrócić się do Wojewódzkiej Komisji Lokalowej o ustalenie, że zajmuje lokal na podstawie innego tytułu niż tytuł określony w przydziale lub że żądanie opróżnienia lokalu jest nieuzasadnione. O prawie tym należy pouczyć pracownika w piśmie zawierającym przydział lub wezwanie do opróżnienia lokalu.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "§ 24. Z dniem wejścia w życie niniejszego rozporządzenia tracą moc obowiązującą wszelkie przepisy oraz postanowienia układów zbiorowych, regulaminów i umów dotyczące. przedmiotów unormowanych niniejszym rozporządzeniem.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "§ 25. Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów i wszystkim ministrom.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "§ 26. Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
-       "quoted": true
       }
      ]
     }
    ]
+  },
+  {
+   "type": "par",
+   "num": "22",
+   "path": "par_22",
+   "text": "",
+   "children": [
+    {
+     "type": "ust",
+     "num": "1",
+     "path": "par_22/ust_1",
+     "text": "Pracodawca dokona do dnia 31 grudnia 1950 r. przydziału lokali mieszkalnych, zajmowanych w tym dniu przez pracowników, jeżeli lokale te w myśl niniejszego rozporządzenia uważa się za mieszkania służbowe lub pracownicze.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "2",
+     "path": "par_22/ust_2",
+     "text": "W przypadku przejścia pracownika do służby (pracy) u innego pracodawcy w okresie od dnia otrzymania mieszkania do dnia wejścia w życie niniejszego rozporządzenia, jeżeli przejście nastąpiło przy zachowaniu wymogów uzasadniających otrzymanie mieszkania zastępczego (§ 9 ust. 1, § 12 ust. 3 i § 13), przydziału dokona nowy pracodawca w terminie do dnia 31 grudnia 1950 r.",
+     "children": []
+    },
+    {
+     "type": "ust",
+     "num": "3",
+     "path": "par_22/ust_3",
+     "text": "W przypadku przejścia pracownika do służby (pracy) u innego pracodawcy w okresie od dnia otrzymania mieszkania do dnia wejścia w życie niniejszego rozporządzenia, jeżeli przejście nastąpiło bez zachowania wymogów uzasadniających otrzymanie mieszkania zastępczego (§ 9 ust. 2 i § 12 ust. 1), dawny pracodawca ma prawo żądać opróżnienia mieszkania przez pracownika i osoby wspólnie z nim zamieszkałe w terminie określonym w ust. 1. W razie niezgłoszenia żądania w tym terminie przydziału dokona nowy pracodawca do dnia 31 marca 1951 r.",
+     "children": [
+      {
+       "type": "text",
+       "text": "z"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "23",
+   "path": "par_23",
+   "text": "Pracownik lub inna osoba uprawniona ma prawo w terminie 14 dni od dnia otrzymania przydziału lub wezwania do opróżnienia mieszkania (§ 21) zwrócić się do Wojewódzkiej Komisji Lokalowej o ustalenie, że zajmuje lokal na podstawie innego tytułu niż tytuł określony w przydziale lub że żądanie opróżnienia lokalu jest nieuzasadnione. O prawie tym należy pouczyć pracownika w piśmie zawierającym przydział lub wezwanie do opróżnienia lokalu.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "24",
+   "path": "par_24",
+   "text": "Z dniem wejścia w życie niniejszego rozporządzenia tracą moc obowiązującą wszelkie przepisy oraz postanowienia układów zbiorowych, regulaminów i umów dotyczące. przedmiotów unormowanych niniejszym rozporządzeniem.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "25",
+   "path": "par_25",
+   "text": "Wykonanie rozporządzenia porucza się Prezesowi Rady Ministrów i wszystkim ministrom.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "26",
+   "path": "par_26",
+   "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia.",
+   "children": []
   },
   {
    "type": "signature",

@@ -83,7 +83,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-26 00:12 UTC (liczone z `index.csv`).
+Stan na 2026-10-26 00:20 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -160,7 +160,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 28619, razem 73220 z 78
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 233.
 
 Rodzaje aktów: Rozporządzenie 21103, Oświadczenie rządowe 4227, Dekret 1294, Obwieszczenie 720, Konwencja 465, Umowa międzynarodowa 280, Protokół 124, Układ 113, Zarządzenie 112, Uchwała 90, Porozumienie 83, Traktat 49, Oświadczenie 18, Przepisy wykonawcze 10, Statut 8, Przepisy 7, Ustawa 6, Postanowienie 5, Deklaracja 5, Orędzie 3, Reskrypt 2, Sprostowanie 1, Instrukcja 1, Regulamin 1, Rezolucja 1.
-Wersje konwertera: eli2md 0.6.49 (27461), eli2md 0.6.66 (985), eli2md 0.6.65 (279), eli2md 0.6.69 (2), eli2md 0.6.62 (1).
+Wersje konwertera: eli2md 0.6.49 (27463), eli2md 0.6.66 (983), eli2md 0.6.65 (279), eli2md 0.6.69 (2), eli2md 0.6.62 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -256,6 +256,13 @@ zaczynający się od „5” albo „8” za sklejone „§”. Przeliczyłem 15
 od wersji sprzed 2026-10-25. W 13 przeliczenie nie zmienia tekstu. W DU/1937/423 „§ 80. Wstążki z jedwabiu …” jest znów
 pozycją taryfy „580.”; w DU/1938/679 znika jeszcze jeden nagłówek strony („Str. 1559 … Dziennik Ustaw Nr 103”), reszta
 tekstu bez zmian.
+
+Tego samego dnia bilans nagłówków „§” po przeliczeniach z 2026-10-25 i 2026-10-26: obejrzałem zmiany nagłówków „§”
+w aktach, w których różnią się od wersji sprzed 2026-10-25 (15 w tym zbiorze). 2 akty wracają do wersji sprzed
+2026-10-25: w DU/1937/275 („§ 2.”) i DU/1950/257 („§ 22.”–„§ 26.”) prawdziwy „§” przestał być nagłówkiem, bo doklejał się
+do poprzedniego akapitu. W pozostałych 13 zmiany, które obejrzałem, są poprawą: „§ N.” z akapitu staje się nagłówkiem
+(np. DU/1938/203, DU/1948/485), „8 2.” odczytane przez OCR staje się „§ 2.” (DU/1938/679), pozycja taryfy „580.” przestaje
+być „§ 80.” (DU/1937/423).
 
 ## Licencja
 

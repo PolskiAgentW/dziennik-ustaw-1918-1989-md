@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/275",
  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 26 kwietnia 1937 r. w sprawie uzupełnienia umowy pomiędzy Rzecząpospolitą Polską a Rzeszą Niemiecką o ubezpieczeniu społecznym, podpisanej wraz z protokołem końcowym w Berlinie dnia 11 czerwca 1931 r.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.49",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/275/text.pdf",
  "body": [
   {
@@ -36,90 +36,87 @@
     },
     {
      "type": "text",
-     "text": "Załącznik do rozp. Min. Op. Społ z dnia 26 kwietnia 1937 r. (poz. 275)."
+     "text": "Str. 745"
     },
     {
      "type": "text",
-     "text": "Polski Minister Opieki Społecznej i niemiecki Minister Pracy Rzeszy zawarli w myśl art, 43 umowy pomiędzy Rzecząpospolitą Polską a Rzeszą Niemiecką o ubezpieczeniu społecznym z dnia 11 czerwca 1931 r. na podstawie konferencji, odbytej w Berlinie w czasie od 11 do 20 stycznia 1937 r., następujące"
+     "text": "„Poz, 275i 276 Dziennik Ustaw Nr 36",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "Porozumienie"
+     "text": "Załącznik do rozp. Min. Op. Społ z dnia 26 kwietnia 1937 r. (poz. 275).",
+     "quoted": true
     },
     {
      "type": "text",
-     "text": "o uzupełnieniu umowy polsko ~ niemieckiej o ubezpieczeniu społecznym z dnia 11 czerwca 1931 r. i Po artykule 33 wstawia się następujący artykuł 33a:"
-    }
-   ]
-  },
-  {
-   "type": "art",
-   "num": "33a",
-   "path": "art_33a",
-   "text": "",
-   "children": [
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "art_33a/pkt_1",
-     "text": "Postanowienia niniejszego artykułu stosują się do ubezpieczonych, którzy w dniu przełomowym ustalonym w art. 1 § 13 decyzji Rady Ligi Narodów z dnia 17 lipca 1922 r. mieszkali na wymienionym tam obszarze, a nie byli w tym dniu na tym obszarze zatrudnieni, jak również w razie, gdy ubezpieczony zmarł przed dniem przełomowym, do pozostałych po nim członków rodziny, którzy mieszkali tam w dniu przełomowym.",
-     "children": []
+     "text": "Polski Minister Opieki Społecznej i niemiecki Minister Pracy Rzeszy zawarli w myśl art, 43 umowy pomiędzy Rzecząpospolitą Polską a Rzeszą Niemiecką o ubezpieczeniu społecznym z dnia 11 czerwca 1931 r. na podstawie konferencji, odbytej w Berlinie w czasie od 11 do 20 stycznia 1937 r., następujące",
+     "quoted": true
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "art_33a/pkt_2",
-     "text": "Polskie ubezpieczenie inwalidzkie (ubezpieczenie emerytalne robotników) przejmuje, poczynając od dnia 1 stycznia 1936 r., ciężary z tytułu składek ważnie opłaconych za czas do dnia przełomowego, jak również z tytułu traktowanych na równi z nimi okresów zastępczych.",
-     "children": []
+     "type": "text",
+     "text": "Porozumienie",
+     "quoted": true
     },
     {
-     "type": "pkt",
-     "num": "3",
-     "path": "art_33a/pkt_3",
-     "text": "W wypadkach przewidzianych w ust. 2 świadczeń udziela się, poczynając od dnia 1 stycznia 1936 r. Dla świadczeń tych miarodajne jest prawo polskie. Za czas przed dniem 1 stycznia 1936 r. żadna z obu Stron nie udziela świadczeń,",
-     "children": []
+     "type": "text",
+     "text": "o uzupełnieniu umowy polsko ~ niemieckiej o ubezpieczeniu społecznym z dnia 11 czerwca 1931 r. i Po artykule 33 wstawia się następujący artykuł 33a:",
+     "quoted": true
     },
     {
-     "type": "pkt",
-     "num": "4",
-     "path": "art_33a/pkt_4",
-     "text": "Niemieckie ubezpieczenie inwalidzkie partycypuje od dnia 1 stycznia 1936 r. w każdej tencie przyznanej stosownie do ust. 2 przez polskie ubezpieczenie inwalidzkie (ubezpieczenie emerytalne robotników) miesięcznie kwotą: 8 zł przy rentach inwalidzkich i starcżych, wdów i wdowców, \" 1\" \" sierocych. 2,50 „ \"",
-     "children": [
-      {
-       "type": "text",
-       "text": "To samo stosuje się również wtedy, gdy poza okresami składkowymi, wymienionymi w ust. 2, przebyto po dniu przełomowym okresy składkowe w polskim ubezpieczeniu inwalidzkim (ubezpieczeniu emerytalnym robotników). Do zapłaty zobowiązana jest wobec instytucji ubezpieczeniowych polskich Landesversicherungsanstalt Schlesien."
-      }
-     ]
+     "type": "text",
+     "text": "Art. 33a.",
+     "quoted": true
     },
     {
-     "type": "pkt",
-     "num": "5",
-     "path": "art_33a/pkt_5",
-     "text": "Partycypowanie w myśl ust. 4 nie ża» chodzi, gdy: 1] do dnia przełomowego opłacono mniej niż dwadzieścia sześć tygodni składkowych,",
-     "children": []
+     "type": "text",
+     "text": "1) Postanowienia niniejszego artykułu stosują się do ubezpieczonych, którzy w dniu przełomowym ustalonym w art. 1 § 13 decyzji Rady Ligi Narodów z dnia 17 lipca 1922 r. mieszkali na wymienionym tam obszarze, a nie byli w tym dniu na tym obszarze zatrudnieni, jak również w razie, gdy ubezpieczony zmarł przed dniem przełomowym, do pozostałych po nim członków rodziny, którzy mieszkali tam w dniu przełomowym.",
+     "quoted": true
     },
     {
-     "type": "pkt",
-     "num": "2",
-     "path": "art_33a/pkt_2",
-     "text": "ekspektatywa z wymienionych w ust. 2 okresów ubezpieczeniowych według prawa polskiego wygasła i nie odżyła,",
-     "children": []
+     "type": "text",
+     "text": "2) Polskie ubezpieczenie inwalidzkie (ubezpieczenie emerytalne robotników) przejmuje, poczynając od dnia 1 stycznia 1936 r., ciężary z tytułu składek ważnie opłaconych za czas do dnia przełomowego, jak również z tytułu traktowanych na równi z nimi okresów zastępczych.",
+     "quoted": true
     },
     {
-     "type": "pkt",
-     "num": "6",
-     "path": "art_33a/pkt_6",
-     "text": "Postanowienia niniejszego artykułu nie naruszają artykułu 1 § 15 decyzji Rady Ligi Narodów z dnia 17 lipca 1922 r., w myśl którego instytucje ubezpieczeniowe polskie mają zaliczać okresy ubezpieczeniowe tych osób, które w dniu przełomowym zatrudnione były na wymienionym w ust. 1 obszarze, albo, jeśli chodzi o dobrowolne ubezpieczenie, mieszkały na tym obszarze,",
-     "children": [
-      {
-       "type": "text",
-       "text": "Berlin, dnia 20 stycznia 1937 r. Za Ministra Opieki |. Za Ministra Pracy Społecznej: Rzeszy: Z. Skokowski Dr Hans Engel Inspektor Dyrektor Ministerialny"
-      },
-      {
-       "type": "text",
-       "text": "Dr St. Fischlowitz Radca"
-      }
-     ]
+     "type": "text",
+     "text": "3) W wypadkach przewidzianych w ust. 2 świadczeń udziela się, poczynając od dnia 1 stycznia 1936 r. Dla świadczeń tych miarodajne jest prawo polskie. Za czas przed dniem 1 stycznia 1936 r. żadna z obu Stron nie udziela świadczeń,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) Niemieckie ubezpieczenie inwalidzkie partycypuje od dnia 1 stycznia 1936 r. w każdej tencie przyznanej stosownie do ust. 2 przez polskie ubezpieczenie inwalidzkie (ubezpieczenie emerytalne robotników) miesięcznie kwotą: 8 zł przy rentach inwalidzkich i starcżych, wdów i wdowców, \" 1\" \" sierocych. 2,50 „ \"",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "To samo stosuje się również wtedy, gdy poza okresami składkowymi, wymienionymi w ust. 2, przebyto po dniu przełomowym okresy składkowe w polskim ubezpieczeniu inwalidzkim (ubezpieczeniu emerytalnym robotników). Do zapłaty zobowiązana jest wobec instytucji ubezpieczeniowych polskich Landesversicherungsanstalt Schlesien.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "5) Partycypowanie w myśl ust. 4 nie ża» chodzi, gdy: 1] do dnia przełomowego opłacono mniej niż dwadzieścia sześć tygodni składkowych,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) ekspektatywa z wymienionych w ust. 2 okresów ubezpieczeniowych według prawa polskiego wygasła i nie odżyła,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "6) Postanowienia niniejszego artykułu nie naruszają artykułu 1 § 15 decyzji Rady Ligi Narodów z dnia 17 lipca 1922 r., w myśl którego instytucje ubezpieczeniowe polskie mają zaliczać okresy ubezpieczeniowe tych osób, które w dniu przełomowym zatrudnione były na wymienionym w ust. 1 obszarze, albo, jeśli chodzi o dobrowolne ubezpieczenie, mieszkały na tym obszarze,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Berlin, dnia 20 stycznia 1937 r. Za Ministra Opieki |. Za Ministra Pracy Społecznej: Rzeszy: Z. Skokowski Dr Hans Engel Inspektor Dyrektor Ministerialny",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Dr St. Fischlowitz Radca",
+     "quoted": true
     }
    ]
   }
