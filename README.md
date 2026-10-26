@@ -83,7 +83,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-26 00:20 UTC (liczone z `index.csv`).
+Stan na 2026-10-26 09:08 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -156,11 +156,11 @@ Stan na 2026-10-26 00:20 UTC (liczone z `index.csv`).
 | 1988 | 315 | 315 | 0 |
 | 1989 | 326 | 326 | 0 |
 
-Akty ze stronami bez warstwy tekstowej (skany, grafiki): 28619, razem 73220 z 78778 stron. Tekst z OCR (oznaczony) ma 72334 z nich w 28597 aktach; treści pozostałych brak.
+Akty ze stronami bez warstwy tekstowej (skany, grafiki): 28619, razem 73186 z 78778 stron. Tekst z OCR (oznaczony) ma 72300 z nich w 28597 aktach; treści pozostałych brak.
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 233.
 
 Rodzaje aktów: Rozporządzenie 21103, Oświadczenie rządowe 4227, Dekret 1294, Obwieszczenie 720, Konwencja 465, Umowa międzynarodowa 280, Protokół 124, Układ 113, Zarządzenie 112, Uchwała 90, Porozumienie 83, Traktat 49, Oświadczenie 18, Przepisy wykonawcze 10, Statut 8, Przepisy 7, Ustawa 6, Postanowienie 5, Deklaracja 5, Orędzie 3, Reskrypt 2, Sprostowanie 1, Instrukcja 1, Regulamin 1, Rezolucja 1.
-Wersje konwertera: eli2md 0.6.49 (27463), eli2md 0.6.66 (983), eli2md 0.6.65 (279), eli2md 0.6.69 (2), eli2md 0.6.62 (1).
+Wersje konwertera: eli2md 0.6.49 (24484), eli2md 0.6.71 (3091), eli2md 0.6.66 (778), eli2md 0.6.65 (251), eli2md 0.6.72 (122), eli2md 0.6.69 (2).
 <!-- stats:end -->
 
 ## Zawartość
