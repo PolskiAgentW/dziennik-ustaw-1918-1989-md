@@ -1,7 +1,7 @@
 {
  "eli": "DU/1938/679",
  "title": "Rozporządzenie Rady Ministrów z dnia 10 grudnia 1938 r. o uznaniu Statutu Wewnętrznego Polskiego Autokefalicznego Kościoła Prawosławnego.",
- "converter": "eli2md 0.6.65",
+ "converter": "eli2md 0.6.69",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1938/679/text.pdf",
  "body": [
   {
@@ -1975,10 +1975,6 @@
     },
     {
      "type": "text",
-     "text": "Str. 1559"
-    },
-    {
-     "type": "text",
      "text": "nej Uniwersytetu Józeła Piłsudskiego w War- „szawie,"
     }
    ]
@@ -2955,10 +2951,6 @@
       {
        "type": "note",
        "text": "[Strona 24 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "== ———— Dziennik Ustaw Nr 103"
       }
      ]
     },

@@ -83,7 +83,7 @@ akty, którym w API zmienił się `changeDate`, dostają nowe metadane w `index.
 i `title` w `.json`; tekst zostaje z konwersji. Potem workflow „Eksport” odświeża plik w wydaniu „dane” i na HF.
 
 <!-- stats:start -->
-Stan na 2026-10-25 19:52 UTC (liczone z `index.csv`).
+Stan na 2026-10-26 00:12 UTC (liczone z `index.csv`).
 
 | rok | aktów w indeksie | przekonwertowanych | błędów |
 |---|---:|---:|---:|
@@ -160,7 +160,7 @@ Akty ze stronami bez warstwy tekstowej (skany, grafiki): 28619, razem 73220 z 78
 Akty ze stronami z dużymi obrazami (wzory, rysunki; ich treści brak): 233.
 
 Rodzaje aktów: Rozporządzenie 21103, Oświadczenie rządowe 4227, Dekret 1294, Obwieszczenie 720, Konwencja 465, Umowa międzynarodowa 280, Protokół 124, Układ 113, Zarządzenie 112, Uchwała 90, Porozumienie 83, Traktat 49, Oświadczenie 18, Przepisy wykonawcze 10, Statut 8, Przepisy 7, Ustawa 6, Postanowienie 5, Deklaracja 5, Orędzie 3, Reskrypt 2, Sprostowanie 1, Instrukcja 1, Regulamin 1, Rezolucja 1.
-Wersje konwertera: eli2md 0.6.49 (27461), eli2md 0.6.66 (986), eli2md 0.6.65 (280), eli2md 0.6.62 (1).
+Wersje konwertera: eli2md 0.6.49 (27461), eli2md 0.6.66 (985), eli2md 0.6.65 (279), eli2md 0.6.69 (2), eli2md 0.6.62 (1).
 <!-- stats:end -->
 
 ## Zawartość
@@ -248,6 +248,14 @@ reszta tekstu ma te same znaki); uciętych nagłówków było w nich 1392, zosta
 plik ma tyle samo nagłówków (OCR czyta je razem z szumem albo z innym tekstem w jednej linii, albo leżą poza górnym pasem
 strony), w 16 reszta tekstu różniła się o więcej niż 0,5% (DU/1937/77, 211, DU/1938/347, DU/1945/8, DU/1946/169, DU/1948/35,
 DU/1950/381, DU/1952/217, DU/1954/62, DU/1961/96, 180, DU/1974/129, DU/1978/78, 128, DU/1979/105, DU/1987/148).
+
+## Zmiana 2026-10-26
+
+eli2md 0.6.69, 2 akty (opis w README eli2md, wpisy 0.6.68 i 0.6.69): OCR brał numer pozycji listy albo taryfy
+zaczynający się od „5” albo „8” za sklejone „§”. Przeliczyłem 15 aktów, w których nagłówki albo akapity „§” różnią się
+od wersji sprzed 2026-10-25. W 13 przeliczenie nie zmienia tekstu. W DU/1937/423 „§ 80. Wstążki z jedwabiu …” jest znów
+pozycją taryfy „580.”; w DU/1938/679 znika jeszcze jeden nagłówek strony („Str. 1559 … Dziennik Ustaw Nr 103”), reszta
+tekstu bez zmian.
 
 ## Licencja
 
