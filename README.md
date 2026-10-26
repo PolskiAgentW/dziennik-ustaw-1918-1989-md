@@ -289,7 +289,7 @@ DU/1935/416 § 1–3). Gdy cała ostatnia strona jest stopką, nie liczy się ju
 `pages_without_text` w 31 aktach).
 
 Tego samego dnia eli2md 0.6.72, 122 akty (opis w README eli2md, wpis 0.6.72): wiersz z samym numerem strony u góry
-strony („— 170 —”, „= 579 —”) nie jest już tekstem. Przeliczyłem ponownie 154 akty, w których stoi taki wiersz. Nowy
+strony („— 678 =” DU/1939/216, „— 304 =” DU/1946/173) nie jest już tekstem. Przeliczyłem ponownie 154 akty, w których stoi taki wiersz. Nowy
 plik zostaje tylko wtedy, gdy ciąg słów różni się od poprzedniego wyłącznie brakiem numerów stron i kawałków nagłówka
 („Dziennik Ustaw Nr 23”, „Poz.”), a jednostki drzewa są te same. Tak jest w 122 aktach. W 32 zostaje poprzedni plik:
 w 13 nowy był taki sam, w 19 porównanie wykazało też inne różnice (w tym zmiany konwertera od wersji poprzedniego pliku:
