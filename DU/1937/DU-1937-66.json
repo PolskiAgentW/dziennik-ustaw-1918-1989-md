@@ -1,7 +1,7 @@
 {
  "eli": "DU/1937/66",
  "title": "Obwieszczenie Ministra Spraw Wojskowych z dnia 4 stycznia 1937 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej z dnia 28 października 1933 r. o uposażeniu wojska.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1937/66/text.pdf",
  "body": [
   {
@@ -1224,16 +1224,7 @@
    "num": "59",
    "path": "art_59",
    "text": "Rozporządzenie niniejsze wchodzi w Życie z dniem 1 lutego 1934 r. Z dniem tym traci moc obowiązującą rozporządzenie Prezydenta Rzeczypospolitej z dnia 20 września 1927 r. w sprawie uposażenia szeregowych nadterminowych w marynarce wojennej (Dz.U. R, P. Nr 84, poz.-751), tudzież wszystkie inne przepisy w sprawach unormowanych rozporządzeniem niniejszym,",
-   "children": [
-    {
-     "type": "text",
-     "text": "a ZN Oooo o O ee Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Państwowej w Warszawie."
-    },
-    {
-     "type": "text",
-     "text": "87637 Cena 40 gr. Prenumerata Dz. U. R. P. wynosi w kraju 8 zł kwartalnie (32 zł rocznie), Władze, urzędy i instytucje państwowe oraz władze samorządu terytorialnego opłacają 6 zł kwartalnie (24 zł rocznie). Do prenumeraty zagranicznej dolicza się 4 zł kwartalnie (16 zł rocznie) tytułem porta pocztowego. Prenumeratę wpłacać należy z góry przed początkiem każdego kwartału, półrocza lub roku. Zamówienia na prenumeratę jak również na numery pojedyncze wykonywa się jedynie po wpłaceniu należności. Reklamacje z powodu nieotrzymania poszczególnych numerów wnosić należy do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru. Reklamacji spóźnionych lub wniesionych niewłaściwie nie uwzględnia się. Wszelkie wpłaty na Dz, U, R. P. wnosić należy za pośrednictwem P.K.O. na konto czekowe Dz. Ustaw 30-130."
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

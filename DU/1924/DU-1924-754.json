@@ -1,7 +1,7 @@
 {
  "eli": "DU/1924/754",
  "title": "Rozporządzenie Ministra Kolei z dnia 27 sierpnia 1924 r. o zmianach i uzupełnieniach taryfy towarowej polskich kolei żelaznych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1924/754/text.pdf",
  "body": [
   {
@@ -46,16 +46,7 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 września 1924 r. Minister Kolei: Tyszka Minister Skarbu: W. Grabski Minister Przemysłu i Handlu: Józef Kiedroń Kierownik Ministerstwa Rolnictwa i Dóbr Państwowych: Raczyński",
-   "children": [
-    {
-     "type": "text",
-     "text": "Warszawa. Tłoczono w Drukarni Państwowej z polecenia Ministra Sprawiedliwości. 25535 P Konto czekowe owe Pocztowej Kasy Oszczędności Ne 30130. Cena 25 groszy."
-    },
-    {
-     "type": "text",
-     "text": "OD ADMINISTRACJI: PP. prenumeratorzy, którzy zechcą otrzymać Skorowidz do Dz. Ustaw za I półrocze r. b. winni uprzednio wpłacić należność w sumie 40 groszy na konto czekowe 30130. Skorowidz wysłany będzie natychmiast po otrzymaniu naleźności."
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

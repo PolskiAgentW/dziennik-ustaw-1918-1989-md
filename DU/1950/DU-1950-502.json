@@ -1,7 +1,7 @@
 {
  "eli": "DU/1950/502",
  "title": "Rozporządzenie Przewodniczącego Państwowej Komisji Planowania Gospodarczego z dnia 24 listopada 1950 r. w sprawie postanowień o karach umownych w umowach planowych o dostawę towarów.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1950/502/text.pdf",
  "body": [
   {
@@ -129,11 +129,6 @@
   {
    "type": "text",
    "text": "40.000 1043",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Cena 48 gr.",
    "quoted": true
   }
  ],

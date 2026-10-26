@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/61",
  "title": "Oświadczenie rządowe z dnia 17 lutego 1983 r. w sprawie wymiany dokumentów ratyfikacyjnych Umowy między Polską Rzecząpospolitą Ludową a Japonią o unikaniu podwójnego opodatkowania w zakresie podatków od dochodu, podpisanej w Tokio dnia 20 lutego 1980 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/61/text.pdf",
  "body": [
   {
@@ -95,11 +95,6 @@
       {
        "type": "text",
        "text": ". > „Fłoczeno z polecenia Prezesa: PUBY Ministrów i w Zakładach Gzaticznych „Tómka” , Zakład nr , Warszawa, ul. Tamka 3. - Zam. 0251-1300-83.",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Cena 24,00 zł",
        "quoted": true
       }
      ]

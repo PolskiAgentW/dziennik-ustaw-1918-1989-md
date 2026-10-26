@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/417",
  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 30 października 1948 r. wydane w porozumieniu z Ministrami: Obrony Narodowej, Bezpieczeństwa Publicznego, Przemysłu i Handlu oraz Skarbu o prywatnych radiostacjach doświadczalnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/417/text.pdf",
  "body": [
   {
@@ -740,10 +740,6 @@
     {
      "type": "text",
      "text": "Zobowiązuję się do zainstalowania i używania radiostacji zgodnie z obowiązującymi przepisami."
-    },
-    {
-     "type": "text",
-     "text": "(podpis) *) zhędne skreślić Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Min. Sprawiedl, w Warszawie, ul. 6-go Sierpnia 6 35.000 1066 p Cena 129 zł"
     }
    ]
   }

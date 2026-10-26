@@ -1,7 +1,7 @@
 {
  "eli": "DU/1952/95",
  "title": "Oświadczenie rządowe z dnia 14 marca 1952 r. w sprawie ratyfikacji przez szereg państw konwencji (nr 80) dotyczącej częściowej rewizji konwencyj, uchwalonych przez Konferencję Ogólną Międzynarodowej Organizacji Pracy na jej pierwszych 28 sesjach, przyjętej w Montrealu dnia 9 października 1946 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1952/95/text.pdf",
  "body": [
   {
@@ -58,11 +58,6 @@
   {
    "type": "text",
    "text": "40000 306",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Cena 48 gr. 2",
    "quoted": true
   }
  ],

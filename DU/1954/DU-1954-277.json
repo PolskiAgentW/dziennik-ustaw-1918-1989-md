@@ -1,7 +1,7 @@
 {
  "eli": "DU/1954/277",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 8 grudnia 1954 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 8 września 1951 r. o szczególnych uprawnieniach i ulgach dla żołnierzy zasadniczej służby wojskowej i ich rodzin.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1954/277/text.pdf",
  "body": [
   {
@@ -247,16 +247,7 @@
      "num": "15",
      "path": "art_15",
      "text": "Dekret wchodzi w życie z dniem ogłoszenia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Drukarni Akcydensowei w Warszawie, ul. Tamka 3."
-      },
-      {
-       "type": "text",
-       "text": "Zam. 2548 54,000 r Cena 1,00 zł"
-      }
-     ]
+     "children": []
     }
    ]
   }

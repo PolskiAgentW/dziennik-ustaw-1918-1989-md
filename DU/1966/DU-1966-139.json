@@ -1,7 +1,7 @@
 {
  "eli": "DU/1966/139",
  "title": "Obwieszczenie Ministra Szkolnictwa Wyższego z dnia 22 maja 1966 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów z dnia 28 stycznia 1964 r. w sprawie pomocy materialnej dla studentów szkół wyższych i wyższych szkół zawodowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1966/139/text.pdf",
  "body": [
   {
@@ -1281,20 +1281,7 @@
      "num": "45",
      "path": "par_45",
      "text": "Wykonanie rozporządzenia porucza się Przewodniczącemu Komisji Planowania przv Radzie Ministrów, Przewodniczącemu Komitetu Pracy i Płac oraz Ministrowi Finansów i ministrom, którym podlegają szkoły wyższe i jednostki fundujące, oraz prezydiom wojewódzkich rad narodowych.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”. Zakł. nr 1. Warszawa, ul. Tamka 3."
-      },
-      {
-       "type": "text",
-       "text": "Zam. 942,"
-      },
-      {
-       "type": "text",
-       "text": "Cena 1,60 zł"
-      }
-     ]
+     "children": []
     }
    ]
   }

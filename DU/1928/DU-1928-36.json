@@ -1,7 +1,7 @@
 {
  "eli": "DU/1928/36",
  "title": "Rozporządzenie Ministra Wyznań Religijnych i Oświecenia Publicznego z dnia 31 grudnia 1927 r. w sprawie spisu prywatnych szkół zawodowych, równoznacznych - pod względem praw szeregowych wojska polskiego do awansu w stopniach - z ukończeniem sześciu klas gimnazjum lub trzech kursów seminarjum nauczycielskiego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1928/36/text.pdf",
  "body": [
   {
@@ -507,11 +507,6 @@
       {
        "type": "text",
        "text": "7",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Ministra Sprawiedliwości. Cena 25 gr.",
        "quoted": true
       }
      ]

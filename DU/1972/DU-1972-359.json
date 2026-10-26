@@ -1,7 +1,7 @@
 {
  "eli": "DU/1972/359",
  "title": "Rozporządzenie Ministra Finansów z dnia 4 grudnia 1972 r. zmieniające rozporządzenie w sprawie wykonania niektórych przepisów dekretu o postępowaniu podatkowym.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1972/359/text.pdf",
  "body": [
   {
@@ -375,20 +375,7 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 stycznia 1973 r. Minister Finansów: S$, Jędrychowski",
-   "children": [
-    {
-     "type": "text",
-     "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Zakład nr 1, Warszawa, ul. Tamka -3."
-    },
-    {
-     "type": "text",
-     "text": "Zam. 2454"
-    },
-    {
-     "type": "text",
-     "text": "'Cena 4,80 zł"
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

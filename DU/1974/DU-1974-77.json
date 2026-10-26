@@ -1,7 +1,7 @@
 {
  "eli": "DU/1974/77",
  "title": "Rozporządzenie Ministra Komunikacji z dnia 20 marca 1974 r. w sprawie ochrony porządku na kolejach rozrywkowych, linowych i linowo-terenowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1974/77/text.pdf",
  "body": [
   {
@@ -145,20 +145,7 @@
    "num": "12",
    "path": "par_12",
    "text": "Rozporządzenie wchodzi w życie z dniem 1 maja 1974 r. Ministęr Komunikacji: M. Zajtryd",
-   "children": [
-    {
-     "type": "text",
-     "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Zakład Nr 1, Warszawa, ul. Tamka 3."
-    },
-    {
-     "type": "text",
-     "text": "» Zam, 516."
-    },
-    {
-     "type": "text",
-     "text": "Cena 2,00 zł"
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

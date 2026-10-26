@@ -1,7 +1,7 @@
 {
  "eli": "DU/1963/136",
  "title": "Rozporządzenie Prezesa Rady Ministrów z dnia 23 maja 1963 r. w sprawie szczegółowego zakresu działania organów administracji probierczej oraz organizacji, właściwości miejscowej i siedzib urzędów probierczych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1963/136/text.pdf",
  "body": [
   {
@@ -144,16 +144,6 @@
   {
    "type": "signature",
    "text": "Prezes Rady Ministrów: J. Cyrankiewicz"
-  },
-  {
-   "type": "text",
-   "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Warszawa, ul. Tamka 3.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Zam. 913 deal afi sac ou . Cena 1,60 zł",
-   "quoted": true
   }
  ],
  "annexes": [],

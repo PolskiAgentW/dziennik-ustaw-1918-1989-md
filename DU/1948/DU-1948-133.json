@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/133",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 5 kwietnia 1948 r. o zmianie rozporządzenia z dnia 4 listopada 1947 r. o wyznaczeniu sądów grodzkich do prowadzenia i zakładania ksiąg wieczystych i zbiorów dokumentów.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/133/text.pdf",
  "body": [
   {
@@ -85,10 +85,6 @@
     {
      "type": "text",
      "text": "35000 243"
-    },
-    {
-     "type": "text",
-     "text": "Cena 24 zł."
     }
    ]
   }

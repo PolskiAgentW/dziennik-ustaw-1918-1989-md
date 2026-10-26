@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/300",
  "title": "Rozporządzenie Ministra Pracy, Płac i Spraw Socjalnych z dnia 24 listopada 1983 r. zmieniające rozporządzenie w sprawie wykonania ustawy o ubezpieczeniu społecznym rzemieślników i niektórych innych osób prowadzących działalność zarobkową na własny rachunek oraz ich rodzin.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/300/text.pdf",
  "body": [
   {
@@ -259,11 +259,6 @@
   {
    "type": "text",
    "text": "1248-1300-83.",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Cena 24,00 zł",
    "quoted": true
   }
  ],

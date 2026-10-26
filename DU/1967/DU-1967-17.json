@@ -1,7 +1,7 @@
 {
  "eli": "DU/1967/17",
  "title": "Rozporządzenie Przewodniczącego Komitetu Pracy i Płac z dnia 19 stycznia 1967 r. zmieniające rozporządzenie w sprawie zasad i trybu zaliczenia niektórych okresów do okresów zatrudnienia.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1967/17/text.pdf",
  "body": [
   {
@@ -36,20 +36,7 @@
    "num": "3",
    "path": "par_3",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia, Przewodniczący Komitetu Pracy i Płac: A. Burski",
-   "children": [
-    {
-     "type": "text",
-     "text": "Tłoczono z polecenia Prezesa Rady: Ministrów w Zakładach Graficznych „Tamka'”. Zakł. nr 1. Warszawa, ul. Tamka 3."
-    },
-    {
-     "type": "text",
-     "text": "Zam. 2170,"
-    },
-    {
-     "type": "text",
-     "text": "Cena 160 zł"
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

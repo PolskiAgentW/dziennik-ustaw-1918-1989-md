@@ -1,7 +1,7 @@
 {
  "eli": "DU/1970/6",
  "title": "Obwieszczenie Przewodniczącego Komitetu Nauki i Techniki z dnia 5 stycznia 1970 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Rady Ministrów z dnia 8 lutego 1966 r. w sprawie warunków i trybu przeprowadzania przewodów doktorskich i habilitacyjnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1970/6/text.pdf",
  "body": [
   {
@@ -1021,20 +1021,7 @@
        "num": "5",
        "path": "par_34/pkt_5",
        "text": "rozporządzenie Ministra Obrony Narodowej z dnia 10 października 1960 r. w sprawie przeprowadzania przewodów habilitacyjnych w akademiach wojskowych (Dz. U. Nr 46, poz. 278). § 35, Wykonanie rozporządzenia porucza się Przewodni+ czącemu Komitetu Nauki i Techniki, Ministrowi. Oświaty i Szkolnictwa Wyższego, Polskiej Akademii Nauk oraz wszystkim zainteresowanym ministrom (kierownikom urzędów centralnych).",
-       "children": [
-        {
-         "type": "text",
-         "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”. Zakład nr 1. Warszawa, ul. Tamka 3."
-        },
-        {
-         "type": "text",
-         "text": "Zam. 6."
-        },
-        {
-         "type": "text",
-         "text": "Cena 2,40 zł"
-        }
-       ]
+       "children": []
       }
      ]
     }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1981/56",
  "title": "Rozporządzenie Ministrów Komunikacji oraz Administracji, Gospodarki Terenowej i Ochrony Środowiska z dnia 21 kwietnia 1981 r. zmieniające rozporządzenie w sprawie krajowego transportu drogowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1981/56/text.pdf",
  "body": [
   {
@@ -210,24 +210,7 @@
      "num": "1",
      "path": "par_2/pkt_1",
      "text": "kierowcy, który przewiózł przesyłkę w. _famach ,. wykorzystania ładowności i \"próżnych. przebiegów pojazdów samoż mocą od dnia 1 kwietnia 1981 r. Minister Koinunikacji: M. Zajfryd - ¥ Minister Administracji, Gospodarki Terenowej.” * i Ochrony Środowiska: J. Kępa",
-     "children": [
-      {
-       "type": "text",
-       "text": "Redakcja: Urząd Rady Ministrów — Biuro Prawne, Warszawa, Al. Ujazdowskie 173. Administracja: Administracja Wydawnictw Urzędu Rady Ministrów, ul. Powsińska 60/71 00-979 Warszawa (skrytka pocztowa Bl), tel. 28-90-01 w. 608 i 42-14-78."
-      },
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”. Zakład nr 1, Warszawa, ul. Tamka 3."
-      },
-      {
-       "type": "text",
-       "text": "Zam. 0451-1300/81."
-      },
-      {
-       "type": "text",
-       "text": "Cena 4,00 2:"
-      }
-     ]
+     "children": []
     }
    ]
   }

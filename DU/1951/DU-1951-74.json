@@ -1,7 +1,7 @@
 {
  "eli": "DU/1951/74",
  "title": "Obwieszczenie Ministra Finansów z dnia 27 stycznia 1951 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 3 lutego 1947 r. o podatku od nabycia praw majątkowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1951/74/text.pdf",
  "body": [
   {
@@ -1470,12 +1470,7 @@
        "num": "2",
        "path": "art_24/ust_2",
        "text": "Ilekroć w innych przepisach prawnych jest mowa o przepisach uchylonych niniejszym dekretem, należy zamiast uchylonych przepisów stosować odpowiednio przepisy niniejszego dekretu.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Tłoczono z polecenia Prezesa Rady Ministrów. Redakcja: Prezydium Rady Ministrów — Biuro Prac Ustawodawczych, Warszawa, ul. Krakowskie Przedm. 46/48. Administracja: Warszawa, ul. Bracka 20. maaac Cena 1,92 zh Drukarnia Ministerstwa Sprawiedliwości, Warszawa, Nowowiejska 6. 35.000 £05"
-        }
-       ]
+       "children": []
       }
      ]
     }

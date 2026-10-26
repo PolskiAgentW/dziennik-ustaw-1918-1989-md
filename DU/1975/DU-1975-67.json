@@ -1,7 +1,7 @@
 {
  "eli": "DU/1975/67",
  "title": "Obwieszczenie Ministra Gospodarki Terenowej i Ochrony Środowiska z dnia 26 marca 1975 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 31 stycznia 1961 r. o planowaniu przestrzennym.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/67/text.pdf",
  "body": [
   {
@@ -924,20 +924,7 @@
          "num": "2",
          "path": "art_33/ust_1/pkt_2",
          "text": "art. 15 ustawy z dnia 7 października 1921 r. o przepisach porządkowych na drogach publicznych (Dz. U. Nr 89, poz. 656 z późniejszymi zmianami).",
-         "children": [
-          {
-           "type": "text",
-           "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Zakład nr 1, Warszawa, ul Tamka 3."
-          },
-          {
-           "type": "text",
-           "text": "Zam. 681."
-          },
-          {
-           "type": "text",
-           "text": "Cena 3,60 zł"
-          }
-         ]
+         "children": []
         }
        ]
       }

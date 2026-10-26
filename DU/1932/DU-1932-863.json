@@ -1,7 +1,7 @@
 {
  "eli": "DU/1932/863",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 15 listopada 1932 r. w sprawie ogłoszenia jednolitego tekstu prawa o ustroju sądów powszechnych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1932/863/text.pdf",
  "body": [
   {
@@ -5961,20 +5961,7 @@
    "num": "299",
    "path": "art_299",
    "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 stycznia 1929 r,",
-   "children": [
-    {
-     "type": "text",
-     "text": "Warszawa. Drukarnia Państwowa, Tłoczono z polecenia Ministra Sprawiedliwości, 61533 P Konto czekowe w P. K. O. Administracji Dziennika Ustaw Nr. 30130."
-    },
-    {
-     "type": "text",
-     "text": "— Cena 75 gr."
-    },
-    {
-     "type": "text",
-     "text": "OD ADMINISTRACJI: Prenumerata Dz, U. R. P. wynosi 8 zł, kwartalnie. Urzędy i instytucje państwowe opłacają 6 zł, Prenumerata winna być opłacana najpóźniej na 2 tygodnie przed rozpoczęciem każdego kwartału, Reklamacje z powodu nieotrzymania poszczególnych numerów Dz, U, R. P, należy wnosić do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru."
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

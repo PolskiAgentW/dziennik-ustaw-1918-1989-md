@@ -1,7 +1,7 @@
 {
  "eli": "DU/1934/169",
  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 15 marca 1934 r. o ustaleniu terminów zniesienia państwowych urzędów pośrednictwa pracy i opieki nad wychodźcami.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/169/text.pdf",
  "body": [
   {
@@ -80,16 +80,7 @@
    "num": "3",
    "path": "par_3",
    "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Minister Opieki Społecznej: Hubicki",
-   "children": [
-    {
-     "type": "text",
-     "text": "Warszawa. Drukarnia Państwowa, Tłoczono z polecenia Ministra Sprawiedliwości. 69001"
-    },
-    {
-     "type": "text",
-     "text": "Cena 40 śr"
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

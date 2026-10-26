@@ -1,7 +1,7 @@
 {
  "eli": "DU/1929/542",
  "title": "Obwieszczenie Ministra Sprawiedliwości z dnia 27 września 1929 r. w sprawie sprostowania omyłek w rozporządzeniu Ministra Sprawiedliwości z dnia 24 czerwca 1929 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1929/542/text.pdf",
  "body": [
   {
@@ -36,20 +36,7 @@
    "num": "2",
    "path": "pkt_2",
    "text": "w art. 2 w wierszu czwartym należy skreślić wyraz ,Frydrychowo”, Minister Sprawiedliwości: St. Car",
-   "children": [
-    {
-     "type": "text",
-     "text": "Warszawa. Drukarnia Państwowa. Tłoczono z polecenia Ministra Sprawiedliwości."
-    },
-    {
-     "type": "text",
-     "text": "47485 P Konto czekowe Pocztowej Kasy Oszczędności Ne 30130. Cena 40 gr."
-    },
-    {
-     "type": "text",
-     "text": "OD ADMINISTRACJI: Prenumerata Dz. U. R. P. wynosi kwartalnie 7 zł. Urzędy i instytucje państwowe opłacają Prenumeratę uiszczać należy najpóźniej na 2 tygodnie przed rozpoczęciem każdego kwartału. Reklamacje z powodu nieotrzymania poszczególnych numerów Dz. U. R. P. należy wnosić do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru."
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

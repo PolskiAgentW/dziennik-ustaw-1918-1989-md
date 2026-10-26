@@ -1,7 +1,7 @@
 {
  "eli": "DU/1959/385",
  "title": "Oświadczenie rządowe z dnia 23 listopada 1959 r. w sprawie ratyfikacji przez Nową Zelandię Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1959/385/text.pdf",
  "body": [
   {
@@ -50,11 +50,6 @@
   {
    "type": "text",
    "text": "Zam 1607",
-   "quoted": true
-  },
-  {
-   "type": "text",
-   "text": "Cena 0,80 zł",
    "quoted": true
   }
  ],

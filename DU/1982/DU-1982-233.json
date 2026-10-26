@@ -1,7 +1,7 @@
 {
  "eli": "DU/1982/233",
  "title": "Rozporządzenie Ministra Finansów z dnia 19 października 1982 r. w sprawie zasad zwalniania kościołów i związków wyznaniowych oraz ich jednostek organizacyjnych od podatków obrotowego i dochodowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1982/233/text.pdf",
  "body": [
   {
@@ -701,20 +701,7 @@
      "num": "p",
      "path": "par_20/lit_p",
      "text": "sę”",
-     "children": [
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Craticznych „Tamka”, Zakład ar 1, Warszawa, ul. Tamka 3. - Zam. 1127-1300- 82,"
-      },
-      {
-       "type": "text",
-       "text": "wr „En, EPE"
-      },
-      {
-       "type": "text",
-       "text": "- Cena 48, 00 zł"
-      }
-     ]
+     "children": []
     }
    ]
   }

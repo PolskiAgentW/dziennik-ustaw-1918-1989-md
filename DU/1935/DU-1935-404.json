@@ -1,7 +1,7 @@
 {
  "eli": "DU/1935/404",
  "title": "Obwieszczenie Ministra Skarbu z dnia 7 czerwca 1935 r. w sprawie ogłoszenia jednolitego tekstu ustawy o opłatach stemplowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1935/404/text.pdf",
  "body": [
   {
@@ -4710,24 +4710,7 @@
      "num": "181",
      "path": "art_181",
      "text": "Ustawa niniejsza wchodzi w życie w dniu 1 stycznia 1927 r. z wyjątkiem punktów 20 i 21 art. 171 oraz art. 175, które wchodzą w życie z dniem ogłoszenia niniejszej ustawy. Ustawa niniejsza obowiązuje na całym obszarze Rzeczypospolitej. Przepisy niniejszej ustawy, tyczące się zagranicy, stosuje się również do obszaru Wolnego Miasta Gdańska,",
-     "children": [
-      {
-       "type": "text",
-       "text": "Warszawa. Drukarnia Państwowa. Tłoczono z polecenia Ministra Sprawiedliwości. 78334"
-      },
-      {
-       "type": "text",
-       "text": "Cena 1 zł"
-      },
-      {
-       "type": "text",
-       "text": "Prenumerata Dz. U. R. P. wynosi w kraju 8 zł kwartalnie (32 zł rocznie). Władze, urzędy i instytucje państwowe oraz władze samorządu terytorjalnego opłacają 6 zł kwartalnie (24 zł rocznie). Do prenumeraty zagranicznej dolicza sę 4 zi kwartalnie (16 zł rocznie) tytułem porta pocztowego, Prenumeratę wpłacać należy z góry przed początkiem każdego wattału, półrocza lub roku. Zamówienia na prenumeratę jak również na numery pojedyńcze wykonywa się jedynie po wpłaceniu należności. Reklamacje z powodu nieotrzymania poszczególnych numerów wnosić należy do właściwych urzędów pocztowych uiezwłocznie po otrzymaniu następnego kolejnego numeru, Reklamacyj spóźnionych lub wniesionych niewłaściwie nie uwzględnia sią."
-      },
-      {
-       "type": "text",
-       "text": "Wszelkie wpłaty na Dz. U, R. P, wnosić należy za pośrednictwem P, K, O, na konto czekowe Adm Dz, Ustaw 30-130,"
-      }
-     ]
+     "children": []
     }
    ]
   }

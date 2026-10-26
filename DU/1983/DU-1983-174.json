@@ -1,7 +1,7 @@
 {
  "eli": "DU/1983/174",
  "title": "Rozporządzenie Rady Ministrów z dnia 27 czerwca 1983 r. w sprawie czynszów najmu za lokale mieszkalne i użytkowe.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1983/174/text.pdf",
  "body": [
   {
@@ -464,20 +464,7 @@
        "num": "x",
        "path": "pkt_1/lit_x",
        "text": "Przez urządzenia wodociągowo- kanalizacyjne należy rozumieć również lokalne urządzenia wodociągowe (hydrolor) i kanalizacyjne (szamho) «) Dotyczy iokali z ogrzewaniem etażowym.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Gralicznych „Tamka”, Zakład nr 1. Warszawa. ul, Tamka 3"
-        },
-        {
-         "type": "text",
-         "text": "Zam. 0708-1300-83."
-        },
-        {
-         "type": "text",
-         "text": "Lena <4,0u zł"
-        }
-       ]
+       "children": []
       }
      ]
     }

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1928/621",
  "title": "Obwieszczenie Ministra Spraw Wewnętrznych i Ministra Skarbu z dnia 18 maja 1928 r. o sprostowaniu błędów w rozporządzeniu Ministra Spraw Wewnętrznych i Ministra Skarbu z dnia 26 marca 1928 r. w sprawie wykonania rozporządzenia Prezydenta Rzeczypospolitej z dnia 13 kwietnia 1927 r. o komunalnych kasach oszczędności.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1928/621/text.pdf",
  "body": [
   {
@@ -72,28 +72,7 @@
      "num": "f",
      "path": "pkt_3/lit_f",
      "text": "w tytule nad § 53 (§ 54) powołanego wyżej statutu (str. 984 Dziennika Ustaw Nr. 44) należy słowo: „Szczegółowe” zastąpić słowem: „Szczególne”. Minister Spraw Wewnętrznych: Sławoj Składkowski Minister Skarbu: G. Czechowicz",
-     "children": [
-      {
-       "type": "text",
-       "text": "41602 P Konto czekowe Pocztowej Kasy Oszczędności Ne 30130."
-      },
-      {
-       "type": "text",
-       "text": "SR a o an OD ADMINISTRACJI: Prenumerata Dz. U. R.P. wynosi kwartalnie 7 zł."
-      },
-      {
-       "type": "text",
-       "text": "Cena 40 gr."
-      },
-      {
-       "type": "text",
-       "text": "6 zł. Prenumeratę uiszczać należy najpóźniej na 2 tygodnie przed rozpoczęciem każdego kwartału."
-      },
-      {
-       "type": "text",
-       "text": "Urzędy i instytucje państwowe opłacają"
-      }
-     ]
+     "children": []
     }
    ]
   }

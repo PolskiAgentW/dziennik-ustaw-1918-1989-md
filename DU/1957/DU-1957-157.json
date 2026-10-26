@@ -1,7 +1,7 @@
 {
  "eli": "DU/1957/157",
  "title": "Obwieszczenie Ministra Leśnictwa i Przemysłu Drzewnego z dnia 12 czerwca 1957 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 26 kwietnia 1948 r. o ochronie lasów nie stanowiących własności Państwa.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1957/157/text.pdf",
  "body": [
   {
@@ -717,20 +717,7 @@
      "num": "34",
      "path": "art_34",
      "text": "Wykonanie niniejszego dekretu porucza się Ministrowi Leśnictwa i Przemysłu Drzewnego.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Drukarni Akcydensowej w Warszawie, ul. Tamka 3."
-      },
-      {
-       "type": "text",
-       "text": "Zam. 954"
-      },
-      {
-       "type": "text",
-       "text": "Cena 154 zł"
-      }
-     ]
+     "children": []
     }
    ]
   }

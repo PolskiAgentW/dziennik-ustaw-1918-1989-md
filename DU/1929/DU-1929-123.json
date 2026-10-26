@@ -1,7 +1,7 @@
 {
  "eli": "DU/1929/123",
  "title": "Oświadczenie rządowe z dnia 8 lutego 1929 r. w sprawie wymiany not między Rzecząpospolitą Polską a Wolnem Miastem Gdańskiem dotyczących zatwierdzenia umowy z dnia 12 sierpnia 1925 r. o stosowaniu ceł wywozowych, oraz protokółu końcowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1929/123/text.pdf",
  "body": [
   {
@@ -507,21 +507,6 @@
     {
      "type": "text",
      "text": "m. P+",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Warszawa. Drukarnia Państwowa. Tłoczono z polecenia Ministra Sprawiedliwości. 45028 P",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "Konto czekowe Pocztowej Kasy Oszczędności Ne 30130. Cena 25 gr.",
-     "quoted": true
-    },
-    {
-     "type": "text",
-     "text": "OD ADMINISTRACJI: Prenumerata Dz. U. R.P. wynosi kwartalnie 7 zł. Urzędy i instytucje państwowe opłacają 6 zł. Prenumeratę uiszczać należy najpóźniej na 2 tygodnie przed rozpoczęciem każdego kwartału. Reklamacje z powodu nieotrzymania poszczególnych numerów Dz. U. R. P, należy wnosić do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru.",
      "quoted": true
     }
    ]

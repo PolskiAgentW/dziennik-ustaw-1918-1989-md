@@ -1,7 +1,7 @@
 {
  "eli": "DU/1944/8",
  "title": "Dekret Polskiego Komitetu Wyzwolenia Narodowego z dnia 21 sierpnia 1944 r. o trybie powołania władz administracji ogólnej I-ej i II-ej instancji.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1944/8/text.pdf",
  "body": [
   {
@@ -113,20 +113,7 @@
    "num": "13",
    "path": "art_13",
    "text": "Dekret niniejszy wchodzi w życie z dniem ogłoszenia. Przewodniczący Krajowej Rady Narodowej: Bolesław Bierut Przewodniczący Polskiego Komitetu Wyzwolenia Narodowego: Edward Bolesław Oda. Morawski Kierownik Resortu Administracji Publicznej: Stanisław Kotek-Agroszewski -",
-   "children": [
-    {
-     "type": "text",
-     "text": "Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Narodowej w Krakowie, ul. Piłsudskiego 19"
-    },
-    {
-     "type": "text",
-     "text": "M — 00 781"
-    },
-    {
-     "type": "text",
-     "text": "Cena 6 zł"
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

@@ -1,7 +1,7 @@
 {
  "eli": "DU/1955/134",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 17 maja 1955 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 4 lutego 1950 r. o Społecznej Inspekcji Pracy.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1955/134/text.pdf",
  "body": [
   {
@@ -362,16 +362,7 @@
      "num": "23",
      "path": "art_23",
      "text": "Ustawa niniejsza wchodzi w życie z dniem ogioszenia,",
-     "children": [
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Drukarni Akcydensowej w Warszawie. ul. Tamka 3"
-      },
-      {
-       "type": "text",
-       "text": "Zam. 963 Cena 1,00 gr"
-      }
-     ]
+     "children": []
     }
    ]
   }

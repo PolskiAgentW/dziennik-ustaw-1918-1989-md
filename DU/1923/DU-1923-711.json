@@ -1,7 +1,7 @@
 {
  "eli": "DU/1923/711",
  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 29 sierpnia 1923 r. w sprawie zaprowadzenia wzajemnej wymiany przekazów pocztowych między Polską a Stanami Zjednoczonemi Ameryki Północnej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1923/711/text.pdf",
  "body": [
   {
@@ -270,11 +270,6 @@
       {
        "type": "text",
        "text": "22130 P",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Warszawa. Tłoczono w Drukarni Państwowej z polecenia Ministra Sprawiedliwości. Konto czekowe Pocztowej Kasy Oszczędności Ne 30130.",
        "quoted": true
       }
      ]

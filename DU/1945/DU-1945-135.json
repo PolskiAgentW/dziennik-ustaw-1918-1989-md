@@ -1,7 +1,7 @@
 {
  "eli": "DU/1945/135",
  "title": "Rozporządzenie Ministra Skarbu z dnia 27 czerwca 1945 r. w sprawie wykonania dekretu o nadzwyczajnym podatku od wzbogacenia wojennego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1945/135/text.pdf",
  "body": [
   {
@@ -967,21 +967,7 @@
    "num": "2",
    "path": "par_2",
    "text": "Rózporządzenie- niniejsze wchodzi Życie z dniem ogłoszenia z mocą obowiązu. \"39% 0% Sma © maja ee op w/z Minister Pracy i Opieki Społecznej: Feliks Mantel",
-   "children": [
-    {
-     "type": "text",
-     "text": "Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Ministerstwa Sprawiedliwości w Łodzi, ul. Kilińskiego 93 Zgłoszenia na prenumeratę przyjmuje się w Administracji Dziennika Ustaw R. P. w Łodzią ul.Piotrkowska Prenumeratę należy wpłacać z góry. Wysyłkę wykonuje się po uprzednim wpłaceniu zaliczki kwartalnej dla władz, urzędów, zakładów i instytucyj państwowych i samorządowych w kwocie zł 60, dla innych prenumeratorów w kwocie zł 150. Pojedyncze numery są do nabycia: w Biurze Sprzedaży — Warszawa, ul. Targowa 59, w Administracji Dziennika Ustaw R. P. w Łodzi, Piotrkowska 49 oraz w Kasach Sądów Okręgowych w Lublinie, ul. Krak.-Przedmieście 76, Krakowie, Katowicach i Peznaniu."
-    },
-    {
-     "type": "text",
-     "text": "f"
-    },
-    {
-     "type": "text",
-     "text": "„Cena 16 zł.",
-     "quoted": true
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

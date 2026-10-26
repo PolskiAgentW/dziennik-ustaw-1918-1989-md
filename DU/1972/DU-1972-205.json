@@ -1,7 +1,7 @@
 {
  "eli": "DU/1972/205",
  "title": "Rozporządzenie Rady Ministrów z dnia 20 lipca 1972 r. w sprawie szczegółowego zakresu działania Ministra do Spraw Kombatantów.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1972/205/text.pdf",
  "body": [
   {
@@ -127,20 +127,7 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie wchodzi w życie z dniem ogłoszenia. P - Prezes Rady Ministrów: P. Jaroszewicz",
-   "children": [
-    {
-     "type": "text",
-     "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”. Zakład nr 1. Warszawa, ul. Tamka 3."
-    },
-    {
-     "type": "text",
-     "text": "Zam, 1280"
-    },
-    {
-     "type": "text",
-     "text": "Cena 0,80 zt"
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

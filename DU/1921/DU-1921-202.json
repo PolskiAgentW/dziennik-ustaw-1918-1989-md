@@ -1,7 +1,7 @@
 {
  "eli": "DU/1921/202",
  "title": "Rozporządzenie Ministra b. Dzielnicy Pruskiej z dnia 1 kwietnia 1921 r. w sprawie zmiany taryfy kwaterunkowej.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1921/202/text.pdf",
  "body": [
   {
@@ -112,12 +112,7 @@
    "num": "3",
    "path": "par_3",
    "text": "Rozporządzenie to wchodzi w życie z dniem ogłoszenia. Minister b. Dzielnicy Pruskiej: W. Kucharski Minister Spraw Wojskowych: w z. De Henning-Michaelis Minister Skarbu: Steczkowski",
-   "children": [
-    {
-     "type": "text",
-     "text": "Tłoczono w Drukarni Państwowej z polecenia Ministra Sprawiedliwości. 13390 P Cena 8 mk."
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

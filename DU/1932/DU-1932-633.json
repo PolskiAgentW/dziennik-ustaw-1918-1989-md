@@ -1,7 +1,7 @@
 {
  "eli": "DU/1932/633",
  "title": "Rozporządzenie Ministra Opieki Społecznej z dnia 30 lipca 1932 r. w sprawie obowiązkowego zgłaszania zachorowań na twardziel (Rhinoscleroma).",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1932/633/text.pdf",
  "body": [
   {
@@ -24,16 +24,7 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia. Minister Opieki Społecznej: Hubicki",
-   "children": [
-    {
-     "type": "text",
-     "text": "Warszawa. Drukarnia Państwowa, Tłoczono z polecenia Ministra Sprawiedliwości. . __ 60684 F Konto czekowe w P. K. O. Administracji Dziennika Ustaw Nr. 30130. Cena 40 $r.."
-    },
-    {
-     "type": "text",
-     "text": "OD ADMINISTRACJI: Prenumerata Dz, U, R. P. wynosi 8 zł, kwartalnie, Urzędy i instytucje państwowe opłacają 6 zł, Prenumerata winna być opłacana najpóźniej na 2 tygodnie przed rozpoczęciem każdego kwartału. Reklamacje z powodu nieotrzymania poszczególnych numerów Dz, U, R. P, należy wnosić do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru."
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

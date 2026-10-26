@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/210",
  "title": "Obwieszczenie Ministra Skarbu z dnia 24 czerwca 1948 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 2 czerwca 1947 r. o obywatelskich komisjach podatkowych i lustratorach społecznych.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/210/text.pdf",
  "body": [
   {
@@ -529,12 +529,7 @@
      "num": "18",
      "path": "art_18",
      "text": "Ustawa niniejsza wchodzi w życie z dniem ogłoszenia z mocą obowiązującą od dnia 1 lipca 1947 r. do dnia 31 grudnia 1949 r.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Min. Sprawiedl, w Warszawie, ul. 6-50 Sierpnia 6 zzz AE ZA z Z KAZ E 35.000 444 , Cena 36 zł."
-      }
-     ]
+     "children": []
     }
    ]
   }

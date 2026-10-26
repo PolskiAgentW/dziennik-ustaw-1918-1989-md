@@ -1,7 +1,7 @@
 {
  "eli": "DU/1948/479",
  "title": "Rozporządzenie Ministra Rolnictwa i Reform Rolnych z dnia 6 grudnia 1948 r. wydane w porozumieniu z Ministrami: Skarbu, Administracji Publicznej i Ziem Odzyskanych o włączeniu zarazy cieszyńskiej świń do chorób podlegających obowiązkowi zgłaszania i o zwalczaniu tej choroby.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1948/479/text.pdf",
  "body": [
   {
@@ -555,16 +555,7 @@
      "num": "7",
      "path": "ust_7",
      "text": "Osoby, które były zajęte przy oczyszczaniu i odkażaniu lub które miały bezpośrednią lub pośrednią styczność ze świniami chorymi lub podejrzanymi o chorobę, winny poddać się gruntownemu oczyszczeniu i odkażeniu według wskazówek powiatowego lekarza weterynaryjnego.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Min, Sprawiedl. w Warszawie, ul, 6-go Sierpnia 6. —— -- 33000 1062"
-      },
-      {
-       "type": "text",
-       "text": "Cena 264 zl."
-      }
-     ]
+     "children": []
     }
    ]
   }

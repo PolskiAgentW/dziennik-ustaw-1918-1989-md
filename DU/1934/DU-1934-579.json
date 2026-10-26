@@ -1,7 +1,7 @@
 {
  "eli": "DU/1934/579",
  "title": "Oświadczenie rządowe z dnia 21 czerwca 1934 r. w sprawie złożenia w imieniu Rządu Bułgarskiego dokumentu ratyfikacyjnego protokółu, dotyczącego zakazu używania na wojnie gazów duszących, trujących lub podobnych, oraz środków bakterjologicznych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/579/text.pdf",
  "body": [
   {
@@ -24,24 +24,7 @@
    "num": "2",
    "path": "pkt_2",
    "text": "powyższy protokół przestanie być z same- $o prawa obowiązujący dla Rządu Bułgarskiego w stosunku do każdeśo państwa nieprzyjacielskiego, którego siły zbrojne, lub którego sprzymierzeńcy nie stosowaliby się do zakazów będących przedmiotem tego protokółu. Minister Spraw Zagranicznych: Beck",
-   "children": [
-    {
-     "type": "text",
-     "text": "Warszawa. Drukarnia Państwowa. Tłoczono z polecenia Ministra Sprawiedliwości, 71104"
-    },
-    {
-     "type": "text",
-     "text": "Cena 75 śr"
-    },
-    {
-     "type": "text",
-     "text": "Prenumerata Dz. U. R. P, wynosi w kraju 8 zł kwartalnie (32 zł rocznie), Wiadze, urzędy i instytucje państwowe oraz władze samorządu terytorjalnego opłacają 6 zł kwartalnie (24 zł rocznie), Do prenumeraty zagranicznej dolicza się 4 zł kwartalnie (16 zł rocznie) tytułem porta pocztowego, Prenumeratę wpłacać należy z góry przed początkiem każdego War= tału, półrocza lub roku. Zamówienia na prenumeratę jak również na numery pojedyńcze wykonywa się jedynie po wpłaceniu należności. Reklamacje z powodu nieotrzymania poszczególnych numerów wnosić należy do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru. Reklamacyj spóźnionych lub wniesionych niewłaściwie nie uwzględnia się. i"
-    },
-    {
-     "type": "text",
-     "text": "Wszelkie wpłaty na Dz, U, R, P, wnosić należy za pośrednictwem P. K. O. na konto czekowe Adm. Dz, Ustaw 30-130."
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

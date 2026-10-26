@@ -1,7 +1,7 @@
 {
  "eli": "DU/1928/423",
  "title": "Rozporządzenie Ministra Spraw Wewnętrznych z dnia 6 marca 1928 r. wydane w porozumieniu z Ministrem Spraw Wojskowych w sprawie przekazania Dyrekcjom Policji w Bielsku, Katowicach i Królewskiej Hucie czynności związanych z wykonaniem powszechnego obowiązku wojskowego.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1928/423/text.pdf",
  "body": [
   {
@@ -32,20 +32,7 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie niniejsze wchodzi w ży: cie z dniem ogłoszenia. Minister Spraw Wewnętrznych: Sławoj Składkowski Minister Spraw Wojskowych: J. Piłsudski",
-   "children": [
-    {
-     "type": "text",
-     "text": "Warszawa. Drukarnia Państwowa. Tłoczono z polecenia Ministra Sprawiedliwości. 40518 P Konto czekowe Pocztowej Kasy Oszczędności Ne 30130."
-    },
-    {
-     "type": "text",
-     "text": "Cena 25 gr."
-    },
-    {
-     "type": "text",
-     "text": "SSD, ee naa a OD ADMINISTRACJI: Prenumerata Dz. U. R.P. wynosi kwartalnie 7 zł. Urzędy i instytucje państwowe opłacają 6 sł. Prenumeratę uiszczać należy najpóźniej na 2 tygodnie przed rozpoczęciem każdego kwartału."
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

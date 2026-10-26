@@ -185,7 +185,10 @@ Wersje konwertera: eli2md 0.6.49 (27463), eli2md 0.6.66 (983), eli2md 0.6.65 (27
 - Następny akt o prawie tym samym tytule bywa doklejony na końcu (np. oświadczenie rządowe o ratyfikacji umowy, które
   stoi zaraz po niej: DU/1928/523, 1930/462; dwa rozporządzenia o identycznym tytule: DU/1950/368).
 - Pierwsza strona numeru: gdy akt stoi pod spisem treści, do jego tekstu może trafić linia spisu (numery stron).
-- Stopka numeru (drukarnia, cena, „OD ADMINISTRACJI”) bywa w tekście ostatniego aktu numeru.
+- Stopka numeru (drukarnia, cena, prenumerata, „OD ADMINISTRACJI”) zostaje w końcówce tekstu 1271 aktów (pomiar
+  2026-10-26 po eli2md 0.6.71, wzorcem słów stopki w końcówce tekstu; może nie łapać wszystkich; wcześniej 4075): gdy
+  OCR nie odczytał podpisu albo stopka stoi przed nim, gdy cięcie zostawiło jej część, gdy przeliczenie zmieniało w akcie
+  także inne miejsca, i w 97 aktach, w których wycięta część mogła zawierać tekst aktu (tam zostaje poprzedni plik).
 - Tabele są spłaszczone do akapitów, a ich części mogą ginąć (DU/1944/46: tabele podatkowe w dużej części bez treści).
 - Rzadko łamy w złej kolejności, gdy nagłówek następnego aktu stoi w drugim łamie przed tekstem (DU/1971/88).
 - 13 aktów bez tekstu (`status` = `error` w `index.csv`): PDF w API uszkodzony (DU/1932/38–42; sprawdzone
@@ -271,6 +274,19 @@ artykułu przed nimi. `.md` się nie zmienił, więc pole `converter` (w `.md`, 
 nagłówka (DU/1926/80: `art_10/ust_1` → `ust_1`; „Artykuł 7.” po nagłówku nie jest w `.md` nagłówkiem jednostki, więc ustęp
 zostaje bez artykułu). Nagłówek wewnątrz
 cytatu zostaje tekstem, także po cudzysłowie, którego OCR nie zamknął (np. DU/1974/33 od rozdziału czwartego).
+
+Tego samego dnia eli2md 0.6.71, 3114 aktów (opis w README eli2md, wpis 0.6.71): stopka numeru na ostatniej stronie
+czytanej przez OCR („Tłoczono w Drukarni Państwowej…”, „Cena…”, „Reklamacje z powodu niedoręczenia…”, „Opłata za
+prenumeratę…”, „OD ADMINISTRACJI”) jest wycinana po podpisie ostatniego aktu numeru. Przeliczyłem ponownie 4548 aktów,
+w których końcówka tekstu ma słowa stopki. Nowy plik zostaje tylko wtedy, gdy różni się od poprzedniego wyłącznie
+wyciętym końcem tekstu (od początku stopki, po ostatnim podpisie), jednostki drzewa przed wycięciem są te same, a
+w wyciętej części nie ma śladów tekstu aktu (paragraf, artykuł, „wchodzi w życie”, podpis, nagłówek, ubyła jednostka
+drzewa, akapit bez słów stopki). Tak jest w 3114 aktach (usuniętych słów 280 141; jednostki drzewa bez zmian). W 1434
+zostaje poprzedni plik: w 1089 nowy był taki sam, w 248 różnił się też w innych miejscach (zmiany konwertera, których tu
+nie publikuję), w 97 wycięta część mogła zawierać tekst aktu. Przyczyna tych 97: OCR potrafi ułożyć linię stopki przed
+resztą tekstu z drugiego łamu tej samej strony, a cięcie zabiera wszystko od stopki (np. DU/1934/853 straciłby § 15–19,
+DU/1935/416 § 1–3). Gdy cała ostatnia strona jest stopką, nie liczy się już do stron aktu (`pages_ocr`,
+`pages_without_text` w 31 aktach).
 
 ## Licencja
 

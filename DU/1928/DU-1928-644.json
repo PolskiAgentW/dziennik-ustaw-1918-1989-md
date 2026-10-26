@@ -1,7 +1,7 @@
 {
  "eli": "DU/1928/644",
  "title": "Rozporządzenie Ministra Poczt i Telegrafów z dnia 5 lipca 1928 r. w sprawie zastępczego doręczania zwykłych przesyłek listowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1928/644/text.pdf",
  "body": [
   {
@@ -43,16 +43,7 @@
    "num": "3",
    "path": "par_3",
    "text": "Rozporządzenie niniejsze wchodzi w życie z dniem 1 sierpnia 1928 r. i obowiązuje na całym obszarze Rzeczypospolitej Polskiej, Równocześnie tracą moc obowiązującą wszelkie przepisy sprzeczne z niniejszem rozporządzeniem. Minister Poczt i Telegratów: Bogusław Miedziński",
-   "children": [
-    {
-     "type": "text",
-     "text": "Warszawa. Drukarnia Państwowa. Tłoczono z polecenia Ministra Sprawiedliwości. 41887 P Konto czekowe Pocztowej Kasy Oszczędności Ne 30130. Cena 75 gr."
-    },
-    {
-     "type": "text",
-     "text": "OD ADMINISTRACJI: Prenumerata Dz. U. R. P. wynosi kwartalnie 7 zł. Urzędy i instytucje państwowe opłacają 6 zł. Prenumeratę uiszczać należy najpóźniej na 2 tygodnie przed rozpoczęciem każdego kwartału,"
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

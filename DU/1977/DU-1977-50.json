@@ -1,7 +1,7 @@
 {
  "eli": "DU/1977/50",
  "title": "Rozporządzenie Ministra Komunikacji z dnia 7 kwietnia 1977 r. w sprawie obliczania podstawy wymiaru kolejowej emerytury lub renty.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1977/50/text.pdf",
  "body": [
   {
@@ -536,20 +536,7 @@
      "num": "9",
      "path": "ust_9",
      "text": "Wynagrodzenia i nagrody za racjonalizację i wynalazczość.,",
-     "children": [
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Zakład nr 1, Warszawa, ul. Tamka 3. ."
-      },
-      {
-       "type": "text",
-       "text": "Zam. 348/c."
-      },
-      {
-       "type": "text",
-       "text": "Cena 2,00 zł"
-      }
-     ]
+     "children": []
     }
    ]
   }

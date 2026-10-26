@@ -1,7 +1,7 @@
 {
  "eli": "DU/1939/216",
  "title": "Obwieszczenie Ministra Spraw Wewnętrznych z dnia 28 lutego 1939 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Prezydenta Rzeczypospolitej o prawie budowlanym i zabudowaniu osiedli.",
- "converter": "eli2md 0.6.66",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1939/216/text.pdf",
  "body": [
   {
@@ -7855,20 +7855,7 @@
    "num": "422",
    "path": "art_422",
    "text": "Wykonanie niniejszego rozporządzenia porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z zainteresowanymi ministrami tudzież innym ministrom stosownie do zakresu: ich działania.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Tłoczono z polecenia Ministra Sprawiedliwości w Drukarni Państwowej w Warszawie,"
-    },
-    {
-     "type": "text",
-     "text": "Cena numeru niniejszego 1 zł40 gr. Prenumerata Dziennika Ustaw R. P. wynosi w kraju 8 zł kwartalnie (32 zł rocznie), Władze, urzędy „i instytucje państwowe oraz władze samorządu terytorialnego opłacają 6 zł kwartalnie (24 zł rocznie), Do prenumeraty zagramicznej dolicza się 4 zł kwartalnie (16 zł rocznie) tytułem porta pocztowego. Prenumeratę wpłacać należy z góry przed początkiem każdego kwartału, półrocza lub roku. Zamówienia na prenumeratę jak również na numery pojedyncze wykonywa się jedynie po wpłaceniu należności. Reklamacje z powodu nieotrzymania poszczególnych numerów wnosić należy do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru. Reklamacji spóźnionych lub wniesionych niewłaściwie nie uwzględnia się. 106259"
-    },
-    {
-     "type": "text",
-     "text": "Wpłaty należy wnosić do P. K. O. na konto czekowe Dziennik Ustaw R. P. Nr 30-130 lub do Redakcji Dziennika Ustaw R. P. w Warszawie, ul. Długa 50."
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

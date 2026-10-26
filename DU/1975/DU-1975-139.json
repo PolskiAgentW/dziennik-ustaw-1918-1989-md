@@ -1,7 +1,7 @@
 {
  "eli": "DU/1975/139",
  "title": "Obwieszczenie Prezesa Rady Ministrów z dnia 9 lipca 1975 r. w sprawie ogłoszenia jednolitego tekstu ustawy z dnia 25 stycznia 1958 r. o radach narodowych.",
- "converter": "eli2md 0.6.65",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1975/139/text.pdf",
  "body": [
   {
@@ -3864,20 +3864,7 @@
        "num": "3",
        "path": "art_102/pkt_3",
        "text": "ustawa z dnia 25 września 1954 r. o osiedlach i radach narodowych osiedli (Dz. U. Nr 43, poz. 192).",
-       "children": [
-        {
-         "type": "text",
-         "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Zakład nr 1, Warszawa, ul. Tamka 3."
-        },
-        {
-         "type": "text",
-         "text": "Zam, 1156,"
-        },
-        {
-         "type": "text",
-         "text": "Cena 6,00 zł"
-        }
-       ]
+       "children": []
       }
      ]
     }

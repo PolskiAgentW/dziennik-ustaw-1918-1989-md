@@ -1,7 +1,7 @@
 {
  "eli": "DU/1934/527",
  "title": "Rozporządzenie Ministra Sprawiedliwości z dnia 1 lipca 1934 r. o ustaleniu ilości notarjuszów z siedzibą w Białymstoku.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1934/527/text.pdf",
  "body": [
   {
@@ -24,16 +24,7 @@
    "num": "2",
    "path": "par_2",
    "text": "Rozporządzenie niniejsze wchodzi w życie z dniem ogłoszenia, Minister Sprawiedliwości: Czesław Michałowski",
-   "children": [
-    {
-     "type": "text",
-     "text": "Warszawa. Drukarnia Państwowa, Tłoczono z polecenia Ministra Sprawiedliwości. Cena 1 zł 20 gr Prenumerata Dz, U. R. P, wynosi w kraju 8 zł kwartalnie (32 zł rocznie), Wiadze, urzędy i instytucje państwowe. oraz władze samorządu terytorjalnego opłacają 6 zł kwartalnie (24 zł rocznie). Do prenumeraty zagranicznej dolicza się 4 zł kwartalnie (16 zł rocznie) tytułem porta pocztowego, Prenumeratę wpłacać należy z góry przed początkiem każdego wartału, półrocza lub roku."
-    },
-    {
-     "type": "text",
-     "text": ". Zamówienia na prenumeratę jak również na numery pojedyńcze wykonywa się jedynie po wpłaceniu należności. Reklamacje z powodu nieotrzymania poszczególnych numerów wnosić należy do właściwych urzędów pocztowych niezwłocznie po otrzymaniu następnego kolejnego numeru, Reklamacyj spóźnionych lub wniesionych niewłaściwie nie uwzględnia się, u Wszelkie wpłaty na Dz, U, R, P, wnosić należy za pośrednictwem P, K. O. na konto czekowe Adm, Dz, Ustaw 30-130."
-    }
-   ]
+   "children": []
   }
  ],
  "annexes": [],

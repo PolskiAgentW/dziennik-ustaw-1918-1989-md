@@ -1,7 +1,7 @@
 {
  "eli": "DU/1961/183",
  "title": "Obwieszczenie Ministra Przemysłu Spożywczego i Skupu z dnia 16 czerwca 1961 r. w sprawie ogłoszenia jednolitego tekstu dekretu z dnia 28 sierpnia 1952 r. o obowiązkowych dostawach ziemniaków.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1961/183/text.pdf",
  "body": [
   {
@@ -702,24 +702,7 @@
        "num": "1",
        "path": "art_44/ust_1",
        "text": "Traci moc dekret z dnia 8 października 195tr. o zabezpieczeniu dostaw ziemniaków ze zbiorów 1951 r. (Dz. U. Nr 52, poz. 368). 2: w sprawach wszczętych na podstawie przepisów \" art. 11, 14 lub 15 dekretu, o którym mowa w ust. 1, a nie >= zakończonych ostatecznie do dnia wejścia w życie niniejszego dekretu, postępowanie toczy się da końca według przepi- - A sów dotychczasowych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Redakcja: Urząd Rady Ministrów — Biuro Prawne, Warszawa, al. Ujazdowskie 1/3. Administracja: Administracja Wydawnictw Urzędu Redy Ministrów, Warszawa, ul. Krakowskie Przedmieście 50."
-        },
-        {
-         "type": "text",
-         "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Gralicznych „Tamka”. Warszawa, ul. Tamka 3."
-        },
-        {
-         "type": "text",
-         "text": "Zam. 1069 z -"
-        },
-        {
-         "type": "text",
-         "text": "Cena 2,40 zł"
-        }
-       ]
+       "children": []
       }
      ]
     }

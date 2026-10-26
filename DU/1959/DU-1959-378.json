@@ -1,7 +1,7 @@
 {
  "eli": "DU/1959/378",
  "title": "Rozporządzenie Ministra Obrony Narodowej z dnia 3 listopada 1959 r. w sprawie siedzib oraz zasięgu terytorialnego wojskowych komend wojewódzkich i wojskowych komend rejonowych.",
- "converter": "eli2md 0.6.49",
+ "converter": "eli2md 0.6.71",
  "source_pdf": "https://api.sejm.gov.pl/eli/acts/DU/1959/378/text.pdf",
  "body": [
   {
@@ -1266,11 +1266,6 @@
       {
        "type": "text",
        "text": "206 WKR Żagań Żagań gorzowski skwierzyński strzelecki międzyrzecki siubicki sulęciński głogowski nowosolski wschowski lubski szprotawski żagański żarski",
-       "quoted": true
-      },
-      {
-       "type": "text",
-       "text": "Tłoczono z polecenia Prezesa Rady Ministrów w Zakładach Graficznych „Tamka”, Warszawa, ul. Tamka 3. p O NN Zam. 1606 e Cena 2,4U zł FR. GE",
        "quoted": true
       }
      ]
