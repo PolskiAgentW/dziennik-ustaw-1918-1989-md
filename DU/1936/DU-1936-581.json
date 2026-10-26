@@ -998,11 +998,8 @@
    "text": "PRZEPISY SZCZEGÓLNE."
   },
   {
-   "type": "text",
-   "text": "Rozdział trzeci"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Rozdział trzeci",
    "text": "Naruszenie przepisów prawa celnego."
   },
   {
@@ -1256,16 +1253,13 @@
     {
      "type": "text",
      "text": "Art. 54, Kto narusza inne przepisy prawa celnego, a w szczególności także przepisy o statystyce celnej, podlega karze pieniężnej porządkowej."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział czwarty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o monopolu tytoniowym."
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział czwarty",
+   "text": "Naruszenie przepisów o monopolu tytoniowym."
   },
   {
    "type": "art",
@@ -1513,16 +1507,12 @@
    "num": "65",
    "path": "art_65",
    "text": "lu tytoniowym, podlega karze pieniężnej porządkowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział piąty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o monopolu spirytusowym i sprzedaży napojów alkoholowych."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział piąty",
+   "text": "Naruszenie przepisów o monopolu spirytusowym i sprzedaży napojów alkoholowych."
   },
   {
    "type": "art",
@@ -1975,68 +1965,64 @@
    "num": "102",
    "path": "art_102",
    "text": "Kto narusza inne przepisy o monopolu zapałczanym i opodatkowaniu zapalniczek, podlega karze pieniężnej porządkowej.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział ósmy",
+   "text": "Naruszenie przepisów o monopolu loteryjnym."
+  },
+  {
+   "type": "text",
+   "text": "Art 103. § 1. Kto:"
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "urzadza lub prowadzi loterie bez zezwolenia;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "uczestniczy na obszarze Państwa Polskiego w działalności loterii zagranicznej;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "premiuje losami loteryjnymi inne tranzakcje;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "d",
+   "path": "lit_d",
+   "text": "sprzedaje losy loterii państwowej po cenie innej od oznaczonej na losie, albo na raty lub dniówki;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "e",
+   "path": "lit_e",
+   "text": "sprzedaje szanse wygrania z poszczególnego losu loterii państwowej, podlega karze aresztu do 6 miesięcy i grzywny od 100 do 20.000 złotych.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Jeżeli loteria, urządzona bez zezwolenia, przeznaczona była na cel społeczny, sprawca podlega karze grzywny od 20 do 2.000 złotych. § 3. W przypadkach, określonych w § 1 pkt",
    "children": [
-    {
-     "type": "text",
-     "text": "Rozdział ósmy."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o monopolu loteryjnym."
-    },
-    {
-     "type": "text",
-     "text": "Art 103. § 1. Kto:"
-    },
     {
      "type": "lit",
      "num": "a",
-     "path": "art_102/lit_a",
-     "text": "urzadza lub prowadzi loterie bez zezwolenia;",
+     "path": "par_2/lit_a",
+     "text": "— e), podlegają przepadkowi losy, dokumenty i urządzenia loteryjne, oraz wygrane, które na podstawie losów i dokumentów przypadają uczestnikom Ery.",
      "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "art_102/lit_b",
-     "text": "uczestniczy na obszarze Państwa Polskiego w działalności loterii zagranicznej;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "art_102/lit_c",
-     "text": "premiuje losami loteryjnymi inne tranzakcje;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "d",
-     "path": "art_102/lit_d",
-     "text": "sprzedaje losy loterii państwowej po cenie innej od oznaczonej na losie, albo na raty lub dniówki;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "e",
-     "path": "art_102/lit_e",
-     "text": "sprzedaje szanse wygrania z poszczególnego losu loterii państwowej, podlega karze aresztu do 6 miesięcy i grzywny od 100 do 20.000 złotych.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "art_102/par_2",
-     "text": "Jeżeli loteria, urządzona bez zezwolenia, przeznaczona była na cel społeczny, sprawca podlega karze grzywny od 20 do 2.000 złotych. § 3. W przypadkach, określonych w § 1 pkt",
-     "children": [
-      {
-       "type": "lit",
-       "num": "a",
-       "path": "art_102/par_2/lit_a",
-       "text": "— e), podlegają przepadkowi losy, dokumenty i urządzenia loteryjne, oraz wygrane, które na podstawie losów i dokumentów przypadają uczestnikom Ery.",
-       "children": []
-      }
-     ]
     }
    ]
   },
@@ -2064,16 +2050,12 @@
    "num": "106",
    "path": "art_106",
    "text": "polu loteryjnym, podlega karze pieniężnej porządkowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział dziewiąty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o sztucznych środkach słodzących."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dziewiąty",
+   "text": "Naruszenie przepisów o sztucznych środkach słodzących."
   },
   {
    "type": "art",
@@ -2138,16 +2120,12 @@
    "num": "110",
    "path": "art_110",
    "text": "Kto narusza inne przepisy o sztucznych środkach słodzących, podlega karze pieniężnej porządkowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział dziesiąty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opodatkowaniu piwa."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dziesiąty",
+   "text": "Naruszenie przepisów o opodatkowaniu piwa."
   },
   {
    "type": "art",
@@ -2303,16 +2281,12 @@
    "num": "122",
    "path": "art_122",
    "text": "Kto narusza inne przepisy o opodatkowaniu piwa, podlega karze pieniężnej porządkowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział jedenasty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opodatkowaniu wina i miodu syconego (napojów winnych)."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział jedenasty",
+   "text": "Naruszenie przepisów o opodatkowaniu wina i miodu syconego (napojów winnych)."
   },
   {
    "type": "art",
@@ -2498,64 +2472,61 @@
     {
      "type": "text",
      "text": "Nr 84."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział dwunasty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opodatkowaniu drożdży."
-    },
-    {
-     "type": "text",
-     "text": "Art, 135, Kto bez zezwolenia wyrabia drożdże, podlega karze aresztu do 6 miesięcy i grzywny od 1.000 do 50.000 złotych, Przedmiot występku podlega przepadkowi."
-    },
-    {
-     "type": "text",
-     "text": "Art, 136, Kto: . ."
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "art_134/lit_a",
-     "text": "uruchamia wytwórnię drożdży przed zatwierdzeniem urządzeń przez władzę skarbową;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "art_134/lit_b",
-     "text": "rozpoczyna w wytwórni prawnie uruchomionej wyrób drożdży przed zatwierdzeniem zgłoszenia wyrobu przez władzę skarbową;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "c",
-     "path": "art_134/lit_c",
-     "text": "wyrabia drożdże wbrew zarządzeniu wł: skarbowej o wstrzymaniu ruchu wytwórni, ; podlega karze grzywny od 500 do 10.000 złotych. Drożdże, produkty do ich wyrobu przygotowane podlegają przepadkowi.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Art, 137. Kto:"
-      }
-     ]
-    },
-    {
-     "type": "lit",
-     "num": "a",
-     "path": "art_134/lit_a",
-     "text": "nie poddaje zważeniu lub nie zapisuje do właściwych ksiąg drożdży, które wyszły spod prasy;",
-     "children": []
-    },
-    {
-     "type": "lit",
-     "num": "b",
-     "path": "art_134/lit_b",
-     "text": "przechowuje nie o banderolowane drożdże w innych pomieszczeniach niż przeznaczone na ten cel, popege karze grzywny od 5 do 10-krotnego podatku od drożdży nie zważonych, nie zapisamych lub niewłaściwie przechowywanych. Przedmiot występku podlega przepadkowi.",
-     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dwunasty",
+   "text": "Naruszenie przepisów o opodatkowaniu drożdży."
+  },
+  {
+   "type": "text",
+   "text": "Art, 135, Kto bez zezwolenia wyrabia drożdże, podlega karze aresztu do 6 miesięcy i grzywny od 1.000 do 50.000 złotych, Przedmiot występku podlega przepadkowi."
+  },
+  {
+   "type": "text",
+   "text": "Art, 136, Kto: . ."
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "uruchamia wytwórnię drożdży przed zatwierdzeniem urządzeń przez władzę skarbową;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "rozpoczyna w wytwórni prawnie uruchomionej wyrób drożdży przed zatwierdzeniem zgłoszenia wyrobu przez władzę skarbową;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "c",
+   "path": "lit_c",
+   "text": "wyrabia drożdże wbrew zarządzeniu wł: skarbowej o wstrzymaniu ruchu wytwórni, ; podlega karze grzywny od 500 do 10.000 złotych. Drożdże, produkty do ich wyrobu przygotowane podlegają przepadkowi.",
+   "children": [
+    {
+     "type": "text",
+     "text": "Art, 137. Kto:"
+    }
+   ]
+  },
+  {
+   "type": "lit",
+   "num": "a",
+   "path": "lit_a",
+   "text": "nie poddaje zważeniu lub nie zapisuje do właściwych ksiąg drożdży, które wyszły spod prasy;",
+   "children": []
+  },
+  {
+   "type": "lit",
+   "num": "b",
+   "path": "lit_b",
+   "text": "przechowuje nie o banderolowane drożdże w innych pomieszczeniach niż przeznaczone na ten cel, popege karze grzywny od 5 do 10-krotnego podatku od drożdży nie zważonych, nie zapisamych lub niewłaściwie przechowywanych. Przedmiot występku podlega przepadkowi.",
+   "children": []
   },
   {
    "type": "art",
@@ -2659,16 +2630,12 @@
    "num": "144",
    "path": "art_144",
    "text": "Kto narusza inne przepisy o opodatkowaniu drożdży, podlega karze pieniężnej porządkowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział trzynasty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opodatkowaniu kwasu octowego."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział trzynasty",
+   "text": "Naruszenie przepisów o opodatkowaniu kwasu octowego."
   },
   {
    "type": "art",
@@ -2796,16 +2763,12 @@
    "num": "152",
    "path": "art_152",
    "text": "Kto narusza inne przepisy o opodatkowaniu kwasu octowego, podlega karze pieniężnej porządkowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział czternasty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opodatkowaniu kwasu węglowego."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział czternasty",
+   "text": "Naruszenie przepisów o opodatkowaniu kwasu węglowego."
   },
   {
    "type": "art",
@@ -2920,16 +2883,12 @@
    "num": "160",
    "path": "art_160",
    "text": "Kto narusza inne przepisy o opodatkowaniu kwasu węglowego, podlega karze pieniężnej porządkowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział piętnasty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opodatkowaniu cukru (cukru i cukru skrobiowego)."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział piętnasty",
+   "text": "Naruszenie przepisów o opodatkowaniu cukru (cukru i cukru skrobiowego)."
   },
   {
    "type": "art",
@@ -3078,20 +3037,16 @@
    "num": "168",
    "path": "art_168",
    "text": "Kto narusza inne przepisy o opodatkowaniu cukru, podlega karze pieniężnej porządkowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział szesnasty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opodatkowaniu olejów mineralnych,"
-    },
-    {
-     "type": "text",
-     "text": "Art. 169, Kto bez zezwolenia wyrabia oleje mineralne, podlega karze aresztu do 6 miesięcy i grzywny od 1.000 do 50.000 złotych, Przedmiot występku podlega przepadkowi."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział szesnasty",
+   "text": "Naruszenie przepisów o opodatkowaniu olejów mineralnych,"
+  },
+  {
+   "type": "text",
+   "text": "Art. 169, Kto bez zezwolenia wyrabia oleje mineralne, podlega karze aresztu do 6 miesięcy i grzywny od 1.000 do 50.000 złotych, Przedmiot występku podlega przepadkowi."
   },
   {
    "type": "art",
@@ -3172,16 +3127,12 @@
    "num": "176",
    "path": "art_176",
    "text": "Kto narusza inne przepisy o opodatkowaniu olejów mineralnych, podlega karze pieniężnej porządkowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział siedemnasty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opodatkowaniu tłuszczów."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział siedemnasty",
+   "text": "Naruszenie przepisów o opodatkowaniu tłuszczów."
   },
   {
    "type": "art",
@@ -3281,44 +3232,35 @@
     {
      "type": "text",
      "text": "Art. 184, Kto narusza inne przepisy o opodatkowaniu tłuszczów, podlega karze pieniężnej porządkowej."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział osiemnasty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opłacie od kart do gry."
-    },
-    {
-     "type": "text",
-     "text": "Art, 185, Kto uszczupla opłatę od kart do gry, podlega karze grzywny od 5 do 10-krotnej uszczuplonej opłaty. Przedmiot występku podlega przepadkowi. Art, 186. Kto narusza inne przepisy o opłacie od kart do gry, podlega karze pieniężnej porządkowej."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział dziewiętnasty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opodatkowaniu węgla."
-    },
-    {
-     "type": "text",
-     "text": "Art. 1877 W zaxresie naruszenia przepisów o opodatkowaniu węgla stosuje się odpowiednio przepisy art. 185 i 186."
-    },
-    {
-     "type": "text",
-     "text": "Art, 188, Kto zmienia w użyciu cel, który stanowił podstawę zwolnienia węgla od podatku, podlega karze grzywny od 5 do 10-krotnego podatku uszczuplonego. Przedmiot występku podlega przepadkowi."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział dwudziesty."
-    },
-    {
-     "type": "text",
-     "text": "Naruszenie przepisów o opłatach od wyrobu, przerobu, oczyszczania, magazynowania i sprzedaży artykułów monopolowych lub podlegających podatkowi (opłaty patentowe)."
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział osiemnasty",
+   "text": "Naruszenie przepisów o opłacie od kart do gry."
+  },
+  {
+   "type": "text",
+   "text": "Art, 185, Kto uszczupla opłatę od kart do gry, podlega karze grzywny od 5 do 10-krotnej uszczuplonej opłaty. Przedmiot występku podlega przepadkowi. Art, 186. Kto narusza inne przepisy o opłacie od kart do gry, podlega karze pieniężnej porządkowej."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dziewiętnasty",
+   "text": "Naruszenie przepisów o opodatkowaniu węgla."
+  },
+  {
+   "type": "text",
+   "text": "Art. 1877 W zaxresie naruszenia przepisów o opodatkowaniu węgla stosuje się odpowiednio przepisy art. 185 i 186."
+  },
+  {
+   "type": "text",
+   "text": "Art, 188, Kto zmienia w użyciu cel, który stanowił podstawę zwolnienia węgla od podatku, podlega karze grzywny od 5 do 10-krotnego podatku uszczuplonego. Przedmiot występku podlega przepadkowi."
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dwudziesty",
+   "text": "Naruszenie przepisów o opłatach od wyrobu, przerobu, oczyszczania, magazynowania i sprzedaży artykułów monopolowych lub podlegających podatkowi (opłaty patentowe)."
   },
   {
    "type": "art",
@@ -3392,26 +3334,23 @@
       {
        "type": "text",
        "text": "Art, 195. Kto narusza inne przepisy o regulowaniu gospodarki cukrowej i buraczanej, podlega karze pieniężnej porządkowej."
-      },
-      {
-       "type": "text",
-       "text": "Rozdział dwudziesty drugi"
-      },
-      {
-       "type": "text",
-       "text": "Naruszenie przepisów o obrocie papierami premiowymi."
-      },
-      {
-       "type": "text",
-       "text": "Art. 196, Kto uczestniczy w niedozwolonych tranzakcjach obcokrajowymi papierami premiowymi, podlega karze aresztu do 6 miesięcy i grzywny od 500 do 50.000 złotych. Przedmiot występku podlega przepadkowi."
-      },
-      {
-       "type": "note",
-       "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dwudziesty drugi",
+   "text": "Naruszenie przepisów o obrocie papierami premiowymi."
+  },
+  {
+   "type": "text",
+   "text": "Art. 196, Kto uczestniczy w niedozwolonych tranzakcjach obcokrajowymi papierami premiowymi, podlega karze aresztu do 6 miesięcy i grzywny od 500 do 50.000 złotych. Przedmiot występku podlega przepadkowi."
+  },
+  {
+   "type": "note",
+   "text": "[Strona 17 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
    "type": "art",
@@ -3442,18 +3381,15 @@
       {
        "type": "text",
        "text": "Art, 199. Kto narusza inne przepisy o obrocie papierami premiowymi, podlega karze pieniężnej porządkowej."
-      },
-      {
-       "type": "text",
-       "text": "Rozdział dwudziesty trzeci"
-      },
-      {
-       "type": "text",
-       "text": "Naruszenie przepisów o obrocie towarowym z Wolnym Miastem Gdańskiem."
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dwudziesty trzeci",
+   "text": "Naruszenie przepisów o obrocie towarowym z Wolnym Miastem Gdańskiem."
   },
   {
    "type": "art",
@@ -3778,11 +3714,8 @@
    "text": "POSTĘPOWANIE PRZED WŁADZAMI SKARBOWYMI."
   },
   {
-   "type": "text",
-   "text": "Rozdział pierwszy."
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Rozdział pierwszy",
    "text": "Właściwość."
   },
   {
@@ -3972,18 +3905,14 @@
      "num": "2",
      "path": "art_229/par_2",
      "text": "W sprawach wyjątkowego znaczenia prowadzenie dochodzeń może objąć władza skarbowa II instancji, ao ene cin",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział drugi."
-      },
-      {
-       "type": "text",
-       "text": "Wyłączenie urzędnika,"
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział drugi",
+   "text": "Wyłączenie urzędnika,"
   },
   {
    "type": "art",
@@ -4055,37 +3984,33 @@
    "num": "231",
    "path": "art_231",
    "text": "Niezależnie od przyczyn wymienionych w art. 230, bezpośredni przełożony wyłącza urzędnika na jego własne żądanie lub na wniosek strony, jeżeli pomiędzy nim a stroną zachodzi stosunek osobisty tego rodzaju, że mógłby wywołać wątpliwość co do jego bezstronności.",
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział trzeci",
+   "text": "Rozstrzygnięcia, doręczenia, terminy."
+  },
+  {
+   "type": "text",
+   "text": "Art, 232. § 1. Władza skarbowa wydaje rozstrzygnięcia w postaci orzeczeń i postanowień,"
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Orzeczeniem jest rozstrzygnięcie władzy skarbowej, stanowiące o winie, karze albo środku zabezpieczającym.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Wszelkie inne rozstrzygnięcia są postanowieniami.",
    "children": [
     {
      "type": "text",
-     "text": "Rozdział trzeci."
-    },
-    {
-     "type": "text",
-     "text": "Rozstrzygnięcia, doręczenia, terminy."
-    },
-    {
-     "type": "text",
-     "text": "Art, 232. § 1. Władza skarbowa wydaje rozstrzygnięcia w postaci orzeczeń i postanowień,"
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "art_231/par_2",
-     "text": "Orzeczeniem jest rozstrzygnięcie władzy skarbowej, stanowiące o winie, karze albo środku zabezpieczającym.",
-     "children": []
-    },
-    {
-     "type": "par",
-     "num": "3",
-     "path": "art_231/par_3",
-     "text": "Wszelkie inne rozstrzygnięcia są postanowieniami.",
-     "children": [
-      {
-       "type": "text",
-       "text": "; § 4. W kwestiach nie wymagających rozstrzyśnięcia władzy skarbowej — kierownik tej władzy lub przełożony organu wykonawczego władz skarbowych wydaje zarządzenia."
-      }
-     ]
+     "text": "; § 4. W kwestiach nie wymagających rozstrzyśnięcia władzy skarbowej — kierownik tej władzy lub przełożony organu wykonawczego władz skarbowych wydaje zarządzenia."
     }
    ]
   },
@@ -4223,18 +4148,14 @@
      "num": "3",
      "path": "art_239/par_3",
      "text": "Jeżeli władza ta uważa wniosek za zasadny, to sama się do niego przychyla, w przeciwnym razie przesyła go władzy właściwej do rozpoznania środka, która o wniosku rozstrzyga ostatecznie.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział czwarty."
-      },
-      {
-       "type": "text",
-       "text": "Przepisy ogólne. Dochodzenie."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział czwarty",
+   "text": "Przepisy ogólne. Dochodzenie."
   },
   {
    "type": "art",
@@ -4335,18 +4256,14 @@
      "num": "2",
      "path": "art_245/par_2",
      "text": "Przekazanie sprawy nie zwalnia władz skarbowych i jej organów wykonawczych od obowiązku udzielenia władzom sądowym żądanych wy= jaśnień i przeprowadzenia na zlecenie prokuratora uzupełniającego dochodzenia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział piąty."
-      },
-      {
-       "type": "text",
-       "text": "Rewizja i zatrzymanie rzeczy."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział piąty",
+   "text": "Rewizja i zatrzymanie rzeczy."
   },
   {
    "type": "art",
@@ -4573,45 +4490,42 @@
       {
        "type": "text",
        "text": "§ 2, W wypadkach nie cierpiących zwłoki władze skarbowe uprawnione tylko do prowadzenia dochodzeń oraz ich organa wykonawcze, mogą żądać wstrzymania wskazanych w § 1 przesyłek aż do czasu uzyskania postanowienia władz skarbowych uprawnionych do orzekania, nie dłużej jednak niż na siedem dni."
-      },
-      {
-       "type": "text",
-       "text": "Rozdział szósty."
-      },
-      {
-       "type": "text",
-       "text": "Zatrzymanie oskarżonego."
-      },
-      {
-       "type": "text",
-       "text": "Ast. 257. § 1, Organom uprawnionym do prowadzenia dochodzeń służy prawo zatrzymania oskarżoneśo, gdy zachodzą warunki do wydania postanowienia o aresztowaniu, a zwłoka mogłaby spowodować ucieczkę oskarżonego lub zatarcie śladów przestępstwa."
       }
      ]
-    },
-    {
-     "type": "par",
-     "num": "2",
-     "path": "art_255/par_2",
-     "text": "Żołnierze w czynnej służbie wojskowej mośą być zatrzymani pod warunkami ustalonymi w.",
-     "children": [
-      {
-       "type": "note",
-       "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-      },
-      {
-       "type": "text",
-       "text": "rozporządzeniu Ministrów Sprawiedliwości, Skarbu i Spraw Wojskowych."
-      }
-     ]
-    },
-    {
-     "type": "par",
-     "num": "3",
-     "path": "art_255/par_3",
-     "text": "sprawach należących do właściwości władz skarbowych od zatrzymania oskarżonego można odstąpić, jeżeli oskarżony w najbliższym urzędzie celnym lub urzędzie skarbowym akcyz i monopolów państwowych złoży na zk ożnnieczonia kary uszczuploną należność skarbową w dwukrotnej wysokości, albo równowartość towaru, jeżeli występek nie polegał na uszczupleniu należności skarbowej.",
-     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział szósty",
+   "text": "Zatrzymanie oskarżonego."
+  },
+  {
+   "type": "text",
+   "text": "Ast. 257. § 1, Organom uprawnionym do prowadzenia dochodzeń służy prawo zatrzymania oskarżoneśo, gdy zachodzą warunki do wydania postanowienia o aresztowaniu, a zwłoka mogłaby spowodować ucieczkę oskarżonego lub zatarcie śladów przestępstwa."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Żołnierze w czynnej służbie wojskowej mośą być zatrzymani pod warunkami ustalonymi w.",
+   "children": [
+    {
+     "type": "note",
+     "text": "[Strona 22 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "rozporządzeniu Ministrów Sprawiedliwości, Skarbu i Spraw Wojskowych."
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "sprawach należących do właściwości władz skarbowych od zatrzymania oskarżonego można odstąpić, jeżeli oskarżony w najbliższym urzędzie celnym lub urzędzie skarbowym akcyz i monopolów państwowych złoży na zk ożnnieczonia kary uszczuploną należność skarbową w dwukrotnej wysokości, albo równowartość towaru, jeżeli występek nie polegał na uszczupleniu należności skarbowej.",
+   "children": []
   },
   {
    "type": "art",
@@ -4624,18 +4538,14 @@
      "num": "1",
      "path": "art_258/par_1",
      "text": "Zatrzymanego należy w ciągu 24 godzin odstawić do najbliższego sędziego śledczego lub sądu grodzkiego. § 2. Przy odstawieniu oskarżonego przesyła się sądowi akta dochodzenia. W razie zastosowania środka zapobiegawczego sąd odstępuje akta prokuratorowi — w przeciwnym razie zwraca je władzy skarbowej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział siódmy."
-      },
-      {
-       "type": "text",
-       "text": "Protokół karny."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział siódmy",
+   "text": "Protokół karny."
   },
   {
    "type": "art",
@@ -4667,18 +4577,14 @@
      "num": "3",
      "path": "art_259/par_3",
      "text": "W razie odmowy podpisu należy stwierdzić w protokole powód odmowy.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział ósmy."
-      },
-      {
-       "type": "text",
-       "text": "Badanie oskarżonego, świadków i biegłych."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział ósmy",
+   "text": "Badanie oskarżonego, świadków i biegłych."
   },
   {
    "type": "art",
@@ -4836,16 +4742,12 @@
    "num": "269",
    "path": "art_269",
    "text": "Poza tym do badania świadków i bieśłych oraz wynagrodzenia ich za stawiennictwo stosuje się odpowiednio przepisy kodeksu postepowa~ nią karnego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział dziewiąty."
-    },
-    {
-     "type": "text",
-     "text": "Umorzenie postępowania."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dziewiąty",
+   "text": "Umorzenie postępowania."
   },
   {
    "type": "art",
@@ -5016,18 +4918,15 @@
       {
        "type": "text",
        "text": "1383"
-      },
-      {
-       "type": "text",
-       "text": "Rozdział dziesiąty."
-      },
-      {
-       "type": "text",
-       "text": "Dobrowolne poddanie się karze."
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dziesiąty",
+   "text": "Dobrowolne poddanie się karze."
   },
   {
    "type": "art",
@@ -5810,16 +5709,12 @@
    "num": "311",
    "path": "art_311",
    "text": "Do postępowania w sprawach o ułaskawienie stosuje się odpowiednio przepisy kodeksu postępowania karnego. Przewidziane w tych przepisach uprawnienia sądu służą władzy skarbowej, która orzekała w sprawie, uprawnienia zaś Ministra Sprawiedliwości — Ministrowi Skarbu.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział czternasty."
-    },
-    {
-     "type": "text",
-     "text": "Koszty postępowania karnego."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział czternasty",
+   "text": "Koszty postępowania karnego."
   },
   {
    "type": "art",
@@ -5907,16 +5802,13 @@
     {
      "type": "text",
      "text": "Nr 84."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział piętnasty."
-    },
-    {
-     "type": "text",
-     "text": "Wznowienie postępowania."
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział piętnasty",
+   "text": "Wznowienie postępowania."
   },
   {
    "type": "art",
@@ -6033,11 +5925,8 @@
    "text": "POSTĘPOWANIE PRZED SĄDEM."
   },
   {
-   "type": "text",
-   "text": "Rozdział siedemnasty."
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Rozdział siedemnasty",
    "text": "Przepis ogólny."
   },
   {
@@ -6049,11 +5938,8 @@
    "text": "[Strona 27 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Rozdział osiemnasty."
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Rozdział osiemnasty",
    "text": "Właściwość rzeczowa."
   },
   {
@@ -6122,18 +6008,14 @@
      "num": "3",
      "path": "art_323/par_3",
      "text": "Jednego członka składu orzekającego może zastąpić na podstawie zarządzenia prezesa sądu okręgowego, powziętego na wniosek przewodniczącego wydziału karnego skarbowego, inny sędzia okręgowy lub grodzki albo asesor sądowy, upoważniony do pełnienia czynności sędziowskich.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział dziewiętnasty."
-      },
-      {
-       "type": "text",
-       "text": "Zbieg przestępstw i przepisów ustawy."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dziewiętnasty",
+   "text": "Zbieg przestępstw i przepisów ustawy."
   },
   {
    "type": "art",
@@ -6184,16 +6066,12 @@
    "num": "326",
    "path": "art_326",
    "text": "Przepisu art. 325 nie stosuje się, jeżeli pozostające w zbiegu przestępstwo podlega właściwości sądów przysięgłych.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział dwudziesty."
-    },
-    {
-     "type": "text",
-     "text": "Uprawnienia władzy skarbowej."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dwudziesty",
+   "text": "Uprawnienia władzy skarbowej."
   },
   {
    "type": "art",
@@ -6300,20 +6178,16 @@
        "num": "2",
        "path": "art_331/par_1/ust_2",
        "text": "Ministrowie Sprawiedliwości i Skarbu mogą w drodze rozporządzeń upoważniać organa wykonawcze władz skarbowych do wnoszenia i popierania oskarżenia w sądach grodzkich, określając zakres ich uprawnień.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Rozdział dwudziesty pierwszy."
-        },
-        {
-         "type": "text",
-         "text": "Odpowiedzialni i interwenienci."
-        }
-       ]
+       "children": []
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział dwudziesty pierwszy",
+   "text": "Odpowiedzialni i interwenienci."
   },
   {
    "type": "art",

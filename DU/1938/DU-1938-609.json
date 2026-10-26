@@ -25,11 +25,8 @@
    "text": "Na podstawie art. 55 ust. (2) ustawy konstytucyjnej postanawiam co następuje:"
   },
   {
-   "type": "text",
-   "text": "Część pierwsza."
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Część pierwsza",
    "text": "Zmiana niektórych przepisów postępowania karnego,"
   },
   {
@@ -743,907 +740,903 @@
        "num": "2",
        "path": "art_2/par_3/pkt_2",
        "text": "W art. 42 § 3 przepisów wprowadzających kodeks postępowania karnego dodaje się drugie zdanie o następującym brzmieniu: „W sprawach o przestępstwa, określone w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 24 października 1934 r. o niektórych przestępstwach przeciwko bezpieczeństwu Państwa (Dz. U. R. P. Nr 94, poz. 851) oraz w rozporządzeniu Prezydenta Rzeczypospolitej z dnia 23 śrudnia 1927 r. o granicach Państwa (Dz. U. R. P. z 1937 r. Nr 11, poz. 83) — organa te mają na obszarze pasa granicznego, na którym pełnią służbę. prawa i obowiązki policji państwowej, przewidziane w przepisach postępowania karnego.\"",
-       "children": [
-        {
-         "type": "text",
-         "text": "Część druga."
-        },
-        {
-         "type": "text",
-         "text": "Zmiana niektórych przepisów postępowania cywilnego,"
-        },
-        {
-         "type": "text",
-         "text": "Art. 33 W kodeksie postępowania cywilnego wprowadza się następujące zmiany:"
-        },
-        {
-         "type": "text",
-         "text": "I. POSTĘPOWANIE SPORNE,"
-        },
-        {
-         "type": "text",
-         "text": "Właściwość sądu."
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_2/par_3/pkt_1",
-       "text": "Art. 10 otrzymuje następujące brzmienie: „Art. 10. Do właściwości sądów grodzkich należą;",
-       "children": [
-        {
-         "type": "text",
-         "text": "Str. 1346"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_2/par_3/pkt_1",
-       "text": "sprawy majątkowe, w których wartość przedmiotu sporu nie przewyższa dwóch tysięcy złotych; :",
        "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_2/par_3/pkt_2",
-       "text": "sprawy działowe, jeżeli wartość przedmiotu działu, nie przewyższa pięćdziesięciu tysięcy złotych;",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_2/par_3/pkt_3",
-       "text": "bez względu na wartość przedmiotu sporu:",
-       "children": [
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_2/par_3/pkt_3/lit_a",
-         "text": "sprawy o ojcostwo nieślubne, jak również o roszczenia majątkowe, pozostające w związku z ojcostwem nieślubnym;",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "art_2/par_3/pkt_3/lit_b",
-         "text": "sprawy o ochronę zakłóconego lub przywrócenie utraconego posiadania.",
-         "children": []
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_2/par_3/pkt_2",
-       "text": "Art. 19 otrzymuje następujące brzmienie: „Art. 19. W sprawach o istnienie, unieważnienie albo rozwiązanie umowy najmu lub dzierżawy, o wydanie lub odebranie przedmiotu najmu lub dzierżawy, wartość przedmiotu sporu stanowi przy umowach zawartych na czas oznaczony suma czynszu za czas sporny, lecz nie więcej niż za rok; przy umowach zawartych na czas nieoznaczony suma czynszu za czas potrzebny do wypowiedzenia.”",
-       "children": [
-        {
-         "type": "text",
-         "text": "Prawo ubogich."
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_2/par_3/pkt_3",
-       "text": "Art 112 otrzymuje następujące brzmię-",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "nie: „Art. 112. § 1. Przyznania prawa ubogich domagać się może osoba fizyczna, która wykaże na podstawie zaświadczenia władzy administracji rządowej, samorządowej lub sądu opiekuńcześo, że nie jest w stanie bez uszczerbku utrzymania, koniecznego dla siebie i rodziny, ponieść kosztów procesu. Zaświadczenie powinno obejmować dokładne dane o stanie rodzinnym, majątku i dochodach; od sądu zależy uznanie tego zaświadczenia za dostateczny dowód ubóstwa strony."
       }
      ]
-    },
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Część druga",
+   "text": "Zmiana niektórych przepisów postępowania cywilnego,"
+  },
+  {
+   "type": "text",
+   "text": "Art. 33 W kodeksie postępowania cywilnego wprowadza się następujące zmiany:"
+  },
+  {
+   "type": "text",
+   "text": "I. POSTĘPOWANIE SPORNE,"
+  },
+  {
+   "type": "text",
+   "text": "Właściwość sądu."
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "Art. 10 otrzymuje następujące brzmienie: „Art. 10. Do właściwości sądów grodzkich należą;",
+   "children": [
     {
-     "type": "par",
-     "num": "2",
-     "path": "art_2/par_2",
-     "text": "Osobie prawnej może być przyznane prawo ubogich, jeżeli wykaże na podstawie zaświadczenia, wymienionego w paraśrałie poprzedzaiacvm, że nie posiada dostatecznych środków na koszty procesu.”",
-     "children": [
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "art_2/par_2/pkt_4",
-       "text": "W art. 116 dotychczasowe brzmienie oznacza się jako § 1 i dodaje się § 2 o następującym brzmieniu: „S 2. Sad może przyznać prawo ubogich częściowo. Rozporządzenie Ministra Sprawiedliwości określi zasady częściowego przyznania prawa ubogich.\"",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "5",
-       "path": "art_2/par_2/pkt_5",
-       "text": "W art. 120 § 3 otrzymuje następujące brzmienie: „Ś 3. Opłaty i koszty postępowania przez stronę ubogą nieuiszczone, których zapłata nie została włożona na przeciwnika strony ubogiej, należy Sciagnaé z urzędu od strony ubogiej z zasadzonego jej roszczenia; celem zabezpieczenia tych należności Skarbowi Państwa służy ustawowe prawo zastawu na zasądzonym stronie ubogiej roszczeniu.”",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "6",
-       "path": "art_2/par_2/pkt_6",
-       "text": "W art. 123 skreśla się zdanie drugie. ; DW art. 124 dodaje się na końcu następujący przepis:",
-       "children": [
-        {
-         "type": "note",
-         "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Str. 1347"
-        },
-        {
-         "type": "text",
-         "text": "„Wniesienie środka odwoławczego od odmowy lub cofnięcia prawa ubogich nie wstrzymuje postępowania w sprawie. ' ; 8) Ast 125 otrzymuje następujące brzmienie: „Art. 125. Nie ma środka odwoławczego od postanowienia, którym sąd prawo ubogich przyznał, odmówił jego cofnięcia lub nałożenia dodatkowej zapłaty oraz od postanowienia sądu drugiej instancji, odmawiającego lub cołającego prawo ubogich. Zażalenie służy jednak na postanowienie sądu drugiej instancji, odmawiające lub cofające prawo ubogich dla instancji kasacyjnej, '",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Pisma procesowe.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "9) W art. 141 dodaje się § 4 o następującym brzmieniu: „§ 4. Jeżeli pismo, podlegające opłacie w wysokości stałej, wniesione przez adwokata nie jest należycie opłacone, przewodniczący zwróci pismo bez wzywania do uiszczenia należnej opłaty.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Doręczenia.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "10) Art. 145 skreśla się.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Protokóły.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "11) Art. 177 otrzymuje następujące brzmienie: e „Art. 177. Strony mogą żądać w terminie tygodniowym od posiedzenia sprostowania lub uzupełnienia protokołu, przy czym od zarządzenia przewodniczącego można odwołać się do sądu, na którego postanowienie nie ma zażalenia.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "12) Art. 178 otrzymuje następujące brzmiee: „Art. 178. W toku posiedzenia stronom wolno oświadczenia, wnioski, uzupełnienia i sprostowania zamieścić w załączniku do protokołu. Gdy stronę zastępuje adwokat, przewodniczący może zażądać takiego załącznika.\"",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "13) Art 255 § 1 otrzymuje następujące ienie: i § 1. Protokół zawierający przebieg postępowania dowodowego, przeprowadzonego przed sędzią wyznaczonym lub sądem wezwanym, podpisują oprócz sędziego i protokolanta, także osoby przesłuchane i strony obecne.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Pozew i rozprawa.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": ", 14) Art. 209 otrzymuje następujące brzmienie: „Art. 209, Pozew o wydanie lub odebranie przedmiomi najmu lub dzierżawy w terminie, w tórym najem lub dzierżawa wygasa, można wnieść do sądu jeszcze przed tym terminem.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "15) W art. 294 dotychczasowe brzmienie oznacza się jako § 1 i dodaje się § 2 o następującym brzmieniu: „S§ 2. Duchowni uznanych prawnie wyznań nie składają przysięgi.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "16) Art. 385 skreśla się,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Wyroki i postanowienia.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "17) Art. 350 otrzymuje następujące brzmienie: „Art. 350. § 1. Wyrok z uzasadnieniem powinien być w ciągu dwóch tygodni sporządzony na piśmie, jeżeli strona tego zażądała w ciąśu tygodnia od ogłoszenia sentencji.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 2. Obowiązek sporządzenia uzasadnienia wyroku nie zależy od dopuszczalności zaskarżenia wyroku. § 3. Sporządzenie uzasadnienia należy do sędziego sprawozdawcy, a gdy nie był wyznaczony — do sędziego, któremu przewodniczący rozprawy to poruczy. '",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "18) W art. 355 skreśla się punkt 5), a punkt",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "6) staje się punktem 5). . Na końcu tego artykułu dodaje się nastędk \"Poza tym na wniosek powoda sąd może jacy przepis:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "nadać wyrokowi przy jego wydaniu ten rygor, jeżeli wyrok zapadł w sprawie, która według przepisów kodeksu może być rozpoznana przez wydział handlowy.\"",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "19) Art. 376 otrzymuje następujące brzmienie: ' „Art. 376. § 1. Postanowienia wydane na podstawie rozprawy będą ogłoszone na rozprawie, Postanowienia te doręcza się stronie z uzasadnieniem tytko wtedy, gdy służy jej zażalenie na postanowienie i gdy zgłosiła żądanie doręczenia postanowienia w ciągu tygodnia od jego ogłoszenia.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 2, W! sprawach, w których występuje Prokuratoria Generalna, doręcza się z urzędu stronom postanowienia wraz z uzasadnieniem, jeżeli na nie służy zażalenie.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 3. Postanowienia wydane bez rozprawy doręcza się z urzędu obu stronom, z wyjątkiem postanowień o zabezpieczeniu powództwa, które doręcza się tylko powodowi. Postanowienia należy doręczyć z uzasadrieniem, gdy stronie służy zażalenie na postanowienie.”",
-         "quoted": true
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "20",
-       "path": "art_2/par_2/pkt_20",
-       "text": "Art. 379 skreśla się.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "21",
-       "path": "art_2/par_2/pkt_21",
-       "text": "W! art. 421 § 2 otrzymuje następujące brzmienie: „S§ 2. Termin do wniesienia zażalenia na postanowienie liczy się od doręczenia postanowienia z uzasadnieniem, jeżeli doręcza się je z urzędu lub na żądanie strony, zgłoszone we właściwym terminie, w innych przypadkach — od dnia ogłoszenia postanowienia. ''",
-       "children": [
-        {
-         "type": "text",
-         "text": "Kasacja."
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "22",
-       "path": "art_2/par_2/pkt_22",
-       "text": "W art. 425 § 1 otrzymuje następujące brzmienie: „8 1. W sprawach o roszczenia majątkowe skarga kasacyjna służy tylko wówczas, śdy war-",
-       "children": [
-        {
-         "type": "note",
-         "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "W"
-        },
-        {
-         "type": "text",
-         "text": "tość przedmiotu zaskarżenia przenosi tysiąc pięćset złotych. Co do oznaczenia tej wartości stosuje się odpowiednio przepisy o wartości przedmiotu sporu.\" , 23) Art. 441 otrzymuje następujące brzmienie: „S§ 1. Jeżeli nie ma szczególnych przepisów o postępowaniu przed Sądem Najwyższym, stosuje się. odpowiednio przepisy o apelacji."
-        }
-       ]
-      }
-     ]
-    },
+     "type": "text",
+     "text": "Str. 1346"
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "sprawy majątkowe, w których wartość przedmiotu sporu nie przewyższa dwóch tysięcy złotych; :",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "sprawy działowe, jeżeli wartość przedmiotu działu, nie przewyższa pięćdziesięciu tysięcy złotych;",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "bez względu na wartość przedmiotu sporu:",
+   "children": [
     {
-     "type": "par",
-     "num": "2",
-     "path": "art_2/par_2",
-     "text": "Zażalenie do Sądu Najwyższego służy jedynie na postanowienie sądu drugiej instancji odrzucające skargę kasacyjną, odmawiające lub cofające prawo ubogich dla instancji kasacyjnej oraz odmawiające zwrotu kaucji kasacyjnej. Do tych zażaleń stosuje się odpowiednio przepisy o zażaleniu, z wyjątkiem przepisu © doręczeniu zażalenia stronie przeciwnej.",
+     "type": "lit",
+     "num": "a",
+     "path": "pkt_3/lit_a",
+     "text": "sprawy o ojcostwo nieślubne, jak również o roszczenia majątkowe, pozostające w związku z ojcostwem nieślubnym;",
      "children": []
     },
     {
-     "type": "par",
-     "num": "3",
-     "path": "art_2/par_3",
-     "text": "Orzeczeń Sądu Najwyższego nie dorecza się stronom, z wyjątkiem w sprawach, w których uczestniczy Prokuratoria Generalna.\"",
+     "type": "lit",
+     "num": "b",
+     "path": "pkt_3/lit_b",
+     "text": "sprawy o ochronę zakłóconego lub przywrócenie utraconego posiadania.",
+     "children": []
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "Art. 19 otrzymuje następujące brzmienie: „Art. 19. W sprawach o istnienie, unieważnienie albo rozwiązanie umowy najmu lub dzierżawy, o wydanie lub odebranie przedmiotu najmu lub dzierżawy, wartość przedmiotu sporu stanowi przy umowach zawartych na czas oznaczony suma czynszu za czas sporny, lecz nie więcej niż za rok; przy umowach zawartych na czas nieoznaczony suma czynszu za czas potrzebny do wypowiedzenia.”",
+   "children": [
+    {
+     "type": "text",
+     "text": "Prawo ubogich."
+    }
+   ]
+  },
+  {
+   "type": "pkt",
+   "num": "3",
+   "path": "pkt_3",
+   "text": "Art 112 otrzymuje następujące brzmię-",
+   "children": []
+  },
+  {
+   "type": "text",
+   "text": "nie: „Art. 112. § 1. Przyznania prawa ubogich domagać się może osoba fizyczna, która wykaże na podstawie zaświadczenia władzy administracji rządowej, samorządowej lub sądu opiekuńcześo, że nie jest w stanie bez uszczerbku utrzymania, koniecznego dla siebie i rodziny, ponieść kosztów procesu. Zaświadczenie powinno obejmować dokładne dane o stanie rodzinnym, majątku i dochodach; od sądu zależy uznanie tego zaświadczenia za dostateczny dowód ubóstwa strony."
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Osobie prawnej może być przyznane prawo ubogich, jeżeli wykaże na podstawie zaświadczenia, wymienionego w paraśrałie poprzedzaiacvm, że nie posiada dostatecznych środków na koszty procesu.”",
+   "children": [
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "par_2/pkt_4",
+     "text": "W art. 116 dotychczasowe brzmienie oznacza się jako § 1 i dodaje się § 2 o następującym brzmieniu: „S 2. Sad może przyznać prawo ubogich częściowo. Rozporządzenie Ministra Sprawiedliwości określi zasady częściowego przyznania prawa ubogich.\"",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "5",
+     "path": "par_2/pkt_5",
+     "text": "W art. 120 § 3 otrzymuje następujące brzmienie: „Ś 3. Opłaty i koszty postępowania przez stronę ubogą nieuiszczone, których zapłata nie została włożona na przeciwnika strony ubogiej, należy Sciagnaé z urzędu od strony ubogiej z zasadzonego jej roszczenia; celem zabezpieczenia tych należności Skarbowi Państwa służy ustawowe prawo zastawu na zasądzonym stronie ubogiej roszczeniu.”",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "6",
+     "path": "par_2/pkt_6",
+     "text": "W art. 123 skreśla się zdanie drugie. ; DW art. 124 dodaje się na końcu następujący przepis:",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Str. 1347"
+      },
+      {
+       "type": "text",
+       "text": "„Wniesienie środka odwoławczego od odmowy lub cofnięcia prawa ubogich nie wstrzymuje postępowania w sprawie. ' ; 8) Ast 125 otrzymuje następujące brzmienie: „Art. 125. Nie ma środka odwoławczego od postanowienia, którym sąd prawo ubogich przyznał, odmówił jego cofnięcia lub nałożenia dodatkowej zapłaty oraz od postanowienia sądu drugiej instancji, odmawiającego lub cołającego prawo ubogich. Zażalenie służy jednak na postanowienie sądu drugiej instancji, odmawiające lub cofające prawo ubogich dla instancji kasacyjnej, '",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pisma procesowe.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "9) W art. 141 dodaje się § 4 o następującym brzmieniu: „§ 4. Jeżeli pismo, podlegające opłacie w wysokości stałej, wniesione przez adwokata nie jest należycie opłacone, przewodniczący zwróci pismo bez wzywania do uiszczenia należnej opłaty.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Doręczenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "10) Art. 145 skreśla się.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Protokóły.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "11) Art. 177 otrzymuje następujące brzmienie: e „Art. 177. Strony mogą żądać w terminie tygodniowym od posiedzenia sprostowania lub uzupełnienia protokołu, przy czym od zarządzenia przewodniczącego można odwołać się do sądu, na którego postanowienie nie ma zażalenia.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "12) Art. 178 otrzymuje następujące brzmiee: „Art. 178. W toku posiedzenia stronom wolno oświadczenia, wnioski, uzupełnienia i sprostowania zamieścić w załączniku do protokołu. Gdy stronę zastępuje adwokat, przewodniczący może zażądać takiego załącznika.\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "13) Art 255 § 1 otrzymuje następujące ienie: i § 1. Protokół zawierający przebieg postępowania dowodowego, przeprowadzonego przed sędzią wyznaczonym lub sądem wezwanym, podpisują oprócz sędziego i protokolanta, także osoby przesłuchane i strony obecne.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Pozew i rozprawa.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": ", 14) Art. 209 otrzymuje następujące brzmienie: „Art. 209, Pozew o wydanie lub odebranie przedmiomi najmu lub dzierżawy w terminie, w tórym najem lub dzierżawa wygasa, można wnieść do sądu jeszcze przed tym terminem.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "15) W art. 294 dotychczasowe brzmienie oznacza się jako § 1 i dodaje się § 2 o następującym brzmieniu: „S§ 2. Duchowni uznanych prawnie wyznań nie składają przysięgi.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "16) Art. 385 skreśla się,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Wyroki i postanowienia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "17) Art. 350 otrzymuje następujące brzmienie: „Art. 350. § 1. Wyrok z uzasadnieniem powinien być w ciągu dwóch tygodni sporządzony na piśmie, jeżeli strona tego zażądała w ciąśu tygodnia od ogłoszenia sentencji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 2. Obowiązek sporządzenia uzasadnienia wyroku nie zależy od dopuszczalności zaskarżenia wyroku. § 3. Sporządzenie uzasadnienia należy do sędziego sprawozdawcy, a gdy nie był wyznaczony — do sędziego, któremu przewodniczący rozprawy to poruczy. '",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "18) W art. 355 skreśla się punkt 5), a punkt",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) staje się punktem 5). . Na końcu tego artykułu dodaje się nastędk \"Poza tym na wniosek powoda sąd może jacy przepis:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "nadać wyrokowi przy jego wydaniu ten rygor, jeżeli wyrok zapadł w sprawie, która według przepisów kodeksu może być rozpoznana przez wydział handlowy.\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "19) Art. 376 otrzymuje następujące brzmienie: ' „Art. 376. § 1. Postanowienia wydane na podstawie rozprawy będą ogłoszone na rozprawie, Postanowienia te doręcza się stronie z uzasadnieniem tytko wtedy, gdy służy jej zażalenie na postanowienie i gdy zgłosiła żądanie doręczenia postanowienia w ciągu tygodnia od jego ogłoszenia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 2, W! sprawach, w których występuje Prokuratoria Generalna, doręcza się z urzędu stronom postanowienia wraz z uzasadnieniem, jeżeli na nie służy zażalenie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3. Postanowienia wydane bez rozprawy doręcza się z urzędu obu stronom, z wyjątkiem postanowień o zabezpieczeniu powództwa, które doręcza się tylko powodowi. Postanowienia należy doręczyć z uzasadrieniem, gdy stronie służy zażalenie na postanowienie.”",
+       "quoted": true
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "20",
+     "path": "par_2/pkt_20",
+     "text": "Art. 379 skreśla się.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "21",
+     "path": "par_2/pkt_21",
+     "text": "W! art. 421 § 2 otrzymuje następujące brzmienie: „S§ 2. Termin do wniesienia zażalenia na postanowienie liczy się od doręczenia postanowienia z uzasadnieniem, jeżeli doręcza się je z urzędu lub na żądanie strony, zgłoszone we właściwym terminie, w innych przypadkach — od dnia ogłoszenia postanowienia. ''",
      "children": [
       {
        "type": "text",
-       "text": "Postępowanie nakazowe,"
+       "text": "Kasacja."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "22",
+     "path": "par_2/pkt_22",
+     "text": "W art. 425 § 1 otrzymuje następujące brzmienie: „8 1. W sprawach o roszczenia majątkowe skarga kasacyjna służy tylko wówczas, śdy war-",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
       },
       {
-       "type": "pkt",
-       "num": "24",
-       "path": "art_2/par_3/pkt_24",
-       "text": "W art. 467 dodaje się na końcu następujący przepis: (| „W postępowaniu aakazowvm niedopuszczalne jest przeciwstawienie roszczenia do potrącenia, chyba że roszczenie jest uzasadnione dokumentem.\" :",
-       "children": [
-        {
-         "type": "text",
-         "text": "IL. POSTĘPOWANIE EGZEKUCYJNE."
-        },
-        {
-         "type": "text",
-         "text": "Przepisy ogólne."
-        }
-       ]
+       "type": "text",
+       "text": "W"
       },
       {
-       "type": "pkt",
-       "num": "25",
-       "path": "art_2/par_3/pkt_25",
-       "text": "W art. 523 § 1 dodaje się na końcu następujący przepis: „Koszty egzekucji ustala komornik, jeżeli przeprowadzenie e$zekucji do niego należy.”",
-       "children": []
+       "type": "text",
+       "text": "tość przedmiotu zaskarżenia przenosi tysiąc pięćset złotych. Co do oznaczenia tej wartości stosuje się odpowiednio przepisy o wartości przedmiotu sporu.\" , 23) Art. 441 otrzymuje następujące brzmienie: „S§ 1. Jeżeli nie ma szczególnych przepisów o postępowaniu przed Sądem Najwyższym, stosuje się. odpowiednio przepisy o apelacji."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "par",
+   "num": "2",
+   "path": "par_2",
+   "text": "Zażalenie do Sądu Najwyższego służy jedynie na postanowienie sądu drugiej instancji odrzucające skargę kasacyjną, odmawiające lub cofające prawo ubogich dla instancji kasacyjnej oraz odmawiające zwrotu kaucji kasacyjnej. Do tych zażaleń stosuje się odpowiednio przepisy o zażaleniu, z wyjątkiem przepisu © doręczeniu zażalenia stronie przeciwnej.",
+   "children": []
+  },
+  {
+   "type": "par",
+   "num": "3",
+   "path": "par_3",
+   "text": "Orzeczeń Sądu Najwyższego nie dorecza się stronom, z wyjątkiem w sprawach, w których uczestniczy Prokuratoria Generalna.\"",
+   "children": [
+    {
+     "type": "text",
+     "text": "Postępowanie nakazowe,"
+    },
+    {
+     "type": "pkt",
+     "num": "24",
+     "path": "par_3/pkt_24",
+     "text": "W art. 467 dodaje się na końcu następujący przepis: (| „W postępowaniu aakazowvm niedopuszczalne jest przeciwstawienie roszczenia do potrącenia, chyba że roszczenie jest uzasadnione dokumentem.\" :",
+     "children": [
+      {
+       "type": "text",
+       "text": "IL. POSTĘPOWANIE EGZEKUCYJNE."
       },
       {
-       "type": "pkt",
-       "num": "26",
-       "path": "art_2/par_3/pkt_26",
-       "text": "W art. 529 § 1 skreśla się wyrazy: ,,swemu orzeczeniu.",
-       "children": []
+       "type": "text",
+       "text": "Przepisy ogólne."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "25",
+     "path": "par_3/pkt_25",
+     "text": "W art. 523 § 1 dodaje się na końcu następujący przepis: „Koszty egzekucji ustala komornik, jeżeli przeprowadzenie e$zekucji do niego należy.”",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "26",
+     "path": "par_3/pkt_26",
+     "text": "W art. 529 § 1 skreśla się wyrazy: ,,swemu orzeczeniu.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "27",
+     "path": "par_3/pkt_27",
+     "text": "W art. 534 § 1 wyrazy: „po powstaniu tytułu egzekucyjnego” zastępuje się wyrazami: „po wniesieniu pozwu”. W artykule tym dodaje się § 4 o następującym brzmieniu: ; „S 4. Na podstawie tytułu egzekucyjnego przeciwko spółce jawnej lub komandytowej sąd nada klauzulę wykonalności przeciwko każdemu spólnikowi, odpowiadającemu osobiście bez ograniczenia za zobowiązania spółki.”",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "28",
+     "path": "par_3/pkt_28",
+     "text": "W art. 562 § 1 wyrazy: „w ciągu trzech lat’ zastępuje się wyrazami: „w ciągu roku\".",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "29",
+     "path": "par_3/pkt_29",
+     "text": "W art. 572 punkt 5) otrzymuje następujące brzmienie: „5 subwencje (zasiłki) przyznane przez Skarb Państwa lub związki komunalne na cele oświatowe, kulturalne i artystyczne.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "30",
+     "path": "par_3/pkt_30",
+     "text": "W art. 578 § 2 dodaje się na końcu następujący przepis: „Egzekucja jest dopuszczalna celem zrealizowania umownego prawa zastawu lub hipoteki umownej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Str. 1348"
       },
       {
-       "type": "pkt",
-       "num": "27",
-       "path": "art_2/par_3/pkt_27",
-       "text": "W art. 534 § 1 wyrazy: „po powstaniu tytułu egzekucyjnego” zastępuje się wyrazami: „po wniesieniu pozwu”. W artykule tym dodaje się § 4 o następującym brzmieniu: ; „S 4. Na podstawie tytułu egzekucyjnego przeciwko spółce jawnej lub komandytowej sąd nada klauzulę wykonalności przeciwko każdemu spólnikowi, odpowiadającemu osobiście bez ograniczenia za zobowiązania spółki.”",
-       "children": []
+       "type": "text",
+       "text": "Egzekucja z ruchomości."
       },
       {
-       "type": "pkt",
-       "num": "28",
-       "path": "art_2/par_3/pkt_28",
-       "text": "W art. 562 § 1 wyrazy: „w ciągu trzech lat’ zastępuje się wyrazami: „w ciągu roku\".",
-       "children": []
+       "type": "text",
+       "text": "_ 31) Art. 598 otrzymuje następujące brzmienie:"
       },
       {
-       "type": "pkt",
-       "num": "29",
-       "path": "art_2/par_3/pkt_29",
-       "text": "W art. 572 punkt 5) otrzymuje następujące brzmienie: „5 subwencje (zasiłki) przyznane przez Skarb Państwa lub związki komunalne na cele oświatowe, kulturalne i artystyczne.",
-       "children": []
+       "type": "text",
+       "text": "„Art. 598. Po zajęciu komornik przystępuje do sprzedaży ruchomości, chyba że wierzyciel ograniczył egzekucję do zajęcia. Sprzedaż odby-- wa się przez licytację publiczną. '",
+       "quoted": true
       },
       {
-       "type": "pkt",
-       "num": "30",
-       "path": "art_2/par_3/pkt_30",
-       "text": "W art. 578 § 2 dodaje się na końcu następujący przepis: „Egzekucja jest dopuszczalna celem zrealizowania umownego prawa zastawu lub hipoteki umownej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Str. 1348"
-        },
-        {
-         "type": "text",
-         "text": "Egzekucja z ruchomości."
-        },
-        {
-         "type": "text",
-         "text": "_ 31) Art. 598 otrzymuje następujące brzmienie:"
-        },
-        {
-         "type": "text",
-         "text": "„Art. 598. Po zajęciu komornik przystępuje do sprzedaży ruchomości, chyba że wierzyciel ograniczył egzekucję do zajęcia. Sprzedaż odby-- wa się przez licytację publiczną. '",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "32) W art. 603 § 1 dodaje się na końcu następujący przepis: „O umieszczenie obwieszczenia o licytacji na drzwiach domu komornik może wezwać właściwy urząd gminny.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "33) W art. 616 § 1 po wyrazach: „w ciągu dwóch tygodni* umieszcza się wyrazy: „od otrzymania zawiadomienia komornika.\" 3 34) Art. 617 otrzymuje następujące brzmienie: „Art. 617, Na drugiej licytacji cena wywo\" łania wynosi dwie piąte części sumy oszacowania. Jeżeli i na tej.licytacji nikt nie zaofiarował nawet ceny wywołania albo jeżeli licytacja nie doszła do skutku, wierzycielowi w ciąśu dwóch tygodni od otrzymania zawiadomienia komornika służy prawo przejęcia ruchomości na własność w cenie wynoszącej połowę sumy oszacowania. W tym przypadku stosuje się odpowiednio przepisy paragrafu drugiego artykułu poprzedzającego. Jeżeli wierzyciel nie skorzystał z prawa przejęcia ruchomości, komornik postępowanie umorzy.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "35) Po art. 617 umieszcza się art. 617! o następującym brzmieniu:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "„Art. 6171, Po zawiadomieniu o przyznaniu ruchomości wierzyciel powinien je natychmiast odebrać. Jeżeli dłużnik nie zgadza się na oddanie rzeczy, komornik na wniosek. wierzyciela postąpi jak przy egzekucji roszczeń niepieniężnych. '",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Egzekucja z wierzytelności pieniężnych i innych praw majątkowych.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "36) W art. 635 § 2 otrzymuje następujące brzmienie:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "„S§ 2. Wierzytelność, przypadająca dłużnikowi od Skarbu Państwa, przedsiębiorstw państwowych, zastępowanych przez Prokuratorię Generalną, funduszów państwowych, będących osobami prawnymi, lub związku komunalnego z tytułu dostaw lub robót, nie może być zajęta przed ukończeniem dostawy lub roboty, chyba ze chodzi o roszczenia pracowników dłużnika z tytułu pracy, wykonanej przy tej dostawie lub robocie.\"",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "37) Art. 652 § 2 otrzymuje następujące brzmienie:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "„§ 2. Do zarządu przymusowego i sprzedaży prawa stosuje się odpowiednio przepisy o zarządzie przymusowym i © sprzedaży ruchomości.\"",
-         "quoted": true
-        },
-        {
-         "type": "note",
-         "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "‘Str. 1349 _ Dziennik Ustaw Nr 89",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Egzekucja z nieruchomości.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "38) Art. 655 otrzymuje następujące brzmienie: i „Art. 655. § 1. Eszekucja z ułamkowej części nieruchomości hipotekowanej może być wszczęta przeciwko współwłaścicielowi tylko wówczas, gdy część ta nie jest obciążona łącznie z innymi częściami. Opisowi i oszacowaniu podlega cała nieruchomość, sprzedaży zaś tylko część należąca do dłużnika. Przepis ten stosuje się także do egzekucji z ułamkowej części nieruchomości niehipotekowanej.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "39) Art. 675 otrzymuje następujące brzmienie: „Art. 675. Zarzuty przeciwko opisowi i oszacowaniu należy zgłosić komornikowi najpóźniej w terminie dwóch tygodni od ukończenia opisu i oszacowania. Jeżeli zostały zgłoszone zarzuty, komornik przedstawi akta sądowi, który. po wysłuchaniu w razie potrzeby stron i uczestników, rozstrzygnie zarzuty. Na postanowienie sądu służy zażalenie.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "40) W art; 681 dodaje się § 3 o następującym brzmieniu: „§ 3. W obwieszczeniu, przeznaczonym do ogłoszenia w dziennikach, należy podać: oznaczenie nieruchomości, czas i miejsce licytacji, sumę oszacowania i cenę wywołania oraz wysokość rękojmi, jaką licytant powinien złożyć.\"",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "41) Art. 690 otrzymuje następujące brzmię-",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "nie: „Art. 690. Po uprawomocnieniu się postanowienia o przybiciu, sąd wzywa licytanta, który uzyskał przybicie (nabywcę), aby w ciągu dwóch tygodni od otrzymania wezwania złożył do depozytu sądowego cenę nabycia z ustawowymi odsetkami od dnia przybicia z potrąceniem rękojmi złożonej w gotowiźnie.\"'",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Podział sumy uzyskanej z egzekucji.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "42) W art. 789 § 1 otrzymuje następujące brzmienie: 6 „§ 1. Suma uzyskana z egzekucji będzie podzielona między wierzycieli stosownie do właściwości przez sąd lub komornika.\" ;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "43) W art. 790 po wyrazie: ,,Sad\" umieszcza się wyrazy: „lub komornik\". ;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "44) Art. 791 otrzymuje następujące brzmię-",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "nie: „Art. 791. § 1. O sporządzeniu planu podziału należy zawiadomić dłużnika i osoby uczestniczące w podziale. § 2. Zarzuty przeciwko pianowi można wnosić w ciągu dwóch tygodni od daty zawiadomienia. : \"§ 3. Przeciwko planowi, sporządzonemu przez komornika, należy wnosić zarzuty do komornika, który je niezwłocznie przedstawia wraz z aktami sądowi.\"",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "45) W art. 792 § 1 otrzymuje następujące brzmienie:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "w§ 1. Jeżeli zarzutów nie wniesiono w terminie przepisanym, sąd lub komornik przystąpi do wykonania planu podziału.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "46) W art. 794 § 2 otrzymuje następujące brzmienie: „§ 2. Plan podziału sporządza komornik po upływie tvgodma od daty złożenia do depozytu sądowego sumy podlegającej podziałowi. '*",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "47) W art. 796 § 1 punkt 3) otrzymuje następujące brzmienie: „3) wierzytelności zabezpieczone ustawowym lub umownym prawem zastawu.” Punkt 4) skreśla się, a następne punkty otrzymują kolejną numerację.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "48) W art. 799 § 1 otrzymuje następujące brzmienie: „Ś§ 1. W podziale oprócz wierzyciela egzekwującego uczestniczą: wierzyciel składający tytuł wykonawczy z dowodem doręczenia dłużnikowi wezwania do zapłaty, wierzyciel, który uzyskał zabezpieczenie powództwa, jeżeli zgłosili się nie później niż w dniu uprawomocnienia się postanowienia o przysądzeniu, pracownicy co do stwierdzonych dokumentem należności za prace w sprzedanej nieruchomości lub w przedsiębiorstwach, znajdujących się na tej nieruchomości i należących do dłużnika, jeżeli zgłosili się przed sporządzeniem przez sąd planu podziału, oraz osoby, mające prawa zabezpieczone hipotecznie.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Postępowanie zabezpieczające.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "49) W art. 847 dodaje się na końcu następujący przepis: „W przypadku zabezpieczenia powództwa ' termin do wniesienia zażalenia bieśnie dla dłużnika od doręczenia mu postanowienia przy wykonywaniu zabezpieczenia. ''",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "50) Art. 861 otrzymuje następujące brzmię-",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "e:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "ni „Art. 861. W drodze zabezpieczenia nie można stosować przeciwko dłużnikowi przymust osobistego.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 4. W przepisach wprowadzających kodeks postępowania cywilnego wprowadza się następujące zmiany:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) Art. XLV otrzymuje brzmienie: „Art. XLV, § 1. W okresie do dnia 31 grudnia 1944 r. sądy okręgowe w ' granicach swej właściwości rozpoznają w składzie trzech sędziów następujące sprawy: - w pierwszej instancji:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "a) sprawy należące do właściwości sądów okręgowych bez względu na wartość przedmiotu, sporu;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "b) sprawy majątkowe, w których wartość przedmiotu sporu przewyższa pięćdziesiąt tysięcy złotych;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "c) sprawy, w których stroną jest Skarb Państwa;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "d) sprawy o ubezwiasnowolnienie;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "e) sprawy w postępowaniu upadłościowym i układowym;",
-         "quoted": true
-        },
-        {
-         "type": "note",
-         "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "w drugiej instancji — środki odwoławcze od orzeczeń sądów środzkich w sprawach, w których wartość przedmiotu zaskarżenia nie przenosi tysiąca pięciuset złotych lub przewyższa dwadzieścia tysięcy złotych oraz w sprawach o ochronę zakióconego lub przywrócenie utraconego posiadania, tudzież sprawy, w których stroną jest Skarb Państwa. § 2. Sprawy, nie wymienione w paragrafie poprzedzającym oraz sprawy. nie należące do wydziałów handlowych, rozpoznaje sąd okręgowy w osobie jednego sędziego.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 3. Sprawy, osadzone w sądzie okręgowym przez jednego sędziego, sąd apelacyjny \"rozpoznaje również w osobie jednego sędziego, jeżeli wartość przedmiotu zaskarżenia przenosi tysiąc pięćset złotych a nie przewyższa dwudziestu tysięcy złotych.\" _ 2) Art. XLV! otrzymuje następujące brzmię-",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "„Art, XLV1, W sprawach rozpoznawanych przez jednego sędziego obowiązują następujące przepisy: § 1. Przepisy o prawach i obowiązkach przewodniczącego i sądu stosuje się do jednego sędziego. i § 2. Sprawy, należące do rozpoznania przez jednego sędzieśo, sędzia może połączyć nawet wtedy, jeżeli wartość dochodzonych roszczeń przewyższa pięćdziesiąt tysięcy złotych.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 3. Sąd, rozłączając roszczenia połączone w jednym pozwie, przekaże do rozpoznania jednem sędziemu te spośród roszczeń, które nie przewyższają pięćdziesięciu tysięcy złotych. Zarzut, że sprawa ulega rozpoznaniu w składzie trzech sędziów lub w osobie jednego sędziego, należy zgłosić przed . wdaniem się w spór co do istoty sprawy. Zmiana powództwa w toku sprawy nie wpływa na skład sądu. Na postanowienie sądu co do składu nie ma zażalenia. ,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 5. Jeżeli sąd w osobie jednego sędziego uzna, że postępowanie przed nim jest bądź niedopuszczalne, bądź niewskazane z uwagi na zawiłe okoliczności sprawy, przekazuje sprawę pod rozpoznanie .sądu w składzie zeh sedziéw.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 55 W przepisach wprowadzających prawo o sądowym postępowaniu egzekucyjnym wprowadza się następujące zmiany:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) Po art. IV umieszcza się art. IV‘ o następującym brzmieniu: „Art. IV‘. § 1. Świadczenia z tytułu ubezpieczenia społecznego podlegają egzekucji tylko w granicach, oznaczonych w artykule niniej-",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "szym.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 2. Świadczenia pieniężne emerytalne i wypadkowe podlegają egzekucji na zaspokoję-",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "nie: :",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) należności alimentarnych,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) zaliczek, udzielonych przez pracodaw: ce osobom uprawnicnym do tych świadczeń, po powstaniu uprawnienia do nich, lecz przed rozpoczęciem ich wypłaty,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) świadczeń pieniężnych związków samorządu terytorialnego z tytułu opieki społecznej, jeżeli przy ich udzielaniu zastrzeżono ich zwrot.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 3. Zasiłki na wypadek braku pracy, wypłacane zarówno pracownikom umysłowym ja i robotnikom, oraz zasiłki chorobowe podlegają egzekucji tylko na zaspokojenie należności alimentarnych,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 4, Świadczenia, wymienione w $§ 2 i 3, podlegają egzekucji w jednej piątej części, a na zaspokojenie należności alimentarnych także w drugiej piątej części, obliczonej od świadczenia po potrąceniu danin publicznych, przy cz stosuje się odpowiednio przepisy art, 575 $§ 2 i 3 kodeksu postępowania cywilnego.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 5. Zapomogi pośmiertne oraz zasiłki pogrzebowe podlegają w całości egzekucji na zaspokojenie kosztów pogrzebu.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 6. Tracą moc dotychczasowe przepisy o egzekucji ze świadczeń z-tytułu ubezpieczenia społecznego.\"",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) W art. VII § 1 punkt 1 i § 2 otrzymują następujące brzmienie: „Ś 1. 1) polecenie wszczęcia egzekucji wydaje sąd lub prokurator, dołączając odpis orzeczenia, który stanowi tytuł wykonawczy; w przypadkach, wskazanych w art. 534 kodeksu postępowania cywilnego, należy dołączyć orzeczenie z klauzulą wykonalności;\" „S§ 2. Władza gminna lub miejska obowiazana jest na polecenie sądu lub prokuratora do egzekwowania grzywien, kar pieniężnych, opłat sądowych i kosztów postępowania w myśl przepisów o egzekucji świadczeń pieniężnych w trybie postępowania przymusowego w administracji.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) Art. XVII otrzymuje następujące brzmię: nie „Art XVII. Tytuł wykonawczy jest tytułem do hipoteki sadowej. Hipotekę sądową można wpisać tylko dla wierzytelności (arię - szających w kapitale sumę dwieście złotych. Hipoteka sądowa na kilku nieruchomościach łącznie jest niedopuszczalna. Do wpisu hipoteki sądowej stosuje się przepisy postępowania hipotecznego.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "4) Art. LXV otrzymuje następujące brzmieie: „Art LXV. Postępowanie egzekucyjne z nieruchomości celem zniesienia wspólności przy współwłasności niepodzielnej ręki może być wszczęte bez tytułu egzekucyjnego na wniosek chociażby jednego tylko współwłaściciela. Egzekucję można także prowadzić, jeżeli zgłaszający wniosek jest spadkobiercą wpisanego właściciela, chociażby sam wpisu swej własności jeszcze nie uzyskał, Opiekun powinien dołączyć do wniosku o egzekucję zezwolenie sądu opiekuńczego. Poza tym stosuje się odpowiednio przepis części drugiej księgi I tytułu drugiego działu IM kodeksu postępowania cywilnego.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 6. W prawie o sądach pracy wprowadza się następujące zmiany:",
-         "quoted": true
-        },
-        {
-         "type": "note",
-         "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Str. 1351",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) W art. 3 § 1 zdanie drugie otrzymuje następujące brzmienie: „Postępowanie normuje kodeks postępowania cywilnego, jednakże co do właściwości miejscowej sądu stosuje się przepisy art. 17, co do dopuszczalności skargi kasacyjnej — art. 35, co do kosztów sądowych — art. 39, co do zastępstwa stron przez pełnomocników — art. 21 prawa niniejszego z tą zmianą, że adwokat może być pełnomocnikiem strony w każdej sprawie.\"",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) Art. 35 otrzymuje następujące brzmienie: „Art. 35, W sprawach, wszczętych przed sądami pracy, skarga kasacyjna służy, gdy wartość przedmiotu zaskarżenia przewyższa pięćset złotych.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 7. W przepisach o kosztach sądowych wprowadza się następujące zmiany: ;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) W art. 13 dodaje się na końcu ustępu pierwszego następujący przepis: „Przepisu co do wezwania o uiszczenie należnej opłaty nie stosuje się do pism wnoszonych przez adwokata, podlegających opłacie w wysokości stałej. Pisma takie, jeżeli nie są należycie opłacone, będą od razu zwrócone.\"",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) W art. 26 skreśla się ustęp drugi,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) Art. 45 otrzymuje następujące brzmienie: „Art, 45. Za wniosek o sporządzenie uzasadnienia wyroku pobiera się opłatę:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "a) w sądzie okręgowym lub wyższym w wysokości . ‘ . . . 10 zł",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "b) w sądzie grodzkim . ; sz. APE Nie pobiera się opłaty kancelaryjnej za pisma, które doręcza się z urzędu.”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "4) Art. 117 otrzymuje następujące brzmiee: „Art, 117, Upoważnia się Ministra Sprawiedliwości do umarzania oraz rozkładania na raty i odraczania zaległych w postępowaniu cywilnym a należnych Skarbowi Państwa kosztów sądowych, jeżeli ściąśnięcie ich byłoby połączone z niewspółmiernymi trudnościami lub groziłoby dłużnikowi zbyt ciężkimi skutkami. Minister Sprawiedliwości może uprawnienia, przewidziane w ustępie poprzedzającym, przekazać kierownikom sądów. Tryb postępowania określi rozporządzenie Ministra Sprawiedliwości,' .",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Część trzecia.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Przepisy przejściowe.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "LL POSTĘPOWANIE KARNE.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art 8, Przepisy części pierwszej niniejszego dekretu stosuje się do spraw wszczętych przed jego wejściem w życie, z następującymi wszakże odchyleniami:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) sprawy, w których przed wejściem w życie niniejszego dekretu rozpoczęto rozprawę",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Hoz. 609",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "główną w pierwszej instancji, toczą się do końca według dotychczasowych przepisów; jednak w razie odroczenia rozprawy, uchylenia lub unieważnienia wyroku pierwszej instancji, albo wznowienia postępowania — dalsze postępowanie odbywa się z zachowaniem przepisów niniejszego dekretu;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) przepisy art, 84, 95, 317 i 374 kodeksu postępowania karnego w nowym brzmieniu stosuje się we wszystkich sprawach, toczących się po dniu wejścia w życie niniejszego dekretu;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) zażalenia na postanowienia, doręczone przed wejściem w życie niniejszego dekretu, wnosi się i rozpoznaje według dotychczasowych przepisów;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "4) do zapowiedzenia apelacji i kasacji w sprawach, w których wyrok zapadł przed wejściem w życie niniejsześo dekretu, stosuje się dotychczasowe przepisy; |. 5) kasacje od wyroków, zapadłych przed dniem wejścia w życie niniejszego dekretu, wnosi się i rozpoznaje według dotychczasowych przepisów, z wyjątkiem przepisów art. 524 i art. 525 § 1 kodeksu postępowania karnego w nowym brzmieniu, które stosuje się we wszystkich sprawach, toczących się po dniu wejścia w życie niniejszego dekretu;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "6) wnioski o wznowienie postępowania, nie rozstrzygnięte przed wejściem w życie niniejszego dekretu, przekazuje się sądom właściwym według przepisów tego dekretu;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "7) przepisu art. 646 § 4 kodeksu postępowania karnego w nowym brzmieniu nie stosuje się w sprawach, w których strona złożyła żądanie skierowania sprawy na drogę sądową przed wejściem w życie niniejszego dekretu. -",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art, 9. W art. 49 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 czerwca 1927 r. o ochronie lasów, nie stanowiących własności Państwa (Dz. U, R. P. z 1932 r. Nr 111, poz.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "932) dodaje się nowy ustęp trzeci o następują” cym brzmieniu: „Od wyroku sądu okręgowego, wydanego w sprawie o przestępstwo określone w art. 35— 41, służy kasacja, przy czym podstawą jej mogą być tylko zarzuty wymienione w art. 514, 516 i 520 kodeksu postępowania karnego.\"",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Il. POSTĘPOWANIE CYWILNE.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 10. 1) Przepisy części drugiej niniefszego. dekretu stosuje się do spraw wszczętych przed jego wejściem w życie, z następującymi jednak odchyleniami:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "a) sąd właściwy w chwili wszczęcia sprawy pozostaje właściwy aż do jej ukończenia;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "b) w sprawach, w których przed dniem wejścia w życie niniejszego dekretu wydano orzeczenie w sądzie drugiej instan-",
-         "quoted": true
-        },
-        {
-         "type": "note",
-         "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "cji, stosuje się dotychczasowe przepisy o dopuszczalności skargi kasacyjnej;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "c) do pism i wniosków, złożonych przed dniem wejścia w życie niniejszego dekretu, stosuje się przepisy dotychczasowe co do opłat i co do wezwania o uiszczenia należnej opłaty.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) Sprawy sporne, wszczęte przed dniem wejścia w życie kodeksu postępowania cywilnego, w których postępowanie w pierwszej instancji nie zostało ukończone do dnia 31 marca 1939 r., prowadzi się nadal według przepisów tegoż kodeksu z uwzględnieniem już dokonanych czynności procesowych i zebranego materiału. Przepisu powyższego nie stosuje się, jeżeli dalsze postępowanie miałoby się odbyć w trybie, którego kodeks postępowania cywilnego nie zna,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) Art. 273 prawa o ustroju sądów powszechnych skreśla się,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Część czwarta.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Przepisy końcowe.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 11.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 1. Upoważnia się Ministra Sprawiedliwości do ogłoszenia w Dzienniku Ustaw",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Str. 1352",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Rzeczypospolitej Polskiej jednolitych tekstów kodeksu postępowania karnego, kodeksu postępowania cywilnego, przepisów wprowadzających te kodeksy oraz przepisów o kosztach sądowych — z uwzględnieniem zmian, wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "§ 2. Przepis art. 264 kodeksu postępowania karnego otrzyma w tekście jednolitym naslępujące brzmienie; „Art. 264, Śledztwo prowadzi się:",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "a) na wniosek prokuratora, jeżeli tego wymagają zawiłe okoliczności sprawy;",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "b) na wniosek oskarżonego w sprawach z oskarżenia publicznego, jeżeli sędzia śledczy uzna to za potrzebne; » c) na zarządzenie sądu (art, 291, 464 § 3).”",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 12, Wykonanie dekretu niniejszego porucza się Ministrowi Sprawiedliwości.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 13. Dekret niniejszy wchodzi w życie z dniem 28 listopada 1938 r.",
-         "quoted": true
-        }
-       ]
+       "type": "text",
+       "text": "32) W art. 603 § 1 dodaje się na końcu następujący przepis: „O umieszczenie obwieszczenia o licytacji na drzwiach domu komornik może wezwać właściwy urząd gminny.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "33) W art. 616 § 1 po wyrazach: „w ciągu dwóch tygodni* umieszcza się wyrazy: „od otrzymania zawiadomienia komornika.\" 3 34) Art. 617 otrzymuje następujące brzmienie: „Art. 617, Na drugiej licytacji cena wywo\" łania wynosi dwie piąte części sumy oszacowania. Jeżeli i na tej.licytacji nikt nie zaofiarował nawet ceny wywołania albo jeżeli licytacja nie doszła do skutku, wierzycielowi w ciąśu dwóch tygodni od otrzymania zawiadomienia komornika służy prawo przejęcia ruchomości na własność w cenie wynoszącej połowę sumy oszacowania. W tym przypadku stosuje się odpowiednio przepisy paragrafu drugiego artykułu poprzedzającego. Jeżeli wierzyciel nie skorzystał z prawa przejęcia ruchomości, komornik postępowanie umorzy.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "35) Po art. 617 umieszcza się art. 617! o następującym brzmieniu:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„Art. 6171, Po zawiadomieniu o przyznaniu ruchomości wierzyciel powinien je natychmiast odebrać. Jeżeli dłużnik nie zgadza się na oddanie rzeczy, komornik na wniosek. wierzyciela postąpi jak przy egzekucji roszczeń niepieniężnych. '",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Egzekucja z wierzytelności pieniężnych i innych praw majątkowych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "36) W art. 635 § 2 otrzymuje następujące brzmienie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„S§ 2. Wierzytelność, przypadająca dłużnikowi od Skarbu Państwa, przedsiębiorstw państwowych, zastępowanych przez Prokuratorię Generalną, funduszów państwowych, będących osobami prawnymi, lub związku komunalnego z tytułu dostaw lub robót, nie może być zajęta przed ukończeniem dostawy lub roboty, chyba ze chodzi o roszczenia pracowników dłużnika z tytułu pracy, wykonanej przy tej dostawie lub robocie.\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "37) Art. 652 § 2 otrzymuje następujące brzmienie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„§ 2. Do zarządu przymusowego i sprzedaży prawa stosuje się odpowiednio przepisy o zarządzie przymusowym i © sprzedaży ruchomości.\"",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "‘Str. 1349 _ Dziennik Ustaw Nr 89",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Egzekucja z nieruchomości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "38) Art. 655 otrzymuje następujące brzmienie: i „Art. 655. § 1. Eszekucja z ułamkowej części nieruchomości hipotekowanej może być wszczęta przeciwko współwłaścicielowi tylko wówczas, gdy część ta nie jest obciążona łącznie z innymi częściami. Opisowi i oszacowaniu podlega cała nieruchomość, sprzedaży zaś tylko część należąca do dłużnika. Przepis ten stosuje się także do egzekucji z ułamkowej części nieruchomości niehipotekowanej.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "39) Art. 675 otrzymuje następujące brzmienie: „Art. 675. Zarzuty przeciwko opisowi i oszacowaniu należy zgłosić komornikowi najpóźniej w terminie dwóch tygodni od ukończenia opisu i oszacowania. Jeżeli zostały zgłoszone zarzuty, komornik przedstawi akta sądowi, który. po wysłuchaniu w razie potrzeby stron i uczestników, rozstrzygnie zarzuty. Na postanowienie sądu służy zażalenie.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "40) W art; 681 dodaje się § 3 o następującym brzmieniu: „§ 3. W obwieszczeniu, przeznaczonym do ogłoszenia w dziennikach, należy podać: oznaczenie nieruchomości, czas i miejsce licytacji, sumę oszacowania i cenę wywołania oraz wysokość rękojmi, jaką licytant powinien złożyć.\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "41) Art. 690 otrzymuje następujące brzmię-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "nie: „Art. 690. Po uprawomocnieniu się postanowienia o przybiciu, sąd wzywa licytanta, który uzyskał przybicie (nabywcę), aby w ciągu dwóch tygodni od otrzymania wezwania złożył do depozytu sądowego cenę nabycia z ustawowymi odsetkami od dnia przybicia z potrąceniem rękojmi złożonej w gotowiźnie.\"'",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Podział sumy uzyskanej z egzekucji.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "42) W art. 789 § 1 otrzymuje następujące brzmienie: 6 „§ 1. Suma uzyskana z egzekucji będzie podzielona między wierzycieli stosownie do właściwości przez sąd lub komornika.\" ;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "43) W art. 790 po wyrazie: ,,Sad\" umieszcza się wyrazy: „lub komornik\". ;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "44) Art. 791 otrzymuje następujące brzmię-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "nie: „Art. 791. § 1. O sporządzeniu planu podziału należy zawiadomić dłużnika i osoby uczestniczące w podziale. § 2. Zarzuty przeciwko pianowi można wnosić w ciągu dwóch tygodni od daty zawiadomienia. : \"§ 3. Przeciwko planowi, sporządzonemu przez komornika, należy wnosić zarzuty do komornika, który je niezwłocznie przedstawia wraz z aktami sądowi.\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "45) W art. 792 § 1 otrzymuje następujące brzmienie:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "w§ 1. Jeżeli zarzutów nie wniesiono w terminie przepisanym, sąd lub komornik przystąpi do wykonania planu podziału.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "46) W art. 794 § 2 otrzymuje następujące brzmienie: „§ 2. Plan podziału sporządza komornik po upływie tvgodma od daty złożenia do depozytu sądowego sumy podlegającej podziałowi. '*",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "47) W art. 796 § 1 punkt 3) otrzymuje następujące brzmienie: „3) wierzytelności zabezpieczone ustawowym lub umownym prawem zastawu.” Punkt 4) skreśla się, a następne punkty otrzymują kolejną numerację.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "48) W art. 799 § 1 otrzymuje następujące brzmienie: „Ś§ 1. W podziale oprócz wierzyciela egzekwującego uczestniczą: wierzyciel składający tytuł wykonawczy z dowodem doręczenia dłużnikowi wezwania do zapłaty, wierzyciel, który uzyskał zabezpieczenie powództwa, jeżeli zgłosili się nie później niż w dniu uprawomocnienia się postanowienia o przysądzeniu, pracownicy co do stwierdzonych dokumentem należności za prace w sprzedanej nieruchomości lub w przedsiębiorstwach, znajdujących się na tej nieruchomości i należących do dłużnika, jeżeli zgłosili się przed sporządzeniem przez sąd planu podziału, oraz osoby, mające prawa zabezpieczone hipotecznie.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Postępowanie zabezpieczające.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "49) W art. 847 dodaje się na końcu następujący przepis: „W przypadku zabezpieczenia powództwa ' termin do wniesienia zażalenia bieśnie dla dłużnika od doręczenia mu postanowienia przy wykonywaniu zabezpieczenia. ''",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "50) Art. 861 otrzymuje następujące brzmię-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "ni „Art. 861. W drodze zabezpieczenia nie można stosować przeciwko dłużnikowi przymust osobistego.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 4. W przepisach wprowadzających kodeks postępowania cywilnego wprowadza się następujące zmiany:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Art. XLV otrzymuje brzmienie: „Art. XLV, § 1. W okresie do dnia 31 grudnia 1944 r. sądy okręgowe w ' granicach swej właściwości rozpoznają w składzie trzech sędziów następujące sprawy: - w pierwszej instancji:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) sprawy należące do właściwości sądów okręgowych bez względu na wartość przedmiotu, sporu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) sprawy majątkowe, w których wartość przedmiotu sporu przewyższa pięćdziesiąt tysięcy złotych;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) sprawy, w których stroną jest Skarb Państwa;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "d) sprawy o ubezwiasnowolnienie;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "e) sprawy w postępowaniu upadłościowym i układowym;",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 10 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "w drugiej instancji — środki odwoławcze od orzeczeń sądów środzkich w sprawach, w których wartość przedmiotu zaskarżenia nie przenosi tysiąca pięciuset złotych lub przewyższa dwadzieścia tysięcy złotych oraz w sprawach o ochronę zakióconego lub przywrócenie utraconego posiadania, tudzież sprawy, w których stroną jest Skarb Państwa. § 2. Sprawy, nie wymienione w paragrafie poprzedzającym oraz sprawy. nie należące do wydziałów handlowych, rozpoznaje sąd okręgowy w osobie jednego sędziego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3. Sprawy, osadzone w sądzie okręgowym przez jednego sędziego, sąd apelacyjny \"rozpoznaje również w osobie jednego sędziego, jeżeli wartość przedmiotu zaskarżenia przenosi tysiąc pięćset złotych a nie przewyższa dwudziestu tysięcy złotych.\" _ 2) Art. XLV! otrzymuje następujące brzmię-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "„Art, XLV1, W sprawach rozpoznawanych przez jednego sędziego obowiązują następujące przepisy: § 1. Przepisy o prawach i obowiązkach przewodniczącego i sądu stosuje się do jednego sędziego. i § 2. Sprawy, należące do rozpoznania przez jednego sędzieśo, sędzia może połączyć nawet wtedy, jeżeli wartość dochodzonych roszczeń przewyższa pięćdziesiąt tysięcy złotych.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3. Sąd, rozłączając roszczenia połączone w jednym pozwie, przekaże do rozpoznania jednem sędziemu te spośród roszczeń, które nie przewyższają pięćdziesięciu tysięcy złotych. Zarzut, że sprawa ulega rozpoznaniu w składzie trzech sędziów lub w osobie jednego sędziego, należy zgłosić przed . wdaniem się w spór co do istoty sprawy. Zmiana powództwa w toku sprawy nie wpływa na skład sądu. Na postanowienie sądu co do składu nie ma zażalenia. ,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 5. Jeżeli sąd w osobie jednego sędziego uzna, że postępowanie przed nim jest bądź niedopuszczalne, bądź niewskazane z uwagi na zawiłe okoliczności sprawy, przekazuje sprawę pod rozpoznanie .sądu w składzie zeh sedziéw.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 55 W przepisach wprowadzających prawo o sądowym postępowaniu egzekucyjnym wprowadza się następujące zmiany:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) Po art. IV umieszcza się art. IV‘ o następującym brzmieniu: „Art. IV‘. § 1. Świadczenia z tytułu ubezpieczenia społecznego podlegają egzekucji tylko w granicach, oznaczonych w artykule niniej-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "szym.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 2. Świadczenia pieniężne emerytalne i wypadkowe podlegają egzekucji na zaspokoję-",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "nie: :",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) należności alimentarnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) zaliczek, udzielonych przez pracodaw: ce osobom uprawnicnym do tych świadczeń, po powstaniu uprawnienia do nich, lecz przed rozpoczęciem ich wypłaty,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) świadczeń pieniężnych związków samorządu terytorialnego z tytułu opieki społecznej, jeżeli przy ich udzielaniu zastrzeżono ich zwrot.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 3. Zasiłki na wypadek braku pracy, wypłacane zarówno pracownikom umysłowym ja i robotnikom, oraz zasiłki chorobowe podlegają egzekucji tylko na zaspokojenie należności alimentarnych,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 4, Świadczenia, wymienione w $§ 2 i 3, podlegają egzekucji w jednej piątej części, a na zaspokojenie należności alimentarnych także w drugiej piątej części, obliczonej od świadczenia po potrąceniu danin publicznych, przy cz stosuje się odpowiednio przepisy art, 575 $§ 2 i 3 kodeksu postępowania cywilnego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 5. Zapomogi pośmiertne oraz zasiłki pogrzebowe podlegają w całości egzekucji na zaspokojenie kosztów pogrzebu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 6. Tracą moc dotychczasowe przepisy o egzekucji ze świadczeń z-tytułu ubezpieczenia społecznego.\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) W art. VII § 1 punkt 1 i § 2 otrzymują następujące brzmienie: „Ś 1. 1) polecenie wszczęcia egzekucji wydaje sąd lub prokurator, dołączając odpis orzeczenia, który stanowi tytuł wykonawczy; w przypadkach, wskazanych w art. 534 kodeksu postępowania cywilnego, należy dołączyć orzeczenie z klauzulą wykonalności;\" „S§ 2. Władza gminna lub miejska obowiazana jest na polecenie sądu lub prokuratora do egzekwowania grzywien, kar pieniężnych, opłat sądowych i kosztów postępowania w myśl przepisów o egzekucji świadczeń pieniężnych w trybie postępowania przymusowego w administracji.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Art. XVII otrzymuje następujące brzmię: nie „Art XVII. Tytuł wykonawczy jest tytułem do hipoteki sadowej. Hipotekę sądową można wpisać tylko dla wierzytelności (arię - szających w kapitale sumę dwieście złotych. Hipoteka sądowa na kilku nieruchomościach łącznie jest niedopuszczalna. Do wpisu hipoteki sądowej stosuje się przepisy postępowania hipotecznego.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Art. LXV otrzymuje następujące brzmieie: „Art LXV. Postępowanie egzekucyjne z nieruchomości celem zniesienia wspólności przy współwłasności niepodzielnej ręki może być wszczęte bez tytułu egzekucyjnego na wniosek chociażby jednego tylko współwłaściciela. Egzekucję można także prowadzić, jeżeli zgłaszający wniosek jest spadkobiercą wpisanego właściciela, chociażby sam wpisu swej własności jeszcze nie uzyskał, Opiekun powinien dołączyć do wniosku o egzekucję zezwolenie sądu opiekuńczego. Poza tym stosuje się odpowiednio przepis części drugiej księgi I tytułu drugiego działu IM kodeksu postępowania cywilnego.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 6. W prawie o sądach pracy wprowadza się następujące zmiany:",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 11 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Str. 1351",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) W art. 3 § 1 zdanie drugie otrzymuje następujące brzmienie: „Postępowanie normuje kodeks postępowania cywilnego, jednakże co do właściwości miejscowej sądu stosuje się przepisy art. 17, co do dopuszczalności skargi kasacyjnej — art. 35, co do kosztów sądowych — art. 39, co do zastępstwa stron przez pełnomocników — art. 21 prawa niniejszego z tą zmianą, że adwokat może być pełnomocnikiem strony w każdej sprawie.\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Art. 35 otrzymuje następujące brzmienie: „Art. 35, W sprawach, wszczętych przed sądami pracy, skarga kasacyjna służy, gdy wartość przedmiotu zaskarżenia przewyższa pięćset złotych.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 7. W przepisach o kosztach sądowych wprowadza się następujące zmiany: ;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) W art. 13 dodaje się na końcu ustępu pierwszego następujący przepis: „Przepisu co do wezwania o uiszczenie należnej opłaty nie stosuje się do pism wnoszonych przez adwokata, podlegających opłacie w wysokości stałej. Pisma takie, jeżeli nie są należycie opłacone, będą od razu zwrócone.\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) W art. 26 skreśla się ustęp drugi,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Art. 45 otrzymuje następujące brzmienie: „Art, 45. Za wniosek o sporządzenie uzasadnienia wyroku pobiera się opłatę:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) w sądzie okręgowym lub wyższym w wysokości . ‘ . . . 10 zł",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) w sądzie grodzkim . ; sz. APE Nie pobiera się opłaty kancelaryjnej za pisma, które doręcza się z urzędu.”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) Art. 117 otrzymuje następujące brzmiee: „Art, 117, Upoważnia się Ministra Sprawiedliwości do umarzania oraz rozkładania na raty i odraczania zaległych w postępowaniu cywilnym a należnych Skarbowi Państwa kosztów sądowych, jeżeli ściąśnięcie ich byłoby połączone z niewspółmiernymi trudnościami lub groziłoby dłużnikowi zbyt ciężkimi skutkami. Minister Sprawiedliwości może uprawnienia, przewidziane w ustępie poprzedzającym, przekazać kierownikom sądów. Tryb postępowania określi rozporządzenie Ministra Sprawiedliwości,' .",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Część trzecia.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przepisy przejściowe.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "LL POSTĘPOWANIE KARNE.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art 8, Przepisy części pierwszej niniejszego dekretu stosuje się do spraw wszczętych przed jego wejściem w życie, z następującymi wszakże odchyleniami:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "1) sprawy, w których przed wejściem w życie niniejszego dekretu rozpoczęto rozprawę",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Hoz. 609",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "główną w pierwszej instancji, toczą się do końca według dotychczasowych przepisów; jednak w razie odroczenia rozprawy, uchylenia lub unieważnienia wyroku pierwszej instancji, albo wznowienia postępowania — dalsze postępowanie odbywa się z zachowaniem przepisów niniejszego dekretu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) przepisy art, 84, 95, 317 i 374 kodeksu postępowania karnego w nowym brzmieniu stosuje się we wszystkich sprawach, toczących się po dniu wejścia w życie niniejszego dekretu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) zażalenia na postanowienia, doręczone przed wejściem w życie niniejszego dekretu, wnosi się i rozpoznaje według dotychczasowych przepisów;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "4) do zapowiedzenia apelacji i kasacji w sprawach, w których wyrok zapadł przed wejściem w życie niniejsześo dekretu, stosuje się dotychczasowe przepisy; |. 5) kasacje od wyroków, zapadłych przed dniem wejścia w życie niniejszego dekretu, wnosi się i rozpoznaje według dotychczasowych przepisów, z wyjątkiem przepisów art. 524 i art. 525 § 1 kodeksu postępowania karnego w nowym brzmieniu, które stosuje się we wszystkich sprawach, toczących się po dniu wejścia w życie niniejszego dekretu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "6) wnioski o wznowienie postępowania, nie rozstrzygnięte przed wejściem w życie niniejszego dekretu, przekazuje się sądom właściwym według przepisów tego dekretu;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "7) przepisu art. 646 § 4 kodeksu postępowania karnego w nowym brzmieniu nie stosuje się w sprawach, w których strona złożyła żądanie skierowania sprawy na drogę sądową przed wejściem w życie niniejszego dekretu. -",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art, 9. W art. 49 rozporządzenia Prezydenta Rzeczypospolitej z dnia 24 czerwca 1927 r. o ochronie lasów, nie stanowiących własności Państwa (Dz. U, R. P. z 1932 r. Nr 111, poz.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "932) dodaje się nowy ustęp trzeci o następują” cym brzmieniu: „Od wyroku sądu okręgowego, wydanego w sprawie o przestępstwo określone w art. 35— 41, służy kasacja, przy czym podstawą jej mogą być tylko zarzuty wymienione w art. 514, 516 i 520 kodeksu postępowania karnego.\"",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Il. POSTĘPOWANIE CYWILNE.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 10. 1) Przepisy części drugiej niniefszego. dekretu stosuje się do spraw wszczętych przed jego wejściem w życie, z następującymi jednak odchyleniami:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) sąd właściwy w chwili wszczęcia sprawy pozostaje właściwy aż do jej ukończenia;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) w sprawach, w których przed dniem wejścia w życie niniejszego dekretu wydano orzeczenie w sądzie drugiej instan-",
+       "quoted": true
+      },
+      {
+       "type": "note",
+       "text": "[Strona 12 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "cji, stosuje się dotychczasowe przepisy o dopuszczalności skargi kasacyjnej;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "c) do pism i wniosków, złożonych przed dniem wejścia w życie niniejszego dekretu, stosuje się przepisy dotychczasowe co do opłat i co do wezwania o uiszczenia należnej opłaty.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "2) Sprawy sporne, wszczęte przed dniem wejścia w życie kodeksu postępowania cywilnego, w których postępowanie w pierwszej instancji nie zostało ukończone do dnia 31 marca 1939 r., prowadzi się nadal według przepisów tegoż kodeksu z uwzględnieniem już dokonanych czynności procesowych i zebranego materiału. Przepisu powyższego nie stosuje się, jeżeli dalsze postępowanie miałoby się odbyć w trybie, którego kodeks postępowania cywilnego nie zna,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "3) Art. 273 prawa o ustroju sądów powszechnych skreśla się,",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Część czwarta.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Przepisy końcowe.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 11.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 1. Upoważnia się Ministra Sprawiedliwości do ogłoszenia w Dzienniku Ustaw",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Str. 1352",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Rzeczypospolitej Polskiej jednolitych tekstów kodeksu postępowania karnego, kodeksu postępowania cywilnego, przepisów wprowadzających te kodeksy oraz przepisów o kosztach sądowych — z uwzględnieniem zmian, wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tekstu.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "§ 2. Przepis art. 264 kodeksu postępowania karnego otrzyma w tekście jednolitym naslępujące brzmienie; „Art. 264, Śledztwo prowadzi się:",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "a) na wniosek prokuratora, jeżeli tego wymagają zawiłe okoliczności sprawy;",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "b) na wniosek oskarżonego w sprawach z oskarżenia publicznego, jeżeli sędzia śledczy uzna to za potrzebne; » c) na zarządzenie sądu (art, 291, 464 § 3).”",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 12, Wykonanie dekretu niniejszego porucza się Ministrowi Sprawiedliwości.",
+       "quoted": true
+      },
+      {
+       "type": "text",
+       "text": "Art. 13. Dekret niniejszy wchodzi w życie z dniem 28 listopada 1938 r.",
+       "quoted": true
       }
      ]
     }

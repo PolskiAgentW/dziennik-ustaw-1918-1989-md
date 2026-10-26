@@ -107,34 +107,31 @@
     {
      "type": "text",
      "text": "Art, 9, Moc obowiazująca kodeksu karnego z 1903 r. rozciąga się na zbrodnie i występki pospolite, povełnione zagranicą przez wojskowych, należących do wojska tamże wysłanego lub zajmujących zagranicą stanowiska służbowe,"
-    },
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział trzeci",
+   "text": "O kerach wojskowych,"
+  },
+  {
+   "type": "text",
+   "text": "Kary główne,"
+  },
+  {
+   "type": "text",
+   "text": "Art 10, Kary wojskowe, wymierzane za przestępstwa wojskowe są: « 1) kara śmierci przez rozstrzelanie;"
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "areszt wojskowy. >. Pozatem wymierzane będą kary, przewidziane w kodeksie karnym z 1903 r.",
+   "children": [
     {
      "type": "text",
-     "text": "Dział trzeci."
-    },
-    {
-     "type": "text",
-     "text": "O kerach wojskowych,"
-    },
-    {
-     "type": "text",
-     "text": "Kary główne,"
-    },
-    {
-     "type": "text",
-     "text": "Art 10, Kary wojskowe, wymierzane za przestępstwa wojskowe są: « 1) kara śmierci przez rozstrzelanie;"
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "art_8/pkt_2",
-     "text": "areszt wojskowy. >. Pozatem wymierzane będą kary, przewidziane w kodeksie karnym z 1903 r.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Kary dodatkowe na czel."
-      }
-     ]
+     "text": "Kary dodatkowe na czel."
     }
    ]
   },
@@ -449,48 +446,42 @@
       {
        "type": "text",
        "text": "\"pociąga za sobą z mocy samego prawa utratę ridsinda hete stopnia starszego szeregowca, podoficera lub stopnia oficerskiego."
-      },
-      {
-       "type": "text",
-       "text": "Dział czwarty."
-      },
-      {
-       "type": "text",
-       "text": "O warunkach poczytania i przestępczości czynów."
-      },
-      {
-       "type": "text",
-       "text": "Art. 29, Czynów, spełnionych przez przełożonego w celu obrony przed czynną napaścią podwładnego lub w celu wymuszenia posłuchu dla. swych rozkazów w wypadku ostatecznej potrzeby i i bezpośrednio grożącego niebezpieczeństwa, nie uważa się za nadużycie władzy służbowej. , Stosuje się to w szczególności do wypadku, gdy oficer z braku innych środków do utrzymania niezbędnego posłuchu znalazł się w położeniu, zniewalającem go do użycia broni przeciw podwładnemu, który mu stawił czynny opór."
-      },
-      {
-       "type": "text",
-       "text": "Dział piąty."
-      },
-      {
-       "type": "text",
-       "text": "Q rodzajach winy,"
-      },
-      {
-       "type": "text",
-       "text": "|. Art, 30, Jeżeli naruszono prawo karne przez wykonanie rozkazu w sprawach służbowych, to odpowiada za to jedynie przełożony, który wydał rozkaz, Podwładnego spełniającego rozkaz, spotka jednak kara jako wspólnika przestępstwa:"
       }
      ]
-    },
-    {
-     "type": "pkt",
-     "num": "1",
-     "path": "art_25/pkt_1",
-     "text": "gdy wydany mu rozkaz przekroczył albo",
-     "children": []
-    },
-    {
-     "type": "pkt",
-     "num": "2",
-     "path": "art_25/pkt_2",
-     "text": "gdy wiedział o tem, że rozkaz przełożonego dotyczył czynu, którego celem było spełnienie zbrodni lub występku.",
-     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział czwarty",
+   "text": "O warunkach poczytania i przestępczości czynów."
+  },
+  {
+   "type": "text",
+   "text": "Art. 29, Czynów, spełnionych przez przełożonego w celu obrony przed czynną napaścią podwładnego lub w celu wymuszenia posłuchu dla. swych rozkazów w wypadku ostatecznej potrzeby i i bezpośrednio grożącego niebezpieczeństwa, nie uważa się za nadużycie władzy służbowej. , Stosuje się to w szczególności do wypadku, gdy oficer z braku innych środków do utrzymania niezbędnego posłuchu znalazł się w położeniu, zniewalającem go do użycia broni przeciw podwładnemu, który mu stawił czynny opór."
+  },
+  {
+   "type": "heading",
+   "label": "Dział piąty",
+   "text": "Q rodzajach winy,"
+  },
+  {
+   "type": "text",
+   "text": "|. Art, 30, Jeżeli naruszono prawo karne przez wykonanie rozkazu w sprawach służbowych, to odpowiada za to jedynie przełożony, który wydał rozkaz, Podwładnego spełniającego rozkaz, spotka jednak kara jako wspólnika przestępstwa:"
+  },
+  {
+   "type": "pkt",
+   "num": "1",
+   "path": "pkt_1",
+   "text": "gdy wydany mu rozkaz przekroczył albo",
+   "children": []
+  },
+  {
+   "type": "pkt",
+   "num": "2",
+   "path": "pkt_2",
+   "text": "gdy wiedział o tem, że rozkaz przełożonego dotyczył czynu, którego celem było spełnienie zbrodni lub występku.",
+   "children": []
   },
   {
    "type": "art",
@@ -504,24 +495,20 @@
    "num": "32",
    "path": "art_32",
    "text": "Kto inną osobę do spełnienia zbrodni wojskowej lub wspólnictwa w niej bezskutecznie wzywa lub. kto wezwanie do popełnienia zbrodni wojskowej przyjmuje, ulegnie, o ile ustawa nie przewiduje innej kary, zamknięciu w więzieniu na czas nie krótszy od miesięcy trzech, gdy zbrodnia jest zagrożona karą śmierci lub bezterminowego ciężkie- $o więzienia, w więzieniu zaś lub w twierdzy na czas do lat dwu, gdy zbrodnia zagrożona jest karą łagodniejszą, Tym samym karom ulega ten, kto ofiaruje się do popełnienia zbrodni wojskowej lub wspólnietwa w niej, jak również ten, kto takie zaofiarowanie przyjmuje. Jedynie ustnie wyrażone wezwanie lub zaofiarowanie albo przyjęcie tychże ulega karze wówczas, gdy wezwanie lub zaofiarowanie się było związane z udzieleniem jakichkolwiek korzyści,",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dział szósty."
-    },
-    {
-     "type": "text",
-     "text": "O łagodzeniu i zamianie kar."
-    },
-    {
-     "type": "text",
-     "text": ". Art. 33, Do zbrodni i występków wojskowych nie stosuje się przepisu art. 53 kodeksu karnego z 1903 r. o zamianie zamknięcia w więzieniu na areszt ani też przepisu art, 53* tegoż kodeksu."
-    },
-    {
-     "type": "text",
-     "text": "Art. 34, Jeżeli dokonanie przestępstwa zagrożone jest zamknięciem w twierdzy, wymierza się za usiłowanie « zamknięcie w twierdzy, przy uwzględnieniu usiłowania jako okoliczności, zmniejszającej winę."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Dział szósty",
+   "text": "O łagodzeniu i zamianie kar."
+  },
+  {
+   "type": "text",
+   "text": ". Art. 33, Do zbrodni i występków wojskowych nie stosuje się przepisu art. 53 kodeksu karnego z 1903 r. o zamianie zamknięcia w więzieniu na areszt ani też przepisu art, 53* tegoż kodeksu."
+  },
+  {
+   "type": "text",
+   "text": "Art. 34, Jeżeli dokonanie przestępstwa zagrożone jest zamknięciem w twierdzy, wymierza się za usiłowanie « zamknięcie w twierdzy, przy uwzględnieniu usiłowania jako okoliczności, zmniejszającej winę."
   },
   {
    "type": "art",
@@ -543,16 +530,13 @@
     {
      "type": "text",
      "text": "Art. 37, Skazani na karę pozbawienia wolności wyrokiem wojskowego sądu karnego mogą być przedterminowo zwolnieni, jeśli. odbyli już dwie trzecie, najmniej jednak sześć miesięcy wymierzonej kary i przez ten czas prowadzili się dobrze. Skazani na karę bezterminowego pozbawienia wolności mogą być przedterminowo zwolnieni, jeśli odbyli niemniej, niż lat piętnaście kary. Przedterminowo zwolnić można także skazanych, którym karę śmierci aktem łaski zamieniono na karę pozbawienia wolności, Do kary wymierzonej i do kary odbytej nie wlicza się zaliczonego na poczet kary aresztu śledczego lub tymczasowego przytrzymania ani też darowanej części kary."
-    },
-    {
-     "type": "text",
-     "text": "Dział siódmy."
-    },
-    {
-     "type": "text",
-     "text": "O okolicznościach obciążających."
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział siódmy",
+   "text": "O okolicznościach obciążających."
   },
   {
    "type": "art",
@@ -662,34 +646,27 @@
       {
        "type": "text",
        "text": "Art. 43, Jako znajdującą się w obecności nieprzyjaciela uważa się jednostkę, gdy rozpoczęła służbę ubezpieczającą, okręt zaś lub statek powietrzny bez względu na to, gdzieby się znajdował, skoro gotów jest do spotkania się z nieprzyjacielem,"
-      },
-      {
-       "type": "text",
-       "text": "Dział dziewiąty."
-      },
-      {
-       "type": "text",
-       "text": "Postanowienia dla marynarki wojennej,"
       }
      ]
     }
    ]
   },
   {
+   "type": "heading",
+   "label": "Dział dziewiąty",
+   "text": "Postanowienia dla marynarki wojennej,"
+  },
+  {
    "type": "art",
    "num": "44",
    "path": "art_44",
    "text": "Przez okręt rozumie się w myśl kodeksu niniejszego każdy statek marynarki wojennej, na którym znajduje się dowódca wojskowy wraz z załogą. Marynarka wojenna lub flota odpowiada pojęciu wojska, okręt — jednostce wojska, oficer wachty — dowódcy warty wojskowej.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dział dziesiąty."
-    },
-    {
-     "type": "text",
-     "text": "O karaniu dyscyplinarnem,"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Dział dziesiąty",
+   "text": "O karaniu dyscyplinarnem,"
   },
   {
    "type": "art",
@@ -734,18 +711,15 @@
       {
        "type": "text",
        "text": "* Z brednie i występki wojskowe,"
-      },
-      {
-       "type": "text",
-       "text": "Część druga."
-      },
-      {
-       "type": "text",
-       "text": "Narażenie na niebezpieczeństwo Państwa lub siły zbrojnej,"
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Część druga",
+   "text": "Narażenie na niebezpieczeństwo Państwa lub siły zbrojnej,"
   },
   {
    "type": "art",
@@ -905,16 +879,13 @@
     {
      "type": "text",
      "text": "- Art. 64. Oficer, osadzony w areszcie domowym, który samowolnie mieszkanie opuści, karany będzie zamknięciem w więzieniu lub w twierdzy na czas do miesięcy sześciu lub aresztem wojskowym; zarazem orzeka się wydalenie z korpusu ołicerskiego. Oficer, osadzony w areszcie domowym, który przyjmuje odwiedziny, karany będzie zamknięciem w więzieniu lub w twierdzy na czas do miesięcy sześciu lub aresztem wojskowym; w cięższych wypadkach orzeka się wydalenie z korpusu oficerskiego."
-    },
-    {
-     "type": "text",
-     "text": "Część czwarta."
-    },
-    {
-     "type": "text",
-     "text": "Samouszkodzenie i udanie ułomności."
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Część czwarta",
+   "text": "Samouszkodzenie i udanie ułomności."
   },
   {
    "type": "art",
@@ -994,16 +965,12 @@
    "num": "72",
    "path": "art_72",
    "text": "Jeżeli sprawca w wypadkach, wskazanych w art. 69, 70 i 71, złożył po spełnieniu przestępstwa wybitne dowody odwagi, można orzec karę mniejszą od najniższej w kodeksie przewidzianej kary pozbawienia wolności, a w wypadkach, wskazam bę w art. 69 i 71, można karania zupełnie z anie« chać.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Część szósta."
-    },
-    {
-     "type": "text",
-     "text": "Przestępstwa przeciwko obowiązkom subordynacji wojskowej."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Część szósta",
+   "text": "Przestępstwa przeciwko obowiązkom subordynacji wojskowej."
   },
   {
    "type": "art",
@@ -1219,16 +1186,12 @@
    "num": "98",
    "path": "art_98",
    "text": "Osoby, wyliczone w art. 6, ulegają karom według przepisów niniejszej części także wte-. dy, gdy nie pozostają w służbie, jeśli spełnią prze- ‘stepstwo, przewidziane w tejże części, w stosunku służbowym z przełożonym lub w mundurze wojskowym, albo jeżeli dopuszczą się nieposłuszeństwa lub oporu przeciw prawnie uzasadnionemu rozkazowi w sprawach służbowych.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Część siódma."
-    },
-    {
-     "type": "text",
-     "text": "Nadużycie władzy służbowej.."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Część siódma",
+   "text": "Nadużycie władzy służbowej.."
   },
   {
    "type": "art",
@@ -1483,36 +1446,33 @@
     {
      "type": "text",
      "text": "ny będzie zamknięciem w więzieniu lub w twierdzy na czas do roku jednego lub aresztem wojskowym. Kto ponownie i lekkomyślnie wnosi zażalenie, oparte na nieprawdziwych twierdzeniach, lub wniesie zażalenie z pominięciem przepisanej drogi służbowej, karany będzie aresztem wojskowym,"
-    },
-    {
-     "type": "text",
-     "text": "Część dwunasta."
-    },
-    {
-     "type": "text",
-     "text": "Przestępstwa jeńców wojennych."
-    },
-    {
-     "type": "text",
-     "text": "Art. 136, Do przestępstw jeńców wojennych stosuje się odpowiednio przepisy niniejszego kodeksu w miarę ich stopnia wojskowego."
-    },
-    {
-     "type": "text",
-     "text": "Art. 137, Jeniec wojenny, który ucieka, łamiąc słowo honoru, lub po uwolnieniu na słowo honoru łamie je, karany będzie śmiercią. Tej samej karze ulega ten, kto po uwolnieniu z niewoli pod pewnemi warunkami przed końcem wojny — tych warunków nie dotrzyma,"
-    },
-    {
-     "type": "text",
-     "text": "PRZEPISY PRZEJŚCIOWE,"
-    },
-    {
-     "type": "text",
-     "text": "‘Art. 138, Az do czasu ogłoszenia ustawy o wykonywaniu kar pozbawienia wolności w wojsku i ustawy o więziennictwie w wojsku obowiązują w sprawie wykonywania kary aresztii wojskowego i przedterminowego zwolnienia następujące przepisy. i"
-    },
-    {
-     "type": "text",
-     "text": "Art. 139, Areszt domowy odbywa oficer w swojem mieszkaniu, areszt kajutowy—na okręcie w swej kajucie, Podczas odbywania tego aresztu nie wolno oficerowi opuszczać mieszkania (kajuty), ani przyjmować odwiedzin. Obostrzony areszt domowy i obostrzony areszt kajutowy wykonywany bywa w osobnym pokoju względnie kajucie, przeznaczonej na areszt oficerski."
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Część dwunasta",
+   "text": "Przestępstwa jeńców wojennych."
+  },
+  {
+   "type": "text",
+   "text": "Art. 136, Do przestępstw jeńców wojennych stosuje się odpowiednio przepisy niniejszego kodeksu w miarę ich stopnia wojskowego."
+  },
+  {
+   "type": "text",
+   "text": "Art. 137, Jeniec wojenny, który ucieka, łamiąc słowo honoru, lub po uwolnieniu na słowo honoru łamie je, karany będzie śmiercią. Tej samej karze ulega ten, kto po uwolnieniu z niewoli pod pewnemi warunkami przed końcem wojny — tych warunków nie dotrzyma,"
+  },
+  {
+   "type": "text",
+   "text": "PRZEPISY PRZEJŚCIOWE,"
+  },
+  {
+   "type": "text",
+   "text": "‘Art. 138, Az do czasu ogłoszenia ustawy o wykonywaniu kar pozbawienia wolności w wojsku i ustawy o więziennictwie w wojsku obowiązują w sprawie wykonywania kary aresztii wojskowego i przedterminowego zwolnienia następujące przepisy. i"
+  },
+  {
+   "type": "text",
+   "text": "Art. 139, Areszt domowy odbywa oficer w swojem mieszkaniu, areszt kajutowy—na okręcie w swej kajucie, Podczas odbywania tego aresztu nie wolno oficerowi opuszczać mieszkania (kajuty), ani przyjmować odwiedzin. Obostrzony areszt domowy i obostrzony areszt kajutowy wykonywany bywa w osobnym pokoju względnie kajucie, przeznaczonej na areszt oficerski."
   },
   {
    "type": "art",

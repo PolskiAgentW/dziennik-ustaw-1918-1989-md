@@ -45,11 +45,8 @@
    "text": "Um ———"
   },
   {
-   "type": "text",
-   "text": "Rozdział pierwszy"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Rozdział pierwszy",
    "text": "Pomoc prawna."
   },
   {
@@ -496,34 +493,26 @@
    "num": "20",
    "path": "art_20",
    "text": "Strona wezwana powiadamia Stronę wzywającą o wyniku postępowania karnego. Jeżeli wydane zostało prawomocne orzeczenie, przesyła się na wniosek Strony wzywa» jącej to orzeczenie lub jego uwierzytelniony odpis (kopię)",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział trzeci"
-    },
-    {
-     "type": "text",
-     "text": "Informacje o prawie."
-    }
-   ],
+   "children": [],
    "label": "Artykuł 20"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział trzeci",
+   "text": "Informacje o prawie."
   },
   {
    "type": "art",
    "num": "21",
    "path": "art_21",
    "text": "Ministerstwo Sprawiedliwości 1 Prokuratura General< na Polskiej Rzeczypospolitej Ludowej 1 Związkowy Minfster Sprawiedliwości Republiki Austrii udzielają sobie wzajermnie na wniosek informacji o przepisach w zakresie prawa karnego, postępowania karnego i prawa karnegą wykonawczego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział czwarty"
-    },
-    {
-     "type": "text",
-     "text": "Informacje z rejestru skazanych."
-    }
-   ],
+   "children": [],
    "label": "Artykuł 21"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział czwarty",
+   "text": "Informacje z rejestru skazanych."
   },
   {
    "type": "art",
@@ -536,19 +525,15 @@
      "num": "2",
      "path": "art_22/ust_2",
      "text": "Umawiające się Strony udzielają sobie na wniosek informacji z rejestru skazanych o osobach, przeciwko któs rym na terytorium Strony wzywającej toczy się postępo* wanie karne. Informacje powyższe mogą być -wykorzystas ne wyłącznie w celu prowadzenia tego postępowania; Udzielanie informacji o własnych obywatelach nie jest pbowiązkowe.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział piąty"
-      },
-      {
-       "type": "text",
-       "text": "-. Postanowieńia ogólne."
-      }
-     ]
+     "children": []
     }
    ],
    "label": "Artykuł 22"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział piąty",
+   "text": "-. Postanowieńia ogólne."
   },
   {
    "type": "art",
@@ -592,17 +577,13 @@
    "num": "26",
    "path": "art_26",
    "text": "Umowa niniejsza nie narusza postanowień innych umów obowiązujących jedną lub obie Umawiające się Strony w chwili wejścia jej w życie..",
-   "children": [
-    {
-     "type": "text",
-     "text": "Rozdział szósty"
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia końcowe,"
-    }
-   ],
+   "children": [],
    "label": "Artykuł 26"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział szósty",
+   "text": "Postanowienia końcowe,"
   },
   {
    "type": "art",

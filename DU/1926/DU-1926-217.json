@@ -37,11 +37,8 @@
    "text": "Rząd Niemiecki: die Polnische Regierung: Rzeczywistego Tajnego Radcę Legacyjnego, Dyrektora Ministerjalnego w rzędzie dła Spraw Zagranicznych pana Karl Edler von Stockhammern, którzy po przedłożeniu swoich pełnomocnictw, uznanych za sporządzone w dobrej i należytej formie, zgodzili się na następujące postanowienia:"
   },
   {
-   "type": "text",
-   "text": "Rozdział pierwszy."
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Rozdział pierwszy",
    "text": "Qchrona prawna w sprawach cywilnych."
   },
   {
@@ -300,19 +297,16 @@
       {
        "type": "text",
        "text": "nie najwyższej władzy zarządu wymiaru sprawiedliwości drugiego Państwa, które to wezwanie należy w drodze dyplomatycznej dalej posłać, wyjaśnień co do prawa obowiązującego w jej Państwie."
-      },
-      {
-       "type": "text",
-       "text": "Rozdział drugi."
-      },
-      {
-       "type": "text",
-       "text": "Pomoc prawna w sprawach cywilnych."
       }
      ]
     }
    ],
    "label": "Artykuł 8"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział drugi",
+   "text": "Pomoc prawna w sprawach cywilnych."
   },
   {
    "type": "art",
@@ -547,17 +541,14 @@
     {
      "type": "text",
      "text": "ściągnąć od osoby, obowiązanej do ich uiszczenia. Kwoty ściągnięte zatrzymuje Państwo wzywające."
-    },
-    {
-     "type": "text",
-     "text": "Rozdział trzeci."
-    },
-    {
-     "type": "text",
-     "text": "Uwierzytelnienie (legalizacja) dokumentów,"
     }
    ],
    "label": "Artykuł 17"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział trzeci",
+   "text": "Uwierzytelnienie (legalizacja) dokumentów,"
   },
   {
    "type": "art",
@@ -568,17 +559,14 @@
     {
      "type": "text",
      "text": "(2) O ile dokumenty zostały sporządzone, wystawione lub uwierzytelnione przez polskie lub niemieckie sądy nie wymienione w ust. 1, przez komornika sądowego lub przez wydział hipoteczny lub władzę upoważnioną do przyjmowania depozytów (urząd depozytowy), albo przez polskiego lub niemieckiego notarjusza, natenczas dla użycia ich na obszarze drugiego Państwa wystarcza uwierzytelnienie (legalizacja) przez właściwego prezesa trybunału pierwszej instancji (prezesa sądu ziemiańskiego) i zaopatrzenie ich w pieczęć urzędową lub w stempel urzędowy. To samo obowiązuje przy dokumentach sporządzonych, wystawionych lub uwierzytelnionych przez sekretarza sacowen? pour? lub niemieckiego sądu. Jeżeli sekretarz sądowy należy do sądu wyższego rzędu, uwierzytelnienia dokona prezes tego sądu,"
-    },
-    {
-     "type": "text",
-     "text": "Rozdział czwarty."
-    },
-    {
-     "type": "text",
-     "text": "Wyciągi z ksiąg stanu cywilnego."
     }
    ],
    "label": "Artykuł 18"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział czwarty",
+   "text": "Wyciągi z ksiąg stanu cywilnego."
   },
   {
    "type": "art",
@@ -645,17 +633,14 @@
     {
      "type": "note",
      "text": "[Strona 7 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-    },
-    {
-     "type": "text",
-     "text": "Rozdział piąty."
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia końcowe,"
     }
    ],
    "label": "Artykuł 19"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział piąty",
+   "text": "Postanowienia końcowe,"
   },
   {
    "type": "art",

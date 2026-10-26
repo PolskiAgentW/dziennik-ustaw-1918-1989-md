@@ -262,11 +262,8 @@
      "text": "Postanowienia ogólne."
     },
     {
-     "type": "text",
-     "text": "Rozdział pierwszy."
-    },
-    {
-     "type": "text",
+     "type": "heading",
+     "label": "Rozdział pierwszy",
      "text": "Przedmioty opłat stemplowych."
     },
     {
@@ -346,24 +343,20 @@
      "num": "5",
      "path": "art_5",
      "text": "Pisma, sporządzone zagranicą, podlegają przepisom niniejszej ustawy tylko wówczas, gdy stwierdzają czynność prawną, tyczącą się przedmiotu, znajdującego się w Polsce, lub gdy zobowiązanie, z czynności prawnej wynikające, ma być wykonane albo jest wykonywane w Polsce. Pisma, sporządzone w Polsce przed konsulem obcego państwa, uważane będą — pod warunkiem wzajemności — za sporządzone zagranicą,",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział drugi."
-      },
-      {
-       "type": "text",
-       "text": "Sposób obliczenia opłaty."
-      },
-      {
-       "type": "text",
-       "text": "Art 6."
-      },
-      {
-       "type": "text",
-       "text": "Opłatę stemplową oblicza się stosownie do ro” dzaju czynności prawnej, którą stwierdza pismo; nazwa niezśodna z treścią nie ma znaczenia. Jeżeli według części drugiej niniejszej ustawy należy wziąć za podstawę wymiaru wartość rzeczy, to wartość tę ma podać podatnik. Opłatę wymierza się od wartości podanej; wyjątki są przewidziane w art. 7 — 12 oraz w ustępie trzecim art. 70. Za podstawę wymiaru opłaty od pisma, stwierdzającego umowę, bierze się wartość całego przedmiotu umowy, choćby z treści pisma wynikało, że umowa została już częściowo albo całkowicie wykonana przed sporządzeniem pisma."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział drugi",
+     "text": "Sposób obliczenia opłaty."
+    },
+    {
+     "type": "text",
+     "text": "Art 6."
+    },
+    {
+     "type": "text",
+     "text": "Opłatę stemplową oblicza się stosownie do ro” dzaju czynności prawnej, którą stwierdza pismo; nazwa niezśodna z treścią nie ma znaczenia. Jeżeli według części drugiej niniejszej ustawy należy wziąć za podstawę wymiaru wartość rzeczy, to wartość tę ma podać podatnik. Opłatę wymierza się od wartości podanej; wyjątki są przewidziane w art. 7 — 12 oraz w ustępie trzecim art. 70. Za podstawę wymiaru opłaty od pisma, stwierdzającego umowę, bierze się wartość całego przedmiotu umowy, choćby z treści pisma wynikało, że umowa została już częściowo albo całkowicie wykonana przed sporządzeniem pisma."
     },
     {
      "type": "art",
@@ -523,16 +516,12 @@
      "num": "14",
      "path": "art_14",
      "text": "Nie pobiera się opłaty stemplowej, wynoszącej mniej niż 10 groszy. Groszową końcówkę opłaty, obliczonej według właściwej stopy, przewidzianej w części drugiej ustawy niniejszej, jeżeli przewyższa 10 groszy, a jest niepodzielna przez 10, zackrągla się wzwyż do kwoty w ten sposób podzielnej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział trzeci."
-      },
-      {
-       "type": "text",
-       "text": "Osoby, obowiązane do uiszczenia opłaty."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział trzeci",
+     "text": "Osoby, obowiązane do uiszczenia opłaty."
     },
     {
      "type": "art",
@@ -592,20 +581,16 @@
      "num": "16",
      "path": "art_16",
      "text": "Wolne są od obowiązku uiszczenia procentowej opłaty stemplowej od pisma, stwierdzającego umowę, obustronnie obowiązującą: fundacje, zakłady i zrzeszenia, prawnie istniejące i posiadające siedzibę w Polsce, których zadanie stanowi wyłącznie wykonywanie kultu religijnego albo działalność naukowa, oświatowa, dobroczynna lub mająca na celu prowadzenie szpitali (art. 3 lit. „a' rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o zakładach leczniczych Dz. U. R. P. Nr. 38, poz. 382) ‘lub nieobliczonych na zysk przychodni (art. 1 lit. „b” oraz art. 63 powołanego rozporządzenia). Minister Skarbu w porozumieniu z Ministrem Spraw Zagranicznych może przyznać powyższe uwolnienie również fundacjom, zakładom i zrzeszeniom tego rodzaju, mającym siedzibę zagranicą. Kontrahent, zawierający umowę z osobą wolną od obowiązku uiszczenia opłaty, ma uiścić połowę opłaty, jeżeli sam nie jest zwolniony od obowiązku uiszczenia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział czwarty."
-      },
-      {
-       "type": "text",
-       "text": "Uiszczenie opłaty stemplowej."
-      },
-      {
-       "type": "text",
-       "text": "A. Postanowienia ogólne."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział czwarty",
+     "text": "Uiszczenie opłaty stemplowej."
+    },
+    {
+     "type": "text",
+     "text": "A. Postanowienia ogólne."
     },
     {
      "type": "art",
@@ -912,34 +897,27 @@
         {
          "type": "text",
          "text": "czenia nakazu płatniczego. Kwoty, nieuiszczone w tym terminie, będą Sciagniete przymusowo wedłuś przepisów o egzekucji podatków bezpośrednich. Odwołanie (art. 46) nie odracza terminu płatności."
-        },
-        {
-         "type": "text",
-         "text": "Rozdział piąty."
-        },
-        {
-         "type": "text",
-         "text": "Przedawnienie."
         }
        ]
       }
      ]
     },
     {
+     "type": "heading",
+     "label": "Rozdział piąty",
+     "text": "Przedawnienie."
+    },
+    {
      "type": "art",
      "num": "34",
      "path": "art_34",
      "text": "Prawo Państwa do żądania opłaty stemplowej przedawnia się z upływem lat pięciu. Termin pięcioletni biegnie od dnia, w którym opłata winna być uiszczona. Przedawnienie nie biegnie w czasie wykonywania umowy. Bieg przedawnienia przerywa się przez wszelkie czynności urzędowe, odnoszące się do wymiaru lub uiszczenia opłaty, o ile podatnik został o tych czynnościach urzędownie zawiadomiony. Od dnia zawiadomienia liczy się nowy okres pięcioletni.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział szósty."
-      },
-      {
-       "type": "text",
-       "text": "Przepisy o nadzorze."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział szósty",
+     "text": "Przepisy o nadzorze."
     },
     {
      "type": "art",
@@ -985,54 +963,50 @@
        "num": "2",
        "path": "art_37/pkt_2",
        "text": "pisma i księgi, znajdujące się u osób, obowiązanych do płacenia państwowego podatku przemysłowego lub ustawowo zwolnionych od tego podatku, a tyczące się ich przedsiębiorstwa; przepisu tego nie stosuje się do osób, wymienionych w art. 9 ustawy z dnia 15 lipca 1925 r. o państwowym podatku przemysłowym (Dz. U. R. P. Nr. 79, poz. 550), z wyjątkiem notarjuszów (punkt 1). Akta i księgi sądów, notarjuszów oraz innych urzędów państwowych, jak również Banku Polskiego bada izba skarbowa. Władze skarbowe mają prawo zabierania tych pism, znalezionych przy wykonywaniu nadzoru, co do których zachodzi uzasadnione podejrzenie użycia nieprawdziwych znaków stemplowych (art. 39), celem użycia tych pism jako dowodów rzeczowych. Przepis ten nie tyczy się pism, przechowywanych u notarjusza, w archiwum netarjalnem lub w zbiorze dokumentów księgi wieczystej. Szczegółowe przepisy o wykonywaniu nadzoru poda rozporządzenie. Osoby, obowiązane do uiszczenia opłaty, są na żądanie władzy skarbowej obowiązane wyjaśnić okoliczności, których znajomość jest niezbędna do wymierzenia opiaty,",
-       "children": [
-        {
-         "type": "text",
-         "text": "Rozdział siódmy."
-        },
-        {
-         "type": "text",
-         "text": "Naruszenia przepisów o opłatach stemplowych."
-        },
-        {
-         "type": "text",
-         "text": "Art 39,"
-        },
-        {
-         "type": "text",
-         "text": "Winny sprzedawania papieru stemplowego lub znaczków stemplowych po cenie wyższej niż oznaczona przez władze skarbowe, ulega karze pieniężnej w wysokości do 100 zł. Karę wymierza urząd skarbowy. Osoba, która z niedbals:wa:"
-        },
-        {
-         "type": "lit",
-         "num": "a",
-         "path": "art_37/pkt_2/lit_a",
-         "text": "sporządza pismo, podlegające opłacie stemplowej, na papierze stemplowym, podrobionym bądź całkowicie, bądź przez przerobienie sumy na wyższą, albo na papierze, który już był użyty do uiszczenia opłaty stemplowej, po wywabieniu poprzedniego tekstu;",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "b",
-         "path": "art_37/pkt_2/lit_b",
-         "text": "używa znaczka stemplowego podrobionego, przerobionego albo już skasowanego, celem uiszczenia opłaty od innego pisma;",
-         "children": []
-        },
-        {
-         "type": "lit",
-         "num": "c",
-         "path": "art_37/pkt_2/lit_c",
-         "text": "ofiarowuje na sprzedaż papier stemplowy lub znaczki stemplowe podrobione, przerobione albo już poprzednio użyte celem uiszczenia opłaty steriplowej — ulega karze pieniężnej w wysokości od 5 do 10-krotnej kwoty nieuiszczonej (punkty a, b), wzślędnie sumy znaków stemplowych, na sprzedaż ofiarowanych (punx<t c). Karę wymierza urząd skarbowy,",
-         "children": [
-          {
-           "type": "note",
-           "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-          },
-          {
-           "type": "text",
-           "text": "Winny świadomego spełnienia czynów, wymienionych w ustępie drugim — o ile czyn taki nie stanowi przestępstwa surowiej karanego — ulega karze pieniężnej w wysokości wyżej określonej, a nadto karze aresztu do sześciu miesięcy. Orzecznictwo należy do sądów okręgowych."
-          }
-         ]
-        }
-       ]
+       "children": []
+      }
+     ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział siódmy",
+     "text": "Naruszenia przepisów o opłatach stemplowych."
+    },
+    {
+     "type": "text",
+     "text": "Art 39,"
+    },
+    {
+     "type": "text",
+     "text": "Winny sprzedawania papieru stemplowego lub znaczków stemplowych po cenie wyższej niż oznaczona przez władze skarbowe, ulega karze pieniężnej w wysokości do 100 zł. Karę wymierza urząd skarbowy. Osoba, która z niedbals:wa:"
+    },
+    {
+     "type": "lit",
+     "num": "a",
+     "path": "lit_a",
+     "text": "sporządza pismo, podlegające opłacie stemplowej, na papierze stemplowym, podrobionym bądź całkowicie, bądź przez przerobienie sumy na wyższą, albo na papierze, który już był użyty do uiszczenia opłaty stemplowej, po wywabieniu poprzedniego tekstu;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "b",
+     "path": "lit_b",
+     "text": "używa znaczka stemplowego podrobionego, przerobionego albo już skasowanego, celem uiszczenia opłaty od innego pisma;",
+     "children": []
+    },
+    {
+     "type": "lit",
+     "num": "c",
+     "path": "lit_c",
+     "text": "ofiarowuje na sprzedaż papier stemplowy lub znaczki stemplowe podrobione, przerobione albo już poprzednio użyte celem uiszczenia opłaty steriplowej — ulega karze pieniężnej w wysokości od 5 do 10-krotnej kwoty nieuiszczonej (punkty a, b), wzślędnie sumy znaków stemplowych, na sprzedaż ofiarowanych (punx<t c). Karę wymierza urząd skarbowy,",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      },
+      {
+       "type": "text",
+       "text": "Winny świadomego spełnienia czynów, wymienionych w ustępie drugim — o ile czyn taki nie stanowi przestępstwa surowiej karanego — ulega karze pieniężnej w wysokości wyżej określonej, a nadto karze aresztu do sześciu miesięcy. Orzecznictwo należy do sądów okręgowych."
       }
      ]
     },
@@ -1139,18 +1113,14 @@
        "num": "b",
        "path": "art_49/lit_b",
        "text": "gdy ziścił się warunek rozwiązujący. Wniosek o zwrot opłaty, względnie o uchylenie wymiaru, należy złożyć do izby skarbowej w ciągu pięciu lat od dnia, w którym opłatę urzędownie wymierzono (art. 46, ustęp pierwszy) lub uiszczono bez wymiaru urzędowego. Jeżeli wniosek opiera się na orzeczeniu sądowem, wydanem w postępowaniu, rozpoczętem przed upływem powyższego pięcioletniego terminu, to należy go złożyć w ciągu trzech miesięcy od chwili uprawomocnienia się orzeczenia sądowego. Od decyzji izby skarbowej w sprawach, objętych artykułem niniejszym, służy odwołanie, do którego stosuje się postanowienia art. 46 i 47.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Rozdział dziewiąty."
-        },
-        {
-         "type": "text",
-         "text": "Doręczenia i czasokresy."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dziewiąty",
+     "text": "Doręczenia i czasokresy."
     },
     {
      "type": "art",
@@ -1172,11 +1142,8 @@
      "text": "Postanowienia szczegółowe."
     },
     {
-     "type": "text",
-     "text": "Rozdział dziesiąty."
-    },
-    {
-     "type": "text",
+     "type": "heading",
+     "label": "Rozdział dziesiąty",
      "text": "Pisma, tyczące się przejścia własności rzeczy nieruchomych."
     },
     {
@@ -2683,16 +2650,13 @@
       {
        "type": "text",
        "text": "zagranicą, a przeniesione do Poiski, podlegają opłacie w wysokości 2% od wartości nominalnej, niezależnie od tego, czy należność za nie została wpłacona całkowicie, czy częściowo. Kwota, uiszczona tytułem opłaty od świadectwa tymczasowego, podlega zaliczeniu na opłatę, należną od właściwego papieru obiegowego. Opłatę uiszcza się od każdego odcinka raz jeden — przez urzędowe skasowanie znaczków stemplowych (art. 23, punkt b) lub wniesienie opłaty w gotówce według obliczenia urzędu skarbowego (art. 24, punkt b). Opłatę ma uiścić posiadacz papieru w ciągu trzech tygodni po otrzymaniu papieru; jeżeli jednak wręcza go przedsiębiorstwu bankowemu przed upływem trzech tygodni, to ma uiścić przed wręczeniem."
-      },
-      {
-       "type": "text",
-       "text": "Rozdział dwudziesty."
-      },
-      {
-       "type": "text",
-       "text": "Pełnomocnictwa."
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dwudziesty",
+     "text": "Pełnomocnictwa."
     },
     {
      "type": "art",
@@ -2829,24 +2793,20 @@
      "num": "113",
      "path": "art_113",
      "text": "Jeżeli pełnomocnictwo zawiera zarazem umowę o wynagrodzenie pełnomocnika, to opłatę należy uiścić stosownie do przepisów o opłatach od umów o świadczenie usług (rozdział szesnasty), jeżeli opłata w myśl rozdziału niniejszego nie jest wyższa.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział dwudziesty pierwszy."
-      },
-      {
-       "type": "text",
-       "text": "Obligi."
-      },
-      {
-       "type": "text",
-       "text": "Art. 114,"
-      },
-      {
-       "type": "text",
-       "text": "Opłacie stemplowej w zasadniczej wysokości 0,5% od sumy zobowiązania podlegają obligacje (listy zastawne, obligacje fundowane, obligacje spółek akcyjnych i t. p.) i inne pisma, stwierdzające przyjęcie nowego lub uznanie dawnego długu (obligi, skrypty dłużne, rewersy), o ile nie są wymienione w innych artykułach części drugiej niniejszej ustawy i o ile nie mają zastosowania przepisy o opodatkowaniu spadków i darowizn. Jeżeli takie pismo stwierdza umowę, na mocy której strona, przyjmująca dług nowy lub uznająca dawny, jest uprawniona do żądania świadczenia wzajemnego, to za podstawę wymiaru należy wziąć wartość świadczenia jednej strony; jeżeli wartości świadczeń jednej i drugiej strony nie są równe, to za podstawę wymiaru należy wziąć wartość wyższą. Opłatę od obligacyj, wypuszczonych w Polsce, obowiązana jest uiścić instytucja emitująca gotówką bez urzędowego wymiaru (art. 25) — przed wręczeniem obligacyj pierwszemu nabywcy, względnie przed wypłaceniem ceny kupna w tym wypadku, gdy instytucja kredytowa, udzieliwszy pożyczki we własnych obligacjach, kupuje te obligacje od dłużnika bezpośrednio po ich wydaniu. Opłatę w wysokości 0,5% od obligacyj, wypuszczonych zagranicą, uiszcza się wedłuś zasad, przewidzianych co do akcyj zagranicznych w art. 110. Do uiszczenia opłaty od obligéw, niewymienionych w usiępie drugim i trzecim, są obowiązani solidarnie wierzyciel i dłużnik,"
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dwudziesty pierwszy",
+     "text": "Obligi."
+    },
+    {
+     "type": "text",
+     "text": "Art. 114,"
+    },
+    {
+     "type": "text",
+     "text": "Opłacie stemplowej w zasadniczej wysokości 0,5% od sumy zobowiązania podlegają obligacje (listy zastawne, obligacje fundowane, obligacje spółek akcyjnych i t. p.) i inne pisma, stwierdzające przyjęcie nowego lub uznanie dawnego długu (obligi, skrypty dłużne, rewersy), o ile nie są wymienione w innych artykułach części drugiej niniejszej ustawy i o ile nie mają zastosowania przepisy o opodatkowaniu spadków i darowizn. Jeżeli takie pismo stwierdza umowę, na mocy której strona, przyjmująca dług nowy lub uznająca dawny, jest uprawniona do żądania świadczenia wzajemnego, to za podstawę wymiaru należy wziąć wartość świadczenia jednej strony; jeżeli wartości świadczeń jednej i drugiej strony nie są równe, to za podstawę wymiaru należy wziąć wartość wyższą. Opłatę od obligacyj, wypuszczonych w Polsce, obowiązana jest uiścić instytucja emitująca gotówką bez urzędowego wymiaru (art. 25) — przed wręczeniem obligacyj pierwszemu nabywcy, względnie przed wypłaceniem ceny kupna w tym wypadku, gdy instytucja kredytowa, udzieliwszy pożyczki we własnych obligacjach, kupuje te obligacje od dłużnika bezpośrednio po ich wydaniu. Opłatę w wysokości 0,5% od obligacyj, wypuszczonych zagranicą, uiszcza się wedłuś zasad, przewidzianych co do akcyj zagranicznych w art. 110. Do uiszczenia opłaty od obligéw, niewymienionych w usiępie drugim i trzecim, są obowiązani solidarnie wierzyciel i dłużnik,"
     },
     {
      "type": "art",
@@ -3001,18 +2961,14 @@
        "num": "1",
        "path": "art_121/pkt_1",
        "text": "do Zasady powyższe stosuje się również: pisma, stwierdzającego umowę o uiszczenie długu pieniężneśo w innej walucie; 2) do obligacyj, wydanych przez wierzyciela dłużnikowi tytułem pożyczki, wymienionej w ustępie pierwszym niniejszego artykułu.-",
-       "children": [
-        {
-         "type": "text",
-         "text": "Rozdział dwudziesty drugi"
-        },
-        {
-         "type": "text",
-         "text": "Wekste."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dwudziesty drugi",
+     "text": "Wekste."
     },
     {
      "type": "art",
@@ -3057,16 +3013,12 @@
      "num": "125",
      "path": "art_125",
      "text": "Do uiszczenia opłaty od wekslu są obowiązani solidarnie: wystawca, remitent (art. 1, punkt 6 oraz art. 99, punkt 5 rozporządzenia Prezydenta Rzeczypospolitej z dnia 14 listopada 1924 r. o prawie wekslowem Dz. U. R. P. Nr. 100, poz. 926), wszyscy dłużnicy wekslowi oraz posiadacz wekslu (art. 15 i 101 powołanego rozporządzenia) — każda jednak z tych osób tylko wówczas, jeżeli weksel znajdował się w jej ręku na obszarze Polski, Jeżeli osoba, obowiązana do uiszczenia opłaty w myśl ustępu poprzedniego, otrzymała weksel nieopłacony lub niedostatecznie opłacony, to ma uiścić opłatę, zanim umieściła na wekslu swój podpis albo wypełniła indos in blanco, lub wręczyła innej osobie weksel, zaopatrzony w indos in blanco; remitent zaś i posiadacz wekslu w każdym razie w ciągu tygodnia od dnia, w którym weksel otrzymał. Osoba, która przedstawia do zapłaty weksel nieopłacony lub niedostatecznie opłacony lub wytacza przed sąd polski skargę o pretensję z takiego wekslu, ma — jeżeli nie należy do osób, wymienionych w ustępie pierwszym niniejsześo artykułu — uiścić opłatę przed przyjęciem zapłaty (całkowitej lub częściowej), względnie przed wytoczeniem skargi. Podwyżkę stemplową (art, 42) oblicza się w przypadkach, przewidzianych w rozdziale niniejszym w wysokości 25-krotnej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział dwudziesty trzeci"
-      },
-      {
-       "type": "text",
-       "text": "Przekazy, czeki i zlecenia wypłaty."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dwudziesty trzeci",
+     "text": "Przekazy, czeki i zlecenia wypłaty."
     },
     {
      "type": "art",
@@ -3173,18 +3125,15 @@
         {
          "type": "text",
          "text": "Podwyżkę stemplowa (art. 42) oblicza się w przypadkach, przewidzianych w rozdziale niniejszym, w wysokości 25-krotnej,"
-        },
-        {
-         "type": "text",
-         "text": "Rozdział dwudziesty czwarty."
-        },
-        {
-         "type": "text",
-         "text": "Pisma, tyczące się umów majątkowych małżeńskich."
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dwudziesty czwarty",
+     "text": "Pisma, tyczące się umów majątkowych małżeńskich."
     },
     {
      "type": "art",
@@ -3199,16 +3148,13 @@
       {
        "type": "text",
        "text": "mu lub podatkowi od darowizn, bądź są od tych podatków zwolnione. Ustępu poprzedniego nie stosuje się do umów o ponoszenie kosztów utrzymania współmałżonka lub dzieci (umów alimentacyjnych), które podlegają opłacie według art. 114."
-      },
-      {
-       "type": "text",
-       "text": "Rozdział dwudziesty piąty."
-      },
-      {
-       "type": "text",
-       "text": "Pisma, stwierdzające dział majątku wspólnego."
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dwudziesty piąty",
+     "text": "Pisma, stwierdzające dział majątku wspólnego."
     },
     {
      "type": "art",
@@ -3277,42 +3223,34 @@
        "num": "b",
        "path": "art_132/lit_b",
        "text": "1% od nadwyżki w wartości przedmiotów innego rodzaju. Gdy wspólność wynikła częściowo z dziedziczenia, zapisu lub darowizny, a częściowo z innych tytułów, to ustala się nadwyżkę w sposób, wskazany \"w ustępie poprzednim, Opłatę wymierza się tylko od tej części nadwyżki, która odpowiada stosunkowi, w jakim wartość udziałów, nie wynikłych z dziedziczenia, zapisu lub darowizny (lecz opierających się na innych tytułach) pozostaje do wartości całego majątku, podlegającego działowi. Nie oblicza się opłaty co do nabywcy, należącego do osób, wymienionych w art. 16. Osoby te są wolne od solidarnego obowiązku uiszczenia opłat, obliczonych co do innych nabywców. Postanowienia artykułu niniejszego stosuje się odpowiednio w razie przyznania całego majątku wspólnego jednemu z uczestników działu lub niepodzielnie niektórym uczestnikom. Do orzeczenia sądu polubownego, którem dokonano działu majątku wspólnego (art. 131, punkt 3) stosuje się art. 60.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Rozdział dwudziesty szósty."
-        },
-        {
-         "type": "text",
-         "text": "Pisma, stwierdzające ugodę (układ pojednawczy)."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dwudziesty szósty",
+     "text": "Pisma, stwierdzające ugodę (układ pojednawczy)."
     },
     {
      "type": "art",
      "num": "138",
      "path": "art_138",
      "text": "Ugoda, zawierająca uznanie zobowiązania, które wynikło z uprzednio sporządzonej czynności prawnej, pismem nie stwierdzonej, podleśa takiej opłacie stemplowej, jaka się należy od pisma, stwierdzającego ową uprzednio sporządzoną czynność prawną. Jeżeli uprzednio sporządzona czynność była już stwierdzona pismem, od którego uiszczono należną opłatę stemplową, to ugodę uważa się tylko za ponowne stwierdzenie owej czynności i stosuje się art. 3. Ugoda, powodująca powstanie nowego zobowiązania, podlega takiej opłacie, jaka winna być uiszczona od pisma, stwierdzającego powstanie tego nowego zobowiązania. Ugoda, zawierająca uznanie zobowiązania, które wynikło nie z czynności prawnej, lecz z innego tytułu, podlega opłacie, która należy się od obligu według przepisów art. 114. Wolne są od opłaty stemplowej ugody, zawarte w sądowem postępowaniu spornem, o ile dotyczą przedmiotu sporu, oraz układy w postępowaniu upadłościowem i układowem z wyjątkiem ugód i układów, powodujących przejście własności nieruchomości lub prawa do ciał kopalnych. Te ostatnie podlegają opłatom wedłuś przepisów rozdziału dziesiątego, względnie jedenasteśo ustawy niniejszej.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział dwudziesty siódmy."
-      },
-      {
-       "type": "text",
-       "text": "Pisma, stwierdzające umowy przygotowawcze oraz punktacje."
-      },
-      {
-       "type": "text",
-       "text": "Art. 134,"
-      },
-      {
-       "type": "text",
-       "text": "Pismo, stwierdzające umowę przygotowawczą, zobowiązującą do zawarcia w przyszłości umowy ostatecznej, podlega opłacie w wysokości 0,2% od sumy, która ma być podstawą wymiaru opłaty od umowy ostatecznej, Jeżeli jednak opłata od umowy ostatecznej jest niższa, aniżeli 0,2%, to od umowy przygotowawczej należy uiścić tę niższą opłatę. Pismo, stwierdzające umowę w przedmiocie otwarcia kredytu, podlega — o ile chodzi o kredyt wekslowy — opłacie w wysokości 5 zł, w innych przypadkach — opłacie w wysokości 0,1% od sumy kredytu. Nie podlega opłacie pismo, stwierdzające przyrzeczenie udzielenia pożyczki w kwocie ściśle określonej. Za pismo, stwierdzające umowę przyśotowawczą, uważa się również pokwitowanie z otrzymania zadatku."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dwudziesty siódmy",
+     "text": "Pisma, stwierdzające umowy przygotowawcze oraz punktacje."
+    },
+    {
+     "type": "text",
+     "text": "Art. 134,"
+    },
+    {
+     "type": "text",
+     "text": "Pismo, stwierdzające umowę przygotowawczą, zobowiązującą do zawarcia w przyszłości umowy ostatecznej, podlega opłacie w wysokości 0,2% od sumy, która ma być podstawą wymiaru opłaty od umowy ostatecznej, Jeżeli jednak opłata od umowy ostatecznej jest niższa, aniżeli 0,2%, to od umowy przygotowawczej należy uiścić tę niższą opłatę. Pismo, stwierdzające umowę w przedmiocie otwarcia kredytu, podlega — o ile chodzi o kredyt wekslowy — opłacie w wysokości 5 zł, w innych przypadkach — opłacie w wysokości 0,1% od sumy kredytu. Nie podlega opłacie pismo, stwierdzające przyrzeczenie udzielenia pożyczki w kwocie ściśle określonej. Za pismo, stwierdzające umowę przyśotowawczą, uważa się również pokwitowanie z otrzymania zadatku."
     },
     {
      "type": "art",
@@ -3327,24 +3265,21 @@
       {
        "type": "text",
        "text": "nowionej dla tego rodzaju umowy, jaką stwierdzają punktacje. Opłatę, uiszczoną przy spisaniu punktacyj, potrąca się od opłaty, należnej od umowy ostatecznej w razie jej spisania,"
-      },
-      {
-       "type": "text",
-       "text": "Rozdział dwudziesty ósmy."
-      },
-      {
-       "type": "text",
-       "text": "Pokwitowania."
-      },
-      {
-       "type": "text",
-       "text": "Art. 136,"
-      },
-      {
-       "type": "text",
-       "text": "Pokwitowania z odbioru pieniędzy i papierów wartościowych podlegają zasadniczo opłacie 25 gr. Jeżeli pokwitowanie zawiera zarazem zezwolenie na wykreślenie wpisu w księdze wieczystej, to podlega opłacie według art. 139, nie niższej jednak od przewidzianej w ustępie pierwszym niniejszego artykułu. Jeżeli pismo, stwierdzające czynność prawną, wymienioną w art. 72, 90, 93, 95, 95, 103, 114, 115, 116, 118 lub 134, ujęto w formę pokwitowania, te rozdział niniejszy nie ma zastosowania i pismo takie podlega opłacie stosownie do rodzaju tej czynności prawnej, którą stwierdza."
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dwudziesty ósmy",
+     "text": "Pokwitowania."
+    },
+    {
+     "type": "text",
+     "text": "Art. 136,"
+    },
+    {
+     "type": "text",
+     "text": "Pokwitowania z odbioru pieniędzy i papierów wartościowych podlegają zasadniczo opłacie 25 gr. Jeżeli pokwitowanie zawiera zarazem zezwolenie na wykreślenie wpisu w księdze wieczystej, to podlega opłacie według art. 139, nie niższej jednak od przewidzianej w ustępie pierwszym niniejszego artykułu. Jeżeli pismo, stwierdzające czynność prawną, wymienioną w art. 72, 90, 93, 95, 95, 103, 114, 115, 116, 118 lub 134, ujęto w formę pokwitowania, te rozdział niniejszy nie ma zastosowania i pismo takie podlega opłacie stosownie do rodzaju tej czynności prawnej, którą stwierdza."
     },
     {
      "type": "art",
@@ -3482,18 +3417,15 @@
         {
          "type": "text",
          "text": "Podwyżkę stemplową (art. 42) oblicza się w wysokości 25-krotnej,"
-        },
-        {
-         "type": "text",
-         "text": "Rozdział dwudziesty dziewiąty."
-        },
-        {
-         "type": "text",
-         "text": "Pisma, niewymienione w rozdziałach poprzednich."
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział dwudziesty dziewiąty",
+     "text": "Pisma, niewymienione w rozdziałach poprzednich."
     },
     {
      "type": "art",

@@ -264,6 +264,14 @@ do poprzedniego akapitu. W pozostałych 13 zmiany, które obejrzałem, są popra
 (np. DU/1938/203, DU/1948/485), „8 2.” odczytane przez OCR staje się „§ 2.” (DU/1938/679), pozycja taryfy „580.” przestaje
 być „§ 80.” (DU/1937/423).
 
+Tego samego dnia drzewo JSON (kod drzewa eli2md 0.6.70, 21 aktów; opis w README eli2md, wpis 0.6.70): nagłówki z
+liczebnikiem słownym pisanym małymi literami, stojące jako osobny akapit („Rozdział pierwszy.”, „Dział trzeci.”, „Tytuł
+drugi.”, „Oddział pierwszy.”), są w `.json` węzłami `heading` (141 nowych nagłówków). Wcześniej trafiały jako tekst do
+artykułu przed nimi. `.md` się nie zmienił, więc pole `converter` (w `.md`, `.json` i `index.csv`) zostaje wersją, w której powstał `.md`. Liczba jednostek i słowa w drzewie bez zmian. W 9 aktach jednostka tuż po nowym nagłówku nie jest już częścią artykułu sprzed
+nagłówka (DU/1926/80: `art_10/ust_1` → `ust_1`; „Artykuł 7.” po nagłówku nie jest w `.md` nagłówkiem jednostki, więc ustęp
+zostaje bez artykułu). Nagłówek wewnątrz
+cytatu zostaje tekstem, także po cudzysłowie, którego OCR nie zamknął (np. DU/1974/33 od rozdziału czwartego).
+
 ## Licencja
 
 Akty normatywne i ich urzędowe projekty oraz urzędowe dokumenty i materiały nie są przedmiotem prawa

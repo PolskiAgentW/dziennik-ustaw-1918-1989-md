@@ -174,11 +174,8 @@
      "text": "o tymczasowem uregulowaniu finansów komunalnych."
     },
     {
-     "type": "text",
-     "text": "Część pierwsza."
-    },
-    {
-     "type": "text",
+     "type": "heading",
+     "label": "Część pierwsza",
      "text": "PODATKI"
     },
     {
@@ -1230,167 +1227,163 @@
        "num": "2",
        "path": "art_26/pkt_2",
        "text": "Minister Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu wyda w rozporządzeniu wykonawczem także przepisy, zmierzające do zapobieżenia wielokrotnemu opodatkowaniu płatników na rzecz związków samorządowych.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Część druga."
-        },
-        {
-         "type": "text",
-         "text": "OPŁATY I SPECJALNE DOPŁATY."
-        },
-        {
-         "type": "text",
-         "text": "A. OPŁATY,"
-        },
-        {
-         "type": "text",
-         "text": "Art. 27,"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_26/pkt_1",
-       "text": "Związki samorządowe winny pobierać opłaty za używanie komunalnych urządzeń i zakładów dobra publicznego, zaś mogą je pobierać za czynności i poświadczenia urzędowe organów samorządowych (opłaty administracyjne),",
-       "children": [
-        {
-         "type": "note",
-         "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_26/pkt_2",
-       "text": "Uchwały w przedmiocie pobierania powyższych opłat nie podlegają zatwierdzeniu władzy nadzorczej,",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_26/pkt_3",
-       "text": "Władza nadzorcza może jednak żądać w każdym czasie zmian lub zniesienia uchwał, dotyczących opłat w niniejszym artykule w ust. 1) wymienionych, gdyby się okazało, że opłaty te są niewspółmierne w stosunku do kosztów utrzymania urządzeń i zakładów dobra publicznego, względnie tego działu zarządu samorządowego, za którego czynności opłaty są pobierane.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Art. 28,"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_26/pkt_1",
-       "text": "Przedsiębiorstwa komunalne mają być w ten sposób administrowane, ażeby dochody z nich uzyskane pokrywały co najmniej koszty eksploatacji łącznie z oprocentowaniem i amortyzacją kapitału zakładowego.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_26/pkt_2",
-       "text": "Uchwały w przedmiocie pobierania opłat za używanie przedsiębiorstw komunalnych, wzślędnie cen za dostarczone przez nie przedmioty, nie podlegają zatwierdzeniu władzy nadzorczej,",
-       "children": []
-      },
-      {
-       "type": "text",
-       "text": "i 3) Władza nadzorcza może jednak zażądać w każdym czasie zmiany opłat (cen), wymienionych w ust. 2) artykułu niniejszego."
-      },
-      {
-       "type": "text",
-       "text": "Art. 29,"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_26/pkt_1",
-       "text": "Związkom samorządowym wolno celem uzyskania funduszów obrotowych na utrzymanie komunalnych urządzeń i zakładów dobra publicznego oraz przedsiębiorstw pobierać zaliczki na opłaty (art. 27 i 28) od osób, korzystających z tychże zakładów, urządzeń i przedsiębiorstw.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_26/pkt_2",
-       "text": "Wysokość zaliczek może być różniczkowana według stopnia zamożności tych osób. W razie udowodnionego ubóstwa zaliczka nie powinna być pobierana.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_26/pkt_3",
-       "text": "Uchwały w przedmiocie pobierania zaliczek, przewyższających trzykrotną opłatę miesięczną, podlegają zatwierdzeniu władzy nadzorczej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "‘Art. 30."
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_26/pkt_1",
-       "text": "Przepisy dotychczasowych ustaw o komunalnych opłatach na cele specjalne pozostają bez zmiany. Pobieranie opłat targowych od artykułów żywności, dostarczanych przez producentów rolnych, jest dozwolone tylko w razie sprzedaży tych artykułów w miejskich halach targowych.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_26/pkt_2",
-       "text": "Nieaktualny,",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_26/pkt_3",
-       "text": "Uchwały w sprawie ustanowienia i zmiany wysokości tych opłat podlegają zatwierdzeniu władzy nadzorczej.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Nr. 62."
-        },
-        {
-         "type": "text",
-         "text": "B. SPECJALNE DOPŁATY,"
-        },
-        {
-         "type": "text",
-         "text": "Art 31,"
-        }
-       ]
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_26/pkt_1",
-       "text": "Związki samorządowe winny pobierać na pokrycie kosztów założenia i utrzymania urządzeń i zakładów dobra publicznego oraz przedsiębiorstw komunikacyjnych, posługujących się własną specjalną nawierzchnią, specjalne dopłaty od tych właścicieli nieruchomości, przedsiębiorstw przemysłowych i handlowych, którym te urządzenia i zakłady wzślędnie przedsiębiorstwa przynoszą szczególne korzyści gospodarcze lub udogodnienia. Wysokość specjalnej dopłaty winna być stopniowana w stosunku do wartości osiągniętych korzyści gospodarczych, względnie udogodnień.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_26/pkt_2",
-       "text": "Rozporządzenie wykonawcze określi sposób zawiadomienia płatników o uchwale w sprawie pobierania specjalnych dopłat i oznaczy termin do wniesienia odwołania przeciwko uchwale.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_26/pkt_3",
-       "text": "Odwołanie, wniesione w terminie, podlega rozstrzygnięciu władzy nadzorczej, wskazanej w art. 36 i 37. Dopóki rozstrzygnięcie nie nastąpi, uchwała nie może być wykonana w stosunku do osoby, która wniosła odwołanie.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "art_26/pkt_4",
-       "text": "Związki samorządowe mogą na skutek osobnej uchwały nie pobierać specjalnych dopłat, jeżeli pokrycie kosztów założenia i utrzymania urządzeń i zakładów dobra publiczneśo komunalnemi podatkami, opłatami lub innemi dochodami jest wskazane w interesie publicznym; uchwała taka podlega zatwierdzeniu władzy nadzorczej (art. 36 i 37).",
        "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część druga",
+     "text": "OPŁATY I SPECJALNE DOPŁATY."
+    },
+    {
+     "type": "text",
+     "text": "A. OPŁATY,"
+    },
+    {
+     "type": "text",
+     "text": "Art. 27,"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Związki samorządowe winny pobierać opłaty za używanie komunalnych urządzeń i zakładów dobra publicznego, zaś mogą je pobierać za czynności i poświadczenia urzędowe organów samorządowych (opłaty administracyjne),",
+     "children": [
+      {
+       "type": "note",
+       "text": "[Strona 8 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Uchwały w przedmiocie pobierania powyższych opłat nie podlegają zatwierdzeniu władzy nadzorczej,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Władza nadzorcza może jednak żądać w każdym czasie zmian lub zniesienia uchwał, dotyczących opłat w niniejszym artykule w ust. 1) wymienionych, gdyby się okazało, że opłaty te są niewspółmierne w stosunku do kosztów utrzymania urządzeń i zakładów dobra publicznego, względnie tego działu zarządu samorządowego, za którego czynności opłaty są pobierane.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Art. 28,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Przedsiębiorstwa komunalne mają być w ten sposób administrowane, ażeby dochody z nich uzyskane pokrywały co najmniej koszty eksploatacji łącznie z oprocentowaniem i amortyzacją kapitału zakładowego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Uchwały w przedmiocie pobierania opłat za używanie przedsiębiorstw komunalnych, wzślędnie cen za dostarczone przez nie przedmioty, nie podlegają zatwierdzeniu władzy nadzorczej,",
+     "children": []
+    },
+    {
+     "type": "text",
+     "text": "i 3) Władza nadzorcza może jednak zażądać w każdym czasie zmiany opłat (cen), wymienionych w ust. 2) artykułu niniejszego."
+    },
+    {
+     "type": "text",
+     "text": "Art. 29,"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Związkom samorządowym wolno celem uzyskania funduszów obrotowych na utrzymanie komunalnych urządzeń i zakładów dobra publicznego oraz przedsiębiorstw pobierać zaliczki na opłaty (art. 27 i 28) od osób, korzystających z tychże zakładów, urządzeń i przedsiębiorstw.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Wysokość zaliczek może być różniczkowana według stopnia zamożności tych osób. W razie udowodnionego ubóstwa zaliczka nie powinna być pobierana.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Uchwały w przedmiocie pobierania zaliczek, przewyższających trzykrotną opłatę miesięczną, podlegają zatwierdzeniu władzy nadzorczej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "‘Art. 30."
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Przepisy dotychczasowych ustaw o komunalnych opłatach na cele specjalne pozostają bez zmiany. Pobieranie opłat targowych od artykułów żywności, dostarczanych przez producentów rolnych, jest dozwolone tylko w razie sprzedaży tych artykułów w miejskich halach targowych.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Nieaktualny,",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Uchwały w sprawie ustanowienia i zmiany wysokości tych opłat podlegają zatwierdzeniu władzy nadzorczej.",
+     "children": [
+      {
+       "type": "text",
+       "text": "Nr. 62."
+      },
+      {
+       "type": "text",
+       "text": "B. SPECJALNE DOPŁATY,"
+      },
+      {
+       "type": "text",
+       "text": "Art 31,"
+      }
+     ]
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Związki samorządowe winny pobierać na pokrycie kosztów założenia i utrzymania urządzeń i zakładów dobra publicznego oraz przedsiębiorstw komunikacyjnych, posługujących się własną specjalną nawierzchnią, specjalne dopłaty od tych właścicieli nieruchomości, przedsiębiorstw przemysłowych i handlowych, którym te urządzenia i zakłady wzślędnie przedsiębiorstwa przynoszą szczególne korzyści gospodarcze lub udogodnienia. Wysokość specjalnej dopłaty winna być stopniowana w stosunku do wartości osiągniętych korzyści gospodarczych, względnie udogodnień.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Rozporządzenie wykonawcze określi sposób zawiadomienia płatników o uchwale w sprawie pobierania specjalnych dopłat i oznaczy termin do wniesienia odwołania przeciwko uchwale.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Odwołanie, wniesione w terminie, podlega rozstrzygnięciu władzy nadzorczej, wskazanej w art. 36 i 37. Dopóki rozstrzygnięcie nie nastąpi, uchwała nie może być wykonana w stosunku do osoby, która wniosła odwołanie.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Związki samorządowe mogą na skutek osobnej uchwały nie pobierać specjalnych dopłat, jeżeli pokrycie kosztów założenia i utrzymania urządzeń i zakładów dobra publiczneśo komunalnemi podatkami, opłatami lub innemi dochodami jest wskazane w interesie publicznym; uchwała taka podlega zatwierdzeniu władzy nadzorczej (art. 36 i 37).",
+     "children": []
     },
     {
      "type": "art",
@@ -1421,18 +1414,15 @@
         {
          "type": "note",
          "text": "[Strona 9 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "Część trzecia."
-        },
-        {
-         "type": "text",
-         "text": "INNE ŹRÓDŁA DOCHODOWE."
         }
        ]
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część trzecia",
+     "text": "INNE ŹRÓDŁA DOCHODOWE."
     },
     {
      "type": "art",
@@ -1485,18 +1475,14 @@
        "num": "2",
        "path": "art_35/pkt_2",
        "text": "Aż do czasu wprowadzenia w życie samorządu wojewódzkiego wojewódzkie związki komunalne w b. dzielnicy pruskiej otrzymują dła spełnienia zadań, przewidzianych w ustawie z dnia 30 kwietnia 1873 r. o dotacji związków prowincjonalnych (Zbiór Ustaw pruskich str. 187], w ustawie z dnia 8 lipca 1875 r. w przedmiocie wykonania $§ 5 i 6 powołanej ustawy (Zbiór Ustaw pruskich str, 497) i w ustawie z dnia 2 czerwca 1902 r. w sprawie przekazania związkom prowincjonalnym dalszych rat dotacyjnych (Zbiór Ustaw pruskich str. 167) zamiast kwot, określonych w tych ustawach, tytułem rocznej dotacji ze Skarbu Państwa ryczałtową sumę, wynoszącą 600.000 zł dla związku poznańskiego, zaś 425.000 zł dla pomorskiego, Dotacja ta płatna jest w 12 równych ratach miesięcznych,",
-       "children": [
-        {
-         "type": "text",
-         "text": "Część czwarta."
-        },
-        {
-         "type": "text",
-         "text": "WŁADZE NADZORCZE I ICH POSTĘPOWANIE."
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część czwarta",
+     "text": "WŁADZE NADZORCZE I ICH POSTĘPOWANIE."
     },
     {
      "type": "art",
@@ -1647,48 +1633,45 @@
       {
        "type": "text",
        "text": "O ile według innych ustaw uchwały związków samorządowych w sprawie pobierania podatków, opłat i dopłat, względnie składek, oraz zaciągania pożyczek podlegają zatwierdzeniu władz nadzorczych, władzami właściwemi do zatwierdzenia tych uchwał są władze nadzorcze, wskazane w art. 36 i 37, przyczem art. 38 — 41 mają odpowiednie zastosowanie."
-      },
-      {
-       "type": "text",
-       "text": "Część piąta."
-      },
-      {
-       "type": "text",
-       "text": "WYMIAR I POBÓR DANIN KOMUNALNYCH."
-      },
-      {
-       "type": "text",
-       "text": "Art. 43,"
-      },
-      {
-       "type": "pkt",
-       "num": "1",
-       "path": "art_41/pkt_1",
-       "text": "Wymiar i pobór samoistnych danin komunalnych uskutecznia zarząd związku samorządowego lub orgam przez ten zarząd upoważniony. Wymiar i pobór samoistnych danin komunalnych, przypadających na rzecz powiatowego związku samorządowego, może wydział powiatowy poruczyć gminom wiejskim za wynagrodzeniem do wysokości 3% sum, pobranych i wpłaconych ma rzecz powiatowego związku samorządowego.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "2",
-       "path": "art_41/pkt_2",
-       "text": "Wymiar, pobór i ściąśanie dodatków komunalnych do podatków i opłat państwowych uskutecznia ten sam organ urzędowy, który jest powołany do wymiaru, poboru i ściąśania tej daniny państwowej, z którą wiąże się dodatek.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "3",
-       "path": "art_41/pkt_3",
-       "text": "Uchylony.",
-       "children": []
-      },
-      {
-       "type": "pkt",
-       "num": "4",
-       "path": "art_41/pkt_4",
-       "text": "Notarjusze pobierają za czynności, wiążące się z wymiarem i poborem dodatków, wymienionych w art. 13 i 16, wynagrodzenia w wysokości 2% sum, wypłaconych związkom samorządowym tytułem tych dodatków. Przepisy niniejszego ustępu mają również zastosowanie do wymiaru i poboru podatków, wymienionych w art. 14 i 15.",
-       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część piąta",
+     "text": "WYMIAR I POBÓR DANIN KOMUNALNYCH."
+    },
+    {
+     "type": "text",
+     "text": "Art. 43,"
+    },
+    {
+     "type": "pkt",
+     "num": "1",
+     "path": "pkt_1",
+     "text": "Wymiar i pobór samoistnych danin komunalnych uskutecznia zarząd związku samorządowego lub orgam przez ten zarząd upoważniony. Wymiar i pobór samoistnych danin komunalnych, przypadających na rzecz powiatowego związku samorządowego, może wydział powiatowy poruczyć gminom wiejskim za wynagrodzeniem do wysokości 3% sum, pobranych i wpłaconych ma rzecz powiatowego związku samorządowego.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "2",
+     "path": "pkt_2",
+     "text": "Wymiar, pobór i ściąśanie dodatków komunalnych do podatków i opłat państwowych uskutecznia ten sam organ urzędowy, który jest powołany do wymiaru, poboru i ściąśania tej daniny państwowej, z którą wiąże się dodatek.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "3",
+     "path": "pkt_3",
+     "text": "Uchylony.",
+     "children": []
+    },
+    {
+     "type": "pkt",
+     "num": "4",
+     "path": "pkt_4",
+     "text": "Notarjusze pobierają za czynności, wiążące się z wymiarem i poborem dodatków, wymienionych w art. 13 i 16, wynagrodzenia w wysokości 2% sum, wypłaconych związkom samorządowym tytułem tych dodatków. Przepisy niniejszego ustępu mają również zastosowanie do wymiaru i poboru podatków, wymienionych w art. 14 i 15.",
+     "children": []
     },
     {
      "type": "art",
@@ -2127,292 +2110,288 @@
        "num": "4",
        "path": "art_61/pkt_4",
        "text": "Kwoty wpłaconych zaliczek będą potrącone z należności wojewódzkich dodatków do podatków bezpośrednich.",
-       "children": [
-        {
-         "type": "text",
-         "text": "Część szósta."
-        },
-        {
-         "type": "text",
-         "text": "KARY."
-        },
-        {
-         "type": "text",
-         "text": "„Art. 62.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) Kto w zamiarze uchylenia się od obowiązku płacenia danin komunalnych składa wobec właściwej władzy samorządowej nieprawdziwe lub niezupełne zeznania, albo w tym samym zamiarze odma-",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "* wia odpowiedzi na określone pytania, albo usuwa przedmioty, podlegające daninom komunalnym, albo przedmiotów takich nie zgłasza do opodatkowania— podlega karze pieniężnej do wysokości 20-krotnej sumy daniny, utraconej lub na utratę narażonej.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) Kara nie uwalnia płatnika od obowiązku zapłacenia daniny.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) Współwinny podlega karze narówni ze",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "sprawcą.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 63.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Kto wezwany w charakterze świadka albo znawcy, w zamiarze uwolnienia innej osoby od obowiąziku płacenia danin komunalnych, wobec właściwej władzy samorządowej odmawia złożenia zeznania, lub składa fałszywe zeznanie — podlega karze pieniężnej do wysokości 1.037 zł 70 gr.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 64.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Kto, jako członek zarządu samorządowego, urzędnik lub funkcjonarjusz samorządowy, bez upoważnienia właściwej władzy ujawnia osobom niepowołanym okoliczności i danie, które doszły do jego wiadomości przy wykonywaniu czynności, wymienionych w art. 44, podlega karze aresztu, a w b. dzielnicy pruskiej — karze aresztu lub więzienia, na czas do trzech miesięcy i karze pieniężnej w wysokości do 1.037 zł 70 gr lub jednej z tych kar,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 65.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) Kary pieniężne za czyny, wymienione w art, 62 i 63, wymierza zarząd związku samorządowego,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) Do żądania strony rozpatrzenia sprawy w drodze sądowej ma zastosowanie art. 640 rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 marca 1928 r., zawierającego kodeks postępowania karnego (Dz. U. R. P. Nr. 33, poz. 313) w brzmieniu obwieszczenia Ministra Sprawiedliwości z dnia 30 września 1932 r. (Dz. U. R. P. Nr. 83, poz. 725).",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) Kary pieniężne, nałożone na mocy art. 62 i 63, podlegają egzekucji narówni z daninami komunalnemi i wpływają do kasy związku samorządowego, uprawnionego do poboru daniny.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "4) Do orzeczenia w sprawach o czyny, wymiemione w ant. 64, są wyłącznie właściwe sądy grodzkie,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 66.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Karę pieniężną, wymierzoną na mocy art. 62, 63 lub 64, w razie niemożności ściąśnięcia zamienia sąd grodzki na karę pozbawienia wolności nią czas do 3 miesięcy.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 67, —",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) W uchwałach związków samorządowych mogą być przewidziane kary porządkowe do wysokości 345 zł 90 gr za wykroczenia przeciwko przepisom o wymiarze i poborze danin komunalnych oraz statutom i uchwałom podatkowym, opartym na tych przepisach.",
-         "quoted": true
-        },
-        {
-         "type": "note",
-         "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
-        },
-        {
-         "type": "text",
-         "text": "2) Uchwały takie (ustęp 1) podlegają zatwierdzeniu władz nadzorczych.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) Kary wymierza zarząd związku samorządowego.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "4) Do kar, nałożonych na podstawie niniejszego artykułu, maja zastosowanie przepisy, zawarte w ust. 2 i 3 art. 65.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Część siódma.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "PRZEPISY OGÓLNE.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 68.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) Nieaktualny.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) Nieaktualny.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 69.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "O ile ustawy nałożą na związki samorządowe nowe zadania, winny one zapewnić dostateczne źródła dochodów na pokrycie wydatków, połączonych ze spełnieniem tych zadań.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 70.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) Budżet związków samorządowych winien być zarówno pod względem okresu budżetowego, jak i pod względem jednostki obliczeniowej dostosowany do budżetu Państwa.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) Rozporządzenie wykonawcze określi termin zarówno wyłożenia budżetu związków 'samorządowych do publicznej wiadomości, jak i uchwalenia budżetu.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art 71.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Wyrazy „związki samorządowe\", użyte w niniejszej ustawie bez bliższego określenia, oznaczają powiatowe ziwiazki samorządowe i wojewódzkie zwiiązki komunalne, jako też gminy wiejskie i miasta,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art, 72.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) Przepisy niniejszej ustawy, dotyczące miast, mają zastosowanie także do gmin wiejskich o charakterze miejskim, a przepisy niniejszej ustawy, dotyczące gmin wiejskich mają zastosowanie także do miast o charakterze wiejskim. Gminy wiejskie o charakterze miejskim, jako też miasta o charakterze wiejskim oznaczy Minister Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) Gminy wiejskie o charakterze miejskim mają prawo pobierać na swoją rzecz podatek od lokali na podstawie dekretu Prezydenta Rzeczypospolitej z dnia. 14 listopada 1935 r. o podatku od lokali (Dz. U. R.P. Nr. 82, poz. 505), zmienionego dekretem Prezydenta Rzeczypospolitej z dnia 14 stycznia 1936 r. o zmianie ordynacji podatkowej (Dz. U. R. P. Nr. 3, poz. 13), a to do takiej wysokości, w jakiej podatek ten w myśl wymienionego dekretu przypada miastom. Rozporządzenie Ministra Spraw Wewnętrznych, wydane w porozumieniu z Ministrem Skarbu, określi bliżej sposób wymiaru i poboru tego podatku.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Poz. 454 i 455 Nr. 62.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Część ósma.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "PRZEPISY KOŃCOWE.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Ant. 73.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Nieaktualny,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 74.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) Ustawa niniejsza obowiązuje na całym obszarze Rzeczypospolitej z wyjątkiem województwa śląskiego.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) Przepisy niniejszej ustawy, dotyczące b. dzielmicy austrjackiej, obowiązują także na ziemiach Spiszą i Orawy.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 75.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "1) Ustawa niniejsza wchodzi w życie z dniem ogłoszenia.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "2) Przepisy, dotyczące poboru podatków komunalnych, wymienionych w art. 2, 3, 4, 6,819 obowiązują od 1 stycznia 1923 r.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "3) Przepis art. 35 ustęp 2 obowiązuje również od dnia 1 stycznia 1923 r. z tem, że ustanowienie rocznych dotacyj dla wojewódzkich związków komunalnych w stałych kwotach ryczałtowych sa je od dnia 1 kwietnia 1932 r.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "4) Minister Spraw Wewnętrznych oznaczy w porozumieniu z Ministrem Skarbu termin, w którym nabiorą mocy SiĘ postanowienia, zawarte w art, 10.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art. 76.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Przepisy ustaw, sprzeczne z niniejszą ustawą, tracą moc obowiązującą. O ile inne ustawy powołują się na takie przepisy, należy zamiast nich odpowiednio stosować przepisy niniejszej ustawy.",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Art, 77,",
-         "quoted": true
-        },
-        {
-         "type": "text",
-         "text": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu.",
-         "quoted": true
-        }
-       ]
+       "children": []
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Część szósta",
+     "text": "KARY."
+    },
+    {
+     "type": "text",
+     "text": "„Art. 62.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) Kto w zamiarze uchylenia się od obowiązku płacenia danin komunalnych składa wobec właściwej władzy samorządowej nieprawdziwe lub niezupełne zeznania, albo w tym samym zamiarze odma-",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "* wia odpowiedzi na określone pytania, albo usuwa przedmioty, podlegające daninom komunalnym, albo przedmiotów takich nie zgłasza do opodatkowania— podlega karze pieniężnej do wysokości 20-krotnej sumy daniny, utraconej lub na utratę narażonej.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) Kara nie uwalnia płatnika od obowiązku zapłacenia daniny.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) Współwinny podlega karze narówni ze",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "sprawcą.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 63.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Kto wezwany w charakterze świadka albo znawcy, w zamiarze uwolnienia innej osoby od obowiąziku płacenia danin komunalnych, wobec właściwej władzy samorządowej odmawia złożenia zeznania, lub składa fałszywe zeznanie — podlega karze pieniężnej do wysokości 1.037 zł 70 gr.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 64.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Kto, jako członek zarządu samorządowego, urzędnik lub funkcjonarjusz samorządowy, bez upoważnienia właściwej władzy ujawnia osobom niepowołanym okoliczności i danie, które doszły do jego wiadomości przy wykonywaniu czynności, wymienionych w art. 44, podlega karze aresztu, a w b. dzielnicy pruskiej — karze aresztu lub więzienia, na czas do trzech miesięcy i karze pieniężnej w wysokości do 1.037 zł 70 gr lub jednej z tych kar,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 65.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) Kary pieniężne za czyny, wymienione w art, 62 i 63, wymierza zarząd związku samorządowego,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) Do żądania strony rozpatrzenia sprawy w drodze sądowej ma zastosowanie art. 640 rozporządzenia Prezydenta Rzeczypospolitej z dnia 19 marca 1928 r., zawierającego kodeks postępowania karnego (Dz. U. R. P. Nr. 33, poz. 313) w brzmieniu obwieszczenia Ministra Sprawiedliwości z dnia 30 września 1932 r. (Dz. U. R. P. Nr. 83, poz. 725).",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) Kary pieniężne, nałożone na mocy art. 62 i 63, podlegają egzekucji narówni z daninami komunalnemi i wpływają do kasy związku samorządowego, uprawnionego do poboru daniny.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) Do orzeczenia w sprawach o czyny, wymiemione w ant. 64, są wyłącznie właściwe sądy grodzkie,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 66.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Karę pieniężną, wymierzoną na mocy art. 62, 63 lub 64, w razie niemożności ściąśnięcia zamienia sąd grodzki na karę pozbawienia wolności nią czas do 3 miesięcy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 67, —",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) W uchwałach związków samorządowych mogą być przewidziane kary porządkowe do wysokości 345 zł 90 gr za wykroczenia przeciwko przepisom o wymiarze i poborze danin komunalnych oraz statutom i uchwałom podatkowym, opartym na tych przepisach.",
+     "quoted": true
+    },
+    {
+     "type": "note",
+     "text": "[Strona 14 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
+    },
+    {
+     "type": "text",
+     "text": "2) Uchwały takie (ustęp 1) podlegają zatwierdzeniu władz nadzorczych.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) Kary wymierza zarząd związku samorządowego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) Do kar, nałożonych na podstawie niniejszego artykułu, maja zastosowanie przepisy, zawarte w ust. 2 i 3 art. 65.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Część siódma.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "PRZEPISY OGÓLNE.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 68.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) Nieaktualny.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) Nieaktualny.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 69.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "O ile ustawy nałożą na związki samorządowe nowe zadania, winny one zapewnić dostateczne źródła dochodów na pokrycie wydatków, połączonych ze spełnieniem tych zadań.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 70.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) Budżet związków samorządowych winien być zarówno pod względem okresu budżetowego, jak i pod względem jednostki obliczeniowej dostosowany do budżetu Państwa.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) Rozporządzenie wykonawcze określi termin zarówno wyłożenia budżetu związków 'samorządowych do publicznej wiadomości, jak i uchwalenia budżetu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art 71.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Wyrazy „związki samorządowe\", użyte w niniejszej ustawie bez bliższego określenia, oznaczają powiatowe ziwiazki samorządowe i wojewódzkie zwiiązki komunalne, jako też gminy wiejskie i miasta,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 72.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) Przepisy niniejszej ustawy, dotyczące miast, mają zastosowanie także do gmin wiejskich o charakterze miejskim, a przepisy niniejszej ustawy, dotyczące gmin wiejskich mają zastosowanie także do miast o charakterze wiejskim. Gminy wiejskie o charakterze miejskim, jako też miasta o charakterze wiejskim oznaczy Minister Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) Gminy wiejskie o charakterze miejskim mają prawo pobierać na swoją rzecz podatek od lokali na podstawie dekretu Prezydenta Rzeczypospolitej z dnia. 14 listopada 1935 r. o podatku od lokali (Dz. U. R.P. Nr. 82, poz. 505), zmienionego dekretem Prezydenta Rzeczypospolitej z dnia 14 stycznia 1936 r. o zmianie ordynacji podatkowej (Dz. U. R. P. Nr. 3, poz. 13), a to do takiej wysokości, w jakiej podatek ten w myśl wymienionego dekretu przypada miastom. Rozporządzenie Ministra Spraw Wewnętrznych, wydane w porozumieniu z Ministrem Skarbu, określi bliżej sposób wymiaru i poboru tego podatku.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Poz. 454 i 455 Nr. 62.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Część ósma.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "PRZEPISY KOŃCOWE.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Ant. 73.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Nieaktualny,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 74.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) Ustawa niniejsza obowiązuje na całym obszarze Rzeczypospolitej z wyjątkiem województwa śląskiego.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) Przepisy niniejszej ustawy, dotyczące b. dzielmicy austrjackiej, obowiązują także na ziemiach Spiszą i Orawy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 75.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "1) Ustawa niniejsza wchodzi w życie z dniem ogłoszenia.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "2) Przepisy, dotyczące poboru podatków komunalnych, wymienionych w art. 2, 3, 4, 6,819 obowiązują od 1 stycznia 1923 r.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "3) Przepis art. 35 ustęp 2 obowiązuje również od dnia 1 stycznia 1923 r. z tem, że ustanowienie rocznych dotacyj dla wojewódzkich związków komunalnych w stałych kwotach ryczałtowych sa je od dnia 1 kwietnia 1932 r.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "4) Minister Spraw Wewnętrznych oznaczy w porozumieniu z Ministrem Skarbu termin, w którym nabiorą mocy SiĘ postanowienia, zawarte w art, 10.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art. 76.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Przepisy ustaw, sprzeczne z niniejszą ustawą, tracą moc obowiązującą. O ile inne ustawy powołują się na takie przepisy, należy zamiast nich odpowiednio stosować przepisy niniejszej ustawy.",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Art, 77,",
+     "quoted": true
+    },
+    {
+     "type": "text",
+     "text": "Wykonanie niniejszej ustawy porucza się Ministrowi Spraw Wewnętrznych w porozumieniu z Ministrem Skarbu.",
+     "quoted": true
     }
    ]
   }

@@ -21,11 +21,8 @@
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Dział pierwszy."
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Dział pierwszy",
    "text": "- Zasady ogólne,"
   },
   {
@@ -196,16 +193,13 @@
     {
      "type": "text",
      "text": "(3) Przepisy, zawarte w ustępie drugim niniejszego paragrafu, nie mają zastosowania do pojazdów rządowych, które będą oznaczone napisami lub tabliczkami w sposób ustanowiony przez właściwe władze centralne w porozumieniu z Ministrem Robót Publicznych i Ministrem Spraw Wewnętrznych,"
-    },
-    {
-     "type": "text",
-     "text": "Dział trzeci"
-    },
-    {
-     "type": "text",
-     "text": "Dopuszczanie pojazdów do ruchu."
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział trzeci",
+   "text": "Dopuszczanie pojazdów do ruchu."
   },
   {
    "type": "par",
@@ -1403,16 +1397,13 @@
     {
      "type": "text",
      "text": "(2) W skład komisji egzaminacyjnej dla kięrowców wojskowych wchodzi delegat: wojewódzkiej władzy administracji ógólnej z głosem decydującym w zakresie znajomości aa rat kosządkówych a na drogach publicznych. ' (3) Pozwolenia wojskowe na seowadsente pojazdów powinny odpowiadać pozwoleniom przewidzianym w niniejszem rozporządzeniu."
-    },
-    {
-     "type": "text",
-     "text": "Dział dziewiąty."
-    },
-    {
-     "type": "text",
-     "text": "Międzynarodowy ruch pojazdów,"
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Dział dziewiąty",
+   "text": "Międzynarodowy ruch pojazdów,"
   },
   {
    "type": "par",
@@ -1612,36 +1603,32 @@
    "num": "112",
    "path": "par_112",
    "text": "Winni przekroczenia przepisów niniejszego rozporządzenia będą karani 'w myśl postanowień rozdziału IV ustawy z dnia 7 października 1921 r. o przepisach porządkowych na drogach publicznych (Dz. U. R. P. Nr. 89, poz. 656) i w trybie przez tę ustawę przewidzianym.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Dział dwunasty."
-    },
-    {
-     "type": "text",
-     "text": "f"
-    },
-    {
-     "type": "text",
-     "text": "Ewidencja pojazdów i kierowców. § 113, Wojewódzkie władze administracji ogólnej powinny prowadzić księgi zarejestrowanych pojazdów i kierowców. —__ ."
-    },
-    {
-     "type": "text",
-     "text": "§ 114, Wojewódzkie władze administracji ogólnej powinny zawiadamiać komisarjat rządu miasta stołecznego Warszawy o każdem udzieleniu, przedłużeniu, odmówieniu udzielenia, czasowem odebraniu oraz cofnięciu pozwolenia na prowadzenie pójazdów, podając imię, nazwisko, rok urodzenia i adres kierowcy względnie osoby, której odmówiono udzielenia pozwolenia, oraz imiona jego rodziców, tudzież rodzaj i numer pozwolenia. § 115, Komisarjat rządu miasta stołecznego Warszawy powinien prowadzić wykaz osób, którym od dnia wejścia w życie niniejszego rozporządzenia udzielono, przedłużono, odmówiono, czasowo odebrano lub cofnięto pozwolenie na prowadzenie pojazdów na obszarze całej Rzeczypospolitej Polskiej."
-    },
-    {
-     "type": "text",
-     "text": "§ 116, Władze administracyjne obowiązane są zawiadamiać komisarjat rządu miasta stołecznego Warszawy o każdym wypadku ukarania kierowców pojazdów, podając imię, nazwisko, adres i rok urodzenia kierowcy, imiona jego rodziców oraz przepis naruszony i wymiar kary."
-    },
-    {
-     "type": "text",
-     "text": "§ 117, Komisarjat rządu miasta stołecznego Warszawy powinien prowadzić wykaz kierowców ojazdów, którzy zostali ukarani w drodze sądowej fub administracyjnej. / mom mA"
-    },
-    {
-     "type": "text",
-     "text": "\"Nr. 41."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Dział dwunasty",
+   "text": "f"
+  },
+  {
+   "type": "text",
+   "text": "Ewidencja pojazdów i kierowców. § 113, Wojewódzkie władze administracji ogólnej powinny prowadzić księgi zarejestrowanych pojazdów i kierowców. —__ ."
+  },
+  {
+   "type": "text",
+   "text": "§ 114, Wojewódzkie władze administracji ogólnej powinny zawiadamiać komisarjat rządu miasta stołecznego Warszawy o każdem udzieleniu, przedłużeniu, odmówieniu udzielenia, czasowem odebraniu oraz cofnięciu pozwolenia na prowadzenie pójazdów, podając imię, nazwisko, rok urodzenia i adres kierowcy względnie osoby, której odmówiono udzielenia pozwolenia, oraz imiona jego rodziców, tudzież rodzaj i numer pozwolenia. § 115, Komisarjat rządu miasta stołecznego Warszawy powinien prowadzić wykaz osób, którym od dnia wejścia w życie niniejszego rozporządzenia udzielono, przedłużono, odmówiono, czasowo odebrano lub cofnięto pozwolenie na prowadzenie pojazdów na obszarze całej Rzeczypospolitej Polskiej."
+  },
+  {
+   "type": "text",
+   "text": "§ 116, Władze administracyjne obowiązane są zawiadamiać komisarjat rządu miasta stołecznego Warszawy o każdym wypadku ukarania kierowców pojazdów, podając imię, nazwisko, adres i rok urodzenia kierowcy, imiona jego rodziców oraz przepis naruszony i wymiar kary."
+  },
+  {
+   "type": "text",
+   "text": "§ 117, Komisarjat rządu miasta stołecznego Warszawy powinien prowadzić wykaz kierowców ojazdów, którzy zostali ukarani w drodze sądowej fub administracyjnej. / mom mA"
+  },
+  {
+   "type": "text",
+   "text": "\"Nr. 41."
   },
   {
    "type": "par",

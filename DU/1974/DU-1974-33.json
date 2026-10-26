@@ -57,11 +57,8 @@
    "text": "[Strona 2 PDF jest skanem. Tekst poniżej odczytał OCR (tesseract 5.5.0, pol+eng), a nie warstwa tekstowa PDF. Może zawierać błędy i pomija grafikę. Wiążący jest PDF.]"
   },
   {
-   "type": "text",
-   "text": "Rozdział pierwszy"
-  },
-  {
-   "type": "text",
+   "type": "heading",
+   "label": "Rozdział pierwszy",
    "text": "POSTANOWIENIA OGÓLNE"
   },
   {
@@ -131,31 +128,27 @@
      "num": "2",
      "path": "art_4/ust_2",
      "text": "Postanowienia artykułów 31—35 stosuje się odpowiednio .do organów administracji Umawiających się Stron, jeżeli organy te są właściwe w sprawach opieki.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział drugi"
-      },
-      {
-       "type": "text",
-       "text": "OBRÓT PRAWNY"
-      },
-      {
-       "type": "text",
-       "text": ". Artykuł 5"
-      },
-      {
-       "type": "text",
-       "text": "Zakres obrotu prawnego Sądy Umawiających się Stron p wniosek udzielają sobie pomocy prawnej i dokonują doręczeń w sprawach cywilnych spornych, łącznie z egzekucyjnymi, oraz w sprawach niespornych, e"
-      },
-      {
-       "type": "text",
-       "text": "— Poz. 33."
-      }
-     ]
+     "children": []
     }
    ],
    "label": "Artykuł 4"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział drugi",
+   "text": "OBRÓT PRAWNY"
+  },
+  {
+   "type": "text",
+   "text": ". Artykuł 5"
+  },
+  {
+   "type": "text",
+   "text": "Zakres obrotu prawnego Sądy Umawiających się Stron p wniosek udzielają sobie pomocy prawnej i dokonują doręczeń w sprawach cywilnych spornych, łącznie z egzekucyjnymi, oraz w sprawach niespornych, e"
+  },
+  {
+   "type": "text",
+   "text": "— Poz. 33."
   },
   {
    "type": "art",
@@ -349,17 +342,14 @@
     {
      "type": "text",
      "text": "— Poz. 33:"
-    },
-    {
-     "type": "text",
-     "text": "Rozdział trzeci"
-    },
-    {
-     "type": "text",
-     "text": "ZWOLNIENIE OD ZABEZPIECZENIA KOSZTÓW PROCESU I WYKONYWANIE ORZECZEŃ O KOSZIACH"
     }
    ],
    "label": "Artykuł 13"
+  },
+  {
+   "type": "heading",
+   "label": "Rozdział trzeci",
+   "text": "ZWOLNIENIE OD ZABEZPIECZENIA KOSZTÓW PROCESU I WYKONYWANIE ORZECZEŃ O KOSZIACH"
   },
   {
    "type": "art",

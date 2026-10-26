@@ -138,11 +138,8 @@
      "text": "Postanowienia ogólne."
     },
     {
-     "type": "text",
-     "text": "Rozdział pierwszy."
-    },
-    {
-     "type": "text",
+     "type": "heading",
+     "label": "Rozdział pierwszy",
      "text": "Przedmioty opłat stemplowych."
     },
     {
@@ -222,16 +219,12 @@
      "num": "5",
      "path": "art_5",
      "text": "Pisma, sporządzone zagranicą, podlegają przepisom niniejszej ustawy tylko wówczas, śdy stwierdzają czynność prawną, tyczącą się przedmiotu, znajdującego się w Polsce, lub gdy zobowiązanie, z czynności prawnej wynikające, ma być wykonane albo jest wykonywane w Polsce. Pisma, sporządzone w Polsce przed konsułem obcego państwa, uważane będą — pod warunkiem wzajemności — za sporządzone zagranicą.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział drugi"
-      },
-      {
-       "type": "text",
-       "text": "Sposób obliczenia opłaty."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział drugi",
+     "text": "Sposób obliczenia opłaty."
     },
     {
      "type": "art",
@@ -396,16 +389,13 @@
       {
        "type": "text",
        "text": "Art 14. . Nie pobiera się opłaty stemplowej, wynoszącej mniej niż 10 groszy. Groszową końcówkę opłaty, obliczonej według właściwej stopy, przewidzianej w części drugiej ustawy niniejszej, jeżeli przewyższa 10 groszy, a jest niepodzielna przez 10, zaokrągla się wzwyż do kwoty w ten sposób podzielnej."
-      },
-      {
-       "type": "text",
-       "text": "Rozdział trzeci"
-      },
-      {
-       "type": "text",
-       "text": "Osoby, obowiązane do uiszczenia opłaty,"
       }
      ]
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział trzeci",
+     "text": "Osoby, obowiązane do uiszczenia opłaty,"
     },
     {
      "type": "art",
@@ -456,44 +446,40 @@
      "num": "16",
      "path": "art_16",
      "text": "Wolne są od obowiązku uiszczenia procentowej opłaty stemplowej od pisma, stwierdzającego umowę, obustronnie obowiązującą: fundacje, zakłady i zrzeszenia, prawnie istniejące i posiadające siedzibę w Polsce, których zadanie stanowi wyłącznie wykonywanie kultu religijnego albo działalność naukowa, oświatowa, dobroczynna lub mająca na celu prowadzenie szpitali (art. 3 lit. „a'” rozporządzenia Prezydenta Rzeczypospolitej z dnia 22 marca 1928 r. o zakładach leczniczych Dz. U, R. P. Nr. 38, poz. 382) lub nieobliczonych na zysk przychodni (art. 1 lit. „b” oraz art. 63 powołanego rozporządzenia). Minister Skarbu w porozumieniu z Ministrem Spraw Zagranicznych może przyznać powyższe uwolnienie również fundacjom, zakładom i zrzeszeniom tego rodzaju, mającym siedzibę zagranicą, „Kontrahent, zawierający umowę z osobą wolną od obowiązku uiszczenia opłaty, ma uiścić połowę opłaty, jeżeli sam nie jest zwolniony od obowiązku uiszczenia.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Rozdział czwarty."
-      },
-      {
-       "type": "text",
-       "text": "Uiszczenie opłaty stemplowej."
-      },
-      {
-       "type": "text",
-       "text": "A. Postanowienia ogólne."
-      },
-      {
-       "type": "text",
-       "text": "Art. 17,"
-      },
-      {
-       "type": "text",
-       "text": "Uiszczenie opłaty stemplowej następuje bądź według obliczenia podatnika — bez wymiaru urzędowego — bądź na zasadzie wymiaru, dokonanego przez właściwy organ urzędowy. Organami urzędowemi, właściwemi do wymierzania opłat stemplowych, są: notarjusze (art. 27), organa sądowe (art. 30), urzędy skarbowe (art. 23, 24, 33, 60, 102, 110, 124) i inne urzędy państwowe (art. 32, 61, 71, 109). Opłatę stemplową uiszcza się bądź przez użycie papieru stemplowego lub znaczków stemplowych bądź przez wpłacenie gotówką do kasy urzędu skarbowego lub do rąk innego organu, uprawnionego do poboru (specjalnego poborcy). Wybór sposobu uiszczenia opłaty należy do podatnika, o ile przepisy art. 18, 22, oraz 25 — 33, jako też właściwych rozdziałów części drugiej ustawy niniejszej nie wskazują, jaki z powyższych sposobów uiszczenia ma być zastosowany w przypadku poszczesśólnym."
-      },
-      {
-       "type": "text",
-       "text": "Art 18."
-      },
-      {
-       "type": "text",
-       "text": "Minister Skarbu określa rodzaje papieru stemplowego i znaczków stemplowych, sposób ich wyrobu, sprzedaży, użycia i urzędowego kasowania; określa również najwyższą kwotę opłaty, która może być uiszczona przez użycie papieru stemplowego lub znaczków stemplowych, tudzież najniższą kwotę, do której użycie papieru stemplowego lub znaczków -stemplowych jest obowiązujące."
-      },
-      {
-       "type": "text",
-       "text": "Art. 19,"
-      },
-      {
-       "type": "text",
-       "text": "O ile w części drugiej ustawy niniejszej, ani też w art. 25, 28, 29, 30, 32 i 33 nie wskazano, w jakim terminie należy uiścić opłatę stemplową, obowiązują postanowienia ogólne, zawarte w art. 20 — 22."
-      }
-     ]
+     "children": []
+    },
+    {
+     "type": "heading",
+     "label": "Rozdział czwarty",
+     "text": "Uiszczenie opłaty stemplowej."
+    },
+    {
+     "type": "text",
+     "text": "A. Postanowienia ogólne."
+    },
+    {
+     "type": "text",
+     "text": "Art. 17,"
+    },
+    {
+     "type": "text",
+     "text": "Uiszczenie opłaty stemplowej następuje bądź według obliczenia podatnika — bez wymiaru urzędowego — bądź na zasadzie wymiaru, dokonanego przez właściwy organ urzędowy. Organami urzędowemi, właściwemi do wymierzania opłat stemplowych, są: notarjusze (art. 27), organa sądowe (art. 30), urzędy skarbowe (art. 23, 24, 33, 60, 102, 110, 124) i inne urzędy państwowe (art. 32, 61, 71, 109). Opłatę stemplową uiszcza się bądź przez użycie papieru stemplowego lub znaczków stemplowych bądź przez wpłacenie gotówką do kasy urzędu skarbowego lub do rąk innego organu, uprawnionego do poboru (specjalnego poborcy). Wybór sposobu uiszczenia opłaty należy do podatnika, o ile przepisy art. 18, 22, oraz 25 — 33, jako też właściwych rozdziałów części drugiej ustawy niniejszej nie wskazują, jaki z powyższych sposobów uiszczenia ma być zastosowany w przypadku poszczesśólnym."
+    },
+    {
+     "type": "text",
+     "text": "Art 18."
+    },
+    {
+     "type": "text",
+     "text": "Minister Skarbu określa rodzaje papieru stemplowego i znaczków stemplowych, sposób ich wyrobu, sprzedaży, użycia i urzędowego kasowania; określa również najwyższą kwotę opłaty, która może być uiszczona przez użycie papieru stemplowego lub znaczków stemplowych, tudzież najniższą kwotę, do której użycie papieru stemplowego lub znaczków -stemplowych jest obowiązujące."
+    },
+    {
+     "type": "text",
+     "text": "Art. 19,"
+    },
+    {
+     "type": "text",
+     "text": "O ile w części drugiej ustawy niniejszej, ani też w art. 25, 28, 29, 30, 32 i 33 nie wskazano, w jakim terminie należy uiścić opłatę stemplową, obowiązują postanowienia ogólne, zawarte w art. 20 — 22."
     },
     {
      "type": "art",

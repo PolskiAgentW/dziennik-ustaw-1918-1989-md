@@ -190,18 +190,15 @@
       {
        "type": "text",
        "text": "ORDYNACJA POCZTOWA"
-      },
-      {
-       "type": "text",
-       "text": "Część pierwsza."
-      },
-      {
-       "type": "text",
-       "text": "POSTANOWIENIA WSTĘPNE."
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Część pierwsza",
+   "text": "POSTANOWIENIA WSTĘPNE."
   },
   {
    "type": "par",
@@ -231,20 +228,16 @@
    "num": "3",
    "path": "par_3",
    "text": "Każda miejscowość ma swą przynależność pocztową. Miejscowości, przydzielone do danego urzędu pocztowego, stanowią jego okrąg pocztowy. Okrąg pocztowy dzieli się na: miejscowy okrąg doręczeń i zamiejscowy okrąg pocztowy. Do miejscowego okręgu doręczeń należy zasadniczo zwarty zabudowany obszar miejscowości, w której ma siedzibę urząd pocztowy oraz obszar skupienia, obejmującego w jednej grupie najmniej 10 budynków, stojących od zwartego zabudowanego obszaru w promieniu 1 klm. Przydzielone do urzędu pocztowego miejscowości, znajdujące się poza jego miejscowym okręgiem doręczeń, stanowią zamiejscowy okrąg pocztowy. ; Jeżeli w okręgu pocztowym istnieje posrednic- . two pocztowe lub służba listonosza wiejskiego, to tworzy się pomocniczy okrąg pośrednictwa pocztowego lub okrąg doręczeń listonosza wiejskiego.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Część druga."
-    },
-    {
-     "type": "text",
-     "text": "POSTANOWIENIA OGÓLNE."
-    },
-    {
-     "type": "text",
-     "text": "Zakres czynności poczty."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Część druga",
+   "text": "POSTANOWIENIA OGÓLNE."
+  },
+  {
+   "type": "text",
+   "text": "Zakres czynności poczty."
   },
   {
    "type": "par",
@@ -583,22 +576,18 @@
      "num": "2",
      "path": "par_14/pkt_2",
      "text": "Zażalenia te załatwia naczelnik urzędu pocztowego lub właściwa dyrekcja poczt i telegrafów w drodze nadzoru służbowego.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Część trzecia."
-      },
-      {
-       "type": "text",
-       "text": "NALEŻNOŚCI POCZTOWE."
-      },
-      {
-       "type": "text",
-       "text": "Opłaty i dopłaty pocztowe, Wydatki."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Część trzecia",
+   "text": "NALEŻNOŚCI POCZTOWE."
+  },
+  {
+   "type": "text",
+   "text": "Opłaty i dopłaty pocztowe, Wydatki."
   },
   {
    "type": "par",
@@ -1051,20 +1040,16 @@
    "num": "40",
    "path": "par_40",
    "text": "Kwotę, jaką tytułem ryczałtu ma uiścić upoważniony do nadawania listowych przesyłek pocztowych za opłatą ryczałtową, ustala według obowiązującej taryfy Minister Poczt i Telegrafów. Ustalona przez Ministra Poczt i Telegrafów kwota ma być wpłacona najdalej w ciągu 15 dni, licząc od dnia następnego po doręczeniu odnośnego postanowienia Ministra Poczt i Telegratów.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Część czwarta."
-    },
-    {
-     "type": "text",
-     "text": "WARUNKI PRZYJĘCIA PRZESYŁEK DO PRZE- WOZU DROGĄ POCZTOWĄ."
-    },
-    {
-     "type": "text",
-     "text": "Postanowienia zasadnicze."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Część czwarta",
+   "text": "WARUNKI PRZYJĘCIA PRZESYŁEK DO PRZE- WOZU DROGĄ POCZTOWĄ."
+  },
+  {
+   "type": "text",
+   "text": "Postanowienia zasadnicze."
   },
   {
    "type": "par",
@@ -1422,24 +1407,20 @@
    "num": "64",
    "path": "par_64",
    "text": "Nie wolno na przesyłkach pocztowych umieszczać nadruków, znaczków lub nalepek, które mogłyby być przez pomyłkę uważane za znaczki pocztowe lub odciski, wykonane zapomocą maszyny do oznaczania kwoty uiszczonej opłaty.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Część piąta."
-    },
-    {
-     "type": "text",
-     "text": "POSTANOWIENIA O POSZCZEGÓLNYCH RO-"
-    },
-    {
-     "type": "text",
-     "text": "DZAJACH PRZESYŁEK POCZTOWYCH I WA- RUNKACH ICH PRZYJĘCIA."
-    },
-    {
-     "type": "text",
-     "text": "Przesyłki listowe."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Część piąta",
+   "text": "POSTANOWIENIA O POSZCZEGÓLNYCH RO-"
+  },
+  {
+   "type": "text",
+   "text": "DZAJACH PRZESYŁEK POCZTOWYCH I WA- RUNKACH ICH PRZYJĘCIA."
+  },
+  {
+   "type": "text",
+   "text": "Przesyłki listowe."
   },
   {
    "type": "par",
@@ -2940,20 +2921,16 @@
    "num": "157",
    "path": "par_157",
    "text": "Kartki zleceniowe wysyłać należy jako kartki polecone pod adresem urzędu pocztowego, mającego zainkasować od dłużnika kwotę zlecenia. Pobiera się za nie opłatę taryfową jak za polecone kartki pocztowe, jako też taryfową opłatę manipulacyjną. Opłaty te uiszcza nadawca przez nalepienie na kartce zleceniowej znaczków opłaty.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Część szósta."
-    },
-    {
-     "type": "text",
-     "text": "NADAWANIE PRZESYŁEK POCZTOWYCH."
-    },
-    {
-     "type": "text",
-     "text": "Nadawanie zwykłych przesyłek listowych."
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Część szósta",
+   "text": "NADAWANIE PRZESYŁEK POCZTOWYCH."
+  },
+  {
+   "type": "text",
+   "text": "Nadawanie zwykłych przesyłek listowych."
   },
   {
    "type": "par",
@@ -3658,22 +3635,18 @@
      "num": "7",
      "path": "par_198/pkt_7",
      "text": "a w wypadku pod 3) żądać zawiadomienia, któremu adresatowi paczkę doręczono, Nadawca umieszcza zarządzenie odręcznie, zapomocą odcisku stempla lub przez naklejenie odpowiedniej karteczki na stronie adresowej paczki, oraz zaznacza je przez podkreślenie lub też uzupełnienie odpowiedniego nadruku na odwrotnej stronie przynależnego do paczki adresu pomocniczego. Pod tekstem zarządzenia na paczce i adresie pomocniczym nadawca umieszcza swój podpis. Z dozwolonych zarządzeń nadawca może podać równocześnie kilka zarządzeń, z których następne zarządzenie wykonywa się tylko w razie niewykonalności poprzedniego. Niedozwolonych zarządzeń nie uwzględnia się.",
-     "children": [
-      {
-       "type": "text",
-       "text": "Część ósma."
-      },
-      {
-       "type": "text",
-       "text": "SZCZEGÓLNE UPRAWNIENIA NADAWCY I ADRESATA PO NADANIU PRZESYŁEK POCZ- TOWYCH."
-      },
-      {
-       "type": "text",
-       "text": "Żądanie zwrotnego poświadczenia odbioru lub wy» płaty."
-      }
-     ]
+     "children": []
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Część ósma",
+   "text": "SZCZEGÓLNE UPRAWNIENIA NADAWCY I ADRESATA PO NADANIU PRZESYŁEK POCZ- TOWYCH."
+  },
+  {
+   "type": "text",
+   "text": "Żądanie zwrotnego poświadczenia odbioru lub wy» płaty."
   },
   {
    "type": "par",
@@ -5877,20 +5850,16 @@
    "num": "326",
    "path": "par_326",
    "text": "Dosyłane paczki obciąża się opłatami, wskazanemi w § 343. Przy dosyłaniu przekazu pocztowego i telegraficznego drogą telegraficzna potrąca się z kwoty dosyłanego przekazu opłaty, wymienione w § 344. Wszelkie inne przesyłki dosyła się bezpłatnie.",
-   "children": [
-    {
-     "type": "text",
-     "text": "Część dziesiąta."
-    },
-    {
-     "type": "text",
-     "text": "PRZESYŁKI NIEDORĘCZALNE."
-    },
-    {
-     "type": "text",
-     "text": "Wypadki niedoręczalności,"
-    }
-   ]
+   "children": []
+  },
+  {
+   "type": "heading",
+   "label": "Część dziesiąta",
+   "text": "PRZESYŁKI NIEDORĘCZALNE."
+  },
+  {
+   "type": "text",
+   "text": "Wypadki niedoręczalności,"
   },
   {
    "type": "par",
@@ -6503,22 +6472,19 @@
       {
        "type": "text",
        "text": "Nr. 45,"
-      },
-      {
-       "type": "text",
-       "text": "Część jedenasta."
-      },
-      {
-       "type": "text",
-       "text": "SZCZEGÓLNE WYPADKI W RUCHU POCZTO-"
-      },
-      {
-       "type": "text",
-       "text": "Postępowanie z uszkodzonemi po nadaniu listami wartościowemi i paczkami."
       }
      ]
     }
    ]
+  },
+  {
+   "type": "heading",
+   "label": "Część jedenasta",
+   "text": "SZCZEGÓLNE WYPADKI W RUCHU POCZTO-"
+  },
+  {
+   "type": "text",
+   "text": "Postępowanie z uszkodzonemi po nadaniu listami wartościowemi i paczkami."
   },
   {
    "type": "par",
